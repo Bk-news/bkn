@@ -159,16 +159,16 @@
    }
   },
   "2026-10-31": {
-   "total": 320,
-   "news": 319,
+   "total": 321,
+   "news": 320,
    "articles": 1,
    "positive": 0,
-   "neutral": 320,
+   "neutral": 321,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 64,
-    "US": 51,
+    "US": 52,
     "HK": 4,
     "DE": 1,
     "FR": 7,
@@ -185,7 +185,7 @@
     "France 24": 1,
     "The Economist": 1,
     "DW.com": 1,
-    "Al-Monitor": 16,
+    "Al-Monitor": 17,
     "WSJ": 8,
     "BBC": 14,
     "Reuters": 18,
@@ -289,7 +289,7 @@
     ],
     "Al-Monitor": [
      0,
-     16,
+     17,
      0
     ],
     "WSJ": [
