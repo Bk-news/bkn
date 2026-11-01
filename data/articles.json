@@ -4,7 +4,7 @@
   "origin": "rss",
   "source": "The Economist",
   "author": "",
-  "title_ar": "The Global Liveability Index 2025 | EIU - The Economist",
+  "title_ar": "مؤشر قابلية العيش العالمي 2025 | وحدة الاستخبارات الاقتصادية - الإيكونوميست",
   "title_orig": "The Global Liveability Index 2025 | EIU - The Economist",
   "title_en": "The Global Liveability Index 2025 | EIU - The Economist",
   "summary_ar": [],
@@ -17,14 +17,15 @@
   "country": "GB",
   "pending": true,
   "desc": "The Global Liveability Index 2025 | EIU - The Economist &nbsp;&nbsp; The Economist",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "d54fe918c06da7db",
   "origin": "rss",
   "source": "Foreign Policy",
   "author": "",
-  "title_ar": "The Security Challenges Facing the Next Israeli Leader",
+  "title_ar": "التحديات الأمنية التي تواجه الزعيم الإسرائيلي المقبل",
   "title_orig": "The Security Challenges Facing the Next Israeli Leader",
   "title_en": "The Security Challenges Facing the Next Israeli Leader",
   "summary_ar": [],
@@ -37,14 +38,15 @@
   "country": "US",
   "pending": true,
   "desc": "The Security Challenges Facing the Next Israeli Leader &nbsp;&nbsp; Foreign Policy",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "8662640c082990bf",
   "origin": "rss",
   "source": "Atlantic Council",
   "author": "",
-  "title_ar": "As energy prices threaten inflation again, Lagarde’s European Central Bank legacy offers lessons",
+  "title_ar": "ومع تهديد أسعار الطاقة للتضخم مرة أخرى، يقدم إرث لاجارد للبنك المركزي الأوروبي دروسا",
   "title_orig": "As energy prices threaten inflation again, Lagarde’s European Central Bank legacy offers lessons",
   "title_en": "As energy prices threaten inflation again, Lagarde’s European Central Bank legacy offers lessons",
   "summary_ar": [],
@@ -57,14 +59,15 @@
   "country": "US",
   "pending": true,
   "desc": "As energy prices threaten inflation again, Lagarde’s European Central Bank legacy offers lessons &nbsp;&nbsp; Atlantic Council",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "beeb15a6bb3261f8",
   "origin": "rss",
   "source": "Atlantic Council",
   "author": "",
-  "title_ar": "Libya’s maritime deal with Turkey may be the key to reunification",
+  "title_ar": "قد يكون الاتفاق البحري بين ليبيا وتركيا هو المفتاح لإعادة التوحيد",
   "title_orig": "Libya’s maritime deal with Turkey may be the key to reunification",
   "title_en": "Libya’s maritime deal with Turkey may be the key to reunification",
   "summary_ar": [],
@@ -77,6 +80,7 @@
   "country": "US",
   "pending": true,
   "desc": "Libya’s maritime deal with Turkey may be the key to reunification &nbsp;&nbsp; Atlantic Council",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  }
 ]

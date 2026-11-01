@@ -9349,7 +9349,7 @@
   "origin": "rss",
   "source": "BBC",
   "author": "",
-  "title_ar": "US charge Kenyans wit fraud: Wetin be $130m ghost student loan scam wey allegedly involve Africans",
+  "title_ar": "الولايات المتحدة تتهم الكينيين بالاحتيال: ويزعم أن عملية احتيال قروض الطلاب الوهمية بقيمة 130 مليون دولار تشمل الأفارقة",
   "title_orig": "US charge Kenyans wit fraud: Wetin be $130m ghost student loan scam wey allegedly involve Africans",
   "title_en": "US charge Kenyans wit fraud: Wetin be $130m ghost student loan scam wey allegedly involve Africans",
   "summary_ar": [],
@@ -9362,7 +9362,8 @@
   "country": "GB",
   "pending": true,
   "desc": "US charge Kenyans wit fraud: Wetin be $130m ghost student loan scam wey allegedly involve Africans &nbsp;&nbsp; BBC",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "22f35c463c3f2c45",
@@ -9390,7 +9391,7 @@
   "origin": "rss",
   "source": "Al-Monitor",
   "author": "",
-  "title_ar": "Oil tops $114 as traders brace for Iran escalation after US midterms",
+  "title_ar": "النفط يتجاوز 114 دولارًا مع استعداد المتداولين للتصعيد الإيراني بعد الانتخابات النصفية الأمريكية",
   "title_orig": "Oil tops $114 as traders brace for Iran escalation after US midterms",
   "title_en": "Oil tops $114 as traders brace for Iran escalation after US midterms",
   "summary_ar": [],
@@ -9403,14 +9404,15 @@
   "country": "US",
   "pending": true,
   "desc": "Oil tops $114 as traders brace for Iran escalation after US midterms &nbsp;&nbsp; Al-Monitor",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "a009d34461a564de",
   "origin": "rss",
   "source": "Reuters",
   "author": "",
-  "title_ar": "G20 foreign ministers skip photo-op amid objections over Russia",
+  "title_ar": "وزراء خارجية مجموعة العشرين يغيبون عن التقاط الصور وسط اعتراضات على روسيا",
   "title_orig": "G20 foreign ministers skip photo-op amid objections over Russia",
   "title_en": "G20 foreign ministers skip photo-op amid objections over Russia",
   "summary_ar": [],
@@ -9423,14 +9425,15 @@
   "country": "GB",
   "pending": true,
   "desc": "G20 foreign ministers skip photo-op amid objections over Russia &nbsp;&nbsp; Reuters",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "427dbf21db806e39",
   "origin": "rss",
   "source": "Al-Monitor",
   "author": "",
-  "title_ar": "Brazil's Lula to attend UN COP31 climate summit in Turkey",
+  "title_ar": "الرئيس البرازيلي يحضر قمة المناخ COP31 للأمم المتحدة في تركيا",
   "title_orig": "Brazil's Lula to attend UN COP31 climate summit in Turkey",
   "title_en": "Brazil's Lula to attend UN COP31 climate summit in Turkey",
   "summary_ar": [],
@@ -9443,14 +9446,15 @@
   "country": "US",
   "pending": true,
   "desc": "Brazil's Lula to attend UN COP31 climate summit in Turkey &nbsp;&nbsp; Al-Monitor",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "605c54a027b4db22",
   "origin": "rss",
   "source": "WSJ",
   "author": "",
-  "title_ar": "Ukraine Hits Russian Oil Refinery, Ending Pause and Defying Trump",
+  "title_ar": "أوكرانيا تضرب مصفاة النفط الروسية وتنهي التوقف وتتحدى ترامب",
   "title_orig": "Ukraine Hits Russian Oil Refinery, Ending Pause and Defying Trump",
   "title_en": "Ukraine Hits Russian Oil Refinery, Ending Pause and Defying Trump",
   "summary_ar": [],
@@ -9463,14 +9467,15 @@
   "country": "US",
   "pending": true,
   "desc": "Ukraine Hits Russian Oil Refinery, Ending Pause and Defying Trump &nbsp;&nbsp; WSJ",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "9113551674cf78bd",
   "origin": "rss",
   "source": "The Guardian",
   "author": "",
-  "title_ar": "Australia set 288 to win on final day after South African centurions turn tide",
+  "title_ar": "حددت أستراليا 288 نقطة للفوز في اليوم الأخير بعد أن تحول قادة جنوب إفريقيا إلى المد",
   "title_orig": "Australia set 288 to win on final day after South African centurions turn tide",
   "title_en": "Australia set 288 to win on final day after South African centurions turn tide",
   "summary_ar": [],
@@ -9483,7 +9488,8 @@
   "country": "GB",
   "pending": true,
   "desc": "Australia set 288 to win on final day after South African centurions turn tide &nbsp;&nbsp; The Guardian",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "20685b6c62d7b02a",
@@ -9511,7 +9517,7 @@
   "origin": "rss",
   "source": "AP News",
   "author": "",
-  "title_ar": "Middle East reacts to Israel’s election results",
+  "title_ar": "الشرق الأوسط يتفاعل مع نتائج الانتخابات الإسرائيلية",
   "title_orig": "Middle East reacts to Israel’s election results",
   "title_en": "Middle East reacts to Israel’s election results",
   "summary_ar": [],
@@ -9524,14 +9530,15 @@
   "country": "US",
   "pending": true,
   "desc": "Middle East reacts to Israel’s election results &nbsp;&nbsp; AP News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "567372888b82281c",
   "origin": "rss",
   "source": "Reuters",
   "author": "",
-  "title_ar": "USMNT star Christian Pulisic inks new deal with AC Milan",
+  "title_ar": "وقع نجم USMNT كريستيان بوليسيتش على عقد جديد مع ميلان",
   "title_orig": "USMNT star Christian Pulisic inks new deal with AC Milan",
   "title_en": "USMNT star Christian Pulisic inks new deal with AC Milan",
   "summary_ar": [],
@@ -9544,14 +9551,15 @@
   "country": "GB",
   "pending": true,
   "desc": "USMNT star Christian Pulisic inks new deal with AC Milan &nbsp;&nbsp; Reuters",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "de92ffea3619712d",
   "origin": "rss",
   "source": "Le Monde.fr",
   "author": "",
-  "title_ar": "Le Sénégal « 100 % prêt » à accueillir les Jeux olympiques de la jeunesse, malgré les tensions sociales",
+  "title_ar": "السنغال « 100% جاهزة » لاستقبال الألعاب الأولمبية للشباب، وإزالة التوترات الاجتماعية",
   "title_orig": "Le Sénégal « 100 % prêt » à accueillir les Jeux olympiques de la jeunesse, malgré les tensions sociales",
   "title_en": "",
   "summary_ar": [],
@@ -9564,7 +9572,8 @@
   "country": "FR",
   "pending": true,
   "desc": "Le Sénégal « 100 % prêt » à accueillir les Jeux olympiques de la jeunesse, malgré les tensions sociales &nbsp;&nbsp; Le Monde.fr",
-  "lang": "fr"
+  "lang": "fr",
+  "mt": true
  },
  {
   "id": "889eb68c26c67884",
@@ -9655,7 +9664,7 @@
   "origin": "rss",
   "source": "Reuters",
   "author": "",
-  "title_ar": "UAE says oil leak from tanker has been stopped, pollution eases",
+  "title_ar": "الإمارات تقول إنه تم وقف تسرب النفط من الناقلة وتراجع التلوث",
   "title_orig": "UAE says oil leak from tanker has been stopped, pollution eases",
   "title_en": "UAE says oil leak from tanker has been stopped, pollution eases",
   "summary_ar": [],
@@ -9668,7 +9677,8 @@
   "country": "GB",
   "pending": true,
   "desc": "UAE says oil leak from tanker has been stopped, pollution eases &nbsp;&nbsp; Reuters",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "959c5f5ea3a257c5",
@@ -9717,7 +9727,7 @@
   "origin": "rss",
   "source": "Bloomberg.com",
   "author": "",
-  "title_ar": "Eissa Bin Abdullah Al-Dhufayan, National Co for Learning & Education: Profile and Biography",
+  "title_ar": "عيسى بن عبد الله الضحيان، الشركة الوطنية للتربية والتعليم: السيرة الذاتية والسيرة الذاتية",
   "title_orig": "Eissa Bin Abdullah Al-Dhufayan, National Co for Learning & Education: Profile and Biography",
   "title_en": "Eissa Bin Abdullah Al-Dhufayan, National Co for Learning & Education: Profile and Biography",
   "summary_ar": [],
@@ -9730,14 +9740,15 @@
   "country": "US",
   "pending": true,
   "desc": "Eissa Bin Abdullah Al-Dhufayan, National Co for Learning & Education: Profile and Biography &nbsp;&nbsp; Bloomberg.com",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "028a4f02b02f7c8a",
   "origin": "rss",
   "source": "The Washington Post",
   "author": "",
-  "title_ar": "The top D.C.-area concerts to see in November",
+  "title_ar": "أفضل الحفلات الموسيقية في منطقة العاصمة التي يمكنك مشاهدتها في نوفمبر",
   "title_orig": "The top D.C.-area concerts to see in November",
   "title_en": "The top D.C.-area concerts to see in November",
   "summary_ar": [],
@@ -9750,14 +9761,15 @@
   "country": "US",
   "pending": true,
   "desc": "The top D.C.-area concerts to see in November &nbsp;&nbsp; The Washington Post",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "ffcfa21717771e30",
   "origin": "rss",
   "source": "The Guardian",
   "author": "",
-  "title_ar": "England rugby league reaches defining moment after men face early World Cup exit",
+  "title_ar": "يصل دوري الرجبي الإنجليزي إلى اللحظة الحاسمة بعد أن يواجه الرجال الخروج المبكر من كأس العالم",
   "title_orig": "England rugby league reaches defining moment after men face early World Cup exit",
   "title_en": "England rugby league reaches defining moment after men face early World Cup exit",
   "summary_ar": [],
@@ -9770,14 +9782,15 @@
   "country": "GB",
   "pending": true,
   "desc": "England rugby league reaches defining moment after men face early World Cup exit &nbsp;&nbsp; The Guardian",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "e45a881c00ceaf9f",
   "origin": "rss",
   "source": "CNN",
   "author": "",
-  "title_ar": "Pregnant women in Yemen forced to give birth with no medical help",
+  "title_ar": "النساء الحوامل في اليمن يُجبرن على الولادة دون مساعدة طبية",
   "title_orig": "Pregnant women in Yemen forced to give birth with no medical help",
   "title_en": "Pregnant women in Yemen forced to give birth with no medical help",
   "summary_ar": [],
@@ -9790,14 +9803,15 @@
   "country": "US",
   "pending": true,
   "desc": "Pregnant women in Yemen forced to give birth with no medical help &nbsp;&nbsp; CNN",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "cb7c19cdd3933ff7",
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Hackers steal $6.3 billion from Binance in record heist blamed on North Korea",
+  "title_ar": "سرق قراصنة 6.3 مليار دولار من منصة Binance في عملية سرقة قياسية ألقي باللوم فيها على كوريا الشمالية",
   "title_orig": "Hackers steal $6.3 billion from Binance in record heist blamed on North Korea",
   "title_en": "Hackers steal $6.3 billion from Binance in record heist blamed on North Korea",
   "summary_ar": [],
@@ -9810,7 +9824,8 @@
   "country": "SA",
   "pending": true,
   "desc": "Hackers steal $6.3 billion from Binance in record heist blamed on North Korea &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "eefc05e5911e429f",
@@ -9880,7 +9895,7 @@
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Stock up on essentials and ‘Be Ready’ because adversity is coming",
+  "title_ar": "قم بتخزين الأساسيات و\"كن جاهزًا\" لأن الشدائد قادمة",
   "title_orig": "Stock up on essentials and ‘Be Ready’ because adversity is coming",
   "title_en": "Stock up on essentials and ‘Be Ready’ because adversity is coming",
   "summary_ar": [],
@@ -9893,14 +9908,15 @@
   "country": "SA",
   "pending": true,
   "desc": "Stock up on essentials and ‘Be Ready’ because adversity is coming &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "a132b232f3d2b2e6",
   "origin": "rss",
   "source": "Reuters",
   "author": "",
-  "title_ar": "Oil jumps 2%, settles at 6-month highs on fears of escalation in Iran",
+  "title_ar": "النفط يقفز 2% ويستقر عند أعلى مستوياته في 6 أشهر وسط مخاوف من التصعيد في إيران",
   "title_orig": "Oil jumps 2%, settles at 6-month highs on fears of escalation in Iran",
   "title_en": "Oil jumps 2%, settles at 6-month highs on fears of escalation in Iran",
   "summary_ar": [],
@@ -9913,7 +9929,8 @@
   "country": "GB",
   "pending": true,
   "desc": "Oil jumps 2%, settles at 6-month highs on fears of escalation in Iran &nbsp;&nbsp; Reuters",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "03fa27d4e4deafdd",
@@ -9962,7 +9979,7 @@
   "origin": "rss",
   "source": "The Guardian",
   "author": "",
-  "title_ar": "Beach volleyball in Morecambe Bay? An Olympics of the north sounds like a winner | Emma John",
+  "title_ar": "الكرة الطائرة الشاطئية في خليج موركامب؟ الألعاب الأولمبية في الشمال تبدو وكأنها فائز | إيما جون",
   "title_orig": "Beach volleyball in Morecambe Bay? An Olympics of the north sounds like a winner | Emma John",
   "title_en": "Beach volleyball in Morecambe Bay? An Olympics of the north sounds like a winner | Emma John",
   "summary_ar": [],
@@ -9975,14 +9992,15 @@
   "country": "GB",
   "pending": true,
   "desc": "Beach volleyball in Morecambe Bay? An Olympics of the north sounds like a winner | Emma John &nbsp;&nbsp; The Guardian",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "08df4398f9318bb1",
   "origin": "rss",
   "source": "The Guardian",
   "author": "",
-  "title_ar": "Antonelli set for F1 title, Premier League, and NFL action – follow with us",
+  "title_ar": "أنتونيلي يستعد للفوز بلقب الفورمولا 1 والدوري الإنجليزي الممتاز ودوري كرة القدم الأمريكية - تابع معنا",
   "title_orig": "Antonelli set for F1 title, Premier League, and NFL action – follow with us",
   "title_en": "Antonelli set for F1 title, Premier League, and NFL action – follow with us",
   "summary_ar": [],
@@ -9995,14 +10013,15 @@
   "country": "GB",
   "pending": true,
   "desc": "Antonelli set for F1 title, Premier League, and NFL action – follow with us &nbsp;&nbsp; The Guardian",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "4b5453e49b26952d",
   "origin": "rss",
   "source": "The Guardian",
   "author": "",
-  "title_ar": "Fifa to miss equal Women’s World Cup prize money ambition set by Infantino",
+  "title_ar": "الفيفا سيغيب عن الطموح المالي المتساوي لكأس العالم للسيدات الذي حدده إنفانتينو",
   "title_orig": "Fifa to miss equal Women’s World Cup prize money ambition set by Infantino",
   "title_en": "Fifa to miss equal Women’s World Cup prize money ambition set by Infantino",
   "summary_ar": [],
@@ -10015,14 +10034,15 @@
   "country": "GB",
   "pending": true,
   "desc": "Fifa to miss equal Women’s World Cup prize money ambition set by Infantino &nbsp;&nbsp; The Guardian",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "3e2fe57757b7a2e3",
   "origin": "rss",
   "source": "BBC",
   "author": "",
-  "title_ar": "WBC middleweight champions Adames to face Warburton in non-title bout",
+  "title_ar": "أبطال WBC للوزن المتوسط آدامز سيواجهون واربورتون في مباراة غير متعلقة باللقب",
   "title_orig": "WBC middleweight champions Adames to face Warburton in non-title bout",
   "title_en": "WBC middleweight champions Adames to face Warburton in non-title bout",
   "summary_ar": [],
@@ -10035,14 +10055,15 @@
   "country": "GB",
   "pending": true,
   "desc": "WBC middleweight champions Adames to face Warburton in non-title bout &nbsp;&nbsp; BBC",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "9ce689bcf55e562c",
   "origin": "rss",
   "source": "BBC",
   "author": "",
-  "title_ar": "Demarai Gray: Birmingham City 'togetherness' is the key",
+  "title_ar": "ديماري جراي: \"العمل الجماعي\" في مدينة برمنغهام هو المفتاح",
   "title_orig": "Demarai Gray: Birmingham City 'togetherness' is the key",
   "title_en": "Demarai Gray: Birmingham City 'togetherness' is the key",
   "summary_ar": [],
@@ -10055,14 +10076,15 @@
   "country": "GB",
   "pending": true,
   "desc": "Demarai Gray: Birmingham City 'togetherness' is the key &nbsp;&nbsp; BBC",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "8e54596c7c84a459",
   "origin": "rss",
   "source": "AP News",
   "author": "",
-  "title_ar": "ExxonMobil and Chevron top Q3 estimates on higher prices and strong output",
+  "title_ar": "أعلى تقديرات إكسون موبيل وشيفرون للربع الثالث بسبب ارتفاع الأسعار والإنتاج القوي",
   "title_orig": "ExxonMobil and Chevron top Q3 estimates on higher prices and strong output",
   "title_en": "ExxonMobil and Chevron top Q3 estimates on higher prices and strong output",
   "summary_ar": [],
@@ -10075,14 +10097,15 @@
   "country": "US",
   "pending": true,
   "desc": "ExxonMobil and Chevron top Q3 estimates on higher prices and strong output &nbsp;&nbsp; AP News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "9ac8933c4cf14c18",
   "origin": "rss",
   "source": "Bloomberg.com",
   "author": "",
-  "title_ar": "Canada Railways’ Strong Earnings Show Resilience Amid US Tariffs",
+  "title_ar": "تظهر الأرباح القوية لشركة السكك الحديدية الكندية مرونة وسط التعريفات الأمريكية",
   "title_orig": "Canada Railways’ Strong Earnings Show Resilience Amid US Tariffs",
   "title_en": "Canada Railways’ Strong Earnings Show Resilience Amid US Tariffs",
   "summary_ar": [],
@@ -10095,7 +10118,8 @@
   "country": "US",
   "pending": true,
   "desc": "Canada Railways’ Strong Earnings Show Resilience Amid US Tariffs &nbsp;&nbsp; Bloomberg.com",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "628a219f6e2130c5",
@@ -10123,7 +10147,7 @@
   "origin": "rss",
   "source": "Al-Monitor",
   "author": "",
-  "title_ar": "How Netanyahu is trying to discredit Arab parties in bid to block Eisenkot",
+  "title_ar": "كيف يحاول نتنياهو تشويه سمعة الأحزاب العربية في محاولة لعرقلة آيزنكوت",
   "title_orig": "How Netanyahu is trying to discredit Arab parties in bid to block Eisenkot",
   "title_en": "How Netanyahu is trying to discredit Arab parties in bid to block Eisenkot",
   "summary_ar": [],
@@ -10136,14 +10160,15 @@
   "country": "US",
   "pending": true,
   "desc": "How Netanyahu is trying to discredit Arab parties in bid to block Eisenkot &nbsp;&nbsp; Al-Monitor",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "b4890e92b4f319fd",
   "origin": "rss",
   "source": "Al-Monitor",
   "author": "",
-  "title_ar": "Dockworkers strike in Europe and beyond against arms shipments, war deaths",
+  "title_ar": "يضرب عمال الرصيف في أوروبا وخارجها ضد شحنات الأسلحة ووفيات الحرب",
   "title_orig": "Dockworkers strike in Europe and beyond against arms shipments, war deaths",
   "title_en": "Dockworkers strike in Europe and beyond against arms shipments, war deaths",
   "summary_ar": [],
@@ -10156,14 +10181,15 @@
   "country": "US",
   "pending": true,
   "desc": "Dockworkers strike in Europe and beyond against arms shipments, war deaths &nbsp;&nbsp; Al-Monitor",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "6d370c4d36379f62",
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Drone strikes in Ethiopia kill at least 25",
+  "title_ar": "مقتل 25 شخصا على الأقل في غارات بطائرات بدون طيار في إثيوبيا",
   "title_orig": "Drone strikes in Ethiopia kill at least 25",
   "title_en": "Drone strikes in Ethiopia kill at least 25",
   "summary_ar": [],
@@ -10176,14 +10202,15 @@
   "country": "SA",
   "pending": true,
   "desc": "Drone strikes in Ethiopia kill at least 25 &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "be5d8ae147f3ea94",
   "origin": "rss",
   "source": "Bloomberg",
   "author": "",
-  "title_ar": "Why Electronic Arts Shut Down BioWare And Cancelled ‘Mass Effect’",
+  "title_ar": "لماذا قامت شركة Electronic Arts بإغلاق برنامج BioWare وإلغاء لعبة Mass Effect؟",
   "title_orig": "Why Electronic Arts Shut Down BioWare And Cancelled ‘Mass Effect’",
   "title_en": "Why Electronic Arts Shut Down BioWare And Cancelled ‘Mass Effect’",
   "summary_ar": [],
@@ -10196,14 +10223,15 @@
   "country": "US",
   "pending": true,
   "desc": "Why Electronic Arts Shut Down BioWare And Cancelled ‘Mass Effect’ &nbsp;&nbsp; Bloomberg",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "3bb31e7c236d498c",
   "origin": "rss",
   "source": "BBC",
   "author": "",
-  "title_ar": "Caf reverse Afcon four years decision: Why Caf make U-turn to organise Africa Cup of Nations every two years",
+  "title_ar": "Caf يتراجع عن قرار Afcon لمدة أربع سنوات: لماذا يتراجع Caf لتنظيم كأس الأمم الأفريقية كل عامين",
   "title_orig": "Caf reverse Afcon four years decision: Why Caf make U-turn to organise Africa Cup of Nations every two years",
   "title_en": "Caf reverse Afcon four years decision: Why Caf make U-turn to organise Africa Cup of Nations every two years",
   "summary_ar": [],
@@ -10216,7 +10244,8 @@
   "country": "GB",
   "pending": true,
   "desc": "Caf reverse Afcon four years decision: Why Caf make U-turn to organise Africa Cup of Nations every two years &nbsp;&nbsp; BBC",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "abcca841648a0379",
@@ -10244,7 +10273,7 @@
   "origin": "rss",
   "source": "Al-Monitor",
   "author": "",
-  "title_ar": "Arab parties key in Israel’s coalition fight",
+  "title_ar": "الأحزاب العربية تلعب دوراً رئيسياً في معركة التحالف الإسرائيلي",
   "title_orig": "Arab parties key in Israel’s coalition fight",
   "title_en": "Arab parties key in Israel’s coalition fight",
   "summary_ar": [],
@@ -10257,14 +10286,15 @@
   "country": "US",
   "pending": true,
   "desc": "Arab parties key in Israel’s coalition fight &nbsp;&nbsp; Al-Monitor",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "a7c4ca727a46d185",
   "origin": "rss",
   "source": "Al-Monitor",
   "author": "",
-  "title_ar": "Britain bars entry to Swedish academic ahead of appearance with Palestine Action founder",
+  "title_ar": "بريطانيا تمنع دخول أكاديمي سويدي قبل ظهوره مع مؤسس منظمة العمل الفلسطيني",
   "title_orig": "Britain bars entry to Swedish academic ahead of appearance with Palestine Action founder",
   "title_en": "Britain bars entry to Swedish academic ahead of appearance with Palestine Action founder",
   "summary_ar": [],
@@ -10277,14 +10307,15 @@
   "country": "US",
   "pending": true,
   "desc": "Britain bars entry to Swedish academic ahead of appearance with Palestine Action founder &nbsp;&nbsp; Al-Monitor",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "03d882f0cc29a860",
   "origin": "rss",
   "source": "Al-Monitor",
   "author": "",
-  "title_ar": "Syria flash floods kill at least 5, force hundreds of families from camps",
+  "title_ar": "الفيضانات المفاجئة في سوريا تقتل 5 أشخاص على الأقل، وتجبر مئات العائلات على ترك المخيمات",
   "title_orig": "Syria flash floods kill at least 5, force hundreds of families from camps",
   "title_en": "Syria flash floods kill at least 5, force hundreds of families from camps",
   "summary_ar": [],
@@ -10297,7 +10328,8 @@
   "country": "US",
   "pending": true,
   "desc": "Syria flash floods kill at least 5, force hundreds of families from camps &nbsp;&nbsp; Al-Monitor",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "331afb603d890cce",
@@ -10325,7 +10357,7 @@
   "origin": "rss",
   "source": "Bloomberg.com",
   "author": "",
-  "title_ar": "Qatari Delegation in Iran for Talks as US Strike Fears Mount",
+  "title_ar": "وفد قطري في إيران لإجراء محادثات مع تزايد المخاوف من الضربة الأمريكية",
   "title_orig": "Qatari Delegation in Iran for Talks as US Strike Fears Mount",
   "title_en": "Qatari Delegation in Iran for Talks as US Strike Fears Mount",
   "summary_ar": [],
@@ -10338,14 +10370,15 @@
   "country": "US",
   "pending": true,
   "desc": "Qatari Delegation in Iran for Talks as US Strike Fears Mount &nbsp;&nbsp; Bloomberg.com",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "0a3de726a85babb9",
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Saudi foreign minister arrives in Atlanta for G20 meeting",
+  "title_ar": "وزير الخارجية السعودي يصل أتلانتا لحضور اجتماع مجموعة العشرين",
   "title_orig": "Saudi foreign minister arrives in Atlanta for G20 meeting",
   "title_en": "Saudi foreign minister arrives in Atlanta for G20 meeting",
   "summary_ar": [],
@@ -10358,7 +10391,8 @@
   "country": "SA",
   "pending": true,
   "desc": "Saudi foreign minister arrives in Atlanta for G20 meeting &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "b6bae13114eb0470",
@@ -10386,7 +10420,7 @@
   "origin": "rss",
   "source": "BBC",
   "author": "",
-  "title_ar": "Miss Universe 2026: Nigerian mother and daughter wey win same beauty pageant for different generation",
+  "title_ar": "ملكة جمال الكون 2026: أم نيجيرية وابنتها تفوزان بنفس مسابقة ملكة الجمال لأجيال مختلفة",
   "title_orig": "Miss Universe 2026: Nigerian mother and daughter wey win same beauty pageant for different generation",
   "title_en": "Miss Universe 2026: Nigerian mother and daughter wey win same beauty pageant for different generation",
   "summary_ar": [],
@@ -10399,7 +10433,8 @@
   "country": "GB",
   "pending": true,
   "desc": "Miss Universe 2026: Nigerian mother and daughter wey win same beauty pageant for different generation &nbsp;&nbsp; BBC",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "118cc324cfb5ec6b",
@@ -10427,7 +10462,7 @@
   "origin": "rss",
   "source": "WSJ",
   "author": "",
-  "title_ar": "LyondellBasell Revenue Rises; Warns of Slow Recovery in Middle East",
+  "title_ar": "ارتفاع إيرادات ليوندل باسل؛ يحذر من انتعاش بطيء في الشرق الأوسط",
   "title_orig": "LyondellBasell Revenue Rises; Warns of Slow Recovery in Middle East",
   "title_en": "LyondellBasell Revenue Rises; Warns of Slow Recovery in Middle East",
   "summary_ar": [],
@@ -10440,7 +10475,8 @@
   "country": "US",
   "pending": true,
   "desc": "LyondellBasell Revenue Rises; Warns of Slow Recovery in Middle East &nbsp;&nbsp; WSJ",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "7a8e9750411e95c7",
