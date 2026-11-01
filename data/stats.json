@@ -159,11 +159,11 @@
    }
   },
   "2026-10-31": {
-   "total": 323,
-   "news": 322,
+   "total": 324,
+   "news": 323,
    "articles": 1,
    "positive": 0,
-   "neutral": 323,
+   "neutral": 324,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -172,7 +172,7 @@
     "HK": 4,
     "DE": 1,
     "FR": 7,
-    "GB": 132
+    "GB": 133
    },
    "topics": {},
    "sources": {
@@ -188,7 +188,7 @@
     "Al-Monitor": 17,
     "WSJ": 8,
     "BBC": 14,
-    "Reuters": 20,
+    "Reuters": 21,
     "Financial Times": 75,
     "باسنیوز": 1,
     "The Guardian": 23,
@@ -304,7 +304,7 @@
     ],
     "Reuters": [
      0,
-     20,
+     21,
      0
     ],
     "Financial Times": [
@@ -565,11 +565,11 @@
    }
   },
   "2026-11-01": {
-   "total": 375,
-   "news": 373,
+   "total": 376,
+   "news": 374,
    "articles": 2,
    "positive": 0,
-   "neutral": 375,
+   "neutral": 376,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -716,7 +716,8 @@
     "وكالة الانباء الاردنية": 1,
     "ESPN": 1,
     "www.taghribnews.com": 1,
-    "jawlah.co": 1
+    "jawlah.co": 1,
+    "KTVE – myarklamiss.com – Your ArkLaMiss News Source": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -1390,6 +1391,11 @@
      0
     ],
     "jawlah.co": [
+     0,
+     1,
+     0
+    ],
+    "KTVE – myarklamiss.com – Your ArkLaMiss News Source": [
      0,
      1,
      0
