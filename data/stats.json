@@ -559,16 +559,16 @@
    }
   },
   "2026-11-01": {
-   "total": 291,
-   "news": 289,
+   "total": 292,
+   "news": 290,
    "articles": 2,
    "positive": 0,
-   "neutral": 291,
+   "neutral": 292,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 42,
-    "GB": 49,
+    "GB": 50,
     "FR": 8,
     "US": 21,
     "HK": 3,
@@ -589,7 +589,7 @@
     "Al-Monitor": 1,
     "Financial Times": 25,
     "WSJ": 6,
-    "The Guardian": 13,
+    "The Guardian": 14,
     "ASHARQ AL-AWSAT English": 12,
     "Daily Sabah": 2,
     "بوابة التكنولوجيا المالية": 1,
@@ -763,7 +763,7 @@
     ],
     "The Guardian": [
      0,
-     13,
+     14,
      0
     ],
     "ASHARQ AL-AWSAT English": [
