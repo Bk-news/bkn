@@ -24,11 +24,11 @@
    }
   },
   "2026-10-30": {
-   "total": 118,
-   "news": 115,
+   "total": 131,
+   "news": 128,
    "articles": 3,
    "positive": 0,
-   "neutral": 118,
+   "neutral": 131,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -36,7 +36,7 @@
     "FR": 6,
     "HK": 3,
     "GB": 46,
-    "SA": 9
+    "SA": 22
    },
    "topics": {},
    "sources": {
@@ -57,7 +57,7 @@
     "The Guardian": 9,
     "BBC": 11,
     "Al-Monitor": 16,
-    "Arab News": 9
+    "Arab News": 22
    },
    "sourceTone": {
     "The Washington Post": [
@@ -147,17 +147,17 @@
     ],
     "Arab News": [
      0,
-     9,
+     22,
      0
     ]
    }
   },
   "2026-10-31": {
-   "total": 176,
-   "news": 175,
+   "total": 203,
+   "news": 202,
    "articles": 1,
    "positive": 0,
-   "neutral": 176,
+   "neutral": 203,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -166,7 +166,7 @@
     "HK": 4,
     "DE": 1,
     "FR": 7,
-    "GB": 59
+    "GB": 72
    },
    "topics": {},
    "sources": {
@@ -183,7 +183,7 @@
     "WSJ": 7,
     "BBC": 13,
     "Reuters": 12,
-    "Financial Times": 22,
+    "Financial Times": 35,
     "باسنیوز": 1,
     "The Guardian": 12,
     "Awani International": 1,
@@ -195,7 +195,19 @@
     "The Korea Times": 1,
     "Diario AS": 1,
     "Athens Daily Review": 2,
-    "Ministry of Foreign Affairs of Japan": 1
+    "Ministry of Foreign Affairs of Japan": 1,
+    "The Daily Star": 1,
+    "Iran International": 1,
+    "Gulf Business": 1,
+    "EnergyNow": 1,
+    "Premium Times Nigeria": 1,
+    "EnterpriseAM": 3,
+    "Bloody Elbow": 1,
+    "https://houseofsaud.com/": 1,
+    "Heavy.com": 1,
+    "The Tanzania Times": 1,
+    "Yahoo Sports": 1,
+    "New Age BD": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -265,7 +277,7 @@
     ],
     "Financial Times": [
      0,
-     22,
+     35,
      0
     ],
     "باسنیوز": [
@@ -324,6 +336,66 @@
      0
     ],
     "Ministry of Foreign Affairs of Japan": [
+     0,
+     1,
+     0
+    ],
+    "The Daily Star": [
+     0,
+     1,
+     0
+    ],
+    "Iran International": [
+     0,
+     1,
+     0
+    ],
+    "Gulf Business": [
+     0,
+     1,
+     0
+    ],
+    "EnergyNow": [
+     0,
+     1,
+     0
+    ],
+    "Premium Times Nigeria": [
+     0,
+     1,
+     0
+    ],
+    "EnterpriseAM": [
+     0,
+     3,
+     0
+    ],
+    "Bloody Elbow": [
+     0,
+     1,
+     0
+    ],
+    "https://houseofsaud.com/": [
+     0,
+     1,
+     0
+    ],
+    "Heavy.com": [
+     0,
+     1,
+     0
+    ],
+    "The Tanzania Times": [
+     0,
+     1,
+     0
+    ],
+    "Yahoo Sports": [
+     0,
+     1,
+     0
+    ],
+    "New Age BD": [
      0,
      1,
      0
