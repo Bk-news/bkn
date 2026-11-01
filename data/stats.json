@@ -541,11 +541,11 @@
    }
   },
   "2026-11-01": {
-   "total": 121,
-   "news": 121,
+   "total": 122,
+   "news": 122,
    "articles": 0,
    "positive": 0,
-   "neutral": 121,
+   "neutral": 122,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -592,7 +592,7 @@
     "アラブニュース": 2,
     "Forbes Middle East": 2,
     "Goal.com": 2,
-    "https://houseofsaud.com/": 2,
+    "https://houseofsaud.com/": 3,
     "Travel & Tourism News Middle East": 1,
     "Bloomberg": 1,
     "TradingView": 2,
@@ -810,7 +810,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     2,
+     3,
      0
     ],
     "Travel & Tourism News Middle East": [
