@@ -559,11 +559,11 @@
    }
   },
   "2026-11-01": {
-   "total": 271,
-   "news": 270,
+   "total": 272,
+   "news": 271,
    "articles": 1,
    "positive": 0,
-   "neutral": 271,
+   "neutral": 272,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -688,7 +688,8 @@
     "lovin.co": 1,
     "Fast Company Middle East": 1,
     "Investing.com India": 1,
-    "JPT Homepage": 1
+    "JPT Homepage": 1,
+    "Daily News Egypt": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -1252,6 +1253,11 @@
      0
     ],
     "JPT Homepage": [
+     0,
+     1,
+     0
+    ],
+    "Daily News Egypt": [
      0,
      1,
      0
