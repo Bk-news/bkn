@@ -559,16 +559,16 @@
    }
   },
   "2026-11-01": {
-   "total": 280,
-   "news": 279,
-   "articles": 1,
+   "total": 282,
+   "news": 280,
+   "articles": 2,
    "positive": 0,
-   "neutral": 280,
+   "neutral": 282,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 40,
-    "GB": 48,
+    "GB": 49,
     "FR": 8,
     "US": 17,
     "HK": 3,
@@ -689,7 +689,9 @@
     "Fast Company Middle East": 1,
     "Investing.com India": 1,
     "JPT Homepage": 1,
-    "Daily News Egypt": 1
+    "Daily News Egypt": 1,
+    "IntelliNews": 1,
+    "The Economist": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -1258,6 +1260,16 @@
      0
     ],
     "Daily News Egypt": [
+     0,
+     1,
+     0
+    ],
+    "IntelliNews": [
+     0,
+     1,
+     0
+    ],
+    "The Economist": [
      0,
      1,
      0
