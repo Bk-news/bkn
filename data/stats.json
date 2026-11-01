@@ -159,11 +159,11 @@
    }
   },
   "2026-10-31": {
-   "total": 324,
-   "news": 323,
+   "total": 325,
+   "news": 324,
    "articles": 1,
    "positive": 0,
-   "neutral": 324,
+   "neutral": 325,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -172,7 +172,7 @@
     "HK": 4,
     "DE": 1,
     "FR": 7,
-    "GB": 133
+    "GB": 134
    },
    "topics": {},
    "sources": {
@@ -188,7 +188,7 @@
     "Al-Monitor": 17,
     "WSJ": 8,
     "BBC": 14,
-    "Reuters": 21,
+    "Reuters": 22,
     "Financial Times": 75,
     "باسنیوز": 1,
     "The Guardian": 23,
@@ -304,7 +304,7 @@
     ],
     "Reuters": [
      0,
-     21,
+     22,
      0
     ],
     "Financial Times": [
@@ -565,18 +565,18 @@
    }
   },
   "2026-11-01": {
-   "total": 376,
-   "news": 374,
+   "total": 379,
+   "news": 377,
    "articles": 2,
    "positive": 0,
-   "neutral": 376,
+   "neutral": 379,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 60,
     "GB": 74,
     "FR": 8,
-    "US": 33,
+    "US": 34,
     "HK": 3,
     "DE": 1
    },
@@ -592,7 +592,7 @@
     "Le Monde.fr": 7,
     "Arab News": 64,
     "EA WorldView": 1,
-    "Al-Monitor": 3,
+    "Al-Monitor": 4,
     "Financial Times": 41,
     "WSJ": 10,
     "The Guardian": 20,
@@ -717,7 +717,9 @@
     "ESPN": 1,
     "www.taghribnews.com": 1,
     "jawlah.co": 1,
-    "KTVE – myarklamiss.com – Your ArkLaMiss News Source": 1
+    "KTVE – myarklamiss.com – Your ArkLaMiss News Source": 1,
+    "The Chenab Times": 1,
+    "Bangladesh Post": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -772,7 +774,7 @@
     ],
     "Al-Monitor": [
      0,
-     3,
+     4,
      0
     ],
     "Financial Times": [
@@ -1396,6 +1398,16 @@
      0
     ],
     "KTVE – myarklamiss.com – Your ArkLaMiss News Source": [
+     0,
+     1,
+     0
+    ],
+    "The Chenab Times": [
+     0,
+     1,
+     0
+    ],
+    "Bangladesh Post": [
      0,
      1,
      0
