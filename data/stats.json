@@ -153,11 +153,11 @@
    }
   },
   "2026-10-31": {
-   "total": 264,
-   "news": 263,
+   "total": 265,
+   "news": 264,
    "articles": 1,
    "positive": 0,
-   "neutral": 264,
+   "neutral": 265,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -230,7 +230,8 @@
     "www.taghribnews.com": 1,
     "The Times of Israel": 1,
     "The Jerusalem Post": 1,
-    "Daily Nation": 1
+    "Daily Nation": 1,
+    "EA WorldView": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -537,15 +538,20 @@
      0,
      1,
      0
+    ],
+    "EA WorldView": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-01": {
-   "total": 122,
-   "news": 122,
+   "total": 124,
+   "news": 124,
    "articles": 0,
    "positive": 0,
-   "neutral": 122,
+   "neutral": 124,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -625,7 +631,9 @@
     "EnergyNow.com": 2,
     "OANANews": 1,
     "EnergyNow": 1,
-    "The Financial Express": 1
+    "The Financial Express": 1,
+    "BusinessMirror": 1,
+    "Telegraph India": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -974,6 +982,16 @@
      0
     ],
     "The Financial Express": [
+     0,
+     1,
+     0
+    ],
+    "BusinessMirror": [
+     0,
+     1,
+     0
+    ],
+    "Telegraph India": [
      0,
      1,
      0
