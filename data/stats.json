@@ -24,15 +24,15 @@
    }
   },
   "2026-10-30": {
-   "total": 181,
-   "news": 178,
+   "total": 182,
+   "news": 179,
    "articles": 3,
    "positive": 0,
-   "neutral": 181,
+   "neutral": 182,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "US": 60,
+    "US": 61,
     "FR": 6,
     "HK": 3,
     "GB": 69,
@@ -49,7 +49,7 @@
     "AP News": 6,
     "WSJ": 9,
     "Financial Times": 21,
-    "The New York Times": 7,
+    "The New York Times": 8,
     "Le Monde.fr": 4,
     "Bloomberg.com": 7,
     "Reuters": 23,
@@ -108,7 +108,7 @@
     ],
     "The New York Times": [
      0,
-     7,
+     8,
      0
     ],
     "Le Monde.fr": [

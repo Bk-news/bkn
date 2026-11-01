@@ -1547,6 +1547,27 @@
    "lang": "en"
   },
   {
+   "id": "4d6b7445e3c817a0",
+   "origin": "rss",
+   "source": "The New York Times",
+   "author": "",
+   "title_ar": "أخبار كاليفورنيا - الصفحة 4",
+   "title_orig": "California News - Page 4",
+   "title_en": "California News - Page 4",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CMjhvUWJmWm4wUDQ5YmhDN3BFNmNUbFpYVFduM3JiYTREUElEWXhoRFRIYWstdUtYUEFBWkEtS0FzQnVKcXZKc3FHeGJhZEpzUEdFOEFRb0NCRWluVEdNanhkN3VOZE0?oc=5",
+   "published": "2026-10-30T16:59:25.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "California News - Page 4 &nbsp;&nbsp; The New York Times",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "a009d34461a564de",
    "origin": "rss",
    "source": "Reuters",
