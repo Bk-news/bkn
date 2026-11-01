@@ -565,15 +565,15 @@
    }
   },
   "2026-11-01": {
-   "total": 370,
-   "news": 368,
+   "total": 371,
+   "news": 369,
    "articles": 2,
    "positive": 0,
-   "neutral": 370,
+   "neutral": 371,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "SA": 58,
+    "SA": 59,
     "GB": 71,
     "FR": 8,
     "US": 33,
@@ -584,7 +584,7 @@
    "sources": {
     "Daily Excelsior": 1,
     "LEADERSHIP Newspapers": 1,
-    "Saudi Gazette": 13,
+    "Saudi Gazette": 14,
     "FF News": 1,
     "BBC": 4,
     "Reuters": 8,
@@ -731,7 +731,7 @@
     ],
     "Saudi Gazette": [
      0,
-     13,
+     14,
      0
     ],
     "FF News": [
