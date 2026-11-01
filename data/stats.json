@@ -24,18 +24,19 @@
    }
   },
   "2026-10-30": {
-   "total": 109,
-   "news": 106,
+   "total": 118,
+   "news": 115,
    "articles": 3,
    "positive": 0,
-   "neutral": 109,
+   "neutral": 118,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 54,
     "FR": 6,
     "HK": 3,
-    "GB": 46
+    "GB": 46,
+    "SA": 9
    },
    "topics": {},
    "sources": {
@@ -55,7 +56,8 @@
     "Bloomberg": 3,
     "The Guardian": 9,
     "BBC": 11,
-    "Al-Monitor": 16
+    "Al-Monitor": 16,
+    "Arab News": 9
    },
    "sourceTone": {
     "The Washington Post": [
@@ -142,24 +144,29 @@
      0,
      16,
      0
+    ],
+    "Arab News": [
+     0,
+     9,
+     0
     ]
    }
   },
   "2026-10-31": {
-   "total": 158,
-   "news": 157,
+   "total": 176,
+   "news": 175,
    "articles": 1,
    "positive": 0,
-   "neutral": 158,
+   "neutral": 176,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 46,
+    "SA": 50,
     "US": 43,
     "HK": 4,
     "DE": 1,
     "FR": 7,
-    "GB": 51
+    "GB": 59
    },
    "topics": {},
    "sources": {
@@ -176,15 +183,19 @@
     "WSJ": 7,
     "BBC": 13,
     "Reuters": 12,
-    "Financial Times": 14,
+    "Financial Times": 22,
     "باسنیوز": 1,
-    "The Guardian": 11,
+    "The Guardian": 12,
     "Awani International": 1,
     "Le Monde.fr": 6,
     "The Media Line": 1,
     "Daily Sabah": 1,
     "Addis Standard": 1,
-    "Arab News": 39
+    "Arab News": 43,
+    "The Korea Times": 1,
+    "Diario AS": 1,
+    "Athens Daily Review": 2,
+    "Ministry of Foreign Affairs of Japan": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -254,7 +265,7 @@
     ],
     "Financial Times": [
      0,
-     14,
+     22,
      0
     ],
     "باسنیوز": [
@@ -264,7 +275,7 @@
     ],
     "The Guardian": [
      0,
-     11,
+     12,
      0
     ],
     "Awani International": [
@@ -294,22 +305,42 @@
     ],
     "Arab News": [
      0,
-     39,
+     43,
+     0
+    ],
+    "The Korea Times": [
+     0,
+     1,
+     0
+    ],
+    "Diario AS": [
+     0,
+     1,
+     0
+    ],
+    "Athens Daily Review": [
+     0,
+     2,
+     0
+    ],
+    "Ministry of Foreign Affairs of Japan": [
+     0,
+     1,
      0
     ]
    }
   },
   "2026-11-01": {
-   "total": 98,
-   "news": 98,
+   "total": 111,
+   "news": 111,
    "articles": 0,
    "positive": 0,
-   "neutral": 98,
+   "neutral": 111,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 18,
-    "GB": 12,
+    "GB": 17,
     "FR": 4,
     "US": 2
    },
@@ -323,10 +354,10 @@
     "Reuters": 2,
     "سانا": 1,
     "Le Monde.fr": 4,
-    "Arab News": 19,
+    "Arab News": 20,
     "EA WorldView": 1,
     "Al-Monitor": 1,
-    "Financial Times": 4,
+    "Financial Times": 9,
     "WSJ": 1,
     "The Guardian": 3,
     "ASHARQ AL-AWSAT English": 2,
@@ -373,7 +404,14 @@
     "Daily Nation": 1,
     "Asian Football Confederation (AFC)": 3,
     "Arabian Business": 1,
-    "IQAir": 1
+    "IQAir": 1,
+    "Oman Observer": 1,
+    "8AM Media": 1,
+    "JIJI PRESS": 1,
+    "Modern Tokyo Times": 1,
+    "LinkedIn": 1,
+    "Idaho State Journal": 1,
+    "Corsicana Daily Sun": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -418,7 +456,7 @@
     ],
     "Arab News": [
      0,
-     19,
+     20,
      0
     ],
     "EA WorldView": [
@@ -433,7 +471,7 @@
     ],
     "Financial Times": [
      0,
-     4,
+     9,
      0
     ],
     "WSJ": [
@@ -667,6 +705,41 @@
      0
     ],
     "IQAir": [
+     0,
+     1,
+     0
+    ],
+    "Oman Observer": [
+     0,
+     1,
+     0
+    ],
+    "8AM Media": [
+     0,
+     1,
+     0
+    ],
+    "JIJI PRESS": [
+     0,
+     1,
+     0
+    ],
+    "Modern Tokyo Times": [
+     0,
+     1,
+     0
+    ],
+    "LinkedIn": [
+     0,
+     1,
+     0
+    ],
+    "Idaho State Journal": [
+     0,
+     1,
+     0
+    ],
+    "Corsicana Daily Sun": [
      0,
      1,
      0
