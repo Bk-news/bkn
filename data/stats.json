@@ -1,3 +1,75 @@
 {
- "days": {}
+ "days": {
+  "2026-10-31": {
+   "total": 1,
+   "news": 1,
+   "articles": 0,
+   "positive": 0,
+   "neutral": 1,
+   "critical": 0,
+   "mbs": 0,
+   "countries": {
+    "SA": 1
+   },
+   "topics": {},
+   "sources": {
+    "Saudi Gazette": 1
+   },
+   "sourceTone": {
+    "Saudi Gazette": [
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "2026-11-01": {
+   "total": 6,
+   "news": 6,
+   "articles": 0,
+   "positive": 0,
+   "neutral": 6,
+   "critical": 0,
+   "mbs": 1,
+   "countries": {
+    "SA": 1,
+    "GB": 1
+   },
+   "topics": {},
+   "sources": {
+    "Daily Excelsior": 1,
+    "LEADERSHIP Newspapers": 1,
+    "Saudi Gazette": 2,
+    "FF News": 1,
+    "BBC": 1
+   },
+   "sourceTone": {
+    "Daily Excelsior": [
+     0,
+     1,
+     0
+    ],
+    "LEADERSHIP Newspapers": [
+     0,
+     1,
+     0
+    ],
+    "Saudi Gazette": [
+     0,
+     2,
+     0
+    ],
+    "FF News": [
+     0,
+     1,
+     0
+    ],
+    "BBC": [
+     0,
+     1,
+     0
+    ]
+   }
+  }
+ }
 }
