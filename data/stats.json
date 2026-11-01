@@ -559,16 +559,16 @@
    }
   },
   "2026-11-01": {
-   "total": 267,
-   "news": 266,
+   "total": 270,
+   "news": 269,
    "articles": 1,
    "positive": 0,
-   "neutral": 267,
+   "neutral": 270,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 40,
-    "GB": 40,
+    "GB": 41,
     "FR": 8,
     "US": 16,
     "HK": 3,
@@ -589,7 +589,7 @@
     "Al-Monitor": 1,
     "Financial Times": 20,
     "WSJ": 4,
-    "The Guardian": 10,
+    "The Guardian": 11,
     "ASHARQ AL-AWSAT English": 12,
     "Daily Sabah": 2,
     "بوابة التكنولوجيا المالية": 1,
@@ -671,7 +671,7 @@
     "Spiegel": 1,
     "France 24": 1,
     "Bloomberg.com": 2,
-    "Anadolu Ajansı": 2,
+    "Anadolu Ajansı": 3,
     "Jordan News": 1,
     "IraqiNews": 1,
     "Breakingthenews.net": 1,
@@ -687,7 +687,8 @@
     "Global Times": 1,
     "lovin.co": 1,
     "Fast Company Middle East": 1,
-    "Investing.com India": 1
+    "Investing.com India": 1,
+    "JPT Homepage": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -757,7 +758,7 @@
     ],
     "The Guardian": [
      0,
-     10,
+     11,
      0
     ],
     "ASHARQ AL-AWSAT English": [
@@ -1167,7 +1168,7 @@
     ],
     "Anadolu Ajansı": [
      0,
-     2,
+     3,
      0
     ],
     "Jordan News": [
@@ -1246,6 +1247,11 @@
      0
     ],
     "Investing.com India": [
+     0,
+     1,
+     0
+    ],
+    "JPT Homepage": [
      0,
      1,
      0
