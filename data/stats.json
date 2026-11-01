@@ -559,11 +559,11 @@
    }
   },
   "2026-11-01": {
-   "total": 144,
-   "news": 144,
+   "total": 145,
+   "news": 145,
    "articles": 0,
    "positive": 0,
-   "neutral": 144,
+   "neutral": 145,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -656,7 +656,8 @@
     "The Filipino Times": 1,
     "CairoScene": 2,
     "Capital FM Africa": 1,
-    "Ynetnews": 1
+    "Ynetnews": 1,
+    "Rus Tourism News": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -1065,6 +1066,11 @@
      0
     ],
     "Ynetnews": [
+     0,
+     1,
+     0
+    ],
+    "Rus Tourism News": [
      0,
      1,
      0
