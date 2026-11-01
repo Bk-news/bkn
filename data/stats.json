@@ -159,11 +159,11 @@
    }
   },
   "2026-10-31": {
-   "total": 288,
-   "news": 287,
+   "total": 289,
+   "news": 288,
    "articles": 1,
    "positive": 0,
-   "neutral": 288,
+   "neutral": 289,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -172,7 +172,7 @@
     "HK": 4,
     "DE": 1,
     "FR": 7,
-    "GB": 108
+    "GB": 109
    },
    "topics": {},
    "sources": {
@@ -189,7 +189,7 @@
     "WSJ": 8,
     "BBC": 13,
     "Reuters": 12,
-    "Financial Times": 68,
+    "Financial Times": 69,
     "باسنیوز": 1,
     "The Guardian": 15,
     "Awani International": 1,
@@ -308,7 +308,7 @@
     ],
     "Financial Times": [
      0,
-     68,
+     69,
      0
     ],
     "باسنیوز": [
@@ -559,17 +559,17 @@
    }
   },
   "2026-11-01": {
-   "total": 164,
-   "news": 163,
+   "total": 165,
+   "news": 164,
    "articles": 1,
    "positive": 0,
-   "neutral": 164,
+   "neutral": 165,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 27,
     "GB": 22,
-    "FR": 4,
+    "FR": 5,
     "US": 6,
     "HK": 1
    },
@@ -582,7 +582,7 @@
     "BBC": 3,
     "Reuters": 2,
     "سانا": 1,
-    "Le Monde.fr": 4,
+    "Le Monde.fr": 5,
     "Arab News": 30,
     "EA WorldView": 1,
     "Al-Monitor": 1,
@@ -705,7 +705,7 @@
     ],
     "Le Monde.fr": [
      0,
-     4,
+     5,
      0
     ],
     "Arab News": [
