@@ -559,11 +559,11 @@
    }
   },
   "2026-11-01": {
-   "total": 159,
-   "news": 158,
+   "total": 161,
+   "news": 160,
    "articles": 1,
    "positive": 0,
-   "neutral": 159,
+   "neutral": 161,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -609,7 +609,7 @@
     "The National": 2,
     "UA.NEWS": 1,
     "アラブニュース": 2,
-    "Forbes Middle East": 2,
+    "Forbes Middle East": 3,
     "Goal.com": 2,
     "https://houseofsaud.com/": 4,
     "Travel & Tourism News Middle East": 1,
@@ -664,7 +664,8 @@
     "Bangladesh Sangbad Sangstha (BSS)": 1,
     "IndexBox": 1,
     "X": 1,
-    "The New York Times": 1
+    "The New York Times": 1,
+    "www.kenyans.live": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -839,7 +840,7 @@
     ],
     "Forbes Middle East": [
      0,
-     2,
+     3,
      0
     ],
     "Goal.com": [
@@ -1113,6 +1114,11 @@
      0
     ],
     "The New York Times": [
+     0,
+     1,
+     0
+    ],
+    "www.kenyans.live": [
      0,
      1,
      0
