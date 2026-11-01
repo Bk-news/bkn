@@ -87,12 +87,14 @@ async function claudeJSON(prompt, maxTokens) {
     body: JSON.stringify({ model: MODEL, max_tokens: maxTokens, messages: [{ role: 'user', content: prompt }] }),
     signal: AbortSignal.timeout(90000),
   });
-  if (!res.ok) throw new Error(`Anthropic ${res.status}: ${(await res.text()).slice(0, 200)}`);
+  if (!res.ok) { if (res.status === 401 || res.status === 403) KEY_BAD = true; throw new Error(`Anthropic ${res.status}: ${(await res.text()).slice(0, 200)}`); }
   const out = (await res.json()).content?.[0]?.text ?? '';
   return JSON.parse(out.match(/\{[\s\S]*\}/)[0]);
 }
 
+let KEY_BAD = false;   // إذا رفض المفتاح (401) نعرض الأخبار بدون ترجمة ونترجمها لاحقًا
 async function analyze(it) {
+  if (KEY_BAD) return { ...heuristic(it), pending: true };
   const prompt = `أنت محرر في موقع عربي يرصد ما تنشره الصحافة العالمية عن السعودية وولي العهد.
 هذي بيانات مادة صحفية (العنوان والمقتطف فقط):
 المصدر: ${it.source}
@@ -166,7 +168,7 @@ function countIn(stats, rec, kind) {
 
 // ---------- موجز BKN والقصص الكبرى ----------
 async function makeBrief(news, articles, old) {
-  if (!KEY) return null;
+  if (!KEY || KEY_BAD) return null;
   if (old?.updated && Date.now() - new Date(old.updated) < BRIEF_HOURS * 3600e3 && !process.env.FORCE_BRIEF) return null;
   const day = [...news, ...articles].filter((i) => Date.now() - new Date(i.published) < 864e5).slice(0, 90);
   if (day.length < 3) return null;
@@ -214,7 +216,7 @@ async function archive(recs, brief) {
 
 // ---------- التقرير الأسبوعي ----------
 async function weeklyReport(stats) {
-  if (!KEY) return null;
+  if (!KEY || KEY_BAD) return null;
   await fs.mkdir(new URL('weekly/', DATA), { recursive: true });
   const index = await readJSON('weekly/index.json', []);
   if (index[0] && Date.now() - new Date(index[0].date + 'T00:00:00Z') < 7 * 864e5 && !process.env.FORCE_WEEKLY) return null;
@@ -325,6 +327,7 @@ async function run() {
     subject: a.subject === 'mbs' ? 'mbs' : 'saudi',
     tone: ['positive', 'neutral', 'critical'].includes(a.tone) ? a.tone : 'neutral',
     topic: a.topic || '', country: (it.country || a.country || '').toUpperCase().slice(0, 2),
+    ...(a.pending || !KEY ? { pending: true, desc: it.description || '', lang: it.lang } : {}),
   });
   const addBreaking = (rec) => { breaking.unshift({ ...rec, added: now }); newBreaking.push(rec); added.breaking++; };
 
@@ -344,7 +347,11 @@ async function run() {
   for (const it of queue.slice(0, MAX_NEW)) {
     let a;
     try { a = KEY ? await analyze(it) : heuristic(it); STATUS.analyzed++; }
-    catch (e) { console.warn(`تحليل: ${e.message}`); STATUS.analyzeErrors++; STATUS.lastError = String(e.message).slice(0, 300); continue; }   // ما نعلّمه «مقروء» عشان يُعاد في التشغيل الجاي
+    catch (e) {
+      console.warn(`تحليل: ${e.message}`); STATUS.analyzeErrors++; STATUS.lastError = String(e.message).slice(0, 300);
+      if (!KEY_BAD) continue;                 // خطأ مؤقت: نعيد المحاولة في التشغيل الجاي
+      a = { ...heuristic(it), pending: true }; // المفتاح مرفوض: نعرضه الحين ونترجمه لاحقًا
+    }   // ما نعلّمه «مقروء» عشان يُعاد في التشغيل الجاي
     markSeen(it);
     if (!a.relevant) continue;
     const rec = toRec(it, a);
@@ -354,6 +361,26 @@ async function run() {
     if (a.breaking && Date.now() - new Date(it.published) < BREAKING_TTL) addBreaking(rec);
   }
   if (queue.length > MAX_NEW) console.log(`باقي ${queue.length - MAX_NEW} خبر للتشغيل الجاي`);
+
+  // ج) ترجمة الأخبار اللي انعرضت بدون ترجمة (لما يصير المفتاح صالح)
+  if (KEY && !KEY_BAD) {
+    const pend = [...news, ...articles].filter((r) => r.pending).slice(0, Number(process.env.RETRANSLATE_PER_RUN || 20));
+    for (const r of pend) {
+      try {
+        const a = await analyze({ title: r.title_orig || r.title_ar, description: r.desc || '', source: r.source, url: r.url, lang: r.lang || 'en' });
+        if (KEY_BAD) break;
+        Object.assign(r, {
+          title_ar: a.title_ar || r.title_ar, title_en: a.title_en || r.title_en, summary_ar: a.summary_ar || [], summary_en: a.summary_en || [],
+          tone: ['positive', 'neutral', 'critical'].includes(a.tone) ? a.tone : 'neutral', topic: a.topic || '', subject: a.subject === 'mbs' ? 'mbs' : 'saudi',
+          country: r.country || (a.country || '').toUpperCase().slice(0, 2),
+        });
+        delete r.pending; delete r.desc; delete r.lang; STATUS.retranslated = (STATUS.retranslated || 0) + 1;
+        if (a.kind === 'article' && news.includes(r)) { news.splice(news.indexOf(r), 1); articles.unshift(r); }
+      } catch (e) { STATUS.lastError = String(e.message).slice(0, 300); if (KEY_BAD) break; }
+    }
+  }
+  STATUS.keyRejected = KEY_BAD;
+  STATUS.pending = [...news, ...articles].filter((r) => r.pending).length;
 
   // 3) تنظيف: العاجل يختفي بعد ساعة من ظهوره
   breaking = breaking.filter((b) => Date.now() - new Date(b.added || b.published) < BREAKING_TTL).sort(byDate('published'));
@@ -392,7 +419,7 @@ async function run() {
     writeJSON('articles.json', articles),
     writeJSON('breaking.json', breaking),
     writeJSON('seen.json', [...seen].slice(-LIMITS.seen)),
-    ...(added.news + added.articles + added.breaking || brief ? [writeJSON('meta.json', { updated: new Date().toISOString() })] : []),
+    ...(added.news + added.articles + added.breaking || brief || STATUS.retranslated ? [writeJSON('meta.json', { updated: new Date().toISOString() })] : []),
   ]);
   console.log(`✓ أخبار +${added.news} | مقالات +${added.articles} | عاجل +${added.breaking} | ${((Date.now() - started) / 1000).toFixed(1)}ث`);
 }

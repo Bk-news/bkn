@@ -59,7 +59,7 @@ export const FEEDS = [
 
   // مصادر العاجل بالعربي (تشتغل بدون اشتراك X)
   { name: 'واس', source: 'واس', country: 'SA', kind: 'breaking', lang: 'ar', url: gn('site:spa.gov.sa when:1d', 'ar') },
-  { name: 'العربية', source: 'العربية', country: 'SA', kind: 'breaking', lang: 'ar', url: 'https://www.alarabiya.net/feed/rss2/ar.xml' },
+  { name: 'العربية', source: 'العربية', country: 'SA', kind: 'breaking', lang: 'ar', url: gn('site:alarabiya.net (السعودية OR ولي العهد) when:1d', 'ar') },
 ];
 
 // ===== حسابات X (تويتر) للعاجل =====
