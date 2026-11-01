@@ -172,7 +172,7 @@ async function analyze(it) {
 
 // ---------- عاجل من قنوات تلقرام العامة (t.me/s/<channel>) ----------
 const decode = (s) => s.replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(+n)).replace(/&#x([0-9a-f]+);/gi, (_, n) => String.fromCodePoint(parseInt(n, 16)))
-  .replace(/&quot;/g, '"').replace(/&#39;|&apos;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&');
+  .replace(/&quot;/g, '"').replace(/&#39;|&apos;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&nbsp;/g, ' ').replace(/&(rlm|lrm|zwnj|zwj);/g, '').replace(/&amp;/g, '&').replace(/[\u200e\u200f\u202a-\u202e]/g, '');
 async function fetchTelegramChannel(ch) {
   const res = await fetch(`https://t.me/s/${ch.channel}`, { headers: { 'user-agent': 'Mozilla/5.0', 'accept-language': 'ar' }, signal: AbortSignal.timeout(15000) });
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
@@ -183,7 +183,8 @@ async function fetchTelegramChannel(ch) {
     const m = part.match(/class="tgme_widget_message_text[^"]*"[^>]*>([\s\S]*?)<\/div>/);
     const d = part.match(/<time[^>]*datetime="([^"]+)"/);
     if (!m || !d) continue;
-    const text = decode(m[1].replace(/<br\s*\/?>/gi, ' ').replace(/<[^>]+>/g, ' ')).replace(/#\S+/g, '').replace(/\s+/g, ' ').trim();
+    const text = decode(m[1].replace(/<br\s*\/?>/gi, ' ').replace(/<[^>]+>/g, ' ')).replace(/#\S+/g, '')
+      .replace(/لـ\s*\^/g, 'للعربية').replace(/\^/g, 'العربية').replace(/\s+/g, ' ').trim();   // القناة تكتب «العربية» بالرمز ^
     if (text.length < 8) continue;
     out.push({ id: hash(`tg:${post}`), origin: 'telegram', source: ch.name, country: ch.country || '', title_ar: text, summary_ar: [],
       url: `https://t.me/${post}`, published: new Date(d[1]).toISOString(), subject: subjectOf(text) });
