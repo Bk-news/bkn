@@ -565,11 +565,11 @@
    }
   },
   "2026-11-01": {
-   "total": 366,
-   "news": 364,
+   "total": 368,
+   "news": 366,
    "articles": 2,
    "positive": 0,
-   "neutral": 366,
+   "neutral": 368,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -714,7 +714,9 @@
     "Mugglehead Investment Magazine": 1,
     "Chronicle Live": 1,
     "وكالة الانباء الاردنية": 1,
-    "ESPN": 1
+    "ESPN": 1,
+    "www.taghribnews.com": 1,
+    "jawlah.co": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -1378,6 +1380,16 @@
      0
     ],
     "ESPN": [
+     0,
+     1,
+     0
+    ],
+    "www.taghribnews.com": [
+     0,
+     1,
+     0
+    ],
+    "jawlah.co": [
      0,
      1,
      0
