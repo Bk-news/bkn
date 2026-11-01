@@ -69,7 +69,8 @@ async function fetchFeed(feed) {
 function heuristic(it) {
   const isOpinion = it.feedKind === 'article' || OPINION_HINTS.some((r) => r.test(it.url));
   return {
-    relevant: RELEVANCE.test(`${it.title} ${it.description}`),
+    // مصادر الصحافة العالمية مبحوث فيها أصلًا عن السعودية، فنقبلها. ومصادر العاجل المحلية لازم تذكر السعودية صراحة
+    relevant: it.feedKind !== 'breaking' || RELEVANCE.test(`${it.title} ${it.description}`),
     kind: isOpinion ? 'article' : 'news',
     title_ar: it.title,
     summary_ar: [],
