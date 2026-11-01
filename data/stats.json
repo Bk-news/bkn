@@ -553,11 +553,11 @@
    }
   },
   "2026-11-01": {
-   "total": 133,
-   "news": 133,
+   "total": 134,
+   "news": 134,
    "articles": 0,
    "positive": 0,
-   "neutral": 133,
+   "neutral": 134,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -646,7 +646,8 @@
     "The Daily Star": 1,
     "Rediff": 1,
     "AP News": 1,
-    "South China Morning Post": 1
+    "South China Morning Post": 1,
+    "The Filipino Times": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -1035,6 +1036,11 @@
      0
     ],
     "South China Morning Post": [
+     0,
+     1,
+     0
+    ],
+    "The Filipino Times": [
      0,
      1,
      0
