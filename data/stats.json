@@ -24,18 +24,18 @@
    }
   },
   "2026-10-30": {
-   "total": 182,
-   "news": 179,
+   "total": 183,
+   "news": 180,
    "articles": 3,
    "positive": 0,
-   "neutral": 182,
+   "neutral": 183,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 61,
     "FR": 6,
     "HK": 3,
-    "GB": 69,
+    "GB": 70,
     "SA": 43
    },
    "topics": {},
@@ -54,7 +54,7 @@
     "Bloomberg.com": 7,
     "Reuters": 23,
     "Bloomberg": 3,
-    "The Guardian": 14,
+    "The Guardian": 15,
     "BBC": 11,
     "Al-Monitor": 20,
     "Arab News": 42,
@@ -133,7 +133,7 @@
     ],
     "The Guardian": [
      0,
-     14,
+     15,
      0
     ],
     "BBC": [
@@ -559,18 +559,18 @@
    }
   },
   "2026-11-01": {
-   "total": 289,
-   "news": 287,
+   "total": 291,
+   "news": 289,
    "articles": 2,
    "positive": 0,
-   "neutral": 289,
+   "neutral": 291,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 42,
     "GB": 49,
     "FR": 8,
-    "US": 20,
+    "US": 21,
     "HK": 3,
     "DE": 1
    },
@@ -670,7 +670,7 @@
     "The Washington Post": 1,
     "Spiegel": 1,
     "France 24": 1,
-    "Bloomberg.com": 2,
+    "Bloomberg.com": 3,
     "Anadolu Ajansı": 3,
     "Jordan News": 1,
     "IraqiNews": 1,
@@ -692,7 +692,8 @@
     "Daily News Egypt": 1,
     "IntelliNews": 1,
     "The Economist": 1,
-    "Defence24.com": 1
+    "Defence24.com": 1,
+    "Nation Thailand": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -1167,7 +1168,7 @@
     ],
     "Bloomberg.com": [
      0,
-     2,
+     3,
      0
     ],
     "Anadolu Ajansı": [
@@ -1276,6 +1277,11 @@
      0
     ],
     "Defence24.com": [
+     0,
+     1,
+     0
+    ],
+    "Nation Thailand": [
      0,
      1,
      0
