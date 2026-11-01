@@ -63,6 +63,27 @@
   "mt": true
  },
  {
+  "id": "b723fe7b3b0c4197",
+  "origin": "rss",
+  "source": "The Economist",
+  "author": "",
+  "title_ar": "الحرب في الشرق الأوسط",
+  "title_orig": "War in the Middle East",
+  "title_en": "War in the Middle East",
+  "summary_ar": [],
+  "summary_en": [],
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUEg3WHozenB5ZHFCN3lWY0RJVEM1T0p4YURLTHJxN2F6aWdmN0QzNTJIcnFYVk54anJxTzdSNkFHLWxpRkZpNG1tcDdzNEJxbUlEUGJMWHJmZTJnci1FekV0c3ZFWDNvNHNjVWVaQmxOVVcxQmJ5Vll2Rk9ONmxLZlhIODR0MmdWcEpNaXNlY0ZKUmZqaEYtUGVOaGRkWXc?oc=5",
+  "published": "2026-10-31T07:00:00.000Z",
+  "subject": "saudi",
+  "tone": "neutral",
+  "topic": "",
+  "country": "GB",
+  "pending": true,
+  "desc": "War in the Middle East &nbsp;&nbsp; The Economist",
+  "lang": "en",
+  "mt": true
+ },
+ {
   "id": "d54fe918c06da7db",
   "origin": "rss",
   "source": "Foreign Policy",

@@ -125,6 +125,27 @@
    "mt": true
   },
   {
+   "id": "ab21068b9e01ec33",
+   "origin": "rss",
+   "source": "The New York Times",
+   "author": "",
+   "title_ar": "أخبار العالم - الصفحة 3",
+   "title_orig": "World News - Page 3",
+   "title_en": "World News - Page 3",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGeVAyQUtvdzZVcGRhbUVtYTJqM3JVeG85bWVRR2dheWRfN3kyMzUwVE4zZW9pb1Fadm00ZzFraVA0RFVVWFJFYlFkSXQwVVh1TDJDTHgydw?oc=5",
+   "published": "2026-10-30T23:11:18.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "World News - Page 3 &nbsp;&nbsp; The New York Times",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "dfa854df9a3d7ad5",
    "origin": "rss",
    "source": "South China Morning Post",

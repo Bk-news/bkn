@@ -24,15 +24,15 @@
    }
   },
   "2026-10-30": {
-   "total": 188,
-   "news": 185,
+   "total": 189,
+   "news": 186,
    "articles": 3,
    "positive": 0,
-   "neutral": 188,
+   "neutral": 189,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "US": 63,
+    "US": 64,
     "FR": 7,
     "HK": 3,
     "GB": 71,
@@ -49,7 +49,7 @@
     "AP News": 7,
     "WSJ": 9,
     "Financial Times": 21,
-    "The New York Times": 9,
+    "The New York Times": 10,
     "Le Monde.fr": 5,
     "Bloomberg.com": 7,
     "Reuters": 23,
@@ -108,7 +108,7 @@
     ],
     "The New York Times": [
      0,
-     9,
+     10,
      0
     ],
     "Le Monde.fr": [
@@ -159,11 +159,11 @@
    }
   },
   "2026-10-31": {
-   "total": 325,
-   "news": 324,
-   "articles": 1,
+   "total": 330,
+   "news": 328,
+   "articles": 2,
    "positive": 0,
-   "neutral": 325,
+   "neutral": 330,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -171,8 +171,8 @@
     "US": 52,
     "HK": 4,
     "DE": 1,
-    "FR": 7,
-    "GB": 134
+    "FR": 9,
+    "GB": 137
    },
    "topics": {},
    "sources": {
@@ -183,17 +183,17 @@
     "South China Morning Post": 4,
     "Spiegel": 1,
     "France 24": 1,
-    "The Economist": 1,
+    "The Economist": 2,
     "DW.com": 1,
     "Al-Monitor": 17,
     "WSJ": 8,
     "BBC": 14,
-    "Reuters": 22,
+    "Reuters": 24,
     "Financial Times": 75,
     "باسنیوز": 1,
     "The Guardian": 23,
     "Awani International": 1,
-    "Le Monde.fr": 6,
+    "Le Monde.fr": 8,
     "The Media Line": 1,
     "Daily Sabah": 1,
     "Addis Standard": 1,
@@ -279,7 +279,7 @@
     ],
     "The Economist": [
      0,
-     1,
+     2,
      0
     ],
     "DW.com": [
@@ -304,7 +304,7 @@
     ],
     "Reuters": [
      0,
-     22,
+     24,
      0
     ],
     "Financial Times": [
@@ -329,7 +329,7 @@
     ],
     "Le Monde.fr": [
      0,
-     6,
+     8,
      0
     ],
     "The Media Line": [
@@ -565,18 +565,18 @@
    }
   },
   "2026-11-01": {
-   "total": 380,
-   "news": 378,
+   "total": 397,
+   "news": 395,
    "articles": 2,
    "positive": 0,
-   "neutral": 380,
+   "neutral": 397,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "SA": 61,
-    "GB": 74,
+    "SA": 64,
+    "GB": 82,
     "FR": 8,
-    "US": 34,
+    "US": 35,
     "HK": 3,
     "DE": 1
    },
@@ -584,18 +584,18 @@
    "sources": {
     "Daily Excelsior": 1,
     "LEADERSHIP Newspapers": 1,
-    "Saudi Gazette": 15,
+    "Saudi Gazette": 16,
     "FF News": 1,
     "BBC": 4,
     "Reuters": 8,
     "سانا": 2,
     "Le Monde.fr": 7,
-    "Arab News": 64,
+    "Arab News": 66,
     "EA WorldView": 1,
-    "Al-Monitor": 4,
-    "Financial Times": 41,
+    "Al-Monitor": 5,
+    "Financial Times": 45,
     "WSJ": 10,
-    "The Guardian": 20,
+    "The Guardian": 24,
     "ASHARQ AL-AWSAT English": 13,
     "Daily Sabah": 2,
     "بوابة التكنولوجيا المالية": 1,
@@ -618,7 +618,7 @@
     "アラブニュース": 2,
     "Forbes Middle East": 3,
     "Goal.com": 3,
-    "https://houseofsaud.com/": 6,
+    "https://houseofsaud.com/": 7,
     "Travel & Tourism News Middle East": 1,
     "Bloomberg": 1,
     "TradingView": 2,
@@ -639,7 +639,7 @@
     "MMA Sucka": 1,
     "Daily Nation": 1,
     "Asian Football Confederation (AFC)": 4,
-    "Arabian Business": 2,
+    "Arabian Business": 3,
     "IQAir": 1,
     "Oman Observer": 1,
     "8AM Media": 1,
@@ -671,7 +671,7 @@
     "Bangladesh Sangbad Sangstha (BSS)": 2,
     "IndexBox": 1,
     "X": 1,
-    "The New York Times": 2,
+    "The New York Times": 3,
     "www.kenyans.live": 1,
     "The Washington Post": 1,
     "Spiegel": 1,
@@ -719,7 +719,9 @@
     "jawlah.co": 1,
     "KTVE – myarklamiss.com – Your ArkLaMiss News Source": 1,
     "The Chenab Times": 1,
-    "Bangladesh Post": 1
+    "Bangladesh Post": 1,
+    "The Straits Times": 1,
+    "Raw Story": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -734,7 +736,7 @@
     ],
     "Saudi Gazette": [
      0,
-     15,
+     16,
      0
     ],
     "FF News": [
@@ -764,7 +766,7 @@
     ],
     "Arab News": [
      0,
-     64,
+     66,
      0
     ],
     "EA WorldView": [
@@ -774,12 +776,12 @@
     ],
     "Al-Monitor": [
      0,
-     4,
+     5,
      0
     ],
     "Financial Times": [
      0,
-     41,
+     45,
      0
     ],
     "WSJ": [
@@ -789,7 +791,7 @@
     ],
     "The Guardian": [
      0,
-     20,
+     24,
      0
     ],
     "ASHARQ AL-AWSAT English": [
@@ -904,7 +906,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     6,
+     7,
      0
     ],
     "Travel & Tourism News Middle East": [
@@ -1009,7 +1011,7 @@
     ],
     "Arabian Business": [
      0,
-     2,
+     3,
      0
     ],
     "IQAir": [
@@ -1169,7 +1171,7 @@
     ],
     "The New York Times": [
      0,
-     2,
+     3,
      0
     ],
     "www.kenyans.live": [
@@ -1408,6 +1410,16 @@
      0
     ],
     "Bangladesh Post": [
+     0,
+     1,
+     0
+    ],
+    "The Straits Times": [
+     0,
+     1,
+     0
+    ],
+    "Raw Story": [
      0,
      1,
      0
