@@ -559,11 +559,11 @@
    }
   },
   "2026-11-01": {
-   "total": 154,
-   "news": 153,
+   "total": 155,
+   "news": 154,
    "articles": 1,
    "positive": 0,
-   "neutral": 154,
+   "neutral": 155,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -661,7 +661,8 @@
     "Atlantic Council": 1,
     "TRT Afrika": 1,
     "Mehr News Agency": 1,
-    "Bangladesh Sangbad Sangstha (BSS)": 1
+    "Bangladesh Sangbad Sangstha (BSS)": 1,
+    "IndexBox": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -1095,6 +1096,11 @@
      0
     ],
     "Bangladesh Sangbad Sangstha (BSS)": [
+     0,
+     1,
+     0
+    ],
+    "IndexBox": [
      0,
      1,
      0
