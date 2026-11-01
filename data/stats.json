@@ -24,11 +24,11 @@
    }
   },
   "2026-10-30": {
-   "total": 171,
-   "news": 168,
+   "total": 175,
+   "news": 172,
    "articles": 3,
    "positive": 0,
-   "neutral": 171,
+   "neutral": 175,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -36,7 +36,7 @@
     "FR": 6,
     "HK": 3,
     "GB": 65,
-    "SA": 38
+    "SA": 42
    },
    "topics": {},
    "sources": {
@@ -57,7 +57,7 @@
     "The Guardian": 10,
     "BBC": 11,
     "Al-Monitor": 20,
-    "Arab News": 37,
+    "Arab News": 41,
     "Saudi Gazette": 1
    },
    "sourceTone": {
@@ -148,7 +148,7 @@
     ],
     "Arab News": [
      0,
-     37,
+     41,
      0
     ],
     "Saudi Gazette": [
@@ -159,15 +159,15 @@
    }
   },
   "2026-10-31": {
-   "total": 280,
-   "news": 279,
+   "total": 283,
+   "news": 282,
    "articles": 1,
    "positive": 0,
-   "neutral": 280,
+   "neutral": 283,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 55,
+    "SA": 58,
     "US": 47,
     "HK": 4,
     "DE": 1,
@@ -197,7 +197,7 @@
     "The Media Line": 1,
     "Daily Sabah": 1,
     "Addis Standard": 1,
-    "Arab News": 52,
+    "Arab News": 55,
     "The Korea Times": 1,
     "Diario AS": 1,
     "Athens Daily Review": 2,
@@ -348,7 +348,7 @@
     ],
     "Arab News": [
      0,
-     52,
+     55,
      0
     ],
     "The Korea Times": [
@@ -559,16 +559,16 @@
    }
   },
   "2026-11-01": {
-   "total": 140,
-   "news": 140,
+   "total": 144,
+   "news": 144,
    "articles": 0,
    "positive": 0,
-   "neutral": 140,
+   "neutral": 144,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 21,
-    "GB": 20,
+    "SA": 24,
+    "GB": 21,
     "FR": 4,
     "US": 3,
     "HK": 1
@@ -583,10 +583,10 @@
     "Reuters": 2,
     "سانا": 1,
     "Le Monde.fr": 4,
-    "Arab News": 24,
+    "Arab News": 27,
     "EA WorldView": 1,
     "Al-Monitor": 1,
-    "Financial Times": 10,
+    "Financial Times": 11,
     "WSJ": 1,
     "The Guardian": 5,
     "ASHARQ AL-AWSAT English": 2,
@@ -701,7 +701,7 @@
     ],
     "Arab News": [
      0,
-     24,
+     27,
      0
     ],
     "EA WorldView": [
@@ -716,7 +716,7 @@
     ],
     "Financial Times": [
      0,
-     10,
+     11,
      0
     ],
     "WSJ": [
