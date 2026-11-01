@@ -6,6 +6,9 @@ on:
   schedule:
     - cron: '*/15 * * * *'
   workflow_dispatch:
+  push:                        # أي تعديل على الكود يشغّل التحديث مباشرة
+    branches: [main]
+    paths: ['scripts/**', '.github/workflows/update.yml']
 
 permissions:
   contents: write
