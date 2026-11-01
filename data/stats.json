@@ -1,18 +1,18 @@
 {
  "days": {
   "2026-10-30": {
-   "total": 37,
-   "news": 34,
+   "total": 62,
+   "news": 59,
    "articles": 3,
    "positive": 0,
-   "neutral": 37,
+   "neutral": 62,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "US": 26,
-    "FR": 5,
+    "US": 37,
+    "FR": 6,
     "HK": 3,
-    "GB": 3
+    "GB": 16
    },
    "topics": {},
    "sources": {
@@ -23,13 +23,16 @@
     "France 24": 2,
     "South China Morning Post": 3,
     "AP News": 6,
-    "WSJ": 6,
+    "WSJ": 9,
     "Financial Times": 1,
     "The New York Times": 3,
-    "Le Monde.fr": 3,
-    "Bloomberg.com": 2,
-    "Reuters": 2,
-    "Bloomberg": 1
+    "Le Monde.fr": 4,
+    "Bloomberg.com": 5,
+    "Reuters": 6,
+    "Bloomberg": 2,
+    "The Guardian": 5,
+    "BBC": 4,
+    "Al-Monitor": 4
    },
    "sourceTone": {
     "The Washington Post": [
@@ -69,7 +72,7 @@
     ],
     "WSJ": [
      0,
-     6,
+     9,
      0
     ],
     "Financial Times": [
@@ -84,41 +87,56 @@
     ],
     "Le Monde.fr": [
      0,
-     3,
+     4,
      0
     ],
     "Bloomberg.com": [
      0,
-     2,
+     5,
      0
     ],
     "Reuters": [
      0,
-     2,
+     6,
      0
     ],
     "Bloomberg": [
      0,
-     1,
+     2,
+     0
+    ],
+    "The Guardian": [
+     0,
+     5,
+     0
+    ],
+    "BBC": [
+     0,
+     4,
+     0
+    ],
+    "Al-Monitor": [
+     0,
+     4,
      0
     ]
    }
   },
   "2026-10-31": {
-   "total": 114,
-   "news": 113,
+   "total": 123,
+   "news": 122,
    "articles": 1,
    "positive": 0,
-   "neutral": 114,
+   "neutral": 123,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 8,
+    "SA": 12,
     "US": 43,
     "HK": 4,
     "DE": 1,
     "FR": 7,
-    "GB": 45
+    "GB": 50
    },
    "topics": {},
    "sources": {
@@ -135,7 +153,7 @@
     "WSJ": 7,
     "BBC": 13,
     "Reuters": 11,
-    "Financial Times": 9,
+    "Financial Times": 14,
     "باسنیوز": 1,
     "The Guardian": 11,
     "Awani International": 1,
@@ -143,7 +161,7 @@
     "The Media Line": 1,
     "Daily Sabah": 1,
     "Addis Standard": 1,
-    "Arab News": 1
+    "Arab News": 5
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -213,7 +231,7 @@
     ],
     "Financial Times": [
      0,
-     9,
+     14,
      0
     ],
     "باسنیوز": [
@@ -253,21 +271,21 @@
     ],
     "Arab News": [
      0,
-     1,
+     5,
      0
     ]
    }
   },
   "2026-11-01": {
-   "total": 56,
-   "news": 56,
+   "total": 62,
+   "news": 62,
    "articles": 0,
    "positive": 0,
-   "neutral": 56,
+   "neutral": 62,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 17,
+    "SA": 18,
     "GB": 12,
     "FR": 4,
     "US": 2
@@ -282,7 +300,7 @@
     "Reuters": 2,
     "سانا": 1,
     "Le Monde.fr": 4,
-    "Arab News": 16,
+    "Arab News": 18,
     "EA WorldView": 1,
     "Al-Monitor": 1,
     "Financial Times": 4,
@@ -301,7 +319,11 @@
     "The New Indian Express": 1,
     "ABC News - Breaking News, Latest News and Videos": 1,
     "조선일보": 1,
-    "صوت الإمارات": 1
+    "صوت الإمارات": 1,
+    "Investing.com": 1,
+    "Egypt Independent": 1,
+    "Middle East Online": 1,
+    "The National": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -346,7 +368,7 @@
     ],
     "Arab News": [
      0,
-     16,
+     18,
      0
     ],
     "EA WorldView": [
@@ -440,6 +462,26 @@
      0
     ],
     "صوت الإمارات": [
+     0,
+     1,
+     0
+    ],
+    "Investing.com": [
+     0,
+     1,
+     0
+    ],
+    "Egypt Independent": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Online": [
+     0,
+     1,
+     0
+    ],
+    "The National": [
      0,
      1,
      0
