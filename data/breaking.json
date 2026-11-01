@@ -1,1 +1,62 @@
-[]
+[
+ {
+  "id": "e7e998cc8bb7684c",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "القوات المسلحة اليمنية: نكبد الميليشيات خسائر كبيرة في تعز",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152030",
+  "published": "2026-11-01T16:53:02.000Z",
+  "subject": "saudi",
+  "added": "2026-11-01T16:53:02.000Z"
+ },
+ {
+  "id": "9a4c5f719a140ead",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "القوات المسلحة اليمنية: نخوض معارك عنيفة في تعز",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152029",
+  "published": "2026-11-01T16:52:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-01T16:52:01.000Z"
+ },
+ {
+  "id": "cd7ea7617181f3c2",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "القوات المسلحة اليمنية: قواتنا استعادت مواقع في جبهة الجوف",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152028",
+  "published": "2026-11-01T16:08:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-01T16:08:01.000Z"
+ },
+ {
+  "id": "c6ffbf3f43643c62",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "القوات المسلحة اليمنية: نفذنا 1272 عملية استهداف لتجمعات الحوثيين خلال 24 ساعة",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152027",
+  "published": "2026-11-01T16:04:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-01T16:04:01.000Z"
+ },
+ {
+  "id": "7533b6704c20485c",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "التحالف: الدفاع الجوي اعترض صاروخا باليستيا أطلقته ميليشيا الحوثي باتجاه المنطقة الجنوبية",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152026",
+  "published": "2026-11-01T15:55:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-01T15:55:01.000Z"
+ }
+]

@@ -24,15 +24,15 @@
    }
   },
   "2026-10-30": {
-   "total": 175,
-   "news": 172,
+   "total": 176,
+   "news": 173,
    "articles": 3,
    "positive": 0,
-   "neutral": 175,
+   "neutral": 176,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "US": 59,
+    "US": 60,
     "FR": 6,
     "HK": 3,
     "GB": 65,
@@ -49,7 +49,7 @@
     "AP News": 6,
     "WSJ": 9,
     "Financial Times": 21,
-    "The New York Times": 6,
+    "The New York Times": 7,
     "Le Monde.fr": 4,
     "Bloomberg.com": 7,
     "Reuters": 23,
@@ -108,7 +108,7 @@
     ],
     "The New York Times": [
      0,
-     6,
+     7,
      0
     ],
     "Le Monde.fr": [
@@ -159,11 +159,11 @@
    }
   },
   "2026-10-31": {
-   "total": 290,
-   "news": 289,
+   "total": 292,
+   "news": 291,
    "articles": 1,
    "positive": 0,
-   "neutral": 290,
+   "neutral": 292,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -172,7 +172,7 @@
     "HK": 4,
     "DE": 1,
     "FR": 7,
-    "GB": 110
+    "GB": 112
    },
    "topics": {},
    "sources": {
@@ -187,11 +187,11 @@
     "DW.com": 1,
     "Al-Monitor": 15,
     "WSJ": 8,
-    "BBC": 13,
+    "BBC": 14,
     "Reuters": 12,
     "Financial Times": 69,
     "باسنیوز": 1,
-    "The Guardian": 16,
+    "The Guardian": 17,
     "Awani International": 1,
     "Le Monde.fr": 6,
     "The Media Line": 1,
@@ -298,7 +298,7 @@
     ],
     "BBC": [
      0,
-     13,
+     14,
      0
     ],
     "Reuters": [
@@ -318,7 +318,7 @@
     ],
     "The Guardian": [
      0,
-     16,
+     17,
      0
     ],
     "Awani International": [
@@ -559,37 +559,38 @@
    }
   },
   "2026-11-01": {
-   "total": 167,
-   "news": 166,
+   "total": 204,
+   "news": 203,
    "articles": 1,
    "positive": 0,
-   "neutral": 167,
+   "neutral": 204,
    "critical": 0,
-   "mbs": 1,
+   "mbs": 2,
    "countries": {
-    "SA": 27,
-    "GB": 24,
-    "FR": 5,
-    "US": 6,
-    "HK": 1
+    "SA": 35,
+    "GB": 32,
+    "FR": 8,
+    "US": 15,
+    "HK": 3,
+    "DE": 1
    },
    "topics": {},
    "sources": {
     "Daily Excelsior": 1,
     "LEADERSHIP Newspapers": 1,
-    "Saudi Gazette": 4,
+    "Saudi Gazette": 7,
     "FF News": 1,
     "BBC": 3,
-    "Reuters": 2,
+    "Reuters": 6,
     "سانا": 1,
-    "Le Monde.fr": 5,
-    "Arab News": 30,
+    "Le Monde.fr": 7,
+    "Arab News": 36,
     "EA WorldView": 1,
     "Al-Monitor": 1,
     "Financial Times": 14,
-    "WSJ": 1,
-    "The Guardian": 5,
-    "ASHARQ AL-AWSAT English": 3,
+    "WSJ": 4,
+    "The Guardian": 9,
+    "ASHARQ AL-AWSAT English": 4,
     "Daily Sabah": 2,
     "بوابة التكنولوجيا المالية": 1,
     "Free Malaysia Today": 1,
@@ -598,7 +599,7 @@
     "Martin Cid Magazine": 1,
     "صحيفة مال": 1,
     "The Arab Weekly": 1,
-    "SaudiGulf Projects": 1,
+    "SaudiGulf Projects": 2,
     "The New Indian Express": 1,
     "ABC News - Breaking News, Latest News and Videos": 1,
     "조선일보": 1,
@@ -607,7 +608,7 @@
     "Egypt Independent": 1,
     "Middle East Online": 1,
     "The National": 2,
-    "UA.NEWS": 1,
+    "UA.NEWS": 2,
     "アラブニュース": 2,
     "Forbes Middle East": 3,
     "Goal.com": 2,
@@ -624,7 +625,7 @@
     "ETV Bharat": 1,
     "The Siasat Daily": 1,
     "The Kenya Times": 1,
-    "ABNA English": 1,
+    "ABNA English": 2,
     "Kenya Association of Travel Agents": 1,
     "وكالة الأنباء السعودية": 1,
     "PR.com": 1,
@@ -651,8 +652,8 @@
     "Investify": 1,
     "The Daily Star": 2,
     "Rediff": 1,
-    "AP News": 2,
-    "South China Morning Post": 1,
+    "AP News": 6,
+    "South China Morning Post": 3,
     "The Filipino Times": 1,
     "CairoScene": 2,
     "Capital FM Africa": 1,
@@ -665,7 +666,12 @@
     "IndexBox": 1,
     "X": 1,
     "The New York Times": 1,
-    "www.kenyans.live": 1
+    "www.kenyans.live": 1,
+    "The Washington Post": 1,
+    "Spiegel": 1,
+    "France 24": 1,
+    "Bloomberg.com": 1,
+    "Anadolu Ajansı": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -680,7 +686,7 @@
     ],
     "Saudi Gazette": [
      0,
-     4,
+     7,
      0
     ],
     "FF News": [
@@ -695,7 +701,7 @@
     ],
     "Reuters": [
      0,
-     2,
+     6,
      0
     ],
     "سانا": [
@@ -705,12 +711,12 @@
     ],
     "Le Monde.fr": [
      0,
-     5,
+     7,
      0
     ],
     "Arab News": [
      0,
-     30,
+     36,
      0
     ],
     "EA WorldView": [
@@ -730,17 +736,17 @@
     ],
     "WSJ": [
      0,
-     1,
+     4,
      0
     ],
     "The Guardian": [
      0,
-     5,
+     9,
      0
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     3,
+     4,
      0
     ],
     "Daily Sabah": [
@@ -785,7 +791,7 @@
     ],
     "SaudiGulf Projects": [
      0,
-     1,
+     2,
      0
     ],
     "The New Indian Express": [
@@ -830,7 +836,7 @@
     ],
     "UA.NEWS": [
      0,
-     1,
+     2,
      0
     ],
     "アラブニュース": [
@@ -915,7 +921,7 @@
     ],
     "ABNA English": [
      0,
-     1,
+     2,
      0
     ],
     "Kenya Association of Travel Agents": [
@@ -1050,12 +1056,12 @@
     ],
     "AP News": [
      0,
-     2,
+     6,
      0
     ],
     "South China Morning Post": [
      0,
-     1,
+     3,
      0
     ],
     "The Filipino Times": [
@@ -1119,6 +1125,31 @@
      0
     ],
     "www.kenyans.live": [
+     0,
+     1,
+     0
+    ],
+    "The Washington Post": [
+     0,
+     1,
+     0
+    ],
+    "Spiegel": [
+     0,
+     1,
+     0
+    ],
+    "France 24": [
+     0,
+     1,
+     0
+    ],
+    "Bloomberg.com": [
+     0,
+     1,
+     0
+    ],
+    "Anadolu Ajansı": [
      0,
      1,
      0
