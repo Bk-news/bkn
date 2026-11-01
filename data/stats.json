@@ -159,11 +159,11 @@
    }
   },
   "2026-10-31": {
-   "total": 322,
-   "news": 321,
+   "total": 323,
+   "news": 322,
    "articles": 1,
    "positive": 0,
-   "neutral": 322,
+   "neutral": 323,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -172,7 +172,7 @@
     "HK": 4,
     "DE": 1,
     "FR": 7,
-    "GB": 131
+    "GB": 132
    },
    "topics": {},
    "sources": {
@@ -188,7 +188,7 @@
     "Al-Monitor": 17,
     "WSJ": 8,
     "BBC": 14,
-    "Reuters": 19,
+    "Reuters": 20,
     "Financial Times": 75,
     "باسنیوز": 1,
     "The Guardian": 23,
@@ -304,7 +304,7 @@
     ],
     "Reuters": [
      0,
-     19,
+     20,
      0
     ],
     "Financial Times": [
@@ -565,16 +565,16 @@
    }
   },
   "2026-11-01": {
-   "total": 372,
-   "news": 370,
+   "total": 374,
+   "news": 372,
    "articles": 2,
    "positive": 0,
-   "neutral": 372,
+   "neutral": 374,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 60,
-    "GB": 71,
+    "GB": 73,
     "FR": 8,
     "US": 33,
     "HK": 3,
@@ -593,7 +593,7 @@
     "Arab News": 64,
     "EA WorldView": 1,
     "Al-Monitor": 3,
-    "Financial Times": 39,
+    "Financial Times": 41,
     "WSJ": 10,
     "The Guardian": 19,
     "ASHARQ AL-AWSAT English": 13,
@@ -776,7 +776,7 @@
     ],
     "Financial Times": [
      0,
-     39,
+     41,
      0
     ],
     "WSJ": [
