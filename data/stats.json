@@ -547,16 +547,16 @@
    }
   },
   "2026-11-01": {
-   "total": 126,
-   "news": 126,
+   "total": 128,
+   "news": 128,
    "articles": 0,
    "positive": 0,
-   "neutral": 126,
+   "neutral": 128,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 19,
-    "GB": 19,
+    "GB": 20,
     "FR": 4,
     "US": 2
    },
@@ -575,7 +575,7 @@
     "Al-Monitor": 1,
     "Financial Times": 10,
     "WSJ": 1,
-    "The Guardian": 4,
+    "The Guardian": 5,
     "ASHARQ AL-AWSAT English": 2,
     "Daily Sabah": 2,
     "بوابة التكنولوجيا المالية": 1,
@@ -634,7 +634,8 @@
     "The Financial Express": 1,
     "BusinessMirror": 1,
     "Telegraph India": 1,
-    "Global Arab Network": 1
+    "Global Arab Network": 1,
+    "Investify": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -704,7 +705,7 @@
     ],
     "The Guardian": [
      0,
-     4,
+     5,
      0
     ],
     "ASHARQ AL-AWSAT English": [
@@ -998,6 +999,11 @@
      0
     ],
     "Global Arab Network": [
+     0,
+     1,
+     0
+    ],
+    "Investify": [
      0,
      1,
      0
