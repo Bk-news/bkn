@@ -24,19 +24,19 @@
    }
   },
   "2026-10-30": {
-   "total": 142,
-   "news": 139,
+   "total": 153,
+   "news": 150,
    "articles": 3,
    "positive": 0,
-   "neutral": 142,
+   "neutral": 153,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 58,
     "FR": 6,
     "HK": 3,
-    "GB": 46,
-    "SA": 29
+    "GB": 50,
+    "SA": 36
    },
    "topics": {},
    "sources": {
@@ -48,7 +48,7 @@
     "South China Morning Post": 3,
     "AP News": 6,
     "WSJ": 9,
-    "Financial Times": 5,
+    "Financial Times": 9,
     "The New York Times": 5,
     "Le Monde.fr": 4,
     "Bloomberg.com": 7,
@@ -57,7 +57,7 @@
     "The Guardian": 9,
     "BBC": 11,
     "Al-Monitor": 20,
-    "Arab News": 29
+    "Arab News": 36
    },
    "sourceTone": {
     "The Washington Post": [
@@ -102,7 +102,7 @@
     ],
     "Financial Times": [
      0,
-     5,
+     9,
      0
     ],
     "The New York Times": [
@@ -147,17 +147,17 @@
     ],
     "Arab News": [
      0,
-     29,
+     36,
      0
     ]
    }
   },
   "2026-10-31": {
-   "total": 231,
-   "news": 230,
+   "total": 255,
+   "news": 254,
    "articles": 1,
    "positive": 0,
-   "neutral": 231,
+   "neutral": 255,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -166,7 +166,7 @@
     "HK": 4,
     "DE": 1,
     "FR": 7,
-    "GB": 83
+    "GB": 95
    },
    "topics": {},
    "sources": {
@@ -183,7 +183,7 @@
     "WSJ": 7,
     "BBC": 13,
     "Reuters": 12,
-    "Financial Times": 45,
+    "Financial Times": 57,
     "باسنیوز": 1,
     "The Guardian": 13,
     "Awani International": 1,
@@ -214,7 +214,16 @@
     "teleSUR English": 1,
     "The Debrief": 1,
     "The Star, Kenya": 1,
-    "Nacionale": 1
+    "Nacionale": 1,
+    "The Arab Weekly": 1,
+    "EnergyNow.com": 1,
+    "Global Arab Network": 2,
+    "NewsCord": 1,
+    "ORF Middle East": 1,
+    "アラブニュース": 3,
+    "Al Jazeera": 1,
+    "Goal.com": 1,
+    "Port of Rotterdam": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -284,7 +293,7 @@
     ],
     "Financial Times": [
      0,
-     45,
+     57,
      0
     ],
     "باسنیوز": [
@@ -441,15 +450,60 @@
      0,
      1,
      0
+    ],
+    "The Arab Weekly": [
+     0,
+     1,
+     0
+    ],
+    "EnergyNow.com": [
+     0,
+     1,
+     0
+    ],
+    "Global Arab Network": [
+     0,
+     2,
+     0
+    ],
+    "NewsCord": [
+     0,
+     1,
+     0
+    ],
+    "ORF Middle East": [
+     0,
+     1,
+     0
+    ],
+    "アラブニュース": [
+     0,
+     3,
+     0
+    ],
+    "Al Jazeera": [
+     0,
+     1,
+     0
+    ],
+    "Goal.com": [
+     0,
+     1,
+     0
+    ],
+    "Port of Rotterdam": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-01": {
-   "total": 112,
-   "news": 112,
+   "total": 117,
+   "news": 117,
    "articles": 0,
    "positive": 0,
-   "neutral": 112,
+   "neutral": 117,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -495,7 +549,7 @@
     "UA.NEWS": 1,
     "アラブニュース": 2,
     "Forbes Middle East": 2,
-    "Goal.com": 1,
+    "Goal.com": 2,
     "https://houseofsaud.com/": 2,
     "Travel & Tourism News Middle East": 1,
     "Bloomberg": 1,
@@ -525,7 +579,10 @@
     "Modern Tokyo Times": 1,
     "LinkedIn": 1,
     "Idaho State Journal": 1,
-    "Corsicana Daily Sun": 1
+    "Corsicana Daily Sun": 1,
+    "EnergyNow.com": 2,
+    "OANANews": 1,
+    "EnergyNow": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -705,7 +762,7 @@
     ],
     "Goal.com": [
      0,
-     1,
+     2,
      0
     ],
     "https://houseofsaud.com/": [
@@ -854,6 +911,21 @@
      0
     ],
     "Corsicana Daily Sun": [
+     0,
+     1,
+     0
+    ],
+    "EnergyNow.com": [
+     0,
+     2,
+     0
+    ],
+    "OANANews": [
+     0,
+     1,
+     0
+    ],
+    "EnergyNow": [
      0,
      1,
      0
