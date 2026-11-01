@@ -2,6 +2,27 @@
  "day": "2026-11-01",
  "items": [
   {
+   "id": "515a3a2220d4627e",
+   "origin": "rss",
+   "source": "Arab News",
+   "author": "",
+   "title_ar": "وزير الدفاع السوري يلتقي وزير الدفاع القطري لتعزيز العلاقات العسكرية",
+   "title_orig": "Syrian defense minister meets Qatar’s defense chief to boost military ties",
+   "title_en": "Syrian defense minister meets Qatar’s defense chief to boost military ties",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaVRLU3pFVGtNV1R4V09aTzM0dHBSa2lxNmhibUlUSU00N0hET1RZUkJDcEVoT2hDNTVfMTRUNVdSa2xud243MlBLZHZXY19IRUwzNDQxdmJQSnpLeDI5Tkl6LXA5c1RxZEhNMkdhTjY1cTdIOGMtSmp4VWI1UkNJdFpUc1N0aTZ4T0ljSjVJeUpOR2pDNHkyRTlySWJLa2tnNVNRbTQybGFNN1lOMGx1QUoyRXNFXzZLV3c?oc=5",
+   "published": "2026-11-01T21:16:53.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "SA",
+   "pending": true,
+   "desc": "Syrian defense minister meets Qatar’s defense chief to boost military ties &nbsp;&nbsp; Arab News",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "58370423107ade10",
    "origin": "rss",
    "source": "WSJ",
