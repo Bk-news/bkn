@@ -559,18 +559,18 @@
    }
   },
   "2026-11-01": {
-   "total": 161,
-   "news": 160,
+   "total": 164,
+   "news": 163,
    "articles": 1,
    "positive": 0,
-   "neutral": 161,
+   "neutral": 164,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 26,
+    "SA": 27,
     "GB": 22,
     "FR": 4,
-    "US": 5,
+    "US": 6,
     "HK": 1
    },
    "topics": {},
@@ -583,7 +583,7 @@
     "Reuters": 2,
     "سانا": 1,
     "Le Monde.fr": 4,
-    "Arab News": 29,
+    "Arab News": 30,
     "EA WorldView": 1,
     "Al-Monitor": 1,
     "Financial Times": 12,
@@ -618,7 +618,7 @@
     "Kurdistan24": 1,
     "Türkiye Today": 1,
     "Yeni Şafak English": 1,
-    "TradeArabia": 1,
+    "TradeArabia": 2,
     "ispace": 1,
     "https://globalpost.com/": 1,
     "ETV Bharat": 1,
@@ -651,7 +651,7 @@
     "Investify": 1,
     "The Daily Star": 2,
     "Rediff": 1,
-    "AP News": 1,
+    "AP News": 2,
     "South China Morning Post": 1,
     "The Filipino Times": 1,
     "CairoScene": 2,
@@ -710,7 +710,7 @@
     ],
     "Arab News": [
      0,
-     29,
+     30,
      0
     ],
     "EA WorldView": [
@@ -885,7 +885,7 @@
     ],
     "TradeArabia": [
      0,
-     1,
+     2,
      0
     ],
     "ispace": [
@@ -1050,7 +1050,7 @@
     ],
     "AP News": [
      0,
-     1,
+     2,
      0
     ],
     "South China Morning Post": [
