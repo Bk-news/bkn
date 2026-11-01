@@ -559,11 +559,11 @@
    }
   },
   "2026-11-01": {
-   "total": 134,
-   "news": 134,
+   "total": 136,
+   "news": 136,
    "articles": 0,
    "positive": 0,
-   "neutral": 134,
+   "neutral": 136,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -653,7 +653,8 @@
     "Rediff": 1,
     "AP News": 1,
     "South China Morning Post": 1,
-    "The Filipino Times": 1
+    "The Filipino Times": 1,
+    "CairoScene": 2
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -1049,6 +1050,11 @@
     "The Filipino Times": [
      0,
      1,
+     0
+    ],
+    "CairoScene": [
+     0,
+     2,
      0
     ]
    }
