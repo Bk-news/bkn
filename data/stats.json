@@ -1,29 +1,29 @@
 {
  "days": {
   "2026-10-30": {
-   "total": 7,
-   "news": 5,
-   "articles": 2,
+   "total": 10,
+   "news": 7,
+   "articles": 3,
    "positive": 0,
-   "neutral": 7,
+   "neutral": 10,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "US": 6,
-    "FR": 1
+    "US": 8,
+    "FR": 2
    },
    "topics": {},
    "sources": {
-    "The Washington Post": 2,
+    "The Washington Post": 3,
     "CNN": 2,
     "Foreign Policy": 1,
-    "Atlantic Council": 1,
-    "France 24": 1
+    "Atlantic Council": 2,
+    "France 24": 2
    },
    "sourceTone": {
     "The Washington Post": [
      0,
-     2,
+     3,
      0
     ],
     "CNN": [
@@ -38,70 +38,77 @@
     ],
     "Atlantic Council": [
      0,
-     1,
+     2,
      0
     ],
     "France 24": [
      0,
-     1,
+     2,
      0
     ]
    }
   },
   "2026-10-31": {
-   "total": 16,
-   "news": 15,
+   "total": 44,
+   "news": 43,
    "articles": 1,
    "positive": 0,
-   "neutral": 16,
+   "neutral": 44,
    "critical": 0,
-   "mbs": 0,
+   "mbs": 1,
    "countries": {
-    "SA": 2,
-    "US": 8,
-    "HK": 2,
+    "SA": 4,
+    "US": 19,
+    "HK": 4,
     "DE": 1,
-    "FR": 1,
-    "GB": 1
+    "FR": 2,
+    "GB": 11
    },
    "topics": {},
    "sources": {
-    "Saudi Gazette": 2,
-    "The New York Times": 2,
-    "AP News": 2,
-    "Bloomberg": 2,
-    "South China Morning Post": 2,
+    "Saudi Gazette": 4,
+    "The New York Times": 4,
+    "AP News": 4,
+    "Bloomberg": 4,
+    "South China Morning Post": 4,
     "Spiegel": 1,
     "France 24": 1,
     "The Economist": 1,
     "DW.com": 1,
-    "Al-Monitor": 1,
-    "WSJ": 1
+    "Al-Monitor": 3,
+    "WSJ": 4,
+    "BBC": 3,
+    "Reuters": 3,
+    "Financial Times": 2,
+    "باسنیوز": 1,
+    "The Guardian": 2,
+    "Awani International": 1,
+    "Le Monde.fr": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
      0,
-     2,
+     4,
      0
     ],
     "The New York Times": [
      0,
-     2,
+     4,
      0
     ],
     "AP News": [
      0,
-     2,
+     4,
      0
     ],
     "Bloomberg": [
      0,
-     2,
+     4,
      0
     ],
     "South China Morning Post": [
      0,
-     2,
+     4,
      0
     ],
     "Spiegel": [
@@ -126,10 +133,45 @@
     ],
     "Al-Monitor": [
      0,
-     1,
+     3,
      0
     ],
     "WSJ": [
+     0,
+     4,
+     0
+    ],
+    "BBC": [
+     0,
+     3,
+     0
+    ],
+    "Reuters": [
+     0,
+     3,
+     0
+    ],
+    "Financial Times": [
+     0,
+     2,
+     0
+    ],
+    "باسنیوز": [
+     0,
+     1,
+     0
+    ],
+    "The Guardian": [
+     0,
+     2,
+     0
+    ],
+    "Awani International": [
+     0,
+     1,
+     0
+    ],
+    "Le Monde.fr": [
      0,
      1,
      0
@@ -137,17 +179,17 @@
    }
   },
   "2026-11-01": {
-   "total": 24,
-   "news": 24,
+   "total": 33,
+   "news": 33,
    "articles": 0,
    "positive": 0,
-   "neutral": 24,
+   "neutral": 33,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 4,
-    "GB": 9,
-    "FR": 2,
+    "SA": 7,
+    "GB": 10,
+    "FR": 4,
     "US": 2
    },
    "topics": {},
@@ -159,14 +201,16 @@
     "BBC": 3,
     "Reuters": 2,
     "سانا": 1,
-    "Le Monde.fr": 2,
-    "Arab News": 2,
+    "Le Monde.fr": 4,
+    "Arab News": 6,
     "EA WorldView": 1,
     "Al-Monitor": 1,
     "Financial Times": 2,
     "WSJ": 1,
-    "The Guardian": 2,
-    "ASHARQ AL-AWSAT English": 1
+    "The Guardian": 3,
+    "ASHARQ AL-AWSAT English": 1,
+    "Daily Sabah": 1,
+    "بوابة التكنولوجيا المالية": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -206,12 +250,12 @@
     ],
     "Le Monde.fr": [
      0,
-     2,
+     4,
      0
     ],
     "Arab News": [
      0,
-     2,
+     6,
      0
     ],
     "EA WorldView": [
@@ -236,10 +280,20 @@
     ],
     "The Guardian": [
      0,
-     2,
+     3,
      0
     ],
     "ASHARQ AL-AWSAT English": [
+     0,
+     1,
+     0
+    ],
+    "Daily Sabah": [
+     0,
+     1,
+     0
+    ],
+    "بوابة التكنولوجيا المالية": [
      0,
      1,
      0
