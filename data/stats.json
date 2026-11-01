@@ -559,18 +559,18 @@
    }
   },
   "2026-11-01": {
-   "total": 285,
-   "news": 283,
+   "total": 289,
+   "news": 287,
    "articles": 2,
    "positive": 0,
-   "neutral": 285,
+   "neutral": 289,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 42,
     "GB": 49,
     "FR": 8,
-    "US": 18,
+    "US": 20,
     "HK": 3,
     "DE": 1
    },
@@ -588,7 +588,7 @@
     "EA WorldView": 1,
     "Al-Monitor": 1,
     "Financial Times": 25,
-    "WSJ": 5,
+    "WSJ": 6,
     "The Guardian": 13,
     "ASHARQ AL-AWSAT English": 12,
     "Daily Sabah": 2,
@@ -652,7 +652,7 @@
     "Investify": 1,
     "The Daily Star": 2,
     "Rediff": 1,
-    "AP News": 6,
+    "AP News": 7,
     "South China Morning Post": 3,
     "The Filipino Times": 1,
     "CairoScene": 2,
@@ -674,7 +674,7 @@
     "Anadolu Ajansı": 3,
     "Jordan News": 1,
     "IraqiNews": 1,
-    "Breakingthenews.net": 1,
+    "Breakingthenews.net": 2,
     "شفق نيوز": 1,
     "Demócrata": 1,
     "Yemen Online": 1,
@@ -691,7 +691,8 @@
     "JPT Homepage": 1,
     "Daily News Egypt": 1,
     "IntelliNews": 1,
-    "The Economist": 1
+    "The Economist": 1,
+    "Defence24.com": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -756,7 +757,7 @@
     ],
     "WSJ": [
      0,
-     5,
+     6,
      0
     ],
     "The Guardian": [
@@ -1076,7 +1077,7 @@
     ],
     "AP News": [
      0,
-     6,
+     7,
      0
     ],
     "South China Morning Post": [
@@ -1186,7 +1187,7 @@
     ],
     "Breakingthenews.net": [
      0,
-     1,
+     2,
      0
     ],
     "شفق نيوز": [
@@ -1270,6 +1271,11 @@
      0
     ],
     "The Economist": [
+     0,
+     1,
+     0
+    ],
+    "Defence24.com": [
      0,
      1,
      0
