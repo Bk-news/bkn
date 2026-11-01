@@ -159,15 +159,15 @@
    }
   },
   "2026-10-31": {
-   "total": 307,
-   "news": 306,
+   "total": 308,
+   "news": 307,
    "articles": 1,
    "positive": 0,
-   "neutral": 307,
+   "neutral": 308,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 61,
+    "SA": 62,
     "US": 48,
     "HK": 4,
     "DE": 1,
@@ -197,7 +197,7 @@
     "The Media Line": 1,
     "Daily Sabah": 1,
     "Addis Standard": 1,
-    "Arab News": 57,
+    "Arab News": 58,
     "The Korea Times": 1,
     "Diario AS": 1,
     "Athens Daily Review": 2,
@@ -348,7 +348,7 @@
     ],
     "Arab News": [
      0,
-     57,
+     58,
      0
     ],
     "The Korea Times": [
