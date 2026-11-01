@@ -4,13 +4,13 @@
 
 import fs from 'node:fs/promises';
 import crypto from 'node:crypto';
-import { FEEDS, X_ACCOUNTS, OPINION_HINTS, RELEVANCE, MBS } from './sources.mjs';
+import { FEEDS, X_ACCOUNTS, OPINION_HINTS, RELEVANCE, MBS, BREAKING_WORDS } from './sources.mjs';
 
 const DATA = new URL('../data/', import.meta.url);
 const KEY = process.env.ANTHROPIC_API_KEY;
 const MODEL = process.env.ANTHROPIC_MODEL || 'claude-haiku-5-5';
 const X_TOKEN = process.env.X_BEARER_TOKEN;
-const MAX_NEW = Number(process.env.MAX_NEW_PER_RUN || 30);
+const MAX_NEW = Number(process.env.MAX_NEW_PER_RUN || (process.env.ANTHROPIC_API_KEY ? 40 : 200));
 const WATCH_SECONDS = Number(process.env.WATCH_SECONDS || 20);
 const BREAKING_TTL = 60 * 60 * 1000;       // العاجل يجلس ساعة
 const MAX_AGE = 3 * 24 * 60 * 60 * 1000;   // نتجاهل أي شي أقدم من ٣ أيام
@@ -55,7 +55,7 @@ async function fetchFeed(feed) {
     if (title.endsWith(` - ${source}`)) title = title.slice(0, -(source.length + 3));
     const date = new Date(tag(b, 'pubDate') || tag(b, 'published') || tag(b, 'updated') || Date.now());
     return {
-      title, url: clean(link), source, lang: feed.lang, country: feed.country || '', feedKind: feed.kind,
+      title, url: clean(link), source, feed: feed.name, lang: feed.lang, country: feed.country || '', feedKind: feed.kind,
       author: clean(tag(b, 'dc:creator') || tag(tag(b, 'author'), 'name')),
       description: clean(tag(b, 'description') || tag(b, 'summary')).slice(0, 700),
       published: isNaN(date) ? new Date().toISOString() : date.toISOString(),
@@ -67,7 +67,7 @@ async function fetchFeed(feed) {
 function heuristic(it) {
   const isOpinion = it.feedKind === 'article' || OPINION_HINTS.some((r) => r.test(it.url));
   return {
-    relevant: RELEVANCE.test(`${it.title} ${it.description}`) || it.feedKind !== 'breaking',
+    relevant: RELEVANCE.test(`${it.title} ${it.description}`),
     kind: isOpinion ? 'article' : 'news',
     title_ar: it.title,
     summary_ar: [],
@@ -291,43 +291,64 @@ async function run() {
     return [];
   });
 
-  const fresh = [];
+  // نستبعد المكرر والقديم والعناوين القصيرة (مثل «الوسائط»)
+  const fresh = [], local = new Set();
   for (const it of raw.sort(byDate('published'))) {
     const id = hash(it.url), tid = hash(it.title.toLowerCase());
-    if (seen.has(id) || seen.has(tid)) continue;
-    seen.add(id); seen.add(tid);
-    if (Date.now() - new Date(it.published) > MAX_AGE) continue;
-    fresh.push({ ...it, id });
+    if (seen.has(id) || seen.has(tid) || local.has(id) || local.has(tid)) continue;
+    local.add(id); local.add(tid);
+    if (Date.now() - new Date(it.published) > MAX_AGE || it.title.split(/\s+/).length < 4) { seen.add(id); seen.add(tid); continue; }
+    fresh.push({ ...it, id, tid });
   }
 
-  // العاجل أولًا ثم الباقي
-  fresh.sort((a, b) => (b.feedKind === 'breaking') - (a.feedKind === 'breaking'));
+  // مصادر العاجل المحلية (واس، العربية) تروح للعاجل فقط، مو لقائمة الأخبار العالمية
+  const brkFresh = fresh.filter((i) => i.feedKind === 'breaking');
+  const world = fresh.filter((i) => i.feedKind !== 'breaking');
 
-  for (const it of fresh.slice(0, MAX_NEW)) {
+  // توزيع عادل: خبر من كل مصدر بالدور، عشان ما يستحوذ مصدر واحد على الدفعة
+  const byFeed = new Map();
+  for (const it of world) { if (!byFeed.has(it.feed)) byFeed.set(it.feed, []); byFeed.get(it.feed).push(it); }
+  const queue = [];
+  for (let more = true; more;) { more = false; for (const list of byFeed.values()) { if (list.length) { queue.push(list.shift()); more = true; } } }
+
+  const markSeen = (it) => { seen.add(it.id); seen.add(it.tid); };
+  const toRec = (it, a) => ({
+    id: it.id, origin: 'rss', source: it.source, author: it.author,
+    title_ar: a.title_ar || it.title, title_orig: it.lang === 'ar' ? '' : it.title,
+    title_en: a.title_en || (it.lang === 'en' ? it.title : ''),
+    summary_ar: a.summary_ar || [], summary_en: a.summary_en || [], url: it.url, published: it.published,
+    subject: a.subject === 'mbs' ? 'mbs' : 'saudi',
+    tone: ['positive', 'neutral', 'critical'].includes(a.tone) ? a.tone : 'neutral',
+    topic: a.topic || '', country: (it.country || a.country || '').toUpperCase().slice(0, 2),
+  });
+  const addBreaking = (rec) => { breaking.unshift({ ...rec, added: now }); newBreaking.push(rec); added.breaking++; };
+
+  // أ) العاجل المحلي: الأحدث فقط (آخر ساعة)، وبحد أقصى ٣ في كل تشغيل
+  let brkCount = 0;
+  for (const it of brkFresh) {
+    markSeen(it);
+    if (brkCount >= 3 || Date.now() - new Date(it.published) > BREAKING_TTL) continue;
+    let a;
+    if (KEY) { try { a = await analyze(it); } catch (e) { console.warn(`تحليل: ${e.message}`); continue; } }
+    else a = { ...heuristic(it), breaking: BREAKING_WORDS.test(it.title) };
+    if (!a.relevant || !a.breaking) continue;
+    addBreaking(toRec(it, a)); brkCount++;
+  }
+
+  // ب) الصحافة العالمية
+  for (const it of queue.slice(0, MAX_NEW)) {
     let a;
     try { a = KEY ? await analyze(it) : heuristic(it); }
-    catch (e) { console.warn(`تحليل: ${e.message}`); a = heuristic(it); }
+    catch (e) { console.warn(`تحليل: ${e.message}`); continue; }   // ما نعلّمه «مقروء» عشان يُعاد في التشغيل الجاي
+    markSeen(it);
     if (!a.relevant) continue;
-
-    const rec = {
-      id: it.id, origin: 'rss', source: it.source, author: it.author,
-      title_ar: a.title_ar || it.title, title_orig: it.lang === 'ar' ? '' : it.title,
-      title_en: a.title_en || (it.lang === 'en' ? it.title : ''),
-      summary_ar: a.summary_ar || [], summary_en: a.summary_en || [], url: it.url, published: it.published,
-      subject: a.subject === 'mbs' ? 'mbs' : 'saudi',
-      tone: ['positive', 'neutral', 'critical'].includes(a.tone) ? a.tone : 'neutral',
-      topic: a.topic || '', country: (it.country || a.country || '').toUpperCase().slice(0, 2),
-    };
+    const rec = toRec(it, a);
     newRecs.push(rec);
     if (a.kind === 'article') { articles.unshift(rec); added.articles++; countIn(stats, rec, 'articles'); }
     else { news.unshift(rec); added.news++; countIn(stats, rec, 'news'); }
-
-    if ((a.breaking || it.feedKind === 'breaking') && Date.now() - new Date(it.published) < BREAKING_TTL) {
-      breaking.unshift({ ...rec, added: now });
-      newBreaking.push(rec);
-      added.breaking++;
-    }
+    if (a.breaking && Date.now() - new Date(it.published) < BREAKING_TTL) addBreaking(rec);
   }
+  if (queue.length > MAX_NEW) console.log(`باقي ${queue.length - MAX_NEW} خبر للتشغيل الجاي`);
 
   // 3) تنظيف: العاجل يختفي بعد ساعة من ظهوره
   breaking = breaking.filter((b) => Date.now() - new Date(b.added || b.published) < BREAKING_TTL).sort(byDate('published'));

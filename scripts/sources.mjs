@@ -83,3 +83,6 @@ export const RELEVANCE = /saudi|riyadh|jeddah|bin salman|\bmbs\b|aramco|neom|ara
 
 // كلمات تدل إن المادة عن ولي العهد (تُستخدم إذا ما فيه مفتاح ذكاء اصطناعي)
 export const MBS = /bin salman|crown prince|\bmbs\b|ben salmane|kronprinz|ولي العهد|محمد بن سلمان/i;
+
+// بدون مفتاح ذكاء اصطناعي: خبر واس أو العربية يصير «عاجل» فقط إذا فيه هذي الكلمات
+export const BREAKING_WORDS = /عاجل|ولي العهد|خادم الحرمين|مجلس الوزراء|أمر ملكي|الديوان الملكي/;
