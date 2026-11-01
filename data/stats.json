@@ -24,19 +24,19 @@
    }
   },
   "2026-10-30": {
-   "total": 178,
-   "news": 175,
+   "total": 180,
+   "news": 177,
    "articles": 3,
    "positive": 0,
-   "neutral": 178,
+   "neutral": 180,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 60,
     "FR": 6,
     "HK": 3,
-    "GB": 67,
-    "SA": 42
+    "GB": 68,
+    "SA": 43
    },
    "topics": {},
    "sources": {
@@ -54,10 +54,10 @@
     "Bloomberg.com": 7,
     "Reuters": 23,
     "Bloomberg": 3,
-    "The Guardian": 12,
+    "The Guardian": 13,
     "BBC": 11,
     "Al-Monitor": 20,
-    "Arab News": 41,
+    "Arab News": 42,
     "Saudi Gazette": 1
    },
    "sourceTone": {
@@ -133,7 +133,7 @@
     ],
     "The Guardian": [
      0,
-     12,
+     13,
      0
     ],
     "BBC": [
@@ -148,7 +148,7 @@
     ],
     "Arab News": [
      0,
-     41,
+     42,
      0
     ],
     "Saudi Gazette": [
@@ -159,20 +159,20 @@
    }
   },
   "2026-10-31": {
-   "total": 296,
-   "news": 295,
+   "total": 306,
+   "news": 305,
    "articles": 1,
    "positive": 0,
-   "neutral": 296,
+   "neutral": 306,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 59,
+    "SA": 61,
     "US": 47,
     "HK": 4,
     "DE": 1,
     "FR": 7,
-    "GB": 116
+    "GB": 124
    },
    "topics": {},
    "sources": {
@@ -188,16 +188,16 @@
     "Al-Monitor": 15,
     "WSJ": 8,
     "BBC": 14,
-    "Reuters": 15,
-    "Financial Times": 69,
+    "Reuters": 16,
+    "Financial Times": 75,
     "باسنیوز": 1,
-    "The Guardian": 18,
+    "The Guardian": 19,
     "Awani International": 1,
     "Le Monde.fr": 6,
     "The Media Line": 1,
     "Daily Sabah": 1,
     "Addis Standard": 1,
-    "Arab News": 55,
+    "Arab News": 57,
     "The Korea Times": 1,
     "Diario AS": 1,
     "Athens Daily Review": 2,
@@ -303,12 +303,12 @@
     ],
     "Reuters": [
      0,
-     15,
+     16,
      0
     ],
     "Financial Times": [
      0,
-     69,
+     75,
      0
     ],
     "باسنیوز": [
@@ -318,7 +318,7 @@
     ],
     "The Guardian": [
      0,
-     18,
+     19,
      0
     ],
     "Awani International": [
@@ -348,7 +348,7 @@
     ],
     "Arab News": [
      0,
-     55,
+     57,
      0
     ],
     "The Korea Times": [
@@ -559,16 +559,16 @@
    }
   },
   "2026-11-01": {
-   "total": 238,
-   "news": 237,
+   "total": 261,
+   "news": 260,
    "articles": 1,
    "positive": 0,
-   "neutral": 238,
+   "neutral": 261,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "SA": 38,
-    "GB": 33,
+    "SA": 40,
+    "GB": 38,
     "FR": 8,
     "US": 15,
     "HK": 3,
@@ -582,15 +582,15 @@
     "FF News": 1,
     "BBC": 3,
     "Reuters": 7,
-    "سانا": 1,
+    "سانا": 2,
     "Le Monde.fr": 7,
-    "Arab News": 40,
+    "Arab News": 46,
     "EA WorldView": 1,
     "Al-Monitor": 1,
-    "Financial Times": 14,
+    "Financial Times": 19,
     "WSJ": 4,
     "The Guardian": 9,
-    "ASHARQ AL-AWSAT English": 9,
+    "ASHARQ AL-AWSAT English": 12,
     "Daily Sabah": 2,
     "بوابة التكنولوجيا المالية": 1,
     "Free Malaysia Today": 1,
@@ -604,14 +604,14 @@
     "ABC News - Breaking News, Latest News and Videos": 1,
     "조선일보": 1,
     "صوت الإمارات": 2,
-    "Investing.com": 1,
+    "Investing.com": 2,
     "Egypt Independent": 1,
     "Middle East Online": 2,
     "The National": 2,
     "UA.NEWS": 2,
     "アラブニュース": 2,
     "Forbes Middle East": 3,
-    "Goal.com": 2,
+    "Goal.com": 3,
     "https://houseofsaud.com/": 5,
     "Travel & Tourism News Middle East": 1,
     "Bloomberg": 1,
@@ -680,8 +680,13 @@
     "Yemen Online": 1,
     "The Express Tribune": 1,
     "The Eastleigh Voice": 1,
-    "Al Arabiya English": 1,
-    "The Times of Israel": 2
+    "Al Arabiya English": 2,
+    "The Times of Israel": 2,
+    "Investing.com UK": 1,
+    "Organization of the Petroleum Exporting Countries": 1,
+    "Global Times": 1,
+    "lovin.co": 1,
+    "Fast Company Middle East": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -716,7 +721,7 @@
     ],
     "سانا": [
      0,
-     1,
+     2,
      0
     ],
     "Le Monde.fr": [
@@ -726,7 +731,7 @@
     ],
     "Arab News": [
      0,
-     40,
+     46,
      0
     ],
     "EA WorldView": [
@@ -741,7 +746,7 @@
     ],
     "Financial Times": [
      0,
-     14,
+     19,
      0
     ],
     "WSJ": [
@@ -756,7 +761,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     9,
+     12,
      0
     ],
     "Daily Sabah": [
@@ -826,7 +831,7 @@
     ],
     "Investing.com": [
      0,
-     1,
+     2,
      0
     ],
     "Egypt Independent": [
@@ -861,7 +866,7 @@
     ],
     "Goal.com": [
      0,
-     2,
+     3,
      0
     ],
     "https://houseofsaud.com/": [
@@ -1206,12 +1211,37 @@
     ],
     "Al Arabiya English": [
      0,
-     1,
+     2,
      0
     ],
     "The Times of Israel": [
      0,
      2,
+     0
+    ],
+    "Investing.com UK": [
+     0,
+     1,
+     0
+    ],
+    "Organization of the Petroleum Exporting Countries": [
+     0,
+     1,
+     0
+    ],
+    "Global Times": [
+     0,
+     1,
+     0
+    ],
+    "lovin.co": [
+     0,
+     1,
+     0
+    ],
+    "Fast Company Middle East": [
+     0,
+     1,
      0
     ]
    }
