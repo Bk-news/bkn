@@ -159,16 +159,16 @@
    }
   },
   "2026-10-31": {
-   "total": 306,
-   "news": 305,
+   "total": 307,
+   "news": 306,
    "articles": 1,
    "positive": 0,
-   "neutral": 306,
+   "neutral": 307,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 61,
-    "US": 47,
+    "US": 48,
     "HK": 4,
     "DE": 1,
     "FR": 7,
@@ -177,7 +177,7 @@
    "topics": {},
    "sources": {
     "Saudi Gazette": 8,
-    "The New York Times": 10,
+    "The New York Times": 11,
     "AP News": 4,
     "Bloomberg": 11,
     "South China Morning Post": 4,
@@ -248,7 +248,7 @@
     ],
     "The New York Times": [
      0,
-     10,
+     11,
      0
     ],
     "AP News": [
@@ -559,18 +559,18 @@
    }
   },
   "2026-11-01": {
-   "total": 261,
-   "news": 260,
+   "total": 265,
+   "news": 264,
    "articles": 1,
    "positive": 0,
-   "neutral": 261,
+   "neutral": 265,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 40,
     "GB": 38,
     "FR": 8,
-    "US": 15,
+    "US": 16,
     "HK": 3,
     "DE": 1
    },
@@ -584,7 +584,7 @@
     "Reuters": 7,
     "سانا": 2,
     "Le Monde.fr": 7,
-    "Arab News": 46,
+    "Arab News": 47,
     "EA WorldView": 1,
     "Al-Monitor": 1,
     "Financial Times": 19,
@@ -627,7 +627,7 @@
     "The Kenya Times": 1,
     "ABNA English": 2,
     "Kenya Association of Travel Agents": 1,
-    "وكالة الأنباء السعودية": 2,
+    "وكالة الأنباء السعودية": 3,
     "PR.com": 1,
     "Radiokaya": 1,
     "MMA Sucka": 1,
@@ -670,7 +670,7 @@
     "The Washington Post": 1,
     "Spiegel": 1,
     "France 24": 1,
-    "Bloomberg.com": 1,
+    "Bloomberg.com": 2,
     "Anadolu Ajansı": 2,
     "Jordan News": 1,
     "IraqiNews": 1,
@@ -686,7 +686,8 @@
     "Organization of the Petroleum Exporting Countries": 1,
     "Global Times": 1,
     "lovin.co": 1,
-    "Fast Company Middle East": 1
+    "Fast Company Middle East": 1,
+    "Investing.com India": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -731,7 +732,7 @@
     ],
     "Arab News": [
      0,
-     46,
+     47,
      0
     ],
     "EA WorldView": [
@@ -946,7 +947,7 @@
     ],
     "وكالة الأنباء السعودية": [
      0,
-     2,
+     3,
      0
     ],
     "PR.com": [
@@ -1161,7 +1162,7 @@
     ],
     "Bloomberg.com": [
      0,
-     1,
+     2,
      0
     ],
     "Anadolu Ajansı": [
@@ -1240,6 +1241,11 @@
      0
     ],
     "Fast Company Middle East": [
+     0,
+     1,
+     0
+    ],
+    "Investing.com India": [
      0,
      1,
      0
