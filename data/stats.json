@@ -24,18 +24,18 @@
    }
   },
   "2026-10-30": {
-   "total": 167,
-   "news": 164,
+   "total": 169,
+   "news": 166,
    "articles": 3,
    "positive": 0,
-   "neutral": 167,
+   "neutral": 169,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 59,
     "FR": 6,
     "HK": 3,
-    "GB": 62,
+    "GB": 64,
     "SA": 37
    },
    "topics": {},
@@ -48,7 +48,7 @@
     "South China Morning Post": 3,
     "AP News": 6,
     "WSJ": 9,
-    "Financial Times": 19,
+    "Financial Times": 21,
     "The New York Times": 6,
     "Le Monde.fr": 4,
     "Bloomberg.com": 7,
@@ -102,7 +102,7 @@
     ],
     "Financial Times": [
      0,
-     19,
+     21,
      0
     ],
     "The New York Times": [
@@ -153,11 +153,11 @@
    }
   },
   "2026-10-31": {
-   "total": 266,
-   "news": 265,
+   "total": 274,
+   "news": 273,
    "articles": 1,
    "positive": 0,
-   "neutral": 266,
+   "neutral": 274,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -166,7 +166,7 @@
     "HK": 4,
     "DE": 1,
     "FR": 7,
-    "GB": 95
+    "GB": 103
    },
    "topics": {},
    "sources": {
@@ -183,7 +183,7 @@
     "WSJ": 7,
     "BBC": 13,
     "Reuters": 12,
-    "Financial Times": 57,
+    "Financial Times": 65,
     "باسنیوز": 1,
     "The Guardian": 13,
     "Awani International": 1,
@@ -301,7 +301,7 @@
     ],
     "Financial Times": [
      0,
-     57,
+     65,
      0
     ],
     "باسنیوز": [
