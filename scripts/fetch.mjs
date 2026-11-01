@@ -4,7 +4,7 @@
 
 import fs from 'node:fs/promises';
 import crypto from 'node:crypto';
-import { FEEDS, TELEGRAM_BREAKING, X_ACCOUNTS, OPINION_HINTS, RELEVANCE, MBS, BREAKING_WORDS, ROUTINE_WORDS } from './sources.mjs';
+import { FEEDS, ROYAL_FEEDS, ROYAL_WORDS, TELEGRAM_BREAKING, X_ACCOUNTS, OPINION_HINTS, RELEVANCE, MBS, BREAKING_WORDS, ROUTINE_WORDS } from './sources.mjs';
 
 const DATA = new URL('../data/', import.meta.url);
 const KEY = process.env.ANTHROPIC_API_KEY;
@@ -37,6 +37,7 @@ async function readJSON(name, fallback = []) {
   try { return JSON.parse(await fs.readFile(new URL(name, DATA), 'utf8')); } catch { return fallback; }
 }
 const writeJSON = (name, data) => fs.writeFile(new URL(name, DATA), JSON.stringify(data, null, 1) + '\n');
+const normTitle = (s) => String(s || '').replace(/[^\u0600-\u06FFa-z0-9]/gi, '').slice(0, 40);
 const dayOf = (iso) => new Date(iso).toISOString().slice(0, 10);
 const subjectOf = (text) => (MBS.test(text) ? 'mbs' : 'saudi');
 
@@ -371,6 +372,27 @@ async function run() {
     breaking.unshift({ ...tg, added: tg.published });   // يبقى ساعة من وقت نشره
     newBreaking.push(tg); added.breaking++;
   }
+
+  // 1ج) واس الملكية: الأخبار الملكية من آخر ٣ ساعات، وتبقى في العاجل ساعة من لحظة ظهورها عندنا
+  const royalRes = await Promise.allSettled(ROYAL_FEEDS.map(fetchFeed));
+  const royalSeenTitles = new Set(breaking.filter((b) => b.origin === 'royal').map((b) => normTitle(b.title_ar)));
+  let royalCount = 0;
+  royalRes.forEach((r, i) => { if (r.status === 'rejected') STATUS.feedsFailed.push(`${ROYAL_FEEDS[i].name}: ${r.reason?.message}`); });
+  const royalItems = royalRes.flatMap((r, i) => (r.status === 'fulfilled' ? r.value.map((it) => ({ ...it, filter: ROYAL_FEEDS[i].filter })) : []))
+    .sort(byDate('published'));
+  for (const it of royalItems) {
+    const title = it.title.replace(/^[^/]{2,20}\s\/\s*/, '').replace(/\s*#?واس\s*$/, '').trim();   // يشيل «سياسي / » من بداية عنوان واس
+    const id = hash(`royal:${it.url}`), nt = normTitle(title);
+    if (seen.has(id) || royalSeenTitles.has(nt)) continue;
+    seen.add(id);
+    if (Date.now() - new Date(it.published) > 3 * 3600e3) continue;
+    if (it.filter && !ROYAL_WORDS.test(title)) continue;
+    if (royalCount >= 5) continue;
+    royalSeenTitles.add(nt); royalCount++;
+    const rec = { id, origin: 'royal', source: 'واس الملكية', country: 'SA', title_ar: title, summary_ar: [], url: it.url, published: it.published, subject: subjectOf(title) };
+    breaking.unshift({ ...rec, added: now }); newBreaking.push(rec); added.breaking++;
+  }
+  STATUS.royal = royalCount;
 
   // 2) RSS
   const results = await Promise.allSettled(FEEDS.map(fetchFeed));

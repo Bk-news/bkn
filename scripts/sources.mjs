@@ -59,6 +59,17 @@ export const FEEDS = [
 
 ];
 
+// ===== واس الأخبار الملكية (نفس محتوى حساب @spagov) =====
+// kind: 'royal' = يدخل العاجل بالاسم «واس الملكية»
+//   filter: true  ← ناخذ بس الأخبار الملكية من خلاصة واس العامة
+export const ROYAL_FEEDS = [
+  { name: 'واس الملكية', source: 'واس الملكية', country: 'SA', kind: 'royal', lang: 'ar', filter: true, url: gn('site:spa.gov.sa when:1d', 'ar') },
+  { name: 'واس الملكية (يوتيوب)', source: 'واس الملكية', country: 'SA', kind: 'royal', lang: 'ar', filter: false,
+    url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCEQSuCD0PR29t2SaDpYHsvg' },
+];
+// كلمات الأخبار الملكية
+export const ROYAL_WORDS = /خادم الحرمين|الملك سلمان|ولي العهد|محمد بن سلمان|الديوان الملكي|أمر ملكي|أوامر ملكية|مرسوم ملكي|مراسيم ملكية|مجلس الوزراء|القيادة (تهنئ|تعزي)|بيان رسمي/;
+
 // ===== مصدر العاجل: قنوات تلقرام عامة (مجانية وبدون حساب) =====
 // كل منشور في القناة يُعتبر خبر عاجل ويظهر في الكاشة الحمراء لمدة ساعة
 export const TELEGRAM_BREAKING = [
