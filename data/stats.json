@@ -24,19 +24,19 @@
    }
   },
   "2026-10-30": {
-   "total": 153,
-   "news": 150,
+   "total": 165,
+   "news": 162,
    "articles": 3,
    "positive": 0,
-   "neutral": 153,
+   "neutral": 165,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 58,
     "FR": 6,
     "HK": 3,
-    "GB": 50,
-    "SA": 36
+    "GB": 61,
+    "SA": 37
    },
    "topics": {},
    "sources": {
@@ -48,16 +48,16 @@
     "South China Morning Post": 3,
     "AP News": 6,
     "WSJ": 9,
-    "Financial Times": 9,
+    "Financial Times": 18,
     "The New York Times": 5,
     "Le Monde.fr": 4,
     "Bloomberg.com": 7,
-    "Reuters": 21,
+    "Reuters": 23,
     "Bloomberg": 3,
     "The Guardian": 9,
     "BBC": 11,
     "Al-Monitor": 20,
-    "Arab News": 36
+    "Arab News": 37
    },
    "sourceTone": {
     "The Washington Post": [
@@ -102,7 +102,7 @@
     ],
     "Financial Times": [
      0,
-     9,
+     18,
      0
     ],
     "The New York Times": [
@@ -122,7 +122,7 @@
     ],
     "Reuters": [
      0,
-     21,
+     23,
      0
     ],
     "Bloomberg": [
@@ -147,17 +147,17 @@
     ],
     "Arab News": [
      0,
-     36,
+     37,
      0
     ]
    }
   },
   "2026-10-31": {
-   "total": 255,
-   "news": 254,
+   "total": 263,
+   "news": 262,
    "articles": 1,
    "positive": 0,
-   "neutral": 255,
+   "neutral": 263,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -191,7 +191,7 @@
     "The Media Line": 1,
     "Daily Sabah": 1,
     "Addis Standard": 1,
-    "Arab News": 49,
+    "Arab News": 50,
     "The Korea Times": 1,
     "Diario AS": 1,
     "Athens Daily Review": 2,
@@ -220,10 +220,16 @@
     "Global Arab Network": 2,
     "NewsCord": 1,
     "ORF Middle East": 1,
-    "アラブニュース": 3,
+    "アラブニュース": 4,
     "Al Jazeera": 1,
     "Goal.com": 1,
-    "Port of Rotterdam": 1
+    "Port of Rotterdam": 1,
+    "Al Arabiya English": 1,
+    "Türkiye Today": 1,
+    "Jackson Advocate": 1,
+    "www.taghribnews.com": 1,
+    "The Times of Israel": 1,
+    "The Jerusalem Post": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -333,7 +339,7 @@
     ],
     "Arab News": [
      0,
-     49,
+     50,
      0
     ],
     "The Korea Times": [
@@ -478,7 +484,7 @@
     ],
     "アラブニュース": [
      0,
-     3,
+     4,
      0
     ],
     "Al Jazeera": [
@@ -492,6 +498,36 @@
      0
     ],
     "Port of Rotterdam": [
+     0,
+     1,
+     0
+    ],
+    "Al Arabiya English": [
+     0,
+     1,
+     0
+    ],
+    "Türkiye Today": [
+     0,
+     1,
+     0
+    ],
+    "Jackson Advocate": [
+     0,
+     1,
+     0
+    ],
+    "www.taghribnews.com": [
+     0,
+     1,
+     0
+    ],
+    "The Times of Israel": [
+     0,
+     1,
+     0
+    ],
+    "The Jerusalem Post": [
      0,
      1,
      0
