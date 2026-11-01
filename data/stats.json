@@ -547,15 +547,15 @@
    }
   },
   "2026-11-01": {
-   "total": 128,
-   "news": 128,
+   "total": 129,
+   "news": 129,
    "articles": 0,
    "positive": 0,
-   "neutral": 128,
+   "neutral": 129,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 19,
+    "SA": 20,
     "GB": 20,
     "FR": 4,
     "US": 2
@@ -570,7 +570,7 @@
     "Reuters": 2,
     "سانا": 1,
     "Le Monde.fr": 4,
-    "Arab News": 21,
+    "Arab News": 22,
     "EA WorldView": 1,
     "Al-Monitor": 1,
     "Financial Times": 10,
@@ -680,7 +680,7 @@
     ],
     "Arab News": [
      0,
-     21,
+     22,
      0
     ],
     "EA WorldView": [
