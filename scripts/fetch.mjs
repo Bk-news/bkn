@@ -105,6 +105,25 @@ async function translateFree(text, to = 'ar') {
   if (!out) throw new Error('translate empty');
   mtCache.set(k, out); return out;
 }
+// ترجمة دفعة عناوين بطلب واحد (كل عنوان في سطر)
+async function translateBatch(texts, to = 'ar') {
+  const out = [];
+  for (let i = 0; i < texts.length;) {
+    const chunk = []; let len = 0;
+    while (i < texts.length && chunk.length < 25 && len + texts[i].length < 4000) { chunk.push(texts[i].replace(/\s+/g, ' ')); len += texts[i].length + 1; i++; }
+    if (!chunk.length) { out.push(''); i++; continue; }
+    const res = await fetch('https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=' + to + '&dt=t', {
+      method: 'POST', headers: { 'content-type': 'application/x-www-form-urlencoded;charset=UTF-8', 'user-agent': 'Mozilla/5.0' },
+      body: 'q=' + encodeURIComponent(chunk.join('\n')), signal: AbortSignal.timeout(15000),
+    });
+    if (!res.ok) throw new Error(`translate ${res.status}`);
+    const lines = ((await res.json())?.[0] || []).map((x) => x?.[0] || '').join('').split('\n').map((x) => x.trim());
+    if (lines.length !== chunk.length) throw new Error(`translate lines ${lines.length}/${chunk.length}`);
+    out.push(...lines);
+    if (i < texts.length) await new Promise((r) => setTimeout(r, 1200));
+  }
+  return out;
+}
 async function withFreeTitle(it, a) {
   if (it.lang === 'ar' || (a.title_ar && a.title_ar !== it.title)) return a;
   try {
@@ -362,7 +381,6 @@ async function run() {
     let a;
     if (KEY) { try { a = await analyze(it); } catch (e) { console.warn(`تحليل: ${e.message}`); STATUS.analyzeErrors++; STATUS.lastError = String(e.message).slice(0, 300); continue; } }
     else a = { ...heuristic(it), breaking: BREAKING_WORDS.test(it.title) };
-    if (!KEY || KEY_BAD) a = await withFreeTitle(it, a);
     if (!a.relevant || !a.breaking) continue;
     addBreaking(toRec(it, a)); brkCount++;
   }
@@ -376,7 +394,6 @@ async function run() {
       if (!KEY_BAD) continue;                 // خطأ مؤقت: نعيد المحاولة في التشغيل الجاي
       a = { ...heuristic(it), pending: true }; // المفتاح مرفوض: نعرضه الحين ونترجمه لاحقًا
     }
-    if (a.pending || !KEY) a = await withFreeTitle(it, a);   // ما نعلّمه «مقروء» عشان يُعاد في التشغيل الجاي
     markSeen(it);
     if (!a.relevant) continue;
     const rec = toRec(it, a);
@@ -406,12 +423,15 @@ async function run() {
       } catch (e) { STATUS.lastError = String(e.message).slice(0, 300); if (KEY_BAD) break; }
     }
   }
-  // د) ترجمة مجانية لعناوين الأخبار المخزنة اللي للحين بلغتها الأصلية
+  // د) ترجمة مجانية لعناوين الأخبار اللي للحين بلغتها الأصلية (دفعات، بحد ١٠٠ عنوان لكل تشغيل)
   if (!KEY || KEY_BAD) {
-    const raw2 = [...news, ...articles].filter((r) => r.pending && !r.mt && r.title_orig && r.title_ar === r.title_orig).slice(0, 80);
-    for (const r of raw2) {
-      try { r.title_ar = await translateFree(r.title_orig, 'ar'); r.mt = true; STATUS.mt = (STATUS.mt || 0) + 1; }
-      catch (e) { STATUS.mtErrors = (STATUS.mtErrors || 0) + 1; STATUS.mtLastError = e.message; break; }
+    const todo = [...news, ...articles, ...breaking].filter((r) => r.title_orig && r.title_ar === r.title_orig && !r.mt).slice(0, 100);
+    if (todo.length) {
+      try {
+        const ar = await translateBatch(todo.map((r) => r.title_orig));
+        todo.forEach((r, i) => { if (ar[i]) { r.title_ar = ar[i]; r.mt = true; } });
+        STATUS.mt = (STATUS.mt || 0) + ar.filter(Boolean).length;
+      } catch (e) { STATUS.mtErrors = (STATUS.mtErrors || 0) + 1; STATUS.mtLastError = e.message; }
     }
   }
   news = news.filter((r) => !r.drop); articles = articles.filter((r) => !r.drop);
