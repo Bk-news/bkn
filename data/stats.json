@@ -559,18 +559,18 @@
    }
   },
   "2026-11-01": {
-   "total": 145,
+   "total": 146,
    "news": 145,
-   "articles": 0,
+   "articles": 1,
    "positive": 0,
-   "neutral": 145,
+   "neutral": 146,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 24,
     "GB": 21,
     "FR": 4,
-    "US": 3,
+    "US": 4,
     "HK": 1
    },
    "topics": {},
@@ -657,7 +657,8 @@
     "CairoScene": 2,
     "Capital FM Africa": 1,
     "Ynetnews": 1,
-    "Rus Tourism News": 1
+    "Rus Tourism News": 1,
+    "Atlantic Council": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -1071,6 +1072,11 @@
      0
     ],
     "Rus Tourism News": [
+     0,
+     1,
+     0
+    ],
+    "Atlantic Council": [
      0,
      1,
      0
