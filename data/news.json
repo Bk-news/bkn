@@ -1617,6 +1617,27 @@
   "mt": true
  },
  {
+  "id": "38d867a37e961160",
+  "origin": "rss",
+  "source": "Asian Football Confederation (AFC)",
+  "author": "",
+  "title_ar": "استعراض: الوصل (الإمارات العربية المتحدة) - إير فورس إس سي (IRQ)",
+  "title_orig": "Preview: Al Wasl FC (UAE) v Air Force SC (IRQ)",
+  "title_en": "Preview: Al Wasl FC (UAE) v Air Force SC (IRQ)",
+  "summary_ar": [],
+  "summary_en": [],
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdHJrWlIwd2dJdHJlV0trb015dHRmczFWNXNZR0NSUDdkNWJ3VDlBS2RVclJHSnFYXzU5Vm9HMG0wY2o5TzVGLTdfbFdwZjIzYzhmVDJhYnd1QmVQVTlrR19ReDlXbWozNXlpdER5dURJc1ltSERycXcwOVRBbjJmbnBXUnFDZjVaWllVQnNVaDRxMUdCdDZPNVAwWFdvd0hrcHlXTFNYSmhSRkFZVXNB?oc=5",
+  "published": "2026-11-01T04:47:18.000Z",
+  "subject": "saudi",
+  "tone": "neutral",
+  "topic": "",
+  "country": "",
+  "pending": true,
+  "desc": "Preview: Al Wasl FC (UAE) v Air Force SC (IRQ) &nbsp;&nbsp; Asian Football Confederation (AFC)",
+  "lang": "en",
+  "mt": true
+ },
+ {
   "id": "2de1883b971a4146",
   "origin": "rss",
   "source": "Saudi Gazette",
@@ -5649,6 +5670,27 @@
   "mt": true
  },
  {
+  "id": "719694345d7e8c10",
+  "origin": "rss",
+  "source": "Daily Nation",
+  "author": "",
+  "title_ar": "تفرض المملكة العربية السعودية حظراً على السفر بسبب فيروس إيبولا على كينيا مع تشديد الدول الضوابط",
+  "title_orig": "Saudi Arabia imposes Ebola-related travel bans on Kenya as countries tighten controls",
+  "title_en": "Saudi Arabia imposes Ebola-related travel bans on Kenya as countries tighten controls",
+  "summary_ar": [],
+  "summary_en": [],
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcXBjY3RoMnNlMFc5ZmhMaTlmVkotYlM3Q1cyWkZCT0FTQ3JKRHM4bUx6cklMZE96R1RHRDhuRFo4V0RiX3MzMzFuTmNVZkpiYkEwellZUHVsSXV6NGtnMS03VlJBU2YycmptYXNadnE1MW1tTHNnQ1M0QVZPWXIyZm9DTVhhWTgxVWtrYW9fcm51em1lV0lQYnZPX2NCM2RVdUVYQTVwVQ?oc=5",
+  "published": "2026-10-31T13:18:29.000Z",
+  "subject": "saudi",
+  "tone": "neutral",
+  "topic": "",
+  "country": "",
+  "pending": true,
+  "desc": "Saudi Arabia imposes Ebola-related travel bans on Kenya as countries tighten controls &nbsp;&nbsp; Daily Nation",
+  "lang": "en",
+  "mt": true
+ },
+ {
   "id": "9f6fbdaacc4765a7",
   "origin": "rss",
   "source": "The Guardian",
@@ -5842,7 +5884,7 @@
   "origin": "rss",
   "source": "Bloomberg",
   "author": "",
-  "title_ar": "War With Iran: Trending News, Latest Updates, Analysis",
+  "title_ar": "الحرب مع إيران: الأخبار الشائعة وآخر التحديثات والتحليلات",
   "title_orig": "War With Iran: Trending News, Latest Updates, Analysis",
   "title_en": "War With Iran: Trending News, Latest Updates, Analysis",
   "summary_ar": [],
@@ -5855,7 +5897,8 @@
   "country": "US",
   "pending": true,
   "desc": "War With Iran: Trending News, Latest Updates, Analysis &nbsp;&nbsp; Bloomberg",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "07f5644a3a5d8f20",
@@ -5904,7 +5947,7 @@
   "origin": "rss",
   "source": "The Guardian",
   "author": "",
-  "title_ar": "Red Roses put defeats behind them by crushing USA to extend 35-year streak",
+  "title_ar": "وضع فريق Red Roses الهزائم خلفهم بسحق الولايات المتحدة لتمديد خط 35 عامًا",
   "title_orig": "Red Roses put defeats behind them by crushing USA to extend 35-year streak",
   "title_en": "Red Roses put defeats behind them by crushing USA to extend 35-year streak",
   "summary_ar": [],
@@ -5917,14 +5960,15 @@
   "country": "GB",
   "pending": true,
   "desc": "Red Roses put defeats behind them by crushing USA to extend 35-year streak &nbsp;&nbsp; The Guardian",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "7a9772874261f32e",
   "origin": "rss",
   "source": "Reuters",
   "author": "",
-  "title_ar": "Iranian official says US attacked fishing boats off Qeshm Island, state media reports",
+  "title_ar": "مسؤول إيراني يقول إن الولايات المتحدة هاجمت قوارب صيد قبالة جزيرة قشم، بحسب وسائل إعلام رسمية",
   "title_orig": "Iranian official says US attacked fishing boats off Qeshm Island, state media reports",
   "title_en": "Iranian official says US attacked fishing boats off Qeshm Island, state media reports",
   "summary_ar": [],
@@ -5937,7 +5981,8 @@
   "country": "GB",
   "pending": true,
   "desc": "Iranian official says US attacked fishing boats off Qeshm Island, state media reports &nbsp;&nbsp; Reuters",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "d321bce766622086",
@@ -5965,7 +6010,7 @@
   "origin": "rss",
   "source": "The New York Times",
   "author": "",
-  "title_ar": "In-Car Insights: How Antonelli's opposition fell apart in Austin qualifying | The Race F1 Podcast | Podcasts | The Athletic",
+  "title_ar": "رؤى داخل السيارة: كيف انهارت معارضة أنتونيلي في تصفيات أوستن | بودكاست السباق F1 | البودكاست | الرياضي",
   "title_orig": "In-Car Insights: How Antonelli's opposition fell apart in Austin qualifying | The Race F1 Podcast | Podcasts | The Athletic",
   "title_en": "In-Car Insights: How Antonelli's opposition fell apart in Austin qualifying | The Race F1 Podcast | Podcasts | The Athletic",
   "summary_ar": [],
@@ -5978,7 +6023,8 @@
   "country": "US",
   "pending": true,
   "desc": "In-Car Insights: How Antonelli's opposition fell apart in Austin qualifying | The Race F1 Podcast | Podcasts | The Athletic &nbsp;&nbsp; The New York Times",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "6d09faa1f05619d1",
@@ -6006,7 +6052,7 @@
   "origin": "rss",
   "source": "Financial Times",
   "author": "",
-  "title_ar": "Reply SpA, REJA:MUN summary - FT.com",
+  "title_ar": "الرد SpA، REJA: ملخص MUN - FT.com",
   "title_orig": "Reply SpA, REJA:MUN summary - FT.com",
   "title_en": "Reply SpA, REJA:MUN summary - FT.com",
   "summary_ar": [],
@@ -6019,7 +6065,8 @@
   "country": "GB",
   "pending": true,
   "desc": "Reply SpA, REJA:MUN summary - FT.com &nbsp;&nbsp; Financial Times",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "237340e965e97573",
@@ -6047,7 +6094,7 @@
   "origin": "rss",
   "source": "Financial Times",
   "author": "",
-  "title_ar": "Barclays PLC, BCS:NYQ financials - FT.com",
+  "title_ar": "Barclays PLC، BCS: البيانات المالية في NYQ - FT.com",
   "title_orig": "Barclays PLC, BCS:NYQ financials - FT.com",
   "title_en": "Barclays PLC, BCS:NYQ financials - FT.com",
   "summary_ar": [],
@@ -6060,14 +6107,15 @@
   "country": "GB",
   "pending": true,
   "desc": "Barclays PLC, BCS:NYQ financials - FT.com &nbsp;&nbsp; Financial Times",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "da667478d6001854",
   "origin": "rss",
   "source": "Saudi Gazette",
   "author": "",
-  "title_ar": "Air defenses intercept hostile drone in Riyadh region, no injuries reported",
+  "title_ar": "الدفاعات الجوية تعترض طائرة بدون طيار معادية في منطقة الرياض ولا أنباء عن وقوع إصابات",
   "title_orig": "Air defenses intercept hostile drone in Riyadh region, no injuries reported",
   "title_en": "Air defenses intercept hostile drone in Riyadh region, no injuries reported",
   "summary_ar": [],
@@ -6080,7 +6128,8 @@
   "country": "SA",
   "pending": true,
   "desc": "Air defenses intercept hostile drone in Riyadh region, no injuries reported &nbsp;&nbsp; Saudi Gazette",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "7a78cb2d2d997ccc",
@@ -6108,7 +6157,7 @@
   "origin": "rss",
   "source": "Bloomberg",
   "author": "",
-  "title_ar": "Norwegian Firm Has $100 Million Riding on Mercuria’s Baltic Case",
+  "title_ar": "شركة نرويجية تحصل على 100 مليون دولار في قضية ميركوريا في منطقة البلطيق",
   "title_orig": "Norwegian Firm Has $100 Million Riding on Mercuria’s Baltic Case",
   "title_en": "Norwegian Firm Has $100 Million Riding on Mercuria’s Baltic Case",
   "summary_ar": [],
@@ -6121,7 +6170,8 @@
   "country": "US",
   "pending": true,
   "desc": "Norwegian Firm Has $100 Million Riding on Mercuria’s Baltic Case &nbsp;&nbsp; Bloomberg",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "bf2528ea5fce27aa",
@@ -6170,7 +6220,7 @@
   "origin": "rss",
   "source": "Financial Times",
   "author": "",
-  "title_ar": "Belden Inc., BDC:NYQ summary - FT.com",
+  "title_ar": "شركة بيلدن، BDC:ملخص NYQ – FT.com",
   "title_orig": "Belden Inc., BDC:NYQ summary - FT.com",
   "title_en": "Belden Inc., BDC:NYQ summary - FT.com",
   "summary_ar": [],
@@ -6183,7 +6233,8 @@
   "country": "GB",
   "pending": true,
   "desc": "Belden Inc., BDC:NYQ summary - FT.com &nbsp;&nbsp; Financial Times",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "26571d9643ce0562",
@@ -6295,7 +6346,7 @@
   "origin": "rss",
   "source": "The New York Times",
   "author": "",
-  "title_ar": "hogeandjahns – The Athletic",
+  "title_ar": "hogeandjahns - الرياضي",
   "title_orig": "hogeandjahns – The Athletic",
   "title_en": "hogeandjahns – The Athletic",
   "summary_ar": [],
@@ -6308,7 +6359,8 @@
   "country": "US",
   "pending": true,
   "desc": "hogeandjahns – The Athletic &nbsp;&nbsp; The New York Times",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "cdccd2f2d70d317b",
@@ -6357,7 +6409,7 @@
   "origin": "rss",
   "source": "The Guardian",
   "author": "",
-  "title_ar": "Fallon Sherrock pulls off shock defeat of world darts No 1 Luke Littler in live TV battle",
+  "title_ar": "يحقق فالون شيروك هزيمة مفاجئة للاعب السهام رقم 1 في العالم لوك ليتلر في معركة تلفزيونية مباشرة",
   "title_orig": "Fallon Sherrock pulls off shock defeat of world darts No 1 Luke Littler in live TV battle",
   "title_en": "Fallon Sherrock pulls off shock defeat of world darts No 1 Luke Littler in live TV battle",
   "summary_ar": [],
@@ -6370,7 +6422,8 @@
   "country": "GB",
   "pending": true,
   "desc": "Fallon Sherrock pulls off shock defeat of world darts No 1 Luke Littler in live TV battle &nbsp;&nbsp; The Guardian",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "0a5ee5711aa2f2e6",
@@ -6461,7 +6514,7 @@
   "origin": "rss",
   "source": "The Guardian",
   "author": "",
-  "title_ar": "As Trump fans the flames of a world on fire, can diplomacy take back control?",
+  "title_ar": "وبينما يشعل ترامب نار عالم مشتعل، فهل تستطيع الدبلوماسية استعادة السيطرة؟",
   "title_orig": "As Trump fans the flames of a world on fire, can diplomacy take back control?",
   "title_en": "As Trump fans the flames of a world on fire, can diplomacy take back control?",
   "summary_ar": [],
@@ -6474,14 +6527,15 @@
   "country": "GB",
   "pending": true,
   "desc": "As Trump fans the flames of a world on fire, can diplomacy take back control? &nbsp;&nbsp; The Guardian",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "9f8e7f6d3c3dd11a",
   "origin": "rss",
   "source": "Bloomberg",
   "author": "",
-  "title_ar": "The Midterms Go Global as Voters Beyond US Turn Sour on Trumpism",
+  "title_ar": "الانتخابات النصفية تصبح عالمية مع غضب الناخبين خارج الولايات المتحدة من الترامبية",
   "title_orig": "The Midterms Go Global as Voters Beyond US Turn Sour on Trumpism",
   "title_en": "The Midterms Go Global as Voters Beyond US Turn Sour on Trumpism",
   "summary_ar": [],
@@ -6494,14 +6548,15 @@
   "country": "US",
   "pending": true,
   "desc": "The Midterms Go Global as Voters Beyond US Turn Sour on Trumpism &nbsp;&nbsp; Bloomberg",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "ea8f778e47dfdd0e",
   "origin": "rss",
   "source": "WSJ",
   "author": "",
-  "title_ar": "Elizabeth Holmes Still Can’t Escape the Black Turtleneck",
+  "title_ar": "لا تزال إليزابيث هولمز غير قادرة على الهروب من الياقة المدورة السوداء",
   "title_orig": "Elizabeth Holmes Still Can’t Escape the Black Turtleneck",
   "title_en": "Elizabeth Holmes Still Can’t Escape the Black Turtleneck",
   "summary_ar": [],
@@ -6514,7 +6569,8 @@
   "country": "US",
   "pending": true,
   "desc": "Elizabeth Holmes Still Can’t Escape the Black Turtleneck &nbsp;&nbsp; WSJ",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "23c22d191a082aa7",
@@ -6542,7 +6598,7 @@
   "origin": "rss",
   "source": "BBC",
   "author": "",
-  "title_ar": "BBC Verify | Latest News & Updates | BBC News",
+  "title_ar": "بي بي سي تحقق | آخر الأخبار والمستجدات | بي بي سي نيوز",
   "title_orig": "BBC Verify | Latest News & Updates | BBC News",
   "title_en": "BBC Verify | Latest News & Updates | BBC News",
   "summary_ar": [],
@@ -6555,7 +6611,8 @@
   "country": "GB",
   "pending": true,
   "desc": "BBC Verify | Latest News & Updates | BBC News &nbsp;&nbsp; BBC",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "c4116f26f83c7847",
@@ -6583,7 +6640,7 @@
   "origin": "rss",
   "source": "BBC",
   "author": "",
-  "title_ar": "Law about burying dead in Nigeria: Wetin Nigerian law tok about burying dead pipo for residential areas",
+  "title_ar": "قانون دفن الموتى في نيجيريا: قانون ويتن النيجيري يتحدث عن دفن الميت بيبو في المناطق السكنية",
   "title_orig": "Law about burying dead in Nigeria: Wetin Nigerian law tok about burying dead pipo for residential areas",
   "title_en": "Law about burying dead in Nigeria: Wetin Nigerian law tok about burying dead pipo for residential areas",
   "summary_ar": [],
@@ -6596,14 +6653,15 @@
   "country": "GB",
   "pending": true,
   "desc": "Law about burying dead in Nigeria: Wetin Nigerian law tok about burying dead pipo for residential areas &nbsp;&nbsp; BBC",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "d2571676533e085e",
   "origin": "rss",
   "source": "France 24",
   "author": "",
-  "title_ar": "Russia's presence divides G20 ministers",
+  "title_ar": "ويثير حضور روسيا انقساما بين وزراء مجموعة العشرين",
   "title_orig": "Russia's presence divides G20 ministers",
   "title_en": "Russia's presence divides G20 ministers",
   "summary_ar": [],
@@ -6616,7 +6674,8 @@
   "country": "FR",
   "pending": true,
   "desc": "Russia's presence divides G20 ministers &nbsp;&nbsp; France 24",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "ddb7e2a48409235d",
@@ -6644,7 +6703,7 @@
   "origin": "rss",
   "source": "Le Monde.fr",
   "author": "",
-  "title_ar": "Le Monde - Toute l’actualité en continu",
+  "title_ar": "لوموند - Toute l'actualité en continu",
   "title_orig": "Le Monde - Toute l’actualité en continu",
   "title_en": "",
   "summary_ar": [],
@@ -6657,14 +6716,15 @@
   "country": "FR",
   "pending": true,
   "desc": "Le Monde - Toute l’actualité en continu &nbsp;&nbsp; Le Monde.fr",
-  "lang": "fr"
+  "lang": "fr",
+  "mt": true
  },
  {
   "id": "953060d25e094dbf",
   "origin": "rss",
   "source": "BBC",
   "author": "",
-  "title_ar": "India | Latest News & Updates",
+  "title_ar": "الهند | آخر الأخبار والمستجدات",
   "title_orig": "India | Latest News & Updates",
   "title_en": "India | Latest News & Updates",
   "summary_ar": [],
@@ -6677,7 +6737,8 @@
   "country": "GB",
   "pending": true,
   "desc": "India | Latest News & Updates &nbsp;&nbsp; BBC",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "a137b72f6d9a0afe",
@@ -6705,7 +6766,7 @@
   "origin": "rss",
   "source": "Bloomberg",
   "author": "",
-  "title_ar": "Charting the Global Economy: Central Banks Hold Rates Steady",
+  "title_ar": "رسم الاقتصاد العالمي: البنوك المركزية تبقي أسعار الفائدة ثابتة",
   "title_orig": "Charting the Global Economy: Central Banks Hold Rates Steady",
   "title_en": "Charting the Global Economy: Central Banks Hold Rates Steady",
   "summary_ar": [],
@@ -6718,14 +6779,15 @@
   "country": "US",
   "pending": true,
   "desc": "Charting the Global Economy: Central Banks Hold Rates Steady &nbsp;&nbsp; Bloomberg",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "a08e4b7b5d36014b",
   "origin": "rss",
   "source": "Bloomberg",
   "author": "",
-  "title_ar": "Houthi Attacks on Riyadh Airport Ramp Up Flight Cancellations",
+  "title_ar": "هجمات الحوثيين على مطار الرياض تؤدي إلى إلغاء الرحلات الجوية",
   "title_orig": "Houthi Attacks on Riyadh Airport Ramp Up Flight Cancellations",
   "title_en": "Houthi Attacks on Riyadh Airport Ramp Up Flight Cancellations",
   "summary_ar": [],
@@ -6738,14 +6800,15 @@
   "country": "US",
   "pending": true,
   "desc": "Houthi Attacks on Riyadh Airport Ramp Up Flight Cancellations &nbsp;&nbsp; Bloomberg",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "a241d88b05bd3d9e",
   "origin": "rss",
   "source": "The Guardian",
   "author": "",
-  "title_ar": "‘Bunch of baloney’: calls grow for Cop summit reforms as countries on track to fail nature targets",
+  "title_ar": "\"حفنة من الهراء\": تزايد الدعوات لإصلاحات قمة مؤتمر الأطراف في الوقت الذي تسير فيه البلدان على الطريق الصحيح للفشل في تحقيق أهداف الطبيعة",
   "title_orig": "‘Bunch of baloney’: calls grow for Cop summit reforms as countries on track to fail nature targets",
   "title_en": "‘Bunch of baloney’: calls grow for Cop summit reforms as countries on track to fail nature targets",
   "summary_ar": [],
@@ -6758,7 +6821,8 @@
   "country": "GB",
   "pending": true,
   "desc": "‘Bunch of baloney’: calls grow for Cop summit reforms as countries on track to fail nature targets &nbsp;&nbsp; The Guardian",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "2926856b1121399b",
@@ -6807,7 +6871,7 @@
   "origin": "rss",
   "source": "South China Morning Post",
   "author": "",
-  "title_ar": "Opinion | Both Japan and China can help Bangladesh reach its full potential",
+  "title_ar": "رأي | وبوسع كل من اليابان والصين أن تساعد بنجلاديش في تحقيق إمكاناتها الكاملة",
   "title_orig": "Opinion | Both Japan and China can help Bangladesh reach its full potential",
   "title_en": "Opinion | Both Japan and China can help Bangladesh reach its full potential",
   "summary_ar": [],
@@ -6820,7 +6884,8 @@
   "country": "HK",
   "pending": true,
   "desc": "Opinion | Both Japan and China can help Bangladesh reach its full potential &nbsp;&nbsp; South China Morning Post",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "81d140c26eef214a",
@@ -6848,7 +6913,7 @@
   "origin": "rss",
   "source": "Reuters",
   "author": "",
-  "title_ar": "Egypt fears escalation in Iran war would be more destructive, foreign minister says",
+  "title_ar": "قال وزير الخارجية المصري إن مصر تخشى أن يكون التصعيد في الحرب مع إيران أكثر تدميرا",
   "title_orig": "Egypt fears escalation in Iran war would be more destructive, foreign minister says",
   "title_en": "Egypt fears escalation in Iran war would be more destructive, foreign minister says",
   "summary_ar": [],
@@ -6861,14 +6926,15 @@
   "country": "GB",
   "pending": true,
   "desc": "Egypt fears escalation in Iran war would be more destructive, foreign minister says &nbsp;&nbsp; Reuters",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "153ada89a0964985",
   "origin": "rss",
   "source": "Al-Monitor",
   "author": "",
-  "title_ar": "¿Quién cederá primero en los últimos esfuerzos diplomáticos entre Estados Unidos e Irán?",
+  "title_ar": "¿من سينقل أولاً إلى آخر البعثات الدبلوماسية بين الولايات المتحدة وإيران؟",
   "title_orig": "¿Quién cederá primero en los últimos esfuerzos diplomáticos entre Estados Unidos e Irán?",
   "title_en": "¿Quién cederá primero en los últimos esfuerzos diplomáticos entre Estados Unidos e Irán?",
   "summary_ar": [],
@@ -6881,7 +6947,8 @@
   "country": "US",
   "pending": true,
   "desc": "¿Quién cederá primero en los últimos esfuerzos diplomáticos entre Estados Unidos e Irán? &nbsp;&nbsp; Al-Monitor",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "d2490266f199d0b0",
@@ -6930,7 +6997,7 @@
   "origin": "rss",
   "source": "Al-Monitor",
   "author": "",
-  "title_ar": "Who will blink first in latest US-Iran diplomacy efforts?",
+  "title_ar": "من الذي سوف يرمش أولاً في الجهود الدبلوماسية الأخيرة بين الولايات المتحدة وإيران؟",
   "title_orig": "Who will blink first in latest US-Iran diplomacy efforts?",
   "title_en": "Who will blink first in latest US-Iran diplomacy efforts?",
   "summary_ar": [],
@@ -6943,14 +7010,15 @@
   "country": "US",
   "pending": true,
   "desc": "Who will blink first in latest US-Iran diplomacy efforts? &nbsp;&nbsp; Al-Monitor",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "55ba1c0d4a5f3b12",
   "origin": "rss",
   "source": "Al-Monitor",
   "author": "",
-  "title_ar": "After EU rebuff, how Turkey is courting Egypt for maritime deal",
+  "title_ar": "بعد رفض الاتحاد الأوروبي، كيف تتودد تركيا إلى مصر لإبرام صفقة بحرية؟",
   "title_orig": "After EU rebuff, how Turkey is courting Egypt for maritime deal",
   "title_en": "After EU rebuff, how Turkey is courting Egypt for maritime deal",
   "summary_ar": [],
@@ -6963,14 +7031,15 @@
   "country": "US",
   "pending": true,
   "desc": "After EU rebuff, how Turkey is courting Egypt for maritime deal &nbsp;&nbsp; Al-Monitor",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "2739e273d9b4589a",
   "origin": "rss",
   "source": "Al-Monitor",
   "author": "",
-  "title_ar": "Could Israel’s election deadlock threaten its resilient economy?",
+  "title_ar": "هل يهدد الجمود الذي وصلت إليه الانتخابات الإسرائيلية اقتصادها المرن؟",
   "title_orig": "Could Israel’s election deadlock threaten its resilient economy?",
   "title_en": "Could Israel’s election deadlock threaten its resilient economy?",
   "summary_ar": [],
@@ -6983,7 +7052,8 @@
   "country": "US",
   "pending": true,
   "desc": "Could Israel’s election deadlock threaten its resilient economy? &nbsp;&nbsp; Al-Monitor",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "ef24c74b59f1db83",
@@ -7011,7 +7081,7 @@
   "origin": "rss",
   "source": "BBC",
   "author": "",
-  "title_ar": "United States 12-55 England: Meg Jones asks for unpredictability",
+  "title_ar": "الولايات المتحدة 12-55 إنجلترا: ميج جونز تطالب بعدم القدرة على التنبؤ",
   "title_orig": "United States 12-55 England: Meg Jones asks for unpredictability",
   "title_en": "United States 12-55 England: Meg Jones asks for unpredictability",
   "summary_ar": [],
@@ -7024,14 +7094,15 @@
   "country": "GB",
   "pending": true,
   "desc": "United States 12-55 England: Meg Jones asks for unpredictability &nbsp;&nbsp; BBC",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "0ac3424f2f298ad6",
   "origin": "rss",
   "source": "Saudi Gazette",
   "author": "",
-  "title_ar": "Where was Saudi Arabia’s first wind turbine installed?",
+  "title_ar": "أين تم تركيب أول توربينة رياح في المملكة العربية السعودية؟",
   "title_orig": "Where was Saudi Arabia’s first wind turbine installed?",
   "title_en": "Where was Saudi Arabia’s first wind turbine installed?",
   "summary_ar": [],
@@ -7044,14 +7115,15 @@
   "country": "SA",
   "pending": true,
   "desc": "Where was Saudi Arabia’s first wind turbine installed? &nbsp;&nbsp; Saudi Gazette",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "cc1f2ac05d98ba00",
   "origin": "rss",
   "source": "Le Monde.fr",
   "author": "",
-  "title_ar": "COP biodiversité : à Erevan, en Arménie, près de 200 Etats s’accordent sur des textes-clés mais à l’ambition affaiblie",
+  "title_ar": "مؤتمر الأطراف في مجال التنوع البيولوجي: في يريفان، أرمينيا، اتفقت حوالي 200 دولة على النصوص الرئيسية ولكن بطموح ضعيف",
   "title_orig": "COP biodiversité : à Erevan, en Arménie, près de 200 Etats s’accordent sur des textes-clés mais à l’ambition affaiblie",
   "title_en": "",
   "summary_ar": [],
@@ -7064,7 +7136,8 @@
   "country": "FR",
   "pending": true,
   "desc": "COP biodiversité : à Erevan, en Arménie, près de 200 Etats s’accordent sur des textes-clés mais à l’ambition affaiblie &nbsp;&nbsp; Le Monde.fr",
-  "lang": "fr"
+  "lang": "fr",
+  "mt": true
  },
  {
   "id": "4e03727b6db38090",
@@ -7197,7 +7270,7 @@
   "origin": "rss",
   "source": "The Guardian",
   "author": "",
-  "title_ar": "Middle East peace talks",
+  "title_ar": "محادثات السلام في الشرق الأوسط",
   "title_orig": "Middle East peace talks",
   "title_en": "Middle East peace talks",
   "summary_ar": [],
@@ -7210,7 +7283,8 @@
   "country": "GB",
   "pending": true,
   "desc": "Middle East peace talks &nbsp;&nbsp; The Guardian",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "2f7f3ab51c64edf6",
@@ -7280,7 +7354,7 @@
   "origin": "rss",
   "source": "Le Monde.fr",
   "author": "",
-  "title_ar": "Sénégal : pourquoi la colère enfle à l’ouverture des Jeux olympiques de la jeunesse ?",
+  "title_ar": "السنغال: لماذا يتزايد الغضب عند افتتاح دورة الألعاب الأولمبية للشباب؟",
   "title_orig": "Sénégal : pourquoi la colère enfle à l’ouverture des Jeux olympiques de la jeunesse ?",
   "title_en": "",
   "summary_ar": [],
@@ -7293,7 +7367,8 @@
   "country": "FR",
   "pending": true,
   "desc": "Sénégal : pourquoi la colère enfle à l’ouverture des Jeux olympiques de la jeunesse ? &nbsp;&nbsp; Le Monde.fr",
-  "lang": "fr"
+  "lang": "fr",
+  "mt": true
  },
  {
   "id": "728edfe4b0634b3b",
@@ -7363,7 +7438,7 @@
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "US approves $2.1 billion Patriot missile sale to Ukraine",
+  "title_ar": "الولايات المتحدة توافق على بيع صواريخ باتريوت لأوكرانيا بقيمة 2.1 مليار دولار",
   "title_orig": "US approves $2.1 billion Patriot missile sale to Ukraine",
   "title_en": "US approves $2.1 billion Patriot missile sale to Ukraine",
   "summary_ar": [],
@@ -7376,7 +7451,8 @@
   "country": "SA",
   "pending": true,
   "desc": "US approves $2.1 billion Patriot missile sale to Ukraine &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "d447423e184509f6",
@@ -7404,7 +7480,7 @@
   "origin": "rss",
   "source": "Le Monde.fr",
   "author": "",
-  "title_ar": "Pénurie de navires et tarifs record : comment la guerre au Moyen-Orient fait bondir les prix du transport de pétrole",
+  "title_ar": "نقص السفن والتعريفات القياسية: كيف تتسبب الحرب في الشرق الأوسط في ارتفاع أسعار نقل النفط",
   "title_orig": "Pénurie de navires et tarifs record : comment la guerre au Moyen-Orient fait bondir les prix du transport de pétrole",
   "title_en": "",
   "summary_ar": [],
@@ -7417,7 +7493,8 @@
   "country": "FR",
   "pending": true,
   "desc": "Pénurie de navires et tarifs record : comment la guerre au Moyen-Orient fait bondir les prix du transport de pétrole &nbsp;&nbsp; Le Monde.fr",
-  "lang": "fr"
+  "lang": "fr",
+  "mt": true
  },
  {
   "id": "53afecdcb289d757",
@@ -7508,7 +7585,7 @@
   "origin": "rss",
   "source": "Saudi Gazette",
   "author": "",
-  "title_ar": "Air defenses intercept Houthi missiles, drones targeting Makkah, Madinah and other regions",
+  "title_ar": "الدفاعات الجوية تتصدى لصواريخ الحوثيين وطائرات مسيرة تستهدف مكة والمدينة ومناطق أخرى",
   "title_orig": "Air defenses intercept Houthi missiles, drones targeting Makkah, Madinah and other regions",
   "title_en": "Air defenses intercept Houthi missiles, drones targeting Makkah, Madinah and other regions",
   "summary_ar": [],
@@ -7521,14 +7598,15 @@
   "country": "SA",
   "pending": true,
   "desc": "Air defenses intercept Houthi missiles, drones targeting Makkah, Madinah and other regions &nbsp;&nbsp; Saudi Gazette",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "9804a68792917d8d",
   "origin": "rss",
   "source": "Al-Monitor",
   "author": "",
-  "title_ar": "Rubio urges G20 cooperation amid rifts over wars in Ukraine, Middle East",
+  "title_ar": "روبيو يحث على تعاون مجموعة العشرين وسط الخلافات بشأن الحروب في أوكرانيا والشرق الأوسط",
   "title_orig": "Rubio urges G20 cooperation amid rifts over wars in Ukraine, Middle East",
   "title_en": "Rubio urges G20 cooperation amid rifts over wars in Ukraine, Middle East",
   "summary_ar": [],
@@ -7541,14 +7619,15 @@
   "country": "US",
   "pending": true,
   "desc": "Rubio urges G20 cooperation amid rifts over wars in Ukraine, Middle East &nbsp;&nbsp; Al-Monitor",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "86dd16f3a23a934e",
   "origin": "rss",
   "source": "The New York Times",
   "author": "",
-  "title_ar": "Carlos Sainz casts doubt on F1’s Middle East season finale: ‘Difficult to be convinced’",
+  "title_ar": "كارلوس ساينز يشكك في نهاية موسم الفورمولا 1 في الشرق الأوسط: \"من الصعب الاقتناع\"",
   "title_orig": "Carlos Sainz casts doubt on F1’s Middle East season finale: ‘Difficult to be convinced’",
   "title_en": "Carlos Sainz casts doubt on F1’s Middle East season finale: ‘Difficult to be convinced’",
   "summary_ar": [],
@@ -7561,14 +7640,15 @@
   "country": "US",
   "pending": true,
   "desc": "Carlos Sainz casts doubt on F1’s Middle East season finale: ‘Difficult to be convinced’ &nbsp;&nbsp; The New York Times",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "2959a24c86f700db",
   "origin": "rss",
   "source": "The New York Times",
   "author": "",
-  "title_ar": "Ivan Toney’s trial for alleged assault set for during Euro 2028",
+  "title_ar": "من المقرر إجراء محاكمة إيفان توني بتهمة الاعتداء المزعوم خلال بطولة أمم أوروبا 2028",
   "title_orig": "Ivan Toney’s trial for alleged assault set for during Euro 2028",
   "title_en": "Ivan Toney’s trial for alleged assault set for during Euro 2028",
   "summary_ar": [],
@@ -7581,7 +7661,8 @@
   "country": "US",
   "pending": true,
   "desc": "Ivan Toney’s trial for alleged assault set for during Euro 2028 &nbsp;&nbsp; The New York Times",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "1a30d065fac67eb0",
@@ -7609,7 +7690,7 @@
   "origin": "rss",
   "source": "BBC",
   "author": "",
-  "title_ar": "Javits Frimpong killed in US: Papa of 15-year-old Ghanaian boy wey dem kpai for US describe how dem bully am as Ghana condemn killing",
+  "title_ar": "مقتل جافيتس فريمبونج في الولايات المتحدة: يصف بابا الصبي الغاني البالغ من العمر 15 عامًا وي ديم كباي للولايات المتحدة مدى تنمرهم بينما تدين غانا القتل",
   "title_orig": "Javits Frimpong killed in US: Papa of 15-year-old Ghanaian boy wey dem kpai for US describe how dem bully am as Ghana condemn killing",
   "title_en": "Javits Frimpong killed in US: Papa of 15-year-old Ghanaian boy wey dem kpai for US describe how dem bully am as Ghana condemn killing",
   "summary_ar": [],
@@ -7622,14 +7703,15 @@
   "country": "GB",
   "pending": true,
   "desc": "Javits Frimpong killed in US: Papa of 15-year-old Ghanaian boy wey dem kpai for US describe how dem bully am as Ghana condemn killing &nbsp;&nbsp; BBC",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "4f643b767a0e6c7c",
   "origin": "rss",
   "source": "BBC",
   "author": "",
-  "title_ar": "Cash relief for vulnerable Nigerians: Who go benefit from federal government cash relief and how?",
+  "title_ar": "الإغاثة النقدية للنيجيريين الضعفاء: من سيستفيد من الإغاثة النقدية التي تقدمها الحكومة الفيدرالية وكيف؟",
   "title_orig": "Cash relief for vulnerable Nigerians: Who go benefit from federal government cash relief and how?",
   "title_en": "Cash relief for vulnerable Nigerians: Who go benefit from federal government cash relief and how?",
   "summary_ar": [],
@@ -7642,14 +7724,15 @@
   "country": "GB",
   "pending": true,
   "desc": "Cash relief for vulnerable Nigerians: Who go benefit from federal government cash relief and how? &nbsp;&nbsp; BBC",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "b58da50b1120bb19",
   "origin": "rss",
   "source": "Reuters",
   "author": "",
-  "title_ar": "Eastern Region Management, Llc",
+  "title_ar": "إدارة المنطقة الشرقية، ش.م.م",
   "title_orig": "Eastern Region Management, Llc",
   "title_en": "Eastern Region Management, Llc",
   "summary_ar": [],
@@ -7662,14 +7745,15 @@
   "country": "GB",
   "pending": true,
   "desc": "Eastern Region Management, Llc &nbsp;&nbsp; Reuters",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "69858ffb65803690",
   "origin": "rss",
   "source": "Al-Monitor",
   "author": "",
-  "title_ar": "Saudi-led coalition says it downs drone over oil-rich Eastern Region",
+  "title_ar": "التحالف الذي تقوده السعودية يقول إنه أسقط طائرة مسيرة فوق المنطقة الشرقية الغنية بالنفط",
   "title_orig": "Saudi-led coalition says it downs drone over oil-rich Eastern Region",
   "title_en": "Saudi-led coalition says it downs drone over oil-rich Eastern Region",
   "summary_ar": [],
@@ -7682,7 +7766,8 @@
   "country": "US",
   "pending": true,
   "desc": "Saudi-led coalition says it downs drone over oil-rich Eastern Region &nbsp;&nbsp; Al-Monitor",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "47da48c479996a2e",
@@ -7731,7 +7816,7 @@
   "origin": "rss",
   "source": "The Guardian",
   "author": "",
-  "title_ar": "Term browse - Grenada - AtoM",
+  "title_ar": "تصفح المصطلح - غرينادا - AtoM",
   "title_orig": "Term browse - Grenada - AtoM",
   "title_en": "Term browse - Grenada - AtoM",
   "summary_ar": [],
@@ -7744,14 +7829,15 @@
   "country": "GB",
   "pending": true,
   "desc": "Term browse - Grenada - AtoM &nbsp;&nbsp; The Guardian",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "faec12c4e8590e0d",
   "origin": "rss",
   "source": "WSJ",
   "author": "",
-  "title_ar": "How Iran Battered U.S. Bases and Caused Billions in Damage",
+  "title_ar": "كيف ضربت إيران القواعد الأمريكية وتسببت في أضرار بالمليارات",
   "title_orig": "How Iran Battered U.S. Bases and Caused Billions in Damage",
   "title_en": "How Iran Battered U.S. Bases and Caused Billions in Damage",
   "summary_ar": [],
@@ -7764,14 +7850,15 @@
   "country": "US",
   "pending": true,
   "desc": "How Iran Battered U.S. Bases and Caused Billions in Damage &nbsp;&nbsp; WSJ",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "830045719ccefed1",
   "origin": "rss",
   "source": "BBC",
   "author": "",
-  "title_ar": "Global nature talks reach deal but money remains an issue",
+  "title_ar": "محادثات الطبيعة العالمية تتوصل إلى اتفاق لكن المال يظل مشكلة",
   "title_orig": "Global nature talks reach deal but money remains an issue",
   "title_en": "Global nature talks reach deal but money remains an issue",
   "summary_ar": [],
@@ -7784,14 +7871,15 @@
   "country": "GB",
   "pending": true,
   "desc": "Global nature talks reach deal but money remains an issue &nbsp;&nbsp; BBC",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "cced393102dddd1b",
   "origin": "rss",
   "source": "Al-Monitor",
   "author": "",
-  "title_ar": "Trump administration plans to deport some Afghan immigrants to Afghanistan",
+  "title_ar": "تخطط إدارة ترامب لترحيل بعض المهاجرين الأفغان إلى أفغانستان",
   "title_orig": "Trump administration plans to deport some Afghan immigrants to Afghanistan",
   "title_en": "Trump administration plans to deport some Afghan immigrants to Afghanistan",
   "summary_ar": [],
@@ -7804,14 +7892,15 @@
   "country": "US",
   "pending": true,
   "desc": "Trump administration plans to deport some Afghan immigrants to Afghanistan &nbsp;&nbsp; Al-Monitor",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "01c94faa23edaff9",
   "origin": "rss",
   "source": "Al-Monitor",
   "author": "",
-  "title_ar": "Costa Rica's Grynspan extends lead in informal UN chief poll, sources say",
+  "title_ar": "تقول المصادر إن غرينسبان من كوستاريكا يعزز تقدمه في استطلاع غير رسمي لرئيس الأمم المتحدة",
   "title_orig": "Costa Rica's Grynspan extends lead in informal UN chief poll, sources say",
   "title_en": "Costa Rica's Grynspan extends lead in informal UN chief poll, sources say",
   "summary_ar": [],
@@ -7824,7 +7913,8 @@
   "country": "US",
   "pending": true,
   "desc": "Costa Rica's Grynspan extends lead in informal UN chief poll, sources say &nbsp;&nbsp; Al-Monitor",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "27cef19ab0606733",
@@ -7873,7 +7963,7 @@
   "origin": "rss",
   "source": "Financial Times",
   "author": "",
-  "title_ar": "OpenAI slashes funding target by $10bn as tech anxieties mount",
+  "title_ar": "OpenAI تخفض هدف التمويل بمقدار 10 مليارات دولار مع تصاعد المخاوف التقنية",
   "title_orig": "OpenAI slashes funding target by $10bn as tech anxieties mount",
   "title_en": "OpenAI slashes funding target by $10bn as tech anxieties mount",
   "summary_ar": [],
@@ -7886,14 +7976,15 @@
   "country": "GB",
   "pending": true,
   "desc": "OpenAI slashes funding target by $10bn as tech anxieties mount &nbsp;&nbsp; Financial Times",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "81f9410904d02d06",
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "EU accuses Russia of false narratives as Lavrov questions Ukraine’s commitment to talks",
+  "title_ar": "ويتهم الاتحاد الأوروبي روسيا بتقديم روايات كاذبة بينما يشكك لافروف في التزام أوكرانيا بالمحادثات",
   "title_orig": "EU accuses Russia of false narratives as Lavrov questions Ukraine’s commitment to talks",
   "title_en": "EU accuses Russia of false narratives as Lavrov questions Ukraine’s commitment to talks",
   "summary_ar": [],
@@ -7906,14 +7997,15 @@
   "country": "SA",
   "pending": true,
   "desc": "EU accuses Russia of false narratives as Lavrov questions Ukraine’s commitment to talks &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "a270e137f21317af",
   "origin": "rss",
   "source": "The Guardian",
   "author": "",
-  "title_ar": "Searle makes difference as Leicester battle to Prem top spot at Bristol",
+  "title_ar": "يُحدث سيرل الفارق في معركة ليستر على صدارة بريم في بريستول",
   "title_orig": "Searle makes difference as Leicester battle to Prem top spot at Bristol",
   "title_en": "Searle makes difference as Leicester battle to Prem top spot at Bristol",
   "summary_ar": [],
@@ -7926,7 +8018,8 @@
   "country": "GB",
   "pending": true,
   "desc": "Searle makes difference as Leicester battle to Prem top spot at Bristol &nbsp;&nbsp; The Guardian",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "090a606452635f40",
@@ -7954,7 +8047,7 @@
   "origin": "rss",
   "source": "Le Monde.fr",
   "author": "",
-  "title_ar": "Mouna El Mokhtari, ses dernières publications dans Le Monde",
+  "title_ar": "منى المختاري، منشورات ses dernières في صحيفة لوموند",
   "title_orig": "Mouna El Mokhtari, ses dernières publications dans Le Monde",
   "title_en": "",
   "summary_ar": [],
@@ -7967,14 +8060,15 @@
   "country": "FR",
   "pending": true,
   "desc": "Mouna El Mokhtari, ses dernières publications dans Le Monde &nbsp;&nbsp; Le Monde.fr",
-  "lang": "fr"
+  "lang": "fr",
+  "mt": true
  },
  {
   "id": "049d0079ae6a517d",
   "origin": "rss",
   "source": "Reuters",
   "author": "",
-  "title_ar": "Lavrov says Zelenskiy comments are unhelpful, Russia's position is unchanged",
+  "title_ar": "ويقول لافروف إن تعليقات زيلينسكي غير مفيدة، وموقف روسيا لم يتغير",
   "title_orig": "Lavrov says Zelenskiy comments are unhelpful, Russia's position is unchanged",
   "title_en": "Lavrov says Zelenskiy comments are unhelpful, Russia's position is unchanged",
   "summary_ar": [],
@@ -7987,7 +8081,8 @@
   "country": "GB",
   "pending": true,
   "desc": "Lavrov says Zelenskiy comments are unhelpful, Russia's position is unchanged &nbsp;&nbsp; Reuters",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "4356a667e910288d",
@@ -8015,7 +8110,7 @@
   "origin": "rss",
   "source": "South China Morning Post",
   "author": "",
-  "title_ar": "UK minister discusses tech collaboration in Greater Bay Area during Hong Kong visit",
+  "title_ar": "وزير بريطاني يناقش التعاون التكنولوجي في منطقة الخليج الكبرى خلال زيارة لهونج كونج",
   "title_orig": "UK minister discusses tech collaboration in Greater Bay Area during Hong Kong visit",
   "title_en": "UK minister discusses tech collaboration in Greater Bay Area during Hong Kong visit",
   "summary_ar": [],
@@ -8028,14 +8123,15 @@
   "country": "HK",
   "pending": true,
   "desc": "UK minister discusses tech collaboration in Greater Bay Area during Hong Kong visit &nbsp;&nbsp; South China Morning Post",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "bffb859d07a06f77",
   "origin": "rss",
   "source": "Le Monde.fr",
   "author": "",
-  "title_ar": "A la COP17 d’Erevan, malgré les divergences, les Etats s’entendent sur des textes pour tenter de protéger la nature",
+  "title_ar": "في الدورة السابعة عشرة لمؤتمر الأطراف في يريفان، ازدت الاختلافات، وركزت الدول على النصوص من أجل حماية الطبيعة",
   "title_orig": "A la COP17 d’Erevan, malgré les divergences, les Etats s’entendent sur des textes pour tenter de protéger la nature",
   "title_en": "",
   "summary_ar": [],
@@ -8048,14 +8144,15 @@
   "country": "FR",
   "pending": true,
   "desc": "A la COP17 d’Erevan, malgré les divergences, les Etats s’entendent sur des textes pour tenter de protéger la nature &nbsp;&nbsp; Le Monde.fr",
-  "lang": "fr"
+  "lang": "fr",
+  "mt": true
  },
  {
   "id": "571aaf938386c349",
   "origin": "rss",
   "source": "Reuters",
   "author": "",
-  "title_ar": "Russia's Lavrov says inviting Poland to attend G20 meeting breaks diplomatic rules",
+  "title_ar": "لافروف يقول إن دعوة بولندا لحضور اجتماع مجموعة العشرين تخالف القواعد الدبلوماسية",
   "title_orig": "Russia's Lavrov says inviting Poland to attend G20 meeting breaks diplomatic rules",
   "title_en": "Russia's Lavrov says inviting Poland to attend G20 meeting breaks diplomatic rules",
   "summary_ar": [],
@@ -8068,7 +8165,8 @@
   "country": "GB",
   "pending": true,
   "desc": "Russia's Lavrov says inviting Poland to attend G20 meeting breaks diplomatic rules &nbsp;&nbsp; Reuters",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "18ed1481e3a0dafb",
@@ -8096,7 +8194,7 @@
   "origin": "rss",
   "source": "Le Monde.fr",
   "author": "",
-  "title_ar": "Christophe Ayad, ses dernières publications dans Le Monde",
+  "title_ar": "كريستوف عياد، منشورات ses dernières في لوموند",
   "title_orig": "Christophe Ayad, ses dernières publications dans Le Monde",
   "title_en": "",
   "summary_ar": [],
@@ -8109,14 +8207,15 @@
   "country": "FR",
   "pending": true,
   "desc": "Christophe Ayad, ses dernières publications dans Le Monde &nbsp;&nbsp; Le Monde.fr",
-  "lang": "fr"
+  "lang": "fr",
+  "mt": true
  },
  {
   "id": "5ea302fa40634450",
   "origin": "rss",
   "source": "Reuters",
   "author": "",
-  "title_ar": "Japan demands release of national in meeting with Russia's Lavrov",
+  "title_ar": "اليابان تطالب بالإفراج عن أحد مواطنيها خلال اجتماعها مع نظيره الروسي لافروف",
   "title_orig": "Japan demands release of national in meeting with Russia's Lavrov",
   "title_en": "Japan demands release of national in meeting with Russia's Lavrov",
   "summary_ar": [],
@@ -8129,14 +8228,15 @@
   "country": "GB",
   "pending": true,
   "desc": "Japan demands release of national in meeting with Russia's Lavrov &nbsp;&nbsp; Reuters",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "b10c14cd3b3536d9",
   "origin": "rss",
   "source": "Bloomberg.com",
   "author": "",
-  "title_ar": "Fahad Bin Zwaid Melfi Al Mutairi, Saudi Manpower Solutions Co: Profile and Biography",
+  "title_ar": "فهد بن زويد ملفي المطيري، الشركة السعودية لحلول القوى العاملة: الملف الشخصي والسيرة الذاتية",
   "title_orig": "Fahad Bin Zwaid Melfi Al Mutairi, Saudi Manpower Solutions Co: Profile and Biography",
   "title_en": "Fahad Bin Zwaid Melfi Al Mutairi, Saudi Manpower Solutions Co: Profile and Biography",
   "summary_ar": [],
@@ -8149,14 +8249,15 @@
   "country": "US",
   "pending": true,
   "desc": "Fahad Bin Zwaid Melfi Al Mutairi, Saudi Manpower Solutions Co: Profile and Biography &nbsp;&nbsp; Bloomberg.com",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "64848b9959d995e9",
   "origin": "rss",
   "source": "AP News",
   "author": "",
-  "title_ar": "Consensus looks elusive at G20 talks after European objections to Russia cancel group photo",
+  "title_ar": "يبدو التوافق بعيد المنال في محادثات مجموعة العشرين بعد اعتراضات أوروبية على إلغاء روسيا الصورة الجماعية",
   "title_orig": "Consensus looks elusive at G20 talks after European objections to Russia cancel group photo",
   "title_en": "Consensus looks elusive at G20 talks after European objections to Russia cancel group photo",
   "summary_ar": [],
@@ -8169,14 +8270,15 @@
   "country": "US",
   "pending": true,
   "desc": "Consensus looks elusive at G20 talks after European objections to Russia cancel group photo &nbsp;&nbsp; AP News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "71273b3301a7a9d3",
   "origin": "rss",
   "source": "WSJ",
   "author": "",
-  "title_ar": "U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling",
+  "title_ar": "الأسهم الأمريكية تنخفض مع أمازون، وأرباح إنتل تثير المزيد من بيع الذكاء الاصطناعي",
   "title_orig": "U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling",
   "title_en": "U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling",
   "summary_ar": [],
@@ -8189,14 +8291,15 @@
   "country": "US",
   "pending": true,
   "desc": "U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling &nbsp;&nbsp; WSJ",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "497311c04117d9de",
   "origin": "rss",
   "source": "Bloomberg.com",
   "author": "",
-  "title_ar": "Canada’s Closer EU Ties Highlight the Impact of Trump’s Disdain",
+  "title_ar": "تسلط علاقات كندا الوثيقة مع الاتحاد الأوروبي الضوء على تأثير ازدراء ترامب",
   "title_orig": "Canada’s Closer EU Ties Highlight the Impact of Trump’s Disdain",
   "title_en": "Canada’s Closer EU Ties Highlight the Impact of Trump’s Disdain",
   "summary_ar": [],
@@ -8209,14 +8312,15 @@
   "country": "US",
   "pending": true,
   "desc": "Canada’s Closer EU Ties Highlight the Impact of Trump’s Disdain &nbsp;&nbsp; Bloomberg.com",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "0845651a7c65a61a",
   "origin": "rss",
   "source": "The New York Times",
   "author": "",
-  "title_ar": "Mexico’s F1 hero returns in historic fashion. Plus: Charles Leclerc leads early in Mexico City",
+  "title_ar": "يعود بطل الفورمولا 1 المكسيكي بطريقة تاريخية. بالإضافة إلى: تشارلز لوكلير يقود مبكرًا في مكسيكو سيتي",
   "title_orig": "Mexico’s F1 hero returns in historic fashion. Plus: Charles Leclerc leads early in Mexico City",
   "title_en": "Mexico’s F1 hero returns in historic fashion. Plus: Charles Leclerc leads early in Mexico City",
   "summary_ar": [],
@@ -8229,14 +8333,15 @@
   "country": "US",
   "pending": true,
   "desc": "Mexico’s F1 hero returns in historic fashion. Plus: Charles Leclerc leads early in Mexico City &nbsp;&nbsp; The New York Times",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "d24b40db18aabdf0",
   "origin": "rss",
   "source": "The New York Times",
   "author": "",
-  "title_ar": "Chris Tumminello - Page 8",
+  "title_ar": "كريس تومينيلو - الصفحة 8",
   "title_orig": "Chris Tumminello - Page 8",
   "title_en": "Chris Tumminello - Page 8",
   "summary_ar": [],
@@ -8249,7 +8354,8 @@
   "country": "US",
   "pending": true,
   "desc": "Chris Tumminello - Page 8 &nbsp;&nbsp; The New York Times",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "de0085b0cf9f121d",
@@ -8277,7 +8383,7 @@
   "origin": "rss",
   "source": "France 24",
   "author": "",
-  "title_ar": "Eye on Africa - First Youth Olympic Games in Africa",
+  "title_ar": "عين على أفريقيا - أول دورة ألعاب أولمبية للشباب في أفريقيا",
   "title_orig": "Eye on Africa - First Youth Olympic Games in Africa",
   "title_en": "Eye on Africa - First Youth Olympic Games in Africa",
   "summary_ar": [],
@@ -8290,14 +8396,15 @@
   "country": "FR",
   "pending": true,
   "desc": "Eye on Africa - First Youth Olympic Games in Africa &nbsp;&nbsp; France 24",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "87ed0784a9e7f96d",
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Congo Ebola outbreak kills more than 5,000",
+  "title_ar": "تفشي فيروس إيبولا في الكونغو يقتل أكثر من 5000 شخص",
   "title_orig": "Congo Ebola outbreak kills more than 5,000",
   "title_en": "Congo Ebola outbreak kills more than 5,000",
   "summary_ar": [],
@@ -8310,14 +8417,15 @@
   "country": "SA",
   "pending": true,
   "desc": "Congo Ebola outbreak kills more than 5,000 &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "6808bc7c2df9719f",
   "origin": "rss",
   "source": "WSJ",
   "author": "",
-  "title_ar": "Energy & Utilities Roundup: Market Talk",
+  "title_ar": "تقرير إخباري عن الطاقة والمرافق: حديث السوق",
   "title_orig": "Energy & Utilities Roundup: Market Talk",
   "title_en": "Energy & Utilities Roundup: Market Talk",
   "summary_ar": [],
@@ -8330,14 +8438,15 @@
   "country": "US",
   "pending": true,
   "desc": "Energy & Utilities Roundup: Market Talk &nbsp;&nbsp; WSJ",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "83f8d7ab596146a2",
   "origin": "rss",
   "source": "AP News",
   "author": "",
-  "title_ar": "Iran says 4 tankers strike mines and catch fire in Strait of Hormuz, and other Mideast news",
+  "title_ar": "إيران تقول إن 4 ناقلات نفط ضربت ألغاماً واشتعلت فيها النيران في مضيق هرمز، وأخبار أخرى في الشرق الأوسط",
   "title_orig": "Iran says 4 tankers strike mines and catch fire in Strait of Hormuz, and other Mideast news",
   "title_en": "Iran says 4 tankers strike mines and catch fire in Strait of Hormuz, and other Mideast news",
   "summary_ar": [],
@@ -8350,14 +8459,15 @@
   "country": "US",
   "pending": true,
   "desc": "Iran says 4 tankers strike mines and catch fire in Strait of Hormuz, and other Mideast news &nbsp;&nbsp; AP News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "8c6c3d67bded44f4",
   "origin": "rss",
   "source": "BBC",
   "author": "",
-  "title_ar": "Mama and pikin win same beauty pageant for different era",
+  "title_ar": "ماما وبيكين يفوزان بنفس مسابقة ملكة الجمال في عصر مختلف",
   "title_orig": "Mama and pikin win same beauty pageant for different era",
   "title_en": "Mama and pikin win same beauty pageant for different era",
   "summary_ar": [],
@@ -8370,7 +8480,8 @@
   "country": "GB",
   "pending": true,
   "desc": "Mama and pikin win same beauty pageant for different era &nbsp;&nbsp; BBC",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "8cfbeb1ffcae2798",
@@ -8419,7 +8530,7 @@
   "origin": "rss",
   "source": "Al-Monitor",
   "author": "",
-  "title_ar": "Iran's IRGC Navy says four tankers catch fire in Strait of Hormuz",
+  "title_ar": "أعلنت البحرية التابعة للحرس الثوري الإيراني أن أربع ناقلات نفط اشتعلت فيها النيران في مضيق هرمز",
   "title_orig": "Iran's IRGC Navy says four tankers catch fire in Strait of Hormuz",
   "title_en": "Iran's IRGC Navy says four tankers catch fire in Strait of Hormuz",
   "summary_ar": [],
@@ -8432,7 +8543,8 @@
   "country": "US",
   "pending": true,
   "desc": "Iran's IRGC Navy says four tankers catch fire in Strait of Hormuz &nbsp;&nbsp; Al-Monitor",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "8af3fce066f0f3df",
@@ -8460,7 +8572,7 @@
   "origin": "rss",
   "source": "WSJ",
   "author": "",
-  "title_ar": "U.S. Natural Gas Futures Fall on Mild Weather Outlook",
+  "title_ar": "العقود الآجلة للغاز الطبيعي في الولايات المتحدة تنخفض بسبب توقعات الطقس المعتدل",
   "title_orig": "U.S. Natural Gas Futures Fall on Mild Weather Outlook",
   "title_en": "U.S. Natural Gas Futures Fall on Mild Weather Outlook",
   "summary_ar": [],
@@ -8473,14 +8585,15 @@
   "country": "US",
   "pending": true,
   "desc": "U.S. Natural Gas Futures Fall on Mild Weather Outlook &nbsp;&nbsp; WSJ",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "f08edf140e537cab",
   "origin": "rss",
   "source": "WSJ",
   "author": "",
-  "title_ar": "Opinion | What Does the Word ‘Crisis’ Mean Anymore?",
+  "title_ar": "رأي | ماذا تعني كلمة \"أزمة\" بعد الآن؟",
   "title_orig": "Opinion | What Does the Word ‘Crisis’ Mean Anymore?",
   "title_en": "Opinion | What Does the Word ‘Crisis’ Mean Anymore?",
   "summary_ar": [],
@@ -8493,14 +8606,15 @@
   "country": "US",
   "pending": true,
   "desc": "Opinion | What Does the Word ‘Crisis’ Mean Anymore? &nbsp;&nbsp; WSJ",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "7f81e252ab6e6367",
   "origin": "rss",
   "source": "Financial Times",
   "author": "",
-  "title_ar": "Moody's Corporation, MCO*:MEX financials - FT.com",
+  "title_ar": "شركة موديز، MCO*:بيانات MEX المالية - FT.com",
   "title_orig": "Moody's Corporation, MCO*:MEX financials - FT.com",
   "title_en": "Moody's Corporation, MCO*:MEX financials - FT.com",
   "summary_ar": [],
@@ -8513,14 +8627,15 @@
   "country": "GB",
   "pending": true,
   "desc": "Moody's Corporation, MCO*:MEX financials - FT.com &nbsp;&nbsp; Financial Times",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "be3b96e913e35db5",
   "origin": "rss",
   "source": "Reuters",
   "author": "",
-  "title_ar": "Zelenskiy says he will head to Turkey for talks",
+  "title_ar": "ويقول زيلينسكي إنه سيتوجه إلى تركيا لإجراء محادثات",
   "title_orig": "Zelenskiy says he will head to Turkey for talks",
   "title_en": "Zelenskiy says he will head to Turkey for talks",
   "summary_ar": [],
@@ -8533,14 +8648,15 @@
   "country": "GB",
   "pending": true,
   "desc": "Zelenskiy says he will head to Turkey for talks &nbsp;&nbsp; Reuters",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "0ccdb390be976b29",
   "origin": "rss",
   "source": "WSJ",
   "author": "",
-  "title_ar": "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries",
+  "title_ar": "أسعار النفط ترتفع مع مخاوف إمدادات الوقود في الشرق الأوسط وأوكرانيا وروسيا",
   "title_orig": "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries",
   "title_en": "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries",
   "summary_ar": [],
@@ -8553,14 +8669,15 @@
   "country": "US",
   "pending": true,
   "desc": "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries &nbsp;&nbsp; WSJ",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "2885e7f4353e1be8",
   "origin": "rss",
   "source": "Al-Monitor",
   "author": "",
-  "title_ar": "Limpet mine attack in Hormuz suggests Iran may be shifting tactics",
+  "title_ar": "يشير الهجوم باللغم اللاصق في هرمز إلى أن إيران قد تغير تكتيكاتها",
   "title_orig": "Limpet mine attack in Hormuz suggests Iran may be shifting tactics",
   "title_en": "Limpet mine attack in Hormuz suggests Iran may be shifting tactics",
   "summary_ar": [],
@@ -8573,14 +8690,15 @@
   "country": "US",
   "pending": true,
   "desc": "Limpet mine attack in Hormuz suggests Iran may be shifting tactics &nbsp;&nbsp; Al-Monitor",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "53e68a85ee152057",
   "origin": "rss",
   "source": "Reuters",
   "author": "",
-  "title_ar": "Tennessee execution survivor says she is isolated, in constant pain",
+  "title_ar": "تقول الناجية من الإعدام في ولاية تينيسي إنها معزولة وتعاني من ألم مستمر",
   "title_orig": "Tennessee execution survivor says she is isolated, in constant pain",
   "title_en": "Tennessee execution survivor says she is isolated, in constant pain",
   "summary_ar": [],
@@ -8593,7 +8711,8 @@
   "country": "GB",
   "pending": true,
   "desc": "Tennessee execution survivor says she is isolated, in constant pain &nbsp;&nbsp; Reuters",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "a66f4117e5fe45e1",
@@ -8642,7 +8761,7 @@
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Israel may face new election in Knesset deadlock",
+  "title_ar": "إسرائيل قد تواجه انتخابات جديدة في طريق مسدود للكنيست",
   "title_orig": "Israel may face new election in Knesset deadlock",
   "title_en": "Israel may face new election in Knesset deadlock",
   "summary_ar": [],
@@ -8655,7 +8774,8 @@
   "country": "SA",
   "pending": true,
   "desc": "Israel may face new election in Knesset deadlock &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "ca7600123568f222",
@@ -8746,7 +8866,7 @@
   "origin": "rss",
   "source": "Al-Monitor",
   "author": "",
-  "title_ar": "Saudi-led coalition says it destroyed Houthi drone over Medina region",
+  "title_ar": "التحالف بقيادة السعودية يقول إنه دمر طائرة مسيرة للحوثيين فوق منطقة المدينة المنورة",
   "title_orig": "Saudi-led coalition says it destroyed Houthi drone over Medina region",
   "title_en": "Saudi-led coalition says it destroyed Houthi drone over Medina region",
   "summary_ar": [],
@@ -8759,14 +8879,15 @@
   "country": "US",
   "pending": true,
   "desc": "Saudi-led coalition says it destroyed Houthi drone over Medina region &nbsp;&nbsp; Al-Monitor",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "70bf0ea4b31bfcf2",
   "origin": "rss",
   "source": "Al-Monitor",
   "author": "",
-  "title_ar": "UAE's Nusseibeh comes in fourth in latest UNSG straw poll: What to know",
+  "title_ar": "الإماراتية نسيبة تأتي في المركز الرابع في استطلاع الرأي الأخير الذي أجرته الأمين العام للأمم المتحدة: ما يجب معرفته",
   "title_orig": "UAE's Nusseibeh comes in fourth in latest UNSG straw poll: What to know",
   "title_en": "UAE's Nusseibeh comes in fourth in latest UNSG straw poll: What to know",
   "summary_ar": [],
@@ -8779,7 +8900,8 @@
   "country": "US",
   "pending": true,
   "desc": "UAE's Nusseibeh comes in fourth in latest UNSG straw poll: What to know &nbsp;&nbsp; Al-Monitor",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "0e570eba717fdf98",
@@ -8807,7 +8929,7 @@
   "origin": "rss",
   "source": "BBC",
   "author": "",
-  "title_ar": "Inec AI-generated images: Registration officers get hand inside di AI-generated fotos for voters register - Inec",
+  "title_ar": "صور Inec التي تم إنشاؤها بواسطة الذكاء الاصطناعي: يقوم موظفو التسجيل بوضع أيديهم داخل الصور التي تم إنشاؤها بواسطة الذكاء الاصطناعي لسجل الناخبين - Inec",
   "title_orig": "Inec AI-generated images: Registration officers get hand inside di AI-generated fotos for voters register - Inec",
   "title_en": "Inec AI-generated images: Registration officers get hand inside di AI-generated fotos for voters register - Inec",
   "summary_ar": [],
@@ -8820,14 +8942,15 @@
   "country": "GB",
   "pending": true,
   "desc": "Inec AI-generated images: Registration officers get hand inside di AI-generated fotos for voters register - Inec &nbsp;&nbsp; BBC",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "c0606b31498160fd",
   "origin": "rss",
   "source": "Al-Monitor",
   "author": "",
-  "title_ar": "Five children among seven dead in eastern Syria floods",
+  "title_ar": "خمسة أطفال من بين سبعة قتلى في فيضانات شرق سوريا",
   "title_orig": "Five children among seven dead in eastern Syria floods",
   "title_en": "Five children among seven dead in eastern Syria floods",
   "summary_ar": [],
@@ -8840,14 +8963,15 @@
   "country": "US",
   "pending": true,
   "desc": "Five children among seven dead in eastern Syria floods &nbsp;&nbsp; Al-Monitor",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "2dab0fb5f2e014fb",
   "origin": "rss",
   "source": "Al-Monitor",
   "author": "",
-  "title_ar": "What Israel’s election means for its China ties",
+  "title_ar": "ماذا تعني الانتخابات الإسرائيلية لعلاقاتها مع الصين؟",
   "title_orig": "What Israel’s election means for its China ties",
   "title_en": "What Israel’s election means for its China ties",
   "summary_ar": [],
@@ -8860,14 +8984,15 @@
   "country": "US",
   "pending": true,
   "desc": "What Israel’s election means for its China ties &nbsp;&nbsp; Al-Monitor",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "1c330e40fedf50ed",
   "origin": "rss",
   "source": "BBC",
   "author": "",
-  "title_ar": "Mbili vs Alvarez: Saul 'Canelo' Alvarez makes weight against backdrop of Saudi turmoil",
+  "title_ar": "مبيلي ضد ألفاريز: شاول \"كانيلو\" ألفاريز يزيد ثقله على خلفية الاضطرابات السعودية",
   "title_orig": "Mbili vs Alvarez: Saul 'Canelo' Alvarez makes weight against backdrop of Saudi turmoil",
   "title_en": "Mbili vs Alvarez: Saul 'Canelo' Alvarez makes weight against backdrop of Saudi turmoil",
   "summary_ar": [],
@@ -8880,14 +9005,15 @@
   "country": "GB",
   "pending": true,
   "desc": "Mbili vs Alvarez: Saul 'Canelo' Alvarez makes weight against backdrop of Saudi turmoil &nbsp;&nbsp; BBC",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "aa77f07b34f4d87e",
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Lost in translation: Is climate language reaching Arab audiences?",
+  "title_ar": "ضائعة في الترجمة: هل تصل لغة المناخ إلى الجمهور العربي؟",
   "title_orig": "Lost in translation: Is climate language reaching Arab audiences?",
   "title_en": "Lost in translation: Is climate language reaching Arab audiences?",
   "summary_ar": [],
@@ -8900,7 +9026,8 @@
   "country": "SA",
   "pending": true,
   "desc": "Lost in translation: Is climate language reaching Arab audiences? &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "cc5066bfc321a66d",
@@ -8928,7 +9055,7 @@
   "origin": "rss",
   "source": "The New York Times",
   "author": "",
-  "title_ar": "Distaste for Russian Diplomat Forces U.S. to Cancel Photo Session in Atlanta",
+  "title_ar": "نفور الدبلوماسي الروسي يجبر الولايات المتحدة على إلغاء جلسة التصوير في أتلانتا",
   "title_orig": "Distaste for Russian Diplomat Forces U.S. to Cancel Photo Session in Atlanta",
   "title_en": "Distaste for Russian Diplomat Forces U.S. to Cancel Photo Session in Atlanta",
   "summary_ar": [],
@@ -8941,7 +9068,8 @@
   "country": "US",
   "pending": true,
   "desc": "Distaste for Russian Diplomat Forces U.S. to Cancel Photo Session in Atlanta &nbsp;&nbsp; The New York Times",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "84a87a69c8eb0ae9",
@@ -8969,7 +9097,7 @@
   "origin": "rss",
   "source": "Reuters",
   "author": "",
-  "title_ar": "Exxon, Chevron profits beat forecasts, refining margins surge during wars",
+  "title_ar": "أرباح إكسون وشيفرون فاقت التوقعات، وهوامش التكرير ترتفع خلال الحروب",
   "title_orig": "Exxon, Chevron profits beat forecasts, refining margins surge during wars",
   "title_en": "Exxon, Chevron profits beat forecasts, refining margins surge during wars",
   "summary_ar": [],
@@ -8982,14 +9110,15 @@
   "country": "GB",
   "pending": true,
   "desc": "Exxon, Chevron profits beat forecasts, refining margins surge during wars &nbsp;&nbsp; Reuters",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "f503e9dbc4d59b0f",
   "origin": "rss",
   "source": "Reuters",
   "author": "",
-  "title_ar": "Trump admin again loses bid to block California from counting alleged noncitizen votes",
+  "title_ar": "يخسر إدارة ترامب مرة أخرى محاولة منع ولاية كاليفورنيا من احتساب أصوات غير المواطنين المزعومة",
   "title_orig": "Trump admin again loses bid to block California from counting alleged noncitizen votes",
   "title_en": "Trump admin again loses bid to block California from counting alleged noncitizen votes",
   "summary_ar": [],
@@ -9002,14 +9131,15 @@
   "country": "GB",
   "pending": true,
   "desc": "Trump admin again loses bid to block California from counting alleged noncitizen votes &nbsp;&nbsp; Reuters",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "0f535eb792f23ddb",
   "origin": "rss",
   "source": "The Washington Post",
   "author": "",
-  "title_ar": "Dakar Rally returning to Africa after shift to Portugal-Morocco amid conflict",
+  "title_ar": "رالي داكار يعود إلى أفريقيا بعد التحول إلى البرتغال والمغرب وسط الصراع",
   "title_orig": "Dakar Rally returning to Africa after shift to Portugal-Morocco amid conflict",
   "title_en": "Dakar Rally returning to Africa after shift to Portugal-Morocco amid conflict",
   "summary_ar": [],
@@ -9022,14 +9152,15 @@
   "country": "US",
   "pending": true,
   "desc": "Dakar Rally returning to Africa after shift to Portugal-Morocco amid conflict &nbsp;&nbsp; The Washington Post",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "0268bb57fbe36e80",
   "origin": "rss",
   "source": "Al-Monitor",
   "author": "",
-  "title_ar": "Exclusive-Pakistan military 'cautiously optimistic' on Iran-US mediation",
+  "title_ar": "حصري-الجيش الباكستاني \"متفائل بحذر\" بشأن الوساطة الإيرانية الأمريكية",
   "title_orig": "Exclusive-Pakistan military 'cautiously optimistic' on Iran-US mediation",
   "title_en": "Exclusive-Pakistan military 'cautiously optimistic' on Iran-US mediation",
   "summary_ar": [],
@@ -9042,14 +9173,15 @@
   "country": "US",
   "pending": true,
   "desc": "Exclusive-Pakistan military 'cautiously optimistic' on Iran-US mediation &nbsp;&nbsp; Al-Monitor",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "c9da11a135538382",
   "origin": "rss",
   "source": "Reuters",
   "author": "",
-  "title_ar": "US orders non-emergency staff to leave Saudi Arabia over security risks",
+  "title_ar": "الولايات المتحدة تأمر موظفيها غير الأساسيين بمغادرة السعودية بسبب مخاطر أمنية",
   "title_orig": "US orders non-emergency staff to leave Saudi Arabia over security risks",
   "title_en": "US orders non-emergency staff to leave Saudi Arabia over security risks",
   "summary_ar": [],
@@ -9062,14 +9194,15 @@
   "country": "GB",
   "pending": true,
   "desc": "US orders non-emergency staff to leave Saudi Arabia over security risks &nbsp;&nbsp; Reuters",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "9b28445ea4af80ac",
   "origin": "rss",
   "source": "AP News",
   "author": "",
-  "title_ar": "Leo XIV has become the first pope in history to vote in a US general election",
+  "title_ar": "أصبح ليو الرابع عشر أول بابا في التاريخ يدلي بصوته في الانتخابات العامة الأمريكية",
   "title_orig": "Leo XIV has become the first pope in history to vote in a US general election",
   "title_en": "Leo XIV has become the first pope in history to vote in a US general election",
   "summary_ar": [],
@@ -9082,14 +9215,15 @@
   "country": "US",
   "pending": true,
   "desc": "Leo XIV has become the first pope in history to vote in a US general election &nbsp;&nbsp; AP News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "cf0018171bc799ba",
   "origin": "rss",
   "source": "Bloomberg",
   "author": "",
-  "title_ar": "Imperial Says a ‘Lot of Work’ Needed in Canada Oil Negotiations",
+  "title_ar": "إمبريال تقول إن هناك حاجة إلى \"الكثير من العمل\" في مفاوضات النفط الكندية",
   "title_orig": "Imperial Says a ‘Lot of Work’ Needed in Canada Oil Negotiations",
   "title_en": "Imperial Says a ‘Lot of Work’ Needed in Canada Oil Negotiations",
   "summary_ar": [],
@@ -9102,14 +9236,15 @@
   "country": "US",
   "pending": true,
   "desc": "Imperial Says a ‘Lot of Work’ Needed in Canada Oil Negotiations &nbsp;&nbsp; Bloomberg",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "96e0d30c4c8c3945",
   "origin": "rss",
   "source": "The New York Times",
   "author": "",
-  "title_ar": "Sri Muppidi - Page 8",
+  "title_ar": "سري موبيدي - الصفحة 8",
   "title_orig": "Sri Muppidi - Page 8",
   "title_en": "Sri Muppidi - Page 8",
   "summary_ar": [],
@@ -9122,14 +9257,15 @@
   "country": "US",
   "pending": true,
   "desc": "Sri Muppidi - Page 8 &nbsp;&nbsp; The New York Times",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "9cca7b664d526535",
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Pakistan military ‘cautiously optimistic’ on Iran-US mediation",
+  "title_ar": "الجيش الباكستاني \"متفائل بحذر\" بشأن الوساطة الإيرانية الأمريكية",
   "title_orig": "Pakistan military ‘cautiously optimistic’ on Iran-US mediation",
   "title_en": "Pakistan military ‘cautiously optimistic’ on Iran-US mediation",
   "summary_ar": [],
@@ -9142,14 +9278,15 @@
   "country": "SA",
   "pending": true,
   "desc": "Pakistan military ‘cautiously optimistic’ on Iran-US mediation &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "72ec4534456afc1d",
   "origin": "rss",
   "source": "CNN",
   "author": "",
-  "title_ar": "G20 photo scrapped amid tensions over Russian foreign minister’s presence",
+  "title_ar": "ألغيت صورة مجموعة العشرين وسط توترات بشأن حضور وزير الخارجية الروسي",
   "title_orig": "G20 photo scrapped amid tensions over Russian foreign minister’s presence",
   "title_en": "G20 photo scrapped amid tensions over Russian foreign minister’s presence",
   "summary_ar": [],
@@ -9162,7 +9299,8 @@
   "country": "US",
   "pending": true,
   "desc": "G20 photo scrapped amid tensions over Russian foreign minister’s presence &nbsp;&nbsp; CNN",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "b153bb56b7933af4",
@@ -9182,14 +9320,15 @@
   "country": "GB",
   "pending": true,
   "desc": "Wararkii ugu dambeeyay ee xiisadda u dhaxeysa Xuutiyiinta iyo Sacuudiga oo cirka isku shareertay &nbsp;&nbsp; BBC",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "ccf764028e136303",
   "origin": "rss",
   "source": "Reuters",
   "author": "",
-  "title_ar": "EXCLUSIVE: Pakistan military 'cautiously optimistic' on Iran-US mediation",
+  "title_ar": "حصري: الجيش الباكستاني \"متفائل بحذر\" بشأن الوساطة الإيرانية الأمريكية",
   "title_orig": "EXCLUSIVE: Pakistan military 'cautiously optimistic' on Iran-US mediation",
   "title_en": "EXCLUSIVE: Pakistan military 'cautiously optimistic' on Iran-US mediation",
   "summary_ar": [],
@@ -9202,7 +9341,8 @@
   "country": "GB",
   "pending": true,
   "desc": "EXCLUSIVE: Pakistan military 'cautiously optimistic' on Iran-US mediation &nbsp;&nbsp; Reuters",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "ec2040e2b72ac06f",
@@ -10322,46 +10462,5 @@
   "desc": "Ex-PM Imran Khan arrested &nbsp;&nbsp; Arab News",
   "lang": "en",
   "mt": true
- },
- {
-  "id": "71343af1116abf7a",
-  "origin": "rss",
-  "source": "Arab News",
-  "author": "",
-  "title_ar": "حطام الصاروخ الذي تم اعتراضه يصيب مواطناً ويلحق أضراراً بمنزل ومركبة في الرياض",
-  "title_orig": "Debris from intercepted missile injures citizen, damages house and vehicle in Riyadh",
-  "title_en": "Debris from intercepted missile injures citizen, damages house and vehicle in Riyadh",
-  "summary_ar": [],
-  "summary_en": [],
-  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZTFKbGc0dEdkV0pFbkxseUo3bXBJZGJKNm9jZkR2NUo0T05XTG5MTzN2UTBHUEFkamVxZFhVd1ZUMHdZWkg2NWxWeE5Bb0ZUUWxiQmVjUTJlZVJXcERId29uZlRwTFJ2cDdCbFBCd1B6WnpDcjlLT21TNm9LTWpvNEw2bVBaQ3lmQTRsSlNTd09ibTBQYS16WmR6V1N2eUY5N0Fad1R5T19mUi02bDBfR21ScmxZTXJzallqcHQ3cjhNa3ZEbXlzWA?oc=5",
-  "published": "2026-10-30T13:00:28.000Z",
-  "subject": "saudi",
-  "tone": "neutral",
-  "topic": "",
-  "country": "SA",
-  "pending": true,
-  "desc": "Debris from intercepted missile injures citizen, damages house and vehicle in Riyadh &nbsp;&nbsp; Arab News",
-  "lang": "en",
-  "mt": true
- },
- {
-  "id": "b0f1eecc0a4c735a",
-  "origin": "rss",
-  "source": "Arab News",
-  "author": "",
-  "title_ar": "Maroon’s creative appetizers, like kunafa halloumi, bring a refreshing taste to the burger joint",
-  "title_orig": "Maroon’s creative appetizers, like kunafa halloumi, bring a refreshing taste to the burger joint",
-  "title_en": "Maroon’s creative appetizers, like kunafa halloumi, bring a refreshing taste to the burger joint",
-  "summary_ar": [],
-  "summary_en": [],
-  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQVR1TERWMVFyUmhwUk1fb3ZiLVZrVDQ2dUxwZFdsN3YyMng5WHRrQkl4QlpJaEhhZFBEaTNiak82Vldjd0hSeDVkT2xzcVN6TksxNmpzcE5RT3dLbXFHVThFMXVRX2lSN3ZlWlE3RGhWS09VS3VmTElIS09yZUtfUnVyQjYyVGdJQW91UnRqemxKV1JQM2lVb3JRNDVSVGNua3NqeG1BNG1YTTBYTVBxWVZPLXlSOVVqYXVaZkxTWGJpSVV6cDB5czVhVVd1OGhnX2RySA?oc=5",
-  "published": "2026-10-30T12:58:31.000Z",
-  "subject": "saudi",
-  "tone": "neutral",
-  "topic": "",
-  "country": "SA",
-  "pending": true,
-  "desc": "Maroon’s creative appetizers, like kunafa halloumi, bring a refreshing taste to the burger joint &nbsp;&nbsp; Arab News",
-  "lang": "en"
  }
 ]

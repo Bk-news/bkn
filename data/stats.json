@@ -153,11 +153,11 @@
    }
   },
   "2026-10-31": {
-   "total": 263,
-   "news": 262,
+   "total": 264,
+   "news": 263,
    "articles": 1,
    "positive": 0,
-   "neutral": 263,
+   "neutral": 264,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -229,7 +229,8 @@
     "Jackson Advocate": 1,
     "www.taghribnews.com": 1,
     "The Times of Israel": 1,
-    "The Jerusalem Post": 1
+    "The Jerusalem Post": 1,
+    "Daily Nation": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -531,15 +532,20 @@
      0,
      1,
      0
+    ],
+    "Daily Nation": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-01": {
-   "total": 117,
-   "news": 117,
+   "total": 118,
+   "news": 118,
    "articles": 0,
    "positive": 0,
-   "neutral": 117,
+   "neutral": 118,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -606,7 +612,7 @@
     "Radiokaya": 1,
     "MMA Sucka": 1,
     "Daily Nation": 1,
-    "Asian Football Confederation (AFC)": 3,
+    "Asian Football Confederation (AFC)": 4,
     "Arabian Business": 1,
     "IQAir": 1,
     "Oman Observer": 1,
@@ -903,7 +909,7 @@
     ],
     "Asian Football Confederation (AFC)": [
      0,
-     3,
+     4,
      0
     ],
     "Arabian Business": [
