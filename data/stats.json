@@ -559,11 +559,11 @@
    }
   },
   "2026-11-01": {
-   "total": 136,
-   "news": 136,
+   "total": 137,
+   "news": 137,
    "articles": 0,
    "positive": 0,
-   "neutral": 136,
+   "neutral": 137,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -654,7 +654,8 @@
     "AP News": 1,
     "South China Morning Post": 1,
     "The Filipino Times": 1,
-    "CairoScene": 2
+    "CairoScene": 2,
+    "Capital FM Africa": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -1055,6 +1056,11 @@
     "CairoScene": [
      0,
      2,
+     0
+    ],
+    "Capital FM Africa": [
+     0,
+     1,
      0
     ]
    }
