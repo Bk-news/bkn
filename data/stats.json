@@ -159,11 +159,11 @@
    }
   },
   "2026-10-31": {
-   "total": 284,
-   "news": 283,
+   "total": 287,
+   "news": 286,
    "articles": 1,
    "positive": 0,
-   "neutral": 284,
+   "neutral": 287,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -172,7 +172,7 @@
     "HK": 4,
     "DE": 1,
     "FR": 7,
-    "GB": 104
+    "GB": 107
    },
    "topics": {},
    "sources": {
@@ -189,7 +189,7 @@
     "WSJ": 8,
     "BBC": 13,
     "Reuters": 12,
-    "Financial Times": 65,
+    "Financial Times": 68,
     "باسنیوز": 1,
     "The Guardian": 14,
     "Awani International": 1,
@@ -308,7 +308,7 @@
     ],
     "Financial Times": [
      0,
-     65,
+     68,
      0
     ],
     "باسنیوز": [
@@ -559,16 +559,16 @@
    }
   },
   "2026-11-01": {
-   "total": 149,
-   "news": 148,
+   "total": 151,
+   "news": 150,
    "articles": 1,
    "positive": 0,
-   "neutral": 149,
+   "neutral": 151,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 25,
-    "GB": 21,
+    "GB": 22,
     "FR": 4,
     "US": 4,
     "HK": 1
@@ -586,7 +586,7 @@
     "Arab News": 28,
     "EA WorldView": 1,
     "Al-Monitor": 1,
-    "Financial Times": 11,
+    "Financial Times": 12,
     "WSJ": 1,
     "The Guardian": 5,
     "ASHARQ AL-AWSAT English": 2,
@@ -606,7 +606,7 @@
     "Investing.com": 1,
     "Egypt Independent": 1,
     "Middle East Online": 1,
-    "The National": 1,
+    "The National": 2,
     "UA.NEWS": 1,
     "アラブニュース": 2,
     "Forbes Middle East": 2,
@@ -719,7 +719,7 @@
     ],
     "Financial Times": [
      0,
-     11,
+     12,
      0
     ],
     "WSJ": [
@@ -819,7 +819,7 @@
     ],
     "The National": [
      0,
-     1,
+     2,
      0
     ],
     "UA.NEWS": [
