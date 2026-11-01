@@ -559,11 +559,11 @@
    }
   },
   "2026-11-01": {
-   "total": 148,
-   "news": 147,
+   "total": 149,
+   "news": 148,
    "articles": 1,
    "positive": 0,
-   "neutral": 148,
+   "neutral": 149,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -649,7 +649,7 @@
     "Telegraph India": 1,
     "Global Arab Network": 1,
     "Investify": 1,
-    "The Daily Star": 1,
+    "The Daily Star": 2,
     "Rediff": 1,
     "AP News": 1,
     "South China Morning Post": 1,
@@ -1034,7 +1034,7 @@
     ],
     "The Daily Star": [
      0,
-     1,
+     2,
      0
     ],
     "Rediff": [
