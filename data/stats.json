@@ -559,18 +559,18 @@
    }
   },
   "2026-11-01": {
-   "total": 272,
-   "news": 271,
+   "total": 274,
+   "news": 273,
    "articles": 1,
    "positive": 0,
-   "neutral": 272,
+   "neutral": 274,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 40,
-    "GB": 41,
+    "GB": 42,
     "FR": 8,
-    "US": 16,
+    "US": 17,
     "HK": 3,
     "DE": 1
    },
@@ -589,7 +589,7 @@
     "Al-Monitor": 1,
     "Financial Times": 20,
     "WSJ": 4,
-    "The Guardian": 11,
+    "The Guardian": 12,
     "ASHARQ AL-AWSAT English": 12,
     "Daily Sabah": 2,
     "بوابة التكنولوجيا المالية": 1,
@@ -665,7 +665,7 @@
     "Bangladesh Sangbad Sangstha (BSS)": 2,
     "IndexBox": 1,
     "X": 1,
-    "The New York Times": 1,
+    "The New York Times": 2,
     "www.kenyans.live": 1,
     "The Washington Post": 1,
     "Spiegel": 1,
@@ -759,7 +759,7 @@
     ],
     "The Guardian": [
      0,
-     11,
+     12,
      0
     ],
     "ASHARQ AL-AWSAT English": [
@@ -1139,7 +1139,7 @@
     ],
     "The New York Times": [
      0,
-     1,
+     2,
      0
     ],
     "www.kenyans.live": [
