@@ -1,18 +1,18 @@
 {
  "days": {
   "2026-10-30": {
-   "total": 23,
-   "news": 20,
+   "total": 37,
+   "news": 34,
    "articles": 3,
    "positive": 0,
-   "neutral": 23,
+   "neutral": 37,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "US": 17,
-    "FR": 2,
+    "US": 26,
+    "FR": 5,
     "HK": 3,
-    "GB": 1
+    "GB": 3
    },
    "topics": {},
    "sources": {
@@ -22,10 +22,14 @@
     "Atlantic Council": 2,
     "France 24": 2,
     "South China Morning Post": 3,
-    "AP News": 5,
-    "WSJ": 3,
+    "AP News": 6,
+    "WSJ": 6,
     "Financial Times": 1,
-    "The New York Times": 1
+    "The New York Times": 3,
+    "Le Monde.fr": 3,
+    "Bloomberg.com": 2,
+    "Reuters": 2,
+    "Bloomberg": 1
    },
    "sourceTone": {
     "The Washington Post": [
@@ -60,12 +64,12 @@
     ],
     "AP News": [
      0,
-     5,
+     6,
      0
     ],
     "WSJ": [
      0,
-     3,
+     6,
      0
     ],
     "Financial Times": [
@@ -75,45 +79,65 @@
     ],
     "The New York Times": [
      0,
+     3,
+     0
+    ],
+    "Le Monde.fr": [
+     0,
+     3,
+     0
+    ],
+    "Bloomberg.com": [
+     0,
+     2,
+     0
+    ],
+    "Reuters": [
+     0,
+     2,
+     0
+    ],
+    "Bloomberg": [
+     0,
      1,
      0
     ]
    }
   },
   "2026-10-31": {
-   "total": 98,
-   "news": 97,
+   "total": 114,
+   "news": 113,
    "articles": 1,
    "positive": 0,
-   "neutral": 98,
+   "neutral": 114,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 7,
-    "US": 39,
+    "SA": 8,
+    "US": 43,
     "HK": 4,
     "DE": 1,
     "FR": 7,
-    "GB": 34
+    "GB": 45
    },
    "topics": {},
    "sources": {
-    "Saudi Gazette": 6,
+    "Saudi Gazette": 7,
     "The New York Times": 9,
     "AP News": 4,
-    "Bloomberg": 10,
+    "Bloomberg": 11,
     "South China Morning Post": 4,
     "Spiegel": 1,
     "France 24": 1,
     "The Economist": 1,
     "DW.com": 1,
-    "Al-Monitor": 9,
+    "Al-Monitor": 12,
     "WSJ": 7,
-    "BBC": 9,
-    "Reuters": 10,
-    "Financial Times": 7,
+    "BBC": 13,
+    "Reuters": 11,
+    "Financial Times": 9,
     "باسنیوز": 1,
-    "The Guardian": 7,
+    "The Guardian": 11,
     "Awani International": 1,
     "Le Monde.fr": 6,
     "The Media Line": 1,
@@ -124,7 +148,7 @@
    "sourceTone": {
     "Saudi Gazette": [
      0,
-     6,
+     7,
      0
     ],
     "The New York Times": [
@@ -139,7 +163,7 @@
     ],
     "Bloomberg": [
      0,
-     10,
+     11,
      0
     ],
     "South China Morning Post": [
@@ -169,7 +193,7 @@
     ],
     "Al-Monitor": [
      0,
-     9,
+     12,
      0
     ],
     "WSJ": [
@@ -179,17 +203,17 @@
     ],
     "BBC": [
      0,
-     9,
+     13,
      0
     ],
     "Reuters": [
      0,
-     10,
+     11,
      0
     ],
     "Financial Times": [
      0,
-     7,
+     9,
      0
     ],
     "باسنیوز": [
@@ -199,7 +223,7 @@
     ],
     "The Guardian": [
      0,
-     7,
+     11,
      0
     ],
     "Awani International": [
@@ -235,16 +259,16 @@
    }
   },
   "2026-11-01": {
-   "total": 46,
-   "news": 46,
+   "total": 56,
+   "news": 56,
    "articles": 0,
    "positive": 0,
-   "neutral": 46,
+   "neutral": 56,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 13,
-    "GB": 10,
+    "SA": 17,
+    "GB": 12,
     "FR": 4,
     "US": 2
    },
@@ -258,10 +282,10 @@
     "Reuters": 2,
     "سانا": 1,
     "Le Monde.fr": 4,
-    "Arab News": 12,
+    "Arab News": 16,
     "EA WorldView": 1,
     "Al-Monitor": 1,
-    "Financial Times": 2,
+    "Financial Times": 4,
     "WSJ": 1,
     "The Guardian": 3,
     "ASHARQ AL-AWSAT English": 1,
@@ -273,7 +297,11 @@
     "Martin Cid Magazine": 1,
     "صحيفة مال": 1,
     "The Arab Weekly": 1,
-    "SaudiGulf Projects": 1
+    "SaudiGulf Projects": 1,
+    "The New Indian Express": 1,
+    "ABC News - Breaking News, Latest News and Videos": 1,
+    "조선일보": 1,
+    "صوت الإمارات": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -318,7 +346,7 @@
     ],
     "Arab News": [
      0,
-     12,
+     16,
      0
     ],
     "EA WorldView": [
@@ -333,7 +361,7 @@
     ],
     "Financial Times": [
      0,
-     2,
+     4,
      0
     ],
     "WSJ": [
@@ -392,6 +420,26 @@
      0
     ],
     "SaudiGulf Projects": [
+     0,
+     1,
+     0
+    ],
+    "The New Indian Express": [
+     0,
+     1,
+     0
+    ],
+    "ABC News - Breaking News, Latest News and Videos": [
+     0,
+     1,
+     0
+    ],
+    "조선일보": [
+     0,
+     1,
+     0
+    ],
+    "صوت الإمارات": [
      0,
      1,
      0
