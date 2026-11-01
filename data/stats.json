@@ -559,18 +559,18 @@
    }
   },
   "2026-11-01": {
-   "total": 282,
-   "news": 280,
+   "total": 285,
+   "news": 283,
    "articles": 2,
    "positive": 0,
-   "neutral": 282,
+   "neutral": 285,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "SA": 40,
+    "SA": 42,
     "GB": 49,
     "FR": 8,
-    "US": 17,
+    "US": 18,
     "HK": 3,
     "DE": 1
    },
@@ -584,11 +584,11 @@
     "Reuters": 7,
     "سانا": 2,
     "Le Monde.fr": 7,
-    "Arab News": 47,
+    "Arab News": 49,
     "EA WorldView": 1,
     "Al-Monitor": 1,
     "Financial Times": 25,
-    "WSJ": 4,
+    "WSJ": 5,
     "The Guardian": 13,
     "ASHARQ AL-AWSAT English": 12,
     "Daily Sabah": 2,
@@ -736,7 +736,7 @@
     ],
     "Arab News": [
      0,
-     47,
+     49,
      0
     ],
     "EA WorldView": [
@@ -756,7 +756,7 @@
     ],
     "WSJ": [
      0,
-     4,
+     5,
      0
     ],
     "The Guardian": [
