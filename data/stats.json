@@ -159,11 +159,11 @@
    }
   },
   "2026-10-31": {
-   "total": 287,
-   "news": 286,
+   "total": 288,
+   "news": 287,
    "articles": 1,
    "positive": 0,
-   "neutral": 287,
+   "neutral": 288,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -172,7 +172,7 @@
     "HK": 4,
     "DE": 1,
     "FR": 7,
-    "GB": 107
+    "GB": 108
    },
    "topics": {},
    "sources": {
@@ -191,7 +191,7 @@
     "Reuters": 12,
     "Financial Times": 68,
     "باسنیوز": 1,
-    "The Guardian": 14,
+    "The Guardian": 15,
     "Awani International": 1,
     "Le Monde.fr": 6,
     "The Media Line": 1,
@@ -318,7 +318,7 @@
     ],
     "The Guardian": [
      0,
-     14,
+     15,
      0
     ],
     "Awani International": [
@@ -559,11 +559,11 @@
    }
   },
   "2026-11-01": {
-   "total": 151,
-   "news": 150,
+   "total": 154,
+   "news": 153,
    "articles": 1,
    "positive": 0,
-   "neutral": 151,
+   "neutral": 154,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -611,7 +611,7 @@
     "アラブニュース": 2,
     "Forbes Middle East": 2,
     "Goal.com": 2,
-    "https://houseofsaud.com/": 3,
+    "https://houseofsaud.com/": 4,
     "Travel & Tourism News Middle East": 1,
     "Bloomberg": 1,
     "TradingView": 2,
@@ -659,7 +659,9 @@
     "Ynetnews": 1,
     "Rus Tourism News": 1,
     "Atlantic Council": 1,
-    "TRT Afrika": 1
+    "TRT Afrika": 1,
+    "Mehr News Agency": 1,
+    "Bangladesh Sangbad Sangstha (BSS)": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -844,7 +846,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     3,
+     4,
      0
     ],
     "Travel & Tourism News Middle East": [
@@ -1083,6 +1085,16 @@
      0
     ],
     "TRT Afrika": [
+     0,
+     1,
+     0
+    ],
+    "Mehr News Agency": [
+     0,
+     1,
+     0
+    ],
+    "Bangladesh Sangbad Sangstha (BSS)": [
      0,
      1,
      0
