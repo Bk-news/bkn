@@ -19,6 +19,8 @@ const BRIEF_HOURS = Number(process.env.BRIEF_HOURS || 3);   // تحديث الم
 const TG_TOKEN = process.env.TELEGRAM_BOT_TOKEN, TG_CHAT = process.env.TELEGRAM_CHAT_ID;
 const SITE_URL = (process.env.SITE_URL || '').replace(/\/$/, '');
 
+// تشخيص: يُحفظ في data/status.json بعد كل تشغيل
+const STATUS = { run: new Date().toISOString(), key: !!process.env.ANTHROPIC_API_KEY, model: MODEL, feedsOk: 0, feedsFailed: [], fetched: 0, fresh: 0, world: 0, analyzed: 0, analyzeErrors: 0, lastError: '' };
 const hash = (s) => crypto.createHash('sha1').update(s).digest('hex').slice(0, 16);
 const clean = (s) => s.replace(/<[^>]+>/g, ' ').replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&')
   .replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/\s+/g, ' ').trim();
@@ -288,9 +290,11 @@ async function run() {
   const raw = results.flatMap((r, i) => {
     if (r.status === 'fulfilled') return r.value;
     console.warn(`تعذر جلب ${FEEDS[i].name}: ${r.reason?.message}`);
+    STATUS.feedsFailed.push(`${FEEDS[i].name}: ${r.reason?.message}`);
     return [];
   });
 
+  STATUS.feedsOk = results.filter((r) => r.status === 'fulfilled').length; STATUS.fetched = raw.length;
   // نستبعد المكرر والقديم والعناوين القصيرة (مثل «الوسائط»)
   const fresh = [], local = new Set();
   for (const it of raw.sort(byDate('published'))) {
@@ -308,6 +312,7 @@ async function run() {
   // توزيع عادل: خبر من كل مصدر بالدور، عشان ما يستحوذ مصدر واحد على الدفعة
   const byFeed = new Map();
   for (const it of world) { if (!byFeed.has(it.feed)) byFeed.set(it.feed, []); byFeed.get(it.feed).push(it); }
+  STATUS.fresh = fresh.length; STATUS.world = world.length;
   const queue = [];
   for (let more = true; more;) { more = false; for (const list of byFeed.values()) { if (list.length) { queue.push(list.shift()); more = true; } } }
 
@@ -329,7 +334,7 @@ async function run() {
     markSeen(it);
     if (brkCount >= 3 || Date.now() - new Date(it.published) > BREAKING_TTL) continue;
     let a;
-    if (KEY) { try { a = await analyze(it); } catch (e) { console.warn(`تحليل: ${e.message}`); continue; } }
+    if (KEY) { try { a = await analyze(it); } catch (e) { console.warn(`تحليل: ${e.message}`); STATUS.analyzeErrors++; STATUS.lastError = String(e.message).slice(0, 300); continue; } }
     else a = { ...heuristic(it), breaking: BREAKING_WORDS.test(it.title) };
     if (!a.relevant || !a.breaking) continue;
     addBreaking(toRec(it, a)); brkCount++;
@@ -338,8 +343,8 @@ async function run() {
   // ب) الصحافة العالمية
   for (const it of queue.slice(0, MAX_NEW)) {
     let a;
-    try { a = KEY ? await analyze(it) : heuristic(it); }
-    catch (e) { console.warn(`تحليل: ${e.message}`); continue; }   // ما نعلّمه «مقروء» عشان يُعاد في التشغيل الجاي
+    try { a = KEY ? await analyze(it) : heuristic(it); STATUS.analyzed++; }
+    catch (e) { console.warn(`تحليل: ${e.message}`); STATUS.analyzeErrors++; STATUS.lastError = String(e.message).slice(0, 300); continue; }   // ما نعلّمه «مقروء» عشان يُعاد في التشغيل الجاي
     markSeen(it);
     if (!a.relevant) continue;
     const rec = toRec(it, a);
@@ -380,6 +385,7 @@ async function run() {
   stats.days = Object.fromEntries(keepDays.map((d) => [d, stats.days[d]]));
 
   await Promise.all([
+    writeJSON('status.json', { ...STATUS, added }),
     writeJSON('stats.json', stats),
     ...(brief ? [writeJSON('brief.json', brief)] : []),
     writeJSON('news.json', news),

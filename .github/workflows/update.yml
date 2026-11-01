@@ -43,6 +43,7 @@ jobs:
           end=$((SECONDS + RUN_MINUTES * 60))
           while [ $SECONDS -lt $end ]; do
             start=$SECONDS
+            git pull -q --rebase origin main || true   # ياخذ أي تعديل جديد على الكود بدون ما ينتظر التشغيل الجاي
             node scripts/fetch.mjs || echo "تعذر هذي الدورة، نكمل"
             git add data
             if ! git diff --staged --quiet; then
