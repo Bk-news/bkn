@@ -559,18 +559,18 @@
    }
   },
   "2026-11-01": {
-   "total": 157,
-   "news": 156,
+   "total": 159,
+   "news": 158,
    "articles": 1,
    "positive": 0,
-   "neutral": 157,
+   "neutral": 159,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 26,
     "GB": 22,
     "FR": 4,
-    "US": 4,
+    "US": 5,
     "HK": 1
    },
    "topics": {},
@@ -662,7 +662,9 @@
     "TRT Afrika": 1,
     "Mehr News Agency": 1,
     "Bangladesh Sangbad Sangstha (BSS)": 1,
-    "IndexBox": 1
+    "IndexBox": 1,
+    "X": 1,
+    "The New York Times": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -1101,6 +1103,16 @@
      0
     ],
     "IndexBox": [
+     0,
+     1,
+     0
+    ],
+    "X": [
+     0,
+     1,
+     0
+    ],
+    "The New York Times": [
      0,
      1,
      0
