@@ -24,18 +24,18 @@
    }
   },
   "2026-10-30": {
-   "total": 184,
-   "news": 181,
+   "total": 185,
+   "news": 182,
    "articles": 3,
    "positive": 0,
-   "neutral": 184,
+   "neutral": 185,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 62,
     "FR": 6,
     "HK": 3,
-    "GB": 70,
+    "GB": 71,
     "SA": 43
    },
    "topics": {},
@@ -54,7 +54,7 @@
     "Bloomberg.com": 7,
     "Reuters": 23,
     "Bloomberg": 3,
-    "The Guardian": 15,
+    "The Guardian": 16,
     "BBC": 11,
     "Al-Monitor": 20,
     "Arab News": 42,
@@ -133,7 +133,7 @@
     ],
     "The Guardian": [
      0,
-     15,
+     16,
      0
     ],
     "BBC": [
@@ -159,20 +159,20 @@
    }
   },
   "2026-10-31": {
-   "total": 314,
-   "news": 313,
+   "total": 317,
+   "news": 316,
    "articles": 1,
    "positive": 0,
-   "neutral": 314,
+   "neutral": 317,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "SA": 62,
+    "SA": 64,
     "US": 50,
     "HK": 4,
     "DE": 1,
     "FR": 7,
-    "GB": 127
+    "GB": 128
    },
    "topics": {},
    "sources": {
@@ -191,13 +191,13 @@
     "Reuters": 17,
     "Financial Times": 75,
     "باسنیوز": 1,
-    "The Guardian": 21,
+    "The Guardian": 22,
     "Awani International": 1,
     "Le Monde.fr": 6,
     "The Media Line": 1,
     "Daily Sabah": 1,
     "Addis Standard": 1,
-    "Arab News": 58,
+    "Arab News": 60,
     "The Korea Times": 1,
     "Diario AS": 1,
     "Athens Daily Review": 2,
@@ -319,7 +319,7 @@
     ],
     "The Guardian": [
      0,
-     21,
+     22,
      0
     ],
     "Awani International": [
@@ -349,7 +349,7 @@
     ],
     "Arab News": [
      0,
-     58,
+     60,
      0
     ],
     "The Korea Times": [
@@ -565,15 +565,15 @@
    }
   },
   "2026-11-01": {
-   "total": 326,
-   "news": 324,
+   "total": 342,
+   "news": 340,
    "articles": 2,
    "positive": 0,
-   "neutral": 326,
+   "neutral": 342,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "SA": 51,
+    "SA": 55,
     "GB": 58,
     "FR": 8,
     "US": 31,
@@ -590,13 +590,13 @@
     "Reuters": 8,
     "سانا": 2,
     "Le Monde.fr": 7,
-    "Arab News": 55,
+    "Arab News": 59,
     "EA WorldView": 1,
     "Al-Monitor": 3,
     "Financial Times": 26,
     "WSJ": 8,
     "The Guardian": 19,
-    "ASHARQ AL-AWSAT English": 12,
+    "ASHARQ AL-AWSAT English": 13,
     "Daily Sabah": 2,
     "بوابة التكنولوجيا المالية": 1,
     "Free Malaysia Today": 1,
@@ -609,12 +609,12 @@
     "The New Indian Express": 1,
     "ABC News - Breaking News, Latest News and Videos": 1,
     "조선일보": 1,
-    "صوت الإمارات": 2,
+    "صوت الإمارات": 3,
     "Investing.com": 2,
     "Egypt Independent": 1,
     "Middle East Online": 2,
     "The National": 2,
-    "UA.NEWS": 3,
+    "UA.NEWS": 4,
     "アラブニュース": 2,
     "Forbes Middle East": 3,
     "Goal.com": 3,
@@ -683,10 +683,10 @@
     "Breakingthenews.net": 2,
     "شفق نيوز": 1,
     "Demócrata": 1,
-    "Yemen Online": 1,
+    "Yemen Online": 2,
     "The Express Tribune": 1,
     "The Eastleigh Voice": 1,
-    "Al Arabiya English": 2,
+    "Al Arabiya English": 3,
     "The Times of Israel": 2,
     "Investing.com UK": 1,
     "Organization of the Petroleum Exporting Countries": 1,
@@ -704,7 +704,14 @@
     "WHEC.com": 1,
     "GamesBeat": 1,
     "Briefs Finance": 1,
-    "WGN Radio 720": 1
+    "WGN Radio 720": 1,
+    "Daily Sun": 1,
+    "Fana News -": 1,
+    "A News": 1,
+    "Xinhua": 1,
+    "Middle East Eye": 1,
+    "Yahoo Sports": 1,
+    "Mugglehead Investment Magazine": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -749,7 +756,7 @@
     ],
     "Arab News": [
      0,
-     55,
+     59,
      0
     ],
     "EA WorldView": [
@@ -779,7 +786,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     12,
+     13,
      0
     ],
     "Daily Sabah": [
@@ -844,7 +851,7 @@
     ],
     "صوت الإمارات": [
      0,
-     2,
+     3,
      0
     ],
     "Investing.com": [
@@ -869,7 +876,7 @@
     ],
     "UA.NEWS": [
      0,
-     3,
+     4,
      0
     ],
     "アラブニュース": [
@@ -1214,7 +1221,7 @@
     ],
     "Yemen Online": [
      0,
-     1,
+     2,
      0
     ],
     "The Express Tribune": [
@@ -1229,7 +1236,7 @@
     ],
     "Al Arabiya English": [
      0,
-     2,
+     3,
      0
     ],
     "The Times of Israel": [
@@ -1318,6 +1325,41 @@
      0
     ],
     "WGN Radio 720": [
+     0,
+     1,
+     0
+    ],
+    "Daily Sun": [
+     0,
+     1,
+     0
+    ],
+    "Fana News -": [
+     0,
+     1,
+     0
+    ],
+    "A News": [
+     0,
+     1,
+     0
+    ],
+    "Xinhua": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Eye": [
+     0,
+     1,
+     0
+    ],
+    "Yahoo Sports": [
+     0,
+     1,
+     0
+    ],
+    "Mugglehead Investment Magazine": [
      0,
      1,
      0
