@@ -547,11 +547,11 @@
    }
   },
   "2026-11-01": {
-   "total": 125,
-   "news": 125,
+   "total": 126,
+   "news": 126,
    "articles": 0,
    "positive": 0,
-   "neutral": 125,
+   "neutral": 126,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -633,7 +633,8 @@
     "EnergyNow": 1,
     "The Financial Express": 1,
     "BusinessMirror": 1,
-    "Telegraph India": 1
+    "Telegraph India": 1,
+    "Global Arab Network": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -992,6 +993,11 @@
      0
     ],
     "Telegraph India": [
+     0,
+     1,
+     0
+    ],
+    "Global Arab Network": [
      0,
      1,
      0
