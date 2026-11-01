@@ -4,7 +4,7 @@
 
 import fs from 'node:fs/promises';
 import crypto from 'node:crypto';
-import { FEEDS, X_ACCOUNTS, OPINION_HINTS, RELEVANCE, MBS, BREAKING_WORDS } from './sources.mjs';
+import { FEEDS, X_ACCOUNTS, OPINION_HINTS, RELEVANCE, MBS, BREAKING_WORDS, ROUTINE_WORDS } from './sources.mjs';
 
 const DATA = new URL('../data/', import.meta.url);
 const KEY = process.env.ANTHROPIC_API_KEY;
@@ -74,7 +74,7 @@ function heuristic(it) {
     kind: isOpinion ? 'article' : 'news',
     title_ar: it.title,
     summary_ar: [],
-    breaking: it.feedKind === 'breaking',
+    breaking: isBreakingTitle(it.title),
     tone: 'neutral', topic: '', country: '',
     subject: subjectOf(`${it.title} ${it.description}`),
     title_en: it.lang === 'en' ? it.title : '', summary_en: [],
@@ -134,6 +134,9 @@ async function withFreeTitle(it, a) {
   return a;
 }
 
+// بدون ذكاء اصطناعي: العاجل فقط للكلمات الصريحة، ونستبعد الأخبار البروتوكولية والروتينية
+const isBreakingTitle = (t) => BREAKING_WORDS.test(t) && !ROUTINE_WORDS.test(t);
+
 let KEY_BAD = false;   // إذا رفض المفتاح (401) نعرض الأخبار بدون ترجمة ونترجمها لاحقًا
 async function analyze(it) {
   if (KEY_BAD) return { ...heuristic(it), pending: true };
@@ -154,7 +157,8 @@ async function analyze(it) {
 - summary_ar: من 2 إلى 4 نقاط قصيرة بصياغتك أنت، مبنية فقط على المعلومات أعلاه بدون إضافة أو تخمين، وبدون نسخ جمل المصدر.
 - title_en و summary_en: نفس العنوان والنقاط بالإنجليزية (إذا العنوان الأصلي إنجليزي انقله كما هو).
 - subject: "mbs" إذا المادة تتمحور حول ولي العهد الأمير محمد بن سلمان شخصيًا (تصريحاته، زياراته، قراراته، لقاءاته)، وإلا "saudi".
-- breaking: true فقط لحدث مهم جدًا وقع للتو (قرار رسمي، هجوم، وفاة، إعلان كبير).
+- breaking: true فقط لخبر عاجل فعلًا يستاهل تنبيه فوري: أمر ملكي أو قرار حكومي كبير، وفاة شخصية رسمية، هجوم أو حادث أمني، إعلان رسمي مهم لأول مرة، أو صفقة/حدث استثنائي.
+  وfalse لكل الأخبار الروتينية مثل: التهاني والتعازي والبرقيات، الاستقبالات واللقاءات والزيارات المعتادة، الإحصاءات والتقارير الدورية، المشاريع المحلية والصيانة، الطقس، الفعاليات والمعارض، المقالات والتحليلات. وإذا شكّيت خلها false.
 - tone: نبرة المادة تجاه السعودية كما تظهر في العنوان والمقتطف: positive أو neutral أو critical.
 - topic: واحد فقط من: سياسة، اقتصاد، طاقة، أمن ودفاع، رياضة، سياحة وترفيه، تقنية، مجتمع وثقافة.
 - country: رمز الدولة (حرفين ISO مثل US أو GB) للبلد اللي تصدر منه الوسيلة الإعلامية.
@@ -381,7 +385,7 @@ async function run() {
     let a;
     if (KEY) { try { a = await analyze(it); } catch (e) { console.warn(`تحليل: ${e.message}`); STATUS.analyzeErrors++; STATUS.lastError = String(e.message).slice(0, 300); continue; } }
     else a = { ...heuristic(it), breaking: BREAKING_WORDS.test(it.title) };
-    if (!a.relevant || !a.breaking) continue;
+    if (!a.relevant || !a.breaking || ROUTINE_WORDS.test(it.title)) continue;
     addBreaking(toRec(it, a)); brkCount++;
   }
 
