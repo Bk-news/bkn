@@ -24,18 +24,18 @@
    }
   },
   "2026-10-30": {
-   "total": 180,
-   "news": 177,
+   "total": 181,
+   "news": 178,
    "articles": 3,
    "positive": 0,
-   "neutral": 180,
+   "neutral": 181,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 60,
     "FR": 6,
     "HK": 3,
-    "GB": 68,
+    "GB": 69,
     "SA": 43
    },
    "topics": {},
@@ -54,7 +54,7 @@
     "Bloomberg.com": 7,
     "Reuters": 23,
     "Bloomberg": 3,
-    "The Guardian": 13,
+    "The Guardian": 14,
     "BBC": 11,
     "Al-Monitor": 20,
     "Arab News": 42,
@@ -133,7 +133,7 @@
     ],
     "The Guardian": [
      0,
-     13,
+     14,
      0
     ],
     "BBC": [
@@ -559,11 +559,11 @@
    }
   },
   "2026-11-01": {
-   "total": 270,
-   "news": 269,
+   "total": 271,
+   "news": 270,
    "articles": 1,
    "positive": 0,
-   "neutral": 270,
+   "neutral": 271,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -595,7 +595,7 @@
     "بوابة التكنولوجيا المالية": 1,
     "Free Malaysia Today": 1,
     "The Business Standard": 1,
-    "Gulf News": 4,
+    "Gulf News": 5,
     "Martin Cid Magazine": 1,
     "صحيفة مال": 2,
     "The Arab Weekly": 1,
@@ -788,7 +788,7 @@
     ],
     "Gulf News": [
      0,
-     4,
+     5,
      0
     ],
     "Martin Cid Magazine": [

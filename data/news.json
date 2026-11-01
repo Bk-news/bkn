@@ -1260,6 +1260,27 @@
   "mt": true
  },
  {
+  "id": "5e84e76fb8adfedd",
+  "origin": "rss",
+  "source": "Gulf News",
+  "author": "",
+  "title_ar": "التحالف بقيادة السعودية يشن عملية عسكرية تستهدف موارد الحوثيين",
+  "title_orig": "Saudi-led coalition launches military operation targeting Houthi resources",
+  "title_en": "Saudi-led coalition launches military operation targeting Houthi resources",
+  "summary_ar": [],
+  "summary_en": [],
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQY3FhcS03by1oTTBLeDRBVkJWdTNvWUJhbGg3cl8yRWktMGJnaXV2aTdaZlJ4dTR3TG1UeWVXbmxWdlVEaE1DMmdqeVVOUjd5TlJxdW5jQS1TVmpINDdUYlhyTzBpY3VVMTJndE42bVFVS0RKNklyZl9XNXNwUVEydFJRZ3FYSU9QY1ppSDZ6RkxpRDJfUV9hRXZJNkgtWjBWakpiZF9CMk5UQ3BZVjdLUURIMkl4NExhYWlHaXh5VEhFZ9IB1wFBVV95cUxQcVdFeC1sSUgtWTJBSkVqSnVzOGEwbXpaN1RlQkZnZnBaNzl6Z1YxbFgwSlFQalllUS11VTVSY01FZnMtZmNyQnRTSUdxdlBmTTRVLW1YSHBzdURZWkRYMUx1VzUxLVJwQVNyek9ZU1g1aDIzQ1prcnpYTE14MGtQQ1ZlUGZ6blJKUEJMOGQ5cFJfdUJnTV9CMzRKM3Y2a3hMVjI2M0lTM2ljWEZxVjlFS1N4bjdVZUNBMkpuamNPV3p1Wm96eVVMY0FXVklhS2VIWkJVUVpqRQ?oc=5",
+  "published": "2026-11-01T13:43:50.000Z",
+  "subject": "saudi",
+  "tone": "neutral",
+  "topic": "",
+  "country": "",
+  "pending": true,
+  "desc": "Saudi-led coalition launches military operation targeting Houthi resources &nbsp;&nbsp; Gulf News",
+  "lang": "en",
+  "mt": true
+ },
+ {
   "id": "c78c30b8be814d15",
   "origin": "rss",
   "source": "Reuters",
@@ -10476,27 +10497,6 @@
   "pending": true,
   "desc": "Le Monde - Toute l’actualité en continu &nbsp;&nbsp; Le Monde.fr",
   "lang": "fr",
-  "mt": true
- },
- {
-  "id": "953060d25e094dbf",
-  "origin": "rss",
-  "source": "BBC",
-  "author": "",
-  "title_ar": "الهند | آخر الأخبار والمستجدات",
-  "title_orig": "India | Latest News & Updates",
-  "title_en": "India | Latest News & Updates",
-  "summary_ar": [],
-  "summary_en": [],
-  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BRS1adzJoeFlUU0FSNWktWG9WamR6dUJfRGREY2VUZ3FCVENXZkFseEhpZE1iakJRakt0cmJ0VWVsQm1ZSTJ0QjQ3QnBZdlpjcTZr?oc=5",
-  "published": "2026-10-31T09:08:08.000Z",
-  "subject": "saudi",
-  "tone": "neutral",
-  "topic": "",
-  "country": "GB",
-  "pending": true,
-  "desc": "India | Latest News & Updates &nbsp;&nbsp; BBC",
-  "lang": "en",
   "mt": true
  }
 ]
