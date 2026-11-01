@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>الرئيسية | BKN</title>
+<script>try{var t=JSON.parse(localStorage.getItem('bkn-theme'));if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
+<script src="assets/i18n.js"></script>
+<meta name="description" content="BKN: السعودية في عيون الصحافة العالمية. الأخبار والمقالات مترجمة وملخصة لحظة بلحظة.">
+<meta name="theme-color" content="#070d1a">
+<meta property="og:title" content="الرئيسية | BKN">
+<meta property="og:description" content="السعودية في عيون الصحافة العالمية: الأخبار والمقالات مترجمة وملخصة لحظة بلحظة.">
+<meta property="og:image" content="assets/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="assets/icon-192.png">
+<link rel="apple-touch-icon" href="assets/icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;700&family=IBM+Plex+Sans+Arabic:wght@400;600;700&family=Noto+Kufi+Arabic:wght@600;800&family=Space+Grotesk:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body data-page="home">
+<main class="wrap">
+  <div id="brief"></div>
+  <div class="home-top">
+    <div id="lead"></div>
+    <aside class="panel pulse" id="pulse"></aside>
+  </div>
+  <div class="home-body">
+    <div>
+      <div class="h2"><h2 data-i18n="latest"></h2><a href="news.html" data-i18n="allNews"></a></div>
+      <div class="chips" id="topics" style="margin-bottom:16px"></div>
+      <div class="grid" id="latest"></div>
+    </div>
+    <aside class="sticky">
+      <div class="h2"><h2 data-i18n="opinion"></h2><a href="articles.html" data-i18n="more"></a></div>
+      <div class="list" id="side-articles"></div>
+    </aside>
+  </div>
+</main>
+<script src="assets/templates.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

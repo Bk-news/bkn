@@ -1,0 +1,17 @@
+{
+  "name": "BKN | السعودية في عيون الصحافة العالمية",
+  "short_name": "BKN",
+  "description": "الأخبار والمقالات العالمية عن السعودية مترجمة وملخصة لحظة بلحظة",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#070d1a",
+  "theme_color": "#070d1a",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "assets/icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

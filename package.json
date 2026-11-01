@@ -1,0 +1,13 @@
+{
+  "name": "saudi-monitor",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch.mjs",
+    "watch": "node scripts/fetch.mjs --watch"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>التحليلات | BKN</title>
+<script>try{var t=JSON.parse(localStorage.getItem('bkn-theme'));if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
+<script src="assets/i18n.js"></script>
+<meta name="description" content="BKN: السعودية في عيون الصحافة العالمية. الأخبار والمقالات مترجمة وملخصة لحظة بلحظة.">
+<meta name="theme-color" content="#070d1a">
+<meta property="og:title" content="التحليلات | BKN">
+<meta property="og:description" content="السعودية في عيون الصحافة العالمية: الأخبار والمقالات مترجمة وملخصة لحظة بلحظة.">
+<meta property="og:image" content="assets/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="assets/icon-192.png">
+<link rel="apple-touch-icon" href="assets/icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;700&family=IBM+Plex+Sans+Arabic:wght@400;600;700&family=Noto+Kufi+Arabic:wght@600;800&family=Space+Grotesk:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body data-page="analytics">
+<main class="wrap">
+  <div class="page-head" id="page-head"></div>
+  <div class="seg range" id="range"><button data-r="7" data-i18n="r.7"></button><button data-r="30" class="on" data-i18n="r.30"></button><button data-r="90" data-i18n="r.90"></button></div>
+  <div class="kpis" id="kpis"></div>
+  <div class="an-grid">
+    <div class="panel">
+      <div class="chart-title"><h3 data-i18n="an.map"></h3></div>
+      <p class="chart-sub" id="map-sub"></p>
+      <div id="map"></div>
+    </div>
+    <div class="panel">
+      <div class="chart-title"><h3 data-i18n="an.words"></h3></div>
+      <p class="chart-sub" data-i18n="an.wordsSub"></p>
+      <div id="words"></div>
+    </div>
+  </div>
+  <div class="panel" style="margin-bottom:18px">
+    <div class="chart-title"><h3 data-i18n="an.tone"></h3>
+      <div class="legend-row"><span><i style="background:var(--green)"></i><span data-i18n="tone.positive"></span></span><span><i style="background:var(--line2)"></i><span data-i18n="tone.neutral"></span></span><span><i style="background:var(--amber)"></i><span data-i18n="tone.critical"></span></span></div></div>
+    <p class="chart-sub" data-i18n="an.toneSub"></p>
+    <div id="tone"></div>
+  </div>
+  <div class="an-grid even">
+    <div class="panel"><div class="chart-title"><h3 data-i18n="an.sources"></h3></div><p class="chart-sub" data-i18n="an.sourcesSub"></p><div id="sources"></div></div>
+    <div class="panel"><div class="chart-title"><h3 data-i18n="an.topics"></h3></div><p class="chart-sub" data-i18n="an.topicsSub"></p><div id="topics-bars"></div></div>
+  </div>
+</main>
+<script src="assets/templates.js"></script>
+<script src="assets/app.js"></script>
+<script src="assets/analytics.js"></script>
+</body>
+</html>
