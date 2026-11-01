@@ -24,18 +24,18 @@
    }
   },
   "2026-10-30": {
-   "total": 105,
-   "news": 102,
+   "total": 109,
+   "news": 106,
    "articles": 3,
    "positive": 0,
-   "neutral": 105,
+   "neutral": 109,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "US": 52,
+    "US": 54,
     "FR": 6,
     "HK": 3,
-    "GB": 44
+    "GB": 46
    },
    "topics": {},
    "sources": {
@@ -48,10 +48,10 @@
     "AP News": 6,
     "WSJ": 9,
     "Financial Times": 5,
-    "The New York Times": 3,
+    "The New York Times": 5,
     "Le Monde.fr": 4,
     "Bloomberg.com": 7,
-    "Reuters": 19,
+    "Reuters": 21,
     "Bloomberg": 3,
     "The Guardian": 9,
     "BBC": 11,
@@ -105,7 +105,7 @@
     ],
     "The New York Times": [
      0,
-     3,
+     5,
      0
     ],
     "Le Monde.fr": [
@@ -120,7 +120,7 @@
     ],
     "Reuters": [
      0,
-     19,
+     21,
      0
     ],
     "Bloomberg": [
@@ -146,20 +146,20 @@
    }
   },
   "2026-10-31": {
-   "total": 140,
-   "news": 139,
+   "total": 158,
+   "news": 157,
    "articles": 1,
    "positive": 0,
-   "neutral": 140,
+   "neutral": 158,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 29,
+    "SA": 46,
     "US": 43,
     "HK": 4,
     "DE": 1,
     "FR": 7,
-    "GB": 50
+    "GB": 51
    },
    "topics": {},
    "sources": {
@@ -175,7 +175,7 @@
     "Al-Monitor": 12,
     "WSJ": 7,
     "BBC": 13,
-    "Reuters": 11,
+    "Reuters": 12,
     "Financial Times": 14,
     "باسنیوز": 1,
     "The Guardian": 11,
@@ -184,7 +184,7 @@
     "The Media Line": 1,
     "Daily Sabah": 1,
     "Addis Standard": 1,
-    "Arab News": 22
+    "Arab News": 39
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -249,7 +249,7 @@
     ],
     "Reuters": [
      0,
-     11,
+     12,
      0
     ],
     "Financial Times": [
@@ -294,17 +294,17 @@
     ],
     "Arab News": [
      0,
-     22,
+     39,
      0
     ]
    }
   },
   "2026-11-01": {
-   "total": 80,
-   "news": 80,
+   "total": 98,
+   "news": 98,
    "articles": 0,
    "positive": 0,
-   "neutral": 80,
+   "neutral": 98,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -317,7 +317,7 @@
    "sources": {
     "Daily Excelsior": 1,
     "LEADERSHIP Newspapers": 1,
-    "Saudi Gazette": 3,
+    "Saudi Gazette": 4,
     "FF News": 1,
     "BBC": 3,
     "Reuters": 2,
@@ -348,10 +348,10 @@
     "Middle East Online": 1,
     "The National": 1,
     "UA.NEWS": 1,
-    "アラブニュース": 1,
+    "アラブニュース": 2,
     "Forbes Middle East": 2,
     "Goal.com": 1,
-    "https://houseofsaud.com/": 1,
+    "https://houseofsaud.com/": 2,
     "Travel & Tourism News Middle East": 1,
     "Bloomberg": 1,
     "TradingView": 2,
@@ -360,7 +360,20 @@
     "Yeni Şafak English": 1,
     "TradeArabia": 1,
     "ispace": 1,
-    "https://globalpost.com/": 1
+    "https://globalpost.com/": 1,
+    "ETV Bharat": 1,
+    "The Siasat Daily": 1,
+    "The Kenya Times": 1,
+    "ABNA English": 1,
+    "Kenya Association of Travel Agents": 1,
+    "وكالة الأنباء السعودية": 1,
+    "PR.com": 1,
+    "Radiokaya": 1,
+    "MMA Sucka": 1,
+    "Daily Nation": 1,
+    "Asian Football Confederation (AFC)": 3,
+    "Arabian Business": 1,
+    "IQAir": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -375,7 +388,7 @@
     ],
     "Saudi Gazette": [
      0,
-     3,
+     4,
      0
     ],
     "FF News": [
@@ -530,7 +543,7 @@
     ],
     "アラブニュース": [
      0,
-     1,
+     2,
      0
     ],
     "Forbes Middle East": [
@@ -545,7 +558,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     1,
+     2,
      0
     ],
     "Travel & Tourism News Middle East": [
@@ -589,6 +602,71 @@
      0
     ],
     "https://globalpost.com/": [
+     0,
+     1,
+     0
+    ],
+    "ETV Bharat": [
+     0,
+     1,
+     0
+    ],
+    "The Siasat Daily": [
+     0,
+     1,
+     0
+    ],
+    "The Kenya Times": [
+     0,
+     1,
+     0
+    ],
+    "ABNA English": [
+     0,
+     1,
+     0
+    ],
+    "Kenya Association of Travel Agents": [
+     0,
+     1,
+     0
+    ],
+    "وكالة الأنباء السعودية": [
+     0,
+     1,
+     0
+    ],
+    "PR.com": [
+     0,
+     1,
+     0
+    ],
+    "Radiokaya": [
+     0,
+     1,
+     0
+    ],
+    "MMA Sucka": [
+     0,
+     1,
+     0
+    ],
+    "Daily Nation": [
+     0,
+     1,
+     0
+    ],
+    "Asian Football Confederation (AFC)": [
+     0,
+     3,
+     0
+    ],
+    "Arabian Business": [
+     0,
+     1,
+     0
+    ],
+    "IQAir": [
      0,
      1,
      0
