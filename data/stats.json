@@ -159,15 +159,15 @@
    }
   },
   "2026-10-31": {
-   "total": 274,
-   "news": 273,
+   "total": 275,
+   "news": 274,
    "articles": 1,
    "positive": 0,
-   "neutral": 274,
+   "neutral": 275,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 54,
+    "SA": 55,
     "US": 46,
     "HK": 4,
     "DE": 1,
@@ -197,7 +197,7 @@
     "The Media Line": 1,
     "Daily Sabah": 1,
     "Addis Standard": 1,
-    "Arab News": 51,
+    "Arab News": 52,
     "The Korea Times": 1,
     "Diario AS": 1,
     "Athens Daily Review": 2,
@@ -347,7 +347,7 @@
     ],
     "Arab News": [
      0,
-     51,
+     52,
      0
     ],
     "The Korea Times": [
@@ -553,18 +553,19 @@
    }
   },
   "2026-11-01": {
-   "total": 130,
-   "news": 130,
+   "total": 133,
+   "news": 133,
    "articles": 0,
    "positive": 0,
-   "neutral": 130,
+   "neutral": 133,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 20,
     "GB": 20,
     "FR": 4,
-    "US": 2
+    "US": 3,
+    "HK": 1
    },
    "topics": {},
    "sources": {
@@ -642,7 +643,10 @@
     "Telegraph India": 1,
     "Global Arab Network": 1,
     "Investify": 1,
-    "The Daily Star": 1
+    "The Daily Star": 1,
+    "Rediff": 1,
+    "AP News": 1,
+    "South China Morning Post": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -1016,6 +1020,21 @@
      0
     ],
     "The Daily Star": [
+     0,
+     1,
+     0
+    ],
+    "Rediff": [
+     0,
+     1,
+     0
+    ],
+    "AP News": [
+     0,
+     1,
+     0
+    ],
+    "South China Morning Post": [
      0,
      1,
      0
