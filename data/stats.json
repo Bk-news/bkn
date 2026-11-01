@@ -24,18 +24,18 @@
    }
   },
   "2026-10-30": {
-   "total": 176,
-   "news": 173,
+   "total": 178,
+   "news": 175,
    "articles": 3,
    "positive": 0,
-   "neutral": 176,
+   "neutral": 178,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 60,
     "FR": 6,
     "HK": 3,
-    "GB": 65,
+    "GB": 67,
     "SA": 42
    },
    "topics": {},
@@ -54,7 +54,7 @@
     "Bloomberg.com": 7,
     "Reuters": 23,
     "Bloomberg": 3,
-    "The Guardian": 10,
+    "The Guardian": 12,
     "BBC": 11,
     "Al-Monitor": 20,
     "Arab News": 41,
@@ -133,7 +133,7 @@
     ],
     "The Guardian": [
      0,
-     10,
+     12,
      0
     ],
     "BBC": [
@@ -159,11 +159,11 @@
    }
   },
   "2026-10-31": {
-   "total": 292,
-   "news": 291,
+   "total": 296,
+   "news": 295,
    "articles": 1,
    "positive": 0,
-   "neutral": 292,
+   "neutral": 296,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -172,7 +172,7 @@
     "HK": 4,
     "DE": 1,
     "FR": 7,
-    "GB": 112
+    "GB": 116
    },
    "topics": {},
    "sources": {
@@ -188,10 +188,10 @@
     "Al-Monitor": 15,
     "WSJ": 8,
     "BBC": 14,
-    "Reuters": 12,
+    "Reuters": 15,
     "Financial Times": 69,
     "باسنیوز": 1,
-    "The Guardian": 17,
+    "The Guardian": 18,
     "Awani International": 1,
     "Le Monde.fr": 6,
     "The Media Line": 1,
@@ -303,7 +303,7 @@
     ],
     "Reuters": [
      0,
-     12,
+     15,
      0
     ],
     "Financial Times": [
@@ -318,7 +318,7 @@
     ],
     "The Guardian": [
      0,
-     17,
+     18,
      0
     ],
     "Awani International": [
@@ -559,16 +559,16 @@
    }
   },
   "2026-11-01": {
-   "total": 204,
-   "news": 203,
+   "total": 238,
+   "news": 237,
    "articles": 1,
    "positive": 0,
-   "neutral": 204,
+   "neutral": 238,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "SA": 35,
-    "GB": 32,
+    "SA": 38,
+    "GB": 33,
     "FR": 8,
     "US": 15,
     "HK": 3,
@@ -578,46 +578,46 @@
    "sources": {
     "Daily Excelsior": 1,
     "LEADERSHIP Newspapers": 1,
-    "Saudi Gazette": 7,
+    "Saudi Gazette": 9,
     "FF News": 1,
     "BBC": 3,
-    "Reuters": 6,
+    "Reuters": 7,
     "سانا": 1,
     "Le Monde.fr": 7,
-    "Arab News": 36,
+    "Arab News": 40,
     "EA WorldView": 1,
     "Al-Monitor": 1,
     "Financial Times": 14,
     "WSJ": 4,
     "The Guardian": 9,
-    "ASHARQ AL-AWSAT English": 4,
+    "ASHARQ AL-AWSAT English": 9,
     "Daily Sabah": 2,
     "بوابة التكنولوجيا المالية": 1,
     "Free Malaysia Today": 1,
     "The Business Standard": 1,
-    "Gulf News": 1,
+    "Gulf News": 4,
     "Martin Cid Magazine": 1,
-    "صحيفة مال": 1,
+    "صحيفة مال": 2,
     "The Arab Weekly": 1,
     "SaudiGulf Projects": 2,
     "The New Indian Express": 1,
     "ABC News - Breaking News, Latest News and Videos": 1,
     "조선일보": 1,
-    "صوت الإمارات": 1,
+    "صوت الإمارات": 2,
     "Investing.com": 1,
     "Egypt Independent": 1,
-    "Middle East Online": 1,
+    "Middle East Online": 2,
     "The National": 2,
     "UA.NEWS": 2,
     "アラブニュース": 2,
     "Forbes Middle East": 3,
     "Goal.com": 2,
-    "https://houseofsaud.com/": 4,
+    "https://houseofsaud.com/": 5,
     "Travel & Tourism News Middle East": 1,
     "Bloomberg": 1,
     "TradingView": 2,
     "Kurdistan24": 1,
-    "Türkiye Today": 1,
+    "Türkiye Today": 2,
     "Yeni Şafak English": 1,
     "TradeArabia": 2,
     "ispace": 1,
@@ -627,7 +627,7 @@
     "The Kenya Times": 1,
     "ABNA English": 2,
     "Kenya Association of Travel Agents": 1,
-    "وكالة الأنباء السعودية": 1,
+    "وكالة الأنباء السعودية": 2,
     "PR.com": 1,
     "Radiokaya": 1,
     "MMA Sucka": 1,
@@ -662,7 +662,7 @@
     "Atlantic Council": 1,
     "TRT Afrika": 1,
     "Mehr News Agency": 1,
-    "Bangladesh Sangbad Sangstha (BSS)": 1,
+    "Bangladesh Sangbad Sangstha (BSS)": 2,
     "IndexBox": 1,
     "X": 1,
     "The New York Times": 1,
@@ -671,7 +671,17 @@
     "Spiegel": 1,
     "France 24": 1,
     "Bloomberg.com": 1,
-    "Anadolu Ajansı": 1
+    "Anadolu Ajansı": 2,
+    "Jordan News": 1,
+    "IraqiNews": 1,
+    "Breakingthenews.net": 1,
+    "شفق نيوز": 1,
+    "Demócrata": 1,
+    "Yemen Online": 1,
+    "The Express Tribune": 1,
+    "The Eastleigh Voice": 1,
+    "Al Arabiya English": 1,
+    "The Times of Israel": 2
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -686,7 +696,7 @@
     ],
     "Saudi Gazette": [
      0,
-     7,
+     9,
      0
     ],
     "FF News": [
@@ -701,7 +711,7 @@
     ],
     "Reuters": [
      0,
-     6,
+     7,
      0
     ],
     "سانا": [
@@ -716,7 +726,7 @@
     ],
     "Arab News": [
      0,
-     36,
+     40,
      0
     ],
     "EA WorldView": [
@@ -746,7 +756,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     4,
+     9,
      0
     ],
     "Daily Sabah": [
@@ -771,7 +781,7 @@
     ],
     "Gulf News": [
      0,
-     1,
+     4,
      0
     ],
     "Martin Cid Magazine": [
@@ -781,7 +791,7 @@
     ],
     "صحيفة مال": [
      0,
-     1,
+     2,
      0
     ],
     "The Arab Weekly": [
@@ -811,7 +821,7 @@
     ],
     "صوت الإمارات": [
      0,
-     1,
+     2,
      0
     ],
     "Investing.com": [
@@ -826,7 +836,7 @@
     ],
     "Middle East Online": [
      0,
-     1,
+     2,
      0
     ],
     "The National": [
@@ -856,7 +866,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     4,
+     5,
      0
     ],
     "Travel & Tourism News Middle East": [
@@ -881,7 +891,7 @@
     ],
     "Türkiye Today": [
      0,
-     1,
+     2,
      0
     ],
     "Yeni Şafak English": [
@@ -931,7 +941,7 @@
     ],
     "وكالة الأنباء السعودية": [
      0,
-     1,
+     2,
      0
     ],
     "PR.com": [
@@ -1106,7 +1116,7 @@
     ],
     "Bangladesh Sangbad Sangstha (BSS)": [
      0,
-     1,
+     2,
      0
     ],
     "IndexBox": [
@@ -1151,7 +1161,57 @@
     ],
     "Anadolu Ajansı": [
      0,
+     2,
+     0
+    ],
+    "Jordan News": [
+     0,
      1,
+     0
+    ],
+    "IraqiNews": [
+     0,
+     1,
+     0
+    ],
+    "Breakingthenews.net": [
+     0,
+     1,
+     0
+    ],
+    "شفق نيوز": [
+     0,
+     1,
+     0
+    ],
+    "Demócrata": [
+     0,
+     1,
+     0
+    ],
+    "Yemen Online": [
+     0,
+     1,
+     0
+    ],
+    "The Express Tribune": [
+     0,
+     1,
+     0
+    ],
+    "The Eastleigh Voice": [
+     0,
+     1,
+     0
+    ],
+    "Al Arabiya English": [
+     0,
+     1,
+     0
+    ],
+    "The Times of Israel": [
+     0,
+     2,
      0
     ]
    }
