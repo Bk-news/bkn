@@ -547,16 +547,16 @@
    }
   },
   "2026-11-01": {
-   "total": 124,
-   "news": 124,
+   "total": 125,
+   "news": 125,
    "articles": 0,
    "positive": 0,
-   "neutral": 124,
+   "neutral": 125,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 19,
-    "GB": 18,
+    "GB": 19,
     "FR": 4,
     "US": 2
    },
@@ -573,7 +573,7 @@
     "Arab News": 21,
     "EA WorldView": 1,
     "Al-Monitor": 1,
-    "Financial Times": 9,
+    "Financial Times": 10,
     "WSJ": 1,
     "The Guardian": 4,
     "ASHARQ AL-AWSAT English": 2,
@@ -693,7 +693,7 @@
     ],
     "Financial Times": [
      0,
-     9,
+     10,
      0
     ],
     "WSJ": [
