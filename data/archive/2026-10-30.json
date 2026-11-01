@@ -857,6 +857,27 @@
    "mt": true
   },
   {
+   "id": "7575e2c0821d08fd",
+   "origin": "rss",
+   "source": "The New York Times",
+   "author": "",
+   "title_ar": "أخبار كاليفورنيا - الصفحة 6",
+   "title_orig": "California News - Page 6",
+   "title_en": "California News - Page 6",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KMVhmNU1nbUpNQ2VVMHhOTUIxMVFOMkxlXzA2UEpRMWZVMUlPOUE4YmtoemQ4b1YzbE5jYmZfRlRwdS1BOVpnUWYzVVBNNGxPdmJET21HdkVnOG9MX284V2ZJU1Nsb3c?oc=5",
+   "published": "2026-10-30T19:56:12.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "California News - Page 6 &nbsp;&nbsp; The New York Times",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "37a788498281ac82",
    "origin": "rss",
    "source": "Arab News",
