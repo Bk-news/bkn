@@ -1,16 +1,17 @@
 {
  "days": {
   "2026-10-30": {
-   "total": 10,
-   "news": 7,
+   "total": 14,
+   "news": 11,
    "articles": 3,
    "positive": 0,
-   "neutral": 10,
+   "neutral": 14,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "US": 8,
-    "FR": 2
+    "US": 10,
+    "FR": 2,
+    "HK": 2
    },
    "topics": {},
    "sources": {
@@ -18,7 +19,9 @@
     "CNN": 2,
     "Foreign Policy": 1,
     "Atlantic Council": 2,
-    "France 24": 2
+    "France 24": 2,
+    "South China Morning Post": 2,
+    "AP News": 2
    },
    "sourceTone": {
     "The Washington Post": [
@@ -45,55 +48,68 @@
      0,
      2,
      0
+    ],
+    "South China Morning Post": [
+     0,
+     2,
+     0
+    ],
+    "AP News": [
+     0,
+     2,
+     0
     ]
    }
   },
   "2026-10-31": {
-   "total": 44,
-   "news": 43,
+   "total": 74,
+   "news": 73,
    "articles": 1,
    "positive": 0,
-   "neutral": 44,
+   "neutral": 74,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 4,
-    "US": 19,
+    "SA": 6,
+    "US": 31,
     "HK": 4,
     "DE": 1,
-    "FR": 2,
-    "GB": 11
+    "FR": 4,
+    "GB": 22
    },
    "topics": {},
    "sources": {
-    "Saudi Gazette": 4,
-    "The New York Times": 4,
+    "Saudi Gazette": 6,
+    "The New York Times": 7,
     "AP News": 4,
-    "Bloomberg": 4,
+    "Bloomberg": 7,
     "South China Morning Post": 4,
     "Spiegel": 1,
     "France 24": 1,
     "The Economist": 1,
     "DW.com": 1,
-    "Al-Monitor": 3,
-    "WSJ": 4,
-    "BBC": 3,
-    "Reuters": 3,
-    "Financial Times": 2,
+    "Al-Monitor": 6,
+    "WSJ": 7,
+    "BBC": 6,
+    "Reuters": 6,
+    "Financial Times": 5,
     "باسنیوز": 1,
-    "The Guardian": 2,
+    "The Guardian": 4,
     "Awani International": 1,
-    "Le Monde.fr": 1
+    "Le Monde.fr": 3,
+    "The Media Line": 1,
+    "Daily Sabah": 1,
+    "Addis Standard": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
      0,
-     4,
+     6,
      0
     ],
     "The New York Times": [
      0,
-     4,
+     7,
      0
     ],
     "AP News": [
@@ -103,7 +119,7 @@
     ],
     "Bloomberg": [
      0,
-     4,
+     7,
      0
     ],
     "South China Morning Post": [
@@ -133,27 +149,27 @@
     ],
     "Al-Monitor": [
      0,
-     3,
+     6,
      0
     ],
     "WSJ": [
      0,
-     4,
+     7,
      0
     ],
     "BBC": [
      0,
-     3,
+     6,
      0
     ],
     "Reuters": [
      0,
-     3,
+     6,
      0
     ],
     "Financial Times": [
      0,
-     2,
+     5,
      0
     ],
     "باسنیوز": [
@@ -163,7 +179,7 @@
     ],
     "The Guardian": [
      0,
-     2,
+     4,
      0
     ],
     "Awani International": [
@@ -173,21 +189,36 @@
     ],
     "Le Monde.fr": [
      0,
+     3,
+     0
+    ],
+    "The Media Line": [
+     0,
+     1,
+     0
+    ],
+    "Daily Sabah": [
+     0,
+     1,
+     0
+    ],
+    "Addis Standard": [
+     0,
      1,
      0
     ]
    }
   },
   "2026-11-01": {
-   "total": 33,
-   "news": 33,
+   "total": 39,
+   "news": 39,
    "articles": 0,
    "positive": 0,
-   "neutral": 33,
+   "neutral": 39,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 7,
+    "SA": 10,
     "GB": 10,
     "FR": 4,
     "US": 2
@@ -202,7 +233,7 @@
     "Reuters": 2,
     "سانا": 1,
     "Le Monde.fr": 4,
-    "Arab News": 6,
+    "Arab News": 9,
     "EA WorldView": 1,
     "Al-Monitor": 1,
     "Financial Times": 2,
@@ -210,7 +241,10 @@
     "The Guardian": 3,
     "ASHARQ AL-AWSAT English": 1,
     "Daily Sabah": 1,
-    "بوابة التكنولوجيا المالية": 1
+    "بوابة التكنولوجيا المالية": 1,
+    "Free Malaysia Today": 1,
+    "The Business Standard": 1,
+    "Gulf News": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -255,7 +289,7 @@
     ],
     "Arab News": [
      0,
-     6,
+     9,
      0
     ],
     "EA WorldView": [
@@ -294,6 +328,21 @@
      0
     ],
     "بوابة التكنولوجيا المالية": [
+     0,
+     1,
+     0
+    ],
+    "Free Malaysia Today": [
+     0,
+     1,
+     0
+    ],
+    "The Business Standard": [
+     0,
+     1,
+     0
+    ],
+    "Gulf News": [
      0,
      1,
      0
