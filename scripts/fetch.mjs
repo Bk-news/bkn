@@ -93,6 +93,28 @@ async function claudeJSON(prompt, maxTokens) {
   return JSON.parse(out.match(/\{[\s\S]*\}/)[0]);
 }
 
+// ترجمة مجانية للعناوين (تُستخدم لما يكون مفتاح الذكاء الاصطناعي غير متوفر أو مرفوض)
+const mtCache = new Map();
+async function translateFree(text, to = 'ar') {
+  if (!text) return '';
+  const k = to + '|' + text; if (mtCache.has(k)) return mtCache.get(k);
+  const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=${to}&dt=t&q=${encodeURIComponent(text.slice(0, 500))}`;
+  const res = await fetch(url, { headers: { 'user-agent': 'Mozilla/5.0' }, signal: AbortSignal.timeout(10000) });
+  if (!res.ok) throw new Error(`translate ${res.status}`);
+  const out = (await res.json())?.[0]?.map((x) => x?.[0] || '').join('').trim();
+  if (!out) throw new Error('translate empty');
+  mtCache.set(k, out); return out;
+}
+async function withFreeTitle(it, a) {
+  if (it.lang === 'ar' || (a.title_ar && a.title_ar !== it.title)) return a;
+  try {
+    a.title_ar = await translateFree(it.title, 'ar');
+    if (it.lang !== 'en' && !a.title_en) a.title_en = await translateFree(it.title, 'en').catch(() => '');
+    a.mt = true; STATUS.mt = (STATUS.mt || 0) + 1;
+  } catch (e) { STATUS.mtErrors = (STATUS.mtErrors || 0) + 1; STATUS.mtLastError = e.message; }
+  return a;
+}
+
 let KEY_BAD = false;   // إذا رفض المفتاح (401) نعرض الأخبار بدون ترجمة ونترجمها لاحقًا
 async function analyze(it) {
   if (KEY_BAD) return { ...heuristic(it), pending: true };
@@ -340,6 +362,7 @@ async function run() {
     let a;
     if (KEY) { try { a = await analyze(it); } catch (e) { console.warn(`تحليل: ${e.message}`); STATUS.analyzeErrors++; STATUS.lastError = String(e.message).slice(0, 300); continue; } }
     else a = { ...heuristic(it), breaking: BREAKING_WORDS.test(it.title) };
+    if (!KEY || KEY_BAD) a = await withFreeTitle(it, a);
     if (!a.relevant || !a.breaking) continue;
     addBreaking(toRec(it, a)); brkCount++;
   }
@@ -352,11 +375,13 @@ async function run() {
       console.warn(`تحليل: ${e.message}`); STATUS.analyzeErrors++; STATUS.lastError = String(e.message).slice(0, 300);
       if (!KEY_BAD) continue;                 // خطأ مؤقت: نعيد المحاولة في التشغيل الجاي
       a = { ...heuristic(it), pending: true }; // المفتاح مرفوض: نعرضه الحين ونترجمه لاحقًا
-    }   // ما نعلّمه «مقروء» عشان يُعاد في التشغيل الجاي
+    }
+    if (a.pending || !KEY) a = await withFreeTitle(it, a);   // ما نعلّمه «مقروء» عشان يُعاد في التشغيل الجاي
     markSeen(it);
     if (!a.relevant) continue;
     const rec = toRec(it, a);
     newRecs.push(rec);
+    if (a.mt) rec.mt = true;
     if (a.kind === 'article') { articles.unshift(rec); added.articles++; countIn(stats, rec, 'articles'); }
     else { news.unshift(rec); added.news++; countIn(stats, rec, 'news'); }
     if (a.breaking && Date.now() - new Date(it.published) < BREAKING_TTL) addBreaking(rec);
@@ -370,16 +395,26 @@ async function run() {
       try {
         const a = await analyze({ title: r.title_orig || r.title_ar, description: r.desc || '', source: r.source, url: r.url, lang: r.lang || 'en' });
         if (KEY_BAD) break;
+        if (a.relevant === false) { r.drop = true; continue; }   // الذكاء الاصطناعي قرر إنه ما يخص السعودية
         Object.assign(r, {
           title_ar: a.title_ar || r.title_ar, title_en: a.title_en || r.title_en, summary_ar: a.summary_ar || [], summary_en: a.summary_en || [],
           tone: ['positive', 'neutral', 'critical'].includes(a.tone) ? a.tone : 'neutral', topic: a.topic || '', subject: a.subject === 'mbs' ? 'mbs' : 'saudi',
           country: r.country || (a.country || '').toUpperCase().slice(0, 2),
         });
-        delete r.pending; delete r.desc; delete r.lang; STATUS.retranslated = (STATUS.retranslated || 0) + 1;
+        delete r.pending; delete r.desc; delete r.lang; delete r.mt; STATUS.retranslated = (STATUS.retranslated || 0) + 1;
         if (a.kind === 'article' && news.includes(r)) { news.splice(news.indexOf(r), 1); articles.unshift(r); }
       } catch (e) { STATUS.lastError = String(e.message).slice(0, 300); if (KEY_BAD) break; }
     }
   }
+  // د) ترجمة مجانية لعناوين الأخبار المخزنة اللي للحين بلغتها الأصلية
+  if (!KEY || KEY_BAD) {
+    const raw2 = [...news, ...articles].filter((r) => r.pending && !r.mt && r.title_orig && r.title_ar === r.title_orig).slice(0, 80);
+    for (const r of raw2) {
+      try { r.title_ar = await translateFree(r.title_orig, 'ar'); r.mt = true; STATUS.mt = (STATUS.mt || 0) + 1; }
+      catch (e) { STATUS.mtErrors = (STATUS.mtErrors || 0) + 1; STATUS.mtLastError = e.message; break; }
+    }
+  }
+  news = news.filter((r) => !r.drop); articles = articles.filter((r) => !r.drop);
   STATUS.keyRejected = KEY_BAD;
   STATUS.pending = [...news, ...articles].filter((r) => r.pending).length;
 
@@ -420,7 +455,7 @@ async function run() {
     writeJSON('articles.json', articles),
     writeJSON('breaking.json', breaking),
     writeJSON('seen.json', [...seen].slice(-LIMITS.seen)),
-    ...(added.news + added.articles + added.breaking || brief || STATUS.retranslated ? [writeJSON('meta.json', { updated: new Date().toISOString() })] : []),
+    ...(added.news + added.articles + added.breaking || brief || STATUS.retranslated || STATUS.mt ? [writeJSON('meta.json', { updated: new Date().toISOString() })] : []),
   ]);
   console.log(`✓ أخبار +${added.news} | مقالات +${added.articles} | عاجل +${added.breaking} | ${((Date.now() - started) / 1000).toFixed(1)}ث`);
 }
