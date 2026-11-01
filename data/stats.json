@@ -1,1 +1,50 @@
-{"days":{}}
+{
+ "days": {
+  "2026-10-31": {
+   "total": 5,
+   "news": 5,
+   "articles": 0,
+   "positive": 0,
+   "neutral": 5,
+   "critical": 0,
+   "mbs": 1,
+   "countries": {
+    "SA": 5
+   },
+   "topics": {},
+   "sources": {
+    "وكالة الأنباء السعودية": 5
+   },
+   "sourceTone": {
+    "وكالة الأنباء السعودية": [
+     0,
+     5,
+     0
+    ]
+   }
+  },
+  "2026-11-01": {
+   "total": 25,
+   "news": 25,
+   "articles": 0,
+   "positive": 0,
+   "neutral": 25,
+   "critical": 0,
+   "mbs": 0,
+   "countries": {
+    "SA": 25
+   },
+   "topics": {},
+   "sources": {
+    "وكالة الأنباء السعودية": 25
+   },
+   "sourceTone": {
+    "وكالة الأنباء السعودية": [
+     0,
+     25,
+     0
+    ]
+   }
+  }
+ }
+}
