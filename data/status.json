@@ -1,0 +1,20 @@
+{
+ "run": "2026-11-01T10:36:50.181Z",
+ "key": true,
+ "model": "claude-haiku-5-5",
+ "feedsOk": 25,
+ "feedsFailed": [
+  "العربية: HTTP 403"
+ ],
+ "fetched": 805,
+ "fresh": 507,
+ "world": 504,
+ "analyzed": 0,
+ "analyzeErrors": 42,
+ "lastError": "Anthropic 401: {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Cgc4XPchtR99vAXdDEvoU\"}",
+ "added": {
+  "news": 0,
+  "articles": 0,
+  "breaking": 0
+ }
+}
