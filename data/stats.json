@@ -24,19 +24,19 @@
    }
   },
   "2026-10-30": {
-   "total": 169,
-   "news": 166,
+   "total": 171,
+   "news": 168,
    "articles": 3,
    "positive": 0,
-   "neutral": 169,
+   "neutral": 171,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 59,
     "FR": 6,
     "HK": 3,
-    "GB": 64,
-    "SA": 37
+    "GB": 65,
+    "SA": 38
    },
    "topics": {},
    "sources": {
@@ -54,10 +54,11 @@
     "Bloomberg.com": 7,
     "Reuters": 23,
     "Bloomberg": 3,
-    "The Guardian": 9,
+    "The Guardian": 10,
     "BBC": 11,
     "Al-Monitor": 20,
-    "Arab News": 37
+    "Arab News": 37,
+    "Saudi Gazette": 1
    },
    "sourceTone": {
     "The Washington Post": [
@@ -132,7 +133,7 @@
     ],
     "The Guardian": [
      0,
-     9,
+     10,
      0
     ],
     "BBC": [
@@ -148,6 +149,11 @@
     "Arab News": [
      0,
      37,
+     0
+    ],
+    "Saudi Gazette": [
+     0,
+     1,
      0
     ]
    }
@@ -547,11 +553,11 @@
    }
   },
   "2026-11-01": {
-   "total": 129,
-   "news": 129,
+   "total": 130,
+   "news": 130,
    "articles": 0,
    "positive": 0,
-   "neutral": 129,
+   "neutral": 130,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -635,7 +641,8 @@
     "BusinessMirror": 1,
     "Telegraph India": 1,
     "Global Arab Network": 1,
-    "Investify": 1
+    "Investify": 1,
+    "The Daily Star": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -1004,6 +1011,11 @@
      0
     ],
     "Investify": [
+     0,
+     1,
+     0
+    ],
+    "The Daily Star": [
      0,
      1,
      0
