@@ -1,12 +1,15 @@
 name: تحديث الأخبار
 
+# كل تشغيل يبقى شغال قرابة ساعة ويجيب الأخبار كل دقيقة،
+# والجدول يبدأ تشغيل جديد أول ما يخلص اللي قبله (تشغيل واحد بس في نفس الوقت).
 on:
   schedule:
-    - cron: '*/5 * * * *'   # كل ٥ دقائق (أقل مدة يسمح فيها قيت هاب)
-  workflow_dispatch:         # زر تشغيل يدوي من تبويب Actions
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: update-news
@@ -15,7 +18,16 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 62
+    env:
+      RUN_MINUTES: 55        # مدة كل تشغيل
+      EVERY_SECONDS: 60      # كل كم ثانية يجيب الأخبار
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      SITE_URL: ${{ vars.SITE_URL }}
+      GH_TOKEN: ${{ github.token }}
     steps:
       - uses: actions/checkout@v5
 
@@ -23,20 +35,24 @@ jobs:
         with:
           node-version: 24
 
-      - name: جلب وترجمة
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          SITE_URL: ${{ vars.SITE_URL }}
+      - name: جلب وترجمة كل دقيقة
         run: |
           echo "نسخة الكود: $(git log -1 --format=%h)"
-          node scripts/fetch.mjs
-
-      - name: حفظ التحديث
-        run: |
           git config user.name "news-bot"
           git config user.email "news-bot@users.noreply.github.com"
-          git add data
-          git diff --staged --quiet || (git commit -m "تحديث الأخبار" && git pull --rebase && git push)
+          end=$((SECONDS + RUN_MINUTES * 60))
+          while [ $SECONDS -lt $end ]; do
+            start=$SECONDS
+            node scripts/fetch.mjs || echo "تعذر هذي الدورة، نكمل"
+            git add data
+            if ! git diff --staged --quiet; then
+              git commit -q -m "تحديث الأخبار"
+              git pull -q --rebase -X theirs origin main && git push -q origin HEAD:main || echo "تعذر الرفع، نكمل"
+              # ننشر الموقع فقط إذا تغيّرت الأخبار نفسها
+              if ! git diff --quiet HEAD~1 HEAD -- data/news.json data/articles.json data/breaking.json data/brief.json; then
+                gh workflow run deploy.yml --ref main || echo "تعذر طلب النشر"
+              fi
+            fi
+            wait=$((EVERY_SECONDS - (SECONDS - start)))
+            if [ $wait -gt 0 ]; then sleep $wait; fi
+          done

@@ -386,7 +386,7 @@ async function run() {
     writeJSON('articles.json', articles),
     writeJSON('breaking.json', breaking),
     writeJSON('seen.json', [...seen].slice(-LIMITS.seen)),
-    writeJSON('meta.json', { updated: new Date().toISOString() }),
+    ...(added.news + added.articles + added.breaking || brief ? [writeJSON('meta.json', { updated: new Date().toISOString() })] : []),
   ]);
   console.log(`✓ أخبار +${added.news} | مقالات +${added.articles} | عاجل +${added.breaking} | ${((Date.now() - started) / 1000).toFixed(1)}ث`);
 }
