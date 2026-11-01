@@ -2,6 +2,27 @@
  "day": "2026-11-01",
  "items": [
   {
+   "id": "cb124ca1a63b12db",
+   "origin": "rss",
+   "source": "Arab News",
+   "author": "",
+   "title_ar": "الغارات الإسرائيلية على غزة تقتل ثمانية: الدفاع المدني والمستشفيات",
+   "title_orig": "Israeli strikes in Gaza kill eight: civil defense, hospitals",
+   "title_en": "Israeli strikes in Gaza kill eight: civil defense, hospitals",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQWxUc0d5Qk1udDR4bDJQNlpDS1g0c2Y2WmxYcHFpSXdvM1BfQUFxdkxsMDRZMmgxNzZUTHMzNllFdFJaV3ZSRktmcVROd1ZYZDVEOE9oVU9RcndqSHhKUmg1b2tVbmhVQXFxZDloTDVQb1lwSlJUQmFmSlJGRnZkUXNBWFd0dFg1OWxWQVJZamRxQmhNMXVyT09wWjUweFdPQUdyeERB?oc=5",
+   "published": "2026-11-01T11:29:31.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "SA",
+   "pending": true,
+   "desc": "Israeli strikes in Gaza kill eight: civil defense, hospitals &nbsp;&nbsp; Arab News",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "0a2d4106d85ba46c",
    "origin": "rss",
    "source": "Ynetnews",
