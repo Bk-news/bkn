@@ -159,11 +159,11 @@
    }
   },
   "2026-10-31": {
-   "total": 276,
-   "news": 275,
+   "total": 278,
+   "news": 277,
    "articles": 1,
    "positive": 0,
-   "neutral": 276,
+   "neutral": 278,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -222,7 +222,7 @@
     "The Star, Kenya": 1,
     "Nacionale": 1,
     "The Arab Weekly": 1,
-    "EnergyNow.com": 1,
+    "EnergyNow.com": 3,
     "Global Arab Network": 2,
     "NewsCord": 1,
     "ORF Middle East": 1,
@@ -473,7 +473,7 @@
     ],
     "EnergyNow.com": [
      0,
-     1,
+     3,
      0
     ],
     "Global Arab Network": [
