@@ -559,11 +559,11 @@
    }
   },
   "2026-11-01": {
-   "total": 137,
-   "news": 137,
+   "total": 138,
+   "news": 138,
    "articles": 0,
    "positive": 0,
-   "neutral": 137,
+   "neutral": 138,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -655,7 +655,8 @@
     "South China Morning Post": 1,
     "The Filipino Times": 1,
     "CairoScene": 2,
-    "Capital FM Africa": 1
+    "Capital FM Africa": 1,
+    "Ynetnews": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -1059,6 +1060,11 @@
      0
     ],
     "Capital FM Africa": [
+     0,
+     1,
+     0
+    ],
+    "Ynetnews": [
      0,
      1,
      0
