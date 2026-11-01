@@ -541,11 +541,11 @@
    }
   },
   "2026-11-01": {
-   "total": 118,
-   "news": 118,
+   "total": 120,
+   "news": 120,
    "articles": 0,
    "positive": 0,
-   "neutral": 118,
+   "neutral": 120,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -571,7 +571,7 @@
     "WSJ": 1,
     "The Guardian": 4,
     "ASHARQ AL-AWSAT English": 2,
-    "Daily Sabah": 1,
+    "Daily Sabah": 2,
     "بوابة التكنولوجيا المالية": 1,
     "Free Malaysia Today": 1,
     "The Business Standard": 1,
@@ -624,7 +624,8 @@
     "Corsicana Daily Sun": 1,
     "EnergyNow.com": 2,
     "OANANews": 1,
-    "EnergyNow": 1
+    "EnergyNow": 1,
+    "The Financial Express": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -704,7 +705,7 @@
     ],
     "Daily Sabah": [
      0,
-     1,
+     2,
      0
     ],
     "بوابة التكنولوجيا المالية": [
@@ -968,6 +969,11 @@
      0
     ],
     "EnergyNow": [
+     0,
+     1,
+     0
+    ],
+    "The Financial Express": [
      0,
      1,
      0
