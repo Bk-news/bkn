@@ -2,6 +2,27 @@
  "day": "2026-11-01",
  "items": [
   {
+   "id": "f5ee291c430d4017",
+   "origin": "rss",
+   "source": "Arab News",
+   "author": "",
+   "title_ar": "تتغير أولويات الدفاع في الخليج مع تطور الحرب",
+   "title_orig": "Gulf defense priorities shift as warfare evolves",
+   "title_en": "Gulf defense priorities shift as warfare evolves",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa3lYNmtmZFd6MnU3THpWUnVQU0JCckdubUUwZjVMRGNIa2QyRm5aRWY0dlR1VHpCSUM2R19ZWUNmWXBZdGhxV0szcXlfazE2Zkcwc3dFVWlNRUZXcG93blhBSVhXcmdac1M4Rm5LQU1oNXhaT3RncnBSdkJPQXFqbXlxMmJRcnpIWFh3TFZUOERtdE0?oc=5",
+   "published": "2026-11-01T11:31:26.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "",
+   "pending": true,
+   "desc": "Gulf defense priorities shift as warfare evolves &nbsp;&nbsp; Arab News",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "cb124ca1a63b12db",
    "origin": "rss",
    "source": "Arab News",
