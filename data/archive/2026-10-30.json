@@ -370,6 +370,27 @@
    "lang": "en"
   },
   {
+   "id": "2118d194450b13bf",
+   "origin": "rss",
+   "source": "Le Monde.fr",
+   "author": "",
+   "title_ar": "كل الأخبار في الاستمرارية",
+   "title_orig": "Toute l’actualité en continu",
+   "title_en": "",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Qak9LbHFzZjIwTGpTckNZcGhLcl9ZOG94cjhFdlp6a1RpeHRMby1JRkhkWlAxRTkwUTM5bHZ2ODhwOTJ1d0w4SG41WkVhMHVuOHFLNXdSYnEwSzhMTld6SWhpekY?oc=5",
+   "published": "2026-10-30T22:06:24.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "FR",
+   "pending": true,
+   "desc": "Toute l’actualité en continu &nbsp;&nbsp; Le Monde.fr",
+   "lang": "fr",
+   "mt": true
+  },
+  {
    "id": "71273b3301a7a9d3",
    "origin": "rss",
    "source": "WSJ",

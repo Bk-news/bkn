@@ -24,16 +24,16 @@
    }
   },
   "2026-10-30": {
-   "total": 186,
-   "news": 183,
+   "total": 187,
+   "news": 184,
    "articles": 3,
    "positive": 0,
-   "neutral": 186,
+   "neutral": 187,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 63,
-    "FR": 6,
+    "FR": 7,
     "HK": 3,
     "GB": 71,
     "SA": 43
@@ -50,7 +50,7 @@
     "WSJ": 9,
     "Financial Times": 21,
     "The New York Times": 9,
-    "Le Monde.fr": 4,
+    "Le Monde.fr": 5,
     "Bloomberg.com": 7,
     "Reuters": 23,
     "Bloomberg": 3,
@@ -113,7 +113,7 @@
     ],
     "Le Monde.fr": [
      0,
-     4,
+     5,
      0
     ],
     "Bloomberg.com": [
@@ -565,16 +565,16 @@
    }
   },
   "2026-11-01": {
-   "total": 357,
-   "news": 355,
+   "total": 365,
+   "news": 363,
    "articles": 2,
    "positive": 0,
-   "neutral": 357,
+   "neutral": 365,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 58,
-    "GB": 63,
+    "GB": 70,
     "FR": 8,
     "US": 31,
     "HK": 3,
@@ -593,7 +593,7 @@
     "Arab News": 63,
     "EA WorldView": 1,
     "Al-Monitor": 3,
-    "Financial Times": 31,
+    "Financial Times": 38,
     "WSJ": 8,
     "The Guardian": 19,
     "ASHARQ AL-AWSAT English": 13,
@@ -713,7 +713,8 @@
     "Yahoo Sports": 1,
     "Mugglehead Investment Magazine": 1,
     "Chronicle Live": 1,
-    "وكالة الانباء الاردنية": 1
+    "وكالة الانباء الاردنية": 1,
+    "ESPN": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -773,7 +774,7 @@
     ],
     "Financial Times": [
      0,
-     31,
+     38,
      0
     ],
     "WSJ": [
@@ -1372,6 +1373,11 @@
      0
     ],
     "وكالة الانباء الاردنية": [
+     0,
+     1,
+     0
+    ],
+    "ESPN": [
      0,
      1,
      0
