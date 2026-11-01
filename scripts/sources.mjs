@@ -57,9 +57,12 @@ export const FEEDS = [
   site('arabnews.com', 'Arab News', 'SA'),
   site('saudigazette.com.sa', 'Saudi Gazette', 'SA'),
 
-  // مصادر العاجل بالعربي (تشتغل بدون اشتراك X)
-  { name: 'واس', source: 'واس', country: 'SA', kind: 'breaking', lang: 'ar', url: gn('site:spa.gov.sa when:1d', 'ar') },
-  { name: 'العربية', source: 'العربية', country: 'SA', kind: 'breaking', lang: 'ar', url: gn('site:alarabiya.net (السعودية OR ولي العهد) when:1d', 'ar') },
+];
+
+// ===== مصدر العاجل: قنوات تلقرام عامة (مجانية وبدون حساب) =====
+// كل منشور في القناة يُعتبر خبر عاجل ويظهر في الكاشة الحمراء لمدة ساعة
+export const TELEGRAM_BREAKING = [
+  { channel: 'alarabiyaBr', name: 'العربية عاجل', country: 'SA' },   // t.me/alarabiyaBr — نفس محتوى @AlArabiya_Brk
 ];
 
 // ===== حسابات X (تويتر) للعاجل =====

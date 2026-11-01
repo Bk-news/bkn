@@ -4,7 +4,7 @@
 
 import fs from 'node:fs/promises';
 import crypto from 'node:crypto';
-import { FEEDS, X_ACCOUNTS, OPINION_HINTS, RELEVANCE, MBS, BREAKING_WORDS, ROUTINE_WORDS } from './sources.mjs';
+import { FEEDS, TELEGRAM_BREAKING, X_ACCOUNTS, OPINION_HINTS, RELEVANCE, MBS, BREAKING_WORDS, ROUTINE_WORDS } from './sources.mjs';
 
 const DATA = new URL('../data/', import.meta.url);
 const KEY = process.env.ANTHROPIC_API_KEY;
@@ -170,6 +170,35 @@ async function analyze(it) {
   return json;
 }
 
+// ---------- عاجل من قنوات تلقرام العامة (t.me/s/<channel>) ----------
+const decode = (s) => s.replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(+n)).replace(/&#x([0-9a-f]+);/gi, (_, n) => String.fromCodePoint(parseInt(n, 16)))
+  .replace(/&quot;/g, '"').replace(/&#39;|&apos;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&');
+async function fetchTelegramChannel(ch) {
+  const res = await fetch(`https://t.me/s/${ch.channel}`, { headers: { 'user-agent': 'Mozilla/5.0', 'accept-language': 'ar' }, signal: AbortSignal.timeout(15000) });
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const html = await res.text();
+  const out = [];
+  for (const part of html.split('data-post="').slice(1)) {
+    const post = part.slice(0, part.indexOf('"'));
+    const m = part.match(/class="tgme_widget_message_text[^"]*"[^>]*>([\s\S]*?)<\/div>/);
+    const d = part.match(/<time[^>]*datetime="([^"]+)"/);
+    if (!m || !d) continue;
+    const text = decode(m[1].replace(/<br\s*\/?>/gi, ' ').replace(/<[^>]+>/g, ' ')).replace(/#\S+/g, '').replace(/\s+/g, ' ').trim();
+    if (text.length < 8) continue;
+    out.push({ id: hash(`tg:${post}`), origin: 'telegram', source: ch.name, country: ch.country || '', title_ar: text, summary_ar: [],
+      url: `https://t.me/${post}`, published: new Date(d[1]).toISOString(), subject: subjectOf(text) });
+  }
+  return out;
+}
+async function fetchTelegramBreaking() {
+  const all = [];
+  for (const ch of TELEGRAM_BREAKING) {
+    try { const items = await fetchTelegramChannel(ch); all.push(...items); STATUS.telegram = (STATUS.telegram || 0) + items.length; }
+    catch (e) { console.warn(`تلقرام ${ch.channel}: ${e.message}`); STATUS.feedsFailed.push(`تلقرام ${ch.channel}: ${e.message}`); }
+  }
+  return all;
+}
+
 // ---------- حسابات X ----------
 const xIds = new Map();
 async function fetchX() {
@@ -333,6 +362,15 @@ async function run() {
     added.breaking++;
   }
 
+  // 1ب) عاجل تلقرام: كل منشور خلال آخر ساعة
+  for (const tg of await fetchTelegramBreaking()) {
+    if (seen.has(tg.id)) continue;
+    if (Date.now() - new Date(tg.published) > BREAKING_TTL) { seen.add(tg.id); continue; }
+    seen.add(tg.id);
+    breaking.unshift({ ...tg, added: tg.published });   // يبقى ساعة من وقت نشره
+    newBreaking.push(tg); added.breaking++;
+  }
+
   // 2) RSS
   const results = await Promise.allSettled(FEEDS.map(fetchFeed));
   const raw = results.flatMap((r, i) => {
@@ -405,7 +443,6 @@ async function run() {
     if (a.mt) rec.mt = true;
     if (a.kind === 'article') { articles.unshift(rec); added.articles++; countIn(stats, rec, 'articles'); }
     else { news.unshift(rec); added.news++; countIn(stats, rec, 'news'); }
-    if (a.breaking && Date.now() - new Date(it.published) < BREAKING_TTL) addBreaking(rec);
   }
   if (queue.length > MAX_NEW) console.log(`باقي ${queue.length - MAX_NEW} خبر للتشغيل الجاي`);
 
