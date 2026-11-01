@@ -1,18 +1,41 @@
 {
  "days": {
-  "2026-10-30": {
-   "total": 90,
-   "news": 87,
-   "articles": 3,
+  "2026-10-29": {
+   "total": 2,
+   "news": 2,
+   "articles": 0,
    "positive": 0,
-   "neutral": 90,
+   "neutral": 2,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "US": 46,
+    "US": 2
+   },
+   "topics": {},
+   "sources": {
+    "Al-Monitor": 2
+   },
+   "sourceTone": {
+    "Al-Monitor": [
+     0,
+     2,
+     0
+    ]
+   }
+  },
+  "2026-10-30": {
+   "total": 105,
+   "news": 102,
+   "articles": 3,
+   "positive": 0,
+   "neutral": 105,
+   "critical": 0,
+   "mbs": 0,
+   "countries": {
+    "US": 52,
     "FR": 6,
     "HK": 3,
-    "GB": 35
+    "GB": 44
    },
    "topics": {},
    "sources": {
@@ -28,11 +51,11 @@
     "The New York Times": 3,
     "Le Monde.fr": 4,
     "Bloomberg.com": 7,
-    "Reuters": 12,
+    "Reuters": 19,
     "Bloomberg": 3,
     "The Guardian": 9,
-    "BBC": 9,
-    "Al-Monitor": 10
+    "BBC": 11,
+    "Al-Monitor": 16
    },
    "sourceTone": {
     "The Washington Post": [
@@ -97,7 +120,7 @@
     ],
     "Reuters": [
      0,
-     12,
+     19,
      0
     ],
     "Bloomberg": [
@@ -112,26 +135,26 @@
     ],
     "BBC": [
      0,
-     9,
+     11,
      0
     ],
     "Al-Monitor": [
      0,
-     10,
+     16,
      0
     ]
    }
   },
   "2026-10-31": {
-   "total": 129,
-   "news": 128,
+   "total": 140,
+   "news": 139,
    "articles": 1,
    "positive": 0,
-   "neutral": 129,
+   "neutral": 140,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 18,
+    "SA": 29,
     "US": 43,
     "HK": 4,
     "DE": 1,
@@ -161,7 +184,7 @@
     "The Media Line": 1,
     "Daily Sabah": 1,
     "Addis Standard": 1,
-    "Arab News": 11
+    "Arab News": 22
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -271,17 +294,17 @@
     ],
     "Arab News": [
      0,
-     11,
+     22,
      0
     ]
    }
   },
   "2026-11-01": {
-   "total": 68,
-   "news": 68,
+   "total": 80,
+   "news": 80,
    "articles": 0,
    "positive": 0,
-   "neutral": 68,
+   "neutral": 80,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -306,7 +329,7 @@
     "Financial Times": 4,
     "WSJ": 1,
     "The Guardian": 3,
-    "ASHARQ AL-AWSAT English": 1,
+    "ASHARQ AL-AWSAT English": 2,
     "Daily Sabah": 1,
     "بوابة التكنولوجيا المالية": 1,
     "Free Malaysia Today": 1,
@@ -326,9 +349,18 @@
     "The National": 1,
     "UA.NEWS": 1,
     "アラブニュース": 1,
-    "Forbes Middle East": 1,
+    "Forbes Middle East": 2,
     "Goal.com": 1,
-    "https://houseofsaud.com/": 1
+    "https://houseofsaud.com/": 1,
+    "Travel & Tourism News Middle East": 1,
+    "Bloomberg": 1,
+    "TradingView": 2,
+    "Kurdistan24": 1,
+    "Türkiye Today": 1,
+    "Yeni Şafak English": 1,
+    "TradeArabia": 1,
+    "ispace": 1,
+    "https://globalpost.com/": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -403,7 +435,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     1,
+     2,
      0
     ],
     "Daily Sabah": [
@@ -503,7 +535,7 @@
     ],
     "Forbes Middle East": [
      0,
-     1,
+     2,
      0
     ],
     "Goal.com": [
@@ -512,6 +544,51 @@
      0
     ],
     "https://houseofsaud.com/": [
+     0,
+     1,
+     0
+    ],
+    "Travel & Tourism News Middle East": [
+     0,
+     1,
+     0
+    ],
+    "Bloomberg": [
+     0,
+     1,
+     0
+    ],
+    "TradingView": [
+     0,
+     2,
+     0
+    ],
+    "Kurdistan24": [
+     0,
+     1,
+     0
+    ],
+    "Türkiye Today": [
+     0,
+     1,
+     0
+    ],
+    "Yeni Şafak English": [
+     0,
+     1,
+     0
+    ],
+    "TradeArabia": [
+     0,
+     1,
+     0
+    ],
+    "ispace": [
+     0,
+     1,
+     0
+    ],
+    "https://globalpost.com/": [
      0,
      1,
      0
