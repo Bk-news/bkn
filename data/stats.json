@@ -159,11 +159,11 @@
    }
   },
   "2026-10-31": {
-   "total": 275,
-   "news": 274,
+   "total": 276,
+   "news": 275,
    "articles": 1,
    "positive": 0,
-   "neutral": 275,
+   "neutral": 276,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -237,7 +237,8 @@
     "The Times of Israel": 1,
     "The Jerusalem Post": 1,
     "Daily Nation": 1,
-    "EA WorldView": 1
+    "EA WorldView": 1,
+    "يمن مونيتور": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -546,6 +547,11 @@
      0
     ],
     "EA WorldView": [
+     0,
+     1,
+     0
+    ],
+    "يمن مونيتور": [
      0,
      1,
      0
