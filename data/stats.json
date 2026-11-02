@@ -565,15 +565,15 @@
    }
   },
   "2026-11-01": {
-   "total": 450,
-   "news": 448,
+   "total": 451,
+   "news": 449,
    "articles": 2,
    "positive": 0,
-   "neutral": 450,
+   "neutral": 451,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "SA": 74,
+    "SA": 75,
     "GB": 113,
     "FR": 8,
     "US": 39,
@@ -590,7 +590,7 @@
     "Reuters": 30,
     "سانا": 2,
     "Le Monde.fr": 7,
-    "Arab News": 75,
+    "Arab News": 76,
     "EA WorldView": 1,
     "Al-Monitor": 6,
     "Financial Times": 49,
@@ -772,7 +772,7 @@
     ],
     "Arab News": [
      0,
-     75,
+     76,
      0
     ],
     "EA WorldView": [
@@ -1463,15 +1463,15 @@
    }
   },
   "2026-11-02": {
-   "total": 290,
-   "news": 289,
+   "total": 291,
+   "news": 290,
    "articles": 1,
    "positive": 0,
-   "neutral": 290,
+   "neutral": 291,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 69,
+    "GB": 70,
     "US": 44,
     "SA": 31,
     "HK": 3,
@@ -1481,7 +1481,7 @@
    "topics": {},
    "sources": {
     "Cageside Seats": 1,
-    "The Guardian": 16,
+    "The Guardian": 17,
     "Financial Times": 16,
     "Al-Monitor": 10,
     "AP News": 6,
@@ -1609,7 +1609,7 @@
     ],
     "The Guardian": [
      0,
-     16,
+     17,
      0
     ],
     "Financial Times": [
