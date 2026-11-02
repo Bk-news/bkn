@@ -1457,23 +1457,23 @@
    }
   },
   "2026-11-02": {
-   "total": 55,
-   "news": 55,
+   "total": 58,
+   "news": 58,
    "articles": 0,
    "positive": 0,
-   "neutral": 55,
+   "neutral": 58,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 6,
-    "US": 10,
+    "GB": 8,
+    "US": 11,
     "SA": 4
    },
    "topics": {},
    "sources": {
     "Cageside Seats": 1,
     "The Guardian": 4,
-    "Financial Times": 2,
+    "Financial Times": 4,
     "Al-Monitor": 2,
     "AP News": 2,
     "Bloomberg": 2,
@@ -1510,7 +1510,7 @@
     "Arabisk London": 1,
     "New Age BD": 1,
     "Agenda Pública": 1,
-    "The New York Times": 2,
+    "The New York Times": 3,
     "Ship & Bunker": 1,
     "ChemNet News": 1
    },
@@ -1527,7 +1527,7 @@
     ],
     "Financial Times": [
      0,
-     2,
+     4,
      0
     ],
     "Al-Monitor": [
@@ -1712,7 +1712,7 @@
     ],
     "The New York Times": [
      0,
-     2,
+     3,
      0
     ],
     "Ship & Bunker": [
