@@ -565,18 +565,18 @@
    }
   },
   "2026-11-01": {
-   "total": 421,
-   "news": 419,
+   "total": 424,
+   "news": 422,
    "articles": 2,
    "positive": 0,
-   "neutral": 421,
+   "neutral": 424,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "SA": 70,
-    "GB": 90,
+    "SA": 71,
+    "GB": 91,
     "FR": 8,
-    "US": 38,
+    "US": 39,
     "HK": 3,
     "DE": 1
    },
@@ -590,12 +590,12 @@
     "Reuters": 10,
     "سانا": 2,
     "Le Monde.fr": 7,
-    "Arab News": 71,
+    "Arab News": 72,
     "EA WorldView": 1,
-    "Al-Monitor": 5,
+    "Al-Monitor": 6,
     "Financial Times": 47,
     "WSJ": 11,
-    "The Guardian": 28,
+    "The Guardian": 29,
     "ASHARQ AL-AWSAT English": 13,
     "Daily Sabah": 2,
     "بوابة التكنولوجيا المالية": 1,
@@ -771,7 +771,7 @@
     ],
     "Arab News": [
      0,
-     71,
+     72,
      0
     ],
     "EA WorldView": [
@@ -781,7 +781,7 @@
     ],
     "Al-Monitor": [
      0,
-     5,
+     6,
      0
     ],
     "Financial Times": [
@@ -796,7 +796,7 @@
     ],
     "The Guardian": [
      0,
-     28,
+     29,
      0
     ],
     "ASHARQ AL-AWSAT English": [
@@ -1457,17 +1457,17 @@
    }
   },
   "2026-11-02": {
-   "total": 137,
-   "news": 136,
+   "total": 174,
+   "news": 173,
    "articles": 1,
    "positive": 0,
-   "neutral": 137,
+   "neutral": 174,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 31,
-    "US": 34,
-    "SA": 15,
+    "GB": 44,
+    "US": 39,
+    "SA": 24,
     "HK": 3,
     "FR": 4,
     "JP": 1
@@ -1475,20 +1475,20 @@
    "topics": {},
    "sources": {
     "Cageside Seats": 1,
-    "The Guardian": 11,
-    "Financial Times": 11,
+    "The Guardian": 15,
+    "Financial Times": 12,
     "Al-Monitor": 8,
     "AP News": 4,
-    "Bloomberg": 10,
+    "Bloomberg": 16,
     "Mehr News Agency": 2,
-    "Arab News": 10,
+    "Arab News": 18,
     "The Washington Post": 2,
     "وكالة الأنباء السعودية": 2,
     "WSJ": 5,
     "TNGlobal": 1,
     "Facebook": 2,
     "Breakingthenews.net": 1,
-    "Middle East Eye": 1,
+    "Middle East Eye": 2,
     "Punch Newspapers": 1,
     "TheCable": 1,
     "investingLive": 1,
@@ -1516,9 +1516,9 @@
     "The New York Times": 5,
     "Ship & Bunker": 1,
     "ChemNet News": 1,
-    "Saudi Gazette": 6,
+    "Saudi Gazette": 7,
     "South China Morning Post": 3,
-    "Reuters": 7,
+    "Reuters": 15,
     "France 24": 1,
     "CNN": 1,
     "New Telegraph": 1,
@@ -1534,7 +1534,15 @@
     "Fana News -": 1,
     "PM News Nigeria": 1,
     "the-decoder.com": 1,
-    "Peoples Gazette Nigeria": 1
+    "Peoples Gazette Nigeria": 1,
+    "TVC News": 1,
+    "Yemen Online": 1,
+    "Hotelier Middle East": 1,
+    "ASHARQ AL-AWSAT English": 1,
+    "Wamda": 1,
+    "euro petrole": 1,
+    "Anadolu Ajansı": 1,
+    "Logistics Middle East": 1
    },
    "sourceTone": {
     "Cageside Seats": [
@@ -1544,12 +1552,12 @@
     ],
     "The Guardian": [
      0,
-     11,
+     15,
      0
     ],
     "Financial Times": [
      0,
-     11,
+     12,
      0
     ],
     "Al-Monitor": [
@@ -1564,7 +1572,7 @@
     ],
     "Bloomberg": [
      0,
-     10,
+     16,
      0
     ],
     "Mehr News Agency": [
@@ -1574,7 +1582,7 @@
     ],
     "Arab News": [
      0,
-     10,
+     18,
      0
     ],
     "The Washington Post": [
@@ -1609,7 +1617,7 @@
     ],
     "Middle East Eye": [
      0,
-     1,
+     2,
      0
     ],
     "Punch Newspapers": [
@@ -1749,7 +1757,7 @@
     ],
     "Saudi Gazette": [
      0,
-     6,
+     7,
      0
     ],
     "South China Morning Post": [
@@ -1759,7 +1767,7 @@
     ],
     "Reuters": [
      0,
-     7,
+     15,
      0
     ],
     "France 24": [
@@ -1838,6 +1846,46 @@
      0
     ],
     "Peoples Gazette Nigeria": [
+     0,
+     1,
+     0
+    ],
+    "TVC News": [
+     0,
+     1,
+     0
+    ],
+    "Yemen Online": [
+     0,
+     1,
+     0
+    ],
+    "Hotelier Middle East": [
+     0,
+     1,
+     0
+    ],
+    "ASHARQ AL-AWSAT English": [
+     0,
+     1,
+     0
+    ],
+    "Wamda": [
+     0,
+     1,
+     0
+    ],
+    "euro petrole": [
+     0,
+     1,
+     0
+    ],
+    "Anadolu Ajansı": [
+     0,
+     1,
+     0
+    ],
+    "Logistics Middle East": [
      0,
      1,
      0
