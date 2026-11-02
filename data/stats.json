@@ -159,11 +159,11 @@
    }
   },
   "2026-10-31": {
-   "total": 340,
-   "news": 338,
+   "total": 342,
+   "news": 340,
    "articles": 2,
    "positive": 0,
-   "neutral": 340,
+   "neutral": 342,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -172,7 +172,7 @@
     "HK": 4,
     "DE": 1,
     "FR": 9,
-    "GB": 144
+    "GB": 146
    },
    "topics": {},
    "sources": {
@@ -188,10 +188,10 @@
     "Al-Monitor": 17,
     "WSJ": 8,
     "BBC": 14,
-    "Reuters": 26,
+    "Reuters": 27,
     "Financial Times": 77,
     "باسنیوز": 1,
-    "The Guardian": 26,
+    "The Guardian": 27,
     "Awani International": 1,
     "Le Monde.fr": 8,
     "The Media Line": 1,
@@ -304,7 +304,7 @@
     ],
     "Reuters": [
      0,
-     26,
+     27,
      0
     ],
     "Financial Times": [
@@ -319,7 +319,7 @@
     ],
     "The Guardian": [
      0,
-     26,
+     27,
      0
     ],
     "Awani International": [
@@ -565,16 +565,16 @@
    }
   },
   "2026-11-01": {
-   "total": 409,
-   "news": 407,
+   "total": 412,
+   "news": 410,
    "articles": 2,
    "positive": 0,
-   "neutral": 409,
+   "neutral": 412,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "SA": 68,
-    "GB": 83,
+    "SA": 69,
+    "GB": 85,
     "FR": 8,
     "US": 36,
     "HK": 3,
@@ -584,10 +584,10 @@
    "sources": {
     "Daily Excelsior": 1,
     "LEADERSHIP Newspapers": 1,
-    "Saudi Gazette": 16,
+    "Saudi Gazette": 17,
     "FF News": 1,
     "BBC": 4,
-    "Reuters": 8,
+    "Reuters": 9,
     "سانا": 2,
     "Le Monde.fr": 7,
     "Arab News": 70,
@@ -595,7 +595,7 @@
     "Al-Monitor": 5,
     "Financial Times": 45,
     "WSJ": 10,
-    "The Guardian": 25,
+    "The Guardian": 26,
     "ASHARQ AL-AWSAT English": 13,
     "Daily Sabah": 2,
     "بوابة التكنولوجيا المالية": 1,
@@ -740,7 +740,7 @@
     ],
     "Saudi Gazette": [
      0,
-     16,
+     17,
      0
     ],
     "FF News": [
@@ -755,7 +755,7 @@
     ],
     "Reuters": [
      0,
-     8,
+     9,
      0
     ],
     "سانا": [
@@ -795,7 +795,7 @@
     ],
     "The Guardian": [
      0,
-     25,
+     26,
      0
     ],
     "ASHARQ AL-AWSAT English": [
@@ -1451,23 +1451,44 @@
    }
   },
   "2026-11-02": {
-   "total": 5,
-   "news": 5,
+   "total": 30,
+   "news": 30,
    "articles": 0,
    "positive": 0,
-   "neutral": 5,
+   "neutral": 30,
    "critical": 0,
-   "mbs": 0,
+   "mbs": 1,
    "countries": {
-    "GB": 3,
-    "US": 1
+    "GB": 4,
+    "US": 7,
+    "SA": 2
    },
    "topics": {},
    "sources": {
     "Cageside Seats": 1,
-    "The Guardian": 2,
+    "The Guardian": 3,
     "Financial Times": 1,
-    "Al-Monitor": 1
+    "Al-Monitor": 2,
+    "AP News": 1,
+    "Bloomberg": 2,
+    "Mehr News Agency": 2,
+    "Arab News": 2,
+    "The Washington Post": 1,
+    "وكالة الأنباء السعودية": 1,
+    "WSJ": 1,
+    "TNGlobal": 1,
+    "Facebook": 1,
+    "Breakingthenews.net": 1,
+    "Middle East Eye": 1,
+    "Punch Newspapers": 1,
+    "TheCable": 1,
+    "investingLive": 1,
+    "The Kathmandu Post": 1,
+    "Iran International": 1,
+    "Devdiscourse": 1,
+    "Eurasia Review": 1,
+    "ESPN": 1,
+    "Meetings & Conventions Asia": 1
    },
    "sourceTone": {
     "Cageside Seats": [
@@ -1477,7 +1498,7 @@
     ],
     "The Guardian": [
      0,
-     2,
+     3,
      0
     ],
     "Financial Times": [
@@ -1486,6 +1507,106 @@
      0
     ],
     "Al-Monitor": [
+     0,
+     2,
+     0
+    ],
+    "AP News": [
+     0,
+     1,
+     0
+    ],
+    "Bloomberg": [
+     0,
+     2,
+     0
+    ],
+    "Mehr News Agency": [
+     0,
+     2,
+     0
+    ],
+    "Arab News": [
+     0,
+     2,
+     0
+    ],
+    "The Washington Post": [
+     0,
+     1,
+     0
+    ],
+    "وكالة الأنباء السعودية": [
+     0,
+     1,
+     0
+    ],
+    "WSJ": [
+     0,
+     1,
+     0
+    ],
+    "TNGlobal": [
+     0,
+     1,
+     0
+    ],
+    "Facebook": [
+     0,
+     1,
+     0
+    ],
+    "Breakingthenews.net": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Eye": [
+     0,
+     1,
+     0
+    ],
+    "Punch Newspapers": [
+     0,
+     1,
+     0
+    ],
+    "TheCable": [
+     0,
+     1,
+     0
+    ],
+    "investingLive": [
+     0,
+     1,
+     0
+    ],
+    "The Kathmandu Post": [
+     0,
+     1,
+     0
+    ],
+    "Iran International": [
+     0,
+     1,
+     0
+    ],
+    "Devdiscourse": [
+     0,
+     1,
+     0
+    ],
+    "Eurasia Review": [
+     0,
+     1,
+     0
+    ],
+    "ESPN": [
+     0,
+     1,
+     0
+    ],
+    "Meetings & Conventions Asia": [
      0,
      1,
      0
