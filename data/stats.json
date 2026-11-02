@@ -1469,11 +1469,11 @@
    }
   },
   "2026-11-02": {
-   "total": 505,
-   "news": 502,
+   "total": 506,
+   "news": 503,
    "articles": 3,
    "positive": 0,
-   "neutral": 505,
+   "neutral": 506,
    "critical": 0,
    "mbs": 15,
    "countries": {
@@ -1653,7 +1653,7 @@
     "Semafor": 1,
     "Australia Saudi Business Forum": 1,
     "energynews.pro": 1,
-    "Real Broadcasting Network": 2,
+    "Real Broadcasting Network": 3,
     "Travel Trade Journal": 1,
     "Middle East Monitor": 1,
     "World BEYOND War": 1,
@@ -2492,7 +2492,7 @@
     ],
     "Real Broadcasting Network": [
      0,
-     2,
+     3,
      0
     ],
     "Travel Trade Journal": [
