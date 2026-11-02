@@ -159,11 +159,11 @@
    }
   },
   "2026-10-31": {
-   "total": 348,
-   "news": 346,
+   "total": 355,
+   "news": 353,
    "articles": 2,
    "positive": 0,
-   "neutral": 348,
+   "neutral": 355,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -172,7 +172,7 @@
     "HK": 4,
     "DE": 1,
     "FR": 9,
-    "GB": 151
+    "GB": 158
    },
    "topics": {},
    "sources": {
@@ -188,7 +188,7 @@
     "Al-Monitor": 17,
     "WSJ": 8,
     "BBC": 14,
-    "Reuters": 30,
+    "Reuters": 37,
     "Financial Times": 77,
     "باسنیوز": 1,
     "The Guardian": 29,
@@ -304,7 +304,7 @@
     ],
     "Reuters": [
      0,
-     30,
+     37,
      0
     ],
     "Financial Times": [
@@ -565,16 +565,16 @@
    }
   },
   "2026-11-01": {
-   "total": 442,
-   "news": 440,
+   "total": 446,
+   "news": 444,
    "articles": 2,
    "positive": 0,
-   "neutral": 442,
+   "neutral": 446,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 74,
-    "GB": 106,
+    "GB": 110,
     "FR": 8,
     "US": 39,
     "HK": 3,
@@ -587,7 +587,7 @@
     "Saudi Gazette": 17,
     "FF News": 1,
     "BBC": 4,
-    "Reuters": 23,
+    "Reuters": 27,
     "سانا": 2,
     "Le Monde.fr": 7,
     "Arab News": 75,
@@ -756,7 +756,7 @@
     ],
     "Reuters": [
      0,
-     23,
+     27,
      0
     ],
     "سانا": [
@@ -1457,11 +1457,11 @@
    }
   },
   "2026-11-02": {
-   "total": 196,
-   "news": 195,
+   "total": 225,
+   "news": 224,
    "articles": 1,
    "positive": 0,
-   "neutral": 196,
+   "neutral": 225,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -1480,15 +1480,15 @@
     "Al-Monitor": 8,
     "AP News": 4,
     "Bloomberg": 16,
-    "Mehr News Agency": 3,
-    "Arab News": 18,
+    "Mehr News Agency": 4,
+    "Arab News": 19,
     "The Washington Post": 2,
     "وكالة الأنباء السعودية": 2,
-    "WSJ": 5,
+    "WSJ": 6,
     "TNGlobal": 1,
     "Facebook": 2,
     "Breakingthenews.net": 1,
-    "Middle East Eye": 2,
+    "Middle East Eye": 4,
     "Punch Newspapers": 1,
     "TheCable": 1,
     "investingLive": 1,
@@ -1531,24 +1531,24 @@
     "The New Arab": 1,
     "Investing.com": 1,
     "Sportstar": 1,
-    "Fana News -": 1,
+    "Fana News -": 2,
     "PM News Nigeria": 1,
     "the-decoder.com": 1,
     "Peoples Gazette Nigeria": 1,
     "TVC News": 1,
     "Yemen Online": 1,
     "Hotelier Middle East": 1,
-    "ASHARQ AL-AWSAT English": 1,
+    "ASHARQ AL-AWSAT English": 2,
     "Wamda": 1,
     "euro petrole": 1,
-    "Anadolu Ajansı": 2,
+    "Anadolu Ajansı": 3,
     "Logistics Middle East": 1,
     "The Siasat Daily": 1,
     "Fortify Rights": 1,
     "شبكة تواصل الإخبارية": 1,
     "صوت الإمارات": 1,
     "Akin Gump Strauss Hauer & Feld LLP": 1,
-    "https://houseofsaud.com/": 1,
+    "https://houseofsaud.com/": 2,
     "Al Jazeera": 1,
     "WANA News Agency": 1,
     "AI Magazine": 1,
@@ -1557,7 +1557,27 @@
     "SpaceWatch.GLOBAL": 1,
     "Arabian Business": 1,
     "Yeni Şafak English": 1,
-    "Dealroom": 1
+    "Dealroom": 1,
+    "Zawya": 1,
+    "Naharnet": 1,
+    "Arab News PK": 1,
+    "Campaign Middle East": 1,
+    "TradeWinds News": 1,
+    "TRT World": 1,
+    "Consultancy-me.com": 1,
+    "Pars Today": 1,
+    "Al Arabiya English": 1,
+    "Inquirer.net": 1,
+    "Condé Nast Traveller Middle East": 1,
+    "Rock Hill Herald": 1,
+    "Ynetnews": 1,
+    "Kurdistan24": 1,
+    "VAVEL.com": 1,
+    "Gulf Business": 1,
+    "Politics Today": 1,
+    "Startup Fortune": 1,
+    "TradeArabia": 1,
+    "SatellitePro ME": 1
    },
    "sourceTone": {
     "Cageside Seats": [
@@ -1592,12 +1612,12 @@
     ],
     "Mehr News Agency": [
      0,
-     3,
+     4,
      0
     ],
     "Arab News": [
      0,
-     18,
+     19,
      0
     ],
     "The Washington Post": [
@@ -1612,7 +1632,7 @@
     ],
     "WSJ": [
      0,
-     5,
+     6,
      0
     ],
     "TNGlobal": [
@@ -1632,7 +1652,7 @@
     ],
     "Middle East Eye": [
      0,
-     2,
+     4,
      0
     ],
     "Punch Newspapers": [
@@ -1847,7 +1867,7 @@
     ],
     "Fana News -": [
      0,
-     1,
+     2,
      0
     ],
     "PM News Nigeria": [
@@ -1882,7 +1902,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     1,
+     2,
      0
     ],
     "Wamda": [
@@ -1897,7 +1917,7 @@
     ],
     "Anadolu Ajansı": [
      0,
-     2,
+     3,
      0
     ],
     "Logistics Middle East": [
@@ -1932,7 +1952,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     1,
+     2,
      0
     ],
     "Al Jazeera": [
@@ -1976,6 +1996,106 @@
      0
     ],
     "Dealroom": [
+     0,
+     1,
+     0
+    ],
+    "Zawya": [
+     0,
+     1,
+     0
+    ],
+    "Naharnet": [
+     0,
+     1,
+     0
+    ],
+    "Arab News PK": [
+     0,
+     1,
+     0
+    ],
+    "Campaign Middle East": [
+     0,
+     1,
+     0
+    ],
+    "TradeWinds News": [
+     0,
+     1,
+     0
+    ],
+    "TRT World": [
+     0,
+     1,
+     0
+    ],
+    "Consultancy-me.com": [
+     0,
+     1,
+     0
+    ],
+    "Pars Today": [
+     0,
+     1,
+     0
+    ],
+    "Al Arabiya English": [
+     0,
+     1,
+     0
+    ],
+    "Inquirer.net": [
+     0,
+     1,
+     0
+    ],
+    "Condé Nast Traveller Middle East": [
+     0,
+     1,
+     0
+    ],
+    "Rock Hill Herald": [
+     0,
+     1,
+     0
+    ],
+    "Ynetnews": [
+     0,
+     1,
+     0
+    ],
+    "Kurdistan24": [
+     0,
+     1,
+     0
+    ],
+    "VAVEL.com": [
+     0,
+     1,
+     0
+    ],
+    "Gulf Business": [
+     0,
+     1,
+     0
+    ],
+    "Politics Today": [
+     0,
+     1,
+     0
+    ],
+    "Startup Fortune": [
+     0,
+     1,
+     0
+    ],
+    "TradeArabia": [
+     0,
+     1,
+     0
+    ],
+    "SatellitePro ME": [
      0,
      1,
      0
