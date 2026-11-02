@@ -1469,17 +1469,17 @@
    }
   },
   "2026-11-02": {
-   "total": 515,
-   "news": 512,
-   "articles": 3,
+   "total": 519,
+   "news": 515,
+   "articles": 4,
    "positive": 0,
-   "neutral": 515,
+   "neutral": 519,
    "critical": 0,
    "mbs": 16,
    "countries": {
-    "GB": 123,
-    "US": 94,
-    "SA": 60,
+    "GB": 124,
+    "US": 95,
+    "SA": 61,
     "HK": 3,
     "FR": 8,
     "JP": 1,
@@ -1489,12 +1489,12 @@
    "sources": {
     "Cageside Seats": 1,
     "The Guardian": 34,
-    "Financial Times": 37,
+    "Financial Times": 38,
     "Al-Monitor": 30,
     "AP News": 7,
     "Bloomberg": 16,
     "Mehr News Agency": 5,
-    "Arab News": 62,
+    "Arab News": 63,
     "The Washington Post": 2,
     "وكالة الأنباء السعودية": 2,
     "WSJ": 23,
@@ -1657,7 +1657,9 @@
     "Travel Trade Journal": 1,
     "Middle East Monitor": 1,
     "World BEYOND War": 1,
-    "remio": 1
+    "remio": 1,
+    "Foreign Policy": 1,
+    "White & Case LLP": 1
    },
    "sourceTone": {
     "Cageside Seats": [
@@ -1672,7 +1674,7 @@
     ],
     "Financial Times": [
      0,
-     37,
+     38,
      0
     ],
     "Al-Monitor": [
@@ -1697,7 +1699,7 @@
     ],
     "Arab News": [
      0,
-     62,
+     63,
      0
     ],
     "The Washington Post": [
@@ -2511,6 +2513,16 @@
      0
     ],
     "remio": [
+     0,
+     1,
+     0
+    ],
+    "Foreign Policy": [
+     0,
+     1,
+     0
+    ],
+    "White & Case LLP": [
      0,
      1,
      0
