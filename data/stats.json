@@ -1457,11 +1457,11 @@
    }
   },
   "2026-11-02": {
-   "total": 49,
-   "news": 49,
+   "total": 50,
+   "news": 50,
    "articles": 0,
    "positive": 0,
-   "neutral": 49,
+   "neutral": 50,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -1507,7 +1507,8 @@
     "Seatrade Maritime News": 1,
     "Khaama Press": 1,
     "Mitrade": 1,
-    "Arabisk London": 1
+    "Arabisk London": 1,
+    "New Age BD": 1
    },
    "sourceTone": {
     "Cageside Seats": [
@@ -1691,6 +1692,11 @@
      0
     ],
     "Arabisk London": [
+     0,
+     1,
+     0
+    ],
+    "New Age BD": [
      0,
      1,
      0
