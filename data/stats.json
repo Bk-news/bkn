@@ -565,18 +565,18 @@
    }
   },
   "2026-11-01": {
-   "total": 462,
-   "news": 460,
+   "total": 463,
+   "news": 461,
    "articles": 2,
    "positive": 0,
-   "neutral": 462,
+   "neutral": 463,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 76,
     "GB": 117,
     "FR": 8,
-    "US": 45,
+    "US": 46,
     "HK": 3,
     "DE": 1
    },
@@ -671,7 +671,7 @@
     "Bangladesh Sangbad Sangstha (BSS)": 2,
     "IndexBox": 2,
     "X": 1,
-    "The New York Times": 10,
+    "The New York Times": 11,
     "www.kenyans.live": 1,
     "The Washington Post": 1,
     "Spiegel": 1,
@@ -1178,7 +1178,7 @@
     ],
     "The New York Times": [
      0,
-     10,
+     11,
      0
     ],
     "www.kenyans.live": [
@@ -1469,15 +1469,15 @@
    }
   },
   "2026-11-02": {
-   "total": 507,
-   "news": 504,
+   "total": 511,
+   "news": 508,
    "articles": 3,
    "positive": 0,
-   "neutral": 507,
+   "neutral": 511,
    "critical": 0,
    "mbs": 15,
    "countries": {
-    "GB": 120,
+    "GB": 123,
     "US": 93,
     "SA": 59,
     "HK": 3,
@@ -1489,7 +1489,7 @@
    "sources": {
     "Cageside Seats": 1,
     "The Guardian": 34,
-    "Financial Times": 34,
+    "Financial Times": 37,
     "Al-Monitor": 30,
     "AP News": 7,
     "Bloomberg": 16,
@@ -1554,7 +1554,7 @@
     "ASHARQ AL-AWSAT English": 4,
     "Wamda": 1,
     "euro petrole": 1,
-    "Anadolu Ajansı": 4,
+    "Anadolu Ajansı": 5,
     "Logistics Middle East": 1,
     "The Siasat Daily": 1,
     "Fortify Rights": 1,
@@ -1672,7 +1672,7 @@
     ],
     "Financial Times": [
      0,
-     34,
+     37,
      0
     ],
     "Al-Monitor": [
@@ -1997,7 +1997,7 @@
     ],
     "Anadolu Ajansı": [
      0,
-     4,
+     5,
      0
     ],
     "Logistics Middle East": [

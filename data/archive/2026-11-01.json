@@ -527,6 +527,27 @@
    "mt": true
   },
   {
+   "id": "d733e53d6f7026fe",
+   "origin": "rss",
+   "source": "The New York Times",
+   "author": "",
+   "title_ar": "أخبار الولايات المتحدة - الصفحة 2",
+   "title_orig": "U.S. News - Page 2",
+   "title_en": "U.S. News - Page 2",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84VmVmTWlXNXp5Ty1rSkNfOUZNX3lpcEhNS2xqanZveXF5RjZweU9MNXVDVlQzMjJuNTJ6ZTRtZmJhRTB0ZXBUOEVXamFZaTZoNjQw?oc=5",
+   "published": "2026-11-01T20:43:23.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "U.S. News - Page 2 &nbsp;&nbsp; The New York Times",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "63568223a43111e4",
    "origin": "rss",
    "source": "Arab News",
