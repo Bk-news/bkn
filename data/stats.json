@@ -159,16 +159,16 @@
    }
   },
   "2026-10-31": {
-   "total": 357,
-   "news": 355,
+   "total": 358,
+   "news": 356,
    "articles": 2,
    "positive": 0,
-   "neutral": 357,
+   "neutral": 358,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 66,
-    "US": 54,
+    "US": 55,
     "HK": 4,
     "DE": 1,
     "FR": 9,
@@ -177,7 +177,7 @@
    "topics": {},
    "sources": {
     "Saudi Gazette": 8,
-    "The New York Times": 14,
+    "The New York Times": 15,
     "AP News": 5,
     "Bloomberg": 11,
     "South China Morning Post": 4,
@@ -249,7 +249,7 @@
     ],
     "The New York Times": [
      0,
-     14,
+     15,
      0
     ],
     "AP News": [
@@ -1463,15 +1463,15 @@
    }
   },
   "2026-11-02": {
-   "total": 270,
-   "news": 269,
+   "total": 272,
+   "news": 271,
    "articles": 1,
    "positive": 0,
-   "neutral": 270,
+   "neutral": 272,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 61,
+    "GB": 62,
     "US": 41,
     "SA": 29,
     "HK": 3,
@@ -1482,7 +1482,7 @@
    "sources": {
     "Cageside Seats": 1,
     "The Guardian": 15,
-    "Financial Times": 12,
+    "Financial Times": 13,
     "Al-Monitor": 8,
     "AP News": 6,
     "Bloomberg": 16,
@@ -1597,7 +1597,8 @@
     "Nepalnews.com": 1,
     "Mining.com.au": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
-    "NDTV": 1
+    "NDTV": 1,
+    "Western Post": 1
    },
    "sourceTone": {
     "Cageside Seats": [
@@ -1612,7 +1613,7 @@
     ],
     "Financial Times": [
      0,
-     12,
+     13,
      0
     ],
     "Al-Monitor": [
@@ -2186,6 +2187,11 @@
      0
     ],
     "NDTV": [
+     0,
+     1,
+     0
+    ],
+    "Western Post": [
      0,
      1,
      0
