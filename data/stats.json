@@ -159,11 +159,11 @@
    }
   },
   "2026-10-31": {
-   "total": 345,
-   "news": 343,
+   "total": 346,
+   "news": 344,
    "articles": 2,
    "positive": 0,
-   "neutral": 345,
+   "neutral": 346,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -172,7 +172,7 @@
     "HK": 4,
     "DE": 1,
     "FR": 9,
-    "GB": 149
+    "GB": 150
    },
    "topics": {},
    "sources": {
@@ -191,7 +191,7 @@
     "Reuters": 29,
     "Financial Times": 77,
     "باسنیوز": 1,
-    "The Guardian": 28,
+    "The Guardian": 29,
     "Awani International": 1,
     "Le Monde.fr": 8,
     "The Media Line": 1,
@@ -319,7 +319,7 @@
     ],
     "The Guardian": [
      0,
-     28,
+     29,
      0
     ],
     "Awani International": [
@@ -1457,11 +1457,11 @@
    }
   },
   "2026-11-02": {
-   "total": 43,
-   "news": 43,
+   "total": 44,
+   "news": 44,
    "articles": 0,
    "positive": 0,
-   "neutral": 43,
+   "neutral": 44,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -1503,7 +1503,8 @@
     "Quwa": 1,
     "Telangana Today": 1,
     "巴士的報": 1,
-    "WION": 1
+    "WION": 1,
+    "Seatrade Maritime News": 1
    },
    "sourceTone": {
     "Cageside Seats": [
@@ -1667,6 +1668,11 @@
      0
     ],
     "WION": [
+     0,
+     1,
+     0
+    ],
+    "Seatrade Maritime News": [
      0,
      1,
      0
