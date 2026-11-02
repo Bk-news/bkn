@@ -159,16 +159,16 @@
    }
   },
   "2026-10-31": {
-   "total": 359,
-   "news": 357,
+   "total": 362,
+   "news": 360,
    "articles": 2,
    "positive": 0,
-   "neutral": 359,
+   "neutral": 362,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 66,
-    "US": 56,
+    "US": 59,
     "HK": 4,
     "DE": 1,
     "FR": 9,
@@ -177,7 +177,7 @@
    "topics": {},
    "sources": {
     "Saudi Gazette": 8,
-    "The New York Times": 16,
+    "The New York Times": 19,
     "AP News": 5,
     "Bloomberg": 11,
     "South China Morning Post": 4,
@@ -249,7 +249,7 @@
     ],
     "The New York Times": [
      0,
-     16,
+     19,
      0
     ],
     "AP News": [
@@ -565,16 +565,16 @@
    }
   },
   "2026-11-01": {
-   "total": 455,
-   "news": 453,
+   "total": 456,
+   "news": 454,
    "articles": 2,
    "positive": 0,
-   "neutral": 455,
+   "neutral": 456,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 75,
-    "GB": 113,
+    "GB": 114,
     "FR": 8,
     "US": 43,
     "HK": 3,
@@ -587,7 +587,7 @@
     "Saudi Gazette": 17,
     "FF News": 1,
     "BBC": 4,
-    "Reuters": 30,
+    "Reuters": 31,
     "سانا": 2,
     "Le Monde.fr": 7,
     "Arab News": 76,
@@ -757,7 +757,7 @@
     ],
     "Reuters": [
      0,
-     30,
+     31,
      0
     ],
     "سانا": [
@@ -1463,17 +1463,17 @@
    }
   },
   "2026-11-02": {
-   "total": 371,
-   "news": 368,
+   "total": 407,
+   "news": 404,
    "articles": 3,
    "positive": 0,
-   "neutral": 371,
+   "neutral": 407,
    "critical": 0,
-   "mbs": 6,
+   "mbs": 8,
    "countries": {
-    "GB": 93,
-    "US": 70,
-    "SA": 41,
+    "GB": 102,
+    "US": 80,
+    "SA": 47,
     "HK": 3,
     "FR": 8,
     "JP": 1,
@@ -1482,20 +1482,20 @@
    "topics": {},
    "sources": {
     "Cageside Seats": 1,
-    "The Guardian": 24,
+    "The Guardian": 29,
     "Financial Times": 21,
-    "Al-Monitor": 17,
+    "Al-Monitor": 22,
     "AP News": 7,
     "Bloomberg": 16,
     "Mehr News Agency": 4,
-    "Arab News": 37,
+    "Arab News": 44,
     "The Washington Post": 2,
     "وكالة الأنباء السعودية": 2,
-    "WSJ": 14,
+    "WSJ": 19,
     "TNGlobal": 1,
     "Facebook": 2,
     "Breakingthenews.net": 1,
-    "Middle East Eye": 4,
+    "Middle East Eye": 5,
     "Punch Newspapers": 1,
     "TheCable": 1,
     "investingLive": 1,
@@ -1525,7 +1525,7 @@
     "ChemNet News": 1,
     "Saudi Gazette": 10,
     "South China Morning Post": 3,
-    "Reuters": 41,
+    "Reuters": 45,
     "France 24": 3,
     "CNN": 1,
     "New Telegraph": 2,
@@ -1545,10 +1545,10 @@
     "TVC News": 1,
     "Yemen Online": 1,
     "Hotelier Middle East": 2,
-    "ASHARQ AL-AWSAT English": 3,
+    "ASHARQ AL-AWSAT English": 4,
     "Wamda": 1,
     "euro petrole": 1,
-    "Anadolu Ajansı": 3,
+    "Anadolu Ajansı": 4,
     "Logistics Middle East": 1,
     "The Siasat Daily": 1,
     "Fortify Rights": 1,
@@ -1588,7 +1588,7 @@
     "UA.NEWS": 1,
     "Yahoo! Finance Canada": 1,
     "BioSpace": 1,
-    "شفق نيوز": 1,
+    "شفق نيوز": 2,
     "NewsCord": 1,
     "Responsible Statecraft": 1,
     "The Maritime Executive": 1,
@@ -1611,9 +1611,14 @@
     "Daily Times": 1,
     "News of Bahrain": 2,
     "Channels Television": 1,
-    "Vanguard News": 1,
+    "Vanguard News": 2,
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
-    "Pro Wrestling Dot Net": 1
+    "Pro Wrestling Dot Net": 1,
+    "Jewish Insider": 1,
+    "صحيفة مكة": 1,
+    "The Well News": 1,
+    "Daily Report Nigeria": 1,
+    "Quartz": 1
    },
    "sourceTone": {
     "Cageside Seats": [
@@ -1623,7 +1628,7 @@
     ],
     "The Guardian": [
      0,
-     24,
+     29,
      0
     ],
     "Financial Times": [
@@ -1633,7 +1638,7 @@
     ],
     "Al-Monitor": [
      0,
-     17,
+     22,
      0
     ],
     "AP News": [
@@ -1653,7 +1658,7 @@
     ],
     "Arab News": [
      0,
-     37,
+     44,
      0
     ],
     "The Washington Post": [
@@ -1668,7 +1673,7 @@
     ],
     "WSJ": [
      0,
-     14,
+     19,
      0
     ],
     "TNGlobal": [
@@ -1688,7 +1693,7 @@
     ],
     "Middle East Eye": [
      0,
-     4,
+     5,
      0
     ],
     "Punch Newspapers": [
@@ -1838,7 +1843,7 @@
     ],
     "Reuters": [
      0,
-     41,
+     45,
      0
     ],
     "France 24": [
@@ -1938,7 +1943,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     3,
+     4,
      0
     ],
     "Wamda": [
@@ -1953,7 +1958,7 @@
     ],
     "Anadolu Ajansı": [
      0,
-     3,
+     4,
      0
     ],
     "Logistics Middle East": [
@@ -2153,7 +2158,7 @@
     ],
     "شفق نيوز": [
      0,
-     1,
+     2,
      0
     ],
     "NewsCord": [
@@ -2268,7 +2273,7 @@
     ],
     "Vanguard News": [
      0,
-     1,
+     2,
      0
     ],
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
@@ -2277,6 +2282,31 @@
      0
     ],
     "Pro Wrestling Dot Net": [
+     0,
+     1,
+     0
+    ],
+    "Jewish Insider": [
+     0,
+     1,
+     0
+    ],
+    "صحيفة مكة": [
+     0,
+     1,
+     0
+    ],
+    "The Well News": [
+     0,
+     1,
+     0
+    ],
+    "Daily Report Nigeria": [
+     0,
+     1,
+     0
+    ],
+    "Quartz": [
      0,
      1,
      0
