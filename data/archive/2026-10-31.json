@@ -4451,6 +4451,27 @@
    "mt": true
   },
   {
+   "id": "1a23a9420a9fb4ad",
+   "origin": "rss",
+   "source": "The New York Times",
+   "author": "",
+   "title_ar": "أخبار العالم - الصفحة 8",
+   "title_orig": "World News - Page 8",
+   "title_en": "World News - Page 8",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLNUpheGtabF9wQ3l1ZzRLTjhjRDZlLWlJRTB2UlJyR3gwOVVaOGVGcDJXa0pnang3U2VBNVJfbEoyM2R2bTBVeUdyMjVzS2RXbUFVTEtFSHRHQTQtQ3ZEMFF0WkM3WXh1WUE?oc=5",
+   "published": "2026-10-31T12:20:27.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "World News - Page 8 &nbsp;&nbsp; The New York Times",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "1a8207b5e76b5d46",
    "origin": "rss",
    "source": "The Guardian",

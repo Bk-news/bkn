@@ -159,16 +159,16 @@
    }
   },
   "2026-10-31": {
-   "total": 358,
-   "news": 356,
+   "total": 359,
+   "news": 357,
    "articles": 2,
    "positive": 0,
-   "neutral": 358,
+   "neutral": 359,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 66,
-    "US": 55,
+    "US": 56,
     "HK": 4,
     "DE": 1,
     "FR": 9,
@@ -177,7 +177,7 @@
    "topics": {},
    "sources": {
     "Saudi Gazette": 8,
-    "The New York Times": 15,
+    "The New York Times": 16,
     "AP News": 5,
     "Bloomberg": 11,
     "South China Morning Post": 4,
@@ -249,7 +249,7 @@
     ],
     "The New York Times": [
      0,
-     15,
+     16,
      0
     ],
     "AP News": [
@@ -1463,15 +1463,15 @@
    }
   },
   "2026-11-02": {
-   "total": 280,
-   "news": 279,
+   "total": 282,
+   "news": 281,
    "articles": 1,
    "positive": 0,
-   "neutral": 280,
+   "neutral": 282,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 64,
+    "GB": 66,
     "US": 44,
     "SA": 29,
     "HK": 3,
@@ -1482,7 +1482,7 @@
    "sources": {
     "Cageside Seats": 1,
     "The Guardian": 15,
-    "Financial Times": 13,
+    "Financial Times": 14,
     "Al-Monitor": 10,
     "AP News": 6,
     "Bloomberg": 16,
@@ -1524,7 +1524,7 @@
     "ChemNet News": 1,
     "Saudi Gazette": 7,
     "South China Morning Post": 3,
-    "Reuters": 33,
+    "Reuters": 34,
     "France 24": 1,
     "CNN": 1,
     "New Telegraph": 1,
@@ -1614,7 +1614,7 @@
     ],
     "Financial Times": [
      0,
-     13,
+     14,
      0
     ],
     "Al-Monitor": [
@@ -1824,7 +1824,7 @@
     ],
     "Reuters": [
      0,
-     33,
+     34,
      0
     ],
     "France 24": [
