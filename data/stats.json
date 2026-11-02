@@ -1469,17 +1469,17 @@
    }
   },
   "2026-11-02": {
-   "total": 519,
-   "news": 515,
+   "total": 522,
+   "news": 518,
    "articles": 4,
    "positive": 0,
-   "neutral": 519,
+   "neutral": 522,
    "critical": 0,
    "mbs": 16,
    "countries": {
-    "GB": 124,
+    "GB": 125,
     "US": 95,
-    "SA": 61,
+    "SA": 62,
     "HK": 3,
     "FR": 8,
     "JP": 1,
@@ -1488,7 +1488,7 @@
    "topics": {},
    "sources": {
     "Cageside Seats": 1,
-    "The Guardian": 34,
+    "The Guardian": 35,
     "Financial Times": 38,
     "Al-Monitor": 30,
     "AP News": 7,
@@ -1529,7 +1529,7 @@
     "The New York Times": 10,
     "Ship & Bunker": 1,
     "ChemNet News": 1,
-    "Saudi Gazette": 11,
+    "Saudi Gazette": 12,
     "South China Morning Post": 3,
     "Reuters": 46,
     "France 24": 3,
@@ -1659,7 +1659,8 @@
     "World BEYOND War": 1,
     "remio": 1,
     "Foreign Policy": 1,
-    "White & Case LLP": 1
+    "White & Case LLP": 1,
+    "Palestine Chronicle": 1
    },
    "sourceTone": {
     "Cageside Seats": [
@@ -1669,7 +1670,7 @@
     ],
     "The Guardian": [
      0,
-     34,
+     35,
      0
     ],
     "Financial Times": [
@@ -1874,7 +1875,7 @@
     ],
     "Saudi Gazette": [
      0,
-     11,
+     12,
      0
     ],
     "South China Morning Post": [
@@ -2523,6 +2524,11 @@
      0
     ],
     "White & Case LLP": [
+     0,
+     1,
+     0
+    ],
+    "Palestine Chronicle": [
      0,
      1,
      0
