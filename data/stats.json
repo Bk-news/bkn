@@ -1463,15 +1463,15 @@
    }
   },
   "2026-11-02": {
-   "total": 272,
-   "news": 271,
+   "total": 275,
+   "news": 274,
    "articles": 1,
    "positive": 0,
-   "neutral": 272,
+   "neutral": 275,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 62,
+    "GB": 64,
     "US": 41,
     "SA": 29,
     "HK": 3,
@@ -1524,7 +1524,7 @@
     "ChemNet News": 1,
     "Saudi Gazette": 7,
     "South China Morning Post": 3,
-    "Reuters": 31,
+    "Reuters": 33,
     "France 24": 1,
     "CNN": 1,
     "New Telegraph": 1,
@@ -1593,7 +1593,7 @@
     "The Maritime Executive": 1,
     "The National": 1,
     "The Times of Israel": 1,
-    "Gulf Times": 1,
+    "Gulf Times": 2,
     "Nepalnews.com": 1,
     "Mining.com.au": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -1823,7 +1823,7 @@
     ],
     "Reuters": [
      0,
-     31,
+     33,
      0
     ],
     "France 24": [
@@ -2168,7 +2168,7 @@
     ],
     "Gulf Times": [
      0,
-     1,
+     2,
      0
     ],
     "Nepalnews.com": [
