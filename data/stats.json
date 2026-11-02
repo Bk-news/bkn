@@ -565,18 +565,18 @@
    }
   },
   "2026-11-01": {
-   "total": 456,
-   "news": 454,
+   "total": 461,
+   "news": 459,
    "articles": 2,
    "positive": 0,
-   "neutral": 456,
+   "neutral": 461,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "SA": 75,
-    "GB": 114,
+    "SA": 76,
+    "GB": 117,
     "FR": 8,
-    "US": 43,
+    "US": 44,
     "HK": 3,
     "DE": 1
    },
@@ -587,10 +587,10 @@
     "Saudi Gazette": 17,
     "FF News": 1,
     "BBC": 4,
-    "Reuters": 31,
+    "Reuters": 34,
     "سانا": 2,
     "Le Monde.fr": 7,
-    "Arab News": 76,
+    "Arab News": 77,
     "EA WorldView": 1,
     "Al-Monitor": 6,
     "Financial Times": 49,
@@ -671,7 +671,7 @@
     "Bangladesh Sangbad Sangstha (BSS)": 2,
     "IndexBox": 2,
     "X": 1,
-    "The New York Times": 9,
+    "The New York Times": 10,
     "www.kenyans.live": 1,
     "The Washington Post": 1,
     "Spiegel": 1,
@@ -757,7 +757,7 @@
     ],
     "Reuters": [
      0,
-     31,
+     34,
      0
     ],
     "سانا": [
@@ -772,7 +772,7 @@
     ],
     "Arab News": [
      0,
-     76,
+     77,
      0
     ],
     "EA WorldView": [
@@ -1177,7 +1177,7 @@
     ],
     "The New York Times": [
      0,
-     9,
+     10,
      0
     ],
     "www.kenyans.live": [
@@ -1463,17 +1463,17 @@
    }
   },
   "2026-11-02": {
-   "total": 407,
-   "news": 404,
+   "total": 442,
+   "news": 439,
    "articles": 3,
    "positive": 0,
-   "neutral": 407,
+   "neutral": 442,
    "critical": 0,
-   "mbs": 8,
+   "mbs": 11,
    "countries": {
-    "GB": 102,
-    "US": 80,
-    "SA": 47,
+    "GB": 104,
+    "US": 92,
+    "SA": 53,
     "HK": 3,
     "FR": 8,
     "JP": 1,
@@ -1482,16 +1482,16 @@
    "topics": {},
    "sources": {
     "Cageside Seats": 1,
-    "The Guardian": 29,
+    "The Guardian": 31,
     "Financial Times": 21,
-    "Al-Monitor": 22,
+    "Al-Monitor": 29,
     "AP News": 7,
     "Bloomberg": 16,
     "Mehr News Agency": 4,
-    "Arab News": 44,
+    "Arab News": 52,
     "The Washington Post": 2,
     "وكالة الأنباء السعودية": 2,
-    "WSJ": 19,
+    "WSJ": 23,
     "TNGlobal": 1,
     "Facebook": 2,
     "Breakingthenews.net": 1,
@@ -1520,7 +1520,7 @@
     "Arabisk London": 1,
     "New Age BD": 1,
     "Agenda Pública": 1,
-    "The New York Times": 9,
+    "The New York Times": 10,
     "Ship & Bunker": 1,
     "ChemNet News": 1,
     "Saudi Gazette": 10,
@@ -1542,7 +1542,7 @@
     "PM News Nigeria": 1,
     "the-decoder.com": 1,
     "Peoples Gazette Nigeria": 1,
-    "TVC News": 1,
+    "TVC News": 2,
     "Yemen Online": 1,
     "Hotelier Middle East": 2,
     "ASHARQ AL-AWSAT English": 4,
@@ -1552,8 +1552,8 @@
     "Logistics Middle East": 1,
     "The Siasat Daily": 1,
     "Fortify Rights": 1,
-    "شبكة تواصل الإخبارية": 1,
-    "صوت الإمارات": 1,
+    "شبكة تواصل الإخبارية": 2,
+    "صوت الإمارات": 2,
     "Akin Gump Strauss Hauer & Feld LLP": 1,
     "https://houseofsaud.com/": 4,
     "Al Jazeera": 1,
@@ -1570,14 +1570,14 @@
     "Arab News PK": 2,
     "Campaign Middle East": 2,
     "TradeWinds News": 1,
-    "TRT World": 1,
+    "TRT World": 2,
     "Consultancy-me.com": 1,
     "Pars Today": 1,
     "Al Arabiya English": 2,
     "Inquirer.net": 1,
     "Condé Nast Traveller Middle East": 1,
     "Rock Hill Herald": 1,
-    "Ynetnews": 1,
+    "Ynetnews": 2,
     "Kurdistan24": 1,
     "VAVEL.com": 1,
     "Gulf Business": 3,
@@ -1598,7 +1598,7 @@
     "Nepalnews.com": 1,
     "Mining.com.au": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
-    "NDTV": 1,
+    "NDTV": 2,
     "Western Post": 1,
     "Investing.com India": 1,
     "www.marketscreener.com": 1,
@@ -1618,7 +1618,14 @@
     "صحيفة مكة": 1,
     "The Well News": 1,
     "Daily Report Nigeria": 1,
-    "Quartz": 1
+    "Quartz": 1,
+    "Gulf News": 1,
+    "Nigerian Voice": 1,
+    "Legit News": 1,
+    "Arise News": 1,
+    "TheStar": 1,
+    "MTV Lebanon": 1,
+    "RideApart.com": 1
    },
    "sourceTone": {
     "Cageside Seats": [
@@ -1628,7 +1635,7 @@
     ],
     "The Guardian": [
      0,
-     29,
+     31,
      0
     ],
     "Financial Times": [
@@ -1638,7 +1645,7 @@
     ],
     "Al-Monitor": [
      0,
-     22,
+     29,
      0
     ],
     "AP News": [
@@ -1658,7 +1665,7 @@
     ],
     "Arab News": [
      0,
-     44,
+     52,
      0
     ],
     "The Washington Post": [
@@ -1673,7 +1680,7 @@
     ],
     "WSJ": [
      0,
-     19,
+     23,
      0
     ],
     "TNGlobal": [
@@ -1818,7 +1825,7 @@
     ],
     "The New York Times": [
      0,
-     9,
+     10,
      0
     ],
     "Ship & Bunker": [
@@ -1928,7 +1935,7 @@
     ],
     "TVC News": [
      0,
-     1,
+     2,
      0
     ],
     "Yemen Online": [
@@ -1978,12 +1985,12 @@
     ],
     "شبكة تواصل الإخبارية": [
      0,
-     1,
+     2,
      0
     ],
     "صوت الإمارات": [
      0,
-     1,
+     2,
      0
     ],
     "Akin Gump Strauss Hauer & Feld LLP": [
@@ -2068,7 +2075,7 @@
     ],
     "TRT World": [
      0,
-     1,
+     2,
      0
     ],
     "Consultancy-me.com": [
@@ -2103,7 +2110,7 @@
     ],
     "Ynetnews": [
      0,
-     1,
+     2,
      0
     ],
     "Kurdistan24": [
@@ -2208,7 +2215,7 @@
     ],
     "NDTV": [
      0,
-     1,
+     2,
      0
     ],
     "Western Post": [
@@ -2307,6 +2314,41 @@
      0
     ],
     "Quartz": [
+     0,
+     1,
+     0
+    ],
+    "Gulf News": [
+     0,
+     1,
+     0
+    ],
+    "Nigerian Voice": [
+     0,
+     1,
+     0
+    ],
+    "Legit News": [
+     0,
+     1,
+     0
+    ],
+    "Arise News": [
+     0,
+     1,
+     0
+    ],
+    "TheStar": [
+     0,
+     1,
+     0
+    ],
+    "MTV Lebanon": [
+     0,
+     1,
+     0
+    ],
+    "RideApart.com": [
      0,
      1,
      0
