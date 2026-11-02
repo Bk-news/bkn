@@ -1457,11 +1457,11 @@
    }
   },
   "2026-11-02": {
-   "total": 59,
-   "news": 59,
+   "total": 60,
+   "news": 60,
    "articles": 0,
    "positive": 0,
-   "neutral": 59,
+   "neutral": 60,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -1512,7 +1512,8 @@
     "Agenda Pública": 1,
     "The New York Times": 3,
     "Ship & Bunker": 1,
-    "ChemNet News": 1
+    "ChemNet News": 1,
+    "Saudi Gazette": 1
    },
    "sourceTone": {
     "Cageside Seats": [
@@ -1721,6 +1722,11 @@
      0
     ],
     "ChemNet News": [
+     0,
+     1,
+     0
+    ],
+    "Saudi Gazette": [
      0,
      1,
      0
