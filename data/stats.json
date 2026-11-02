@@ -159,16 +159,16 @@
    }
   },
   "2026-10-31": {
-   "total": 362,
-   "news": 360,
+   "total": 363,
+   "news": 361,
    "articles": 2,
    "positive": 0,
-   "neutral": 362,
+   "neutral": 363,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 66,
-    "US": 59,
+    "US": 60,
     "HK": 4,
     "DE": 1,
     "FR": 9,
@@ -177,7 +177,7 @@
    "topics": {},
    "sources": {
     "Saudi Gazette": 8,
-    "The New York Times": 19,
+    "The New York Times": 20,
     "AP News": 5,
     "Bloomberg": 11,
     "South China Morning Post": 4,
@@ -249,7 +249,7 @@
     ],
     "The New York Times": [
      0,
-     19,
+     20,
      0
     ],
     "AP News": [
@@ -1469,16 +1469,16 @@
    }
   },
   "2026-11-02": {
-   "total": 526,
-   "news": 522,
+   "total": 528,
+   "news": 524,
    "articles": 4,
    "positive": 0,
-   "neutral": 526,
+   "neutral": 528,
    "critical": 0,
    "mbs": 16,
    "countries": {
     "GB": 126,
-    "US": 96,
+    "US": 98,
     "SA": 62,
     "HK": 3,
     "FR": 9,
@@ -1491,11 +1491,11 @@
     "The Guardian": 36,
     "Financial Times": 38,
     "Al-Monitor": 30,
-    "AP News": 7,
+    "AP News": 8,
     "Bloomberg": 16,
     "Mehr News Agency": 5,
     "Arab News": 63,
-    "The Washington Post": 2,
+    "The Washington Post": 3,
     "وكالة الأنباء السعودية": 2,
     "WSJ": 24,
     "TNGlobal": 1,
@@ -1685,7 +1685,7 @@
     ],
     "AP News": [
      0,
-     7,
+     8,
      0
     ],
     "Bloomberg": [
@@ -1705,7 +1705,7 @@
     ],
     "The Washington Post": [
      0,
-     2,
+     3,
      0
     ],
     "وكالة الأنباء السعودية": [
