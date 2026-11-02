@@ -2,6 +2,27 @@
  "day": "2026-11-02",
  "items": [
   {
+   "id": "e07fcfd067358f15",
+   "origin": "rss",
+   "source": "Financial Times",
+   "author": "",
+   "title_ar": "رسالة: شاهد عيان على استيلاء الحوثيين على صنعاء",
+   "title_orig": "Letter: An eye witness to the Houthi seizure of Sana’a",
+   "title_en": "Letter: An eye witness to the Houthi seizure of Sana’a",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mOUQ3VDJBUVU5endmekJyQ3hON3pHMWZXb2IwX0FSX0syZmRTSWdpWXFSYWd3R3hDMHhQd242dTNjOU1WekhUcjBxNUNIM3VvdnM3b1VocjM4ckhaUlpKN3pPeV9pREFMZ2FkUzVqRUE?oc=5",
+   "published": "2026-11-02T00:37:54.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "Letter: An eye witness to the Houthi seizure of Sana’a &nbsp;&nbsp; Financial Times",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "0caba61e320e2e6a",
    "origin": "rss",
    "source": "The Guardian",
