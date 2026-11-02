@@ -159,11 +159,11 @@
    }
   },
   "2026-10-31": {
-   "total": 334,
-   "news": 332,
+   "total": 335,
+   "news": 333,
    "articles": 2,
    "positive": 0,
-   "neutral": 334,
+   "neutral": 335,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -172,7 +172,7 @@
     "HK": 4,
     "DE": 1,
     "FR": 9,
-    "GB": 140
+    "GB": 141
    },
    "topics": {},
    "sources": {
@@ -188,7 +188,7 @@
     "Al-Monitor": 17,
     "WSJ": 8,
     "BBC": 14,
-    "Reuters": 24,
+    "Reuters": 25,
     "Financial Times": 76,
     "باسنیوز": 1,
     "The Guardian": 25,
@@ -304,7 +304,7 @@
     ],
     "Reuters": [
      0,
-     24,
+     25,
      0
     ],
     "Financial Times": [
