@@ -2,6 +2,27 @@
  "day": "2026-11-02",
  "items": [
   {
+   "id": "b1adc8c134cdbf8f",
+   "origin": "rss",
+   "source": "France 24",
+   "author": "",
+   "title_ar": "فاز إيفرتون على نيوكاسل ليزيد الضغط على جايسل",
+   "title_orig": "Everton beat Newcastle to pile pressure on Jaissle",
+   "title_en": "Everton beat Newcastle to pile pressure on Jaissle",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMlR6TGtmbHh3U1ZVUXZtN1JhZlBJU2IzTnlrbERTUERyay1aTjlwbU52UDRaOHJzdGVaa0tQeEZGMmpqXzJ3S0hVb3JfTUdORk9wQjNobE45UEdzYU0xT0NwUjRCOGg3Qk5FVzMtR1Z6RWxKY21XTi1KS184WjY2Q3JzV3M2a2paSFVOV2lBeHVqWFBWOXJEY0FUdVlhZw?oc=5",
+   "published": "2026-11-02T22:09:48.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "FR",
+   "pending": true,
+   "desc": "Everton beat Newcastle to pile pressure on Jaissle &nbsp;&nbsp; France 24",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "c93c901d53469a75",
    "origin": "rss",
    "source": "Foreign Policy",
