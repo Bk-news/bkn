@@ -1463,11 +1463,11 @@
    }
   },
   "2026-11-02": {
-   "total": 278,
-   "news": 277,
+   "total": 280,
+   "news": 279,
    "articles": 1,
    "positive": 0,
-   "neutral": 278,
+   "neutral": 280,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -1535,7 +1535,7 @@
     "The Media Line": 1,
     "Nigerian Bulletin": 2,
     "The New Arab": 1,
-    "Investing.com": 1,
+    "Investing.com": 2,
     "Sportstar": 1,
     "Fana News -": 2,
     "PM News Nigeria": 1,
@@ -1598,7 +1598,8 @@
     "Mining.com.au": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
     "NDTV": 1,
-    "Western Post": 1
+    "Western Post": 1,
+    "Investing.com India": 1
    },
    "sourceTone": {
     "Cageside Seats": [
@@ -1878,7 +1879,7 @@
     ],
     "Investing.com": [
      0,
-     1,
+     2,
      0
     ],
     "Sportstar": [
@@ -2192,6 +2193,11 @@
      0
     ],
     "Western Post": [
+     0,
+     1,
+     0
+    ],
+    "Investing.com India": [
      0,
      1,
      0
