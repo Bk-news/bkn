@@ -1463,11 +1463,11 @@
    }
   },
   "2026-11-02": {
-   "total": 291,
-   "news": 290,
+   "total": 292,
+   "news": 291,
    "articles": 1,
    "positive": 0,
-   "neutral": 291,
+   "neutral": 292,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -1599,7 +1599,8 @@
     "Arabian Gulf Business Insight | AGBI": 1,
     "NDTV": 1,
     "Western Post": 1,
-    "Investing.com India": 1
+    "Investing.com India": 1,
+    "www.marketscreener.com": 1
    },
    "sourceTone": {
     "Cageside Seats": [
@@ -2198,6 +2199,11 @@
      0
     ],
     "Investing.com India": [
+     0,
+     1,
+     0
+    ],
+    "www.marketscreener.com": [
      0,
      1,
      0
