@@ -565,16 +565,16 @@
    }
   },
   "2026-11-01": {
-   "total": 401,
-   "news": 399,
+   "total": 403,
+   "news": 401,
    "articles": 2,
    "positive": 0,
-   "neutral": 401,
+   "neutral": 403,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 65,
-    "GB": 82,
+    "GB": 83,
     "FR": 8,
     "US": 35,
     "HK": 3,
@@ -595,7 +595,7 @@
     "Al-Monitor": 5,
     "Financial Times": 45,
     "WSJ": 10,
-    "The Guardian": 24,
+    "The Guardian": 25,
     "ASHARQ AL-AWSAT English": 13,
     "Daily Sabah": 2,
     "بوابة التكنولوجيا المالية": 1,
@@ -723,7 +723,8 @@
     "The Straits Times": 1,
     "Raw Story": 1,
     "PJ Media": 1,
-    "Chosunbiz": 1
+    "Chosunbiz": 1,
+    "Critical Threats": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -793,7 +794,7 @@
     ],
     "The Guardian": [
      0,
-     24,
+     25,
      0
     ],
     "ASHARQ AL-AWSAT English": [
@@ -1432,6 +1433,11 @@
      0
     ],
     "Chosunbiz": [
+     0,
+     1,
+     0
+    ],
+    "Critical Threats": [
      0,
      1,
      0
