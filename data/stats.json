@@ -1463,11 +1463,11 @@
    }
   },
   "2026-11-02": {
-   "total": 294,
-   "news": 293,
+   "total": 295,
+   "news": 294,
    "articles": 1,
    "positive": 0,
-   "neutral": 294,
+   "neutral": 295,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -1567,7 +1567,7 @@
     "Zawya": 2,
     "Naharnet": 1,
     "Arab News PK": 2,
-    "Campaign Middle East": 1,
+    "Campaign Middle East": 2,
     "TradeWinds News": 1,
     "TRT World": 1,
     "Consultancy-me.com": 1,
@@ -2041,7 +2041,7 @@
     ],
     "Campaign Middle East": [
      0,
-     1,
+     2,
      0
     ],
     "TradeWinds News": [
