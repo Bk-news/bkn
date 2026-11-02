@@ -159,11 +159,11 @@
    }
   },
   "2026-10-31": {
-   "total": 342,
-   "news": 340,
+   "total": 343,
+   "news": 341,
    "articles": 2,
    "positive": 0,
-   "neutral": 342,
+   "neutral": 343,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -172,7 +172,7 @@
     "HK": 4,
     "DE": 1,
     "FR": 9,
-    "GB": 146
+    "GB": 147
    },
    "topics": {},
    "sources": {
@@ -188,7 +188,7 @@
     "Al-Monitor": 17,
     "WSJ": 8,
     "BBC": 14,
-    "Reuters": 27,
+    "Reuters": 28,
     "Financial Times": 77,
     "باسنیوز": 1,
     "The Guardian": 27,
@@ -304,7 +304,7 @@
     ],
     "Reuters": [
      0,
-     27,
+     28,
      0
     ],
     "Financial Times": [
@@ -565,16 +565,16 @@
    }
   },
   "2026-11-01": {
-   "total": 416,
-   "news": 414,
+   "total": 417,
+   "news": 415,
    "articles": 2,
    "positive": 0,
-   "neutral": 416,
+   "neutral": 417,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 70,
-    "GB": 88,
+    "GB": 89,
     "FR": 8,
     "US": 36,
     "HK": 3,
@@ -595,7 +595,7 @@
     "Al-Monitor": 5,
     "Financial Times": 47,
     "WSJ": 10,
-    "The Guardian": 26,
+    "The Guardian": 27,
     "ASHARQ AL-AWSAT English": 13,
     "Daily Sabah": 2,
     "بوابة التكنولوجيا المالية": 1,
@@ -795,7 +795,7 @@
     ],
     "The Guardian": [
      0,
-     26,
+     27,
      0
     ],
     "ASHARQ AL-AWSAT English": [
@@ -1451,22 +1451,22 @@
    }
   },
   "2026-11-02": {
-   "total": 38,
-   "news": 38,
+   "total": 39,
+   "news": 39,
    "articles": 0,
    "positive": 0,
-   "neutral": 38,
+   "neutral": 39,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 4,
+    "GB": 5,
     "US": 8,
     "SA": 2
    },
    "topics": {},
    "sources": {
     "Cageside Seats": 1,
-    "The Guardian": 3,
+    "The Guardian": 4,
     "Financial Times": 1,
     "Al-Monitor": 2,
     "AP News": 2,
@@ -1505,7 +1505,7 @@
     ],
     "The Guardian": [
      0,
-     3,
+     4,
      0
     ],
     "Financial Times": [
