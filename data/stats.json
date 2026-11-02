@@ -565,11 +565,11 @@
    }
   },
   "2026-11-01": {
-   "total": 399,
-   "news": 397,
+   "total": 401,
+   "news": 399,
    "articles": 2,
    "positive": 0,
-   "neutral": 399,
+   "neutral": 401,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -721,7 +721,9 @@
     "The Chenab Times": 1,
     "Bangladesh Post": 1,
     "The Straits Times": 1,
-    "Raw Story": 1
+    "Raw Story": 1,
+    "PJ Media": 1,
+    "Chosunbiz": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -1420,6 +1422,16 @@
      0
     ],
     "Raw Story": [
+     0,
+     1,
+     0
+    ],
+    "PJ Media": [
+     0,
+     1,
+     0
+    ],
+    "Chosunbiz": [
      0,
      1,
      0
