@@ -159,11 +159,11 @@
    }
   },
   "2026-10-31": {
-   "total": 355,
-   "news": 353,
+   "total": 356,
+   "news": 354,
    "articles": 2,
    "positive": 0,
-   "neutral": 355,
+   "neutral": 356,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -172,7 +172,7 @@
     "HK": 4,
     "DE": 1,
     "FR": 9,
-    "GB": 158
+    "GB": 159
    },
    "topics": {},
    "sources": {
@@ -188,7 +188,7 @@
     "Al-Monitor": 17,
     "WSJ": 8,
     "BBC": 14,
-    "Reuters": 37,
+    "Reuters": 38,
     "Financial Times": 77,
     "باسنیوز": 1,
     "The Guardian": 29,
@@ -304,7 +304,7 @@
     ],
     "Reuters": [
      0,
-     37,
+     38,
      0
     ],
     "Financial Times": [
@@ -565,16 +565,16 @@
    }
   },
   "2026-11-01": {
-   "total": 447,
-   "news": 445,
+   "total": 448,
+   "news": 446,
    "articles": 2,
    "positive": 0,
-   "neutral": 447,
+   "neutral": 448,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 74,
-    "GB": 110,
+    "GB": 111,
     "FR": 8,
     "US": 39,
     "HK": 3,
@@ -587,7 +587,7 @@
     "Saudi Gazette": 17,
     "FF News": 1,
     "BBC": 4,
-    "Reuters": 27,
+    "Reuters": 28,
     "سانا": 2,
     "Le Monde.fr": 7,
     "Arab News": 75,
@@ -757,7 +757,7 @@
     ],
     "Reuters": [
      0,
-     27,
+     28,
      0
     ],
     "سانا": [
@@ -1463,16 +1463,16 @@
    }
   },
   "2026-11-02": {
-   "total": 238,
-   "news": 237,
+   "total": 250,
+   "news": 249,
    "articles": 1,
    "positive": 0,
-   "neutral": 238,
+   "neutral": 250,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 47,
-    "US": 39,
+    "GB": 50,
+    "US": 40,
     "SA": 24,
     "HK": 3,
     "FR": 4,
@@ -1484,7 +1484,7 @@
     "The Guardian": 15,
     "Financial Times": 12,
     "Al-Monitor": 8,
-    "AP News": 4,
+    "AP News": 5,
     "Bloomberg": 16,
     "Mehr News Agency": 4,
     "Arab News": 20,
@@ -1524,7 +1524,7 @@
     "ChemNet News": 1,
     "Saudi Gazette": 7,
     "South China Morning Post": 3,
-    "Reuters": 18,
+    "Reuters": 21,
     "France 24": 1,
     "CNN": 1,
     "New Telegraph": 1,
@@ -1554,11 +1554,11 @@
     "شبكة تواصل الإخبارية": 1,
     "صوت الإمارات": 1,
     "Akin Gump Strauss Hauer & Feld LLP": 1,
-    "https://houseofsaud.com/": 2,
+    "https://houseofsaud.com/": 3,
     "Al Jazeera": 1,
     "WANA News Agency": 1,
     "AI Magazine": 1,
-    "سانا": 1,
+    "سانا": 3,
     "Middle East Online": 1,
     "SpaceWatch.GLOBAL": 1,
     "Arabian Business": 1,
@@ -1566,7 +1566,7 @@
     "Dealroom": 1,
     "Zawya": 1,
     "Naharnet": 1,
-    "Arab News PK": 1,
+    "Arab News PK": 2,
     "Campaign Middle East": 1,
     "TradeWinds News": 1,
     "TRT World": 1,
@@ -1592,7 +1592,11 @@
     "Responsible Statecraft": 1,
     "The Maritime Executive": 1,
     "The National": 1,
-    "The Times of Israel": 1
+    "The Times of Israel": 1,
+    "Gulf Times": 1,
+    "Nepalnews.com": 1,
+    "Mining.com.au": 1,
+    "Arabian Gulf Business Insight | AGBI": 1
    },
    "sourceTone": {
     "Cageside Seats": [
@@ -1617,7 +1621,7 @@
     ],
     "AP News": [
      0,
-     4,
+     5,
      0
     ],
     "Bloomberg": [
@@ -1817,7 +1821,7 @@
     ],
     "Reuters": [
      0,
-     18,
+     21,
      0
     ],
     "France 24": [
@@ -1967,7 +1971,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     2,
+     3,
      0
     ],
     "Al Jazeera": [
@@ -1987,7 +1991,7 @@
     ],
     "سانا": [
      0,
-     1,
+     3,
      0
     ],
     "Middle East Online": [
@@ -2027,7 +2031,7 @@
     ],
     "Arab News PK": [
      0,
-     1,
+     2,
      0
     ],
     "Campaign Middle East": [
@@ -2156,6 +2160,26 @@
      0
     ],
     "The Times of Israel": [
+     0,
+     1,
+     0
+    ],
+    "Gulf Times": [
+     0,
+     1,
+     0
+    ],
+    "Nepalnews.com": [
+     0,
+     1,
+     0
+    ],
+    "Mining.com.au": [
+     0,
+     1,
+     0
+    ],
+    "Arabian Gulf Business Insight | AGBI": [
      0,
      1,
      0
