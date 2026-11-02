@@ -1469,17 +1469,17 @@
    }
   },
   "2026-11-02": {
-   "total": 513,
-   "news": 510,
+   "total": 515,
+   "news": 512,
    "articles": 3,
    "positive": 0,
-   "neutral": 513,
+   "neutral": 515,
    "critical": 0,
-   "mbs": 15,
+   "mbs": 16,
    "countries": {
     "GB": 123,
     "US": 94,
-    "SA": 59,
+    "SA": 60,
     "HK": 3,
     "FR": 8,
     "JP": 1,
@@ -1494,7 +1494,7 @@
     "AP News": 7,
     "Bloomberg": 16,
     "Mehr News Agency": 5,
-    "Arab News": 61,
+    "Arab News": 62,
     "The Washington Post": 2,
     "وكالة الأنباء السعودية": 2,
     "WSJ": 23,
@@ -1529,7 +1529,7 @@
     "The New York Times": 10,
     "Ship & Bunker": 1,
     "ChemNet News": 1,
-    "Saudi Gazette": 10,
+    "Saudi Gazette": 11,
     "South China Morning Post": 3,
     "Reuters": 46,
     "France 24": 3,
@@ -1697,7 +1697,7 @@
     ],
     "Arab News": [
      0,
-     61,
+     62,
      0
     ],
     "The Washington Post": [
@@ -1872,7 +1872,7 @@
     ],
     "Saudi Gazette": [
      0,
-     10,
+     11,
      0
     ],
     "South China Morning Post": [
