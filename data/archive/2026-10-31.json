@@ -556,6 +556,27 @@
    "lang": "en"
   },
   {
+   "id": "5ce85da0e38ba834",
+   "origin": "rss",
+   "source": "AP News",
+   "author": "",
+   "title_ar": "أهم الأخبار AP 31 أكتوبر",
+   "title_orig": "AP Top Stories October 31",
+   "title_en": "AP Top Stories October 31",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOEFrazNzU0dKdnptcnVaV2FRN2l5dl9rdWRDWGsydmVwbGZWUk9hVlRHTmFNZkFmeGZfVEtDUjVjTHEwY3FUb3RSdTRzRXdzX2xWcUV5SWUyWkpTR3kxWUlOV1FSblF3R2k0WExGNENnMmNCT3IycjlQZFpxSy1kN0VYN0dCdUJKdWxZ?oc=5",
+   "published": "2026-10-31T22:55:00.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "AP Top Stories October 31 &nbsp;&nbsp; AP News",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "4d4186c98475ec5b",
    "origin": "rss",
    "source": "WSJ",

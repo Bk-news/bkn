@@ -159,16 +159,16 @@
    }
   },
   "2026-10-31": {
-   "total": 331,
-   "news": 329,
+   "total": 332,
+   "news": 330,
    "articles": 2,
    "positive": 0,
-   "neutral": 331,
+   "neutral": 332,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 64,
-    "US": 52,
+    "US": 53,
     "HK": 4,
     "DE": 1,
     "FR": 9,
@@ -178,7 +178,7 @@
    "sources": {
     "Saudi Gazette": 8,
     "The New York Times": 13,
-    "AP News": 4,
+    "AP News": 5,
     "Bloomberg": 11,
     "South China Morning Post": 4,
     "Spiegel": 1,
@@ -254,7 +254,7 @@
     ],
     "AP News": [
      0,
-     4,
+     5,
      0
     ],
     "Bloomberg": [
