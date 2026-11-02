@@ -1457,16 +1457,16 @@
    }
   },
   "2026-11-02": {
-   "total": 58,
-   "news": 58,
+   "total": 59,
+   "news": 59,
    "articles": 0,
    "positive": 0,
-   "neutral": 58,
+   "neutral": 59,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "GB": 8,
-    "US": 11,
+    "US": 12,
     "SA": 4
    },
    "topics": {},
@@ -1475,7 +1475,7 @@
     "The Guardian": 4,
     "Financial Times": 4,
     "Al-Monitor": 2,
-    "AP News": 2,
+    "AP News": 3,
     "Bloomberg": 2,
     "Mehr News Agency": 2,
     "Arab News": 4,
@@ -1537,7 +1537,7 @@
     ],
     "AP News": [
      0,
-     2,
+     3,
      0
     ],
     "Bloomberg": [
