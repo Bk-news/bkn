@@ -1469,17 +1469,17 @@
    }
   },
   "2026-11-02": {
-   "total": 528,
-   "news": 524,
+   "total": 531,
+   "news": 527,
    "articles": 4,
    "positive": 0,
-   "neutral": 528,
+   "neutral": 531,
    "critical": 0,
    "mbs": 16,
    "countries": {
     "GB": 126,
-    "US": 98,
-    "SA": 62,
+    "US": 99,
+    "SA": 63,
     "HK": 3,
     "FR": 9,
     "JP": 1,
@@ -1494,10 +1494,10 @@
     "AP News": 8,
     "Bloomberg": 16,
     "Mehr News Agency": 5,
-    "Arab News": 63,
+    "Arab News": 64,
     "The Washington Post": 3,
     "وكالة الأنباء السعودية": 2,
-    "WSJ": 24,
+    "WSJ": 25,
     "TNGlobal": 1,
     "Facebook": 2,
     "Breakingthenews.net": 2,
@@ -1660,7 +1660,8 @@
     "remio": 1,
     "Foreign Policy": 1,
     "White & Case LLP": 1,
-    "Palestine Chronicle": 1
+    "Palestine Chronicle": 1,
+    "NPR": 1
    },
    "sourceTone": {
     "Cageside Seats": [
@@ -1700,7 +1701,7 @@
     ],
     "Arab News": [
      0,
-     63,
+     64,
      0
     ],
     "The Washington Post": [
@@ -1715,7 +1716,7 @@
     ],
     "WSJ": [
      0,
-     24,
+     25,
      0
     ],
     "TNGlobal": [
@@ -2529,6 +2530,11 @@
      0
     ],
     "Palestine Chronicle": [
+     0,
+     1,
+     0
+    ],
+    "NPR": [
      0,
      1,
      0
