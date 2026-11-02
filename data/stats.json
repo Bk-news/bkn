@@ -1469,15 +1469,15 @@
    }
   },
   "2026-11-02": {
-   "total": 544,
-   "news": 540,
+   "total": 545,
+   "news": 541,
    "articles": 4,
    "positive": 0,
-   "neutral": 544,
+   "neutral": 545,
    "critical": 0,
    "mbs": 16,
    "countries": {
-    "GB": 127,
+    "GB": 128,
     "US": 99,
     "SA": 63,
     "HK": 4,
@@ -1489,7 +1489,7 @@
    "sources": {
     "Cageside Seats": 1,
     "The Guardian": 36,
-    "Financial Times": 39,
+    "Financial Times": 40,
     "Al-Monitor": 30,
     "AP News": 8,
     "Bloomberg": 16,
@@ -1678,7 +1678,7 @@
     ],
     "Financial Times": [
      0,
-     39,
+     40,
      0
     ],
     "Al-Monitor": [
