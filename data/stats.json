@@ -159,11 +159,11 @@
    }
   },
   "2026-10-31": {
-   "total": 356,
-   "news": 354,
+   "total": 357,
+   "news": 355,
    "articles": 2,
    "positive": 0,
-   "neutral": 356,
+   "neutral": 357,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -172,7 +172,7 @@
     "HK": 4,
     "DE": 1,
     "FR": 9,
-    "GB": 159
+    "GB": 160
    },
    "topics": {},
    "sources": {
@@ -188,7 +188,7 @@
     "Al-Monitor": 17,
     "WSJ": 8,
     "BBC": 14,
-    "Reuters": 38,
+    "Reuters": 39,
     "Financial Times": 77,
     "باسنیوز": 1,
     "The Guardian": 29,
@@ -304,7 +304,7 @@
     ],
     "Reuters": [
      0,
-     38,
+     39,
      0
     ],
     "Financial Times": [
@@ -1463,17 +1463,17 @@
    }
   },
   "2026-11-02": {
-   "total": 250,
-   "news": 249,
+   "total": 261,
+   "news": 260,
    "articles": 1,
    "positive": 0,
-   "neutral": 250,
+   "neutral": 261,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 50,
+    "GB": 54,
     "US": 40,
-    "SA": 24,
+    "SA": 28,
     "HK": 3,
     "FR": 4,
     "JP": 1
@@ -1487,7 +1487,7 @@
     "AP News": 5,
     "Bloomberg": 16,
     "Mehr News Agency": 4,
-    "Arab News": 20,
+    "Arab News": 24,
     "The Washington Post": 2,
     "وكالة الأنباء السعودية": 2,
     "WSJ": 6,
@@ -1524,7 +1524,7 @@
     "ChemNet News": 1,
     "Saudi Gazette": 7,
     "South China Morning Post": 3,
-    "Reuters": 21,
+    "Reuters": 25,
     "France 24": 1,
     "CNN": 1,
     "New Telegraph": 1,
@@ -1554,7 +1554,7 @@
     "شبكة تواصل الإخبارية": 1,
     "صوت الإمارات": 1,
     "Akin Gump Strauss Hauer & Feld LLP": 1,
-    "https://houseofsaud.com/": 3,
+    "https://houseofsaud.com/": 4,
     "Al Jazeera": 1,
     "WANA News Agency": 1,
     "AI Magazine": 1,
@@ -1564,7 +1564,7 @@
     "Arabian Business": 1,
     "Yeni Şafak English": 1,
     "Dealroom": 1,
-    "Zawya": 1,
+    "Zawya": 2,
     "Naharnet": 1,
     "Arab News PK": 2,
     "Campaign Middle East": 1,
@@ -1596,7 +1596,8 @@
     "Gulf Times": 1,
     "Nepalnews.com": 1,
     "Mining.com.au": 1,
-    "Arabian Gulf Business Insight | AGBI": 1
+    "Arabian Gulf Business Insight | AGBI": 1,
+    "NDTV": 1
    },
    "sourceTone": {
     "Cageside Seats": [
@@ -1636,7 +1637,7 @@
     ],
     "Arab News": [
      0,
-     20,
+     24,
      0
     ],
     "The Washington Post": [
@@ -1821,7 +1822,7 @@
     ],
     "Reuters": [
      0,
-     21,
+     25,
      0
     ],
     "France 24": [
@@ -1971,7 +1972,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     3,
+     4,
      0
     ],
     "Al Jazeera": [
@@ -2021,7 +2022,7 @@
     ],
     "Zawya": [
      0,
-     1,
+     2,
      0
     ],
     "Naharnet": [
@@ -2180,6 +2181,11 @@
      0
     ],
     "Arabian Gulf Business Insight | AGBI": [
+     0,
+     1,
+     0
+    ],
+    "NDTV": [
      0,
      1,
      0
