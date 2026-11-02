@@ -1463,17 +1463,17 @@
    }
   },
   "2026-11-02": {
-   "total": 483,
-   "news": 480,
+   "total": 484,
+   "news": 481,
    "articles": 3,
    "positive": 0,
-   "neutral": 483,
+   "neutral": 484,
    "critical": 0,
    "mbs": 14,
    "countries": {
     "GB": 113,
     "US": 93,
-    "SA": 53,
+    "SA": 54,
     "HK": 3,
     "FR": 8,
     "JP": 1,
@@ -1488,7 +1488,7 @@
     "AP News": 7,
     "Bloomberg": 16,
     "Mehr News Agency": 4,
-    "Arab News": 54,
+    "Arab News": 55,
     "The Washington Post": 2,
     "وكالة الأنباء السعودية": 2,
     "WSJ": 23,
@@ -1686,7 +1686,7 @@
     ],
     "Arab News": [
      0,
-     54,
+     55,
      0
     ],
     "The Washington Post": [
