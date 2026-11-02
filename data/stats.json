@@ -1463,15 +1463,15 @@
    }
   },
   "2026-11-02": {
-   "total": 261,
-   "news": 260,
+   "total": 263,
+   "news": 262,
    "articles": 1,
    "positive": 0,
-   "neutral": 261,
+   "neutral": 263,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 54,
+    "GB": 56,
     "US": 40,
     "SA": 28,
     "HK": 3,
@@ -1524,12 +1524,12 @@
     "ChemNet News": 1,
     "Saudi Gazette": 7,
     "South China Morning Post": 3,
-    "Reuters": 25,
+    "Reuters": 26,
     "France 24": 1,
     "CNN": 1,
     "New Telegraph": 1,
     "Nikkei Asia": 1,
-    "BBC": 1,
+    "BBC": 2,
     "Le Monde.fr": 3,
     "The Economist": 1,
     "The Media Line": 1,
@@ -1822,7 +1822,7 @@
     ],
     "Reuters": [
      0,
-     25,
+     26,
      0
     ],
     "France 24": [
@@ -1847,7 +1847,7 @@
     ],
     "BBC": [
      0,
-     1,
+     2,
      0
     ],
     "Le Monde.fr": [
