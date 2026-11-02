@@ -159,11 +159,11 @@
    }
   },
   "2026-10-31": {
-   "total": 338,
-   "news": 336,
+   "total": 339,
+   "news": 337,
    "articles": 2,
    "positive": 0,
-   "neutral": 338,
+   "neutral": 339,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -172,7 +172,7 @@
     "HK": 4,
     "DE": 1,
     "FR": 9,
-    "GB": 142
+    "GB": 143
    },
    "topics": {},
    "sources": {
@@ -191,7 +191,7 @@
     "Reuters": 26,
     "Financial Times": 76,
     "باسنیوز": 1,
-    "The Guardian": 25,
+    "The Guardian": 26,
     "Awani International": 1,
     "Le Monde.fr": 8,
     "The Media Line": 1,
@@ -319,7 +319,7 @@
     ],
     "The Guardian": [
      0,
-     25,
+     26,
      0
     ],
     "Awani International": [
@@ -565,18 +565,18 @@
    }
   },
   "2026-11-01": {
-   "total": 406,
-   "news": 404,
+   "total": 408,
+   "news": 406,
    "articles": 2,
    "positive": 0,
-   "neutral": 406,
+   "neutral": 408,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 68,
     "GB": 83,
     "FR": 8,
-    "US": 35,
+    "US": 36,
     "HK": 3,
     "DE": 1
    },
@@ -671,7 +671,7 @@
     "Bangladesh Sangbad Sangstha (BSS)": 2,
     "IndexBox": 2,
     "X": 1,
-    "The New York Times": 3,
+    "The New York Times": 4,
     "www.kenyans.live": 1,
     "The Washington Post": 1,
     "Spiegel": 1,
@@ -706,7 +706,7 @@
     "Briefs Finance": 1,
     "WGN Radio 720": 1,
     "Daily Sun": 1,
-    "Fana News -": 1,
+    "Fana News -": 2,
     "A News": 1,
     "Xinhua": 1,
     "Middle East Eye": 1,
@@ -1174,7 +1174,7 @@
     ],
     "The New York Times": [
      0,
-     3,
+     4,
      0
     ],
     "www.kenyans.live": [
@@ -1349,7 +1349,7 @@
     ],
     "Fana News -": [
      0,
-     1,
+     2,
      0
     ],
     "A News": [
