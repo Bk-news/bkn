@@ -1469,11 +1469,11 @@
    }
   },
   "2026-11-02": {
-   "total": 536,
-   "news": 532,
+   "total": 537,
+   "news": 533,
    "articles": 4,
    "positive": 0,
-   "neutral": 536,
+   "neutral": 537,
    "critical": 0,
    "mbs": 16,
    "countries": {
@@ -1565,7 +1565,7 @@
     "Al Jazeera": 1,
     "WANA News Agency": 1,
     "AI Magazine": 1,
-    "سانا": 3,
+    "سانا": 4,
     "Middle East Online": 1,
     "SpaceWatch.GLOBAL": 1,
     "Arabian Business": 1,
@@ -2056,7 +2056,7 @@
     ],
     "سانا": [
      0,
-     3,
+     4,
      0
     ],
     "Middle East Online": [
