@@ -1451,11 +1451,11 @@
    }
   },
   "2026-11-02": {
-   "total": 39,
-   "news": 39,
+   "total": 40,
+   "news": 40,
    "articles": 0,
    "positive": 0,
-   "neutral": 39,
+   "neutral": 40,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -1495,7 +1495,8 @@
     "Countercurrents": 1,
     "The Insight International": 1,
     "Quwa": 1,
-    "Telangana Today": 1
+    "Telangana Today": 1,
+    "巴士的報": 1
    },
    "sourceTone": {
     "Cageside Seats": [
@@ -1649,6 +1650,11 @@
      0
     ],
     "Telangana Today": [
+     0,
+     1,
+     0
+    ],
+    "巴士的報": [
      0,
      1,
      0
