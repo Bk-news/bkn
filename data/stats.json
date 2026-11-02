@@ -1469,18 +1469,18 @@
    }
   },
   "2026-11-02": {
-   "total": 531,
-   "news": 527,
+   "total": 536,
+   "news": 532,
    "articles": 4,
    "positive": 0,
-   "neutral": 531,
+   "neutral": 536,
    "critical": 0,
    "mbs": 16,
    "countries": {
-    "GB": 126,
+    "GB": 127,
     "US": 99,
     "SA": 63,
-    "HK": 3,
+    "HK": 4,
     "FR": 9,
     "JP": 1,
     "DE": 1
@@ -1489,7 +1489,7 @@
    "sources": {
     "Cageside Seats": 1,
     "The Guardian": 36,
-    "Financial Times": 38,
+    "Financial Times": 39,
     "Al-Monitor": 30,
     "AP News": 8,
     "Bloomberg": 16,
@@ -1500,7 +1500,7 @@
     "WSJ": 25,
     "TNGlobal": 1,
     "Facebook": 2,
-    "Breakingthenews.net": 2,
+    "Breakingthenews.net": 3,
     "Middle East Eye": 5,
     "Punch Newspapers": 1,
     "TheCable": 1,
@@ -1530,7 +1530,7 @@
     "Ship & Bunker": 1,
     "ChemNet News": 1,
     "Saudi Gazette": 12,
-    "South China Morning Post": 3,
+    "South China Morning Post": 4,
     "Reuters": 46,
     "France 24": 4,
     "CNN": 1,
@@ -1561,7 +1561,7 @@
     "شبكة تواصل الإخبارية": 2,
     "صوت الإمارات": 2,
     "Akin Gump Strauss Hauer & Feld LLP": 1,
-    "https://houseofsaud.com/": 5,
+    "https://houseofsaud.com/": 6,
     "Al Jazeera": 1,
     "WANA News Agency": 1,
     "AI Magazine": 1,
@@ -1599,7 +1599,7 @@
     "Responsible Statecraft": 1,
     "The Maritime Executive": 1,
     "The National": 1,
-    "The Times of Israel": 2,
+    "The Times of Israel": 3,
     "Gulf Times": 2,
     "Nepalnews.com": 1,
     "Mining.com.au": 2,
@@ -1676,7 +1676,7 @@
     ],
     "Financial Times": [
      0,
-     38,
+     39,
      0
     ],
     "Al-Monitor": [
@@ -1731,7 +1731,7 @@
     ],
     "Breakingthenews.net": [
      0,
-     2,
+     3,
      0
     ],
     "Middle East Eye": [
@@ -1881,7 +1881,7 @@
     ],
     "South China Morning Post": [
      0,
-     3,
+     4,
      0
     ],
     "Reuters": [
@@ -2036,7 +2036,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     5,
+     6,
      0
     ],
     "Al Jazeera": [
@@ -2226,7 +2226,7 @@
     ],
     "The Times of Israel": [
      0,
-     2,
+     3,
      0
     ],
     "Gulf Times": [
