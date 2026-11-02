@@ -1,26 +1,74 @@
 [
  {
-  "id": "eb5861e2f144c1e2",
+  "id": "e33817f5c4dfb5bb",
   "origin": "telegram",
   "source": "العربية عاجل",
   "country": "SA",
-  "title_ar": "المستشار الألماني: لن نتسامح مع مرتكبي أعمال العنف والشغب",
+  "title_ar": "وزير الدفاع السعودي: بحثت مع وزير الحرب الأميركي جهود خفض التصعيد واحتواء التوتر بالمنطقة",
   "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152085",
-  "published": "2026-11-02T13:05:02.000Z",
+  "url": "https://t.me/alarabiyaBr/152129",
+  "published": "2026-11-02T21:24:02.000Z",
   "subject": "saudi",
-  "added": "2026-11-02T13:05:02.000Z"
+  "added": "2026-11-02T21:24:02.000Z"
  },
  {
-  "id": "a032fc425f3f94ee",
+  "id": "23056cfeca68e884",
   "origin": "telegram",
   "source": "العربية عاجل",
   "country": "SA",
-  "title_ar": "وزير دفاع المجر: الطائرة التي هبطت في بودابست كانت متجهة إلى صوفيا من لندن",
+  "title_ar": "وزير الدفاع السعودي: بحثت المستجدات الإقليمية والدولية مع وزير الحرب الأميركي",
   "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152084",
-  "published": "2026-11-02T13:03:02.000Z",
+  "url": "https://t.me/alarabiyaBr/152128",
+  "published": "2026-11-02T21:23:02.000Z",
   "subject": "saudi",
-  "added": "2026-11-02T13:03:02.000Z"
+  "added": "2026-11-02T21:23:02.000Z"
+ },
+ {
+  "id": "87aa2516dfbec855",
+  "origin": "royal",
+  "source": "واس الملكية",
+  "country": "SA",
+  "title_ar": "سمو ولي العهد يستقبل ولي عهد الأردن.",
+  "summary_ar": [],
+  "url": "https://www.youtube.com/watch?v=J3XETl9Qtk4",
+  "published": "2026-11-02T21:16:59.000Z",
+  "subject": "mbs",
+  "added": "2026-11-02T21:49:59.429Z"
+ },
+ {
+  "id": "ef5417ef0cb2c629",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "إعلام إيراني رسمي: دوي انفجارات في جزيرة قشم",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152127",
+  "published": "2026-11-02T21:09:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-02T21:09:01.000Z"
+ },
+ {
+  "id": "4510d8d77d69523e",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "ولي عهد الأردن: ندعم الإجراءات التي تتخذها السعودية لحماية مقدراتها",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152126",
+  "published": "2026-11-02T20:52:02.000Z",
+  "subject": "saudi",
+  "added": "2026-11-02T20:52:02.000Z"
+ },
+ {
+  "id": "4ea18f07d8029dd4",
+  "origin": "royal",
+  "source": "واس الملكية",
+  "country": "SA",
+  "title_ar": "سمو ولي العهد يستقبل ولي عهد الأردن",
+  "summary_ar": [],
+  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ZRVpNYTBTc2trU3NsMGt1OVg5amhRazBiRnpKYXo0UW05OWlyM3hjT0xiRFhkMFVFZFpmTlRrSVdlRERTWnc?oc=5",
+  "published": "2026-11-02T20:43:03.000Z",
+  "subject": "mbs",
+  "added": "2026-11-02T21:49:59.429Z"
  }
 ]
