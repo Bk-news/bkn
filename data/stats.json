@@ -565,16 +565,16 @@
    }
   },
   "2026-11-01": {
-   "total": 448,
-   "news": 446,
+   "total": 450,
+   "news": 448,
    "articles": 2,
    "positive": 0,
-   "neutral": 448,
+   "neutral": 450,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 74,
-    "GB": 111,
+    "GB": 113,
     "FR": 8,
     "US": 39,
     "HK": 3,
@@ -587,7 +587,7 @@
     "Saudi Gazette": 17,
     "FF News": 1,
     "BBC": 4,
-    "Reuters": 28,
+    "Reuters": 30,
     "سانا": 2,
     "Le Monde.fr": 7,
     "Arab News": 75,
@@ -757,7 +757,7 @@
     ],
     "Reuters": [
      0,
-     28,
+     30,
      0
     ],
     "سانا": [
@@ -1463,17 +1463,17 @@
    }
   },
   "2026-11-02": {
-   "total": 264,
-   "news": 263,
+   "total": 269,
+   "news": 268,
    "articles": 1,
    "positive": 0,
-   "neutral": 264,
+   "neutral": 269,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 57,
-    "US": 40,
-    "SA": 28,
+    "GB": 60,
+    "US": 41,
+    "SA": 29,
     "HK": 3,
     "FR": 4,
     "JP": 1
@@ -1484,10 +1484,10 @@
     "The Guardian": 15,
     "Financial Times": 12,
     "Al-Monitor": 8,
-    "AP News": 5,
+    "AP News": 6,
     "Bloomberg": 16,
     "Mehr News Agency": 4,
-    "Arab News": 24,
+    "Arab News": 25,
     "The Washington Post": 2,
     "وكالة الأنباء السعودية": 2,
     "WSJ": 6,
@@ -1524,7 +1524,7 @@
     "ChemNet News": 1,
     "Saudi Gazette": 7,
     "South China Morning Post": 3,
-    "Reuters": 27,
+    "Reuters": 30,
     "France 24": 1,
     "CNN": 1,
     "New Telegraph": 1,
@@ -1622,7 +1622,7 @@
     ],
     "AP News": [
      0,
-     5,
+     6,
      0
     ],
     "Bloomberg": [
@@ -1637,7 +1637,7 @@
     ],
     "Arab News": [
      0,
-     24,
+     25,
      0
     ],
     "The Washington Post": [
@@ -1822,7 +1822,7 @@
     ],
     "Reuters": [
      0,
-     27,
+     30,
      0
     ],
     "France 24": [
