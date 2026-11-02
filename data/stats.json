@@ -1469,11 +1469,11 @@
    }
   },
   "2026-11-02": {
-   "total": 523,
-   "news": 519,
+   "total": 524,
+   "news": 520,
    "articles": 4,
    "positive": 0,
-   "neutral": 523,
+   "neutral": 524,
    "critical": 0,
    "mbs": 16,
    "countries": {
@@ -1617,7 +1617,7 @@
     "Daily Times": 1,
     "News of Bahrain": 2,
     "Channels Television": 1,
-    "Vanguard News": 2,
+    "Vanguard News": 3,
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
     "Pro Wrestling Dot Net": 1,
     "Jewish Insider": 1,
@@ -2315,7 +2315,7 @@
     ],
     "Vanguard News": [
      0,
-     2,
+     3,
      0
     ],
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
