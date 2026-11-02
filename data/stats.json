@@ -159,16 +159,16 @@
    }
   },
   "2026-10-31": {
-   "total": 347,
-   "news": 345,
+   "total": 348,
+   "news": 346,
    "articles": 2,
    "positive": 0,
-   "neutral": 347,
+   "neutral": 348,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 66,
-    "US": 53,
+    "US": 54,
     "HK": 4,
     "DE": 1,
     "FR": 9,
@@ -177,7 +177,7 @@
    "topics": {},
    "sources": {
     "Saudi Gazette": 8,
-    "The New York Times": 13,
+    "The New York Times": 14,
     "AP News": 5,
     "Bloomberg": 11,
     "South China Morning Post": 4,
@@ -249,7 +249,7 @@
     ],
     "The New York Times": [
      0,
-     13,
+     14,
      0
     ],
     "AP News": [
@@ -565,18 +565,18 @@
    }
   },
   "2026-11-01": {
-   "total": 419,
-   "news": 417,
+   "total": 421,
+   "news": 419,
    "articles": 2,
    "positive": 0,
-   "neutral": 419,
+   "neutral": 421,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 70,
     "GB": 90,
     "FR": 8,
-    "US": 36,
+    "US": 38,
     "HK": 3,
     "DE": 1
    },
@@ -594,7 +594,7 @@
     "EA WorldView": 1,
     "Al-Monitor": 5,
     "Financial Times": 47,
-    "WSJ": 10,
+    "WSJ": 11,
     "The Guardian": 28,
     "ASHARQ AL-AWSAT English": 13,
     "Daily Sabah": 2,
@@ -671,7 +671,7 @@
     "Bangladesh Sangbad Sangstha (BSS)": 2,
     "IndexBox": 2,
     "X": 1,
-    "The New York Times": 4,
+    "The New York Times": 5,
     "www.kenyans.live": 1,
     "The Washington Post": 1,
     "Spiegel": 1,
@@ -791,7 +791,7 @@
     ],
     "WSJ": [
      0,
-     10,
+     11,
      0
     ],
     "The Guardian": [
@@ -1176,7 +1176,7 @@
     ],
     "The New York Times": [
      0,
-     4,
+     5,
      0
     ],
     "www.kenyans.live": [
@@ -1457,34 +1457,34 @@
    }
   },
   "2026-11-02": {
-   "total": 100,
-   "news": 99,
+   "total": 137,
+   "news": 136,
    "articles": 1,
    "positive": 0,
-   "neutral": 100,
+   "neutral": 137,
    "critical": 0,
-   "mbs": 1,
+   "mbs": 3,
    "countries": {
-    "GB": 19,
-    "US": 25,
-    "SA": 8,
+    "GB": 31,
+    "US": 34,
+    "SA": 15,
     "HK": 3,
-    "FR": 3,
+    "FR": 4,
     "JP": 1
    },
    "topics": {},
    "sources": {
     "Cageside Seats": 1,
-    "The Guardian": 7,
-    "Financial Times": 7,
-    "Al-Monitor": 4,
+    "The Guardian": 11,
+    "Financial Times": 11,
+    "Al-Monitor": 8,
     "AP News": 4,
-    "Bloomberg": 6,
+    "Bloomberg": 10,
     "Mehr News Agency": 2,
-    "Arab News": 6,
+    "Arab News": 10,
     "The Washington Post": 2,
-    "وكالة الأنباء السعودية": 1,
-    "WSJ": 4,
+    "وكالة الأنباء السعودية": 2,
+    "WSJ": 5,
     "TNGlobal": 1,
     "Facebook": 2,
     "Breakingthenews.net": 1,
@@ -1516,19 +1516,25 @@
     "The New York Times": 5,
     "Ship & Bunker": 1,
     "ChemNet News": 1,
-    "Saudi Gazette": 3,
+    "Saudi Gazette": 6,
     "South China Morning Post": 3,
-    "Reuters": 3,
+    "Reuters": 7,
     "France 24": 1,
     "CNN": 1,
     "New Telegraph": 1,
     "Nikkei Asia": 1,
     "BBC": 1,
-    "Le Monde.fr": 2,
+    "Le Monde.fr": 3,
     "The Economist": 1,
     "The Media Line": 1,
-    "Nigerian Bulletin": 1,
-    "The New Arab": 1
+    "Nigerian Bulletin": 2,
+    "The New Arab": 1,
+    "Investing.com": 1,
+    "Sportstar": 1,
+    "Fana News -": 1,
+    "PM News Nigeria": 1,
+    "the-decoder.com": 1,
+    "Peoples Gazette Nigeria": 1
    },
    "sourceTone": {
     "Cageside Seats": [
@@ -1538,17 +1544,17 @@
     ],
     "The Guardian": [
      0,
-     7,
+     11,
      0
     ],
     "Financial Times": [
      0,
-     7,
+     11,
      0
     ],
     "Al-Monitor": [
      0,
-     4,
+     8,
      0
     ],
     "AP News": [
@@ -1558,7 +1564,7 @@
     ],
     "Bloomberg": [
      0,
-     6,
+     10,
      0
     ],
     "Mehr News Agency": [
@@ -1568,7 +1574,7 @@
     ],
     "Arab News": [
      0,
-     6,
+     10,
      0
     ],
     "The Washington Post": [
@@ -1578,12 +1584,12 @@
     ],
     "وكالة الأنباء السعودية": [
      0,
-     1,
+     2,
      0
     ],
     "WSJ": [
      0,
-     4,
+     5,
      0
     ],
     "TNGlobal": [
@@ -1743,7 +1749,7 @@
     ],
     "Saudi Gazette": [
      0,
-     3,
+     6,
      0
     ],
     "South China Morning Post": [
@@ -1753,7 +1759,7 @@
     ],
     "Reuters": [
      0,
-     3,
+     7,
      0
     ],
     "France 24": [
@@ -1783,7 +1789,7 @@
     ],
     "Le Monde.fr": [
      0,
-     2,
+     3,
      0
     ],
     "The Economist": [
@@ -1798,10 +1804,40 @@
     ],
     "Nigerian Bulletin": [
      0,
-     1,
+     2,
      0
     ],
     "The New Arab": [
+     0,
+     1,
+     0
+    ],
+    "Investing.com": [
+     0,
+     1,
+     0
+    ],
+    "Sportstar": [
+     0,
+     1,
+     0
+    ],
+    "Fana News -": [
+     0,
+     1,
+     0
+    ],
+    "PM News Nigeria": [
+     0,
+     1,
+     0
+    ],
+    "the-decoder.com": [
+     0,
+     1,
+     0
+    ],
+    "Peoples Gazette Nigeria": [
      0,
      1,
      0
