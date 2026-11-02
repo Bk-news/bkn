@@ -565,11 +565,11 @@
    }
   },
   "2026-11-01": {
-   "total": 417,
-   "news": 415,
+   "total": 418,
+   "news": 416,
    "articles": 2,
    "positive": 0,
-   "neutral": 417,
+   "neutral": 418,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -725,7 +725,8 @@
     "PJ Media": 1,
     "Chosunbiz": 1,
     "Critical Threats": 1,
-    "Wrestling Inc.": 1
+    "Wrestling Inc.": 1,
+    "TrueNicks": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -1447,15 +1448,20 @@
      0,
      1,
      0
+    ],
+    "TrueNicks": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-02": {
-   "total": 41,
-   "news": 41,
+   "total": 43,
+   "news": 43,
    "articles": 0,
    "positive": 0,
-   "neutral": 41,
+   "neutral": 43,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -1477,7 +1483,7 @@
     "وكالة الأنباء السعودية": 1,
     "WSJ": 1,
     "TNGlobal": 1,
-    "Facebook": 1,
+    "Facebook": 2,
     "Breakingthenews.net": 1,
     "Middle East Eye": 1,
     "Punch Newspapers": 1,
@@ -1496,7 +1502,8 @@
     "The Insight International": 1,
     "Quwa": 1,
     "Telangana Today": 1,
-    "巴士的報": 1
+    "巴士的報": 1,
+    "WION": 1
    },
    "sourceTone": {
     "Cageside Seats": [
@@ -1561,7 +1568,7 @@
     ],
     "Facebook": [
      0,
-     1,
+     2,
      0
     ],
     "Breakingthenews.net": [
@@ -1655,6 +1662,11 @@
      0
     ],
     "巴士的報": [
+     0,
+     1,
+     0
+    ],
+    "WION": [
      0,
      1,
      0
