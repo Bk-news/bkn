@@ -1463,16 +1463,16 @@
    }
   },
   "2026-11-02": {
-   "total": 292,
-   "news": 291,
+   "total": 293,
+   "news": 292,
    "articles": 1,
    "positive": 0,
-   "neutral": 292,
+   "neutral": 293,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "GB": 70,
-    "US": 44,
+    "US": 45,
     "SA": 31,
     "HK": 3,
     "FR": 5,
@@ -1519,7 +1519,7 @@
     "Arabisk London": 1,
     "New Age BD": 1,
     "Agenda Pública": 1,
-    "The New York Times": 6,
+    "The New York Times": 7,
     "Ship & Bunker": 1,
     "ChemNet News": 1,
     "Saudi Gazette": 7,
@@ -1800,7 +1800,7 @@
     ],
     "The New York Times": [
      0,
-     6,
+     7,
      0
     ],
     "Ship & Bunker": [
