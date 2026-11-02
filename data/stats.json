@@ -565,16 +565,16 @@
    }
   },
   "2026-11-01": {
-   "total": 424,
-   "news": 422,
+   "total": 442,
+   "news": 440,
    "articles": 2,
    "positive": 0,
-   "neutral": 424,
+   "neutral": 442,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "SA": 71,
-    "GB": 91,
+    "SA": 74,
+    "GB": 106,
     "FR": 8,
     "US": 39,
     "HK": 3,
@@ -587,13 +587,13 @@
     "Saudi Gazette": 17,
     "FF News": 1,
     "BBC": 4,
-    "Reuters": 10,
+    "Reuters": 23,
     "سانا": 2,
     "Le Monde.fr": 7,
-    "Arab News": 72,
+    "Arab News": 75,
     "EA WorldView": 1,
     "Al-Monitor": 6,
-    "Financial Times": 47,
+    "Financial Times": 49,
     "WSJ": 11,
     "The Guardian": 29,
     "ASHARQ AL-AWSAT English": 13,
@@ -756,7 +756,7 @@
     ],
     "Reuters": [
      0,
-     10,
+     23,
      0
     ],
     "سانا": [
@@ -771,7 +771,7 @@
     ],
     "Arab News": [
      0,
-     72,
+     75,
      0
     ],
     "EA WorldView": [
@@ -786,7 +786,7 @@
     ],
     "Financial Times": [
      0,
-     47,
+     49,
      0
     ],
     "WSJ": [
@@ -1457,15 +1457,15 @@
    }
   },
   "2026-11-02": {
-   "total": 174,
-   "news": 173,
+   "total": 196,
+   "news": 195,
    "articles": 1,
    "positive": 0,
-   "neutral": 174,
+   "neutral": 196,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 44,
+    "GB": 47,
     "US": 39,
     "SA": 24,
     "HK": 3,
@@ -1480,7 +1480,7 @@
     "Al-Monitor": 8,
     "AP News": 4,
     "Bloomberg": 16,
-    "Mehr News Agency": 2,
+    "Mehr News Agency": 3,
     "Arab News": 18,
     "The Washington Post": 2,
     "وكالة الأنباء السعودية": 2,
@@ -1499,7 +1499,7 @@
     "ESPN": 1,
     "Meetings & Conventions Asia": 1,
     "Ekantipur": 1,
-    "The Express Tribune": 1,
+    "The Express Tribune": 2,
     "Absolute Geeks": 1,
     "Countercurrents": 1,
     "The Insight International": 1,
@@ -1513,12 +1513,12 @@
     "Arabisk London": 1,
     "New Age BD": 1,
     "Agenda Pública": 1,
-    "The New York Times": 5,
+    "The New York Times": 6,
     "Ship & Bunker": 1,
     "ChemNet News": 1,
     "Saudi Gazette": 7,
     "South China Morning Post": 3,
-    "Reuters": 15,
+    "Reuters": 18,
     "France 24": 1,
     "CNN": 1,
     "New Telegraph": 1,
@@ -1541,8 +1541,23 @@
     "ASHARQ AL-AWSAT English": 1,
     "Wamda": 1,
     "euro petrole": 1,
-    "Anadolu Ajansı": 1,
-    "Logistics Middle East": 1
+    "Anadolu Ajansı": 2,
+    "Logistics Middle East": 1,
+    "The Siasat Daily": 1,
+    "Fortify Rights": 1,
+    "شبكة تواصل الإخبارية": 1,
+    "صوت الإمارات": 1,
+    "Akin Gump Strauss Hauer & Feld LLP": 1,
+    "https://houseofsaud.com/": 1,
+    "Al Jazeera": 1,
+    "WANA News Agency": 1,
+    "AI Magazine": 1,
+    "سانا": 1,
+    "Middle East Online": 1,
+    "SpaceWatch.GLOBAL": 1,
+    "Arabian Business": 1,
+    "Yeni Şafak English": 1,
+    "Dealroom": 1
    },
    "sourceTone": {
     "Cageside Seats": [
@@ -1577,7 +1592,7 @@
     ],
     "Mehr News Agency": [
      0,
-     2,
+     3,
      0
     ],
     "Arab News": [
@@ -1672,7 +1687,7 @@
     ],
     "The Express Tribune": [
      0,
-     1,
+     2,
      0
     ],
     "Absolute Geeks": [
@@ -1742,7 +1757,7 @@
     ],
     "The New York Times": [
      0,
-     5,
+     6,
      0
     ],
     "Ship & Bunker": [
@@ -1767,7 +1782,7 @@
     ],
     "Reuters": [
      0,
-     15,
+     18,
      0
     ],
     "France 24": [
@@ -1882,10 +1897,85 @@
     ],
     "Anadolu Ajansı": [
      0,
-     1,
+     2,
      0
     ],
     "Logistics Middle East": [
+     0,
+     1,
+     0
+    ],
+    "The Siasat Daily": [
+     0,
+     1,
+     0
+    ],
+    "Fortify Rights": [
+     0,
+     1,
+     0
+    ],
+    "شبكة تواصل الإخبارية": [
+     0,
+     1,
+     0
+    ],
+    "صوت الإمارات": [
+     0,
+     1,
+     0
+    ],
+    "Akin Gump Strauss Hauer & Feld LLP": [
+     0,
+     1,
+     0
+    ],
+    "https://houseofsaud.com/": [
+     0,
+     1,
+     0
+    ],
+    "Al Jazeera": [
+     0,
+     1,
+     0
+    ],
+    "WANA News Agency": [
+     0,
+     1,
+     0
+    ],
+    "AI Magazine": [
+     0,
+     1,
+     0
+    ],
+    "سانا": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Online": [
+     0,
+     1,
+     0
+    ],
+    "SpaceWatch.GLOBAL": [
+     0,
+     1,
+     0
+    ],
+    "Arabian Business": [
+     0,
+     1,
+     0
+    ],
+    "Yeni Şafak English": [
+     0,
+     1,
+     0
+    ],
+    "Dealroom": [
      0,
      1,
      0
