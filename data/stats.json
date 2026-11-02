@@ -565,11 +565,11 @@
    }
   },
   "2026-11-01": {
-   "total": 408,
-   "news": 406,
+   "total": 409,
+   "news": 407,
    "articles": 2,
    "positive": 0,
-   "neutral": 408,
+   "neutral": 409,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -724,7 +724,8 @@
     "Raw Story": 1,
     "PJ Media": 1,
     "Chosunbiz": 1,
-    "Critical Threats": 1
+    "Critical Threats": 1,
+    "Wrestling Inc.": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -1438,6 +1439,11 @@
      0
     ],
     "Critical Threats": [
+     0,
+     1,
+     0
+    ],
+    "Wrestling Inc.": [
      0,
      1,
      0
