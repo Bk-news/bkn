@@ -565,18 +565,18 @@
    }
   },
   "2026-11-01": {
-   "total": 461,
-   "news": 459,
+   "total": 462,
+   "news": 460,
    "articles": 2,
    "positive": 0,
-   "neutral": 461,
+   "neutral": 462,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 76,
     "GB": 117,
     "FR": 8,
-    "US": 44,
+    "US": 45,
     "HK": 3,
     "DE": 1
    },
@@ -727,7 +727,8 @@
     "Critical Threats": 1,
     "Wrestling Inc.": 1,
     "TrueNicks": 1,
-    "EnterpriseAM": 1
+    "EnterpriseAM": 1,
+    "CNN": 1
    },
    "sourceTone": {
     "Daily Excelsior": [
@@ -1459,19 +1460,24 @@
      0,
      1,
      0
+    ],
+    "CNN": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-02": {
-   "total": 501,
-   "news": 498,
+   "total": 505,
+   "news": 502,
    "articles": 3,
    "positive": 0,
-   "neutral": 501,
+   "neutral": 505,
    "critical": 0,
    "mbs": 15,
    "countries": {
-    "GB": 115,
+    "GB": 119,
     "US": 93,
     "SA": 59,
     "HK": 3,
@@ -1482,8 +1488,8 @@
    "topics": {},
    "sources": {
     "Cageside Seats": 1,
-    "The Guardian": 32,
-    "Financial Times": 31,
+    "The Guardian": 33,
+    "Financial Times": 34,
     "Al-Monitor": 30,
     "AP News": 7,
     "Bloomberg": 16,
@@ -1661,12 +1667,12 @@
     ],
     "The Guardian": [
      0,
-     32,
+     33,
      0
     ],
     "Financial Times": [
      0,
-     31,
+     34,
      0
     ],
     "Al-Monitor": [
