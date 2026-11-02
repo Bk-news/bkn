@@ -159,11 +159,11 @@
    }
   },
   "2026-10-31": {
-   "total": 343,
-   "news": 341,
+   "total": 345,
+   "news": 343,
    "articles": 2,
    "positive": 0,
-   "neutral": 343,
+   "neutral": 345,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -172,7 +172,7 @@
     "HK": 4,
     "DE": 1,
     "FR": 9,
-    "GB": 147
+    "GB": 149
    },
    "topics": {},
    "sources": {
@@ -188,10 +188,10 @@
     "Al-Monitor": 17,
     "WSJ": 8,
     "BBC": 14,
-    "Reuters": 28,
+    "Reuters": 29,
     "Financial Times": 77,
     "باسنیوز": 1,
-    "The Guardian": 27,
+    "The Guardian": 28,
     "Awani International": 1,
     "Le Monde.fr": 8,
     "The Media Line": 1,
@@ -304,7 +304,7 @@
     ],
     "Reuters": [
      0,
-     28,
+     29,
      0
     ],
     "Financial Times": [
@@ -319,7 +319,7 @@
     ],
     "The Guardian": [
      0,
-     27,
+     28,
      0
     ],
     "Awani International": [
