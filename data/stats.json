@@ -1463,16 +1463,16 @@
    }
   },
   "2026-11-02": {
-   "total": 442,
-   "news": 439,
+   "total": 474,
+   "news": 471,
    "articles": 3,
    "positive": 0,
-   "neutral": 442,
+   "neutral": 474,
    "critical": 0,
-   "mbs": 11,
+   "mbs": 14,
    "countries": {
     "GB": 104,
-    "US": 92,
+    "US": 93,
     "SA": 53,
     "HK": 3,
     "FR": 8,
@@ -1484,17 +1484,17 @@
     "Cageside Seats": 1,
     "The Guardian": 31,
     "Financial Times": 21,
-    "Al-Monitor": 29,
+    "Al-Monitor": 30,
     "AP News": 7,
     "Bloomberg": 16,
     "Mehr News Agency": 4,
-    "Arab News": 52,
+    "Arab News": 54,
     "The Washington Post": 2,
     "وكالة الأنباء السعودية": 2,
     "WSJ": 23,
     "TNGlobal": 1,
     "Facebook": 2,
-    "Breakingthenews.net": 1,
+    "Breakingthenews.net": 2,
     "Middle East Eye": 5,
     "Punch Newspapers": 1,
     "TheCable": 1,
@@ -1525,7 +1525,7 @@
     "ChemNet News": 1,
     "Saudi Gazette": 10,
     "South China Morning Post": 3,
-    "Reuters": 45,
+    "Reuters": 46,
     "France 24": 3,
     "CNN": 1,
     "New Telegraph": 2,
@@ -1565,7 +1565,7 @@
     "Arabian Business": 1,
     "Yeni Şafak English": 1,
     "Dealroom": 1,
-    "Zawya": 2,
+    "Zawya": 3,
     "Naharnet": 1,
     "Arab News PK": 2,
     "Campaign Middle East": 2,
@@ -1573,7 +1573,7 @@
     "TRT World": 2,
     "Consultancy-me.com": 1,
     "Pars Today": 1,
-    "Al Arabiya English": 2,
+    "Al Arabiya English": 3,
     "Inquirer.net": 1,
     "Condé Nast Traveller Middle East": 1,
     "Rock Hill Herald": 1,
@@ -1585,15 +1585,15 @@
     "Startup Fortune": 1,
     "TradeArabia": 1,
     "SatellitePro ME": 1,
-    "UA.NEWS": 1,
+    "UA.NEWS": 2,
     "Yahoo! Finance Canada": 1,
     "BioSpace": 1,
-    "شفق نيوز": 2,
+    "شفق نيوز": 3,
     "NewsCord": 1,
     "Responsible Statecraft": 1,
     "The Maritime Executive": 1,
     "The National": 1,
-    "The Times of Israel": 1,
+    "The Times of Israel": 2,
     "Gulf Times": 2,
     "Nepalnews.com": 1,
     "Mining.com.au": 1,
@@ -1603,7 +1603,7 @@
     "Investing.com India": 1,
     "www.marketscreener.com": 1,
     "Instagram": 1,
-    "The Jerusalem Post": 1,
+    "The Jerusalem Post": 2,
     "JFeed": 1,
     "Bloomberg.com": 6,
     "Spiegel": 1,
@@ -1625,7 +1625,28 @@
     "Arise News": 1,
     "TheStar": 1,
     "MTV Lebanon": 1,
-    "RideApart.com": 1
+    "RideApart.com": 1,
+    "GamesIndustry.biz": 1,
+    "Pulse Nigeria": 1,
+    "Goal.com": 1,
+    "Wrestling Inc.": 1,
+    "The National Interest": 1,
+    "EIN News": 1,
+    "Crude Oil Prices Today | OilPrice.com": 1,
+    "Xinhua": 1,
+    "thecradle.co": 1,
+    "Sports Illustrated": 1,
+    "Free Malaysia Today": 1,
+    "Capital FM Africa": 1,
+    "CGTN": 1,
+    "IranWire": 1,
+    "The Arab Weekly": 1,
+    "صحيفة مال": 1,
+    "Inspenet": 1,
+    "Shots": 1,
+    "Semafor": 1,
+    "Australia Saudi Business Forum": 1,
+    "energynews.pro": 1
    },
    "sourceTone": {
     "Cageside Seats": [
@@ -1645,7 +1666,7 @@
     ],
     "Al-Monitor": [
      0,
-     29,
+     30,
      0
     ],
     "AP News": [
@@ -1665,7 +1686,7 @@
     ],
     "Arab News": [
      0,
-     52,
+     54,
      0
     ],
     "The Washington Post": [
@@ -1695,7 +1716,7 @@
     ],
     "Breakingthenews.net": [
      0,
-     1,
+     2,
      0
     ],
     "Middle East Eye": [
@@ -1850,7 +1871,7 @@
     ],
     "Reuters": [
      0,
-     45,
+     46,
      0
     ],
     "France 24": [
@@ -2050,7 +2071,7 @@
     ],
     "Zawya": [
      0,
-     2,
+     3,
      0
     ],
     "Naharnet": [
@@ -2090,7 +2111,7 @@
     ],
     "Al Arabiya English": [
      0,
-     2,
+     3,
      0
     ],
     "Inquirer.net": [
@@ -2150,7 +2171,7 @@
     ],
     "UA.NEWS": [
      0,
-     1,
+     2,
      0
     ],
     "Yahoo! Finance Canada": [
@@ -2165,7 +2186,7 @@
     ],
     "شفق نيوز": [
      0,
-     2,
+     3,
      0
     ],
     "NewsCord": [
@@ -2190,7 +2211,7 @@
     ],
     "The Times of Israel": [
      0,
-     1,
+     2,
      0
     ],
     "Gulf Times": [
@@ -2240,7 +2261,7 @@
     ],
     "The Jerusalem Post": [
      0,
-     1,
+     2,
      0
     ],
     "JFeed": [
@@ -2349,6 +2370,111 @@
      0
     ],
     "RideApart.com": [
+     0,
+     1,
+     0
+    ],
+    "GamesIndustry.biz": [
+     0,
+     1,
+     0
+    ],
+    "Pulse Nigeria": [
+     0,
+     1,
+     0
+    ],
+    "Goal.com": [
+     0,
+     1,
+     0
+    ],
+    "Wrestling Inc.": [
+     0,
+     1,
+     0
+    ],
+    "The National Interest": [
+     0,
+     1,
+     0
+    ],
+    "EIN News": [
+     0,
+     1,
+     0
+    ],
+    "Crude Oil Prices Today | OilPrice.com": [
+     0,
+     1,
+     0
+    ],
+    "Xinhua": [
+     0,
+     1,
+     0
+    ],
+    "thecradle.co": [
+     0,
+     1,
+     0
+    ],
+    "Sports Illustrated": [
+     0,
+     1,
+     0
+    ],
+    "Free Malaysia Today": [
+     0,
+     1,
+     0
+    ],
+    "Capital FM Africa": [
+     0,
+     1,
+     0
+    ],
+    "CGTN": [
+     0,
+     1,
+     0
+    ],
+    "IranWire": [
+     0,
+     1,
+     0
+    ],
+    "The Arab Weekly": [
+     0,
+     1,
+     0
+    ],
+    "صحيفة مال": [
+     0,
+     1,
+     0
+    ],
+    "Inspenet": [
+     0,
+     1,
+     0
+    ],
+    "Shots": [
+     0,
+     1,
+     0
+    ],
+    "Semafor": [
+     0,
+     1,
+     0
+    ],
+    "Australia Saudi Business Forum": [
+     0,
+     1,
+     0
+    ],
+    "energynews.pro": [
      0,
      1,
      0
