@@ -159,11 +159,11 @@
    }
   },
   "2026-10-31": {
-   "total": 330,
-   "news": 328,
+   "total": 331,
+   "news": 329,
    "articles": 2,
    "positive": 0,
-   "neutral": 330,
+   "neutral": 331,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -172,7 +172,7 @@
     "HK": 4,
     "DE": 1,
     "FR": 9,
-    "GB": 137
+    "GB": 138
    },
    "topics": {},
    "sources": {
@@ -189,7 +189,7 @@
     "WSJ": 8,
     "BBC": 14,
     "Reuters": 24,
-    "Financial Times": 75,
+    "Financial Times": 76,
     "باسنیوز": 1,
     "The Guardian": 23,
     "Awani International": 1,
@@ -309,7 +309,7 @@
     ],
     "Financial Times": [
      0,
-     75,
+     76,
      0
     ],
     "باسنیوز": [
@@ -565,15 +565,15 @@
    }
   },
   "2026-11-01": {
-   "total": 397,
-   "news": 395,
+   "total": 399,
+   "news": 397,
    "articles": 2,
    "positive": 0,
-   "neutral": 397,
+   "neutral": 399,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "SA": 64,
+    "SA": 65,
     "GB": 82,
     "FR": 8,
     "US": 35,
@@ -590,7 +590,7 @@
     "Reuters": 8,
     "سانا": 2,
     "Le Monde.fr": 7,
-    "Arab News": 66,
+    "Arab News": 67,
     "EA WorldView": 1,
     "Al-Monitor": 5,
     "Financial Times": 45,
@@ -669,7 +669,7 @@
     "TRT Afrika": 1,
     "Mehr News Agency": 1,
     "Bangladesh Sangbad Sangstha (BSS)": 2,
-    "IndexBox": 1,
+    "IndexBox": 2,
     "X": 1,
     "The New York Times": 3,
     "www.kenyans.live": 1,
@@ -766,7 +766,7 @@
     ],
     "Arab News": [
      0,
-     66,
+     67,
      0
     ],
     "EA WorldView": [
@@ -1161,7 +1161,7 @@
     ],
     "IndexBox": [
      0,
-     1,
+     2,
      0
     ],
     "X": [
