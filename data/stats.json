@@ -1457,17 +1457,17 @@
    }
   },
   "2026-11-02": {
-   "total": 47,
-   "news": 47,
+   "total": 49,
+   "news": 49,
    "articles": 0,
    "positive": 0,
-   "neutral": 47,
+   "neutral": 49,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "GB": 6,
     "US": 8,
-    "SA": 3
+    "SA": 4
    },
    "topics": {},
    "sources": {
@@ -1478,7 +1478,7 @@
     "AP News": 2,
     "Bloomberg": 2,
     "Mehr News Agency": 2,
-    "Arab News": 3,
+    "Arab News": 4,
     "The Washington Post": 1,
     "وكالة الأنباء السعودية": 1,
     "WSJ": 1,
@@ -1506,7 +1506,8 @@
     "WION": 1,
     "Seatrade Maritime News": 1,
     "Khaama Press": 1,
-    "Mitrade": 1
+    "Mitrade": 1,
+    "Arabisk London": 1
    },
    "sourceTone": {
     "Cageside Seats": [
@@ -1546,7 +1547,7 @@
     ],
     "Arab News": [
      0,
-     3,
+     4,
      0
     ],
     "The Washington Post": [
@@ -1685,6 +1686,11 @@
      0
     ],
     "Mitrade": [
+     0,
+     1,
+     0
+    ],
+    "Arabisk London": [
      0,
      1,
      0
