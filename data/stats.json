@@ -159,15 +159,15 @@
    }
   },
   "2026-10-31": {
-   "total": 336,
-   "news": 334,
+   "total": 338,
+   "news": 336,
    "articles": 2,
    "positive": 0,
-   "neutral": 336,
+   "neutral": 338,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "SA": 64,
+    "SA": 66,
     "US": 53,
     "HK": 4,
     "DE": 1,
@@ -197,7 +197,7 @@
     "The Media Line": 1,
     "Daily Sabah": 1,
     "Addis Standard": 1,
-    "Arab News": 60,
+    "Arab News": 62,
     "The Korea Times": 1,
     "Diario AS": 1,
     "Athens Daily Review": 2,
@@ -349,7 +349,7 @@
     ],
     "Arab News": [
      0,
-     60,
+     62,
      0
     ],
     "The Korea Times": [
@@ -565,15 +565,15 @@
    }
   },
   "2026-11-01": {
-   "total": 403,
-   "news": 401,
+   "total": 406,
+   "news": 404,
    "articles": 2,
    "positive": 0,
-   "neutral": 403,
+   "neutral": 406,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "SA": 65,
+    "SA": 68,
     "GB": 83,
     "FR": 8,
     "US": 35,
@@ -590,7 +590,7 @@
     "Reuters": 8,
     "سانا": 2,
     "Le Monde.fr": 7,
-    "Arab News": 67,
+    "Arab News": 70,
     "EA WorldView": 1,
     "Al-Monitor": 5,
     "Financial Times": 45,
@@ -769,7 +769,7 @@
     ],
     "Arab News": [
      0,
-     67,
+     70,
      0
     ],
     "EA WorldView": [
