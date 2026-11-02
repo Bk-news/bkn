@@ -1469,11 +1469,11 @@
    }
   },
   "2026-11-02": {
-   "total": 537,
-   "news": 533,
+   "total": 544,
+   "news": 540,
    "articles": 4,
    "positive": 0,
-   "neutral": 537,
+   "neutral": 544,
    "critical": 0,
    "mbs": 16,
    "countries": {
@@ -1615,7 +1615,7 @@
     "Spiegel": 1,
     "Atlantic Council": 2,
     "Daily Times": 1,
-    "News of Bahrain": 2,
+    "News of Bahrain": 7,
     "Channels Television": 1,
     "Vanguard News": 3,
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
@@ -1661,7 +1661,9 @@
     "Foreign Policy": 1,
     "White & Case LLP": 1,
     "Palestine Chronicle": 1,
-    "NPR": 1
+    "NPR": 1,
+    "Apa.az": 1,
+    "Business Insider Africa": 1
    },
    "sourceTone": {
     "Cageside Seats": [
@@ -2306,7 +2308,7 @@
     ],
     "News of Bahrain": [
      0,
-     2,
+     7,
      0
     ],
     "Channels Television": [
@@ -2535,6 +2537,16 @@
      0
     ],
     "NPR": [
+     0,
+     1,
+     0
+    ],
+    "Apa.az": [
+     0,
+     1,
+     0
+    ],
+    "Business Insider Africa": [
      0,
      1,
      0
