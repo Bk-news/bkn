@@ -565,16 +565,16 @@
    }
   },
   "2026-11-01": {
-   "total": 418,
-   "news": 416,
+   "total": 419,
+   "news": 417,
    "articles": 2,
    "positive": 0,
-   "neutral": 418,
+   "neutral": 419,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 70,
-    "GB": 89,
+    "GB": 90,
     "FR": 8,
     "US": 36,
     "HK": 3,
@@ -595,7 +595,7 @@
     "Al-Monitor": 5,
     "Financial Times": 47,
     "WSJ": 10,
-    "The Guardian": 27,
+    "The Guardian": 28,
     "ASHARQ AL-AWSAT English": 13,
     "Daily Sabah": 2,
     "بوابة التكنولوجيا المالية": 1,
@@ -796,7 +796,7 @@
     ],
     "The Guardian": [
      0,
-     27,
+     28,
      0
     ],
     "ASHARQ AL-AWSAT English": [
@@ -1457,16 +1457,16 @@
    }
   },
   "2026-11-02": {
-   "total": 51,
-   "news": 51,
+   "total": 53,
+   "news": 53,
    "articles": 0,
    "positive": 0,
-   "neutral": 51,
+   "neutral": 53,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "GB": 6,
-    "US": 8,
+    "US": 10,
     "SA": 4
    },
    "topics": {},
@@ -1509,7 +1509,8 @@
     "Mitrade": 1,
     "Arabisk London": 1,
     "New Age BD": 1,
-    "Agenda Pública": 1
+    "Agenda Pública": 1,
+    "The New York Times": 2
    },
    "sourceTone": {
     "Cageside Seats": [
@@ -1705,6 +1706,11 @@
     "Agenda Pública": [
      0,
      1,
+     0
+    ],
+    "The New York Times": [
+     0,
+     2,
      0
     ]
    }
