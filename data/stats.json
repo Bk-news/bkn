@@ -565,16 +565,16 @@
    }
   },
   "2026-11-01": {
-   "total": 412,
-   "news": 410,
+   "total": 415,
+   "news": 413,
    "articles": 2,
    "positive": 0,
-   "neutral": 412,
+   "neutral": 415,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 69,
-    "GB": 85,
+    "GB": 88,
     "FR": 8,
     "US": 36,
     "HK": 3,
@@ -587,13 +587,13 @@
     "Saudi Gazette": 17,
     "FF News": 1,
     "BBC": 4,
-    "Reuters": 9,
+    "Reuters": 10,
     "سانا": 2,
     "Le Monde.fr": 7,
     "Arab News": 70,
     "EA WorldView": 1,
     "Al-Monitor": 5,
-    "Financial Times": 45,
+    "Financial Times": 47,
     "WSJ": 10,
     "The Guardian": 26,
     "ASHARQ AL-AWSAT English": 13,
@@ -755,7 +755,7 @@
     ],
     "Reuters": [
      0,
-     9,
+     10,
      0
     ],
     "سانا": [
@@ -785,7 +785,7 @@
     ],
     "Financial Times": [
      0,
-     45,
+     47,
      0
     ],
     "WSJ": [
@@ -1451,16 +1451,16 @@
    }
   },
   "2026-11-02": {
-   "total": 30,
-   "news": 30,
+   "total": 34,
+   "news": 34,
    "articles": 0,
    "positive": 0,
-   "neutral": 30,
+   "neutral": 34,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "GB": 4,
-    "US": 7,
+    "US": 8,
     "SA": 2
    },
    "topics": {},
@@ -1469,7 +1469,7 @@
     "The Guardian": 3,
     "Financial Times": 1,
     "Al-Monitor": 2,
-    "AP News": 1,
+    "AP News": 2,
     "Bloomberg": 2,
     "Mehr News Agency": 2,
     "Arab News": 2,
@@ -1488,7 +1488,10 @@
     "Devdiscourse": 1,
     "Eurasia Review": 1,
     "ESPN": 1,
-    "Meetings & Conventions Asia": 1
+    "Meetings & Conventions Asia": 1,
+    "Ekantipur": 1,
+    "The Express Tribune": 1,
+    "Absolute Geeks": 1
    },
    "sourceTone": {
     "Cageside Seats": [
@@ -1513,7 +1516,7 @@
     ],
     "AP News": [
      0,
-     1,
+     2,
      0
     ],
     "Bloomberg": [
@@ -1607,6 +1610,21 @@
      0
     ],
     "Meetings & Conventions Asia": [
+     0,
+     1,
+     0
+    ],
+    "Ekantipur": [
+     0,
+     1,
+     0
+    ],
+    "The Express Tribune": [
+     0,
+     1,
+     0
+    ],
+    "Absolute Geeks": [
      0,
      1,
      0
