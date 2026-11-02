@@ -1463,15 +1463,15 @@
    }
   },
   "2026-11-02": {
-   "total": 263,
-   "news": 262,
+   "total": 264,
+   "news": 263,
    "articles": 1,
    "positive": 0,
-   "neutral": 263,
+   "neutral": 264,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 56,
+    "GB": 57,
     "US": 40,
     "SA": 28,
     "HK": 3,
@@ -1524,7 +1524,7 @@
     "ChemNet News": 1,
     "Saudi Gazette": 7,
     "South China Morning Post": 3,
-    "Reuters": 26,
+    "Reuters": 27,
     "France 24": 1,
     "CNN": 1,
     "New Telegraph": 1,
@@ -1822,7 +1822,7 @@
     ],
     "Reuters": [
      0,
-     26,
+     27,
      0
     ],
     "France 24": [
