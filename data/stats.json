@@ -159,11 +159,11 @@
    }
   },
   "2026-10-31": {
-   "total": 339,
-   "news": 337,
+   "total": 340,
+   "news": 338,
    "articles": 2,
    "positive": 0,
-   "neutral": 339,
+   "neutral": 340,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -172,7 +172,7 @@
     "HK": 4,
     "DE": 1,
     "FR": 9,
-    "GB": 143
+    "GB": 144
    },
    "topics": {},
    "sources": {
@@ -189,7 +189,7 @@
     "WSJ": 8,
     "BBC": 14,
     "Reuters": 26,
-    "Financial Times": 76,
+    "Financial Times": 77,
     "باسنیوز": 1,
     "The Guardian": 26,
     "Awani International": 1,
@@ -309,7 +309,7 @@
     ],
     "Financial Times": [
      0,
-     76,
+     77,
      0
     ],
     "باسنیوز": [
@@ -1451,21 +1451,23 @@
    }
   },
   "2026-11-02": {
-   "total": 4,
-   "news": 4,
+   "total": 5,
+   "news": 5,
    "articles": 0,
    "positive": 0,
-   "neutral": 4,
+   "neutral": 5,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 3
+    "GB": 3,
+    "US": 1
    },
    "topics": {},
    "sources": {
     "Cageside Seats": 1,
     "The Guardian": 2,
-    "Financial Times": 1
+    "Financial Times": 1,
+    "Al-Monitor": 1
    },
    "sourceTone": {
     "Cageside Seats": [
@@ -1479,6 +1481,11 @@
      0
     ],
     "Financial Times": [
+     0,
+     1,
+     0
+    ],
+    "Al-Monitor": [
      0,
      1,
      0
