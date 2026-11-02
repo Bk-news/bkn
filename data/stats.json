@@ -1451,11 +1451,11 @@
    }
   },
   "2026-11-02": {
-   "total": 34,
-   "news": 34,
+   "total": 37,
+   "news": 37,
    "articles": 0,
    "positive": 0,
-   "neutral": 34,
+   "neutral": 37,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -1491,7 +1491,10 @@
     "Meetings & Conventions Asia": 1,
     "Ekantipur": 1,
     "The Express Tribune": 1,
-    "Absolute Geeks": 1
+    "Absolute Geeks": 1,
+    "Countercurrents": 1,
+    "The Insight International": 1,
+    "Quwa": 1
    },
    "sourceTone": {
     "Cageside Seats": [
@@ -1625,6 +1628,21 @@
      0
     ],
     "Absolute Geeks": [
+     0,
+     1,
+     0
+    ],
+    "Countercurrents": [
+     0,
+     1,
+     0
+    ],
+    "The Insight International": [
+     0,
+     1,
+     0
+    ],
+    "Quwa": [
      0,
      1,
      0
