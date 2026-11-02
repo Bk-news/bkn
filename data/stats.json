@@ -24,15 +24,15 @@
    }
   },
   "2026-10-30": {
-   "total": 189,
-   "news": 186,
+   "total": 190,
+   "news": 187,
    "articles": 3,
    "positive": 0,
-   "neutral": 189,
+   "neutral": 190,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "US": 64,
+    "US": 65,
     "FR": 7,
     "HK": 3,
     "GB": 71,
@@ -49,7 +49,7 @@
     "AP News": 7,
     "WSJ": 9,
     "Financial Times": 21,
-    "The New York Times": 10,
+    "The New York Times": 11,
     "Le Monde.fr": 5,
     "Bloomberg.com": 7,
     "Reuters": 23,
@@ -108,7 +108,7 @@
     ],
     "The New York Times": [
      0,
-     10,
+     11,
      0
     ],
     "Le Monde.fr": [
@@ -159,11 +159,11 @@
    }
   },
   "2026-10-31": {
-   "total": 335,
-   "news": 333,
+   "total": 336,
+   "news": 334,
    "articles": 2,
    "positive": 0,
-   "neutral": 335,
+   "neutral": 336,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -172,7 +172,7 @@
     "HK": 4,
     "DE": 1,
     "FR": 9,
-    "GB": 141
+    "GB": 142
    },
    "topics": {},
    "sources": {
@@ -188,7 +188,7 @@
     "Al-Monitor": 17,
     "WSJ": 8,
     "BBC": 14,
-    "Reuters": 25,
+    "Reuters": 26,
     "Financial Times": 76,
     "باسنیوز": 1,
     "The Guardian": 25,
@@ -304,7 +304,7 @@
     ],
     "Reuters": [
      0,
-     25,
+     26,
      0
     ],
     "Financial Times": [
