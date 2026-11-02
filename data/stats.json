@@ -1457,31 +1457,34 @@
    }
   },
   "2026-11-02": {
-   "total": 60,
-   "news": 60,
-   "articles": 0,
+   "total": 100,
+   "news": 99,
+   "articles": 1,
    "positive": 0,
-   "neutral": 60,
+   "neutral": 100,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 8,
-    "US": 12,
-    "SA": 4
+    "GB": 19,
+    "US": 25,
+    "SA": 8,
+    "HK": 3,
+    "FR": 3,
+    "JP": 1
    },
    "topics": {},
    "sources": {
     "Cageside Seats": 1,
-    "The Guardian": 4,
-    "Financial Times": 4,
-    "Al-Monitor": 2,
-    "AP News": 3,
-    "Bloomberg": 2,
+    "The Guardian": 7,
+    "Financial Times": 7,
+    "Al-Monitor": 4,
+    "AP News": 4,
+    "Bloomberg": 6,
     "Mehr News Agency": 2,
-    "Arab News": 4,
-    "The Washington Post": 1,
+    "Arab News": 6,
+    "The Washington Post": 2,
     "وكالة الأنباء السعودية": 1,
-    "WSJ": 1,
+    "WSJ": 4,
     "TNGlobal": 1,
     "Facebook": 2,
     "Breakingthenews.net": 1,
@@ -1510,10 +1513,22 @@
     "Arabisk London": 1,
     "New Age BD": 1,
     "Agenda Pública": 1,
-    "The New York Times": 3,
+    "The New York Times": 5,
     "Ship & Bunker": 1,
     "ChemNet News": 1,
-    "Saudi Gazette": 1
+    "Saudi Gazette": 3,
+    "South China Morning Post": 3,
+    "Reuters": 3,
+    "France 24": 1,
+    "CNN": 1,
+    "New Telegraph": 1,
+    "Nikkei Asia": 1,
+    "BBC": 1,
+    "Le Monde.fr": 2,
+    "The Economist": 1,
+    "The Media Line": 1,
+    "Nigerian Bulletin": 1,
+    "The New Arab": 1
    },
    "sourceTone": {
     "Cageside Seats": [
@@ -1523,27 +1538,27 @@
     ],
     "The Guardian": [
      0,
-     4,
+     7,
      0
     ],
     "Financial Times": [
      0,
-     4,
+     7,
      0
     ],
     "Al-Monitor": [
      0,
-     2,
+     4,
      0
     ],
     "AP News": [
      0,
-     3,
+     4,
      0
     ],
     "Bloomberg": [
      0,
-     2,
+     6,
      0
     ],
     "Mehr News Agency": [
@@ -1553,12 +1568,12 @@
     ],
     "Arab News": [
      0,
-     4,
+     6,
      0
     ],
     "The Washington Post": [
      0,
-     1,
+     2,
      0
     ],
     "وكالة الأنباء السعودية": [
@@ -1568,7 +1583,7 @@
     ],
     "WSJ": [
      0,
-     1,
+     4,
      0
     ],
     "TNGlobal": [
@@ -1713,7 +1728,7 @@
     ],
     "The New York Times": [
      0,
-     3,
+     5,
      0
     ],
     "Ship & Bunker": [
@@ -1727,6 +1742,66 @@
      0
     ],
     "Saudi Gazette": [
+     0,
+     3,
+     0
+    ],
+    "South China Morning Post": [
+     0,
+     3,
+     0
+    ],
+    "Reuters": [
+     0,
+     3,
+     0
+    ],
+    "France 24": [
+     0,
+     1,
+     0
+    ],
+    "CNN": [
+     0,
+     1,
+     0
+    ],
+    "New Telegraph": [
+     0,
+     1,
+     0
+    ],
+    "Nikkei Asia": [
+     0,
+     1,
+     0
+    ],
+    "BBC": [
+     0,
+     1,
+     0
+    ],
+    "Le Monde.fr": [
+     0,
+     2,
+     0
+    ],
+    "The Economist": [
+     0,
+     1,
+     0
+    ],
+    "The Media Line": [
+     0,
+     1,
+     0
+    ],
+    "Nigerian Bulletin": [
+     0,
+     1,
+     0
+    ],
+    "The New Arab": [
      0,
      1,
      0
