@@ -1463,17 +1463,17 @@
    }
   },
   "2026-11-02": {
-   "total": 484,
-   "news": 481,
+   "total": 501,
+   "news": 498,
    "articles": 3,
    "positive": 0,
-   "neutral": 484,
+   "neutral": 501,
    "critical": 0,
-   "mbs": 14,
+   "mbs": 15,
    "countries": {
-    "GB": 113,
+    "GB": 115,
     "US": 93,
-    "SA": 54,
+    "SA": 59,
     "HK": 3,
     "FR": 8,
     "JP": 1,
@@ -1482,13 +1482,13 @@
    "topics": {},
    "sources": {
     "Cageside Seats": 1,
-    "The Guardian": 31,
-    "Financial Times": 30,
+    "The Guardian": 32,
+    "Financial Times": 31,
     "Al-Monitor": 30,
     "AP News": 7,
     "Bloomberg": 16,
-    "Mehr News Agency": 4,
-    "Arab News": 55,
+    "Mehr News Agency": 5,
+    "Arab News": 60,
     "The Washington Post": 2,
     "وكالة الأنباء السعودية": 2,
     "WSJ": 23,
@@ -1555,7 +1555,7 @@
     "شبكة تواصل الإخبارية": 2,
     "صوت الإمارات": 2,
     "Akin Gump Strauss Hauer & Feld LLP": 1,
-    "https://houseofsaud.com/": 4,
+    "https://houseofsaud.com/": 5,
     "Al Jazeera": 1,
     "WANA News Agency": 1,
     "AI Magazine": 1,
@@ -1573,7 +1573,7 @@
     "TRT World": 2,
     "Consultancy-me.com": 1,
     "Pars Today": 1,
-    "Al Arabiya English": 3,
+    "Al Arabiya English": 4,
     "Inquirer.net": 1,
     "Condé Nast Traveller Middle East": 1,
     "Rock Hill Herald": 1,
@@ -1596,7 +1596,7 @@
     "The Times of Israel": 2,
     "Gulf Times": 2,
     "Nepalnews.com": 1,
-    "Mining.com.au": 1,
+    "Mining.com.au": 2,
     "Arabian Gulf Business Insight | AGBI": 1,
     "NDTV": 2,
     "Western Post": 1,
@@ -1646,7 +1646,12 @@
     "Shots": 1,
     "Semafor": 1,
     "Australia Saudi Business Forum": 1,
-    "energynews.pro": 1
+    "energynews.pro": 1,
+    "Real Broadcasting Network": 2,
+    "Travel Trade Journal": 1,
+    "Middle East Monitor": 1,
+    "World BEYOND War": 1,
+    "remio": 1
    },
    "sourceTone": {
     "Cageside Seats": [
@@ -1656,12 +1661,12 @@
     ],
     "The Guardian": [
      0,
-     31,
+     32,
      0
     ],
     "Financial Times": [
      0,
-     30,
+     31,
      0
     ],
     "Al-Monitor": [
@@ -1681,12 +1686,12 @@
     ],
     "Mehr News Agency": [
      0,
-     4,
+     5,
      0
     ],
     "Arab News": [
      0,
-     55,
+     60,
      0
     ],
     "The Washington Post": [
@@ -2021,7 +2026,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     4,
+     5,
      0
     ],
     "Al Jazeera": [
@@ -2111,7 +2116,7 @@
     ],
     "Al Arabiya English": [
      0,
-     3,
+     4,
      0
     ],
     "Inquirer.net": [
@@ -2226,7 +2231,7 @@
     ],
     "Mining.com.au": [
      0,
-     1,
+     2,
      0
     ],
     "Arabian Gulf Business Insight | AGBI": [
@@ -2475,6 +2480,31 @@
      0
     ],
     "energynews.pro": [
+     0,
+     1,
+     0
+    ],
+    "Real Broadcasting Network": [
+     0,
+     2,
+     0
+    ],
+    "Travel Trade Journal": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Monitor": [
+     0,
+     1,
+     0
+    ],
+    "World BEYOND War": [
+     0,
+     1,
+     0
+    ],
+    "remio": [
      0,
      1,
      0
