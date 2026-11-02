@@ -1457,11 +1457,11 @@
    }
   },
   "2026-11-02": {
-   "total": 53,
-   "news": 53,
+   "total": 55,
+   "news": 55,
    "articles": 0,
    "positive": 0,
-   "neutral": 53,
+   "neutral": 55,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -1510,7 +1510,9 @@
     "Arabisk London": 1,
     "New Age BD": 1,
     "Agenda Pública": 1,
-    "The New York Times": 2
+    "The New York Times": 2,
+    "Ship & Bunker": 1,
+    "ChemNet News": 1
    },
    "sourceTone": {
     "Cageside Seats": [
@@ -1711,6 +1713,16 @@
     "The New York Times": [
      0,
      2,
+     0
+    ],
+    "Ship & Bunker": [
+     0,
+     1,
+     0
+    ],
+    "ChemNet News": [
+     0,
+     1,
      0
     ]
    }
