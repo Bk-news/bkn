@@ -1445,20 +1445,20 @@
    }
   },
   "2026-11-02": {
-   "total": 2,
-   "news": 2,
+   "total": 3,
+   "news": 3,
    "articles": 0,
    "positive": 0,
-   "neutral": 2,
+   "neutral": 3,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 1
+    "GB": 2
    },
    "topics": {},
    "sources": {
     "Cageside Seats": 1,
-    "The Guardian": 1
+    "The Guardian": 2
    },
    "sourceTone": {
     "Cageside Seats": [
@@ -1468,7 +1468,7 @@
     ],
     "The Guardian": [
      0,
-     1,
+     2,
      0
     ]
    }
