@@ -2596,15 +2596,15 @@
    }
   },
   "2026-11-03": {
-   "total": 328,
-   "news": 323,
+   "total": 329,
+   "news": 324,
    "articles": 5,
    "positive": 0,
-   "neutral": 328,
+   "neutral": 329,
    "critical": 0,
    "mbs": 6,
    "countries": {
-    "US": 78,
+    "US": 79,
     "GB": 83,
     "HK": 4,
     "FR": 3,
@@ -2652,7 +2652,7 @@
     "Spiegel": 3,
     "Saudi Gazette": 6,
     "ASHARQ AL-AWSAT English": 3,
-    "AP News": 5,
+    "AP News": 6,
     "Bloom Pakistan": 1,
     "Jordan News": 1,
     "Baird Maritime": 1,
@@ -2919,7 +2919,7 @@
     ],
     "AP News": [
      0,
-     5,
+     6,
      0
     ],
     "Bloom Pakistan": [
