@@ -2590,17 +2590,18 @@
    }
   },
   "2026-11-03": {
-   "total": 30,
-   "news": 30,
+   "total": 31,
+   "news": 31,
    "articles": 0,
    "positive": 0,
-   "neutral": 30,
+   "neutral": 31,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 7,
     "GB": 6,
-    "HK": 1
+    "HK": 1,
+    "FR": 1
    },
    "topics": {},
    "sources": {
@@ -2627,7 +2628,8 @@
     "FIFA": 1,
     "Facebook": 1,
     "Gulf News": 1,
-    "https://houseofsaud.com/": 1
+    "https://houseofsaud.com/": 1,
+    "France 24": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -2746,6 +2748,11 @@
      0
     ],
     "https://houseofsaud.com/": [
+     0,
+     1,
+     0
+    ],
+    "France 24": [
      0,
      1,
      0

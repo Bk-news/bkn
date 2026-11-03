@@ -1,5 +1,26 @@
 [
  {
+  "id": "839d229cee5a1626",
+  "origin": "rss",
+  "source": "France 24",
+  "author": "",
+  "title_ar": "تشير الولايات المتحدة إلى إحراز تقدم في المحادثات مع إيران لتجنب اشتعال النيران",
+  "title_orig": "US signals progress in Iran talks to avert flare-up",
+  "title_en": "US signals progress in Iran talks to avert flare-up",
+  "summary_ar": [],
+  "summary_en": [],
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU1Fuak9MV1ZlZ2ZPQ2NhZVJjbDI1ZTBfclYydnljWEFPT3dMZ1ZpelU3Mldya0lEUWNQNkI2QlN1ZTdYcVB3d2djVHhWUlJnNWtSR3ZxNktGWkxEQkpwUHJLWUtROHYxeUZ4amc3dDFrOHNqQVBOMldZQTJ5YWozTmRGTHNQSFIxTVFZMVZ4eEpmLUxQMXZOYm5hd0lJNzA?oc=5",
+  "published": "2026-11-03T03:31:47.000Z",
+  "subject": "saudi",
+  "tone": "neutral",
+  "topic": "",
+  "country": "FR",
+  "pending": true,
+  "desc": "US signals progress in Iran talks to avert flare-up &nbsp;&nbsp; France 24",
+  "lang": "en",
+  "mt": true
+ },
+ {
   "id": "090760da267d2fb6",
   "origin": "rss",
   "source": "Gulf News",
@@ -10476,27 +10497,6 @@
   "pending": true,
   "desc": "Saudi non-oil activities grow 1.9% in Q3 2026 despite overall GDP decline &nbsp;&nbsp; Saudi Gazette",
   "lang": "en",
-  "mt": true
- },
- {
-  "id": "fa25faa695a95ccf",
-  "origin": "rss",
-  "source": "Le Monde.fr",
-  "author": "",
-  "title_ar": "الصناعة البحرية العسكرية: l’Allemagne تعرض طموحاتها الجديدة",
-  "title_orig": "Industrie navale militaire : l’Allemagne affiche ses nouvelles ambitions",
-  "title_en": "",
-  "summary_ar": [],
-  "summary_en": [],
-  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPd1RKTTVPczQ5M3Z4SEJVSHZmbS1RNEJWSVlaRnR0Wk9aYkllQWQxRW91LVpIQmNZaFR1NTlMSHhGSHJ4bTM1TW1naDBwUDVJaG9qZW9JVXZqcUtoSHZUdThfc0NZclB4SWRDY2ZPdjRheXdEVV92SDR0QXozT3RFOWFGcXhMTnBkakJVNUw3dW9SYTRwNC0yNGlvbHRqUmVsMVpLcnRxQk9DVzczd0swbXZsUnlTZjRtd0J0UHpoeENfaUVEbVl3SXVrMHZfN0M5bU15cTJn?oc=5",
-  "published": "2026-11-02T06:00:00.000Z",
-  "subject": "saudi",
-  "tone": "neutral",
-  "topic": "",
-  "country": "FR",
-  "pending": true,
-  "desc": "Industrie navale militaire : l’Allemagne affiche ses nouvelles ambitions &nbsp;&nbsp; Le Monde.fr",
-  "lang": "fr",
   "mt": true
  }
 ]
