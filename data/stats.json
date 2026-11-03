@@ -2602,11 +2602,11 @@
    }
   },
   "2026-11-03": {
-   "total": 795,
-   "news": 777,
+   "total": 797,
+   "news": 779,
    "articles": 18,
    "positive": 0,
-   "neutral": 795,
+   "neutral": 797,
    "critical": 0,
    "mbs": 10,
    "countries": {
@@ -2783,7 +2783,9 @@
     "The Mirror": 1,
     "Institute for the Study of War": 1,
     "Newsmax": 1,
-    "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1
+    "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1,
+    "The Times of India": 1,
+    "Addis Standard": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -3602,6 +3604,16 @@
      0
     ],
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": [
+     0,
+     1,
+     0
+    ],
+    "The Times of India": [
+     0,
+     1,
+     0
+    ],
+    "Addis Standard": [
      0,
      1,
      0
