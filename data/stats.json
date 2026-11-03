@@ -1469,11 +1469,11 @@
    }
   },
   "2026-11-02": {
-   "total": 702,
-   "news": 697,
+   "total": 704,
+   "news": 699,
    "articles": 5,
    "positive": 0,
-   "neutral": 702,
+   "neutral": 704,
    "critical": 0,
    "mbs": 19,
    "countries": {
@@ -1481,7 +1481,7 @@
     "US": 153,
     "SA": 78,
     "HK": 4,
-    "FR": 13,
+    "FR": 15,
     "JP": 1,
     "DE": 1
    },
@@ -1537,7 +1537,7 @@
     "New Telegraph": 2,
     "Nikkei Asia": 1,
     "BBC": 7,
-    "Le Monde.fr": 8,
+    "Le Monde.fr": 10,
     "The Economist": 2,
     "The Media Line": 1,
     "Nigerian Bulletin": 3,
@@ -1925,7 +1925,7 @@
     ],
     "Le Monde.fr": [
      0,
-     8,
+     10,
      0
     ],
     "The Economist": [
@@ -2596,35 +2596,35 @@
    }
   },
   "2026-11-03": {
-   "total": 339,
-   "news": 334,
-   "articles": 5,
+   "total": 377,
+   "news": 368,
+   "articles": 9,
    "positive": 0,
-   "neutral": 339,
+   "neutral": 377,
    "critical": 0,
    "mbs": 6,
    "countries": {
-    "US": 81,
-    "GB": 87,
-    "HK": 4,
-    "FR": 3,
-    "SA": 27,
+    "US": 95,
+    "GB": 98,
+    "HK": 6,
+    "FR": 5,
+    "SA": 31,
     "JP": 4,
     "DE": 3
    },
    "topics": {},
    "sources": {
     "Asia News Network": 1,
-    "The Washington Post": 6,
-    "WSJ": 18,
-    "Financial Times": 22,
-    "Al-Monitor": 8,
-    "Reuters": 50,
-    "Bloomberg.com": 35,
+    "The Washington Post": 8,
+    "WSJ": 20,
+    "Financial Times": 24,
+    "Al-Monitor": 10,
+    "Reuters": 53,
+    "Bloomberg.com": 37,
     "חרדים10": 1,
-    "BBC": 8,
-    "The Guardian": 11,
-    "South China Morning Post": 4,
+    "BBC": 10,
+    "The Guardian": 13,
+    "South China Morning Post": 6,
     "Hindustan Times": 3,
     "Jordan Times": 1,
     "Yemen Online": 1,
@@ -2638,25 +2638,25 @@
     "Facebook": 1,
     "Gulf News": 3,
     "https://houseofsaud.com/": 1,
-    "France 24": 3,
+    "France 24": 5,
     "Xinhua": 1,
     "The National": 3,
     "조선일보": 1,
     "Chosunbiz": 1,
     "Le Monde.fr": 1,
     "Access Partnership": 1,
-    "The New York Times": 5,
-    "Arab News": 22,
+    "The New York Times": 6,
+    "Arab News": 24,
     "Foreign Affairs": 2,
     "Nikkei Asia": 4,
     "Spiegel": 3,
-    "Saudi Gazette": 6,
+    "Saudi Gazette": 9,
     "ASHARQ AL-AWSAT English": 3,
-    "AP News": 6,
+    "AP News": 9,
     "Bloom Pakistan": 1,
     "Jordan News": 1,
     "Baird Maritime": 1,
-    "Al Arabiya English": 4,
+    "Al Arabiya English": 5,
     "AKIpress News Agency": 1,
     "The Korea Herald": 1,
     "Le Monde diplomatique - English edition": 1,
@@ -2665,7 +2665,7 @@
     "Crude Oil Prices Today | OilPrice.com": 1,
     "Egyptian Gazette": 1,
     "Euronews.com": 2,
-    "The Economist": 2,
+    "The Economist": 4,
     "Qazinform": 1,
     "The Arab Weekly": 1,
     "صوت الإمارات": 2,
@@ -2714,7 +2714,7 @@
     "www.marketscreener.com": 1,
     "Bloomberg": 4,
     "وكالة صدى نيوز": 1,
-    "Foreign Policy": 1,
+    "Foreign Policy": 2,
     "Goal.com": 2,
     "WRAL": 1,
     "L'Orient Today": 1,
@@ -2726,7 +2726,11 @@
     "RFI": 1,
     "Yahoo Sports": 1,
     "www.jordannews.jo": 1,
-    "NewsCord": 1
+    "NewsCord": 1,
+    "houseofsaud.com": 1,
+    "Atlantic Council": 1,
+    "BAE Systems": 1,
+    "The Sun": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -2736,32 +2740,32 @@
     ],
     "The Washington Post": [
      0,
-     6,
+     8,
      0
     ],
     "WSJ": [
      0,
-     18,
+     20,
      0
     ],
     "Financial Times": [
      0,
-     22,
+     24,
      0
     ],
     "Al-Monitor": [
      0,
-     8,
+     10,
      0
     ],
     "Reuters": [
      0,
-     50,
+     53,
      0
     ],
     "Bloomberg.com": [
      0,
-     35,
+     37,
      0
     ],
     "חרדים10": [
@@ -2771,17 +2775,17 @@
     ],
     "BBC": [
      0,
-     8,
+     10,
      0
     ],
     "The Guardian": [
      0,
-     11,
+     13,
      0
     ],
     "South China Morning Post": [
      0,
-     4,
+     6,
      0
     ],
     "Hindustan Times": [
@@ -2851,7 +2855,7 @@
     ],
     "France 24": [
      0,
-     3,
+     5,
      0
     ],
     "Xinhua": [
@@ -2886,12 +2890,12 @@
     ],
     "The New York Times": [
      0,
-     5,
+     6,
      0
     ],
     "Arab News": [
      0,
-     22,
+     24,
      0
     ],
     "Foreign Affairs": [
@@ -2911,7 +2915,7 @@
     ],
     "Saudi Gazette": [
      0,
-     6,
+     9,
      0
     ],
     "ASHARQ AL-AWSAT English": [
@@ -2921,7 +2925,7 @@
     ],
     "AP News": [
      0,
-     6,
+     9,
      0
     ],
     "Bloom Pakistan": [
@@ -2941,7 +2945,7 @@
     ],
     "Al Arabiya English": [
      0,
-     4,
+     5,
      0
     ],
     "AKIpress News Agency": [
@@ -2986,7 +2990,7 @@
     ],
     "The Economist": [
      0,
-     2,
+     4,
      0
     ],
     "Qazinform": [
@@ -3231,7 +3235,7 @@
     ],
     "Foreign Policy": [
      0,
-     1,
+     2,
      0
     ],
     "Goal.com": [
@@ -3290,6 +3294,26 @@
      0
     ],
     "NewsCord": [
+     0,
+     1,
+     0
+    ],
+    "houseofsaud.com": [
+     0,
+     1,
+     0
+    ],
+    "Atlantic Council": [
+     0,
+     1,
+     0
+    ],
+    "BAE Systems": [
+     0,
+     1,
+     0
+    ],
+    "The Sun": [
      0,
      1,
      0

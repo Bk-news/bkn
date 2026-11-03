@@ -1,50 +1,110 @@
 [
  {
-  "id": "1a49f31feb14e9a3",
+  "id": "95797b3cb848bcb1",
   "origin": "telegram",
   "source": "العربية عاجل",
   "country": "SA",
-  "title_ar": "بزشكيان: لن يستفيد أحد من الحرب",
+  "title_ar": "بعد قليل.. انطلاق تغطية العربية للانتخابات النصفية الأميركية",
   "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152172",
-  "published": "2026-11-03T11:38:02.000Z",
+  "url": "https://t.me/alarabiyaBr/152235",
+  "published": "2026-11-03T17:55:01.000Z",
   "subject": "saudi",
-  "added": "2026-11-03T11:38:02.000Z"
+  "added": "2026-11-03T17:55:01.000Z"
  },
  {
-  "id": "a7167fe422f0a98c",
+  "id": "6a2fcf21b4d0de83",
   "origin": "telegram",
   "source": "العربية عاجل",
   "country": "SA",
-  "title_ar": "المفوضية الأوروبية: محادثات بشأن أوكرانيا اليوم في بروكسل",
+  "title_ar": "CNN: الإبلاغ عن تعطل بعض أجهزة التصويت في مقاطعة ويستشستر بنيويورك",
   "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152171",
-  "published": "2026-11-03T11:26:01.000Z",
+  "url": "https://t.me/alarabiyaBr/152234",
+  "published": "2026-11-03T17:53:01.000Z",
   "subject": "saudi",
-  "added": "2026-11-03T11:26:01.000Z"
+  "added": "2026-11-03T17:53:01.000Z"
  },
  {
-  "id": "51bc35b3551ca4c1",
+  "id": "234262ac7b05d00d",
   "origin": "telegram",
   "source": "العربية عاجل",
   "country": "SA",
-  "title_ar": "الأمن الداخلي السوري ينشر صور أفراد خلية حزب الله التي حاولت استهداف مصفاة حمص",
+  "title_ar": "رويترز: تبادل معلومات المخابرات مع الكونغرس والأجهزة الحكومية بشأن إيران تباطأ بعهد ترمب",
   "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152170",
-  "published": "2026-11-03T11:12:02.000Z",
+  "url": "https://t.me/alarabiyaBr/152233",
+  "published": "2026-11-03T17:45:02.000Z",
   "subject": "saudi",
-  "added": "2026-11-03T11:12:02.000Z"
+  "added": "2026-11-03T17:45:02.000Z"
  },
  {
-  "id": "a3344e585e7954a7",
+  "id": "a3861722956631f5",
   "origin": "telegram",
   "source": "العربية عاجل",
   "country": "SA",
-  "title_ar": "بدء التصويت للانتخابات النصفية الأميركية في ولايات الساحل الشرقي",
+  "title_ar": "الانتخابات النصفية.. تمديد التصويت لـ30 دقيقة في مراكز ببنسلفانيا",
   "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152169",
-  "published": "2026-11-03T11:07:01.000Z",
+  "url": "https://t.me/alarabiyaBr/152232",
+  "published": "2026-11-03T17:38:01.000Z",
   "subject": "saudi",
-  "added": "2026-11-03T11:07:01.000Z"
+  "added": "2026-11-03T17:38:01.000Z"
+ },
+ {
+  "id": "ab079edebbd4c2be",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "فانس للناخبين: عليكم إرسال رسالة رفض إلى اليسار المتطرف",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152231",
+  "published": "2026-11-03T17:27:02.000Z",
+  "subject": "saudi",
+  "added": "2026-11-03T17:27:02.000Z"
+ },
+ {
+  "id": "dbd2fb473878971a",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "نائب الرئيس الأميركي: لدينا قائمة مميزة من المرشحين الجمهوريين",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152230",
+  "published": "2026-11-03T17:25:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-03T17:25:01.000Z"
+ },
+ {
+  "id": "e750c8ee7f46335b",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "مقاطعة فولتون بولاية جورجيا تحذر الناخبين من رسائل نصية احتيالية عن نقل مراكز الاقتراع",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152229",
+  "published": "2026-11-03T17:08:02.000Z",
+  "subject": "saudi",
+  "added": "2026-11-03T17:08:02.000Z"
+ },
+ {
+  "id": "eca6227549a8490b",
+  "origin": "royal",
+  "source": "واس الملكية",
+  "country": "SA",
+  "title_ar": "سمو ولي العهد يرأس جلسة مجلس الوزراء في الرياض",
+  "summary_ar": [],
+  "url": "https://www.youtube.com/watch?v=dQKHZJ4m0_o",
+  "published": "2026-11-03T15:38:43.000Z",
+  "subject": "mbs",
+  "added": "2026-11-03T18:06:47.656Z"
+ },
+ {
+  "id": "7d39ab74932f09c7",
+  "origin": "royal",
+  "source": "واس الملكية",
+  "country": "SA",
+  "title_ar": "سمو ولي العهد يرأس جلسة مجلس الوزراء في الرياض",
+  "summary_ar": [],
+  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2YkJzc1VhanhBOWVud2dIMHBHY0R6RWdVbVVVV09jZUsxUzc0LThwV1ZwVjdSb0dfbzQtY0s5TGR0b21hWlE?oc=5",
+  "published": "2026-11-03T15:26:47.000Z",
+  "subject": "mbs",
+  "added": "2026-11-03T18:06:47.656Z"
  }
 ]
