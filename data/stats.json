@@ -565,18 +565,18 @@
    }
   },
   "2026-11-01": {
-   "total": 497,
-   "news": 495,
+   "total": 498,
+   "news": 496,
    "articles": 2,
    "positive": 0,
-   "neutral": 497,
+   "neutral": 498,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 76,
     "GB": 138,
     "FR": 8,
-    "US": 59,
+    "US": 60,
     "HK": 3,
     "DE": 1
    },
@@ -658,7 +658,7 @@
     "Investify": 1,
     "The Daily Star": 2,
     "Rediff": 1,
-    "AP News": 20,
+    "AP News": 21,
     "South China Morning Post": 3,
     "The Filipino Times": 1,
     "CairoScene": 2,
@@ -1113,7 +1113,7 @@
     ],
     "AP News": [
      0,
-     20,
+     21,
      0
     ],
     "South China Morning Post": [
@@ -2602,19 +2602,19 @@
    }
   },
   "2026-11-03": {
-   "total": 625,
-   "news": 613,
+   "total": 627,
+   "news": 615,
    "articles": 12,
    "positive": 0,
-   "neutral": 625,
+   "neutral": 627,
    "critical": 0,
    "mbs": 8,
    "countries": {
-    "US": 204,
+    "US": 205,
     "GB": 161,
     "HK": 6,
     "FR": 6,
-    "SA": 57,
+    "SA": 58,
     "JP": 4,
     "DE": 3
    },
@@ -2652,13 +2652,13 @@
     "Le Monde.fr": 1,
     "Access Partnership": 1,
     "The New York Times": 6,
-    "Arab News": 52,
+    "Arab News": 53,
     "Foreign Affairs": 2,
     "Nikkei Asia": 4,
     "Spiegel": 3,
     "Saudi Gazette": 11,
     "ASHARQ AL-AWSAT English": 4,
-    "AP News": 61,
+    "AP News": 62,
     "Bloom Pakistan": 1,
     "Jordan News": 1,
     "Baird Maritime": 2,
@@ -2931,7 +2931,7 @@
     ],
     "Arab News": [
      0,
-     52,
+     53,
      0
     ],
     "Foreign Affairs": [
@@ -2961,7 +2961,7 @@
     ],
     "AP News": [
      0,
-     61,
+     62,
      0
     ],
     "Bloom Pakistan": [
