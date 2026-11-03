@@ -1469,16 +1469,16 @@
    }
   },
   "2026-11-02": {
-   "total": 781,
-   "news": 775,
+   "total": 784,
+   "news": 778,
    "articles": 6,
    "positive": 0,
-   "neutral": 781,
+   "neutral": 784,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "GB": 214,
-    "US": 204,
+    "US": 207,
     "SA": 82,
     "HK": 4,
     "FR": 17,
@@ -1497,7 +1497,7 @@
     "Arab News": 79,
     "The Washington Post": 3,
     "وكالة الأنباء السعودية": 2,
-    "WSJ": 34,
+    "WSJ": 36,
     "TNGlobal": 1,
     "Facebook": 2,
     "Breakingthenews.net": 3,
@@ -1611,7 +1611,7 @@
     "Instagram": 1,
     "The Jerusalem Post": 2,
     "JFeed": 1,
-    "Bloomberg.com": 50,
+    "Bloomberg.com": 51,
     "Spiegel": 1,
     "Atlantic Council": 2,
     "Daily Times": 1,
@@ -1726,7 +1726,7 @@
     ],
     "WSJ": [
      0,
-     34,
+     36,
      0
     ],
     "TNGlobal": [
@@ -2296,7 +2296,7 @@
     ],
     "Bloomberg.com": [
      0,
-     50,
+     51,
      0
     ],
     "Spiegel": [
@@ -2602,19 +2602,19 @@
    }
   },
   "2026-11-03": {
-   "total": 670,
-   "news": 653,
+   "total": 707,
+   "news": 690,
    "articles": 17,
    "positive": 0,
-   "neutral": 670,
+   "neutral": 707,
    "critical": 0,
    "mbs": 8,
    "countries": {
-    "US": 228,
-    "GB": 170,
+    "US": 241,
+    "GB": 178,
     "HK": 6,
     "FR": 7,
-    "SA": 62,
+    "SA": 70,
     "JP": 4,
     "DE": 3
    },
@@ -2622,10 +2622,10 @@
    "sources": {
     "Asia News Network": 1,
     "The Washington Post": 9,
-    "WSJ": 35,
+    "WSJ": 41,
     "Financial Times": 38,
     "Al-Monitor": 39,
-    "Reuters": 93,
+    "Reuters": 101,
     "Bloomberg.com": 57,
     "חרדים10": 1,
     "BBC": 20,
@@ -2652,13 +2652,13 @@
     "Le Monde.fr": 1,
     "Access Partnership": 1,
     "The New York Times": 8,
-    "Arab News": 56,
+    "Arab News": 65,
     "Foreign Affairs": 3,
     "Nikkei Asia": 4,
     "Spiegel": 3,
     "Saudi Gazette": 12,
     "ASHARQ AL-AWSAT English": 4,
-    "AP News": 67,
+    "AP News": 74,
     "Bloom Pakistan": 1,
     "Jordan News": 1,
     "Baird Maritime": 2,
@@ -2671,7 +2671,7 @@
     "Crude Oil Prices Today | OilPrice.com": 1,
     "Egyptian Gazette": 1,
     "Euronews.com": 2,
-    "The Economist": 6,
+    "The Economist": 7,
     "Qazinform": 1,
     "The Arab Weekly": 1,
     "صوت الإمارات": 2,
@@ -2730,7 +2730,7 @@
     "The Straits Times": 1,
     "Middle East Monitor": 1,
     "RFI": 1,
-    "Yahoo Sports": 2,
+    "Yahoo Sports": 4,
     "www.jordannews.jo": 1,
     "NewsCord": 1,
     "houseofsaud.com": 1,
@@ -2768,7 +2768,11 @@
     "Global Arab Network": 1,
     "EU Today": 1,
     "Middle East Online": 1,
-    "Travel Daily Media": 1
+    "Travel Daily Media": 1,
+    "www.olympics.com": 1,
+    "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
+    "RANE Worldview": 1,
+    "Times Higher Education": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -2783,7 +2787,7 @@
     ],
     "WSJ": [
      0,
-     35,
+     41,
      0
     ],
     "Financial Times": [
@@ -2798,7 +2802,7 @@
     ],
     "Reuters": [
      0,
-     93,
+     101,
      0
     ],
     "Bloomberg.com": [
@@ -2933,7 +2937,7 @@
     ],
     "Arab News": [
      0,
-     56,
+     65,
      0
     ],
     "Foreign Affairs": [
@@ -2963,7 +2967,7 @@
     ],
     "AP News": [
      0,
-     67,
+     74,
      0
     ],
     "Bloom Pakistan": [
@@ -3028,7 +3032,7 @@
     ],
     "The Economist": [
      0,
-     6,
+     7,
      0
     ],
     "Qazinform": [
@@ -3323,7 +3327,7 @@
     ],
     "Yahoo Sports": [
      0,
-     2,
+     4,
      0
     ],
     "www.jordannews.jo": [
@@ -3512,6 +3516,26 @@
      0
     ],
     "Travel Daily Media": [
+     0,
+     1,
+     0
+    ],
+    "www.olympics.com": [
+     0,
+     1,
+     0
+    ],
+    "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
+     0,
+     1,
+     0
+    ],
+    "RANE Worldview": [
+     0,
+     1,
+     0
+    ],
+    "Times Higher Education": [
      0,
      1,
      0
