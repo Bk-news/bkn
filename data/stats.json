@@ -2596,16 +2596,16 @@
    }
   },
   "2026-11-03": {
-   "total": 285,
-   "news": 281,
-   "articles": 4,
+   "total": 292,
+   "news": 287,
+   "articles": 5,
    "positive": 0,
-   "neutral": 285,
+   "neutral": 292,
    "critical": 0,
    "mbs": 6,
    "countries": {
-    "US": 66,
-    "GB": 69,
+    "US": 70,
+    "GB": 70,
     "HK": 4,
     "FR": 3,
     "SA": 25,
@@ -2619,10 +2619,10 @@
     "WSJ": 13,
     "Financial Times": 15,
     "Al-Monitor": 6,
-    "Reuters": 40,
-    "Bloomberg.com": 34,
+    "Reuters": 41,
+    "Bloomberg.com": 35,
     "חרדים10": 1,
-    "BBC": 7,
+    "BBC": 8,
     "The Guardian": 9,
     "South China Morning Post": 4,
     "Hindustan Times": 3,
@@ -2652,7 +2652,7 @@
     "Spiegel": 3,
     "Saudi Gazette": 5,
     "ASHARQ AL-AWSAT English": 3,
-    "AP News": 4,
+    "AP News": 5,
     "Bloom Pakistan": 1,
     "Jordan News": 1,
     "Baird Maritime": 1,
@@ -2712,8 +2712,10 @@
     "The Hindu": 1,
     "Fana News -": 1,
     "www.marketscreener.com": 1,
-    "Bloomberg": 1,
-    "وكالة صدى نيوز": 1
+    "Bloomberg": 2,
+    "وكالة صدى نيوز": 1,
+    "Foreign Policy": 1,
+    "Goal.com": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -2743,12 +2745,12 @@
     ],
     "Reuters": [
      0,
-     40,
+     41,
      0
     ],
     "Bloomberg.com": [
      0,
-     34,
+     35,
      0
     ],
     "חרדים10": [
@@ -2758,7 +2760,7 @@
     ],
     "BBC": [
      0,
-     7,
+     8,
      0
     ],
     "The Guardian": [
@@ -2908,7 +2910,7 @@
     ],
     "AP News": [
      0,
-     4,
+     5,
      0
     ],
     "Bloom Pakistan": [
@@ -3208,10 +3210,20 @@
     ],
     "Bloomberg": [
      0,
-     1,
+     2,
      0
     ],
     "وكالة صدى نيوز": [
+     0,
+     1,
+     0
+    ],
+    "Foreign Policy": [
+     0,
+     1,
+     0
+    ],
+    "Goal.com": [
      0,
      1,
      0
