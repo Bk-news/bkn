@@ -565,16 +565,16 @@
    }
   },
   "2026-11-01": {
-   "total": 474,
-   "news": 472,
+   "total": 475,
+   "news": 473,
    "articles": 2,
    "positive": 0,
-   "neutral": 474,
+   "neutral": 475,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 76,
-    "GB": 124,
+    "GB": 125,
     "FR": 8,
     "US": 50,
     "HK": 3,
@@ -595,7 +595,7 @@
     "Al-Monitor": 6,
     "Financial Times": 56,
     "WSJ": 11,
-    "The Guardian": 29,
+    "The Guardian": 30,
     "ASHARQ AL-AWSAT English": 13,
     "Daily Sabah": 2,
     "بوابة التكنولوجيا المالية": 1,
@@ -798,7 +798,7 @@
     ],
     "The Guardian": [
      0,
-     29,
+     30,
      0
     ],
     "ASHARQ AL-AWSAT English": [
@@ -1469,16 +1469,16 @@
    }
   },
   "2026-11-02": {
-   "total": 596,
-   "news": 592,
+   "total": 601,
+   "news": 597,
    "articles": 4,
    "positive": 0,
-   "neutral": 596,
+   "neutral": 601,
    "critical": 0,
    "mbs": 19,
    "countries": {
-    "GB": 140,
-    "US": 107,
+    "GB": 141,
+    "US": 111,
     "SA": 74,
     "HK": 4,
     "FR": 13,
@@ -1489,7 +1489,7 @@
    "sources": {
     "Cageside Seats": 1,
     "The Guardian": 38,
-    "Financial Times": 47,
+    "Financial Times": 48,
     "Al-Monitor": 32,
     "AP News": 9,
     "Bloomberg": 16,
@@ -1497,7 +1497,7 @@
     "Arab News": 71,
     "The Washington Post": 3,
     "وكالة الأنباء السعودية": 2,
-    "WSJ": 26,
+    "WSJ": 30,
     "TNGlobal": 1,
     "Facebook": 2,
     "Breakingthenews.net": 3,
@@ -1684,7 +1684,7 @@
     ],
     "Financial Times": [
      0,
-     47,
+     48,
      0
     ],
     "Al-Monitor": [
@@ -1724,7 +1724,7 @@
     ],
     "WSJ": [
      0,
-     26,
+     30,
      0
     ],
     "TNGlobal": [
@@ -2590,19 +2590,19 @@
    }
   },
   "2026-11-03": {
-   "total": 115,
-   "news": 113,
+   "total": 149,
+   "news": 147,
    "articles": 2,
    "positive": 0,
-   "neutral": 115,
+   "neutral": 149,
    "critical": 0,
-   "mbs": 4,
+   "mbs": 5,
    "countries": {
-    "US": 34,
-    "GB": 29,
+    "US": 45,
+    "GB": 36,
     "HK": 3,
     "FR": 3,
-    "SA": 11,
+    "SA": 19,
     "JP": 1,
     "DE": 3
    },
@@ -2610,11 +2610,11 @@
    "sources": {
     "Asia News Network": 1,
     "The Washington Post": 5,
-    "WSJ": 9,
+    "WSJ": 12,
     "Financial Times": 6,
     "Al-Monitor": 4,
-    "Reuters": 10,
-    "Bloomberg.com": 7,
+    "Reuters": 17,
+    "Bloomberg.com": 16,
     "חרדים10": 1,
     "BBC": 5,
     "The Guardian": 8,
@@ -2626,7 +2626,7 @@
     "Source ONE News": 1,
     "The China-Global South Project": 1,
     "UA.NEWS": 1,
-    "Anadolu Ajansı": 1,
+    "Anadolu Ajansı": 2,
     "TRT World": 1,
     "FIFA": 1,
     "Facebook": 1,
@@ -2640,7 +2640,7 @@
     "Le Monde.fr": 1,
     "Access Partnership": 1,
     "The New York Times": 3,
-    "Arab News": 7,
+    "Arab News": 15,
     "Foreign Affairs": 2,
     "Nikkei Asia": 1,
     "Spiegel": 3,
@@ -2651,7 +2651,13 @@
     "Jordan News": 1,
     "Baird Maritime": 1,
     "Al Arabiya English": 1,
-    "AKIpress News Agency": 1
+    "AKIpress News Agency": 1,
+    "The Korea Herald": 1,
+    "Le Monde diplomatique - English edition": 1,
+    "sanad.uk": 1,
+    "Around Prague": 1,
+    "Crude Oil Prices Today | OilPrice.com": 1,
+    "Egyptian Gazette": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -2666,7 +2672,7 @@
     ],
     "WSJ": [
      0,
-     9,
+     12,
      0
     ],
     "Financial Times": [
@@ -2681,12 +2687,12 @@
     ],
     "Reuters": [
      0,
-     10,
+     17,
      0
     ],
     "Bloomberg.com": [
      0,
-     7,
+     16,
      0
     ],
     "חרדים10": [
@@ -2746,7 +2752,7 @@
     ],
     "Anadolu Ajansı": [
      0,
-     1,
+     2,
      0
     ],
     "TRT World": [
@@ -2816,7 +2822,7 @@
     ],
     "Arab News": [
      0,
-     7,
+     15,
      0
     ],
     "Foreign Affairs": [
@@ -2870,6 +2876,36 @@
      0
     ],
     "AKIpress News Agency": [
+     0,
+     1,
+     0
+    ],
+    "The Korea Herald": [
+     0,
+     1,
+     0
+    ],
+    "Le Monde diplomatique - English edition": [
+     0,
+     1,
+     0
+    ],
+    "sanad.uk": [
+     0,
+     1,
+     0
+    ],
+    "Around Prague": [
+     0,
+     1,
+     0
+    ],
+    "Crude Oil Prices Today | OilPrice.com": [
+     0,
+     1,
+     0
+    ],
+    "Egyptian Gazette": [
      0,
      1,
      0
