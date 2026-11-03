@@ -1469,16 +1469,16 @@
    }
   },
   "2026-11-02": {
-   "total": 701,
-   "news": 696,
+   "total": 702,
+   "news": 697,
    "articles": 5,
    "positive": 0,
-   "neutral": 701,
+   "neutral": 702,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "GB": 195,
-    "US": 152,
+    "US": 153,
     "SA": 78,
     "HK": 4,
     "FR": 13,
@@ -1492,7 +1492,7 @@
     "Financial Times": 63,
     "Al-Monitor": 32,
     "AP News": 10,
-    "Bloomberg": 17,
+    "Bloomberg": 18,
     "Mehr News Agency": 5,
     "Arab News": 75,
     "The Washington Post": 3,
@@ -1700,7 +1700,7 @@
     ],
     "Bloomberg": [
      0,
-     17,
+     18,
      0
     ],
     "Mehr News Agency": [
@@ -2596,16 +2596,16 @@
    }
   },
   "2026-11-03": {
-   "total": 329,
-   "news": 324,
+   "total": 333,
+   "news": 328,
    "articles": 5,
    "positive": 0,
-   "neutral": 329,
+   "neutral": 333,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "US": 79,
-    "GB": 83,
+    "GB": 85,
     "HK": 4,
     "FR": 3,
     "SA": 27,
@@ -2619,7 +2619,7 @@
     "WSJ": 18,
     "Financial Times": 21,
     "Al-Monitor": 6,
-    "Reuters": 47,
+    "Reuters": 49,
     "Bloomberg.com": 35,
     "חרדים10": 1,
     "BBC": 8,
@@ -2698,7 +2698,7 @@
     "Al Jazeera": 1,
     "Deccan Chronicle": 1,
     "Yahoo": 1,
-    "سانا": 1,
+    "سانا": 2,
     "football360.com.au": 1,
     "The New Region": 1,
     "The Japan Times": 1,
@@ -2724,7 +2724,8 @@
     "The Straits Times": 1,
     "Middle East Monitor": 1,
     "RFI": 1,
-    "Yahoo Sports": 1
+    "Yahoo Sports": 1,
+    "www.jordannews.jo": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -2754,7 +2755,7 @@
     ],
     "Reuters": [
      0,
-     47,
+     49,
      0
     ],
     "Bloomberg.com": [
@@ -3149,7 +3150,7 @@
     ],
     "سانا": [
      0,
-     1,
+     2,
      0
     ],
     "football360.com.au": [
@@ -3278,6 +3279,11 @@
      0
     ],
     "Yahoo Sports": [
+     0,
+     1,
+     0
+    ],
+    "www.jordannews.jo": [
      0,
      1,
      0
