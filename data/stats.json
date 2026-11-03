@@ -1469,16 +1469,16 @@
    }
   },
   "2026-11-02": {
-   "total": 772,
-   "news": 767,
+   "total": 773,
+   "news": 768,
    "articles": 5,
    "positive": 0,
-   "neutral": 772,
+   "neutral": 773,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "GB": 212,
-    "US": 198,
+    "US": 199,
     "SA": 82,
     "HK": 4,
     "FR": 16,
@@ -1491,7 +1491,7 @@
     "The Guardian": 40,
     "Financial Times": 69,
     "Al-Monitor": 32,
-    "AP News": 47,
+    "AP News": 48,
     "Bloomberg": 19,
     "Mehr News Agency": 5,
     "Arab News": 79,
@@ -1696,7 +1696,7 @@
     ],
     "AP News": [
      0,
-     47,
+     48,
      0
     ],
     "Bloomberg": [
@@ -2602,19 +2602,19 @@
    }
   },
   "2026-11-03": {
-   "total": 609,
-   "news": 598,
+   "total": 612,
+   "news": 601,
    "articles": 11,
    "positive": 0,
-   "neutral": 609,
+   "neutral": 612,
    "critical": 0,
    "mbs": 8,
    "countries": {
     "US": 195,
-    "GB": 158,
+    "GB": 160,
     "HK": 6,
     "FR": 6,
-    "SA": 55,
+    "SA": 56,
     "JP": 4,
     "DE": 3
    },
@@ -2625,11 +2625,11 @@
     "WSJ": 31,
     "Financial Times": 37,
     "Al-Monitor": 34,
-    "Reuters": 88,
+    "Reuters": 89,
     "Bloomberg.com": 53,
     "חרדים10": 1,
     "BBC": 18,
-    "The Guardian": 18,
+    "The Guardian": 19,
     "South China Morning Post": 6,
     "Hindustan Times": 3,
     "Jordan Times": 1,
@@ -2652,7 +2652,7 @@
     "Le Monde.fr": 1,
     "Access Partnership": 1,
     "The New York Times": 6,
-    "Arab News": 50,
+    "Arab News": 51,
     "Foreign Affairs": 2,
     "Nikkei Asia": 4,
     "Spiegel": 3,
@@ -2795,7 +2795,7 @@
     ],
     "Reuters": [
      0,
-     88,
+     89,
      0
     ],
     "Bloomberg.com": [
@@ -2815,7 +2815,7 @@
     ],
     "The Guardian": [
      0,
-     18,
+     19,
      0
     ],
     "South China Morning Post": [
@@ -2930,7 +2930,7 @@
     ],
     "Arab News": [
      0,
-     50,
+     51,
      0
     ],
     "Foreign Affairs": [
