@@ -1469,15 +1469,15 @@
    }
   },
   "2026-11-02": {
-   "total": 584,
-   "news": 580,
+   "total": 586,
+   "news": 582,
    "articles": 4,
    "positive": 0,
-   "neutral": 584,
+   "neutral": 586,
    "critical": 0,
    "mbs": 19,
    "countries": {
-    "GB": 135,
+    "GB": 137,
     "US": 104,
     "SA": 70,
     "HK": 4,
@@ -1489,7 +1489,7 @@
    "sources": {
     "Cageside Seats": 1,
     "The Guardian": 37,
-    "Financial Times": 43,
+    "Financial Times": 45,
     "Al-Monitor": 31,
     "AP News": 9,
     "Bloomberg": 16,
@@ -1684,7 +1684,7 @@
     ],
     "Financial Times": [
      0,
-     43,
+     45,
      0
     ],
     "Al-Monitor": [
@@ -2590,11 +2590,11 @@
    }
   },
   "2026-11-03": {
-   "total": 28,
-   "news": 28,
+   "total": 30,
+   "news": 30,
    "articles": 0,
    "positive": 0,
-   "neutral": 28,
+   "neutral": 30,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -2625,7 +2625,9 @@
     "Anadolu Ajansı": 1,
     "TRT World": 1,
     "FIFA": 1,
-    "Facebook": 1
+    "Facebook": 1,
+    "Gulf News": 1,
+    "https://houseofsaud.com/": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -2734,6 +2736,16 @@
      0
     ],
     "Facebook": [
+     0,
+     1,
+     0
+    ],
+    "Gulf News": [
+     0,
+     1,
+     0
+    ],
+    "https://houseofsaud.com/": [
      0,
      1,
      0
