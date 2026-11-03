@@ -2596,11 +2596,11 @@
    }
   },
   "2026-11-03": {
-   "total": 316,
-   "news": 311,
+   "total": 317,
+   "news": 312,
    "articles": 5,
    "positive": 0,
-   "neutral": 316,
+   "neutral": 317,
    "critical": 0,
    "mbs": 6,
    "countries": {
@@ -2720,7 +2720,8 @@
     "L'Orient Today": 1,
     "Daily Sabah": 1,
     "India Today": 1,
-    "NGSC Sports": 1
+    "NGSC Sports": 1,
+    "The Straits Times": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -3254,6 +3255,11 @@
      0
     ],
     "NGSC Sports": [
+     0,
+     1,
+     0
+    ],
+    "The Straits Times": [
      0,
      1,
      0
