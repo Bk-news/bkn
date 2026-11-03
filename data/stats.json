@@ -1469,16 +1469,16 @@
    }
   },
   "2026-11-02": {
-   "total": 682,
-   "news": 678,
+   "total": 683,
+   "news": 679,
    "articles": 4,
    "positive": 0,
-   "neutral": 682,
+   "neutral": 683,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "GB": 183,
-    "US": 146,
+    "US": 147,
     "SA": 78,
     "HK": 4,
     "FR": 13,
@@ -1492,7 +1492,7 @@
     "Financial Times": 60,
     "Al-Monitor": 32,
     "AP News": 9,
-    "Bloomberg": 16,
+    "Bloomberg": 17,
     "Mehr News Agency": 5,
     "Arab News": 75,
     "The Washington Post": 3,
@@ -1699,7 +1699,7 @@
     ],
     "Bloomberg": [
      0,
-     16,
+     17,
      0
     ],
     "Mehr News Agency": [
@@ -2590,19 +2590,19 @@
    }
   },
   "2026-11-03": {
-   "total": 260,
-   "news": 256,
+   "total": 266,
+   "news": 262,
    "articles": 4,
    "positive": 0,
-   "neutral": 260,
+   "neutral": 266,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "US": 63,
-    "GB": 58,
+    "GB": 59,
     "HK": 4,
     "FR": 3,
-    "SA": 21,
+    "SA": 24,
     "JP": 2,
     "DE": 3
    },
@@ -2616,7 +2616,7 @@
     "Reuters": 34,
     "Bloomberg.com": 32,
     "חרדים10": 1,
-    "BBC": 6,
+    "BBC": 7,
     "The Guardian": 9,
     "South China Morning Post": 4,
     "Hindustan Times": 3,
@@ -2640,7 +2640,7 @@
     "Le Monde.fr": 1,
     "Access Partnership": 1,
     "The New York Times": 4,
-    "Arab News": 17,
+    "Arab News": 20,
     "Foreign Affairs": 2,
     "Nikkei Asia": 2,
     "Spiegel": 3,
@@ -2701,7 +2701,9 @@
     "Construction Business News Middle East": 1,
     "Asian Football Confederation (AFC)": 1,
     "ESPN": 1,
-    "The Kathmandu Post": 1
+    "The Kathmandu Post": 1,
+    "Apa.az": 1,
+    "The Hindu": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -2746,7 +2748,7 @@
     ],
     "BBC": [
      0,
-     6,
+     7,
      0
     ],
     "The Guardian": [
@@ -2866,7 +2868,7 @@
     ],
     "Arab News": [
      0,
-     17,
+     20,
      0
     ],
     "Foreign Affairs": [
@@ -3170,6 +3172,16 @@
      0
     ],
     "The Kathmandu Post": [
+     0,
+     1,
+     0
+    ],
+    "Apa.az": [
+     0,
+     1,
+     0
+    ],
+    "The Hindu": [
      0,
      1,
      0
