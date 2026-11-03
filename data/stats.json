@@ -2596,20 +2596,20 @@
    }
   },
   "2026-11-03": {
-   "total": 317,
-   "news": 312,
+   "total": 323,
+   "news": 318,
    "articles": 5,
    "positive": 0,
-   "neutral": 317,
+   "neutral": 323,
    "critical": 0,
    "mbs": 6,
    "countries": {
-    "US": 77,
-    "GB": 79,
+    "US": 78,
+    "GB": 81,
     "HK": 4,
     "FR": 3,
     "SA": 25,
-    "JP": 3,
+    "JP": 4,
     "DE": 3
    },
    "topics": {},
@@ -2617,9 +2617,9 @@
     "Asia News Network": 1,
     "The Washington Post": 6,
     "WSJ": 18,
-    "Financial Times": 20,
+    "Financial Times": 21,
     "Al-Monitor": 6,
-    "Reuters": 44,
+    "Reuters": 45,
     "Bloomberg.com": 35,
     "חרדים10": 1,
     "BBC": 8,
@@ -2645,10 +2645,10 @@
     "Chosunbiz": 1,
     "Le Monde.fr": 1,
     "Access Partnership": 1,
-    "The New York Times": 4,
+    "The New York Times": 5,
     "Arab News": 21,
     "Foreign Affairs": 2,
-    "Nikkei Asia": 3,
+    "Nikkei Asia": 4,
     "Spiegel": 3,
     "Saudi Gazette": 5,
     "ASHARQ AL-AWSAT English": 3,
@@ -2721,7 +2721,9 @@
     "Daily Sabah": 1,
     "India Today": 1,
     "NGSC Sports": 1,
-    "The Straits Times": 1
+    "The Straits Times": 1,
+    "Middle East Monitor": 1,
+    "RFI": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -2741,7 +2743,7 @@
     ],
     "Financial Times": [
      0,
-     20,
+     21,
      0
     ],
     "Al-Monitor": [
@@ -2751,7 +2753,7 @@
     ],
     "Reuters": [
      0,
-     44,
+     45,
      0
     ],
     "Bloomberg.com": [
@@ -2881,7 +2883,7 @@
     ],
     "The New York Times": [
      0,
-     4,
+     5,
      0
     ],
     "Arab News": [
@@ -2896,7 +2898,7 @@
     ],
     "Nikkei Asia": [
      0,
-     3,
+     4,
      0
     ],
     "Spiegel": [
@@ -3260,6 +3262,16 @@
      0
     ],
     "The Straits Times": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Monitor": [
+     0,
+     1,
+     0
+    ],
+    "RFI": [
      0,
      1,
      0
