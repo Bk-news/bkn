@@ -2,6 +2,27 @@
  "day": "2026-11-01",
  "items": [
   {
+   "id": "b3fda4e12eb365ab",
+   "origin": "rss",
+   "source": "Financial Times",
+   "author": "",
+   "title_ar": "توقعات شركة HF Sinclair، DINO:NYQ - FT.com",
+   "title_orig": "HF Sinclair Corporation, DINO:NYQ forecasts - FT.com",
+   "title_en": "HF Sinclair Corporation, DINO:NYQ forecasts - FT.com",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aUWY2UWpXQTA0bkxYdUtuZjVWQ2lVTVZCOVhxVEZTaFpwUEJhVDNiT1E4RU5vLTBEQTJURXhEYkt3anlwdldXaGhhd0RWM2dIS3VPLXlIR0pCVy1ibU1FWE5GRzVhNDlrSG5LOUVmRkxyUkhpSkd2Y21GMGZ6djA?oc=5",
+   "published": "2026-11-01T23:59:50.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "HF Sinclair Corporation, DINO:NYQ forecasts - FT.com &nbsp;&nbsp; Financial Times",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "5c3f1b55f9107816",
    "origin": "rss",
    "source": "The Guardian",
