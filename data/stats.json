@@ -2602,15 +2602,15 @@
    }
   },
   "2026-11-03": {
-   "total": 632,
-   "news": 620,
+   "total": 634,
+   "news": 622,
    "articles": 12,
    "positive": 0,
-   "neutral": 632,
+   "neutral": 634,
    "critical": 0,
    "mbs": 8,
    "countries": {
-    "US": 208,
+    "US": 209,
     "GB": 161,
     "HK": 6,
     "FR": 6,
@@ -2658,7 +2658,7 @@
     "Spiegel": 3,
     "Saudi Gazette": 11,
     "ASHARQ AL-AWSAT English": 4,
-    "AP News": 63,
+    "AP News": 64,
     "Bloom Pakistan": 1,
     "Jordan News": 1,
     "Baird Maritime": 2,
@@ -2766,7 +2766,8 @@
     "DW.com": 1,
     "ABNA English": 1,
     "Global Arab Network": 1,
-    "EU Today": 1
+    "EU Today": 1,
+    "Middle East Online": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -2961,7 +2962,7 @@
     ],
     "AP News": [
      0,
-     63,
+     64,
      0
     ],
     "Bloom Pakistan": [
@@ -3500,6 +3501,11 @@
      0
     ],
     "EU Today": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Online": [
      0,
      1,
      0
