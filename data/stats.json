@@ -2590,11 +2590,11 @@
    }
   },
   "2026-11-03": {
-   "total": 31,
-   "news": 31,
+   "total": 33,
+   "news": 33,
    "articles": 0,
    "positive": 0,
-   "neutral": 31,
+   "neutral": 33,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -2616,7 +2616,7 @@
     "BBC": 1,
     "The Guardian": 1,
     "South China Morning Post": 1,
-    "Hindustan Times": 2,
+    "Hindustan Times": 3,
     "Jordan Times": 1,
     "Yemen Online": 1,
     "PotatoPro": 1,
@@ -2629,7 +2629,8 @@
     "Facebook": 1,
     "Gulf News": 1,
     "https://houseofsaud.com/": 1,
-    "France 24": 1
+    "France 24": 1,
+    "Xinhua": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -2689,7 +2690,7 @@
     ],
     "Hindustan Times": [
      0,
-     2,
+     3,
      0
     ],
     "Jordan Times": [
@@ -2753,6 +2754,11 @@
      0
     ],
     "France 24": [
+     0,
+     1,
+     0
+    ],
+    "Xinhua": [
      0,
      1,
      0
