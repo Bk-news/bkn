@@ -565,18 +565,18 @@
    }
   },
   "2026-11-01": {
-   "total": 467,
-   "news": 465,
+   "total": 468,
+   "news": 466,
    "articles": 2,
    "positive": 0,
-   "neutral": 467,
+   "neutral": 468,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 76,
     "GB": 119,
     "FR": 8,
-    "US": 48,
+    "US": 49,
     "HK": 3,
     "DE": 1
    },
@@ -671,7 +671,7 @@
     "Bangladesh Sangbad Sangstha (BSS)": 2,
     "IndexBox": 2,
     "X": 1,
-    "The New York Times": 13,
+    "The New York Times": 14,
     "www.kenyans.live": 1,
     "The Washington Post": 1,
     "Spiegel": 1,
@@ -1178,7 +1178,7 @@
     ],
     "The New York Times": [
      0,
-     13,
+     14,
      0
     ],
     "www.kenyans.live": [
@@ -1469,16 +1469,16 @@
    }
   },
   "2026-11-02": {
-   "total": 580,
-   "news": 576,
+   "total": 581,
+   "news": 577,
    "articles": 4,
    "positive": 0,
-   "neutral": 580,
+   "neutral": 581,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "GB": 134,
-    "US": 103,
+    "US": 104,
     "SA": 69,
     "HK": 4,
     "FR": 13,
@@ -1526,7 +1526,7 @@
     "Arabisk London": 1,
     "New Age BD": 1,
     "Agenda Pública": 1,
-    "The New York Times": 11,
+    "The New York Times": 12,
     "Ship & Bunker": 1,
     "ChemNet News": 1,
     "Saudi Gazette": 16,
@@ -1868,7 +1868,7 @@
     ],
     "The New York Times": [
      0,
-     11,
+     12,
      0
     ],
     "Ship & Bunker": [
@@ -2584,11 +2584,11 @@
    }
   },
   "2026-11-03": {
-   "total": 26,
-   "news": 26,
+   "total": 27,
+   "news": 27,
    "articles": 0,
    "positive": 0,
-   "neutral": 26,
+   "neutral": 27,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -2617,7 +2617,8 @@
     "The China-Global South Project": 1,
     "UA.NEWS": 1,
     "Anadolu Ajansı": 1,
-    "TRT World": 1
+    "TRT World": 1,
+    "FIFA": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -2716,6 +2717,11 @@
      0
     ],
     "TRT World": [
+     0,
+     1,
+     0
+    ],
+    "FIFA": [
      0,
      1,
      0
