@@ -2590,11 +2590,11 @@
    }
   },
   "2026-11-03": {
-   "total": 259,
-   "news": 255,
+   "total": 260,
+   "news": 256,
    "articles": 4,
    "positive": 0,
-   "neutral": 259,
+   "neutral": 260,
    "critical": 0,
    "mbs": 6,
    "countries": {
@@ -2664,7 +2664,7 @@
     "The Arab Weekly": 1,
     "صوت الإمارات": 2,
     "TechAfrica News": 2,
-    "TradingView": 3,
+    "TradingView": 4,
     "Forbes Middle East": 1,
     "The Express Tribune": 1,
     "Korea JoongAng Daily": 1,
@@ -2986,7 +2986,7 @@
     ],
     "TradingView": [
      0,
-     3,
+     4,
      0
     ],
     "Forbes Middle East": [
