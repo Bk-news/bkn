@@ -1469,13 +1469,13 @@
    }
   },
   "2026-11-02": {
-   "total": 766,
-   "news": 761,
+   "total": 767,
+   "news": 762,
    "articles": 5,
    "positive": 0,
-   "neutral": 766,
+   "neutral": 767,
    "critical": 0,
-   "mbs": 19,
+   "mbs": 20,
    "countries": {
     "GB": 212,
     "US": 194,
@@ -1670,7 +1670,8 @@
     "People Daily": 1,
     "Dallas Express": 1,
     "Dawn": 1,
-    "DW.com": 1
+    "DW.com": 1,
+    "Awani International": 1
    },
    "sourceTone": {
     "Cageside Seats": [
@@ -2592,23 +2593,28 @@
      0,
      1,
      0
+    ],
+    "Awani International": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-03": {
-   "total": 586,
-   "news": 575,
+   "total": 588,
+   "news": 577,
    "articles": 11,
    "positive": 0,
-   "neutral": 586,
+   "neutral": 588,
    "critical": 0,
    "mbs": 8,
    "countries": {
     "US": 189,
-    "GB": 147,
+    "GB": 148,
     "HK": 6,
     "FR": 6,
-    "SA": 52,
+    "SA": 53,
     "JP": 4,
     "DE": 3
    },
@@ -2619,7 +2625,7 @@
     "WSJ": 30,
     "Financial Times": 32,
     "Al-Monitor": 34,
-    "Reuters": 83,
+    "Reuters": 84,
     "Bloomberg.com": 53,
     "חרדים10": 1,
     "BBC": 18,
@@ -2646,7 +2652,7 @@
     "Le Monde.fr": 1,
     "Access Partnership": 1,
     "The New York Times": 6,
-    "Arab News": 47,
+    "Arab News": 48,
     "Foreign Affairs": 2,
     "Nikkei Asia": 4,
     "Spiegel": 3,
@@ -2786,7 +2792,7 @@
     ],
     "Reuters": [
      0,
-     83,
+     84,
      0
     ],
     "Bloomberg.com": [
@@ -2921,7 +2927,7 @@
     ],
     "Arab News": [
      0,
-     47,
+     48,
      0
     ],
     "Foreign Affairs": [
