@@ -1,5 +1,17 @@
 [
  {
+  "id": "67bf00cce8db8759",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "الدفاع المدني السعودي: زوال الخطر عن منطقة الرياض",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152275",
+  "published": "2026-11-03T23:58:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-03T23:58:01.000Z"
+ },
+ {
   "id": "875b3e9889a2f4a3",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -94,17 +106,5 @@
   "published": "2026-11-03T23:02:02.000Z",
   "subject": "saudi",
   "added": "2026-11-03T23:02:02.000Z"
- },
- {
-  "id": "7ceb54bc51296ee4",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "زعيم الديمقراطيين في مجلس النواب: نحن على حافة الفوز",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152266",
-  "published": "2026-11-03T22:58:02.000Z",
-  "subject": "saudi",
-  "added": "2026-11-03T22:58:02.000Z"
  }
 ]
