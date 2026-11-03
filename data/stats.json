@@ -1469,15 +1469,15 @@
    }
   },
   "2026-11-02": {
-   "total": 689,
+   "total": 690,
    "news": 685,
-   "articles": 4,
+   "articles": 5,
    "positive": 0,
-   "neutral": 689,
+   "neutral": 690,
    "critical": 0,
    "mbs": 19,
    "countries": {
-    "GB": 187,
+    "GB": 188,
     "US": 149,
     "SA": 78,
     "HK": 4,
@@ -1538,7 +1538,7 @@
     "Nikkei Asia": 1,
     "BBC": 7,
     "Le Monde.fr": 8,
-    "The Economist": 1,
+    "The Economist": 2,
     "The Media Line": 1,
     "Nigerian Bulletin": 3,
     "The New Arab": 1,
@@ -1929,7 +1929,7 @@
     ],
     "The Economist": [
      0,
-     1,
+     2,
      0
     ],
     "The Media Line": [
