@@ -7499,6 +7499,27 @@
    "mt": true
   },
   {
+   "id": "702a8cbe8e53c170",
+   "origin": "rss",
+   "source": "WSJ",
+   "author": "",
+   "title_ar": "النقاط العشر - أخبار، مقالات، سيرة ذاتية، صور",
+   "title_orig": "The 10-Point - News, Articles, Biography, Photos",
+   "title_en": "The 10-Point - News, Articles, Biography, Photos",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pQzVsdGtmVWE0VDVPV0ZtRHFKVW41V1BjTWtaZmpRMnM2YWpmLWo2X3pveURiZ3VnTEN6RGFENjM3NkdPQjV4U0k5a3JSbUxzb2MyaVdqb2VIdmk3Nm1FanVfVmo?oc=5",
+   "published": "2026-11-02T11:59:15.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "The 10-Point - News, Articles, Biography, Photos &nbsp;&nbsp; WSJ",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "3bde77e832b5f919",
    "origin": "rss",
    "source": "Reuters",
