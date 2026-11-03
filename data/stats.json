@@ -2596,16 +2596,16 @@
    }
   },
   "2026-11-03": {
-   "total": 333,
-   "news": 328,
+   "total": 339,
+   "news": 334,
    "articles": 5,
    "positive": 0,
-   "neutral": 333,
+   "neutral": 339,
    "critical": 0,
    "mbs": 6,
    "countries": {
-    "US": 79,
-    "GB": 85,
+    "US": 81,
+    "GB": 87,
     "HK": 4,
     "FR": 3,
     "SA": 27,
@@ -2617,13 +2617,13 @@
     "Asia News Network": 1,
     "The Washington Post": 6,
     "WSJ": 18,
-    "Financial Times": 21,
-    "Al-Monitor": 6,
-    "Reuters": 49,
+    "Financial Times": 22,
+    "Al-Monitor": 8,
+    "Reuters": 50,
     "Bloomberg.com": 35,
     "חרדים10": 1,
     "BBC": 8,
-    "The Guardian": 10,
+    "The Guardian": 11,
     "South China Morning Post": 4,
     "Hindustan Times": 3,
     "Jordan Times": 1,
@@ -2725,7 +2725,8 @@
     "Middle East Monitor": 1,
     "RFI": 1,
     "Yahoo Sports": 1,
-    "www.jordannews.jo": 1
+    "www.jordannews.jo": 1,
+    "NewsCord": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -2745,17 +2746,17 @@
     ],
     "Financial Times": [
      0,
-     21,
+     22,
      0
     ],
     "Al-Monitor": [
      0,
-     6,
+     8,
      0
     ],
     "Reuters": [
      0,
-     49,
+     50,
      0
     ],
     "Bloomberg.com": [
@@ -2775,7 +2776,7 @@
     ],
     "The Guardian": [
      0,
-     10,
+     11,
      0
     ],
     "South China Morning Post": [
@@ -3284,6 +3285,11 @@
      0
     ],
     "www.jordannews.jo": [
+     0,
+     1,
+     0
+    ],
+    "NewsCord": [
      0,
      1,
      0
