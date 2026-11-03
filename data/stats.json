@@ -2596,16 +2596,16 @@
    }
   },
   "2026-11-03": {
-   "total": 298,
-   "news": 293,
+   "total": 301,
+   "news": 296,
    "articles": 5,
    "positive": 0,
-   "neutral": 298,
+   "neutral": 301,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "US": 70,
-    "GB": 75,
+    "GB": 76,
     "HK": 4,
     "FR": 3,
     "SA": 25,
@@ -2623,7 +2623,7 @@
     "Bloomberg.com": 35,
     "חרדים10": 1,
     "BBC": 8,
-    "The Guardian": 9,
+    "The Guardian": 10,
     "South China Morning Post": 4,
     "Hindustan Times": 3,
     "Jordan Times": 1,
@@ -2716,7 +2716,9 @@
     "وكالة صدى نيوز": 1,
     "Foreign Policy": 1,
     "Goal.com": 1,
-    "WRAL": 1
+    "WRAL": 1,
+    "L'Orient Today": 1,
+    "Daily Sabah": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -2766,7 +2768,7 @@
     ],
     "The Guardian": [
      0,
-     9,
+     10,
      0
     ],
     "South China Morning Post": [
@@ -3230,6 +3232,16 @@
      0
     ],
     "WRAL": [
+     0,
+     1,
+     0
+    ],
+    "L'Orient Today": [
+     0,
+     1,
+     0
+    ],
+    "Daily Sabah": [
      0,
      1,
      0
