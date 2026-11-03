@@ -565,18 +565,18 @@
    }
   },
   "2026-11-01": {
-   "total": 463,
-   "news": 461,
+   "total": 465,
+   "news": 463,
    "articles": 2,
    "positive": 0,
-   "neutral": 463,
+   "neutral": 465,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 76,
     "GB": 117,
     "FR": 8,
-    "US": 46,
+    "US": 48,
     "HK": 3,
     "DE": 1
    },
@@ -671,7 +671,7 @@
     "Bangladesh Sangbad Sangstha (BSS)": 2,
     "IndexBox": 2,
     "X": 1,
-    "The New York Times": 11,
+    "The New York Times": 13,
     "www.kenyans.live": 1,
     "The Washington Post": 1,
     "Spiegel": 1,
@@ -1178,7 +1178,7 @@
     ],
     "The New York Times": [
      0,
-     11,
+     13,
      0
     ],
     "www.kenyans.live": [
@@ -1469,35 +1469,35 @@
    }
   },
   "2026-11-02": {
-   "total": 546,
-   "news": 542,
+   "total": 564,
+   "news": 560,
    "articles": 4,
    "positive": 0,
-   "neutral": 546,
+   "neutral": 564,
    "critical": 0,
-   "mbs": 17,
+   "mbs": 18,
    "countries": {
-    "GB": 128,
-    "US": 99,
-    "SA": 63,
+    "GB": 132,
+    "US": 103,
+    "SA": 68,
     "HK": 4,
-    "FR": 9,
+    "FR": 13,
     "JP": 1,
     "DE": 1
    },
    "topics": {},
    "sources": {
     "Cageside Seats": 1,
-    "The Guardian": 36,
-    "Financial Times": 40,
-    "Al-Monitor": 30,
-    "AP News": 8,
+    "The Guardian": 37,
+    "Financial Times": 42,
+    "Al-Monitor": 31,
+    "AP News": 9,
     "Bloomberg": 16,
     "Mehr News Agency": 5,
-    "Arab News": 65,
+    "Arab News": 67,
     "The Washington Post": 3,
     "وكالة الأنباء السعودية": 2,
-    "WSJ": 25,
+    "WSJ": 26,
     "TNGlobal": 1,
     "Facebook": 2,
     "Breakingthenews.net": 3,
@@ -1526,25 +1526,25 @@
     "Arabisk London": 1,
     "New Age BD": 1,
     "Agenda Pública": 1,
-    "The New York Times": 10,
+    "The New York Times": 11,
     "Ship & Bunker": 1,
     "ChemNet News": 1,
-    "Saudi Gazette": 12,
+    "Saudi Gazette": 15,
     "South China Morning Post": 4,
     "Reuters": 46,
-    "France 24": 4,
+    "France 24": 5,
     "CNN": 1,
     "New Telegraph": 2,
     "Nikkei Asia": 1,
-    "BBC": 6,
-    "Le Monde.fr": 5,
+    "BBC": 7,
+    "Le Monde.fr": 8,
     "The Economist": 1,
     "The Media Line": 1,
     "Nigerian Bulletin": 3,
     "The New Arab": 1,
     "Investing.com": 2,
     "Sportstar": 1,
-    "Fana News -": 2,
+    "Fana News -": 3,
     "PM News Nigeria": 1,
     "the-decoder.com": 1,
     "Peoples Gazette Nigeria": 1,
@@ -1673,22 +1673,22 @@
     ],
     "The Guardian": [
      0,
-     36,
+     37,
      0
     ],
     "Financial Times": [
      0,
-     40,
+     42,
      0
     ],
     "Al-Monitor": [
      0,
-     30,
+     31,
      0
     ],
     "AP News": [
      0,
-     8,
+     9,
      0
     ],
     "Bloomberg": [
@@ -1703,7 +1703,7 @@
     ],
     "Arab News": [
      0,
-     65,
+     67,
      0
     ],
     "The Washington Post": [
@@ -1718,7 +1718,7 @@
     ],
     "WSJ": [
      0,
-     25,
+     26,
      0
     ],
     "TNGlobal": [
@@ -1863,7 +1863,7 @@
     ],
     "The New York Times": [
      0,
-     10,
+     11,
      0
     ],
     "Ship & Bunker": [
@@ -1878,7 +1878,7 @@
     ],
     "Saudi Gazette": [
      0,
-     12,
+     15,
      0
     ],
     "South China Morning Post": [
@@ -1893,7 +1893,7 @@
     ],
     "France 24": [
      0,
-     4,
+     5,
      0
     ],
     "CNN": [
@@ -1913,12 +1913,12 @@
     ],
     "BBC": [
      0,
-     6,
+     7,
      0
     ],
     "Le Monde.fr": [
      0,
-     5,
+     8,
      0
     ],
     "The Economist": [
@@ -1953,7 +1953,7 @@
     ],
     "Fana News -": [
      0,
-     2,
+     3,
      0
     ],
     "PM News Nigeria": [
@@ -2547,6 +2547,115 @@
      0
     ],
     "Business Insider Africa": [
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "2026-11-03": {
+   "total": 20,
+   "news": 20,
+   "articles": 0,
+   "positive": 0,
+   "neutral": 20,
+   "critical": 0,
+   "mbs": 1,
+   "countries": {
+    "US": 7,
+    "GB": 6,
+    "HK": 1
+   },
+   "topics": {},
+   "sources": {
+    "Asia News Network": 1,
+    "The Washington Post": 2,
+    "WSJ": 3,
+    "Financial Times": 1,
+    "Al-Monitor": 1,
+    "Reuters": 3,
+    "Bloomberg.com": 1,
+    "חרדים10": 1,
+    "BBC": 1,
+    "The Guardian": 1,
+    "South China Morning Post": 1,
+    "Hindustan Times": 1,
+    "Jordan Times": 1,
+    "Yemen Online": 1,
+    "PotatoPro": 1
+   },
+   "sourceTone": {
+    "Asia News Network": [
+     0,
+     1,
+     0
+    ],
+    "The Washington Post": [
+     0,
+     2,
+     0
+    ],
+    "WSJ": [
+     0,
+     3,
+     0
+    ],
+    "Financial Times": [
+     0,
+     1,
+     0
+    ],
+    "Al-Monitor": [
+     0,
+     1,
+     0
+    ],
+    "Reuters": [
+     0,
+     3,
+     0
+    ],
+    "Bloomberg.com": [
+     0,
+     1,
+     0
+    ],
+    "חרדים10": [
+     0,
+     1,
+     0
+    ],
+    "BBC": [
+     0,
+     1,
+     0
+    ],
+    "The Guardian": [
+     0,
+     1,
+     0
+    ],
+    "South China Morning Post": [
+     0,
+     1,
+     0
+    ],
+    "Hindustan Times": [
+     0,
+     1,
+     0
+    ],
+    "Jordan Times": [
+     0,
+     1,
+     0
+    ],
+    "Yemen Online": [
+     0,
+     1,
+     0
+    ],
+    "PotatoPro": [
      0,
      1,
      0

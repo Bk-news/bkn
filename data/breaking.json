@@ -1,26 +1,86 @@
 [
  {
-  "id": "87aa2516dfbec855",
-  "origin": "royal",
-  "source": "واس الملكية",
+  "id": "3bab9f29ce6cc2b9",
+  "origin": "telegram",
+  "source": "العربية عاجل",
   "country": "SA",
-  "title_ar": "سمو ولي العهد يستقبل ولي عهد الأردن.",
+  "title_ar": "ترمب لفوكس نيوز: إيران ليست في موقع تفاوضي جيد",
   "summary_ar": [],
-  "url": "https://www.youtube.com/watch?v=J3XETl9Qtk4",
-  "published": "2026-11-02T21:16:59.000Z",
-  "subject": "mbs",
-  "added": "2026-11-02T21:49:59.429Z"
+  "url": "https://t.me/alarabiyaBr/152146",
+  "published": "2026-11-03T02:58:02.000Z",
+  "subject": "saudi",
+  "added": "2026-11-03T02:58:02.000Z"
  },
  {
-  "id": "4ea18f07d8029dd4",
-  "origin": "royal",
-  "source": "واس الملكية",
+  "id": "4540c09971eefeef",
+  "origin": "telegram",
+  "source": "العربية عاجل",
   "country": "SA",
-  "title_ar": "سمو ولي العهد يستقبل ولي عهد الأردن",
+  "title_ar": "ترمب لفوكس نيوز: قد نعمل على تدمير موقع جبل الفأس في إيران",
   "summary_ar": [],
-  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ZRVpNYTBTc2trU3NsMGt1OVg5amhRazBiRnpKYXo0UW05OWlyM3hjT0xiRFhkMFVFZFpmTlRrSVdlRERTWnc?oc=5",
-  "published": "2026-11-02T20:43:03.000Z",
-  "subject": "mbs",
-  "added": "2026-11-02T21:49:59.429Z"
+  "url": "https://t.me/alarabiyaBr/152145",
+  "published": "2026-11-03T02:57:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-03T02:57:01.000Z"
+ },
+ {
+  "id": "67df2784c30f6347",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "ترمب لفوكس نيوز: دمرنا كل القدرات النووية الإيرانية",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152144",
+  "published": "2026-11-03T02:56:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-03T02:56:01.000Z"
+ },
+ {
+  "id": "2e2ee7f59b245e9d",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "ترمب لفوكس نيوز: لن نسمح لإيران بامتلاك سلاح نووي",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152143",
+  "published": "2026-11-03T02:47:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-03T02:47:01.000Z"
+ },
+ {
+  "id": "13f27b26c07473b5",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "ترمب لفوكس نيوز: إيران قتلت الكثير من الجنود الأميركيين على مدى 50 عاما",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152142",
+  "published": "2026-11-03T02:45:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-03T02:45:01.000Z"
+ },
+ {
+  "id": "341b409e2e2f8a62",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "ترمب لفوكس نيوز: اتفاق أوباما مع إيران كان سيفتح الطريق أمامها لامتلاك سلاح نووي",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152141",
+  "published": "2026-11-03T02:44:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-03T02:44:01.000Z"
+ },
+ {
+  "id": "49d3648300594e6e",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "مسؤول أميركي: واشنطن نفذت ضربات دفاعية ضد أهداف إيرانية في مضيق هرمز",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152140",
+  "published": "2026-11-03T02:23:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-03T02:23:01.000Z"
  }
 ]
