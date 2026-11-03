@@ -2602,19 +2602,19 @@
    }
   },
   "2026-11-03": {
-   "total": 775,
-   "news": 758,
+   "total": 778,
+   "news": 761,
    "articles": 17,
    "positive": 0,
-   "neutral": 775,
+   "neutral": 778,
    "critical": 0,
    "mbs": 10,
    "countries": {
-    "US": 268,
+    "US": 269,
     "GB": 190,
     "HK": 6,
     "FR": 7,
-    "SA": 80,
+    "SA": 81,
     "JP": 4,
     "DE": 3
    },
@@ -2638,7 +2638,7 @@
     "Source ONE News": 1,
     "The China-Global South Project": 1,
     "UA.NEWS": 2,
-    "Anadolu Ajansı": 6,
+    "Anadolu Ajansı": 7,
     "TRT World": 2,
     "FIFA": 1,
     "Facebook": 1,
@@ -2651,8 +2651,8 @@
     "Chosunbiz": 1,
     "Le Monde.fr": 1,
     "Access Partnership": 1,
-    "The New York Times": 9,
-    "Arab News": 76,
+    "The New York Times": 10,
+    "Arab News": 77,
     "Foreign Affairs": 3,
     "Nikkei Asia": 4,
     "Spiegel": 3,
@@ -2876,7 +2876,7 @@
     ],
     "Anadolu Ajansı": [
      0,
-     6,
+     7,
      0
     ],
     "TRT World": [
@@ -2941,12 +2941,12 @@
     ],
     "The New York Times": [
      0,
-     9,
+     10,
      0
     ],
     "Arab News": [
      0,
-     76,
+     77,
      0
     ],
     "Foreign Affairs": [
