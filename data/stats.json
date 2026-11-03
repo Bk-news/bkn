@@ -2590,11 +2590,11 @@
    }
   },
   "2026-11-03": {
-   "total": 35,
-   "news": 35,
+   "total": 36,
+   "news": 36,
    "articles": 0,
    "positive": 0,
-   "neutral": 35,
+   "neutral": 36,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -2630,7 +2630,8 @@
     "Gulf News": 1,
     "https://houseofsaud.com/": 1,
     "France 24": 1,
-    "Xinhua": 1
+    "Xinhua": 1,
+    "The National": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -2759,6 +2760,11 @@
      0
     ],
     "Xinhua": [
+     0,
+     1,
+     0
+    ],
+    "The National": [
      0,
      1,
      0
