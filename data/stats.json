@@ -1469,16 +1469,16 @@
    }
   },
   "2026-11-02": {
-   "total": 699,
-   "news": 694,
+   "total": 701,
+   "news": 696,
    "articles": 5,
    "positive": 0,
-   "neutral": 699,
+   "neutral": 701,
    "critical": 0,
    "mbs": 19,
    "countries": {
-    "GB": 194,
-    "US": 151,
+    "GB": 195,
+    "US": 152,
     "SA": 78,
     "HK": 4,
     "FR": 13,
@@ -1531,7 +1531,7 @@
     "ChemNet News": 1,
     "Saudi Gazette": 17,
     "South China Morning Post": 4,
-    "Reuters": 84,
+    "Reuters": 85,
     "France 24": 5,
     "CNN": 1,
     "New Telegraph": 2,
@@ -1611,7 +1611,7 @@
     "Instagram": 1,
     "The Jerusalem Post": 2,
     "JFeed": 1,
-    "Bloomberg.com": 43,
+    "Bloomberg.com": 44,
     "Spiegel": 1,
     "Atlantic Council": 2,
     "Daily Times": 1,
@@ -1895,7 +1895,7 @@
     ],
     "Reuters": [
      0,
-     84,
+     85,
      0
     ],
     "France 24": [
@@ -2295,7 +2295,7 @@
     ],
     "Bloomberg.com": [
      0,
-     43,
+     44,
      0
     ],
     "Spiegel": [
@@ -2596,16 +2596,16 @@
    }
   },
   "2026-11-03": {
-   "total": 310,
-   "news": 305,
+   "total": 316,
+   "news": 311,
    "articles": 5,
    "positive": 0,
-   "neutral": 310,
+   "neutral": 316,
    "critical": 0,
    "mbs": 6,
    "countries": {
-    "US": 72,
-    "GB": 78,
+    "US": 77,
+    "GB": 79,
     "HK": 4,
     "FR": 3,
     "SA": 25,
@@ -2616,8 +2616,8 @@
    "sources": {
     "Asia News Network": 1,
     "The Washington Post": 6,
-    "WSJ": 13,
-    "Financial Times": 19,
+    "WSJ": 18,
+    "Financial Times": 20,
     "Al-Monitor": 6,
     "Reuters": 44,
     "Bloomberg.com": 35,
@@ -2735,12 +2735,12 @@
     ],
     "WSJ": [
      0,
-     13,
+     18,
      0
     ],
     "Financial Times": [
      0,
-     19,
+     20,
      0
     ],
     "Al-Monitor": [
