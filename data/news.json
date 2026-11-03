@@ -1,5 +1,25 @@
 [
  {
+  "id": "c55585748ac2be8f",
+  "origin": "rss",
+  "source": "Al Arabiya English",
+  "author": "",
+  "title_ar": "Palestinian FM Praises Saudi Arabia's Support",
+  "title_orig": "Palestinian FM Praises Saudi Arabia's Support",
+  "title_en": "Palestinian FM Praises Saudi Arabia's Support",
+  "summary_ar": [],
+  "summary_en": [],
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQjJjWEcyTU9OSUFFWUtiaVZNWTBHN21oNThEZzY4eUFXclZCSDh3dGRwTW83YmxIZVo5M1ZzdGptR2UteVcwenh3dXFielZQUHVVMzBmcWRpSzZvSXA5bjN5WWJ4dzQ1NlZjeTl0U0N5SnYwZDRaLUEzYWFab21jUzZiSFVGRG9BVkVIXzBlNDZqZ1ZEd2dBakotaDQ2QdIBowFBVV95cUxPU0VBY294eUZnOHJxS0kwYTBmZDdlcDlKaFVHZ0RQaTg4S2xvMmVVUlFuZjlZSmo5dG8wT2xlVjRTVmc4TTlER3FHSjNxckk1aW85MGhuTkFtS3VWTXFhYXVQUjdnVklhSTFXTGFScl82WFEzLUhnUDJlRmI2UmowTjNQQjQtSW9Fenk1R0pNeERmem9sT0l4ZjJiZmxCd01PNUdn?oc=5",
+  "published": "2026-11-03T23:34:43.000Z",
+  "subject": "saudi",
+  "tone": "neutral",
+  "topic": "",
+  "country": "",
+  "pending": true,
+  "desc": "Palestinian FM Praises Saudi Arabia's Support &nbsp;&nbsp; Al Arabiya English",
+  "lang": "en"
+ },
+ {
   "id": "fb7e888300551c18",
   "origin": "rss",
   "source": "Al-Monitor",
@@ -10409,27 +10429,6 @@
   "country": "",
   "pending": true,
   "desc": "Tehran Says Talks With Saudi Arabia Are Ongoing; Yemen Fighting Intensifies &nbsp;&nbsp; Haaretz",
-  "lang": "en",
-  "mt": true
- },
- {
-  "id": "7738100f75db5a40",
-  "origin": "rss",
-  "source": "AP News",
-  "author": "",
-  "title_ar": "بعد أشهر من الضياع في البحر على متن قارب صغير، تم إنقاذ 5 أشخاص في جزيرة كيريباتي",
-  "title_orig": "After months lost at sea on a small boat, 5 people are rescued in the island nation of Kiribati",
-  "title_en": "After months lost at sea on a small boat, 5 people are rescued in the island nation of Kiribati",
-  "summary_ar": [],
-  "summary_en": [],
-  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZFJGUVB2Q0RlY1B5cWxpTm5SaTN6MTJEUk8xblJMaDBmUlA0Q19vZGlHd24xd29OaXRVTzZYUlBrcHpXc1E1LWxzeTJvUEhKOVZDNmFFM1hzRDhuQVNudGdhdWo1VjZDQzlmWXhwWlBBZjR1bUJQaG1Td3o1QkJwa0hiMFltWkN1Z2J5Y0xpaTBMUkpMNzdwcHpHQXBZdw?oc=5",
-  "published": "2026-11-03T08:01:00.000Z",
-  "subject": "saudi",
-  "tone": "neutral",
-  "topic": "",
-  "country": "US",
-  "pending": true,
-  "desc": "After months lost at sea on a small boat, 5 people are rescued in the island nation of Kiribati &nbsp;&nbsp; AP News",
   "lang": "en",
   "mt": true
  }

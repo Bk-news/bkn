@@ -2602,11 +2602,11 @@
    }
   },
   "2026-11-03": {
-   "total": 791,
-   "news": 773,
+   "total": 792,
+   "news": 774,
    "articles": 18,
    "positive": 0,
-   "neutral": 791,
+   "neutral": 792,
    "critical": 0,
    "mbs": 10,
    "countries": {
@@ -2662,7 +2662,7 @@
     "Bloom Pakistan": 1,
     "Jordan News": 1,
     "Baird Maritime": 2,
-    "Al Arabiya English": 6,
+    "Al Arabiya English": 7,
     "AKIpress News Agency": 1,
     "The Korea Herald": 1,
     "Le Monde diplomatique - English edition": 1,
@@ -2997,7 +2997,7 @@
     ],
     "Al Arabiya English": [
      0,
-     6,
+     7,
      0
     ],
     "AKIpress News Agency": [
