@@ -2596,19 +2596,19 @@
    }
   },
   "2026-11-03": {
-   "total": 323,
-   "news": 318,
+   "total": 325,
+   "news": 320,
    "articles": 5,
    "positive": 0,
-   "neutral": 323,
+   "neutral": 325,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "US": 78,
-    "GB": 81,
+    "GB": 82,
     "HK": 4,
     "FR": 3,
-    "SA": 25,
+    "SA": 26,
     "JP": 4,
     "DE": 3
    },
@@ -2619,7 +2619,7 @@
     "WSJ": 18,
     "Financial Times": 21,
     "Al-Monitor": 6,
-    "Reuters": 45,
+    "Reuters": 46,
     "Bloomberg.com": 35,
     "חרדים10": 1,
     "BBC": 8,
@@ -2650,7 +2650,7 @@
     "Foreign Affairs": 2,
     "Nikkei Asia": 4,
     "Spiegel": 3,
-    "Saudi Gazette": 5,
+    "Saudi Gazette": 6,
     "ASHARQ AL-AWSAT English": 3,
     "AP News": 5,
     "Bloom Pakistan": 1,
@@ -2753,7 +2753,7 @@
     ],
     "Reuters": [
      0,
-     45,
+     46,
      0
     ],
     "Bloomberg.com": [
@@ -2908,7 +2908,7 @@
     ],
     "Saudi Gazette": [
      0,
-     5,
+     6,
      0
     ],
     "ASHARQ AL-AWSAT English": [
