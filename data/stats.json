@@ -2596,20 +2596,20 @@
    }
   },
   "2026-11-03": {
-   "total": 305,
-   "news": 300,
+   "total": 310,
+   "news": 305,
    "articles": 5,
    "positive": 0,
-   "neutral": 305,
+   "neutral": 310,
    "critical": 0,
    "mbs": 6,
    "countries": {
-    "US": 70,
+    "US": 72,
     "GB": 78,
     "HK": 4,
     "FR": 3,
     "SA": 25,
-    "JP": 2,
+    "JP": 3,
     "DE": 3
    },
    "topics": {},
@@ -2636,7 +2636,7 @@
     "TRT World": 2,
     "FIFA": 1,
     "Facebook": 1,
-    "Gulf News": 2,
+    "Gulf News": 3,
     "https://houseofsaud.com/": 1,
     "France 24": 3,
     "Xinhua": 1,
@@ -2648,7 +2648,7 @@
     "The New York Times": 4,
     "Arab News": 21,
     "Foreign Affairs": 2,
-    "Nikkei Asia": 2,
+    "Nikkei Asia": 3,
     "Spiegel": 3,
     "Saudi Gazette": 5,
     "ASHARQ AL-AWSAT English": 3,
@@ -2712,14 +2712,15 @@
     "The Hindu": 1,
     "Fana News -": 1,
     "www.marketscreener.com": 1,
-    "Bloomberg": 2,
+    "Bloomberg": 4,
     "وكالة صدى نيوز": 1,
     "Foreign Policy": 1,
     "Goal.com": 2,
     "WRAL": 1,
     "L'Orient Today": 1,
     "Daily Sabah": 1,
-    "India Today": 1
+    "India Today": 1,
+    "NGSC Sports": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -2834,7 +2835,7 @@
     ],
     "Gulf News": [
      0,
-     2,
+     3,
      0
     ],
     "https://houseofsaud.com/": [
@@ -2894,7 +2895,7 @@
     ],
     "Nikkei Asia": [
      0,
-     2,
+     3,
      0
     ],
     "Spiegel": [
@@ -3214,7 +3215,7 @@
     ],
     "Bloomberg": [
      0,
-     2,
+     4,
      0
     ],
     "وكالة صدى نيوز": [
@@ -3248,6 +3249,11 @@
      0
     ],
     "India Today": [
+     0,
+     1,
+     0
+    ],
+    "NGSC Sports": [
      0,
      1,
      0
