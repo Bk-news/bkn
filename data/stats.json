@@ -2590,32 +2590,35 @@
    }
   },
   "2026-11-03": {
-   "total": 38,
-   "news": 38,
-   "articles": 0,
+   "total": 78,
+   "news": 76,
+   "articles": 2,
    "positive": 0,
-   "neutral": 38,
+   "neutral": 78,
    "critical": 0,
-   "mbs": 1,
+   "mbs": 3,
    "countries": {
-    "US": 8,
-    "GB": 7,
-    "HK": 1,
-    "FR": 1
+    "US": 23,
+    "GB": 16,
+    "HK": 3,
+    "FR": 3,
+    "SA": 4,
+    "JP": 1,
+    "DE": 2
    },
    "topics": {},
    "sources": {
     "Asia News Network": 1,
-    "The Washington Post": 3,
-    "WSJ": 3,
-    "Financial Times": 1,
-    "Al-Monitor": 1,
-    "Reuters": 3,
-    "Bloomberg.com": 1,
+    "The Washington Post": 5,
+    "WSJ": 5,
+    "Financial Times": 3,
+    "Al-Monitor": 3,
+    "Reuters": 6,
+    "Bloomberg.com": 3,
     "חרדים10": 1,
-    "BBC": 1,
-    "The Guardian": 2,
-    "South China Morning Post": 1,
+    "BBC": 3,
+    "The Guardian": 4,
+    "South China Morning Post": 3,
     "Hindustan Times": 3,
     "Jordan Times": 1,
     "Yemen Online": 1,
@@ -2629,11 +2632,22 @@
     "Facebook": 1,
     "Gulf News": 1,
     "https://houseofsaud.com/": 1,
-    "France 24": 1,
+    "France 24": 3,
     "Xinhua": 1,
-    "The National": 1,
+    "The National": 2,
     "조선일보": 1,
-    "Chosunbiz": 1
+    "Chosunbiz": 1,
+    "Le Monde.fr": 1,
+    "Access Partnership": 1,
+    "The New York Times": 3,
+    "Arab News": 2,
+    "Foreign Affairs": 2,
+    "Nikkei Asia": 1,
+    "Spiegel": 2,
+    "Saudi Gazette": 2,
+    "ASHARQ AL-AWSAT English": 1,
+    "AP News": 2,
+    "Bloom Pakistan": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -2643,32 +2657,32 @@
     ],
     "The Washington Post": [
      0,
-     3,
+     5,
      0
     ],
     "WSJ": [
      0,
-     3,
+     5,
      0
     ],
     "Financial Times": [
      0,
-     1,
+     3,
      0
     ],
     "Al-Monitor": [
      0,
-     1,
+     3,
      0
     ],
     "Reuters": [
      0,
-     3,
+     6,
      0
     ],
     "Bloomberg.com": [
      0,
-     1,
+     3,
      0
     ],
     "חרדים10": [
@@ -2678,17 +2692,17 @@
     ],
     "BBC": [
      0,
-     1,
+     3,
      0
     ],
     "The Guardian": [
      0,
-     2,
+     4,
      0
     ],
     "South China Morning Post": [
      0,
-     1,
+     3,
      0
     ],
     "Hindustan Times": [
@@ -2758,7 +2772,7 @@
     ],
     "France 24": [
      0,
-     1,
+     3,
      0
     ],
     "Xinhua": [
@@ -2768,7 +2782,7 @@
     ],
     "The National": [
      0,
-     1,
+     2,
      0
     ],
     "조선일보": [
@@ -2777,6 +2791,61 @@
      0
     ],
     "Chosunbiz": [
+     0,
+     1,
+     0
+    ],
+    "Le Monde.fr": [
+     0,
+     1,
+     0
+    ],
+    "Access Partnership": [
+     0,
+     1,
+     0
+    ],
+    "The New York Times": [
+     0,
+     3,
+     0
+    ],
+    "Arab News": [
+     0,
+     2,
+     0
+    ],
+    "Foreign Affairs": [
+     0,
+     2,
+     0
+    ],
+    "Nikkei Asia": [
+     0,
+     1,
+     0
+    ],
+    "Spiegel": [
+     0,
+     2,
+     0
+    ],
+    "Saudi Gazette": [
+     0,
+     2,
+     0
+    ],
+    "ASHARQ AL-AWSAT English": [
+     0,
+     1,
+     0
+    ],
+    "AP News": [
+     0,
+     2,
+     0
+    ],
+    "Bloom Pakistan": [
      0,
      1,
      0
