@@ -565,16 +565,16 @@
    }
   },
   "2026-11-01": {
-   "total": 484,
-   "news": 482,
+   "total": 486,
+   "news": 484,
    "articles": 2,
    "positive": 0,
-   "neutral": 484,
+   "neutral": 486,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 76,
-    "GB": 133,
+    "GB": 135,
     "FR": 8,
     "US": 51,
     "HK": 3,
@@ -595,7 +595,7 @@
     "Al-Monitor": 6,
     "Financial Times": 58,
     "WSJ": 11,
-    "The Guardian": 30,
+    "The Guardian": 32,
     "ASHARQ AL-AWSAT English": 13,
     "Daily Sabah": 2,
     "بوابة التكنولوجيا المالية": 1,
@@ -798,7 +798,7 @@
     ],
     "The Guardian": [
      0,
-     30,
+     32,
      0
     ],
     "ASHARQ AL-AWSAT English": [
@@ -1469,16 +1469,16 @@
    }
   },
   "2026-11-02": {
-   "total": 706,
-   "news": 701,
+   "total": 707,
+   "news": 702,
    "articles": 5,
    "positive": 0,
-   "neutral": 706,
+   "neutral": 707,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "GB": 196,
-    "US": 153,
+    "US": 154,
     "SA": 78,
     "HK": 4,
     "FR": 16,
@@ -1497,7 +1497,7 @@
     "Arab News": 75,
     "The Washington Post": 3,
     "وكالة الأنباء السعودية": 2,
-    "WSJ": 33,
+    "WSJ": 34,
     "TNGlobal": 1,
     "Facebook": 2,
     "Breakingthenews.net": 3,
@@ -1725,7 +1725,7 @@
     ],
     "WSJ": [
      0,
-     33,
+     34,
      0
     ],
     "TNGlobal": [
@@ -2596,19 +2596,19 @@
    }
   },
   "2026-11-03": {
-   "total": 415,
-   "news": 406,
+   "total": 452,
+   "news": 443,
    "articles": 9,
    "positive": 0,
-   "neutral": 415,
+   "neutral": 452,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 109,
-    "GB": 109,
+    "US": 127,
+    "GB": 118,
     "HK": 6,
     "FR": 6,
-    "SA": 37,
+    "SA": 42,
     "JP": 4,
     "DE": 3
    },
@@ -2616,13 +2616,13 @@
    "sources": {
     "Asia News Network": 1,
     "The Washington Post": 8,
-    "WSJ": 23,
+    "WSJ": 26,
     "Financial Times": 26,
-    "Al-Monitor": 14,
-    "Reuters": 57,
-    "Bloomberg.com": 39,
+    "Al-Monitor": 19,
+    "Reuters": 62,
+    "Bloomberg.com": 42,
     "חרדים10": 1,
-    "BBC": 13,
+    "BBC": 18,
     "The Guardian": 15,
     "South China Morning Post": 6,
     "Hindustan Times": 3,
@@ -2646,13 +2646,13 @@
     "Le Monde.fr": 1,
     "Access Partnership": 1,
     "The New York Times": 6,
-    "Arab News": 29,
+    "Arab News": 34,
     "Foreign Affairs": 2,
     "Nikkei Asia": 4,
     "Spiegel": 3,
     "Saudi Gazette": 11,
     "ASHARQ AL-AWSAT English": 4,
-    "AP News": 13,
+    "AP News": 18,
     "Bloom Pakistan": 1,
     "Jordan News": 1,
     "Baird Maritime": 1,
@@ -2671,8 +2671,8 @@
     "صوت الإمارات": 2,
     "TechAfrica News": 2,
     "TradingView": 4,
-    "Forbes Middle East": 1,
-    "The Express Tribune": 2,
+    "Forbes Middle East": 2,
+    "The Express Tribune": 3,
     "Korea JoongAng Daily": 1,
     "TradeArabia": 2,
     "Coliseum Global Sports Venue Alliance": 2,
@@ -2712,7 +2712,7 @@
     "The Hindu": 1,
     "Fana News -": 1,
     "www.marketscreener.com": 1,
-    "Bloomberg": 5,
+    "Bloomberg": 7,
     "وكالة صدى نيوز": 1,
     "Foreign Policy": 2,
     "Goal.com": 3,
@@ -2732,7 +2732,9 @@
     "BAE Systems": 1,
     "The Sun": 1,
     "lovin.co": 1,
-    "Data Center Dynamics": 1
+    "Data Center Dynamics": 1,
+    "Pipeline Technology Journal": 1,
+    "Taipei Times": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -2747,7 +2749,7 @@
     ],
     "WSJ": [
      0,
-     23,
+     26,
      0
     ],
     "Financial Times": [
@@ -2757,17 +2759,17 @@
     ],
     "Al-Monitor": [
      0,
-     14,
+     19,
      0
     ],
     "Reuters": [
      0,
-     57,
+     62,
      0
     ],
     "Bloomberg.com": [
      0,
-     39,
+     42,
      0
     ],
     "חרדים10": [
@@ -2777,7 +2779,7 @@
     ],
     "BBC": [
      0,
-     13,
+     18,
      0
     ],
     "The Guardian": [
@@ -2897,7 +2899,7 @@
     ],
     "Arab News": [
      0,
-     29,
+     34,
      0
     ],
     "Foreign Affairs": [
@@ -2927,7 +2929,7 @@
     ],
     "AP News": [
      0,
-     13,
+     18,
      0
     ],
     "Bloom Pakistan": [
@@ -3022,12 +3024,12 @@
     ],
     "Forbes Middle East": [
      0,
-     1,
+     2,
      0
     ],
     "The Express Tribune": [
      0,
-     2,
+     3,
      0
     ],
     "Korea JoongAng Daily": [
@@ -3227,7 +3229,7 @@
     ],
     "Bloomberg": [
      0,
-     5,
+     7,
      0
     ],
     "وكالة صدى نيوز": [
@@ -3326,6 +3328,16 @@
      0
     ],
     "Data Center Dynamics": [
+     0,
+     1,
+     0
+    ],
+    "Pipeline Technology Journal": [
+     0,
+     1,
+     0
+    ],
+    "Taipei Times": [
      0,
      1,
      0

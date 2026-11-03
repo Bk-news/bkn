@@ -779,6 +779,27 @@
    "mt": true
   },
   {
+   "id": "8cbc0f8194df2079",
+   "origin": "rss",
+   "source": "WSJ",
+   "author": "",
+   "title_ar": "تقرير إخباري عن الطاقة والمرافق: حديث السوق",
+   "title_orig": "Energy & Utilities Roundup: Market Talk",
+   "title_en": "Energy & Utilities Roundup: Market Talk",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiWnNEbXhzR01FWkpiYnNBaHBPMjNTT21LZ01MWFcwTnJ2bWswaGV6X2F3NzNadkVSenVWS3R0OVJCUnF5YW9LckhxWWFveDhuY0NKd1dmZHRweUMyS01MYnVtQXVDS0NTcUNzZVJDOFBBVnlqQ1BoZGxFS3dGYms?oc=5",
+   "published": "2026-11-02T22:26:00.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "Energy & Utilities Roundup: Market Talk &nbsp;&nbsp; WSJ",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "b690e4ea8b470535",
    "origin": "rss",
    "source": "The Washington Post",
