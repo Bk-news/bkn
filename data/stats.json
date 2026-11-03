@@ -2602,16 +2602,16 @@
    }
   },
   "2026-11-03": {
-   "total": 599,
-   "news": 588,
+   "total": 603,
+   "news": 592,
    "articles": 11,
    "positive": 0,
-   "neutral": 599,
+   "neutral": 603,
    "critical": 0,
    "mbs": 8,
    "countries": {
-    "US": 192,
-    "GB": 154,
+    "US": 194,
+    "GB": 155,
     "HK": 6,
     "FR": 6,
     "SA": 53,
@@ -2622,10 +2622,10 @@
    "sources": {
     "Asia News Network": 1,
     "The Washington Post": 8,
-    "WSJ": 30,
+    "WSJ": 31,
     "Financial Times": 36,
     "Al-Monitor": 34,
-    "Reuters": 86,
+    "Reuters": 87,
     "Bloomberg.com": 53,
     "חרדים10": 1,
     "BBC": 18,
@@ -2658,7 +2658,7 @@
     "Spiegel": 3,
     "Saudi Gazette": 11,
     "ASHARQ AL-AWSAT English": 4,
-    "AP News": 53,
+    "AP News": 54,
     "Bloom Pakistan": 1,
     "Jordan News": 1,
     "Baird Maritime": 2,
@@ -2764,7 +2764,8 @@
     "The New Arab": 1,
     "marketscreener.com": 1,
     "DW.com": 1,
-    "ABNA English": 1
+    "ABNA English": 1,
+    "Global Arab Network": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -2779,7 +2780,7 @@
     ],
     "WSJ": [
      0,
-     30,
+     31,
      0
     ],
     "Financial Times": [
@@ -2794,7 +2795,7 @@
     ],
     "Reuters": [
      0,
-     86,
+     87,
      0
     ],
     "Bloomberg.com": [
@@ -2959,7 +2960,7 @@
     ],
     "AP News": [
      0,
-     53,
+     54,
      0
     ],
     "Bloom Pakistan": [
@@ -3488,6 +3489,11 @@
      0
     ],
     "ABNA English": [
+     0,
+     1,
+     0
+    ],
+    "Global Arab Network": [
      0,
      1,
      0
