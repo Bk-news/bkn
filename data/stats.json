@@ -2602,11 +2602,11 @@
    }
   },
   "2026-11-03": {
-   "total": 630,
-   "news": 618,
+   "total": 632,
+   "news": 620,
    "articles": 12,
    "positive": 0,
-   "neutral": 630,
+   "neutral": 632,
    "critical": 0,
    "mbs": 8,
    "countries": {
@@ -2689,7 +2689,7 @@
     "Türkiye Today": 2,
     "Haaretz": 1,
     "The Independent": 1,
-    "شفق نيوز": 1,
+    "شفق نيوز": 2,
     "خبرگزاری بین المللی قدس": 1,
     "San Luis Obispo Tribune": 1,
     "SMH.com.au": 1,
@@ -2742,7 +2742,7 @@
     "Pipeline Technology Journal": 1,
     "Taipei Times": 1,
     "Slowtwitch News": 1,
-    "شبكة يافا الإخبارية": 1,
+    "شبكة يافا الإخبارية": 2,
     "AOL.com": 1,
     "endurance.biz": 1,
     "Credendo": 1,
@@ -3116,7 +3116,7 @@
     ],
     "شفق نيوز": [
      0,
-     1,
+     2,
      0
     ],
     "خبرگزاری بین المللی قدس": [
@@ -3381,7 +3381,7 @@
     ],
     "شبكة يافا الإخبارية": [
      0,
-     1,
+     2,
      0
     ],
     "AOL.com": [
