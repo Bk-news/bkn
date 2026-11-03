@@ -2590,11 +2590,11 @@
    }
   },
   "2026-11-03": {
-   "total": 27,
-   "news": 27,
+   "total": 28,
+   "news": 28,
    "articles": 0,
    "positive": 0,
-   "neutral": 27,
+   "neutral": 28,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -2624,7 +2624,8 @@
     "UA.NEWS": 1,
     "Anadolu Ajansı": 1,
     "TRT World": 1,
-    "FIFA": 1
+    "FIFA": 1,
+    "Facebook": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -2728,6 +2729,11 @@
      0
     ],
     "FIFA": [
+     0,
+     1,
+     0
+    ],
+    "Facebook": [
      0,
      1,
      0
