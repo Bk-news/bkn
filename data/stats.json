@@ -565,16 +565,16 @@
    }
   },
   "2026-11-01": {
-   "total": 465,
-   "news": 463,
+   "total": 467,
+   "news": 465,
    "articles": 2,
    "positive": 0,
-   "neutral": 465,
+   "neutral": 467,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 76,
-    "GB": 117,
+    "GB": 119,
     "FR": 8,
     "US": 48,
     "HK": 3,
@@ -593,7 +593,7 @@
     "Arab News": 77,
     "EA WorldView": 1,
     "Al-Monitor": 6,
-    "Financial Times": 49,
+    "Financial Times": 51,
     "WSJ": 11,
     "The Guardian": 29,
     "ASHARQ AL-AWSAT English": 13,
@@ -788,7 +788,7 @@
     ],
     "Financial Times": [
      0,
-     49,
+     51,
      0
     ],
     "WSJ": [
@@ -1469,17 +1469,17 @@
    }
   },
   "2026-11-02": {
-   "total": 564,
-   "news": 560,
+   "total": 580,
+   "news": 576,
    "articles": 4,
    "positive": 0,
-   "neutral": 564,
+   "neutral": 580,
    "critical": 0,
-   "mbs": 18,
+   "mbs": 19,
    "countries": {
-    "GB": 132,
+    "GB": 134,
     "US": 103,
-    "SA": 68,
+    "SA": 69,
     "HK": 4,
     "FR": 13,
     "JP": 1,
@@ -1501,14 +1501,14 @@
     "TNGlobal": 1,
     "Facebook": 2,
     "Breakingthenews.net": 3,
-    "Middle East Eye": 5,
+    "Middle East Eye": 6,
     "Punch Newspapers": 1,
     "TheCable": 1,
     "investingLive": 1,
     "The Kathmandu Post": 1,
     "Iran International": 1,
     "Devdiscourse": 1,
-    "Eurasia Review": 1,
+    "Eurasia Review": 2,
     "ESPN": 1,
     "Meetings & Conventions Asia": 1,
     "Ekantipur": 1,
@@ -1529,9 +1529,9 @@
     "The New York Times": 11,
     "Ship & Bunker": 1,
     "ChemNet News": 1,
-    "Saudi Gazette": 15,
+    "Saudi Gazette": 16,
     "South China Morning Post": 4,
-    "Reuters": 46,
+    "Reuters": 48,
     "France 24": 5,
     "CNN": 1,
     "New Telegraph": 2,
@@ -1544,7 +1544,7 @@
     "The New Arab": 1,
     "Investing.com": 2,
     "Sportstar": 1,
-    "Fana News -": 3,
+    "Fana News -": 5,
     "PM News Nigeria": 1,
     "the-decoder.com": 1,
     "Peoples Gazette Nigeria": 1,
@@ -1554,7 +1554,7 @@
     "ASHARQ AL-AWSAT English": 4,
     "Wamda": 1,
     "euro petrole": 1,
-    "Anadolu Ajansı": 5,
+    "Anadolu Ajansı": 6,
     "Logistics Middle East": 1,
     "The Siasat Daily": 1,
     "Fortify Rights": 1,
@@ -1591,7 +1591,7 @@
     "Startup Fortune": 1,
     "TradeArabia": 1,
     "SatellitePro ME": 1,
-    "UA.NEWS": 2,
+    "UA.NEWS": 3,
     "Yahoo! Finance Canada": 1,
     "BioSpace": 1,
     "شفق نيوز": 3,
@@ -1635,7 +1635,7 @@
     "GamesIndustry.biz": 1,
     "Pulse Nigeria": 1,
     "Goal.com": 1,
-    "Wrestling Inc.": 1,
+    "Wrestling Inc.": 2,
     "The National Interest": 1,
     "EIN News": 1,
     "Crude Oil Prices Today | OilPrice.com": 1,
@@ -1661,9 +1661,14 @@
     "Foreign Policy": 1,
     "White & Case LLP": 1,
     "Palestine Chronicle": 1,
-    "NPR": 1,
+    "NPR": 2,
     "Apa.az": 1,
-    "Business Insider Africa": 1
+    "Business Insider Africa": 1,
+    "Türkiye Today": 1,
+    "The Tribune": 1,
+    "Hotel Management Network": 1,
+    "People Daily": 1,
+    "Dallas Express": 1
    },
    "sourceTone": {
     "Cageside Seats": [
@@ -1738,7 +1743,7 @@
     ],
     "Middle East Eye": [
      0,
-     5,
+     6,
      0
     ],
     "Punch Newspapers": [
@@ -1773,7 +1778,7 @@
     ],
     "Eurasia Review": [
      0,
-     1,
+     2,
      0
     ],
     "ESPN": [
@@ -1878,7 +1883,7 @@
     ],
     "Saudi Gazette": [
      0,
-     15,
+     16,
      0
     ],
     "South China Morning Post": [
@@ -1888,7 +1893,7 @@
     ],
     "Reuters": [
      0,
-     46,
+     48,
      0
     ],
     "France 24": [
@@ -1953,7 +1958,7 @@
     ],
     "Fana News -": [
      0,
-     3,
+     5,
      0
     ],
     "PM News Nigeria": [
@@ -2003,7 +2008,7 @@
     ],
     "Anadolu Ajansı": [
      0,
-     5,
+     6,
      0
     ],
     "Logistics Middle East": [
@@ -2188,7 +2193,7 @@
     ],
     "UA.NEWS": [
      0,
-     2,
+     3,
      0
     ],
     "Yahoo! Finance Canada": [
@@ -2408,7 +2413,7 @@
     ],
     "Wrestling Inc.": [
      0,
-     1,
+     2,
      0
     ],
     "The National Interest": [
@@ -2538,7 +2543,7 @@
     ],
     "NPR": [
      0,
-     1,
+     2,
      0
     ],
     "Apa.az": [
@@ -2550,15 +2555,40 @@
      0,
      1,
      0
+    ],
+    "Türkiye Today": [
+     0,
+     1,
+     0
+    ],
+    "The Tribune": [
+     0,
+     1,
+     0
+    ],
+    "Hotel Management Network": [
+     0,
+     1,
+     0
+    ],
+    "People Daily": [
+     0,
+     1,
+     0
+    ],
+    "Dallas Express": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-03": {
-   "total": 20,
-   "news": 20,
+   "total": 26,
+   "news": 26,
    "articles": 0,
    "positive": 0,
-   "neutral": 20,
+   "neutral": 26,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -2579,10 +2609,15 @@
     "BBC": 1,
     "The Guardian": 1,
     "South China Morning Post": 1,
-    "Hindustan Times": 1,
+    "Hindustan Times": 2,
     "Jordan Times": 1,
     "Yemen Online": 1,
-    "PotatoPro": 1
+    "PotatoPro": 1,
+    "Source ONE News": 1,
+    "The China-Global South Project": 1,
+    "UA.NEWS": 1,
+    "Anadolu Ajansı": 1,
+    "TRT World": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -2642,7 +2677,7 @@
     ],
     "Hindustan Times": [
      0,
-     1,
+     2,
      0
     ],
     "Jordan Times": [
@@ -2656,6 +2691,31 @@
      0
     ],
     "PotatoPro": [
+     0,
+     1,
+     0
+    ],
+    "Source ONE News": [
+     0,
+     1,
+     0
+    ],
+    "The China-Global South Project": [
+     0,
+     1,
+     0
+    ],
+    "UA.NEWS": [
+     0,
+     1,
+     0
+    ],
+    "Anadolu Ajansı": [
+     0,
+     1,
+     0
+    ],
+    "TRT World": [
      0,
      1,
      0
