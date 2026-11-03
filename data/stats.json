@@ -1469,16 +1469,16 @@
    }
   },
   "2026-11-02": {
-   "total": 755,
-   "news": 750,
+   "total": 760,
+   "news": 755,
    "articles": 5,
    "positive": 0,
-   "neutral": 755,
+   "neutral": 760,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "GB": 212,
-    "US": 183,
+    "US": 188,
     "SA": 81,
     "HK": 4,
     "FR": 16,
@@ -1491,7 +1491,7 @@
     "The Guardian": 40,
     "Financial Times": 69,
     "Al-Monitor": 32,
-    "AP News": 32,
+    "AP News": 37,
     "Bloomberg": 19,
     "Mehr News Agency": 5,
     "Arab News": 78,
@@ -1695,7 +1695,7 @@
     ],
     "AP News": [
      0,
-     32,
+     37,
      0
     ],
     "Bloomberg": [
@@ -2596,11 +2596,11 @@
    }
   },
   "2026-11-03": {
-   "total": 579,
-   "news": 568,
+   "total": 581,
+   "news": 570,
    "articles": 11,
    "positive": 0,
-   "neutral": 579,
+   "neutral": 581,
    "critical": 0,
    "mbs": 8,
    "countries": {
@@ -2608,7 +2608,7 @@
     "GB": 145,
     "HK": 6,
     "FR": 6,
-    "SA": 50,
+    "SA": 52,
     "JP": 4,
     "DE": 3
    },
@@ -2646,7 +2646,7 @@
     "Le Monde.fr": 1,
     "Access Partnership": 1,
     "The New York Times": 6,
-    "Arab News": 45,
+    "Arab News": 47,
     "Foreign Affairs": 2,
     "Nikkei Asia": 4,
     "Spiegel": 3,
@@ -2921,7 +2921,7 @@
     ],
     "Arab News": [
      0,
-     45,
+     47,
      0
     ],
     "Foreign Affairs": [
