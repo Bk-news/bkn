@@ -1,5 +1,25 @@
 [
  {
+  "id": "fb7e888300551c18",
+  "origin": "rss",
+  "source": "Al-Monitor",
+  "author": "",
+  "title_ar": "Israeli PM, attorney general trade barbs over poll fraud allegations",
+  "title_orig": "Israeli PM, attorney general trade barbs over poll fraud allegations",
+  "title_en": "Israeli PM, attorney general trade barbs over poll fraud allegations",
+  "summary_ar": [],
+  "summary_en": [],
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXNmV1U5b2pKcDVNdG03Tm1qLUZ2aW5WNkpERUdBYm9ENS1DcFJRUGZ0czFxV1JTR1B3X3VoY3BBSmRsVGZmbHFxbWE2eGJVaXJydklUaUIydjFHLUFkRFU1Y0NScHNncGlmR1F0UnBrZURTakluRlpLcGZEUGttUTN1R3VYQ0w1YzUxdzV2T0txRHRva3U3Tm52YUE1RWotN0trdlpxbXBsM3ZqaU1qZ19R?oc=5",
+  "published": "2026-11-03T23:30:56.000Z",
+  "subject": "saudi",
+  "tone": "neutral",
+  "topic": "",
+  "country": "US",
+  "pending": true,
+  "desc": "Israeli PM, attorney general trade barbs over poll fraud allegations &nbsp;&nbsp; Al-Monitor",
+  "lang": "en"
+ },
+ {
   "id": "94f8e3f6b4214163",
   "origin": "rss",
   "source": "Anadolu Ajansı",
@@ -10411,27 +10431,6 @@
   "country": "",
   "pending": true,
   "desc": "Asian Cup postponed following Houthi attacks on Saudi Arabia &nbsp;&nbsp; The Independent",
-  "lang": "en",
-  "mt": true
- },
- {
-  "id": "28593b4509edc206",
-  "origin": "rss",
-  "source": "Saudi Gazette",
-  "author": "",
-  "title_ar": "يصدر NCM تنبيهات برتقالية حيث تهدد العواصف الرعدية الشديدة عدة مناطق",
-  "title_orig": "NCM issues orange alerts as heavy thunderstorms threaten several regions",
-  "title_en": "NCM issues orange alerts as heavy thunderstorms threaten several regions",
-  "summary_ar": [],
-  "summary_en": [],
-  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ2tYaWNMeVQ4RDhBSW5EWGJYZThFbGxEZEdHcVlpOFRBMzI0UDF1N1hyZi05bC1TYmpuZ1BnUlRmQjNHN0FWNUZWdlZmX0Q0SGZzWE9SaXZNaEpOdlZSbG9BUmU1bkhBaEZqMVcybGNadl9DTGE5bFZIT2Z2SFV4STMyUGxRUEFVeU1taEw0TnBTQzVtc0ZuVkVoalliT0ZuMEI1eEJzZVlxX0thaUUzWFo3eGxfb29PeVFTaE00RFhJU01fTUpSMTkxaUZOaWxGRm9F?oc=5",
-  "published": "2026-11-03T08:01:00.000Z",
-  "subject": "saudi",
-  "tone": "neutral",
-  "topic": "",
-  "country": "SA",
-  "pending": true,
-  "desc": "NCM issues orange alerts as heavy thunderstorms threaten several regions &nbsp;&nbsp; Saudi Gazette",
   "lang": "en",
   "mt": true
  }
