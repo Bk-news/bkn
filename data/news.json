@@ -1,5 +1,25 @@
 [
  {
+  "id": "1bc375dc97113530",
+  "origin": "rss",
+  "source": "The Guardian",
+  "author": "",
+  "title_ar": "Asian Cup postponement leaves Socceroos, FA and coach Tony Popovic at crossroads | Joey Lynch",
+  "title_orig": "Asian Cup postponement leaves Socceroos, FA and coach Tony Popovic at crossroads | Joey Lynch",
+  "title_en": "Asian Cup postponement leaves Socceroos, FA and coach Tony Popovic at crossroads | Joey Lynch",
+  "summary_ar": [],
+  "summary_en": [],
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSGpFYUdPZDYzVHFycDVwSkxKcVd0S3FYM3FCdHMwYUNsSnJNamZmZnFiNFhGME94M2dudksyRTVneDdQZ0lzMWZCRkh3MXFuTDNoTkpLUW9KVXNuMERNMEQtdDBOMFF5aFRDMnNYa19zdDR2Qlc3amg3eHVGTllaU2dFcEdGTTRHUXJ2emh4SW50by1RcGw1ZlE2QXk2aWcwcTJ2N1ZUV0l4SzRueGZNNlo2dS1HNlk4QmxoOQ?oc=5",
+  "published": "2026-11-03T23:54:00.000Z",
+  "subject": "saudi",
+  "tone": "neutral",
+  "topic": "",
+  "country": "GB",
+  "pending": true,
+  "desc": "Asian Cup postponement leaves Socceroos, FA and coach Tony Popovic at crossroads | Joey Lynch &nbsp;&nbsp; The Guardian",
+  "lang": "en"
+ },
+ {
   "id": "09265dafc70c2fa9",
   "origin": "rss",
   "source": "The Guardian",
@@ -10403,27 +10423,6 @@
   "country": "",
   "pending": true,
   "desc": "AFC postpones 2027 Asian Cup in Saudi Arabia to December amid security concerns &nbsp;&nbsp; Türkiye Today",
-  "lang": "en",
-  "mt": true
- },
- {
-  "id": "5a8bec4181e12e0e",
-  "origin": "rss",
-  "source": "Nikkei Asia",
-  "author": "",
-  "title_ar": "نيكي آسيا - أخبار وتحليلات الأعمال والسياسة والاقتصاد والتكنولوجيا",
-  "title_orig": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
-  "title_en": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
-  "summary_ar": [],
-  "summary_en": [],
-  "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
-  "published": "2026-11-03T08:13:15.000Z",
-  "subject": "saudi",
-  "tone": "neutral",
-  "topic": "",
-  "country": "JP",
-  "pending": true,
-  "desc": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis &nbsp;&nbsp; Nikkei Asia",
   "lang": "en",
   "mt": true
  }
