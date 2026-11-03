@@ -2590,11 +2590,11 @@
    }
   },
   "2026-11-03": {
-   "total": 36,
-   "news": 36,
+   "total": 37,
+   "news": 37,
    "articles": 0,
    "positive": 0,
-   "neutral": 36,
+   "neutral": 37,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -2631,7 +2631,8 @@
     "https://houseofsaud.com/": 1,
     "France 24": 1,
     "Xinhua": 1,
-    "The National": 1
+    "The National": 1,
+    "조선일보": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -2765,6 +2766,11 @@
      0
     ],
     "The National": [
+     0,
+     1,
+     0
+    ],
+    "조선일보": [
      0,
      1,
      0
