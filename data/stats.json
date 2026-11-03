@@ -565,18 +565,18 @@
    }
   },
   "2026-11-01": {
-   "total": 487,
-   "news": 485,
+   "total": 494,
+   "news": 492,
    "articles": 2,
    "positive": 0,
-   "neutral": 487,
+   "neutral": 494,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 76,
     "GB": 136,
     "FR": 8,
-    "US": 51,
+    "US": 58,
     "HK": 3,
     "DE": 1
    },
@@ -658,7 +658,7 @@
     "Investify": 1,
     "The Daily Star": 2,
     "Rediff": 1,
-    "AP News": 12,
+    "AP News": 19,
     "South China Morning Post": 3,
     "The Filipino Times": 1,
     "CairoScene": 2,
@@ -1113,7 +1113,7 @@
     ],
     "AP News": [
      0,
-     12,
+     19,
      0
     ],
     "South China Morning Post": [
@@ -1469,16 +1469,16 @@
    }
   },
   "2026-11-02": {
-   "total": 728,
-   "news": 723,
+   "total": 743,
+   "news": 738,
    "articles": 5,
    "positive": 0,
-   "neutral": 728,
+   "neutral": 743,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "GB": 205,
-    "US": 164,
+    "US": 179,
     "SA": 80,
     "HK": 4,
     "FR": 16,
@@ -1491,7 +1491,7 @@
     "The Guardian": 40,
     "Financial Times": 64,
     "Al-Monitor": 32,
-    "AP News": 13,
+    "AP News": 28,
     "Bloomberg": 19,
     "Mehr News Agency": 5,
     "Arab News": 77,
@@ -1695,7 +1695,7 @@
     ],
     "AP News": [
      0,
-     13,
+     28,
      0
     ],
     "Bloomberg": [
