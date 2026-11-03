@@ -565,18 +565,18 @@
    }
   },
   "2026-11-01": {
-   "total": 469,
-   "news": 467,
+   "total": 470,
+   "news": 468,
    "articles": 2,
    "positive": 0,
-   "neutral": 469,
+   "neutral": 470,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 76,
     "GB": 120,
     "FR": 8,
-    "US": 49,
+    "US": 50,
     "HK": 3,
     "DE": 1
    },
@@ -671,7 +671,7 @@
     "Bangladesh Sangbad Sangstha (BSS)": 2,
     "IndexBox": 2,
     "X": 1,
-    "The New York Times": 14,
+    "The New York Times": 15,
     "www.kenyans.live": 1,
     "The Washington Post": 1,
     "Spiegel": 1,
@@ -1178,7 +1178,7 @@
     ],
     "The New York Times": [
      0,
-     14,
+     15,
      0
     ],
     "www.kenyans.live": [
@@ -1469,17 +1469,17 @@
    }
   },
   "2026-11-02": {
-   "total": 582,
-   "news": 578,
+   "total": 583,
+   "news": 579,
    "articles": 4,
    "positive": 0,
-   "neutral": 582,
+   "neutral": 583,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "GB": 134,
     "US": 104,
-    "SA": 69,
+    "SA": 70,
     "HK": 4,
     "FR": 13,
     "JP": 1,
@@ -1494,7 +1494,7 @@
     "AP News": 9,
     "Bloomberg": 16,
     "Mehr News Agency": 5,
-    "Arab News": 67,
+    "Arab News": 68,
     "The Washington Post": 3,
     "وكالة الأنباء السعودية": 2,
     "WSJ": 26,
@@ -1709,7 +1709,7 @@
     ],
     "Arab News": [
      0,
-     67,
+     68,
      0
     ],
     "The Washington Post": [

@@ -8830,6 +8830,27 @@
    "lang": "en"
   },
   {
+   "id": "48cdf435f0215288",
+   "origin": "rss",
+   "source": "The New York Times",
+   "author": "",
+   "title_ar": "أخبار العالم - الصفحة 2",
+   "title_orig": "World News - Page 2",
+   "title_en": "World News - Page 2",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xQlg0QkhCMVFHVVYwWUJTd1Y4ZWhWQlBrZTFHUUJiU3lHa0hMTFZGV2gtTVVfVDE0Y0UteTE1dUZmMjBDWU1pd3lhYm1aOF9CWDhuNWdreHR4c040LTVyQk1FZUJQemNyaGc?oc=5",
+   "published": "2026-11-01T03:11:40.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "World News - Page 2 &nbsp;&nbsp; The New York Times",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "d2d57bb14f88249b",
    "origin": "rss",
    "source": "Arab News",
