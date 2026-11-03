@@ -1469,16 +1469,16 @@
    }
   },
   "2026-11-02": {
-   "total": 683,
-   "news": 679,
+   "total": 685,
+   "news": 681,
    "articles": 4,
    "positive": 0,
-   "neutral": 683,
+   "neutral": 685,
    "critical": 0,
    "mbs": 19,
    "countries": {
-    "GB": 183,
-    "US": 147,
+    "GB": 184,
+    "US": 148,
     "SA": 78,
     "HK": 4,
     "FR": 13,
@@ -1488,7 +1488,7 @@
    "topics": {},
    "sources": {
     "Cageside Seats": 1,
-    "The Guardian": 38,
+    "The Guardian": 39,
     "Financial Times": 60,
     "Al-Monitor": 32,
     "AP News": 9,
@@ -1611,7 +1611,7 @@
     "Instagram": 1,
     "The Jerusalem Post": 2,
     "JFeed": 1,
-    "Bloomberg.com": 42,
+    "Bloomberg.com": 43,
     "Spiegel": 1,
     "Atlantic Council": 2,
     "Daily Times": 1,
@@ -1679,7 +1679,7 @@
     ],
     "The Guardian": [
      0,
-     38,
+     39,
      0
     ],
     "Financial Times": [
@@ -2294,7 +2294,7 @@
     ],
     "Bloomberg.com": [
      0,
-     42,
+     43,
      0
     ],
     "Spiegel": [
@@ -2590,15 +2590,15 @@
    }
   },
   "2026-11-03": {
-   "total": 266,
-   "news": 262,
+   "total": 272,
+   "news": 268,
    "articles": 4,
    "positive": 0,
-   "neutral": 266,
+   "neutral": 272,
    "critical": 0,
    "mbs": 6,
    "countries": {
-    "US": 63,
+    "US": 65,
     "GB": 59,
     "HK": 4,
     "FR": 3,
@@ -2614,7 +2614,7 @@
     "Financial Times": 11,
     "Al-Monitor": 6,
     "Reuters": 34,
-    "Bloomberg.com": 32,
+    "Bloomberg.com": 34,
     "חרדים10": 1,
     "BBC": 7,
     "The Guardian": 9,
@@ -2668,13 +2668,13 @@
     "Forbes Middle East": 1,
     "The Express Tribune": 1,
     "Korea JoongAng Daily": 1,
-    "TradeArabia": 1,
+    "TradeArabia": 2,
     "Coliseum Global Sports Venue Alliance": 2,
     "WhatCulture.com": 1,
     "Yeni Şafak English": 1,
     "Malay Mail": 1,
     "Tehran Times": 1,
-    "Türkiye Today": 1,
+    "Türkiye Today": 2,
     "Haaretz": 1,
     "The Independent": 1,
     "شفق نيوز": 1,
@@ -2703,7 +2703,9 @@
     "ESPN": 1,
     "The Kathmandu Post": 1,
     "Apa.az": 1,
-    "The Hindu": 1
+    "The Hindu": 1,
+    "Fana News -": 1,
+    "www.marketscreener.com": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -2738,7 +2740,7 @@
     ],
     "Bloomberg.com": [
      0,
-     32,
+     34,
      0
     ],
     "חרדים10": [
@@ -3008,7 +3010,7 @@
     ],
     "TradeArabia": [
      0,
-     1,
+     2,
      0
     ],
     "Coliseum Global Sports Venue Alliance": [
@@ -3038,7 +3040,7 @@
     ],
     "Türkiye Today": [
      0,
-     1,
+     2,
      0
     ],
     "Haaretz": [
@@ -3182,6 +3184,16 @@
      0
     ],
     "The Hindu": [
+     0,
+     1,
+     0
+    ],
+    "Fana News -": [
+     0,
+     1,
+     0
+    ],
+    "www.marketscreener.com": [
      0,
      1,
      0
