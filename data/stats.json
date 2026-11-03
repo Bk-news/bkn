@@ -2602,15 +2602,15 @@
    }
   },
   "2026-11-03": {
-   "total": 623,
-   "news": 611,
+   "total": 625,
+   "news": 613,
    "articles": 12,
    "positive": 0,
-   "neutral": 623,
+   "neutral": 625,
    "critical": 0,
    "mbs": 8,
    "countries": {
-    "US": 203,
+    "US": 204,
     "GB": 161,
     "HK": 6,
     "FR": 6,
@@ -2658,7 +2658,7 @@
     "Spiegel": 3,
     "Saudi Gazette": 11,
     "ASHARQ AL-AWSAT English": 4,
-    "AP News": 60,
+    "AP News": 61,
     "Bloom Pakistan": 1,
     "Jordan News": 1,
     "Baird Maritime": 2,
@@ -2703,7 +2703,7 @@
     "Deccan Herald": 1,
     "Al Jazeera": 2,
     "Deccan Chronicle": 1,
-    "Yahoo": 1,
+    "Yahoo": 2,
     "سانا": 2,
     "football360.com.au": 1,
     "The New Region": 1,
@@ -2961,7 +2961,7 @@
     ],
     "AP News": [
      0,
-     60,
+     61,
      0
     ],
     "Bloom Pakistan": [
@@ -3186,7 +3186,7 @@
     ],
     "Yahoo": [
      0,
-     1,
+     2,
      0
     ],
     "سانا": [
