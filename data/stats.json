@@ -2596,19 +2596,19 @@
    }
   },
   "2026-11-03": {
-   "total": 325,
-   "news": 320,
+   "total": 328,
+   "news": 323,
    "articles": 5,
    "positive": 0,
-   "neutral": 325,
+   "neutral": 328,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "US": 78,
-    "GB": 82,
+    "GB": 83,
     "HK": 4,
     "FR": 3,
-    "SA": 26,
+    "SA": 27,
     "JP": 4,
     "DE": 3
    },
@@ -2619,7 +2619,7 @@
     "WSJ": 18,
     "Financial Times": 21,
     "Al-Monitor": 6,
-    "Reuters": 46,
+    "Reuters": 47,
     "Bloomberg.com": 35,
     "חרדים10": 1,
     "BBC": 8,
@@ -2646,7 +2646,7 @@
     "Le Monde.fr": 1,
     "Access Partnership": 1,
     "The New York Times": 5,
-    "Arab News": 21,
+    "Arab News": 22,
     "Foreign Affairs": 2,
     "Nikkei Asia": 4,
     "Spiegel": 3,
@@ -2723,7 +2723,8 @@
     "NGSC Sports": 1,
     "The Straits Times": 1,
     "Middle East Monitor": 1,
-    "RFI": 1
+    "RFI": 1,
+    "Yahoo Sports": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -2753,7 +2754,7 @@
     ],
     "Reuters": [
      0,
-     46,
+     47,
      0
     ],
     "Bloomberg.com": [
@@ -2888,7 +2889,7 @@
     ],
     "Arab News": [
      0,
-     21,
+     22,
      0
     ],
     "Foreign Affairs": [
@@ -3272,6 +3273,11 @@
      0
     ],
     "RFI": [
+     0,
+     1,
+     0
+    ],
+    "Yahoo Sports": [
      0,
      1,
      0
