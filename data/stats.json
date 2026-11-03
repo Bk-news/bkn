@@ -1469,15 +1469,15 @@
    }
   },
   "2026-11-02": {
-   "total": 690,
-   "news": 685,
+   "total": 692,
+   "news": 687,
    "articles": 5,
    "positive": 0,
-   "neutral": 690,
+   "neutral": 692,
    "critical": 0,
    "mbs": 19,
    "countries": {
-    "GB": 188,
+    "GB": 190,
     "US": 149,
     "SA": 78,
     "HK": 4,
@@ -1489,7 +1489,7 @@
    "sources": {
     "Cageside Seats": 1,
     "The Guardian": 39,
-    "Financial Times": 61,
+    "Financial Times": 62,
     "Al-Monitor": 32,
     "AP News": 9,
     "Bloomberg": 17,
@@ -1531,7 +1531,7 @@
     "ChemNet News": 1,
     "Saudi Gazette": 17,
     "South China Morning Post": 4,
-    "Reuters": 80,
+    "Reuters": 81,
     "France 24": 5,
     "CNN": 1,
     "New Telegraph": 2,
@@ -1684,7 +1684,7 @@
     ],
     "Financial Times": [
      0,
-     61,
+     62,
      0
     ],
     "Al-Monitor": [
@@ -1894,7 +1894,7 @@
     ],
     "Reuters": [
      0,
-     80,
+     81,
      0
     ],
     "France 24": [
@@ -2590,19 +2590,19 @@
    }
   },
   "2026-11-03": {
-   "total": 278,
-   "news": 274,
+   "total": 285,
+   "news": 281,
    "articles": 4,
    "positive": 0,
-   "neutral": 278,
+   "neutral": 285,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "US": 66,
-    "GB": 64,
+    "GB": 69,
     "HK": 4,
     "FR": 3,
-    "SA": 24,
+    "SA": 25,
     "JP": 2,
     "DE": 3
    },
@@ -2611,9 +2611,9 @@
     "Asia News Network": 1,
     "The Washington Post": 6,
     "WSJ": 13,
-    "Financial Times": 11,
+    "Financial Times": 15,
     "Al-Monitor": 6,
-    "Reuters": 39,
+    "Reuters": 40,
     "Bloomberg.com": 34,
     "חרדים10": 1,
     "BBC": 7,
@@ -2640,7 +2640,7 @@
     "Le Monde.fr": 1,
     "Access Partnership": 1,
     "The New York Times": 4,
-    "Arab News": 20,
+    "Arab News": 21,
     "Foreign Affairs": 2,
     "Nikkei Asia": 2,
     "Spiegel": 3,
@@ -2706,7 +2706,8 @@
     "The Hindu": 1,
     "Fana News -": 1,
     "www.marketscreener.com": 1,
-    "Bloomberg": 1
+    "Bloomberg": 1,
+    "وكالة صدى نيوز": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -2726,7 +2727,7 @@
     ],
     "Financial Times": [
      0,
-     11,
+     15,
      0
     ],
     "Al-Monitor": [
@@ -2736,7 +2737,7 @@
     ],
     "Reuters": [
      0,
-     39,
+     40,
      0
     ],
     "Bloomberg.com": [
@@ -2871,7 +2872,7 @@
     ],
     "Arab News": [
      0,
-     20,
+     21,
      0
     ],
     "Foreign Affairs": [
@@ -3200,6 +3201,11 @@
      0
     ],
     "Bloomberg": [
+     0,
+     1,
+     0
+    ],
+    "وكالة صدى نيوز": [
      0,
      1,
      0
