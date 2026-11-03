@@ -1469,11 +1469,11 @@
    }
   },
   "2026-11-02": {
-   "total": 692,
-   "news": 687,
+   "total": 693,
+   "news": 688,
    "articles": 5,
    "positive": 0,
-   "neutral": 692,
+   "neutral": 693,
    "critical": 0,
    "mbs": 19,
    "countries": {
@@ -1669,7 +1669,8 @@
     "Hotel Management Network": 1,
     "People Daily": 1,
     "Dallas Express": 1,
-    "Dawn": 1
+    "Dawn": 1,
+    "DW.com": 1
    },
    "sourceTone": {
     "Cageside Seats": [
@@ -2583,6 +2584,11 @@
      0
     ],
     "Dawn": [
+     0,
+     1,
+     0
+    ],
+    "DW.com": [
      0,
      1,
      0
