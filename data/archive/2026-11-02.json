@@ -10985,6 +10985,26 @@
    "mt": true
   },
   {
+   "id": "73c33133f981435c",
+   "origin": "rss",
+   "source": "Reuters",
+   "author": "",
+   "title_ar": "New Delhi's air quality deteriorates as anti-pollution measures kick in",
+   "title_orig": "New Delhi's air quality deteriorates as anti-pollution measures kick in",
+   "title_en": "New Delhi's air quality deteriorates as anti-pollution measures kick in",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tZE1qdlZFa1FRNnctUTFHYTFxc1djeERMZWJxTDlqaldWQ19Ka0M5RjlPZHRjQlJJZ1lPR3BtYWo5U0h3cXZWY3kzMUZzMGJzcUEwaUNIWV9qV0hvMUJ5WFFEMTRGWXc?oc=5",
+   "published": "2026-11-02T08:58:28.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "New Delhi's air quality deteriorates as anti-pollution measures kick in &nbsp;&nbsp; Reuters",
+   "lang": "en"
+  },
+  {
    "id": "8c00125e7feddd5f",
    "origin": "rss",
    "source": "Arab News",
@@ -11592,6 +11612,26 @@
    "desc": "Watch: I Went Back to Idaho to See How The Hard-Right Transformed This Deep Red State &nbsp;&nbsp; WSJ",
    "lang": "en",
    "mt": true
+  },
+  {
+   "id": "80442621bd435c23",
+   "origin": "rss",
+   "source": "Reuters",
+   "author": "",
+   "title_ar": "Taj Mahal closed amid coronavirus fears",
+   "title_orig": "Taj Mahal closed amid coronavirus fears",
+   "title_en": "Taj Mahal closed amid coronavirus fears",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IcHZYLUxneUx3M0FKNVkyUnMyWV9fWUhjTmROMGNneFZLNmhSMW1ZSm5XcnJWd2NjTlNkUGRfSjNlSXBKSUw2WUp2SDdRYklMQ19kbDJGd3JiTUpW?oc=5",
+   "published": "2026-11-02T08:00:00.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "Taj Mahal closed amid coronavirus fears &nbsp;&nbsp; Reuters",
+   "lang": "en"
   },
   {
    "id": "435976ded810a4f2",
