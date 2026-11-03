@@ -1469,16 +1469,16 @@
    }
   },
   "2026-11-02": {
-   "total": 817,
-   "news": 811,
+   "total": 819,
+   "news": 813,
    "articles": 6,
    "positive": 0,
-   "neutral": 817,
+   "neutral": 819,
    "critical": 0,
    "mbs": 20,
    "countries": {
-    "GB": 220,
-    "US": 232,
+    "GB": 221,
+    "US": 233,
     "SA": 84,
     "HK": 4,
     "FR": 17,
@@ -1488,10 +1488,10 @@
    "topics": {},
    "sources": {
     "Cageside Seats": 1,
-    "The Guardian": 40,
+    "The Guardian": 41,
     "Financial Times": 70,
     "Al-Monitor": 33,
-    "AP News": 76,
+    "AP News": 77,
     "Bloomberg": 19,
     "Mehr News Agency": 5,
     "Arab News": 81,
@@ -1681,7 +1681,7 @@
     ],
     "The Guardian": [
      0,
-     40,
+     41,
      0
     ],
     "Financial Times": [
@@ -1696,7 +1696,7 @@
     ],
     "AP News": [
      0,
-     76,
+     77,
      0
     ],
     "Bloomberg": [
@@ -2602,15 +2602,15 @@
    }
   },
   "2026-11-03": {
-   "total": 755,
-   "news": 738,
+   "total": 766,
+   "news": 749,
    "articles": 17,
    "positive": 0,
-   "neutral": 755,
+   "neutral": 766,
    "critical": 0,
-   "mbs": 9,
+   "mbs": 10,
    "countries": {
-    "US": 259,
+    "US": 262,
     "GB": 188,
     "HK": 6,
     "FR": 7,
@@ -2624,7 +2624,7 @@
     "The Washington Post": 9,
     "WSJ": 41,
     "Financial Times": 40,
-    "Al-Monitor": 39,
+    "Al-Monitor": 40,
     "Reuters": 109,
     "Bloomberg.com": 57,
     "חרדים10": 1,
@@ -2642,7 +2642,7 @@
     "TRT World": 2,
     "FIFA": 1,
     "Facebook": 1,
-    "Gulf News": 3,
+    "Gulf News": 4,
     "https://houseofsaud.com/": 1,
     "France 24": 7,
     "Xinhua": 1,
@@ -2651,14 +2651,14 @@
     "Chosunbiz": 1,
     "Le Monde.fr": 1,
     "Access Partnership": 1,
-    "The New York Times": 8,
-    "Arab News": 75,
+    "The New York Times": 9,
+    "Arab News": 76,
     "Foreign Affairs": 3,
     "Nikkei Asia": 4,
     "Spiegel": 3,
     "Saudi Gazette": 12,
     "ASHARQ AL-AWSAT English": 4,
-    "AP News": 92,
+    "AP News": 93,
     "Bloom Pakistan": 1,
     "Jordan News": 1,
     "Baird Maritime": 2,
@@ -2704,7 +2704,7 @@
     "Al Jazeera": 2,
     "Deccan Chronicle": 1,
     "Yahoo": 2,
-    "سانا": 2,
+    "سانا": 3,
     "football360.com.au": 1,
     "The New Region": 1,
     "The Japan Times": 1,
@@ -2759,7 +2759,7 @@
     "المتداول العربي": 1,
     "www.footballtransfers.com": 1,
     "Nigerian Voice": 1,
-    "وكالة الأنباء السعودية": 1,
+    "وكالة الأنباء السعودية": 3,
     "Investing.com UK": 1,
     "The New Arab": 1,
     "marketscreener.com": 1,
@@ -2777,7 +2777,10 @@
     "Wrestling Inc.": 1,
     "beIN SPORTS": 1,
     "FreshPlaza": 1,
-    "Egypt Today": 1
+    "Egypt Today": 1,
+    "Endurance Sportswire": 1,
+    "Arab News PK": 1,
+    "The Mirror": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -2802,7 +2805,7 @@
     ],
     "Al-Monitor": [
      0,
-     39,
+     40,
      0
     ],
     "Reuters": [
@@ -2892,7 +2895,7 @@
     ],
     "Gulf News": [
      0,
-     3,
+     4,
      0
     ],
     "https://houseofsaud.com/": [
@@ -2937,12 +2940,12 @@
     ],
     "The New York Times": [
      0,
-     8,
+     9,
      0
     ],
     "Arab News": [
      0,
-     75,
+     76,
      0
     ],
     "Foreign Affairs": [
@@ -2972,7 +2975,7 @@
     ],
     "AP News": [
      0,
-     92,
+     93,
      0
     ],
     "Bloom Pakistan": [
@@ -3202,7 +3205,7 @@
     ],
     "سانا": [
      0,
-     2,
+     3,
      0
     ],
     "football360.com.au": [
@@ -3477,7 +3480,7 @@
     ],
     "وكالة الأنباء السعودية": [
      0,
-     1,
+     3,
      0
     ],
     "Investing.com UK": [
@@ -3566,6 +3569,21 @@
      0
     ],
     "Egypt Today": [
+     0,
+     1,
+     0
+    ],
+    "Endurance Sportswire": [
+     0,
+     1,
+     0
+    ],
+    "Arab News PK": [
+     0,
+     1,
+     0
+    ],
+    "The Mirror": [
      0,
      1,
      0
