@@ -2602,11 +2602,11 @@
    }
   },
   "2026-11-03": {
-   "total": 588,
-   "news": 577,
+   "total": 590,
+   "news": 579,
    "articles": 11,
    "positive": 0,
-   "neutral": 588,
+   "neutral": 590,
    "critical": 0,
    "mbs": 8,
    "countries": {
@@ -2762,7 +2762,9 @@
     "وكالة الأنباء السعودية": 1,
     "Investing.com UK": 1,
     "The New Arab": 1,
-    "marketscreener.com": 1
+    "marketscreener.com": 1,
+    "DW.com": 1,
+    "ABNA English": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -3476,6 +3478,16 @@
      0
     ],
     "marketscreener.com": [
+     0,
+     1,
+     0
+    ],
+    "DW.com": [
+     0,
+     1,
+     0
+    ],
+    "ABNA English": [
      0,
      1,
      0
