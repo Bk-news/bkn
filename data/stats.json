@@ -1469,15 +1469,15 @@
    }
   },
   "2026-11-02": {
-   "total": 698,
-   "news": 693,
+   "total": 699,
+   "news": 694,
    "articles": 5,
    "positive": 0,
-   "neutral": 698,
+   "neutral": 699,
    "critical": 0,
    "mbs": 19,
    "countries": {
-    "GB": 193,
+    "GB": 194,
     "US": 151,
     "SA": 78,
     "HK": 4,
@@ -1531,7 +1531,7 @@
     "ChemNet News": 1,
     "Saudi Gazette": 17,
     "South China Morning Post": 4,
-    "Reuters": 83,
+    "Reuters": 84,
     "France 24": 5,
     "CNN": 1,
     "New Telegraph": 2,
@@ -1895,7 +1895,7 @@
     ],
     "Reuters": [
      0,
-     83,
+     84,
      0
     ],
     "France 24": [
@@ -2596,16 +2596,16 @@
    }
   },
   "2026-11-03": {
-   "total": 303,
-   "news": 298,
+   "total": 305,
+   "news": 300,
    "articles": 5,
    "positive": 0,
-   "neutral": 303,
+   "neutral": 305,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "US": 70,
-    "GB": 77,
+    "GB": 78,
     "HK": 4,
     "FR": 3,
     "SA": 25,
@@ -2619,7 +2619,7 @@
     "WSJ": 13,
     "Financial Times": 19,
     "Al-Monitor": 6,
-    "Reuters": 43,
+    "Reuters": 44,
     "Bloomberg.com": 35,
     "חרדים10": 1,
     "BBC": 8,
@@ -2718,7 +2718,8 @@
     "Goal.com": 2,
     "WRAL": 1,
     "L'Orient Today": 1,
-    "Daily Sabah": 1
+    "Daily Sabah": 1,
+    "India Today": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -2748,7 +2749,7 @@
     ],
     "Reuters": [
      0,
-     43,
+     44,
      0
     ],
     "Bloomberg.com": [
@@ -3242,6 +3243,11 @@
      0
     ],
     "Daily Sabah": [
+     0,
+     1,
+     0
+    ],
+    "India Today": [
      0,
      1,
      0
