@@ -1,5 +1,17 @@
 [
  {
+  "id": "1a49f31feb14e9a3",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "بزشكيان: لن يستفيد أحد من الحرب",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152172",
+  "published": "2026-11-03T11:38:02.000Z",
+  "subject": "saudi",
+  "added": "2026-11-03T11:38:02.000Z"
+ },
+ {
   "id": "a7167fe422f0a98c",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -34,17 +46,5 @@
   "published": "2026-11-03T11:07:01.000Z",
   "subject": "saudi",
   "added": "2026-11-03T11:07:01.000Z"
- },
- {
-  "id": "2a7e041b79a9afce",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "الأمن الداخلي السوري: القبض على خلية لحزب الله كانت تخطط لهجوم على مصفاة حمص",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152168",
-  "published": "2026-11-03T10:39:01.000Z",
-  "subject": "saudi",
-  "added": "2026-11-03T10:39:01.000Z"
  }
 ]
