@@ -565,16 +565,16 @@
    }
   },
   "2026-11-01": {
-   "total": 468,
-   "news": 466,
+   "total": 469,
+   "news": 467,
    "articles": 2,
    "positive": 0,
-   "neutral": 468,
+   "neutral": 469,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 76,
-    "GB": 119,
+    "GB": 120,
     "FR": 8,
     "US": 49,
     "HK": 3,
@@ -593,7 +593,7 @@
     "Arab News": 77,
     "EA WorldView": 1,
     "Al-Monitor": 6,
-    "Financial Times": 51,
+    "Financial Times": 52,
     "WSJ": 11,
     "The Guardian": 29,
     "ASHARQ AL-AWSAT English": 13,
@@ -788,7 +788,7 @@
     ],
     "Financial Times": [
      0,
-     51,
+     52,
      0
     ],
     "WSJ": [
@@ -1469,11 +1469,11 @@
    }
   },
   "2026-11-02": {
-   "total": 581,
-   "news": 577,
+   "total": 582,
+   "news": 578,
    "articles": 4,
    "positive": 0,
-   "neutral": 581,
+   "neutral": 582,
    "critical": 0,
    "mbs": 19,
    "countries": {
@@ -1668,7 +1668,8 @@
     "The Tribune": 1,
     "Hotel Management Network": 1,
     "People Daily": 1,
-    "Dallas Express": 1
+    "Dallas Express": 1,
+    "Dawn": 1
    },
    "sourceTone": {
     "Cageside Seats": [
@@ -2577,6 +2578,11 @@
      0
     ],
     "Dallas Express": [
+     0,
+     1,
+     0
+    ],
+    "Dawn": [
      0,
      1,
      0
