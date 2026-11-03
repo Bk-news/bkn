@@ -1469,17 +1469,17 @@
    }
   },
   "2026-11-02": {
-   "total": 786,
-   "news": 780,
+   "total": 816,
+   "news": 810,
    "articles": 6,
    "positive": 0,
-   "neutral": 786,
+   "neutral": 816,
    "critical": 0,
    "mbs": 20,
    "countries": {
-    "GB": 216,
-    "US": 207,
-    "SA": 82,
+    "GB": 220,
+    "US": 231,
+    "SA": 84,
     "HK": 4,
     "FR": 17,
     "JP": 1,
@@ -1490,11 +1490,11 @@
     "Cageside Seats": 1,
     "The Guardian": 40,
     "Financial Times": 70,
-    "Al-Monitor": 32,
-    "AP News": 52,
+    "Al-Monitor": 33,
+    "AP News": 75,
     "Bloomberg": 19,
     "Mehr News Agency": 5,
-    "Arab News": 79,
+    "Arab News": 81,
     "The Washington Post": 3,
     "وكالة الأنباء السعودية": 2,
     "WSJ": 36,
@@ -1531,7 +1531,7 @@
     "ChemNet News": 1,
     "Saudi Gazette": 17,
     "South China Morning Post": 4,
-    "Reuters": 97,
+    "Reuters": 101,
     "France 24": 5,
     "CNN": 1,
     "New Telegraph": 2,
@@ -1691,12 +1691,12 @@
     ],
     "Al-Monitor": [
      0,
-     32,
+     33,
      0
     ],
     "AP News": [
      0,
-     52,
+     75,
      0
     ],
     "Bloomberg": [
@@ -1711,7 +1711,7 @@
     ],
     "Arab News": [
      0,
-     79,
+     81,
      0
     ],
     "The Washington Post": [
@@ -1896,7 +1896,7 @@
     ],
     "Reuters": [
      0,
-     97,
+     101,
      0
     ],
     "France 24": [
@@ -2602,19 +2602,19 @@
    }
   },
   "2026-11-03": {
-   "total": 745,
-   "news": 728,
+   "total": 755,
+   "news": 738,
    "articles": 17,
    "positive": 0,
-   "neutral": 745,
+   "neutral": 755,
    "critical": 0,
    "mbs": 9,
    "countries": {
-    "US": 250,
+    "US": 259,
     "GB": 188,
     "HK": 6,
     "FR": 7,
-    "SA": 79,
+    "SA": 80,
     "JP": 4,
     "DE": 3
    },
@@ -2652,13 +2652,13 @@
     "Le Monde.fr": 1,
     "Access Partnership": 1,
     "The New York Times": 8,
-    "Arab News": 74,
+    "Arab News": 75,
     "Foreign Affairs": 3,
     "Nikkei Asia": 4,
     "Spiegel": 3,
     "Saudi Gazette": 12,
     "ASHARQ AL-AWSAT English": 4,
-    "AP News": 83,
+    "AP News": 92,
     "Bloom Pakistan": 1,
     "Jordan News": 1,
     "Baird Maritime": 2,
@@ -2942,7 +2942,7 @@
     ],
     "Arab News": [
      0,
-     74,
+     75,
      0
     ],
     "Foreign Affairs": [
@@ -2972,7 +2972,7 @@
     ],
     "AP News": [
      0,
-     83,
+     92,
      0
     ],
     "Bloom Pakistan": [
