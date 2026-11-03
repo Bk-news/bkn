@@ -1469,15 +1469,15 @@
    }
   },
   "2026-11-02": {
-   "total": 696,
-   "news": 691,
+   "total": 697,
+   "news": 692,
    "articles": 5,
    "positive": 0,
-   "neutral": 696,
+   "neutral": 697,
    "critical": 0,
    "mbs": 19,
    "countries": {
-    "GB": 192,
+    "GB": 193,
     "US": 150,
     "SA": 78,
     "HK": 4,
@@ -1531,7 +1531,7 @@
     "ChemNet News": 1,
     "Saudi Gazette": 17,
     "South China Morning Post": 4,
-    "Reuters": 82,
+    "Reuters": 83,
     "France 24": 5,
     "CNN": 1,
     "New Telegraph": 2,
@@ -1895,7 +1895,7 @@
     ],
     "Reuters": [
      0,
-     82,
+     83,
      0
     ],
     "France 24": [
@@ -2596,16 +2596,16 @@
    }
   },
   "2026-11-03": {
-   "total": 301,
-   "news": 296,
+   "total": 303,
+   "news": 298,
    "articles": 5,
    "positive": 0,
-   "neutral": 301,
+   "neutral": 303,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "US": 70,
-    "GB": 76,
+    "GB": 77,
     "HK": 4,
     "FR": 3,
     "SA": 25,
@@ -2619,7 +2619,7 @@
     "WSJ": 13,
     "Financial Times": 19,
     "Al-Monitor": 6,
-    "Reuters": 42,
+    "Reuters": 43,
     "Bloomberg.com": 35,
     "חרדים10": 1,
     "BBC": 8,
@@ -2715,7 +2715,7 @@
     "Bloomberg": 2,
     "وكالة صدى نيوز": 1,
     "Foreign Policy": 1,
-    "Goal.com": 1,
+    "Goal.com": 2,
     "WRAL": 1,
     "L'Orient Today": 1,
     "Daily Sabah": 1
@@ -2748,7 +2748,7 @@
     ],
     "Reuters": [
      0,
-     42,
+     43,
      0
     ],
     "Bloomberg.com": [
@@ -3228,7 +3228,7 @@
     ],
     "Goal.com": [
      0,
-     1,
+     2,
      0
     ],
     "WRAL": [
