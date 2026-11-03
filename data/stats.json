@@ -1469,15 +1469,15 @@
    }
   },
   "2026-11-02": {
-   "total": 842,
-   "news": 836,
+   "total": 847,
+   "news": 841,
    "articles": 6,
    "positive": 0,
-   "neutral": 842,
+   "neutral": 847,
    "critical": 0,
    "mbs": 20,
    "countries": {
-    "GB": 222,
+    "GB": 227,
     "US": 255,
     "SA": 84,
     "HK": 4,
@@ -1531,7 +1531,7 @@
     "ChemNet News": 1,
     "Saudi Gazette": 17,
     "South China Morning Post": 4,
-    "Reuters": 101,
+    "Reuters": 106,
     "France 24": 5,
     "CNN": 1,
     "New Telegraph": 2,
@@ -1896,7 +1896,7 @@
     ],
     "Reuters": [
      0,
-     101,
+     106,
      0
     ],
     "France 24": [
@@ -2602,16 +2602,16 @@
    }
   },
   "2026-11-03": {
-   "total": 778,
-   "news": 761,
-   "articles": 17,
+   "total": 783,
+   "news": 765,
+   "articles": 18,
    "positive": 0,
-   "neutral": 778,
+   "neutral": 783,
    "critical": 0,
    "mbs": 10,
    "countries": {
-    "US": 269,
-    "GB": 190,
+    "US": 270,
+    "GB": 194,
     "HK": 6,
     "FR": 7,
     "SA": 81,
@@ -2625,7 +2625,7 @@
     "WSJ": 43,
     "Financial Times": 40,
     "Al-Monitor": 40,
-    "Reuters": 109,
+    "Reuters": 113,
     "Bloomberg.com": 57,
     "חרדים10": 1,
     "BBC": 20,
@@ -2734,7 +2734,7 @@
     "www.jordannews.jo": 1,
     "NewsCord": 1,
     "houseofsaud.com": 1,
-    "Atlantic Council": 5,
+    "Atlantic Council": 6,
     "BAE Systems": 1,
     "The Sun": 1,
     "lovin.co": 1,
@@ -2811,7 +2811,7 @@
     ],
     "Reuters": [
      0,
-     109,
+     113,
      0
     ],
     "Bloomberg.com": [
@@ -3356,7 +3356,7 @@
     ],
     "Atlantic Council": [
      0,
-     5,
+     6,
      0
     ],
     "BAE Systems": [
