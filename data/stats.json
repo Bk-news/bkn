@@ -1469,16 +1469,16 @@
    }
   },
   "2026-11-02": {
-   "total": 660,
-   "news": 656,
+   "total": 670,
+   "news": 666,
    "articles": 4,
    "positive": 0,
-   "neutral": 660,
+   "neutral": 670,
    "critical": 0,
    "mbs": 19,
    "countries": {
-    "GB": 170,
-    "US": 137,
+    "GB": 176,
+    "US": 141,
     "SA": 78,
     "HK": 4,
     "FR": 13,
@@ -1489,7 +1489,7 @@
    "sources": {
     "Cageside Seats": 1,
     "The Guardian": 38,
-    "Financial Times": 50,
+    "Financial Times": 54,
     "Al-Monitor": 32,
     "AP News": 9,
     "Bloomberg": 16,
@@ -1497,7 +1497,7 @@
     "Arab News": 75,
     "The Washington Post": 3,
     "وكالة الأنباء السعودية": 2,
-    "WSJ": 30,
+    "WSJ": 31,
     "TNGlobal": 1,
     "Facebook": 2,
     "Breakingthenews.net": 3,
@@ -1531,7 +1531,7 @@
     "ChemNet News": 1,
     "Saudi Gazette": 17,
     "South China Morning Post": 4,
-    "Reuters": 75,
+    "Reuters": 77,
     "France 24": 5,
     "CNN": 1,
     "New Telegraph": 2,
@@ -1611,7 +1611,7 @@
     "Instagram": 1,
     "The Jerusalem Post": 2,
     "JFeed": 1,
-    "Bloomberg.com": 34,
+    "Bloomberg.com": 37,
     "Spiegel": 1,
     "Atlantic Council": 2,
     "Daily Times": 1,
@@ -1684,7 +1684,7 @@
     ],
     "Financial Times": [
      0,
-     50,
+     54,
      0
     ],
     "Al-Monitor": [
@@ -1724,7 +1724,7 @@
     ],
     "WSJ": [
      0,
-     30,
+     31,
      0
     ],
     "TNGlobal": [
@@ -1894,7 +1894,7 @@
     ],
     "Reuters": [
      0,
-     75,
+     77,
      0
     ],
     "France 24": [
@@ -2294,7 +2294,7 @@
     ],
     "Bloomberg.com": [
      0,
-     34,
+     37,
      0
     ],
     "Spiegel": [
@@ -2590,35 +2590,35 @@
    }
   },
   "2026-11-03": {
-   "total": 210,
-   "news": 206,
+   "total": 240,
+   "news": 236,
    "articles": 4,
    "positive": 0,
-   "neutral": 210,
+   "neutral": 240,
    "critical": 0,
    "mbs": 6,
    "countries": {
-    "US": 55,
-    "GB": 47,
-    "HK": 3,
+    "US": 63,
+    "GB": 58,
+    "HK": 4,
     "FR": 3,
     "SA": 21,
-    "JP": 1,
+    "JP": 2,
     "DE": 3
    },
    "topics": {},
    "sources": {
     "Asia News Network": 1,
-    "The Washington Post": 5,
+    "The Washington Post": 6,
     "WSJ": 13,
-    "Financial Times": 7,
-    "Al-Monitor": 4,
-    "Reuters": 26,
-    "Bloomberg.com": 27,
+    "Financial Times": 11,
+    "Al-Monitor": 6,
+    "Reuters": 33,
+    "Bloomberg.com": 32,
     "חרדים10": 1,
-    "BBC": 5,
+    "BBC": 6,
     "The Guardian": 9,
-    "South China Morning Post": 3,
+    "South China Morning Post": 4,
     "Hindustan Times": 3,
     "Jordan Times": 1,
     "Yemen Online": 1,
@@ -2630,7 +2630,7 @@
     "TRT World": 2,
     "FIFA": 1,
     "Facebook": 1,
-    "Gulf News": 1,
+    "Gulf News": 2,
     "https://houseofsaud.com/": 1,
     "France 24": 3,
     "Xinhua": 1,
@@ -2642,7 +2642,7 @@
     "The New York Times": 4,
     "Arab News": 17,
     "Foreign Affairs": 2,
-    "Nikkei Asia": 1,
+    "Nikkei Asia": 2,
     "Spiegel": 3,
     "Saudi Gazette": 5,
     "ASHARQ AL-AWSAT English": 2,
@@ -2683,7 +2683,14 @@
     "SMH.com.au": 1,
     "Pars Today": 1,
     "iChongqing": 1,
-    "Mezha.net": 1
+    "Mezha.net": 1,
+    "Arise News": 1,
+    "Dubai Eye 103.8": 1,
+    "Construction Week Online": 1,
+    "Gulf Business": 1,
+    "Deccan Herald": 1,
+    "Al Jazeera": 1,
+    "Deccan Chronicle": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -2693,7 +2700,7 @@
     ],
     "The Washington Post": [
      0,
-     5,
+     6,
      0
     ],
     "WSJ": [
@@ -2703,22 +2710,22 @@
     ],
     "Financial Times": [
      0,
-     7,
+     11,
      0
     ],
     "Al-Monitor": [
      0,
-     4,
+     6,
      0
     ],
     "Reuters": [
      0,
-     26,
+     33,
      0
     ],
     "Bloomberg.com": [
      0,
-     27,
+     32,
      0
     ],
     "חרדים10": [
@@ -2728,7 +2735,7 @@
     ],
     "BBC": [
      0,
-     5,
+     6,
      0
     ],
     "The Guardian": [
@@ -2738,7 +2745,7 @@
     ],
     "South China Morning Post": [
      0,
-     3,
+     4,
      0
     ],
     "Hindustan Times": [
@@ -2798,7 +2805,7 @@
     ],
     "Gulf News": [
      0,
-     1,
+     2,
      0
     ],
     "https://houseofsaud.com/": [
@@ -2858,7 +2865,7 @@
     ],
     "Nikkei Asia": [
      0,
-     1,
+     2,
      0
     ],
     "Spiegel": [
@@ -3062,6 +3069,41 @@
      0
     ],
     "Mezha.net": [
+     0,
+     1,
+     0
+    ],
+    "Arise News": [
+     0,
+     1,
+     0
+    ],
+    "Dubai Eye 103.8": [
+     0,
+     1,
+     0
+    ],
+    "Construction Week Online": [
+     0,
+     1,
+     0
+    ],
+    "Gulf Business": [
+     0,
+     1,
+     0
+    ],
+    "Deccan Herald": [
+     0,
+     1,
+     0
+    ],
+    "Al Jazeera": [
+     0,
+     1,
+     0
+    ],
+    "Deccan Chronicle": [
      0,
      1,
      0
