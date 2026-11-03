@@ -2590,15 +2590,15 @@
    }
   },
   "2026-11-03": {
-   "total": 34,
-   "news": 34,
+   "total": 35,
+   "news": 35,
    "articles": 0,
    "positive": 0,
-   "neutral": 34,
+   "neutral": 35,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "US": 7,
+    "US": 8,
     "GB": 7,
     "HK": 1,
     "FR": 1
@@ -2606,7 +2606,7 @@
    "topics": {},
    "sources": {
     "Asia News Network": 1,
-    "The Washington Post": 2,
+    "The Washington Post": 3,
     "WSJ": 3,
     "Financial Times": 1,
     "Al-Monitor": 1,
@@ -2640,7 +2640,7 @@
     ],
     "The Washington Post": [
      0,
-     2,
+     3,
      0
     ],
     "WSJ": [

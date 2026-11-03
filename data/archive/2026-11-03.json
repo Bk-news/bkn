@@ -2,6 +2,27 @@
  "day": "2026-11-03",
  "items": [
   {
+   "id": "a1becf138ab23fba",
+   "origin": "rss",
+   "source": "The Washington Post",
+   "author": "",
+   "title_ar": "الولايات المتحدة تضرب أهدافًا إيرانية في مضيق هرمز وأخبار أخرى في الشرق الأوسط",
+   "title_orig": "US strikes Iranian targets in Strait of Hormuz, and other Mideast news",
+   "title_en": "US strikes Iranian targets in Strait of Hormuz, and other Mideast news",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdVhKSi1ZM2JWZ1BIOW5PTHNtcGFveldKeWxlOGotTXpWd1BGZl9YSHFCaUZXWWFOOTk0b2xhYmpDQURrR01NeHpTMWJwd3lyTEJBSEdiOTB0Q3NBZk5GMXlfSTdEbkh1X1Y4VEJucExOMF9KTFdTT1FvdEZndlQ4eXFLM2FwQTRhUVQwY0x2Z3VPaFhHdFpxUm1fbXlVUTktUnFwTWhiQkNLeThSZWh0YVZmSXAtcmoxSXFvaWl2dUMwNF9JbVE?oc=5",
+   "published": "2026-11-03T03:43:02.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "US strikes Iranian targets in Strait of Hormuz, and other Mideast news &nbsp;&nbsp; The Washington Post",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "b60d8c3ab48b4225",
    "origin": "rss",
    "source": "Xinhua",
