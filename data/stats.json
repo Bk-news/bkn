@@ -1469,16 +1469,16 @@
    }
   },
   "2026-11-02": {
-   "total": 685,
-   "news": 681,
+   "total": 686,
+   "news": 682,
    "articles": 4,
    "positive": 0,
-   "neutral": 685,
+   "neutral": 686,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "GB": 184,
-    "US": 148,
+    "US": 149,
     "SA": 78,
     "HK": 4,
     "FR": 13,
@@ -1497,7 +1497,7 @@
     "Arab News": 75,
     "The Washington Post": 3,
     "وكالة الأنباء السعودية": 2,
-    "WSJ": 31,
+    "WSJ": 32,
     "TNGlobal": 1,
     "Facebook": 2,
     "Breakingthenews.net": 3,
@@ -1724,7 +1724,7 @@
     ],
     "WSJ": [
      0,
-     31,
+     32,
      0
     ],
     "TNGlobal": [
