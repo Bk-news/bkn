@@ -2,6 +2,27 @@
  "day": "2026-11-02",
  "items": [
   {
+   "id": "37eba73fbfbc2225",
+   "origin": "rss",
+   "source": "AP News",
+   "author": "",
+   "title_ar": "هل تؤدي ظاهرة النينيو إلى تفاقم العواصف والفيضانات في الجنوب الغربي؟",
+   "title_orig": "Is El Niño making storms and flash floods in the Southwest worse?",
+   "title_en": "Is El Niño making storms and flash floods in the Southwest worse?",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTjA1ZEdVaTFXWnpySDdoWHEyQXJobWxMSlhDY09NZ1VSSk1jN2kyaGYwbUd6WnJod3ZVMUM4eTRRSkNxMXQ5cWxwaU5TWnpQZXQ0R2FsbXRJbXF4d2VMR1BaTnYxUnMyX3h1Ung1Q2otMUlBTXZzbmRKU0xpTFFXdU84aEJsRzZEcnd2dU5lUEpCU2tJQ3ZsOW5lcGgxTlR6TGpr?oc=5",
+   "published": "2026-11-02T23:58:00.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "Is El Niño making storms and flash floods in the Southwest worse? &nbsp;&nbsp; AP News",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "1d9af68ff1bdbebe",
    "origin": "rss",
    "source": "BBC",
