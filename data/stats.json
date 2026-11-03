@@ -1469,16 +1469,16 @@
    }
   },
   "2026-11-02": {
-   "total": 608,
-   "news": 604,
+   "total": 634,
+   "news": 630,
    "articles": 4,
    "positive": 0,
-   "neutral": 608,
+   "neutral": 634,
    "critical": 0,
    "mbs": 19,
    "countries": {
-    "GB": 144,
-    "US": 111,
+    "GB": 157,
+    "US": 124,
     "SA": 78,
     "HK": 4,
     "FR": 13,
@@ -1531,7 +1531,7 @@
     "ChemNet News": 1,
     "Saudi Gazette": 17,
     "South China Morning Post": 4,
-    "Reuters": 49,
+    "Reuters": 62,
     "France 24": 5,
     "CNN": 1,
     "New Telegraph": 2,
@@ -1611,7 +1611,7 @@
     "Instagram": 1,
     "The Jerusalem Post": 2,
     "JFeed": 1,
-    "Bloomberg.com": 8,
+    "Bloomberg.com": 21,
     "Spiegel": 1,
     "Atlantic Council": 2,
     "Daily Times": 1,
@@ -1894,7 +1894,7 @@
     ],
     "Reuters": [
      0,
-     49,
+     62,
      0
     ],
     "France 24": [
@@ -2294,7 +2294,7 @@
     ],
     "Bloomberg.com": [
      0,
-     8,
+     21,
      0
     ],
     "Spiegel": [
@@ -2590,13 +2590,13 @@
    }
   },
   "2026-11-03": {
-   "total": 182,
-   "news": 178,
+   "total": 196,
+   "news": 192,
    "articles": 4,
    "positive": 0,
-   "neutral": 182,
+   "neutral": 196,
    "critical": 0,
-   "mbs": 5,
+   "mbs": 6,
    "countries": {
     "US": 55,
     "GB": 47,
@@ -2610,11 +2610,11 @@
    "sources": {
     "Asia News Network": 1,
     "The Washington Post": 5,
-    "WSJ": 12,
+    "WSJ": 13,
     "Financial Times": 7,
     "Al-Monitor": 4,
     "Reuters": 26,
-    "Bloomberg.com": 26,
+    "Bloomberg.com": 27,
     "חרדים10": 1,
     "BBC": 5,
     "The Guardian": 8,
@@ -2626,15 +2626,15 @@
     "Source ONE News": 1,
     "The China-Global South Project": 1,
     "UA.NEWS": 1,
-    "Anadolu Ajansı": 2,
-    "TRT World": 1,
+    "Anadolu Ajansı": 3,
+    "TRT World": 2,
     "FIFA": 1,
     "Facebook": 1,
     "Gulf News": 1,
     "https://houseofsaud.com/": 1,
     "France 24": 3,
     "Xinhua": 1,
-    "The National": 2,
+    "The National": 3,
     "조선일보": 1,
     "Chosunbiz": 1,
     "Le Monde.fr": 1,
@@ -2663,10 +2663,17 @@
     "Qazinform": 1,
     "The Arab Weekly": 1,
     "صوت الإمارات": 1,
-    "TechAfrica News": 1,
+    "TechAfrica News": 2,
     "TradingView": 1,
     "Forbes Middle East": 1,
-    "The Express Tribune": 1
+    "The Express Tribune": 1,
+    "Korea JoongAng Daily": 1,
+    "TradeArabia": 1,
+    "Coliseum Global Sports Venue Alliance": 2,
+    "WhatCulture.com": 1,
+    "Yeni Şafak English": 1,
+    "Malay Mail": 1,
+    "Tehran Times": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -2681,7 +2688,7 @@
     ],
     "WSJ": [
      0,
-     12,
+     13,
      0
     ],
     "Financial Times": [
@@ -2701,7 +2708,7 @@
     ],
     "Bloomberg.com": [
      0,
-     26,
+     27,
      0
     ],
     "חרדים10": [
@@ -2761,12 +2768,12 @@
     ],
     "Anadolu Ajansı": [
      0,
-     2,
+     3,
      0
     ],
     "TRT World": [
      0,
-     1,
+     2,
      0
     ],
     "FIFA": [
@@ -2801,7 +2808,7 @@
     ],
     "The National": [
      0,
-     2,
+     3,
      0
     ],
     "조선일보": [
@@ -2946,7 +2953,7 @@
     ],
     "TechAfrica News": [
      0,
-     1,
+     2,
      0
     ],
     "TradingView": [
@@ -2960,6 +2967,41 @@
      0
     ],
     "The Express Tribune": [
+     0,
+     1,
+     0
+    ],
+    "Korea JoongAng Daily": [
+     0,
+     1,
+     0
+    ],
+    "TradeArabia": [
+     0,
+     1,
+     0
+    ],
+    "Coliseum Global Sports Venue Alliance": [
+     0,
+     2,
+     0
+    ],
+    "WhatCulture.com": [
+     0,
+     1,
+     0
+    ],
+    "Yeni Şafak English": [
+     0,
+     1,
+     0
+    ],
+    "Malay Mail": [
+     0,
+     1,
+     0
+    ],
+    "Tehran Times": [
      0,
      1,
      0
