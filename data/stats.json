@@ -1469,17 +1469,17 @@
    }
   },
   "2026-11-02": {
-   "total": 707,
-   "news": 702,
+   "total": 709,
+   "news": 704,
    "articles": 5,
    "positive": 0,
-   "neutral": 707,
+   "neutral": 709,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "GB": 196,
     "US": 154,
-    "SA": 78,
+    "SA": 80,
     "HK": 4,
     "FR": 16,
     "JP": 1,
@@ -1494,7 +1494,7 @@
     "AP News": 10,
     "Bloomberg": 18,
     "Mehr News Agency": 5,
-    "Arab News": 75,
+    "Arab News": 77,
     "The Washington Post": 3,
     "وكالة الأنباء السعودية": 2,
     "WSJ": 34,
@@ -1710,7 +1710,7 @@
     ],
     "Arab News": [
      0,
-     75,
+     77,
      0
     ],
     "The Washington Post": [
@@ -2596,19 +2596,19 @@
    }
   },
   "2026-11-03": {
-   "total": 452,
-   "news": 443,
+   "total": 490,
+   "news": 481,
    "articles": 9,
    "positive": 0,
-   "neutral": 452,
+   "neutral": 490,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 127,
-    "GB": 118,
+    "US": 146,
+    "GB": 125,
     "HK": 6,
     "FR": 6,
-    "SA": 42,
+    "SA": 47,
     "JP": 4,
     "DE": 3
    },
@@ -2618,9 +2618,9 @@
     "The Washington Post": 8,
     "WSJ": 26,
     "Financial Times": 26,
-    "Al-Monitor": 19,
-    "Reuters": 62,
-    "Bloomberg.com": 42,
+    "Al-Monitor": 26,
+    "Reuters": 69,
+    "Bloomberg.com": 49,
     "חרדים10": 1,
     "BBC": 18,
     "The Guardian": 15,
@@ -2646,13 +2646,13 @@
     "Le Monde.fr": 1,
     "Access Partnership": 1,
     "The New York Times": 6,
-    "Arab News": 34,
+    "Arab News": 40,
     "Foreign Affairs": 2,
     "Nikkei Asia": 4,
     "Spiegel": 3,
     "Saudi Gazette": 11,
     "ASHARQ AL-AWSAT English": 4,
-    "AP News": 18,
+    "AP News": 24,
     "Bloom Pakistan": 1,
     "Jordan News": 1,
     "Baird Maritime": 1,
@@ -2716,7 +2716,7 @@
     "وكالة صدى نيوز": 1,
     "Foreign Policy": 2,
     "Goal.com": 3,
-    "WRAL": 1,
+    "WRAL": 2,
     "L'Orient Today": 1,
     "Daily Sabah": 1,
     "India Today": 1,
@@ -2734,7 +2734,11 @@
     "lovin.co": 1,
     "Data Center Dynamics": 1,
     "Pipeline Technology Journal": 1,
-    "Taipei Times": 1
+    "Taipei Times": 1,
+    "Slowtwitch News": 1,
+    "شبكة يافا الإخبارية": 1,
+    "AOL.com": 1,
+    "endurance.biz": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -2759,17 +2763,17 @@
     ],
     "Al-Monitor": [
      0,
-     19,
+     26,
      0
     ],
     "Reuters": [
      0,
-     62,
+     69,
      0
     ],
     "Bloomberg.com": [
      0,
-     42,
+     49,
      0
     ],
     "חרדים10": [
@@ -2899,7 +2903,7 @@
     ],
     "Arab News": [
      0,
-     34,
+     40,
      0
     ],
     "Foreign Affairs": [
@@ -2929,7 +2933,7 @@
     ],
     "AP News": [
      0,
-     18,
+     24,
      0
     ],
     "Bloom Pakistan": [
@@ -3249,7 +3253,7 @@
     ],
     "WRAL": [
      0,
-     1,
+     2,
      0
     ],
     "L'Orient Today": [
@@ -3338,6 +3342,26 @@
      0
     ],
     "Taipei Times": [
+     0,
+     1,
+     0
+    ],
+    "Slowtwitch News": [
+     0,
+     1,
+     0
+    ],
+    "شبكة يافا الإخبارية": [
+     0,
+     1,
+     0
+    ],
+    "AOL.com": [
+     0,
+     1,
+     0
+    ],
+    "endurance.biz": [
      0,
      1,
      0
