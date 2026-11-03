@@ -565,16 +565,16 @@
    }
   },
   "2026-11-01": {
-   "total": 494,
-   "news": 492,
+   "total": 495,
+   "news": 493,
    "articles": 2,
    "positive": 0,
-   "neutral": 494,
+   "neutral": 495,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 76,
-    "GB": 136,
+    "GB": 137,
     "FR": 8,
     "US": 58,
     "HK": 3,
@@ -587,7 +587,7 @@
     "Saudi Gazette": 17,
     "FF News": 1,
     "BBC": 4,
-    "Reuters": 41,
+    "Reuters": 42,
     "سانا": 2,
     "Le Monde.fr": 7,
     "Arab News": 77,
@@ -758,7 +758,7 @@
     ],
     "Reuters": [
      0,
-     41,
+     42,
      0
     ],
     "سانا": [
@@ -1469,17 +1469,17 @@
    }
   },
   "2026-11-02": {
-   "total": 743,
-   "news": 738,
+   "total": 748,
+   "news": 743,
    "articles": 5,
    "positive": 0,
-   "neutral": 743,
+   "neutral": 748,
    "critical": 0,
    "mbs": 19,
    "countries": {
-    "GB": 205,
-    "US": 179,
-    "SA": 80,
+    "GB": 207,
+    "US": 181,
+    "SA": 81,
     "HK": 4,
     "FR": 16,
     "JP": 1,
@@ -1491,10 +1491,10 @@
     "The Guardian": 40,
     "Financial Times": 64,
     "Al-Monitor": 32,
-    "AP News": 28,
+    "AP News": 30,
     "Bloomberg": 19,
     "Mehr News Agency": 5,
-    "Arab News": 77,
+    "Arab News": 78,
     "The Washington Post": 3,
     "وكالة الأنباء السعودية": 2,
     "WSJ": 34,
@@ -1531,7 +1531,7 @@
     "ChemNet News": 1,
     "Saudi Gazette": 17,
     "South China Morning Post": 4,
-    "Reuters": 93,
+    "Reuters": 95,
     "France 24": 5,
     "CNN": 1,
     "New Telegraph": 2,
@@ -1695,7 +1695,7 @@
     ],
     "AP News": [
      0,
-     28,
+     30,
      0
     ],
     "Bloomberg": [
@@ -1710,7 +1710,7 @@
     ],
     "Arab News": [
      0,
-     77,
+     78,
      0
     ],
     "The Washington Post": [
@@ -1895,7 +1895,7 @@
     ],
     "Reuters": [
      0,
-     93,
+     95,
      0
     ],
     "France 24": [
@@ -2596,19 +2596,19 @@
    }
   },
   "2026-11-03": {
-   "total": 550,
-   "news": 539,
+   "total": 564,
+   "news": 553,
    "articles": 11,
    "positive": 0,
-   "neutral": 550,
+   "neutral": 564,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 175,
-    "GB": 137,
+    "US": 179,
+    "GB": 140,
     "HK": 6,
     "FR": 6,
-    "SA": 48,
+    "SA": 50,
     "JP": 4,
     "DE": 3
    },
@@ -2619,8 +2619,8 @@
     "WSJ": 28,
     "Financial Times": 26,
     "Al-Monitor": 33,
-    "Reuters": 78,
-    "Bloomberg.com": 52,
+    "Reuters": 82,
+    "Bloomberg.com": 53,
     "חרדים10": 1,
     "BBC": 18,
     "The Guardian": 17,
@@ -2646,13 +2646,13 @@
     "Le Monde.fr": 1,
     "Access Partnership": 1,
     "The New York Times": 6,
-    "Arab News": 42,
+    "Arab News": 45,
     "Foreign Affairs": 2,
     "Nikkei Asia": 4,
     "Spiegel": 3,
     "Saudi Gazette": 11,
     "ASHARQ AL-AWSAT English": 4,
-    "AP News": 40,
+    "AP News": 43,
     "Bloom Pakistan": 1,
     "Jordan News": 1,
     "Baird Maritime": 2,
@@ -2751,7 +2751,10 @@
     "New Age BD": 1,
     "The Jerusalem Post": 1,
     "المتداول العربي": 1,
-    "www.footballtransfers.com": 1
+    "www.footballtransfers.com": 1,
+    "Nigerian Voice": 1,
+    "وكالة الأنباء السعودية": 1,
+    "Investing.com UK": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -2781,12 +2784,12 @@
     ],
     "Reuters": [
      0,
-     78,
+     82,
      0
     ],
     "Bloomberg.com": [
      0,
-     52,
+     53,
      0
     ],
     "חרדים10": [
@@ -2916,7 +2919,7 @@
     ],
     "Arab News": [
      0,
-     42,
+     45,
      0
     ],
     "Foreign Affairs": [
@@ -2946,7 +2949,7 @@
     ],
     "AP News": [
      0,
-     40,
+     43,
      0
     ],
     "Bloom Pakistan": [
@@ -3440,6 +3443,21 @@
      0
     ],
     "www.footballtransfers.com": [
+     0,
+     1,
+     0
+    ],
+    "Nigerian Voice": [
+     0,
+     1,
+     0
+    ],
+    "وكالة الأنباء السعودية": [
+     0,
+     1,
+     0
+    ],
+    "Investing.com UK": [
      0,
      1,
      0
