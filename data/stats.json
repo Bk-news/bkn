@@ -1469,15 +1469,15 @@
    }
   },
   "2026-11-02": {
-   "total": 686,
-   "news": 682,
+   "total": 689,
+   "news": 685,
    "articles": 4,
    "positive": 0,
-   "neutral": 686,
+   "neutral": 689,
    "critical": 0,
    "mbs": 19,
    "countries": {
-    "GB": 184,
+    "GB": 187,
     "US": 149,
     "SA": 78,
     "HK": 4,
@@ -1489,7 +1489,7 @@
    "sources": {
     "Cageside Seats": 1,
     "The Guardian": 39,
-    "Financial Times": 60,
+    "Financial Times": 61,
     "Al-Monitor": 32,
     "AP News": 9,
     "Bloomberg": 17,
@@ -1531,7 +1531,7 @@
     "ChemNet News": 1,
     "Saudi Gazette": 17,
     "South China Morning Post": 4,
-    "Reuters": 78,
+    "Reuters": 80,
     "France 24": 5,
     "CNN": 1,
     "New Telegraph": 2,
@@ -1684,7 +1684,7 @@
     ],
     "Financial Times": [
      0,
-     60,
+     61,
      0
     ],
     "Al-Monitor": [
@@ -1894,7 +1894,7 @@
     ],
     "Reuters": [
      0,
-     78,
+     80,
      0
     ],
     "France 24": [
@@ -2590,16 +2590,16 @@
    }
   },
   "2026-11-03": {
-   "total": 272,
-   "news": 268,
+   "total": 278,
+   "news": 274,
    "articles": 4,
    "positive": 0,
-   "neutral": 272,
+   "neutral": 278,
    "critical": 0,
    "mbs": 6,
    "countries": {
-    "US": 65,
-    "GB": 59,
+    "US": 66,
+    "GB": 64,
     "HK": 4,
     "FR": 3,
     "SA": 24,
@@ -2613,7 +2613,7 @@
     "WSJ": 13,
     "Financial Times": 11,
     "Al-Monitor": 6,
-    "Reuters": 34,
+    "Reuters": 39,
     "Bloomberg.com": 34,
     "חרדים10": 1,
     "BBC": 7,
@@ -2705,7 +2705,8 @@
     "Apa.az": 1,
     "The Hindu": 1,
     "Fana News -": 1,
-    "www.marketscreener.com": 1
+    "www.marketscreener.com": 1,
+    "Bloomberg": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -2735,7 +2736,7 @@
     ],
     "Reuters": [
      0,
-     34,
+     39,
      0
     ],
     "Bloomberg.com": [
@@ -3194,6 +3195,11 @@
      0
     ],
     "www.marketscreener.com": [
+     0,
+     1,
+     0
+    ],
+    "Bloomberg": [
      0,
      1,
      0
