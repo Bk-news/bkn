@@ -2602,16 +2602,16 @@
    }
   },
   "2026-11-03": {
-   "total": 618,
-   "news": 607,
-   "articles": 11,
+   "total": 621,
+   "news": 609,
+   "articles": 12,
    "positive": 0,
-   "neutral": 618,
+   "neutral": 621,
    "critical": 0,
    "mbs": 8,
    "countries": {
-    "US": 199,
-    "GB": 160,
+    "US": 201,
+    "GB": 161,
     "HK": 6,
     "FR": 6,
     "SA": 57,
@@ -2625,7 +2625,7 @@
     "WSJ": 32,
     "Financial Times": 37,
     "Al-Monitor": 34,
-    "Reuters": 89,
+    "Reuters": 90,
     "Bloomberg.com": 53,
     "חרדים10": 1,
     "BBC": 18,
@@ -2658,7 +2658,7 @@
     "Spiegel": 3,
     "Saudi Gazette": 11,
     "ASHARQ AL-AWSAT English": 4,
-    "AP News": 58,
+    "AP News": 59,
     "Bloom Pakistan": 1,
     "Jordan News": 1,
     "Baird Maritime": 2,
@@ -2734,7 +2734,7 @@
     "www.jordannews.jo": 1,
     "NewsCord": 1,
     "houseofsaud.com": 1,
-    "Atlantic Council": 1,
+    "Atlantic Council": 2,
     "BAE Systems": 1,
     "The Sun": 1,
     "lovin.co": 1,
@@ -2796,7 +2796,7 @@
     ],
     "Reuters": [
      0,
-     89,
+     90,
      0
     ],
     "Bloomberg.com": [
@@ -2961,7 +2961,7 @@
     ],
     "AP News": [
      0,
-     58,
+     59,
      0
     ],
     "Bloom Pakistan": [
@@ -3341,7 +3341,7 @@
     ],
     "Atlantic Council": [
      0,
-     1,
+     2,
      0
     ],
     "BAE Systems": [
