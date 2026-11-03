@@ -2602,11 +2602,11 @@
    }
   },
   "2026-11-03": {
-   "total": 788,
-   "news": 770,
+   "total": 789,
+   "news": 771,
    "articles": 18,
    "positive": 0,
-   "neutral": 788,
+   "neutral": 789,
    "critical": 0,
    "mbs": 10,
    "countries": {
@@ -2721,7 +2721,7 @@
     "Bloomberg": 7,
     "وكالة صدى نيوز": 1,
     "Foreign Policy": 3,
-    "Goal.com": 3,
+    "Goal.com": 4,
     "WRAL": 2,
     "L'Orient Today": 1,
     "Daily Sabah": 1,
@@ -3292,7 +3292,7 @@
     ],
     "Goal.com": [
      0,
-     3,
+     4,
      0
     ],
     "WRAL": [
