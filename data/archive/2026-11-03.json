@@ -529,6 +529,27 @@
    "mt": true
   },
   {
+   "id": "6885b6c752adc29e",
+   "origin": "rss",
+   "source": "BBC",
+   "author": "",
+   "title_ar": "الأخبار العاجلة والفيديو وأحدث الأخبار من الولايات المتحدة وحول العالم",
+   "title_orig": "Breaking news, video and the latest top stories from the U.S. and around the world",
+   "title_en": "Breaking news, video and the latest top stories from the U.S. and around the world",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE1fU1RxaFJPN3owdV9ycENhQTlQM2loT2ZJZHNjeGZoRUZYOUJ2SzBESUdYcGNraGREdU95Yg?oc=5",
+   "published": "2026-11-03T22:44:45.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "Breaking news, video and the latest top stories from the U.S. and around the world &nbsp;&nbsp; BBC",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "557fa26cfd3113db",
    "origin": "rss",
    "source": "Atlantic Council",

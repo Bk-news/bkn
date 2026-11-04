@@ -2602,16 +2602,16 @@
    }
   },
   "2026-11-03": {
-   "total": 856,
-   "news": 838,
+   "total": 857,
+   "news": 839,
    "articles": 18,
    "positive": 0,
-   "neutral": 856,
+   "neutral": 857,
    "critical": 0,
    "mbs": 10,
    "countries": {
     "US": 283,
-    "GB": 225,
+    "GB": 226,
     "HK": 6,
     "FR": 7,
     "SA": 90,
@@ -2628,7 +2628,7 @@
     "Reuters": 127,
     "Bloomberg.com": 62,
     "חרדים10": 1,
-    "BBC": 21,
+    "BBC": 22,
     "The Guardian": 32,
     "South China Morning Post": 6,
     "Hindustan Times": 3,
@@ -2837,7 +2837,7 @@
     ],
     "BBC": [
      0,
-     21,
+     22,
      0
     ],
     "The Guardian": [
@@ -3663,15 +3663,15 @@
    }
   },
   "2026-11-04": {
-   "total": 161,
-   "news": 160,
+   "total": 163,
+   "news": 162,
    "articles": 1,
    "positive": 0,
-   "neutral": 161,
+   "neutral": 163,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "SA": 15,
+    "SA": 16,
     "US": 32,
     "GB": 50,
     "JP": 1,
@@ -3681,7 +3681,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Arab News": 15,
+    "Arab News": 16,
     "Heavy.com": 1,
     "Al-Monitor": 10,
     "The Washington Post": 2,
@@ -3744,7 +3744,8 @@
     "Middle East Construction News": 1,
     "朝日新聞": 1,
     "IQAir": 1,
-    "NewsCord": 1
+    "NewsCord": 1,
+    "Forbes Middle East": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -3754,7 +3755,7 @@
     ],
     "Arab News": [
      0,
-     15,
+     16,
      0
     ],
     "Heavy.com": [
@@ -4068,6 +4069,11 @@
      0
     ],
     "NewsCord": [
+     0,
+     1,
+     0
+    ],
+    "Forbes Middle East": [
      0,
      1,
      0
