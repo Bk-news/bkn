@@ -1,5 +1,17 @@
 [
  {
+  "id": "378afd6643dd8658",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "نتائج أولية لانتخابات مجلس النواب: 129 مقعدا للديمقراطيين مقابل 73 للجمهوريين",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152333",
+  "published": "2026-11-04T03:50:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-04T03:50:01.000Z"
+ },
+ {
   "id": "611c6cf9250a2a48",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -214,17 +226,5 @@
   "published": "2026-11-04T02:55:01.000Z",
   "subject": "saudi",
   "added": "2026-11-04T02:55:01.000Z"
- },
- {
-  "id": "0966d1e46098deac",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "البيت الأبيض: أجواء الانتخابات تتسم بالتحدي رغم مكاسب الديمقراطيين",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152314",
-  "published": "2026-11-04T02:51:02.000Z",
-  "subject": "saudi",
-  "added": "2026-11-04T02:51:02.000Z"
  }
 ]
