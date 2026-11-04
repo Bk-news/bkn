@@ -1469,15 +1469,15 @@
    }
   },
   "2026-11-02": {
-   "total": 951,
-   "news": 945,
+   "total": 952,
+   "news": 946,
    "articles": 6,
    "positive": 0,
-   "neutral": 951,
+   "neutral": 952,
    "critical": 0,
    "mbs": 20,
    "countries": {
-    "GB": 283,
+    "GB": 284,
     "US": 298,
     "SA": 85,
     "HK": 6,
@@ -1531,7 +1531,7 @@
     "ChemNet News": 1,
     "Saudi Gazette": 17,
     "South China Morning Post": 6,
-    "Reuters": 142,
+    "Reuters": 143,
     "France 24": 6,
     "CNN": 2,
     "New Telegraph": 2,
@@ -1896,7 +1896,7 @@
     ],
     "Reuters": [
      0,
-     142,
+     143,
      0
     ],
     "France 24": [
@@ -2602,16 +2602,16 @@
    }
   },
   "2026-11-03": {
-   "total": 890,
-   "news": 872,
+   "total": 891,
+   "news": 873,
    "articles": 18,
    "positive": 0,
-   "neutral": 890,
+   "neutral": 891,
    "critical": 0,
    "mbs": 10,
    "countries": {
     "US": 286,
-    "GB": 254,
+    "GB": 255,
     "HK": 6,
     "FR": 8,
     "SA": 91,
@@ -2625,7 +2625,7 @@
     "WSJ": 45,
     "Financial Times": 49,
     "Al-Monitor": 43,
-    "Reuters": 152,
+    "Reuters": 153,
     "Bloomberg.com": 63,
     "חרדים10": 1,
     "BBC": 22,
@@ -2822,7 +2822,7 @@
     ],
     "Reuters": [
      0,
-     152,
+     153,
      0
     ],
     "Bloomberg.com": [
@@ -3663,17 +3663,17 @@
    }
   },
   "2026-11-04": {
-   "total": 373,
-   "news": 369,
+   "total": 377,
+   "news": 373,
    "articles": 4,
    "positive": 0,
-   "neutral": 373,
+   "neutral": 377,
    "critical": 0,
    "mbs": 11,
    "countries": {
     "SA": 37,
     "US": 78,
-    "GB": 113,
+    "GB": 117,
     "JP": 1,
     "FR": 3,
     "HK": 2
@@ -3686,7 +3686,7 @@
     "Al-Monitor": 22,
     "The Washington Post": 5,
     "Bloomberg.com": 21,
-    "Reuters": 73,
+    "Reuters": 76,
     "Nikkei Asia": 1,
     "WSJ": 11,
     "The Australian": 1,
@@ -3699,7 +3699,7 @@
     "ABC News - Breaking News, Latest News and Videos": 1,
     "LiveScore": 1,
     "France 24": 1,
-    "The Guardian": 15,
+    "The Guardian": 16,
     "Foreign Affairs": 1,
     "The New York Times": 5,
     "South China Morning Post": 2,
@@ -3837,7 +3837,7 @@
     ],
     "Reuters": [
      0,
-     73,
+     76,
      0
     ],
     "Nikkei Asia": [
@@ -3902,7 +3902,7 @@
     ],
     "The Guardian": [
      0,
-     15,
+     16,
      0
     ],
     "Foreign Affairs": [
