@@ -1469,15 +1469,15 @@
    }
   },
   "2026-11-02": {
-   "total": 924,
-   "news": 918,
+   "total": 926,
+   "news": 920,
    "articles": 6,
    "positive": 0,
-   "neutral": 924,
+   "neutral": 926,
    "critical": 0,
    "mbs": 20,
    "countries": {
-    "GB": 268,
+    "GB": 270,
     "US": 289,
     "SA": 85,
     "HK": 4,
@@ -1531,7 +1531,7 @@
     "ChemNet News": 1,
     "Saudi Gazette": 17,
     "South China Morning Post": 4,
-    "Reuters": 136,
+    "Reuters": 138,
     "France 24": 5,
     "CNN": 1,
     "New Telegraph": 2,
@@ -1896,7 +1896,7 @@
     ],
     "Reuters": [
      0,
-     136,
+     138,
      0
     ],
     "France 24": [
@@ -2602,19 +2602,19 @@
    }
   },
   "2026-11-03": {
-   "total": 840,
-   "news": 822,
+   "total": 848,
+   "news": 830,
    "articles": 18,
    "positive": 0,
-   "neutral": 840,
+   "neutral": 848,
    "critical": 0,
    "mbs": 10,
    "countries": {
     "US": 281,
-    "GB": 221,
+    "GB": 225,
     "HK": 6,
     "FR": 7,
-    "SA": 86,
+    "SA": 89,
     "JP": 4,
     "DE": 3
    },
@@ -2625,11 +2625,11 @@
     "WSJ": 45,
     "Financial Times": 47,
     "Al-Monitor": 41,
-    "Reuters": 124,
+    "Reuters": 127,
     "Bloomberg.com": 61,
     "חרדים10": 1,
     "BBC": 21,
-    "The Guardian": 31,
+    "The Guardian": 32,
     "South China Morning Post": 6,
     "Hindustan Times": 3,
     "Jordan Times": 1,
@@ -2652,7 +2652,7 @@
     "Le Monde.fr": 1,
     "Access Partnership": 1,
     "The New York Times": 11,
-    "Arab News": 81,
+    "Arab News": 84,
     "Foreign Affairs": 3,
     "Nikkei Asia": 4,
     "Spiegel": 3,
@@ -2730,7 +2730,7 @@
     "The Straits Times": 1,
     "Middle East Monitor": 1,
     "RFI": 1,
-    "Yahoo Sports": 4,
+    "Yahoo Sports": 5,
     "www.jordannews.jo": 1,
     "NewsCord": 1,
     "houseofsaud.com": 1,
@@ -2818,7 +2818,7 @@
     ],
     "Reuters": [
      0,
-     124,
+     127,
      0
     ],
     "Bloomberg.com": [
@@ -2838,7 +2838,7 @@
     ],
     "The Guardian": [
      0,
-     31,
+     32,
      0
     ],
     "South China Morning Post": [
@@ -2953,7 +2953,7 @@
     ],
     "Arab News": [
      0,
-     81,
+     84,
      0
     ],
     "Foreign Affairs": [
@@ -3343,7 +3343,7 @@
     ],
     "Yahoo Sports": [
      0,
-     4,
+     5,
      0
     ],
     "www.jordannews.jo": [
@@ -3639,17 +3639,17 @@
    }
   },
   "2026-11-04": {
-   "total": 131,
-   "news": 130,
+   "total": 148,
+   "news": 147,
    "articles": 1,
    "positive": 0,
-   "neutral": 131,
+   "neutral": 148,
    "critical": 0,
-   "mbs": 1,
+   "mbs": 2,
    "countries": {
-    "SA": 10,
-    "US": 30,
-    "GB": 44,
+    "SA": 13,
+    "US": 31,
+    "GB": 46,
     "JP": 1,
     "FR": 1,
     "HK": 2
@@ -3657,12 +3657,12 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Arab News": 10,
+    "Arab News": 13,
     "Heavy.com": 1,
     "Al-Monitor": 10,
     "The Washington Post": 2,
-    "Bloomberg.com": 10,
-    "Reuters": 28,
+    "Bloomberg.com": 11,
+    "Reuters": 29,
     "Nikkei Asia": 1,
     "WSJ": 4,
     "The Australian": 1,
@@ -3681,9 +3681,9 @@
     "South China Morning Post": 2,
     "A News": 1,
     "BBC": 6,
-    "Financial Times": 5,
+    "Financial Times": 6,
     "AP News": 3,
-    "Saudi Gazette": 1,
+    "Saudi Gazette": 2,
     "TahawulTech.com": 1,
     "The National": 2,
     "Anadolu Ajansı": 1,
@@ -3706,7 +3706,17 @@
     "NHKニュース": 1,
     "Facebook": 1,
     "Australia Saudi Business Forum": 1,
-    "Golf Industry Asia": 1
+    "Golf Industry Asia": 1,
+    "Il Sole 24 ORE": 1,
+    "Dubai Eye 103.8": 1,
+    "Dawn": 1,
+    "Travel & Tourism News Middle East": 1,
+    "Arabian Business": 1,
+    "Jordan News": 1,
+    "chinadailyhk": 1,
+    "INDiplomacy": 1,
+    "BigGo Finance": 1,
+    "Bernama": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -3716,7 +3726,7 @@
     ],
     "Arab News": [
      0,
-     10,
+     13,
      0
     ],
     "Heavy.com": [
@@ -3736,12 +3746,12 @@
     ],
     "Bloomberg.com": [
      0,
-     10,
+     11,
      0
     ],
     "Reuters": [
      0,
-     28,
+     29,
      0
     ],
     "Nikkei Asia": [
@@ -3836,7 +3846,7 @@
     ],
     "Financial Times": [
      0,
-     5,
+     6,
      0
     ],
     "AP News": [
@@ -3846,7 +3856,7 @@
     ],
     "Saudi Gazette": [
      0,
-     1,
+     2,
      0
     ],
     "TahawulTech.com": [
@@ -3960,6 +3970,56 @@
      0
     ],
     "Golf Industry Asia": [
+     0,
+     1,
+     0
+    ],
+    "Il Sole 24 ORE": [
+     0,
+     1,
+     0
+    ],
+    "Dubai Eye 103.8": [
+     0,
+     1,
+     0
+    ],
+    "Dawn": [
+     0,
+     1,
+     0
+    ],
+    "Travel & Tourism News Middle East": [
+     0,
+     1,
+     0
+    ],
+    "Arabian Business": [
+     0,
+     1,
+     0
+    ],
+    "Jordan News": [
+     0,
+     1,
+     0
+    ],
+    "chinadailyhk": [
+     0,
+     1,
+     0
+    ],
+    "INDiplomacy": [
+     0,
+     1,
+     0
+    ],
+    "BigGo Finance": [
+     0,
+     1,
+     0
+    ],
+    "Bernama": [
      0,
      1,
      0
