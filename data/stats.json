@@ -3663,17 +3663,17 @@
    }
   },
   "2026-11-04": {
-   "total": 174,
-   "news": 173,
+   "total": 176,
+   "news": 175,
    "articles": 1,
    "positive": 0,
-   "neutral": 174,
+   "neutral": 176,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 16,
     "US": 35,
-    "GB": 53,
+    "GB": 55,
     "JP": 1,
     "FR": 2,
     "HK": 2
@@ -3699,13 +3699,13 @@
     "ABC News - Breaking News, Latest News and Videos": 1,
     "LiveScore": 1,
     "France 24": 1,
-    "The Guardian": 6,
+    "The Guardian": 7,
     "Foreign Affairs": 1,
     "The New York Times": 2,
     "South China Morning Post": 2,
     "A News": 1,
     "BBC": 6,
-    "Financial Times": 7,
+    "Financial Times": 8,
     "AP News": 3,
     "Saudi Gazette": 2,
     "TahawulTech.com": 1,
@@ -3850,7 +3850,7 @@
     ],
     "The Guardian": [
      0,
-     6,
+     7,
      0
     ],
     "Foreign Affairs": [
@@ -3880,7 +3880,7 @@
     ],
     "Financial Times": [
      0,
-     7,
+     8,
      0
     ],
     "AP News": [
