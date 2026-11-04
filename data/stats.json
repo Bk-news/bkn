@@ -2602,16 +2602,16 @@
    }
   },
   "2026-11-03": {
-   "total": 868,
-   "news": 850,
+   "total": 871,
+   "news": 853,
    "articles": 18,
    "positive": 0,
-   "neutral": 868,
+   "neutral": 871,
    "critical": 0,
    "mbs": 10,
    "countries": {
     "US": 286,
-    "GB": 232,
+    "GB": 235,
     "HK": 6,
     "FR": 8,
     "SA": 91,
@@ -2625,7 +2625,7 @@
     "WSJ": 45,
     "Financial Times": 48,
     "Al-Monitor": 43,
-    "Reuters": 131,
+    "Reuters": 134,
     "Bloomberg.com": 63,
     "חרדים10": 1,
     "BBC": 22,
@@ -2822,7 +2822,7 @@
     ],
     "Reuters": [
      0,
-     131,
+     134,
      0
     ],
     "Bloomberg.com": [
@@ -3663,17 +3663,17 @@
    }
   },
   "2026-11-04": {
-   "total": 307,
-   "news": 303,
+   "total": 344,
+   "news": 340,
    "articles": 4,
    "positive": 0,
-   "neutral": 307,
+   "neutral": 344,
    "critical": 0,
-   "mbs": 9,
+   "mbs": 11,
    "countries": {
-    "SA": 35,
+    "SA": 36,
     "US": 73,
-    "GB": 94,
+    "GB": 110,
     "JP": 1,
     "FR": 3,
     "HK": 2
@@ -3681,12 +3681,12 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Arab News": 32,
+    "Arab News": 35,
     "Heavy.com": 1,
     "Al-Monitor": 22,
     "The Washington Post": 5,
     "Bloomberg.com": 20,
-    "Reuters": 54,
+    "Reuters": 70,
     "Nikkei Asia": 1,
     "WSJ": 11,
     "The Australian": 1,
@@ -3711,9 +3711,9 @@
     "TahawulTech.com": 1,
     "The National": 3,
     "Anadolu Ajansı": 3,
-    "Arab News PK": 2,
+    "Arab News PK": 3,
     "UA.NEWS": 1,
-    "ASHARQ AL-AWSAT English": 5,
+    "ASHARQ AL-AWSAT English": 6,
     "The Quint": 1,
     "The Indian Express": 1,
     "Morocco World News": 1,
@@ -3750,12 +3750,12 @@
     "Le Monde.fr": 2,
     "CairoScene": 2,
     "USA Today": 1,
-    "وكالة الأنباء السعودية": 2,
+    "وكالة الأنباء السعودية": 3,
     "Ednews.net": 1,
     "MUFG Research": 1,
     "Daily Times": 1,
     "Instagram": 1,
-    "سانا": 1,
+    "سانا": 2,
     "Foreign Policy": 1,
     "Atlantic Council": 1,
     "The Economist": 1,
@@ -3777,7 +3777,20 @@
     "tovima.com": 1,
     "Daily Monitor": 1,
     "Diari ARA": 1,
-    "TheSportster": 1
+    "TheSportster": 1,
+    "Enab Baladi": 1,
+    "El Constitucional": 1,
+    "Channels Television": 1,
+    "Vanguard News": 1,
+    "The Times of Israel": 1,
+    "Yahoo Sports": 1,
+    "TheCable": 2,
+    "Rare Earth Exchanges": 1,
+    "صحيفة مال": 1,
+    "Latest news from Azerbaijan": 1,
+    "Computer Weekly": 1,
+    "Condé Nast Traveller Middle East": 1,
+    "Mehr News Agency": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -3787,7 +3800,7 @@
     ],
     "Arab News": [
      0,
-     32,
+     35,
      0
     ],
     "Heavy.com": [
@@ -3812,7 +3825,7 @@
     ],
     "Reuters": [
      0,
-     54,
+     70,
      0
     ],
     "Nikkei Asia": [
@@ -3937,7 +3950,7 @@
     ],
     "Arab News PK": [
      0,
-     2,
+     3,
      0
     ],
     "UA.NEWS": [
@@ -3947,7 +3960,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     5,
+     6,
      0
     ],
     "The Quint": [
@@ -4132,7 +4145,7 @@
     ],
     "وكالة الأنباء السعودية": [
      0,
-     2,
+     3,
      0
     ],
     "Ednews.net": [
@@ -4157,7 +4170,7 @@
     ],
     "سانا": [
      0,
-     1,
+     2,
      0
     ],
     "Foreign Policy": [
@@ -4266,6 +4279,71 @@
      0
     ],
     "TheSportster": [
+     0,
+     1,
+     0
+    ],
+    "Enab Baladi": [
+     0,
+     1,
+     0
+    ],
+    "El Constitucional": [
+     0,
+     1,
+     0
+    ],
+    "Channels Television": [
+     0,
+     1,
+     0
+    ],
+    "Vanguard News": [
+     0,
+     1,
+     0
+    ],
+    "The Times of Israel": [
+     0,
+     1,
+     0
+    ],
+    "Yahoo Sports": [
+     0,
+     1,
+     0
+    ],
+    "TheCable": [
+     0,
+     2,
+     0
+    ],
+    "Rare Earth Exchanges": [
+     0,
+     1,
+     0
+    ],
+    "صحيفة مال": [
+     0,
+     1,
+     0
+    ],
+    "Latest news from Azerbaijan": [
+     0,
+     1,
+     0
+    ],
+    "Computer Weekly": [
+     0,
+     1,
+     0
+    ],
+    "Condé Nast Traveller Middle East": [
+     0,
+     1,
+     0
+    ],
+    "Mehr News Agency": [
      0,
      1,
      0
