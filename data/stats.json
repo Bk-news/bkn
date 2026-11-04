@@ -3663,11 +3663,11 @@
    }
   },
   "2026-11-04": {
-   "total": 388,
-   "news": 383,
+   "total": 389,
+   "news": 384,
    "articles": 5,
    "positive": 0,
-   "neutral": 388,
+   "neutral": 389,
    "critical": 0,
    "mbs": 11,
    "countries": {
@@ -3803,7 +3803,8 @@
     "ANTARA News": 1,
     "The Paypers": 1,
     "MMA Junkie": 1,
-    "MEED": 1
+    "MEED": 1,
+    "SunStar Publishing Inc.": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -4422,6 +4423,11 @@
      0
     ],
     "MEED": [
+     0,
+     1,
+     0
+    ],
+    "SunStar Publishing Inc.": [
      0,
      1,
      0
