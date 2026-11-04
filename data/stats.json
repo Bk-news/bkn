@@ -2602,11 +2602,11 @@
    }
   },
   "2026-11-03": {
-   "total": 862,
-   "news": 844,
+   "total": 863,
+   "news": 845,
    "articles": 18,
    "positive": 0,
-   "neutral": 862,
+   "neutral": 863,
    "critical": 0,
    "mbs": 10,
    "countries": {
@@ -2614,7 +2614,7 @@
     "GB": 230,
     "HK": 6,
     "FR": 7,
-    "SA": 90,
+    "SA": 91,
     "JP": 4,
     "DE": 3
    },
@@ -2656,7 +2656,7 @@
     "Foreign Affairs": 3,
     "Nikkei Asia": 4,
     "Spiegel": 3,
-    "Saudi Gazette": 14,
+    "Saudi Gazette": 15,
     "ASHARQ AL-AWSAT English": 4,
     "AP News": 100,
     "Bloom Pakistan": 1,
@@ -2977,7 +2977,7 @@
     ],
     "Saudi Gazette": [
      0,
-     14,
+     15,
      0
     ],
     "ASHARQ AL-AWSAT English": [
