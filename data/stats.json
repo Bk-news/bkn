@@ -3663,17 +3663,17 @@
    }
   },
   "2026-11-04": {
-   "total": 406,
-   "news": 401,
+   "total": 407,
+   "news": 402,
    "articles": 5,
    "positive": 0,
-   "neutral": 406,
+   "neutral": 407,
    "critical": 0,
    "mbs": 13,
    "countries": {
     "SA": 39,
     "US": 84,
-    "GB": 128,
+    "GB": 129,
     "JP": 1,
     "FR": 3,
     "HK": 2
@@ -3699,7 +3699,7 @@
     "ABC News - Breaking News, Latest News and Videos": 1,
     "LiveScore": 1,
     "France 24": 1,
-    "The Guardian": 20,
+    "The Guardian": 21,
     "Foreign Affairs": 1,
     "The New York Times": 5,
     "South China Morning Post": 2,
@@ -3908,7 +3908,7 @@
     ],
     "The Guardian": [
      0,
-     20,
+     21,
      0
     ],
     "Foreign Affairs": [
