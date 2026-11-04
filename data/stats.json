@@ -3663,16 +3663,16 @@
    }
   },
   "2026-11-04": {
-   "total": 393,
-   "news": 388,
+   "total": 394,
+   "news": 389,
    "articles": 5,
    "positive": 0,
-   "neutral": 393,
+   "neutral": 394,
    "critical": 0,
    "mbs": 11,
    "countries": {
     "SA": 38,
-    "US": 82,
+    "US": 83,
     "GB": 124,
     "JP": 1,
     "FR": 3,
@@ -3683,7 +3683,7 @@
     "Arabian Gulf Business Insight | AGBI": 2,
     "Arab News": 42,
     "Heavy.com": 1,
-    "Al-Monitor": 25,
+    "Al-Monitor": 26,
     "The Washington Post": 5,
     "Bloomberg.com": 21,
     "Reuters": 81,
@@ -3825,7 +3825,7 @@
     ],
     "Al-Monitor": [
      0,
-     25,
+     26,
      0
     ],
     "The Washington Post": [
