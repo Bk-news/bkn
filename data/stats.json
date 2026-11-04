@@ -3663,11 +3663,11 @@
    }
   },
   "2026-11-04": {
-   "total": 191,
-   "news": 190,
+   "total": 192,
+   "news": 191,
    "articles": 1,
    "positive": 0,
-   "neutral": 191,
+   "neutral": 192,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -3752,7 +3752,8 @@
     "USA Today": 1,
     "وكالة الأنباء السعودية": 1,
     "Ednews.net": 1,
-    "MUFG Research": 1
+    "MUFG Research": 1,
+    "Daily Times": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -4116,6 +4117,11 @@
      0
     ],
     "MUFG Research": [
+     0,
+     1,
+     0
+    ],
+    "Daily Times": [
      0,
      1,
      0
