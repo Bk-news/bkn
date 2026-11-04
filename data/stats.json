@@ -1469,16 +1469,16 @@
    }
   },
   "2026-11-02": {
-   "total": 877,
-   "news": 871,
+   "total": 879,
+   "news": 873,
    "articles": 6,
    "positive": 0,
-   "neutral": 877,
+   "neutral": 879,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "GB": 241,
-    "US": 271,
+    "US": 273,
     "SA": 84,
     "HK": 4,
     "FR": 17,
@@ -1491,7 +1491,7 @@
     "The Guardian": 42,
     "Financial Times": 72,
     "Al-Monitor": 33,
-    "AP News": 114,
+    "AP News": 116,
     "Bloomberg": 19,
     "Mehr News Agency": 5,
     "Arab News": 81,
@@ -1696,7 +1696,7 @@
     ],
     "AP News": [
      0,
-     114,
+     116,
      0
     ],
     "Bloomberg": [
