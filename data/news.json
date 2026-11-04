@@ -1,5 +1,25 @@
 [
  {
+  "id": "d05d83a88bf65ba4",
+  "origin": "rss",
+  "source": "Arabian Gulf Business Insight | AGBI",
+  "author": "",
+  "title_ar": "Concerts a bright spot for war-hit Saudi entertainment",
+  "title_orig": "Concerts a bright spot for war-hit Saudi entertainment",
+  "title_en": "Concerts a bright spot for war-hit Saudi entertainment",
+  "summary_ar": [],
+  "summary_en": [],
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOGJsZVM1d1phZVBMeTQ2dGZRSkFhMnhZTG5Rc3ZBN3FWMWRFcGN3Zk9qMHB5T0J5dHRCcHZrY0trUzlKY0RxYkZBWkYySEltYnF3ZFFhZzdyUjFSUkVwZmIyejQzaHVKVC1fdmFwc2o3U3I1STAtemdtVHBVUHgtR0hjVlBOcExRNmJXS2xXcTMxbXNma1FWV0wzMzRvVzZXX0Qwc0hIOHcwWTV1ZTBJYXJyNA?oc=5",
+  "published": "2026-11-04T00:00:00.000Z",
+  "subject": "saudi",
+  "tone": "neutral",
+  "topic": "",
+  "country": "",
+  "pending": true,
+  "desc": "Concerts a bright spot for war-hit Saudi entertainment &nbsp;&nbsp; Arabian Gulf Business Insight | AGBI",
+  "lang": "en"
+ },
+ {
   "id": "d3259dfd88931bc6",
   "origin": "rss",
   "source": "The Guardian",
@@ -10402,26 +10422,5 @@
   "pending": true,
   "desc": "Houthi Strikes in Saudi Arabia, as of November 2, 2026 at 2:00 PM ET &nbsp;&nbsp; Institute for the Study of War",
   "lang": "en"
- },
- {
-  "id": "b8c56ba91eaff45c",
-  "origin": "rss",
-  "source": "Tehran Times",
-  "author": "",
-  "title_ar": "الاتحاد الآسيوي يؤجل بطولة كأس آسيا 2027 للسعودية",
-  "title_orig": "AFC postpones Saudi Arabia’s 2027 Asian Cup",
-  "title_en": "AFC postpones Saudi Arabia’s 2027 Asian Cup",
-  "summary_ar": [],
-  "summary_en": [],
-  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTFBGZmdtWGowN2F5TnA5V3hCS2J0d0Jfb1ZDLW5yLUF5dzM1TnRYaHRLcGdZaHEtU1F0aWpPTmt2WVE1eGw3WEpLOGMyX0VVTHhTektDS3ktcmtkZndEdFR3VF91ZFRqdTZJR1J2UTZtbXo3M0dvMDZJbzdQZTVsMmgtR0c3UjJjcGgw?oc=5",
-  "published": "2026-11-03T08:15:31.000Z",
-  "subject": "saudi",
-  "tone": "neutral",
-  "topic": "",
-  "country": "",
-  "pending": true,
-  "desc": "AFC postpones Saudi Arabia’s 2027 Asian Cup &nbsp;&nbsp; Tehran Times",
-  "lang": "en",
-  "mt": true
  }
 ]

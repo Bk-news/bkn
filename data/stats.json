@@ -1469,16 +1469,16 @@
    }
   },
   "2026-11-02": {
-   "total": 880,
-   "news": 874,
+   "total": 884,
+   "news": 878,
    "articles": 6,
    "positive": 0,
-   "neutral": 880,
+   "neutral": 884,
    "critical": 0,
    "mbs": 20,
    "countries": {
-    "GB": 242,
-    "US": 273,
+    "GB": 243,
+    "US": 276,
     "SA": 84,
     "HK": 4,
     "FR": 17,
@@ -1489,9 +1489,9 @@
    "sources": {
     "Cageside Seats": 1,
     "The Guardian": 43,
-    "Financial Times": 72,
+    "Financial Times": 73,
     "Al-Monitor": 33,
-    "AP News": 116,
+    "AP News": 119,
     "Bloomberg": 19,
     "Mehr News Agency": 5,
     "Arab News": 81,
@@ -1686,7 +1686,7 @@
     ],
     "Financial Times": [
      0,
-     72,
+     73,
      0
     ],
     "Al-Monitor": [
@@ -1696,7 +1696,7 @@
     ],
     "AP News": [
      0,
-     116,
+     119,
      0
     ],
     "Bloomberg": [
@@ -3614,6 +3614,27 @@
      0
     ],
     "Addis Standard": [
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "2026-11-04": {
+   "total": 1,
+   "news": 1,
+   "articles": 0,
+   "positive": 0,
+   "neutral": 1,
+   "critical": 0,
+   "mbs": 0,
+   "countries": {},
+   "topics": {},
+   "sources": {
+    "Arabian Gulf Business Insight | AGBI": 1
+   },
+   "sourceTone": {
+    "Arabian Gulf Business Insight | AGBI": [
      0,
      1,
      0
