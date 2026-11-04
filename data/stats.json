@@ -1469,15 +1469,15 @@
    }
   },
   "2026-11-02": {
-   "total": 942,
-   "news": 936,
+   "total": 943,
+   "news": 937,
    "articles": 6,
    "positive": 0,
-   "neutral": 942,
+   "neutral": 943,
    "critical": 0,
    "mbs": 20,
    "countries": {
-    "GB": 277,
+    "GB": 278,
     "US": 295,
     "SA": 85,
     "HK": 6,
@@ -1489,7 +1489,7 @@
    "sources": {
     "Cageside Seats": 1,
     "The Guardian": 50,
-    "Financial Times": 78,
+    "Financial Times": 79,
     "Al-Monitor": 33,
     "AP News": 129,
     "Bloomberg": 20,
@@ -1686,7 +1686,7 @@
     ],
     "Financial Times": [
      0,
-     78,
+     79,
      0
     ],
     "Al-Monitor": [
@@ -3663,16 +3663,16 @@
    }
   },
   "2026-11-04": {
-   "total": 179,
-   "news": 178,
+   "total": 180,
+   "news": 179,
    "articles": 1,
    "positive": 0,
-   "neutral": 179,
+   "neutral": 180,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 16,
-    "US": 35,
+    "US": 36,
     "GB": 57,
     "JP": 1,
     "FR": 2,
@@ -3706,7 +3706,7 @@
     "A News": 1,
     "BBC": 6,
     "Financial Times": 8,
-    "AP News": 3,
+    "AP News": 4,
     "Saudi Gazette": 2,
     "TahawulTech.com": 1,
     "The National": 2,
@@ -3885,7 +3885,7 @@
     ],
     "AP News": [
      0,
-     3,
+     4,
      0
     ],
     "Saudi Gazette": [
