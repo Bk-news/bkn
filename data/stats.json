@@ -1469,17 +1469,17 @@
    }
   },
   "2026-11-02": {
-   "total": 960,
-   "news": 953,
+   "total": 962,
+   "news": 955,
    "articles": 7,
    "positive": 0,
-   "neutral": 960,
+   "neutral": 962,
    "critical": 0,
    "mbs": 20,
    "countries": {
-    "GB": 287,
+    "GB": 288,
     "US": 300,
-    "SA": 85,
+    "SA": 86,
     "HK": 6,
     "FR": 20,
     "JP": 2,
@@ -1488,13 +1488,13 @@
    "topics": {},
    "sources": {
     "Cageside Seats": 1,
-    "The Guardian": 53,
+    "The Guardian": 54,
     "Financial Times": 79,
     "Al-Monitor": 34,
     "AP News": 129,
     "Bloomberg": 20,
     "Mehr News Agency": 5,
-    "Arab News": 82,
+    "Arab News": 83,
     "The Washington Post": 4,
     "وكالة الأنباء السعودية": 2,
     "WSJ": 41,
@@ -1681,7 +1681,7 @@
     ],
     "The Guardian": [
      0,
-     53,
+     54,
      0
     ],
     "Financial Times": [
@@ -1711,7 +1711,7 @@
     ],
     "Arab News": [
      0,
-     82,
+     83,
      0
     ],
     "The Washington Post": [
