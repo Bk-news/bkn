@@ -182,6 +182,26 @@
    "lang": "en"
   },
   {
+   "id": "9677ad433bb1a552",
+   "origin": "rss",
+   "source": "Financial Times",
+   "author": "",
+   "title_ar": "Bloom Energy Corporation, BE:TOR profile",
+   "title_orig": "Bloom Energy Corporation, BE:TOR profile",
+   "title_en": "Bloom Energy Corporation, BE:TOR profile",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lUHF2MFhmMjROXzlGOTRQNHRKdHRkdkU0Q3htVXJtZDlVNVhuTkNKSHRsejNBdXlwUkhWVDh4TXFKS3pvOXpGRzYtSVpuaHV5OUF3TUdPZjFSMTQtYjFlSE5SS1pvUF9vUGJDY3BQeXI?oc=5",
+   "published": "2026-11-03T23:31:15.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "Bloom Energy Corporation, BE:TOR profile &nbsp;&nbsp; Financial Times",
+   "lang": "en"
+  },
+  {
    "id": "fb7e888300551c18",
    "origin": "rss",
    "source": "Al-Monitor",
@@ -13802,6 +13822,26 @@
    "desc": "Ukrainian drones set fire to major Russian oil refinery, local governor says &nbsp;&nbsp; Reuters",
    "lang": "en",
    "mt": true
+  },
+  {
+   "id": "fd20c75a2c2c30a8",
+   "origin": "rss",
+   "source": "Financial Times",
+   "author": "",
+   "title_ar": "Graniteshares Financial Public limited Company, OILP:LSE charts",
+   "title_orig": "Graniteshares Financial Public limited Company, OILP:LSE charts",
+   "title_en": "Graniteshares Financial Public limited Company, OILP:LSE charts",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03OFFCbTVCMXRhWXFXZl91WnNEbkljODY1LWZzc0JVdDZIdkQtNk9lb19XSXNmZXVkUExLRE0wUW5fQUJQSG00TkFXU1RjaGFpZFplUU0wbDAzRkl6Z1JvcW1JVUxCQk9DS19Peg?oc=5",
+   "published": "2026-11-03T05:31:08.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "Graniteshares Financial Public limited Company, OILP:LSE charts &nbsp;&nbsp; Financial Times",
+   "lang": "en"
   },
   {
    "id": "31127db922db76c2",
