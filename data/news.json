@@ -1,5 +1,25 @@
 [
  {
+  "id": "d3259dfd88931bc6",
+  "origin": "rss",
+  "source": "The Guardian",
+  "author": "",
+  "title_ar": "Mainoo and Lacey raise the spirits but systemic change still required at Manchester United",
+  "title_orig": "Mainoo and Lacey raise the spirits but systemic change still required at Manchester United",
+  "title_en": "Mainoo and Lacey raise the spirits but systemic change still required at Manchester United",
+  "summary_ar": [],
+  "summary_en": [],
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQalNDSmRjWUtXenZ6aHRmX1NjNkkwVG95UERlWWNpLUVyazJZeklLUWhhbmdjdW5OLW5hdU9MNkFYMENGT214VUpFZmtZaVA5YmcyeXZJS19OZUVxaC00T1JxR1ZEVXF0bHJRT201eUMyWURYZFBHcHZpNjZVXzdsVGE5SWplUVJfVGlvb1FCNUZfSE9qdU5ZNDBKTmRaVE5feXhReWo4MFFlRjNtM3prYlk0Tlp0bENz?oc=5",
+  "published": "2026-11-03T23:57:00.000Z",
+  "subject": "saudi",
+  "tone": "neutral",
+  "topic": "",
+  "country": "GB",
+  "pending": true,
+  "desc": "Mainoo and Lacey raise the spirits but systemic change still required at Manchester United &nbsp;&nbsp; The Guardian",
+  "lang": "en"
+ },
+ {
   "id": "1bc375dc97113530",
   "origin": "rss",
   "source": "The Guardian",
@@ -10401,27 +10421,6 @@
   "country": "",
   "pending": true,
   "desc": "AFC postpones Saudi Arabia’s 2027 Asian Cup &nbsp;&nbsp; Tehran Times",
-  "lang": "en",
-  "mt": true
- },
- {
-  "id": "e51845eb8d4db746",
-  "origin": "rss",
-  "source": "Bloomberg.com",
-  "author": "",
-  "title_ar": "شاهد يوم الانتخابات الأمريكية: ترامب يخاطر بفقدان السيطرة على الكونجرس",
-  "title_orig": "Watch US Election Day: Trump Risks Losing Control of Congress",
-  "title_en": "Watch US Election Day: Trump Risks Losing Control of Congress",
-  "summary_ar": [],
-  "summary_en": [],
-  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeEZrcGxqanA4ejVuZl8zYXdnamZJMUxFVjJibnVudU94UTUwdWJoekZxMTI0Q3BwY0sxVEZWUncxVFEzb1VZSHpTTm4xbENvN2RHYzZHblJNenJNSUhmMGNqSHlTeGE0X0pQWkFrclZkNnV3eUJFRHFwWVB5cU1CWl9uYk1NcjQ?oc=5",
-  "published": "2026-11-03T08:14:55.000Z",
-  "subject": "saudi",
-  "tone": "neutral",
-  "topic": "",
-  "country": "US",
-  "pending": true,
-  "desc": "Watch US Election Day: Trump Risks Losing Control of Congress &nbsp;&nbsp; Bloomberg.com",
   "lang": "en",
   "mt": true
  }

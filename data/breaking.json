@@ -1,5 +1,17 @@
 [
  {
+  "id": "691a94cc9de7b354",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "ترمب لـ CBS: الرئاسة قوية ويمكنني فعل الكثير",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152278",
+  "published": "2026-11-04T00:02:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-04T00:02:01.000Z"
+ },
+ {
   "id": "3ebb0f9ae21e9381",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -118,17 +130,5 @@
   "published": "2026-11-03T23:08:02.000Z",
   "subject": "saudi",
   "added": "2026-11-03T23:08:02.000Z"
- },
- {
-  "id": "1aa633b61532c142",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "إغلاق صناديق الاقتراع في الانتخابات النصفية بولايتي كنتاكي وإنديانا",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152267",
-  "published": "2026-11-03T23:02:02.000Z",
-  "subject": "saudi",
-  "added": "2026-11-03T23:02:02.000Z"
  }
 ]

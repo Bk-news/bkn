@@ -2602,16 +2602,16 @@
    }
   },
   "2026-11-03": {
-   "total": 799,
-   "news": 781,
+   "total": 800,
+   "news": 782,
    "articles": 18,
    "positive": 0,
-   "neutral": 799,
+   "neutral": 800,
    "critical": 0,
    "mbs": 10,
    "countries": {
     "US": 273,
-    "GB": 200,
+    "GB": 201,
     "HK": 6,
     "FR": 7,
     "SA": 82,
@@ -2629,7 +2629,7 @@
     "Bloomberg.com": 57,
     "חרדים10": 1,
     "BBC": 20,
-    "The Guardian": 28,
+    "The Guardian": 29,
     "South China Morning Post": 6,
     "Hindustan Times": 3,
     "Jordan Times": 1,
@@ -2835,7 +2835,7 @@
     ],
     "The Guardian": [
      0,
-     28,
+     29,
      0
     ],
     "South China Morning Post": [
