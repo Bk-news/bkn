@@ -3663,17 +3663,17 @@
    }
   },
   "2026-11-04": {
-   "total": 407,
-   "news": 402,
+   "total": 408,
+   "news": 403,
    "articles": 5,
    "positive": 0,
-   "neutral": 407,
+   "neutral": 408,
    "critical": 0,
    "mbs": 13,
    "countries": {
     "SA": 39,
     "US": 84,
-    "GB": 129,
+    "GB": 130,
     "JP": 1,
     "FR": 3,
     "HK": 2
@@ -3705,7 +3705,7 @@
     "South China Morning Post": 2,
     "A News": 1,
     "BBC": 11,
-    "Financial Times": 13,
+    "Financial Times": 14,
     "AP News": 13,
     "Saudi Gazette": 7,
     "TahawulTech.com": 1,
@@ -3938,7 +3938,7 @@
     ],
     "Financial Times": [
      0,
-     13,
+     14,
      0
     ],
     "AP News": [

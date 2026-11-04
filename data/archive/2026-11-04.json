@@ -2,6 +2,27 @@
  "day": "2026-11-04",
  "items": [
   {
+   "id": "97cba5bad16c810b",
+   "origin": "rss",
+   "source": "Financial Times",
+   "author": "",
+   "title_ar": "العزل وإيران والرئاسة: ماذا بعد الانتخابات النصفية؟",
+   "title_orig": "Impeachments, Iran and the presidency: what’s next after the midterms?",
+   "title_en": "Impeachments, Iran and the presidency: what’s next after the midterms?",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSW1yNlk3cG5BUkFFY21oUHNBeVNTM2c3cThiUjlndi1YMGZwMEVFakgzeXN4dl90X3BpYzlpQmVkanFrWHV0WjI0Q1d2ZG10RjV2TksxQWxUcVpSakxkX0ZNRTU4Rm10UzVjYnA5amdDVV85ZGtEVmcxSmNDUndvN1hLcnM?oc=5",
+   "published": "2026-11-04T19:06:34.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "Impeachments, Iran and the presidency: what’s next after the midterms? &nbsp;&nbsp; Financial Times",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "a0572b3f1f6f079e",
    "origin": "rss",
    "source": "The Guardian",
