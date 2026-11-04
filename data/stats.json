@@ -3663,17 +3663,17 @@
    }
   },
   "2026-11-04": {
-   "total": 404,
-   "news": 399,
+   "total": 406,
+   "news": 401,
    "articles": 5,
    "positive": 0,
-   "neutral": 404,
+   "neutral": 406,
    "critical": 0,
-   "mbs": 12,
+   "mbs": 13,
    "countries": {
     "SA": 39,
     "US": 84,
-    "GB": 127,
+    "GB": 128,
     "JP": 1,
     "FR": 3,
     "HK": 2
@@ -3699,7 +3699,7 @@
     "ABC News - Breaking News, Latest News and Videos": 1,
     "LiveScore": 1,
     "France 24": 1,
-    "The Guardian": 19,
+    "The Guardian": 20,
     "Foreign Affairs": 1,
     "The New York Times": 5,
     "South China Morning Post": 2,
@@ -3713,7 +3713,7 @@
     "Anadolu Ajansı": 4,
     "Arab News PK": 3,
     "UA.NEWS": 1,
-    "ASHARQ AL-AWSAT English": 7,
+    "ASHARQ AL-AWSAT English": 8,
     "The Quint": 1,
     "The Indian Express": 1,
     "Morocco World News": 1,
@@ -3908,7 +3908,7 @@
     ],
     "The Guardian": [
      0,
-     19,
+     20,
      0
     ],
     "Foreign Affairs": [
@@ -3978,7 +3978,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     7,
+     8,
      0
     ],
     "The Quint": [
