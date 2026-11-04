@@ -2602,16 +2602,16 @@
    }
   },
   "2026-11-03": {
-   "total": 827,
-   "news": 809,
+   "total": 828,
+   "news": 810,
    "articles": 18,
    "positive": 0,
-   "neutral": 827,
+   "neutral": 828,
    "critical": 0,
    "mbs": 10,
    "countries": {
     "US": 278,
-    "GB": 215,
+    "GB": 216,
     "HK": 6,
     "FR": 7,
     "SA": 84,
@@ -2629,7 +2629,7 @@
     "Bloomberg.com": 60,
     "חרדים10": 1,
     "BBC": 20,
-    "The Guardian": 30,
+    "The Guardian": 31,
     "South China Morning Post": 6,
     "Hindustan Times": 3,
     "Jordan Times": 1,
@@ -2838,7 +2838,7 @@
     ],
     "The Guardian": [
      0,
-     30,
+     31,
      0
     ],
     "South China Morning Post": [
@@ -3639,17 +3639,17 @@
    }
   },
   "2026-11-04": {
-   "total": 28,
-   "news": 28,
+   "total": 29,
+   "news": 29,
    "articles": 0,
    "positive": 0,
-   "neutral": 28,
+   "neutral": 29,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "SA": 2,
     "US": 11,
-    "GB": 4,
+    "GB": 5,
     "JP": 1
    },
    "topics": {},
@@ -3660,7 +3660,7 @@
     "Al-Monitor": 7,
     "The Washington Post": 1,
     "Bloomberg.com": 2,
-    "Reuters": 4,
+    "Reuters": 5,
     "Nikkei Asia": 1,
     "WSJ": 1,
     "The Australian": 1,
@@ -3705,7 +3705,7 @@
     ],
     "Reuters": [
      0,
-     4,
+     5,
      0
     ],
     "Nikkei Asia": [
