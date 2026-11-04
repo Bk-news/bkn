@@ -1,5 +1,25 @@
 [
  {
+  "id": "c6eed05a3b127ca6",
+  "origin": "rss",
+  "source": "MUFG Research",
+  "author": "",
+  "title_ar": "Saudi fiscal deficit widens in Q3",
+  "title_orig": "Saudi fiscal deficit widens in Q3",
+  "title_en": "Saudi fiscal deficit widens in Q3",
+  "summary_ar": [],
+  "summary_en": [],
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yd3FSdHNpd0g1NldkeHRjZUNWcHVKaEhFa3dJMkplS3lKN1c1NzBlMGxrQncwRU1UMXRPNzVIVXRCeXh5MHo2SW5QRjZaUEk0eVJ6WHJ0cDFiSlFjQ29hYmF4MjA5cExHQklxcko2emxUbU5yZXBkaA?oc=5",
+  "published": "2026-11-04T11:29:22.000Z",
+  "subject": "saudi",
+  "tone": "neutral",
+  "topic": "",
+  "country": "",
+  "pending": true,
+  "desc": "Saudi fiscal deficit widens in Q3 &nbsp;&nbsp; MUFG Research",
+  "lang": "en"
+ },
+ {
   "id": "4742d0a5036f7950",
   "origin": "rss",
   "source": "WSJ",
@@ -10470,27 +10490,6 @@
   "country": "US",
   "pending": true,
   "desc": "Trump says US will stop $4 billion military aid to Israel at end of 2026 &nbsp;&nbsp; Al-Monitor",
-  "lang": "en",
-  "mt": true
- },
- {
-  "id": "a29e44ecca75b8f6",
-  "origin": "rss",
-  "source": "AP News",
-  "author": "",
-  "title_ar": "جولة أرنولد بالمر للجولف للصغار مع بطولات في جميع أنحاء البلاد ستنطلق في يناير",
-  "title_orig": "Arnold Palmer junior golf tour with tournaments across the country to launch in January",
-  "title_en": "Arnold Palmer junior golf tour with tournaments across the country to launch in January",
-  "summary_ar": [],
-  "summary_en": [],
-  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY0FmM0Qwektzd0N2dkdXQ0V4Q3IwWjlpeGc3NGd0cmdmNWY0aFdsdVUyTWpLQ1BUSFJtX3Vra2l0VUI5Q2tNV2pkamRnSk9ySlYtRUUxWWZlanU1ZnZNelh2Q04zY1lhVHVrOUlUWUt2THBYR0tZUGN1M0k4aVZ0WDczMEpjTnNWd2NibV9iTnZGdFB6VGRUanB0QTlQT3c?oc=5",
-  "published": "2026-11-03T13:33:00.000Z",
-  "subject": "saudi",
-  "tone": "neutral",
-  "topic": "",
-  "country": "US",
-  "pending": true,
-  "desc": "Arnold Palmer junior golf tour with tournaments across the country to launch in January &nbsp;&nbsp; AP News",
   "lang": "en",
   "mt": true
  }

@@ -3663,11 +3663,11 @@
    }
   },
   "2026-11-04": {
-   "total": 186,
-   "news": 185,
+   "total": 187,
+   "news": 186,
    "articles": 1,
    "positive": 0,
-   "neutral": 186,
+   "neutral": 187,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -3751,7 +3751,8 @@
     "CairoScene": 1,
     "USA Today": 1,
     "وكالة الأنباء السعودية": 1,
-    "Ednews.net": 1
+    "Ednews.net": 1,
+    "MUFG Research": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -4110,6 +4111,11 @@
      0
     ],
     "Ednews.net": [
+     0,
+     1,
+     0
+    ],
+    "MUFG Research": [
      0,
      1,
      0
