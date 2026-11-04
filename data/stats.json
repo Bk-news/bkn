@@ -3663,11 +3663,11 @@
    }
   },
   "2026-11-04": {
-   "total": 398,
-   "news": 393,
+   "total": 401,
+   "news": 396,
    "articles": 5,
    "positive": 0,
-   "neutral": 398,
+   "neutral": 401,
    "critical": 0,
    "mbs": 12,
    "countries": {
@@ -3713,7 +3713,7 @@
     "Anadolu Ajansı": 4,
     "Arab News PK": 3,
     "UA.NEWS": 1,
-    "ASHARQ AL-AWSAT English": 6,
+    "ASHARQ AL-AWSAT English": 7,
     "The Quint": 1,
     "The Indian Express": 1,
     "Morocco World News": 1,
@@ -3783,7 +3783,7 @@
     "Channels Television": 1,
     "Vanguard News": 1,
     "The Times of Israel": 1,
-    "Yahoo Sports": 1,
+    "Yahoo Sports": 2,
     "TheCable": 2,
     "Rare Earth Exchanges": 1,
     "صحيفة مال": 1,
@@ -3806,7 +3806,8 @@
     "MEED": 1,
     "SunStar Publishing Inc.": 1,
     "Al Arabiya English": 1,
-    "Daryo": 1
+    "Daryo": 1,
+    "وكالة الانباء العراقية (واع)": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -3976,7 +3977,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     6,
+     7,
      0
     ],
     "The Quint": [
@@ -4326,7 +4327,7 @@
     ],
     "Yahoo Sports": [
      0,
-     1,
+     2,
      0
     ],
     "TheCable": [
@@ -4440,6 +4441,11 @@
      0
     ],
     "Daryo": [
+     0,
+     1,
+     0
+    ],
+    "وكالة الانباء العراقية (واع)": [
      0,
      1,
      0
