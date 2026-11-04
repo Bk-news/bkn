@@ -3663,17 +3663,17 @@
    }
   },
   "2026-11-04": {
-   "total": 187,
-   "news": 186,
+   "total": 189,
+   "news": 188,
    "articles": 1,
    "positive": 0,
-   "neutral": 187,
+   "neutral": 189,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "SA": 16,
+    "SA": 17,
     "US": 38,
-    "GB": 59,
+    "GB": 60,
     "JP": 1,
     "FR": 2,
     "HK": 2
@@ -3686,7 +3686,7 @@
     "Al-Monitor": 10,
     "The Washington Post": 3,
     "Bloomberg.com": 13,
-    "Reuters": 38,
+    "Reuters": 39,
     "Nikkei Asia": 1,
     "WSJ": 6,
     "The Australian": 1,
@@ -3707,7 +3707,7 @@
     "BBC": 6,
     "Financial Times": 8,
     "AP News": 4,
-    "Saudi Gazette": 2,
+    "Saudi Gazette": 3,
     "TahawulTech.com": 1,
     "The National": 2,
     "Anadolu Ajansı": 1,
@@ -3787,7 +3787,7 @@
     ],
     "Reuters": [
      0,
-     38,
+     39,
      0
     ],
     "Nikkei Asia": [
@@ -3892,7 +3892,7 @@
     ],
     "Saudi Gazette": [
      0,
-     2,
+     3,
      0
     ],
     "TahawulTech.com": [
