@@ -2602,11 +2602,11 @@
    }
   },
   "2026-11-03": {
-   "total": 829,
-   "news": 811,
+   "total": 830,
+   "news": 812,
    "articles": 18,
    "positive": 0,
-   "neutral": 829,
+   "neutral": 830,
    "critical": 0,
    "mbs": 10,
    "countries": {
@@ -2763,7 +2763,7 @@
     "Investing.com UK": 1,
     "The New Arab": 1,
     "marketscreener.com": 1,
-    "DW.com": 1,
+    "DW.com": 2,
     "ABNA English": 1,
     "Global Arab Network": 1,
     "EU Today": 1,
@@ -3508,7 +3508,7 @@
     ],
     "DW.com": [
      0,
-     1,
+     2,
      0
     ],
     "ABNA English": [
