@@ -2602,18 +2602,18 @@
    }
   },
   "2026-11-03": {
-   "total": 894,
-   "news": 876,
+   "total": 896,
+   "news": 878,
    "articles": 18,
    "positive": 0,
-   "neutral": 894,
+   "neutral": 896,
    "critical": 0,
    "mbs": 10,
    "countries": {
-    "US": 287,
+    "US": 288,
     "GB": 257,
     "HK": 6,
-    "FR": 8,
+    "FR": 9,
     "SA": 91,
     "JP": 4,
     "DE": 3
@@ -2626,7 +2626,7 @@
     "Financial Times": 49,
     "Al-Monitor": 43,
     "Reuters": 155,
-    "Bloomberg.com": 64,
+    "Bloomberg.com": 65,
     "חרדים10": 1,
     "BBC": 22,
     "The Guardian": 33,
@@ -2649,7 +2649,7 @@
     "The National": 3,
     "조선일보": 1,
     "Chosunbiz": 1,
-    "Le Monde.fr": 2,
+    "Le Monde.fr": 3,
     "Access Partnership": 1,
     "The New York Times": 11,
     "Arab News": 85,
@@ -2827,7 +2827,7 @@
     ],
     "Bloomberg.com": [
      0,
-     64,
+     65,
      0
     ],
     "חרדים10": [
@@ -2942,7 +2942,7 @@
     ],
     "Le Monde.fr": [
      0,
-     2,
+     3,
      0
     ],
     "Access Partnership": [
@@ -3663,32 +3663,33 @@
    }
   },
   "2026-11-04": {
-   "total": 408,
-   "news": 403,
-   "articles": 5,
+   "total": 446,
+   "news": 438,
+   "articles": 8,
    "positive": 0,
-   "neutral": 408,
+   "neutral": 446,
    "critical": 0,
-   "mbs": 13,
+   "mbs": 15,
    "countries": {
-    "SA": 39,
-    "US": 84,
-    "GB": 130,
+    "SA": 42,
+    "US": 100,
+    "GB": 140,
     "JP": 1,
-    "FR": 3,
-    "HK": 2
+    "FR": 5,
+    "HK": 2,
+    "DE": 1
    },
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Arab News": 43,
+    "Arab News": 45,
     "Heavy.com": 1,
-    "Al-Monitor": 26,
+    "Al-Monitor": 29,
     "The Washington Post": 5,
-    "Bloomberg.com": 21,
-    "Reuters": 83,
+    "Bloomberg.com": 23,
+    "Reuters": 85,
     "Nikkei Asia": 1,
-    "WSJ": 11,
+    "WSJ": 13,
     "The Australian": 1,
     "Middle East Eye": 1,
     "Asia News Network": 1,
@@ -3698,16 +3699,16 @@
     "The Daily Star": 1,
     "ABC News - Breaking News, Latest News and Videos": 1,
     "LiveScore": 1,
-    "France 24": 1,
-    "The Guardian": 21,
+    "France 24": 3,
+    "The Guardian": 22,
     "Foreign Affairs": 1,
-    "The New York Times": 5,
+    "The New York Times": 8,
     "South China Morning Post": 2,
     "A News": 1,
-    "BBC": 11,
-    "Financial Times": 14,
-    "AP News": 13,
-    "Saudi Gazette": 7,
+    "BBC": 14,
+    "Financial Times": 17,
+    "AP News": 16,
+    "Saudi Gazette": 8,
     "TahawulTech.com": 1,
     "The National": 3,
     "Anadolu Ajansı": 4,
@@ -3756,9 +3757,9 @@
     "Daily Times": 1,
     "Instagram": 1,
     "سانا": 3,
-    "Foreign Policy": 1,
-    "Atlantic Council": 2,
-    "The Economist": 1,
+    "Foreign Policy": 2,
+    "Atlantic Council": 3,
+    "The Economist": 2,
     "Charlotte Observer": 1,
     "MTV Lebanon": 1,
     "The Jerusalem Post": 1,
@@ -3808,7 +3809,14 @@
     "Al Arabiya English": 1,
     "Daryo": 1,
     "وكالة الانباء العراقية (واع)": 1,
-    "LinkedIn": 1
+    "LinkedIn": 1,
+    "Gulf Daily News (Bahrain)": 1,
+    "Deseret News": 1,
+    "CNN": 1,
+    "Spiegel": 1,
+    "Fana News -": 1,
+    "Fightful": 2,
+    "Al-Bawaba": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -3818,7 +3826,7 @@
     ],
     "Arab News": [
      0,
-     43,
+     45,
      0
     ],
     "Heavy.com": [
@@ -3828,7 +3836,7 @@
     ],
     "Al-Monitor": [
      0,
-     26,
+     29,
      0
     ],
     "The Washington Post": [
@@ -3838,12 +3846,12 @@
     ],
     "Bloomberg.com": [
      0,
-     21,
+     23,
      0
     ],
     "Reuters": [
      0,
-     83,
+     85,
      0
     ],
     "Nikkei Asia": [
@@ -3853,7 +3861,7 @@
     ],
     "WSJ": [
      0,
-     11,
+     13,
      0
     ],
     "The Australian": [
@@ -3903,12 +3911,12 @@
     ],
     "France 24": [
      0,
-     1,
+     3,
      0
     ],
     "The Guardian": [
      0,
-     21,
+     22,
      0
     ],
     "Foreign Affairs": [
@@ -3918,7 +3926,7 @@
     ],
     "The New York Times": [
      0,
-     5,
+     8,
      0
     ],
     "South China Morning Post": [
@@ -3933,22 +3941,22 @@
     ],
     "BBC": [
      0,
-     11,
+     14,
      0
     ],
     "Financial Times": [
      0,
-     14,
+     17,
      0
     ],
     "AP News": [
      0,
-     13,
+     16,
      0
     ],
     "Saudi Gazette": [
      0,
-     7,
+     8,
      0
     ],
     "TahawulTech.com": [
@@ -4193,17 +4201,17 @@
     ],
     "Foreign Policy": [
      0,
-     1,
+     2,
      0
     ],
     "Atlantic Council": [
      0,
-     2,
+     3,
      0
     ],
     "The Economist": [
      0,
-     1,
+     2,
      0
     ],
     "Charlotte Observer": [
@@ -4452,6 +4460,41 @@
      0
     ],
     "LinkedIn": [
+     0,
+     1,
+     0
+    ],
+    "Gulf Daily News (Bahrain)": [
+     0,
+     1,
+     0
+    ],
+    "Deseret News": [
+     0,
+     1,
+     0
+    ],
+    "CNN": [
+     0,
+     1,
+     0
+    ],
+    "Spiegel": [
+     0,
+     1,
+     0
+    ],
+    "Fana News -": [
+     0,
+     1,
+     0
+    ],
+    "Fightful": [
+     0,
+     2,
+     0
+    ],
+    "Al-Bawaba": [
      0,
      1,
      0
