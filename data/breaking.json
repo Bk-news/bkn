@@ -1,5 +1,17 @@
 [
  {
+  "id": "5ccbdab9cebc88d2",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "ترمب لنيويورك تايمز: مستعد لقبول نتائج الانتخابات",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152336",
+  "published": "2026-11-04T03:55:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-04T03:55:01.000Z"
+ },
+ {
   "id": "3e7529b81bbe1e2d",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -238,17 +250,5 @@
   "published": "2026-11-04T02:56:02.000Z",
   "subject": "saudi",
   "added": "2026-11-04T02:56:02.000Z"
- },
- {
-  "id": "0497984becc23392",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "مسؤول في البيت الأبيض لفوكس نيوز: كفاءة المرشحين تلعب دورا مهما في النتائج",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152315",
-  "published": "2026-11-04T02:55:01.000Z",
-  "subject": "saudi",
-  "added": "2026-11-04T02:55:01.000Z"
  }
 ]
