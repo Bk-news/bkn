@@ -2,6 +2,26 @@
  "day": "2026-11-04",
  "items": [
   {
+   "id": "71f3abdbf380ccee",
+   "origin": "rss",
+   "source": "Al-Monitor",
+   "author": "",
+   "title_ar": "Israel president urges compromise after divisive election",
+   "title_orig": "Israel president urges compromise after divisive election",
+   "title_en": "Israel president urges compromise after divisive election",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMU9iU0Y3UGVvdHNzSGVkeHA2NndraVBRb1EzWDIyN3p1Z3BpU2F4dERUZWU5bVh5MGZjbzlSNTFYbUx0akpFbXMtQUxBcjZteXFfYWZ2LUU1bzFwVzZmY2kzSDd1LWZfZFV4Ukp3bWJ0Z25iZjZBZVVSUGFjU1UtLWJCeEVvNnhtanlfbFZISHg4NjJmeC0yLUptdzBQVXdibmczUg?oc=5",
+   "published": "2026-11-04T11:30:32.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "Israel president urges compromise after divisive election &nbsp;&nbsp; Al-Monitor",
+   "lang": "en"
+  },
+  {
    "id": "c6eed05a3b127ca6",
    "origin": "rss",
    "source": "MUFG Research",
@@ -3117,6 +3137,26 @@
    "country": "",
    "pending": true,
    "desc": "Fan Favorite ‘The Iron Turtle’ Returns at UFC Saudi Arabia &nbsp;&nbsp; Heavy.com",
+   "lang": "en"
+  },
+  {
+   "id": "b204658227d54d19",
+   "origin": "rss",
+   "source": "The National",
+   "author": "",
+   "title_ar": "Iran war latest: Khamenei warns against expecting change in US policy after elections",
+   "title_orig": "Iran war latest: Khamenei warns against expecting change in US policy after elections",
+   "title_en": "Iran war latest: Khamenei warns against expecting change in US policy after elections",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZUJpWFN1Mk9MR1J5dGYzd0xld25oanpjSXJvcS1jQWhVY2tBUi1iY2Q5Z3RUZW9Ia0hkcURmMHhoM3VvU1ZrMnRzcHM3S093cVNGQzdvR3NoRERIMmkxUWpuYnJaODBHU1pfTFNjNGk2WTdVNFRrVU5jUFJza19TUS1Mb3JWQTk0M0E?oc=5",
+   "published": "2026-11-04T02:31:08.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "",
+   "pending": true,
+   "desc": "Iran war latest: Khamenei warns against expecting change in US policy after elections &nbsp;&nbsp; The National",
    "lang": "en"
   },
   {
