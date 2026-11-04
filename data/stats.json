@@ -1469,15 +1469,15 @@
    }
   },
   "2026-11-02": {
-   "total": 944,
-   "news": 938,
+   "total": 945,
+   "news": 939,
    "articles": 6,
    "positive": 0,
-   "neutral": 944,
+   "neutral": 945,
    "critical": 0,
    "mbs": 20,
    "countries": {
-    "GB": 279,
+    "GB": 280,
     "US": 295,
     "SA": 85,
     "HK": 6,
@@ -1488,7 +1488,7 @@
    "topics": {},
    "sources": {
     "Cageside Seats": 1,
-    "The Guardian": 51,
+    "The Guardian": 52,
     "Financial Times": 79,
     "Al-Monitor": 33,
     "AP News": 129,
@@ -1681,7 +1681,7 @@
     ],
     "The Guardian": [
      0,
-     51,
+     52,
      0
     ],
     "Financial Times": [
@@ -3663,16 +3663,16 @@
    }
   },
   "2026-11-04": {
-   "total": 184,
-   "news": 183,
+   "total": 185,
+   "news": 184,
    "articles": 1,
    "positive": 0,
-   "neutral": 184,
+   "neutral": 185,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 16,
-    "US": 36,
+    "US": 37,
     "GB": 59,
     "JP": 1,
     "FR": 2,
@@ -3688,7 +3688,7 @@
     "Bloomberg.com": 13,
     "Reuters": 38,
     "Nikkei Asia": 1,
-    "WSJ": 4,
+    "WSJ": 5,
     "The Australian": 1,
     "Middle East Eye": 1,
     "Asia News Network": 1,
@@ -3796,7 +3796,7 @@
     ],
     "WSJ": [
      0,
-     4,
+     5,
      0
     ],
     "The Australian": [
