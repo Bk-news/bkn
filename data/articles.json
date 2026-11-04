@@ -4,7 +4,7 @@
   "origin": "rss",
   "source": "Foreign Affairs",
   "author": "",
-  "title_ar": "The Dangers of a Lame-Duck Trump",
+  "title_ar": "مخاطر ترامب البطة العرجاء",
   "title_orig": "The Dangers of a Lame-Duck Trump",
   "title_en": "The Dangers of a Lame-Duck Trump",
   "summary_ar": [],
@@ -17,7 +17,8 @@
   "country": "US",
   "pending": true,
   "desc": "The Dangers of a Lame-Duck Trump &nbsp;&nbsp; Foreign Affairs",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "5db29d4a990be481",
@@ -108,7 +109,7 @@
   "origin": "rss",
   "source": "Atlantic Council",
   "author": "",
-  "title_ar": "New Palestinian leaders will need more than an electoral mandate to govern",
+  "title_ar": "سيحتاج القادة الفلسطينيون الجدد إلى أكثر من مجرد تفويض انتخابي ليحكموا",
   "title_orig": "New Palestinian leaders will need more than an electoral mandate to govern",
   "title_en": "New Palestinian leaders will need more than an electoral mandate to govern",
   "summary_ar": [],
@@ -121,7 +122,8 @@
   "country": "US",
   "pending": true,
   "desc": "New Palestinian leaders will need more than an electoral mandate to govern &nbsp;&nbsp; Atlantic Council",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "adaecfc0b42e4623",
