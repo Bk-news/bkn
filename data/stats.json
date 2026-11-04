@@ -1469,16 +1469,16 @@
    }
   },
   "2026-11-02": {
-   "total": 948,
-   "news": 942,
+   "total": 950,
+   "news": 944,
    "articles": 6,
    "positive": 0,
-   "neutral": 948,
+   "neutral": 950,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "GB": 282,
-    "US": 296,
+    "US": 298,
     "SA": 85,
     "HK": 6,
     "FR": 18,
@@ -1497,7 +1497,7 @@
     "Arab News": 82,
     "The Washington Post": 4,
     "وكالة الأنباء السعودية": 2,
-    "WSJ": 40,
+    "WSJ": 41,
     "TNGlobal": 1,
     "Facebook": 2,
     "Breakingthenews.net": 3,
@@ -1526,7 +1526,7 @@
     "Arabisk London": 1,
     "New Age BD": 1,
     "Agenda Pública": 1,
-    "The New York Times": 14,
+    "The New York Times": 15,
     "Ship & Bunker": 1,
     "ChemNet News": 1,
     "Saudi Gazette": 17,
@@ -1726,7 +1726,7 @@
     ],
     "WSJ": [
      0,
-     40,
+     41,
      0
     ],
     "TNGlobal": [
@@ -1871,7 +1871,7 @@
     ],
     "The New York Times": [
      0,
-     14,
+     15,
      0
     ],
     "Ship & Bunker": [
@@ -2602,16 +2602,16 @@
    }
   },
   "2026-11-03": {
-   "total": 871,
-   "news": 853,
+   "total": 887,
+   "news": 869,
    "articles": 18,
    "positive": 0,
-   "neutral": 871,
+   "neutral": 887,
    "critical": 0,
    "mbs": 10,
    "countries": {
     "US": 286,
-    "GB": 235,
+    "GB": 251,
     "HK": 6,
     "FR": 8,
     "SA": 91,
@@ -2623,9 +2623,9 @@
     "Asia News Network": 1,
     "The Washington Post": 10,
     "WSJ": 45,
-    "Financial Times": 48,
+    "Financial Times": 49,
     "Al-Monitor": 43,
-    "Reuters": 134,
+    "Reuters": 149,
     "Bloomberg.com": 63,
     "חרדים10": 1,
     "BBC": 22,
@@ -2812,7 +2812,7 @@
     ],
     "Financial Times": [
      0,
-     48,
+     49,
      0
     ],
     "Al-Monitor": [
@@ -2822,7 +2822,7 @@
     ],
     "Reuters": [
      0,
-     134,
+     149,
      0
     ],
     "Bloomberg.com": [
@@ -3663,11 +3663,11 @@
    }
   },
   "2026-11-04": {
-   "total": 344,
-   "news": 340,
+   "total": 362,
+   "news": 358,
    "articles": 4,
    "positive": 0,
-   "neutral": 344,
+   "neutral": 362,
    "critical": 0,
    "mbs": 11,
    "countries": {
@@ -3681,7 +3681,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Arab News": 35,
+    "Arab News": 40,
     "Heavy.com": 1,
     "Al-Monitor": 22,
     "The Washington Post": 5,
@@ -3710,7 +3710,7 @@
     "Saudi Gazette": 7,
     "TahawulTech.com": 1,
     "The National": 3,
-    "Anadolu Ajansı": 3,
+    "Anadolu Ajansı": 4,
     "Arab News PK": 3,
     "UA.NEWS": 1,
     "ASHARQ AL-AWSAT English": 6,
@@ -3789,8 +3789,19 @@
     "صحيفة مال": 1,
     "Latest news from Azerbaijan": 1,
     "Computer Weekly": 1,
-    "Condé Nast Traveller Middle East": 1,
-    "Mehr News Agency": 1
+    "Condé Nast Traveller Middle East": 2,
+    "Mehr News Agency": 1,
+    "Goal.com": 1,
+    "https://houseofsaud.com/": 1,
+    "European External Action Service (EEAS)": 1,
+    "Investment Monitor": 1,
+    "The New Arab": 1,
+    "Martin Cid Magazine": 1,
+    "Travel Market Report": 1,
+    "Investing.com": 1,
+    "Investing.com UK": 1,
+    "ANTARA News": 1,
+    "The Paypers": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -3800,7 +3811,7 @@
     ],
     "Arab News": [
      0,
-     35,
+     40,
      0
     ],
     "Heavy.com": [
@@ -3945,7 +3956,7 @@
     ],
     "Anadolu Ajansı": [
      0,
-     3,
+     4,
      0
     ],
     "Arab News PK": [
@@ -4340,10 +4351,65 @@
     ],
     "Condé Nast Traveller Middle East": [
      0,
-     1,
+     2,
      0
     ],
     "Mehr News Agency": [
+     0,
+     1,
+     0
+    ],
+    "Goal.com": [
+     0,
+     1,
+     0
+    ],
+    "https://houseofsaud.com/": [
+     0,
+     1,
+     0
+    ],
+    "European External Action Service (EEAS)": [
+     0,
+     1,
+     0
+    ],
+    "Investment Monitor": [
+     0,
+     1,
+     0
+    ],
+    "The New Arab": [
+     0,
+     1,
+     0
+    ],
+    "Martin Cid Magazine": [
+     0,
+     1,
+     0
+    ],
+    "Travel Market Report": [
+     0,
+     1,
+     0
+    ],
+    "Investing.com": [
+     0,
+     1,
+     0
+    ],
+    "Investing.com UK": [
+     0,
+     1,
+     0
+    ],
+    "ANTARA News": [
+     0,
+     1,
+     0
+    ],
+    "The Paypers": [
      0,
      1,
      0
