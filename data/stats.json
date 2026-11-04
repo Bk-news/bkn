@@ -3663,16 +3663,16 @@
    }
   },
   "2026-11-04": {
-   "total": 517,
-   "news": 508,
+   "total": 519,
+   "news": 510,
    "articles": 9,
    "positive": 0,
-   "neutral": 517,
+   "neutral": 519,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "SA": 49,
-    "US": 112,
+    "US": 113,
     "GB": 170,
     "JP": 1,
     "FR": 5,
@@ -3689,7 +3689,7 @@
     "Bloomberg.com": 23,
     "Reuters": 108,
     "Nikkei Asia": 1,
-    "WSJ": 16,
+    "WSJ": 17,
     "The Australian": 1,
     "Middle East Eye": 1,
     "Asia News Network": 1,
@@ -3751,7 +3751,7 @@
     "Le Monde.fr": 2,
     "CairoScene": 2,
     "USA Today": 1,
-    "وكالة الأنباء السعودية": 4,
+    "وكالة الأنباء السعودية": 5,
     "Ednews.net": 1,
     "MUFG Research": 1,
     "Daily Times": 1,
@@ -3866,7 +3866,7 @@
     ],
     "WSJ": [
      0,
-     16,
+     17,
      0
     ],
     "The Australian": [
@@ -4176,7 +4176,7 @@
     ],
     "وكالة الأنباء السعودية": [
      0,
-     4,
+     5,
      0
     ],
     "Ednews.net": [
