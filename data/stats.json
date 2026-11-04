@@ -2602,18 +2602,18 @@
    }
   },
   "2026-11-03": {
-   "total": 864,
-   "news": 846,
+   "total": 868,
+   "news": 850,
    "articles": 18,
    "positive": 0,
-   "neutral": 864,
+   "neutral": 868,
    "critical": 0,
    "mbs": 10,
    "countries": {
-    "US": 284,
-    "GB": 231,
+    "US": 286,
+    "GB": 232,
     "HK": 6,
-    "FR": 7,
+    "FR": 8,
     "SA": 91,
     "JP": 4,
     "DE": 3
@@ -2624,12 +2624,12 @@
     "The Washington Post": 10,
     "WSJ": 45,
     "Financial Times": 48,
-    "Al-Monitor": 41,
+    "Al-Monitor": 43,
     "Reuters": 131,
     "Bloomberg.com": 63,
     "חרדים10": 1,
     "BBC": 22,
-    "The Guardian": 32,
+    "The Guardian": 33,
     "South China Morning Post": 6,
     "Hindustan Times": 3,
     "Jordan Times": 1,
@@ -2649,7 +2649,7 @@
     "The National": 3,
     "조선일보": 1,
     "Chosunbiz": 1,
-    "Le Monde.fr": 1,
+    "Le Monde.fr": 2,
     "Access Partnership": 1,
     "The New York Times": 11,
     "Arab News": 85,
@@ -2817,7 +2817,7 @@
     ],
     "Al-Monitor": [
      0,
-     41,
+     43,
      0
     ],
     "Reuters": [
@@ -2842,7 +2842,7 @@
     ],
     "The Guardian": [
      0,
-     32,
+     33,
      0
     ],
     "South China Morning Post": [
@@ -2942,7 +2942,7 @@
     ],
     "Le Monde.fr": [
      0,
-     1,
+     2,
      0
     ],
     "Access Partnership": [
@@ -3663,17 +3663,17 @@
    }
   },
   "2026-11-04": {
-   "total": 271,
-   "news": 267,
+   "total": 307,
+   "news": 303,
    "articles": 4,
    "positive": 0,
-   "neutral": 271,
+   "neutral": 307,
    "critical": 0,
-   "mbs": 7,
+   "mbs": 9,
    "countries": {
-    "SA": 27,
-    "US": 68,
-    "GB": 84,
+    "SA": 35,
+    "US": 73,
+    "GB": 94,
     "JP": 1,
     "FR": 3,
     "HK": 2
@@ -3681,12 +3681,12 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Arab News": 24,
+    "Arab News": 32,
     "Heavy.com": 1,
-    "Al-Monitor": 18,
+    "Al-Monitor": 22,
     "The Washington Post": 5,
-    "Bloomberg.com": 19,
-    "Reuters": 45,
+    "Bloomberg.com": 20,
+    "Reuters": 54,
     "Nikkei Asia": 1,
     "WSJ": 11,
     "The Australian": 1,
@@ -3699,7 +3699,7 @@
     "ABC News - Breaking News, Latest News and Videos": 1,
     "LiveScore": 1,
     "France 24": 1,
-    "The Guardian": 14,
+    "The Guardian": 15,
     "Foreign Affairs": 1,
     "The New York Times": 5,
     "South China Morning Post": 2,
@@ -3710,7 +3710,7 @@
     "Saudi Gazette": 7,
     "TahawulTech.com": 1,
     "The National": 3,
-    "Anadolu Ajansı": 2,
+    "Anadolu Ajansı": 3,
     "Arab News PK": 2,
     "UA.NEWS": 1,
     "ASHARQ AL-AWSAT English": 5,
@@ -3748,9 +3748,9 @@
     "Forbes Middle East": 1,
     "Fast Company Middle East": 1,
     "Le Monde.fr": 2,
-    "CairoScene": 1,
+    "CairoScene": 2,
     "USA Today": 1,
-    "وكالة الأنباء السعودية": 1,
+    "وكالة الأنباء السعودية": 2,
     "Ednews.net": 1,
     "MUFG Research": 1,
     "Daily Times": 1,
@@ -3768,7 +3768,16 @@
     "TradingView": 1,
     "Business Wire": 1,
     "lovin.co": 1,
-    "Stock Titan": 1
+    "Stock Titan": 1,
+    "The Straits Times": 1,
+    "EIN News": 2,
+    "Apa.az": 1,
+    "TRT World": 1,
+    "Real Broadcasting Network": 1,
+    "tovima.com": 1,
+    "Daily Monitor": 1,
+    "Diari ARA": 1,
+    "TheSportster": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -3778,7 +3787,7 @@
     ],
     "Arab News": [
      0,
-     24,
+     32,
      0
     ],
     "Heavy.com": [
@@ -3788,7 +3797,7 @@
     ],
     "Al-Monitor": [
      0,
-     18,
+     22,
      0
     ],
     "The Washington Post": [
@@ -3798,12 +3807,12 @@
     ],
     "Bloomberg.com": [
      0,
-     19,
+     20,
      0
     ],
     "Reuters": [
      0,
-     45,
+     54,
      0
     ],
     "Nikkei Asia": [
@@ -3868,7 +3877,7 @@
     ],
     "The Guardian": [
      0,
-     14,
+     15,
      0
     ],
     "Foreign Affairs": [
@@ -3923,7 +3932,7 @@
     ],
     "Anadolu Ajansı": [
      0,
-     2,
+     3,
      0
     ],
     "Arab News PK": [
@@ -4113,7 +4122,7 @@
     ],
     "CairoScene": [
      0,
-     1,
+     2,
      0
     ],
     "USA Today": [
@@ -4123,7 +4132,7 @@
     ],
     "وكالة الأنباء السعودية": [
      0,
-     1,
+     2,
      0
     ],
     "Ednews.net": [
@@ -4212,6 +4221,51 @@
      0
     ],
     "Stock Titan": [
+     0,
+     1,
+     0
+    ],
+    "The Straits Times": [
+     0,
+     1,
+     0
+    ],
+    "EIN News": [
+     0,
+     2,
+     0
+    ],
+    "Apa.az": [
+     0,
+     1,
+     0
+    ],
+    "TRT World": [
+     0,
+     1,
+     0
+    ],
+    "Real Broadcasting Network": [
+     0,
+     1,
+     0
+    ],
+    "tovima.com": [
+     0,
+     1,
+     0
+    ],
+    "Daily Monitor": [
+     0,
+     1,
+     0
+    ],
+    "Diari ARA": [
+     0,
+     1,
+     0
+    ],
+    "TheSportster": [
      0,
      1,
      0
