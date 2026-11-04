@@ -1469,16 +1469,16 @@
    }
   },
   "2026-11-02": {
-   "total": 887,
-   "news": 881,
+   "total": 895,
+   "news": 889,
    "articles": 6,
    "positive": 0,
-   "neutral": 887,
+   "neutral": 895,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "GB": 246,
-    "US": 276,
+    "US": 284,
     "SA": 84,
     "HK": 4,
     "FR": 17,
@@ -1491,7 +1491,7 @@
     "The Guardian": 44,
     "Financial Times": 73,
     "Al-Monitor": 33,
-    "AP News": 119,
+    "AP News": 126,
     "Bloomberg": 19,
     "Mehr News Agency": 5,
     "Arab News": 81,
@@ -1611,7 +1611,7 @@
     "Instagram": 1,
     "The Jerusalem Post": 2,
     "JFeed": 1,
-    "Bloomberg.com": 51,
+    "Bloomberg.com": 52,
     "Spiegel": 1,
     "Atlantic Council": 2,
     "Daily Times": 1,
@@ -1696,7 +1696,7 @@
     ],
     "AP News": [
      0,
-     119,
+     126,
      0
     ],
     "Bloomberg": [
@@ -2296,7 +2296,7 @@
     ],
     "Bloomberg.com": [
      0,
-     51,
+     52,
      0
     ],
     "Spiegel": [
@@ -2602,19 +2602,19 @@
    }
   },
   "2026-11-03": {
-   "total": 801,
-   "news": 783,
+   "total": 815,
+   "news": 797,
    "articles": 18,
    "positive": 0,
-   "neutral": 801,
+   "neutral": 815,
    "critical": 0,
    "mbs": 10,
    "countries": {
-    "US": 273,
-    "GB": 202,
+    "US": 277,
+    "GB": 208,
     "HK": 6,
     "FR": 7,
-    "SA": 82,
+    "SA": 83,
     "JP": 4,
     "DE": 3
    },
@@ -2623,13 +2623,13 @@
     "Asia News Network": 1,
     "The Washington Post": 9,
     "WSJ": 43,
-    "Financial Times": 41,
+    "Financial Times": 42,
     "Al-Monitor": 41,
-    "Reuters": 114,
-    "Bloomberg.com": 57,
+    "Reuters": 118,
+    "Bloomberg.com": 60,
     "חרדים10": 1,
     "BBC": 20,
-    "The Guardian": 29,
+    "The Guardian": 30,
     "South China Morning Post": 6,
     "Hindustan Times": 3,
     "Jordan Times": 1,
@@ -2643,7 +2643,7 @@
     "FIFA": 1,
     "Facebook": 1,
     "Gulf News": 4,
-    "https://houseofsaud.com/": 1,
+    "https://houseofsaud.com/": 2,
     "France 24": 7,
     "Xinhua": 1,
     "The National": 3,
@@ -2651,8 +2651,8 @@
     "Chosunbiz": 1,
     "Le Monde.fr": 1,
     "Access Partnership": 1,
-    "The New York Times": 10,
-    "Arab News": 78,
+    "The New York Times": 11,
+    "Arab News": 79,
     "Foreign Affairs": 3,
     "Nikkei Asia": 4,
     "Spiegel": 3,
@@ -2772,7 +2772,7 @@
     "www.olympics.com": 1,
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
     "RANE Worldview": 1,
-    "Times Higher Education": 1,
+    "Times Higher Education": 2,
     "La Revue des Hôtels": 1,
     "Wrestling Inc.": 1,
     "beIN SPORTS": 1,
@@ -2785,7 +2785,8 @@
     "Newsmax": 1,
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1,
     "The Times of India": 1,
-    "Addis Standard": 1
+    "Addis Standard": 1,
+    "Newsquawk": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -2805,7 +2806,7 @@
     ],
     "Financial Times": [
      0,
-     41,
+     42,
      0
     ],
     "Al-Monitor": [
@@ -2815,12 +2816,12 @@
     ],
     "Reuters": [
      0,
-     114,
+     118,
      0
     ],
     "Bloomberg.com": [
      0,
-     57,
+     60,
      0
     ],
     "חרדים10": [
@@ -2835,7 +2836,7 @@
     ],
     "The Guardian": [
      0,
-     29,
+     30,
      0
     ],
     "South China Morning Post": [
@@ -2905,7 +2906,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     1,
+     2,
      0
     ],
     "France 24": [
@@ -2945,12 +2946,12 @@
     ],
     "The New York Times": [
      0,
-     10,
+     11,
      0
     ],
     "Arab News": [
      0,
-     78,
+     79,
      0
     ],
     "Foreign Affairs": [
@@ -3550,7 +3551,7 @@
     ],
     "Times Higher Education": [
      0,
-     1,
+     2,
      0
     ],
     "La Revue des Hôtels": [
@@ -3617,24 +3618,94 @@
      0,
      1,
      0
+    ],
+    "Newsquawk": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-04": {
-   "total": 1,
-   "news": 1,
+   "total": 19,
+   "news": 19,
    "articles": 0,
    "positive": 0,
-   "neutral": 1,
+   "neutral": 19,
    "critical": 0,
    "mbs": 0,
-   "countries": {},
+   "countries": {
+    "SA": 2,
+    "US": 9,
+    "GB": 3,
+    "JP": 1
+   },
    "topics": {},
    "sources": {
-    "Arabian Gulf Business Insight | AGBI": 1
+    "Arabian Gulf Business Insight | AGBI": 1,
+    "Arab News": 2,
+    "Heavy.com": 1,
+    "Al-Monitor": 6,
+    "The Washington Post": 1,
+    "Bloomberg.com": 1,
+    "Reuters": 3,
+    "Nikkei Asia": 1,
+    "WSJ": 1,
+    "The Australian": 1,
+    "Middle East Eye": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
+     0,
+     1,
+     0
+    ],
+    "Arab News": [
+     0,
+     2,
+     0
+    ],
+    "Heavy.com": [
+     0,
+     1,
+     0
+    ],
+    "Al-Monitor": [
+     0,
+     6,
+     0
+    ],
+    "The Washington Post": [
+     0,
+     1,
+     0
+    ],
+    "Bloomberg.com": [
+     0,
+     1,
+     0
+    ],
+    "Reuters": [
+     0,
+     3,
+     0
+    ],
+    "Nikkei Asia": [
+     0,
+     1,
+     0
+    ],
+    "WSJ": [
+     0,
+     1,
+     0
+    ],
+    "The Australian": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Eye": [
      0,
      1,
      0
