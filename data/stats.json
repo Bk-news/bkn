@@ -1469,19 +1469,19 @@
    }
   },
   "2026-11-02": {
-   "total": 956,
-   "news": 950,
-   "articles": 6,
+   "total": 960,
+   "news": 953,
+   "articles": 7,
    "positive": 0,
-   "neutral": 956,
+   "neutral": 960,
    "critical": 0,
    "mbs": 20,
    "countries": {
-    "GB": 286,
-    "US": 299,
+    "GB": 287,
+    "US": 300,
     "SA": 85,
     "HK": 6,
-    "FR": 18,
+    "FR": 20,
     "JP": 2,
     "DE": 2
    },
@@ -1532,12 +1532,12 @@
     "Saudi Gazette": 17,
     "South China Morning Post": 6,
     "Reuters": 145,
-    "France 24": 6,
+    "France 24": 7,
     "CNN": 2,
     "New Telegraph": 2,
     "Nikkei Asia": 2,
-    "BBC": 7,
-    "Le Monde.fr": 12,
+    "BBC": 8,
+    "Le Monde.fr": 13,
     "The Economist": 3,
     "The Media Line": 1,
     "Nigerian Bulletin": 3,
@@ -1613,7 +1613,7 @@
     "JFeed": 1,
     "Bloomberg.com": 55,
     "Spiegel": 2,
-    "Atlantic Council": 2,
+    "Atlantic Council": 3,
     "Daily Times": 1,
     "News of Bahrain": 7,
     "Channels Television": 1,
@@ -1901,7 +1901,7 @@
     ],
     "France 24": [
      0,
-     6,
+     7,
      0
     ],
     "CNN": [
@@ -1921,12 +1921,12 @@
     ],
     "BBC": [
      0,
-     7,
+     8,
      0
     ],
     "Le Monde.fr": [
      0,
-     12,
+     13,
      0
     ],
     "The Economist": [
@@ -2306,7 +2306,7 @@
     ],
     "Atlantic Council": [
      0,
-     2,
+     3,
      0
     ],
     "Daily Times": [
@@ -3663,11 +3663,11 @@
    }
   },
   "2026-11-04": {
-   "total": 377,
-   "news": 373,
+   "total": 378,
+   "news": 374,
    "articles": 4,
    "positive": 0,
-   "neutral": 377,
+   "neutral": 378,
    "critical": 0,
    "mbs": 11,
    "countries": {
@@ -3755,7 +3755,7 @@
     "MUFG Research": 1,
     "Daily Times": 1,
     "Instagram": 1,
-    "سانا": 2,
+    "سانا": 3,
     "Foreign Policy": 1,
     "Atlantic Council": 1,
     "The Economist": 1,
@@ -4182,7 +4182,7 @@
     ],
     "سانا": [
      0,
-     2,
+     3,
      0
     ],
     "Foreign Policy": [
