@@ -3663,16 +3663,16 @@
    }
   },
   "2026-11-04": {
-   "total": 515,
-   "news": 507,
-   "articles": 8,
+   "total": 517,
+   "news": 508,
+   "articles": 9,
    "positive": 0,
-   "neutral": 515,
+   "neutral": 517,
    "critical": 0,
    "mbs": 19,
    "countries": {
-    "SA": 48,
-    "US": 111,
+    "SA": 49,
+    "US": 112,
     "GB": 170,
     "JP": 1,
     "FR": 5,
@@ -3682,7 +3682,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Arab News": 54,
+    "Arab News": 55,
     "Heavy.com": 1,
     "Al-Monitor": 35,
     "The Washington Post": 5,
@@ -3758,7 +3758,7 @@
     "Instagram": 1,
     "سانا": 4,
     "Foreign Policy": 2,
-    "Atlantic Council": 3,
+    "Atlantic Council": 4,
     "The Economist": 2,
     "Charlotte Observer": 1,
     "MTV Lebanon": 1,
@@ -3831,7 +3831,7 @@
     ],
     "Arab News": [
      0,
-     54,
+     55,
      0
     ],
     "Heavy.com": [
@@ -4211,7 +4211,7 @@
     ],
     "Atlantic Council": [
      0,
-     3,
+     4,
      0
     ],
     "The Economist": [
