@@ -1469,16 +1469,16 @@
    }
   },
   "2026-11-02": {
-   "total": 937,
-   "news": 931,
+   "total": 939,
+   "news": 933,
    "articles": 6,
    "positive": 0,
-   "neutral": 937,
+   "neutral": 939,
    "critical": 0,
    "mbs": 20,
    "countries": {
-    "GB": 273,
-    "US": 294,
+    "GB": 274,
+    "US": 295,
     "SA": 85,
     "HK": 6,
     "FR": 18,
@@ -1497,7 +1497,7 @@
     "Arab News": 82,
     "The Washington Post": 4,
     "وكالة الأنباء السعودية": 2,
-    "WSJ": 39,
+    "WSJ": 40,
     "TNGlobal": 1,
     "Facebook": 2,
     "Breakingthenews.net": 3,
@@ -1531,7 +1531,7 @@
     "ChemNet News": 1,
     "Saudi Gazette": 17,
     "South China Morning Post": 6,
-    "Reuters": 139,
+    "Reuters": 140,
     "France 24": 6,
     "CNN": 1,
     "New Telegraph": 2,
@@ -1726,7 +1726,7 @@
     ],
     "WSJ": [
      0,
-     39,
+     40,
      0
     ],
     "TNGlobal": [
@@ -1896,7 +1896,7 @@
     ],
     "Reuters": [
      0,
-     139,
+     140,
      0
     ],
     "France 24": [
@@ -2602,15 +2602,15 @@
    }
   },
   "2026-11-03": {
-   "total": 861,
-   "news": 843,
+   "total": 862,
+   "news": 844,
    "articles": 18,
    "positive": 0,
-   "neutral": 861,
+   "neutral": 862,
    "critical": 0,
    "mbs": 10,
    "countries": {
-    "US": 283,
+    "US": 284,
     "GB": 230,
     "HK": 6,
     "FR": 7,
@@ -2626,7 +2626,7 @@
     "Financial Times": 47,
     "Al-Monitor": 41,
     "Reuters": 131,
-    "Bloomberg.com": 62,
+    "Bloomberg.com": 63,
     "חרדים10": 1,
     "BBC": 22,
     "The Guardian": 32,
@@ -2827,7 +2827,7 @@
     ],
     "Bloomberg.com": [
      0,
-     62,
+     63,
      0
     ],
     "חרדים10": [
