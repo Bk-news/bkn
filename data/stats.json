@@ -1469,15 +1469,15 @@
    }
   },
   "2026-11-02": {
-   "total": 936,
-   "news": 930,
+   "total": 937,
+   "news": 931,
    "articles": 6,
    "positive": 0,
-   "neutral": 936,
+   "neutral": 937,
    "critical": 0,
    "mbs": 20,
    "countries": {
-    "GB": 272,
+    "GB": 273,
     "US": 294,
     "SA": 85,
     "HK": 6,
@@ -1531,7 +1531,7 @@
     "ChemNet News": 1,
     "Saudi Gazette": 17,
     "South China Morning Post": 6,
-    "Reuters": 138,
+    "Reuters": 139,
     "France 24": 6,
     "CNN": 1,
     "New Telegraph": 2,
@@ -1896,7 +1896,7 @@
     ],
     "Reuters": [
      0,
-     138,
+     139,
      0
     ],
     "France 24": [
@@ -2602,16 +2602,16 @@
    }
   },
   "2026-11-03": {
-   "total": 857,
-   "news": 839,
+   "total": 861,
+   "news": 843,
    "articles": 18,
    "positive": 0,
-   "neutral": 857,
+   "neutral": 861,
    "critical": 0,
    "mbs": 10,
    "countries": {
     "US": 283,
-    "GB": 226,
+    "GB": 230,
     "HK": 6,
     "FR": 7,
     "SA": 90,
@@ -2625,7 +2625,7 @@
     "WSJ": 45,
     "Financial Times": 47,
     "Al-Monitor": 41,
-    "Reuters": 127,
+    "Reuters": 131,
     "Bloomberg.com": 62,
     "חרדים10": 1,
     "BBC": 22,
@@ -2822,7 +2822,7 @@
     ],
     "Reuters": [
      0,
-     127,
+     131,
      0
     ],
     "Bloomberg.com": [
@@ -3663,19 +3663,19 @@
    }
   },
   "2026-11-04": {
-   "total": 163,
-   "news": 162,
+   "total": 169,
+   "news": 168,
    "articles": 1,
    "positive": 0,
-   "neutral": 163,
+   "neutral": 169,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 16,
-    "US": 32,
-    "GB": 50,
+    "US": 35,
+    "GB": 51,
     "JP": 1,
-    "FR": 1,
+    "FR": 2,
     "HK": 2
    },
    "topics": {},
@@ -3684,9 +3684,9 @@
     "Arab News": 16,
     "Heavy.com": 1,
     "Al-Monitor": 10,
-    "The Washington Post": 2,
-    "Bloomberg.com": 12,
-    "Reuters": 31,
+    "The Washington Post": 3,
+    "Bloomberg.com": 13,
+    "Reuters": 32,
     "Nikkei Asia": 1,
     "WSJ": 4,
     "The Australian": 1,
@@ -3701,7 +3701,7 @@
     "France 24": 1,
     "The Guardian": 6,
     "Foreign Affairs": 1,
-    "The New York Times": 1,
+    "The New York Times": 2,
     "South China Morning Post": 2,
     "A News": 1,
     "BBC": 6,
@@ -3745,7 +3745,9 @@
     "朝日新聞": 1,
     "IQAir": 1,
     "NewsCord": 1,
-    "Forbes Middle East": 1
+    "Forbes Middle East": 1,
+    "Fast Company Middle East": 1,
+    "Le Monde.fr": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -3770,17 +3772,17 @@
     ],
     "The Washington Post": [
      0,
-     2,
+     3,
      0
     ],
     "Bloomberg.com": [
      0,
-     12,
+     13,
      0
     ],
     "Reuters": [
      0,
-     31,
+     32,
      0
     ],
     "Nikkei Asia": [
@@ -3855,7 +3857,7 @@
     ],
     "The New York Times": [
      0,
-     1,
+     2,
      0
     ],
     "South China Morning Post": [
@@ -4074,6 +4076,16 @@
      0
     ],
     "Forbes Middle East": [
+     0,
+     1,
+     0
+    ],
+    "Fast Company Middle East": [
+     0,
+     1,
+     0
+    ],
+    "Le Monde.fr": [
      0,
      1,
      0
