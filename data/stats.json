@@ -3663,17 +3663,17 @@
    }
   },
   "2026-11-04": {
-   "total": 385,
-   "news": 380,
+   "total": 387,
+   "news": 382,
    "articles": 5,
    "positive": 0,
-   "neutral": 385,
+   "neutral": 387,
    "critical": 0,
    "mbs": 11,
    "countries": {
     "SA": 38,
     "US": 80,
-    "GB": 121,
+    "GB": 122,
     "JP": 1,
     "FR": 3,
     "HK": 2
@@ -3686,7 +3686,7 @@
     "Al-Monitor": 23,
     "The Washington Post": 5,
     "Bloomberg.com": 21,
-    "Reuters": 78,
+    "Reuters": 79,
     "Nikkei Asia": 1,
     "WSJ": 11,
     "The Australian": 1,
@@ -3802,7 +3802,8 @@
     "Investing.com UK": 1,
     "ANTARA News": 1,
     "The Paypers": 1,
-    "MMA Junkie": 1
+    "MMA Junkie": 1,
+    "MEED": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -3837,7 +3838,7 @@
     ],
     "Reuters": [
      0,
-     78,
+     79,
      0
     ],
     "Nikkei Asia": [
@@ -4416,6 +4417,11 @@
      0
     ],
     "MMA Junkie": [
+     0,
+     1,
+     0
+    ],
+    "MEED": [
      0,
      1,
      0
