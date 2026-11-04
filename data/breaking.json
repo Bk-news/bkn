@@ -1,5 +1,17 @@
 [
  {
+  "id": "3be3377b9f89e7ac",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "الديمقراطيون ينتزعون مقعد مجلس الشيوخ من الجمهوريين بولاية ساوث كارولاينا",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152319",
+  "published": "2026-11-04T03:05:02.000Z",
+  "subject": "saudi",
+  "added": "2026-11-04T03:05:02.000Z"
+ },
+ {
   "id": "0988d000dbad1b87",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -202,17 +214,5 @@
   "published": "2026-11-04T02:13:02.000Z",
   "subject": "saudi",
   "added": "2026-11-04T02:13:02.000Z"
- },
- {
-  "id": "0889562559ae3374",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "نتائج أولية لانتخابات مجلس النواب: 57 مقعدا للديمقراطيين مقابل 28 للجمهوريين",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152301",
-  "published": "2026-11-04T02:06:01.000Z",
-  "subject": "saudi",
-  "added": "2026-11-04T02:06:01.000Z"
  }
 ]

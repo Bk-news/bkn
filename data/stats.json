@@ -1469,15 +1469,15 @@
    }
   },
   "2026-11-02": {
-   "total": 906,
-   "news": 900,
+   "total": 907,
+   "news": 901,
    "articles": 6,
    "positive": 0,
-   "neutral": 906,
+   "neutral": 907,
    "critical": 0,
    "mbs": 20,
    "countries": {
-    "GB": 254,
+    "GB": 255,
     "US": 287,
     "SA": 84,
     "HK": 4,
@@ -1531,7 +1531,7 @@
     "ChemNet News": 1,
     "Saudi Gazette": 17,
     "South China Morning Post": 4,
-    "Reuters": 128,
+    "Reuters": 129,
     "France 24": 5,
     "CNN": 1,
     "New Telegraph": 2,
@@ -1896,7 +1896,7 @@
     ],
     "Reuters": [
      0,
-     128,
+     129,
      0
     ],
     "France 24": [
@@ -2602,11 +2602,11 @@
    }
   },
   "2026-11-03": {
-   "total": 816,
-   "news": 798,
+   "total": 818,
+   "news": 800,
    "articles": 18,
    "positive": 0,
-   "neutral": 816,
+   "neutral": 818,
    "critical": 0,
    "mbs": 10,
    "countries": {
@@ -2759,7 +2759,7 @@
     "المتداول العربي": 1,
     "www.footballtransfers.com": 1,
     "Nigerian Voice": 1,
-    "وكالة الأنباء السعودية": 3,
+    "وكالة الأنباء السعودية": 4,
     "Investing.com UK": 1,
     "The New Arab": 1,
     "marketscreener.com": 1,
@@ -2786,7 +2786,8 @@
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1,
     "The Times of India": 1,
     "Addis Standard": 1,
-    "Newsquawk": 1
+    "Newsquawk": 1,
+    "شبكة تواصل الإخبارية": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -3486,7 +3487,7 @@
     ],
     "وكالة الأنباء السعودية": [
      0,
-     3,
+     4,
      0
     ],
     "Investing.com UK": [
@@ -3623,15 +3624,20 @@
      0,
      1,
      0
+    ],
+    "شبكة تواصل الإخبارية": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-04": {
-   "total": 19,
-   "news": 19,
+   "total": 21,
+   "news": 21,
    "articles": 0,
    "positive": 0,
-   "neutral": 19,
+   "neutral": 21,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -3652,7 +3658,9 @@
     "Nikkei Asia": 1,
     "WSJ": 1,
     "The Australian": 1,
-    "Middle East Eye": 1
+    "Middle East Eye": 1,
+    "Asia News Network": 1,
+    "www.theatlasnews.com": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -3706,6 +3714,16 @@
      0
     ],
     "Middle East Eye": [
+     0,
+     1,
+     0
+    ],
+    "Asia News Network": [
+     0,
+     1,
+     0
+    ],
+    "www.theatlasnews.com": [
      0,
      1,
      0
