@@ -2602,16 +2602,16 @@
    }
   },
   "2026-11-03": {
-   "total": 863,
-   "news": 845,
+   "total": 864,
+   "news": 846,
    "articles": 18,
    "positive": 0,
-   "neutral": 863,
+   "neutral": 864,
    "critical": 0,
    "mbs": 10,
    "countries": {
     "US": 284,
-    "GB": 230,
+    "GB": 231,
     "HK": 6,
     "FR": 7,
     "SA": 91,
@@ -2623,7 +2623,7 @@
     "Asia News Network": 1,
     "The Washington Post": 10,
     "WSJ": 45,
-    "Financial Times": 47,
+    "Financial Times": 48,
     "Al-Monitor": 41,
     "Reuters": 131,
     "Bloomberg.com": 63,
@@ -2812,7 +2812,7 @@
     ],
     "Financial Times": [
      0,
-     47,
+     48,
      0
     ],
     "Al-Monitor": [
@@ -3663,11 +3663,11 @@
    }
   },
   "2026-11-04": {
-   "total": 182,
-   "news": 181,
+   "total": 183,
+   "news": 182,
    "articles": 1,
    "positive": 0,
-   "neutral": 182,
+   "neutral": 183,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -3750,7 +3750,8 @@
     "Le Monde.fr": 1,
     "CairoScene": 1,
     "USA Today": 1,
-    "وكالة الأنباء السعودية": 1
+    "وكالة الأنباء السعودية": 1,
+    "Ednews.net": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -4104,6 +4105,11 @@
      0
     ],
     "وكالة الأنباء السعودية": [
+     0,
+     1,
+     0
+    ],
+    "Ednews.net": [
      0,
      1,
      0
