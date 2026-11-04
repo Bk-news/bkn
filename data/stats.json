@@ -1469,11 +1469,11 @@
    }
   },
   "2026-11-02": {
-   "total": 915,
-   "news": 909,
+   "total": 916,
+   "news": 910,
    "articles": 6,
    "positive": 0,
-   "neutral": 915,
+   "neutral": 916,
    "critical": 0,
    "mbs": 20,
    "countries": {
@@ -1482,7 +1482,7 @@
     "SA": 84,
     "HK": 4,
     "FR": 17,
-    "JP": 1,
+    "JP": 2,
     "DE": 1
    },
    "topics": {},
@@ -1535,7 +1535,7 @@
     "France 24": 5,
     "CNN": 1,
     "New Telegraph": 2,
-    "Nikkei Asia": 1,
+    "Nikkei Asia": 2,
     "BBC": 7,
     "Le Monde.fr": 12,
     "The Economist": 3,
@@ -1916,7 +1916,7 @@
     ],
     "Nikkei Asia": [
      0,
-     1,
+     2,
      0
     ],
     "BBC": [
@@ -2602,11 +2602,11 @@
    }
   },
   "2026-11-03": {
-   "total": 830,
-   "news": 812,
+   "total": 832,
+   "news": 814,
    "articles": 18,
    "positive": 0,
-   "neutral": 830,
+   "neutral": 832,
    "critical": 0,
    "mbs": 10,
    "countries": {
@@ -2614,7 +2614,7 @@
     "GB": 216,
     "HK": 6,
     "FR": 7,
-    "SA": 84,
+    "SA": 85,
     "JP": 4,
     "DE": 3
    },
@@ -2656,7 +2656,7 @@
     "Foreign Affairs": 3,
     "Nikkei Asia": 4,
     "Spiegel": 3,
-    "Saudi Gazette": 12,
+    "Saudi Gazette": 14,
     "ASHARQ AL-AWSAT English": 4,
     "AP News": 99,
     "Bloom Pakistan": 1,
@@ -2973,7 +2973,7 @@
     ],
     "Saudi Gazette": [
      0,
-     12,
+     14,
      0
     ],
     "ASHARQ AL-AWSAT English": [
@@ -3639,30 +3639,32 @@
    }
   },
   "2026-11-04": {
-   "total": 30,
-   "news": 30,
-   "articles": 0,
+   "total": 67,
+   "news": 66,
+   "articles": 1,
    "positive": 0,
-   "neutral": 30,
+   "neutral": 67,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "SA": 2,
-    "US": 12,
-    "GB": 5,
-    "JP": 1
+    "SA": 6,
+    "US": 26,
+    "GB": 17,
+    "JP": 1,
+    "FR": 1,
+    "HK": 2
    },
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 1,
-    "Arab News": 2,
+    "Arab News": 5,
     "Heavy.com": 1,
-    "Al-Monitor": 7,
-    "The Washington Post": 1,
-    "Bloomberg.com": 3,
-    "Reuters": 5,
+    "Al-Monitor": 10,
+    "The Washington Post": 2,
+    "Bloomberg.com": 6,
+    "Reuters": 8,
     "Nikkei Asia": 1,
-    "WSJ": 1,
+    "WSJ": 4,
     "The Australian": 1,
     "Middle East Eye": 1,
     "Asia News Network": 1,
@@ -3670,7 +3672,20 @@
     "Gulf News": 1,
     "매일경제": 1,
     "The Daily Star": 1,
-    "ABC News - Breaking News, Latest News and Videos": 1
+    "ABC News - Breaking News, Latest News and Videos": 1,
+    "LiveScore": 1,
+    "France 24": 1,
+    "The Guardian": 3,
+    "Foreign Affairs": 1,
+    "The New York Times": 1,
+    "South China Morning Post": 2,
+    "A News": 1,
+    "BBC": 3,
+    "Financial Times": 3,
+    "AP News": 2,
+    "Saudi Gazette": 1,
+    "TahawulTech.com": 1,
+    "The National": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -3680,7 +3695,7 @@
     ],
     "Arab News": [
      0,
-     2,
+     5,
      0
     ],
     "Heavy.com": [
@@ -3690,22 +3705,22 @@
     ],
     "Al-Monitor": [
      0,
-     7,
+     10,
      0
     ],
     "The Washington Post": [
      0,
-     1,
+     2,
      0
     ],
     "Bloomberg.com": [
      0,
-     3,
+     6,
      0
     ],
     "Reuters": [
      0,
-     5,
+     8,
      0
     ],
     "Nikkei Asia": [
@@ -3715,7 +3730,7 @@
     ],
     "WSJ": [
      0,
-     1,
+     4,
      0
     ],
     "The Australian": [
@@ -3754,6 +3769,71 @@
      0
     ],
     "ABC News - Breaking News, Latest News and Videos": [
+     0,
+     1,
+     0
+    ],
+    "LiveScore": [
+     0,
+     1,
+     0
+    ],
+    "France 24": [
+     0,
+     1,
+     0
+    ],
+    "The Guardian": [
+     0,
+     3,
+     0
+    ],
+    "Foreign Affairs": [
+     0,
+     1,
+     0
+    ],
+    "The New York Times": [
+     0,
+     1,
+     0
+    ],
+    "South China Morning Post": [
+     0,
+     2,
+     0
+    ],
+    "A News": [
+     0,
+     1,
+     0
+    ],
+    "BBC": [
+     0,
+     3,
+     0
+    ],
+    "Financial Times": [
+     0,
+     3,
+     0
+    ],
+    "AP News": [
+     0,
+     2,
+     0
+    ],
+    "Saudi Gazette": [
+     0,
+     1,
+     0
+    ],
+    "TahawulTech.com": [
+     0,
+     1,
+     0
+    ],
+    "The National": [
      0,
      1,
      0
