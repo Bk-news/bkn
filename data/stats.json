@@ -2602,15 +2602,15 @@
    }
   },
   "2026-11-03": {
-   "total": 896,
-   "news": 878,
+   "total": 898,
+   "news": 880,
    "articles": 18,
    "positive": 0,
-   "neutral": 896,
+   "neutral": 898,
    "critical": 0,
    "mbs": 10,
    "countries": {
-    "US": 288,
+    "US": 290,
     "GB": 257,
     "HK": 6,
     "FR": 9,
@@ -2626,7 +2626,7 @@
     "Financial Times": 49,
     "Al-Monitor": 43,
     "Reuters": 155,
-    "Bloomberg.com": 65,
+    "Bloomberg.com": 67,
     "חרדים10": 1,
     "BBC": 22,
     "The Guardian": 33,
@@ -2827,7 +2827,7 @@
     ],
     "Bloomberg.com": [
      0,
-     65,
+     67,
      0
     ],
     "חרדים10": [
@@ -3663,17 +3663,17 @@
    }
   },
   "2026-11-04": {
-   "total": 446,
-   "news": 438,
+   "total": 484,
+   "news": 476,
    "articles": 8,
    "positive": 0,
-   "neutral": 446,
+   "neutral": 484,
    "critical": 0,
-   "mbs": 15,
+   "mbs": 17,
    "countries": {
-    "SA": 42,
-    "US": 100,
-    "GB": 140,
+    "SA": 48,
+    "US": 110,
+    "GB": 154,
     "JP": 1,
     "FR": 5,
     "HK": 2,
@@ -3682,14 +3682,14 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Arab News": 45,
+    "Arab News": 51,
     "Heavy.com": 1,
-    "Al-Monitor": 29,
+    "Al-Monitor": 35,
     "The Washington Post": 5,
     "Bloomberg.com": 23,
-    "Reuters": 85,
+    "Reuters": 92,
     "Nikkei Asia": 1,
-    "WSJ": 13,
+    "WSJ": 15,
     "The Australian": 1,
     "Middle East Eye": 1,
     "Asia News Network": 1,
@@ -3702,11 +3702,11 @@
     "France 24": 3,
     "The Guardian": 22,
     "Foreign Affairs": 1,
-    "The New York Times": 8,
+    "The New York Times": 10,
     "South China Morning Post": 2,
     "A News": 1,
-    "BBC": 14,
-    "Financial Times": 17,
+    "BBC": 15,
+    "Financial Times": 23,
     "AP News": 16,
     "Saudi Gazette": 8,
     "TahawulTech.com": 1,
@@ -3714,7 +3714,7 @@
     "Anadolu Ajansı": 4,
     "Arab News PK": 3,
     "UA.NEWS": 1,
-    "ASHARQ AL-AWSAT English": 8,
+    "ASHARQ AL-AWSAT English": 9,
     "The Quint": 1,
     "The Indian Express": 1,
     "Morocco World News": 1,
@@ -3774,17 +3774,17 @@
     "EIN News": 2,
     "Apa.az": 1,
     "TRT World": 1,
-    "Real Broadcasting Network": 1,
+    "Real Broadcasting Network": 2,
     "tovima.com": 1,
     "Daily Monitor": 1,
     "Diari ARA": 1,
     "TheSportster": 1,
-    "Enab Baladi": 1,
+    "Enab Baladi": 2,
     "El Constitucional": 1,
-    "Channels Television": 1,
+    "Channels Television": 2,
     "Vanguard News": 1,
-    "The Times of Israel": 1,
-    "Yahoo Sports": 2,
+    "The Times of Israel": 2,
+    "Yahoo Sports": 3,
     "TheCable": 2,
     "Rare Earth Exchanges": 1,
     "صحيفة مال": 1,
@@ -3806,7 +3806,7 @@
     "MMA Junkie": 1,
     "MEED": 1,
     "SunStar Publishing Inc.": 1,
-    "Al Arabiya English": 1,
+    "Al Arabiya English": 2,
     "Daryo": 1,
     "وكالة الانباء العراقية (واع)": 1,
     "LinkedIn": 1,
@@ -3816,7 +3816,8 @@
     "Spiegel": 1,
     "Fana News -": 1,
     "Fightful": 2,
-    "Al-Bawaba": 1
+    "Al-Bawaba": 1,
+    "Punch Newspapers": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -3826,7 +3827,7 @@
     ],
     "Arab News": [
      0,
-     45,
+     51,
      0
     ],
     "Heavy.com": [
@@ -3836,7 +3837,7 @@
     ],
     "Al-Monitor": [
      0,
-     29,
+     35,
      0
     ],
     "The Washington Post": [
@@ -3851,7 +3852,7 @@
     ],
     "Reuters": [
      0,
-     85,
+     92,
      0
     ],
     "Nikkei Asia": [
@@ -3861,7 +3862,7 @@
     ],
     "WSJ": [
      0,
-     13,
+     15,
      0
     ],
     "The Australian": [
@@ -3926,7 +3927,7 @@
     ],
     "The New York Times": [
      0,
-     8,
+     10,
      0
     ],
     "South China Morning Post": [
@@ -3941,12 +3942,12 @@
     ],
     "BBC": [
      0,
-     14,
+     15,
      0
     ],
     "Financial Times": [
      0,
-     17,
+     23,
      0
     ],
     "AP News": [
@@ -3986,7 +3987,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     8,
+     9,
      0
     ],
     "The Quint": [
@@ -4286,7 +4287,7 @@
     ],
     "Real Broadcasting Network": [
      0,
-     1,
+     2,
      0
     ],
     "tovima.com": [
@@ -4311,7 +4312,7 @@
     ],
     "Enab Baladi": [
      0,
-     1,
+     2,
      0
     ],
     "El Constitucional": [
@@ -4321,7 +4322,7 @@
     ],
     "Channels Television": [
      0,
-     1,
+     2,
      0
     ],
     "Vanguard News": [
@@ -4331,12 +4332,12 @@
     ],
     "The Times of Israel": [
      0,
-     1,
+     2,
      0
     ],
     "Yahoo Sports": [
      0,
-     2,
+     3,
      0
     ],
     "TheCable": [
@@ -4446,7 +4447,7 @@
     ],
     "Al Arabiya English": [
      0,
-     1,
+     2,
      0
     ],
     "Daryo": [
@@ -4495,6 +4496,11 @@
      0
     ],
     "Al-Bawaba": [
+     0,
+     1,
+     0
+    ],
+    "Punch Newspapers": [
      0,
      1,
      0
