@@ -1469,15 +1469,15 @@
    }
   },
   "2026-11-02": {
-   "total": 941,
-   "news": 935,
+   "total": 942,
+   "news": 936,
    "articles": 6,
    "positive": 0,
-   "neutral": 941,
+   "neutral": 942,
    "critical": 0,
    "mbs": 20,
    "countries": {
-    "GB": 276,
+    "GB": 277,
     "US": 295,
     "SA": 85,
     "HK": 6,
@@ -1488,7 +1488,7 @@
    "topics": {},
    "sources": {
     "Cageside Seats": 1,
-    "The Guardian": 49,
+    "The Guardian": 50,
     "Financial Times": 78,
     "Al-Monitor": 33,
     "AP News": 129,
@@ -1681,7 +1681,7 @@
     ],
     "The Guardian": [
      0,
-     49,
+     50,
      0
     ],
     "Financial Times": [
@@ -3663,11 +3663,11 @@
    }
   },
   "2026-11-04": {
-   "total": 178,
-   "news": 177,
+   "total": 179,
+   "news": 178,
    "articles": 1,
    "positive": 0,
-   "neutral": 178,
+   "neutral": 179,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -3711,7 +3711,7 @@
     "TahawulTech.com": 1,
     "The National": 2,
     "Anadolu Ajansı": 1,
-    "Arab News PK": 1,
+    "Arab News PK": 2,
     "UA.NEWS": 1,
     "ASHARQ AL-AWSAT English": 5,
     "The Quint": 1,
@@ -3910,7 +3910,7 @@
     ],
     "Arab News PK": [
      0,
-     1,
+     2,
      0
     ],
     "UA.NEWS": [
