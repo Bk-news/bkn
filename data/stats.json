@@ -3663,17 +3663,17 @@
    }
   },
   "2026-11-04": {
-   "total": 389,
-   "news": 384,
+   "total": 393,
+   "news": 388,
    "articles": 5,
    "positive": 0,
-   "neutral": 389,
+   "neutral": 393,
    "critical": 0,
    "mbs": 11,
    "countries": {
     "SA": 38,
-    "US": 80,
-    "GB": 123,
+    "US": 82,
+    "GB": 124,
     "JP": 1,
     "FR": 3,
     "HK": 2
@@ -3683,10 +3683,10 @@
     "Arabian Gulf Business Insight | AGBI": 2,
     "Arab News": 42,
     "Heavy.com": 1,
-    "Al-Monitor": 23,
+    "Al-Monitor": 25,
     "The Washington Post": 5,
     "Bloomberg.com": 21,
-    "Reuters": 80,
+    "Reuters": 81,
     "Nikkei Asia": 1,
     "WSJ": 11,
     "The Australian": 1,
@@ -3804,7 +3804,8 @@
     "The Paypers": 1,
     "MMA Junkie": 1,
     "MEED": 1,
-    "SunStar Publishing Inc.": 1
+    "SunStar Publishing Inc.": 1,
+    "Al Arabiya English": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -3824,7 +3825,7 @@
     ],
     "Al-Monitor": [
      0,
-     23,
+     25,
      0
     ],
     "The Washington Post": [
@@ -3839,7 +3840,7 @@
     ],
     "Reuters": [
      0,
-     80,
+     81,
      0
     ],
     "Nikkei Asia": [
@@ -4428,6 +4429,11 @@
      0
     ],
     "SunStar Publishing Inc.": [
+     0,
+     1,
+     0
+    ],
+    "Al Arabiya English": [
      0,
      1,
      0
