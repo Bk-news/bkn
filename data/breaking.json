@@ -1,5 +1,17 @@
 [
  {
+  "id": "d19982d2b5cdcdbc",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "نتائج أولية لانتخابات مجلس الشيوخ: 47 مقعدا للديمقراطيين مقابل 36 للجمهوريين",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152327",
+  "published": "2026-11-04T03:24:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-04T03:24:01.000Z"
+ },
+ {
   "id": "4c481d8931f2ac74",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -226,17 +238,5 @@
   "published": "2026-11-04T02:28:01.000Z",
   "subject": "saudi",
   "added": "2026-11-04T02:28:01.000Z"
- },
- {
-  "id": "e321274b46f6fc44",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "نتائج أولية لانتخابات مجلس الشيوخ: 45 مقعدا للديمقراطيين مقابل 36 للجمهوريين",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152307",
-  "published": "2026-11-04T02:25:02.000Z",
-  "subject": "saudi",
-  "added": "2026-11-04T02:25:02.000Z"
  }
 ]
