@@ -3663,17 +3663,17 @@
    }
   },
   "2026-11-04": {
-   "total": 394,
-   "news": 389,
+   "total": 397,
+   "news": 392,
    "articles": 5,
    "positive": 0,
-   "neutral": 394,
+   "neutral": 397,
    "critical": 0,
-   "mbs": 11,
+   "mbs": 12,
    "countries": {
-    "SA": 38,
+    "SA": 39,
     "US": 83,
-    "GB": 124,
+    "GB": 125,
     "JP": 1,
     "FR": 3,
     "HK": 2
@@ -3681,7 +3681,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Arab News": 42,
+    "Arab News": 43,
     "Heavy.com": 1,
     "Al-Monitor": 26,
     "The Washington Post": 5,
@@ -3699,7 +3699,7 @@
     "ABC News - Breaking News, Latest News and Videos": 1,
     "LiveScore": 1,
     "France 24": 1,
-    "The Guardian": 18,
+    "The Guardian": 19,
     "Foreign Affairs": 1,
     "The New York Times": 5,
     "South China Morning Post": 2,
@@ -3805,7 +3805,8 @@
     "MMA Junkie": 1,
     "MEED": 1,
     "SunStar Publishing Inc.": 1,
-    "Al Arabiya English": 1
+    "Al Arabiya English": 1,
+    "Daryo": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -3815,7 +3816,7 @@
     ],
     "Arab News": [
      0,
-     42,
+     43,
      0
     ],
     "Heavy.com": [
@@ -3905,7 +3906,7 @@
     ],
     "The Guardian": [
      0,
-     18,
+     19,
      0
     ],
     "Foreign Affairs": [
@@ -4434,6 +4435,11 @@
      0
     ],
     "Al Arabiya English": [
+     0,
+     1,
+     0
+    ],
+    "Daryo": [
      0,
      1,
      0
