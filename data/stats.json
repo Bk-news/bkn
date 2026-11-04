@@ -2602,11 +2602,11 @@
    }
   },
   "2026-11-03": {
-   "total": 855,
-   "news": 837,
+   "total": 856,
+   "news": 838,
    "articles": 18,
    "positive": 0,
-   "neutral": 855,
+   "neutral": 856,
    "critical": 0,
    "mbs": 10,
    "countries": {
@@ -2614,7 +2614,7 @@
     "GB": 225,
     "HK": 6,
     "FR": 7,
-    "SA": 89,
+    "SA": 90,
     "JP": 4,
     "DE": 3
    },
@@ -2652,7 +2652,7 @@
     "Le Monde.fr": 1,
     "Access Partnership": 1,
     "The New York Times": 11,
-    "Arab News": 84,
+    "Arab News": 85,
     "Foreign Affairs": 3,
     "Nikkei Asia": 4,
     "Spiegel": 3,
@@ -2957,7 +2957,7 @@
     ],
     "Arab News": [
      0,
-     84,
+     85,
      0
     ],
     "Foreign Affairs": [
@@ -3663,17 +3663,17 @@
    }
   },
   "2026-11-04": {
-   "total": 152,
-   "news": 151,
+   "total": 159,
+   "news": 158,
    "articles": 1,
    "positive": 0,
-   "neutral": 152,
+   "neutral": 159,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "SA": 13,
+    "SA": 15,
     "US": 31,
-    "GB": 47,
+    "GB": 49,
     "JP": 1,
     "FR": 1,
     "HK": 2
@@ -3681,12 +3681,12 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Arab News": 13,
+    "Arab News": 15,
     "Heavy.com": 1,
     "Al-Monitor": 10,
     "The Washington Post": 2,
     "Bloomberg.com": 11,
-    "Reuters": 30,
+    "Reuters": 31,
     "Nikkei Asia": 1,
     "WSJ": 4,
     "The Australian": 1,
@@ -3705,7 +3705,7 @@
     "South China Morning Post": 2,
     "A News": 1,
     "BBC": 6,
-    "Financial Times": 6,
+    "Financial Times": 7,
     "AP News": 3,
     "Saudi Gazette": 2,
     "TahawulTech.com": 1,
@@ -3723,7 +3723,7 @@
     "Absolute Geeks": 1,
     "وكالة الأنباء الجزائرية": 1,
     "Forbes": 1,
-    "TradeArabia": 1,
+    "TradeArabia": 2,
     "アラブニュース": 1,
     "International Relations Review": 1,
     "AKIpress News Agency": 1,
@@ -3742,7 +3742,9 @@
     "BigGo Finance": 1,
     "Bernama": 1,
     "Middle East Construction News": 1,
-    "朝日新聞": 1
+    "朝日新聞": 1,
+    "IQAir": 1,
+    "NewsCord": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -3752,7 +3754,7 @@
     ],
     "Arab News": [
      0,
-     13,
+     15,
      0
     ],
     "Heavy.com": [
@@ -3777,7 +3779,7 @@
     ],
     "Reuters": [
      0,
-     30,
+     31,
      0
     ],
     "Nikkei Asia": [
@@ -3872,7 +3874,7 @@
     ],
     "Financial Times": [
      0,
-     6,
+     7,
      0
     ],
     "AP News": [
@@ -3962,7 +3964,7 @@
     ],
     "TradeArabia": [
      0,
-     1,
+     2,
      0
     ],
     "アラブニュース": [
@@ -4056,6 +4058,16 @@
      0
     ],
     "朝日新聞": [
+     0,
+     1,
+     0
+    ],
+    "IQAir": [
+     0,
+     1,
+     0
+    ],
+    "NewsCord": [
      0,
      1,
      0
