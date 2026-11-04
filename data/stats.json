@@ -3663,17 +3663,17 @@
    }
   },
   "2026-11-04": {
-   "total": 169,
-   "news": 168,
+   "total": 174,
+   "news": 173,
    "articles": 1,
    "positive": 0,
-   "neutral": 169,
+   "neutral": 174,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 16,
     "US": 35,
-    "GB": 51,
+    "GB": 53,
     "JP": 1,
     "FR": 2,
     "HK": 2
@@ -3686,7 +3686,7 @@
     "Al-Monitor": 10,
     "The Washington Post": 3,
     "Bloomberg.com": 13,
-    "Reuters": 32,
+    "Reuters": 34,
     "Nikkei Asia": 1,
     "WSJ": 4,
     "The Australian": 1,
@@ -3747,7 +3747,10 @@
     "NewsCord": 1,
     "Forbes Middle East": 1,
     "Fast Company Middle East": 1,
-    "Le Monde.fr": 1
+    "Le Monde.fr": 1,
+    "CairoScene": 1,
+    "USA Today": 1,
+    "وكالة الأنباء السعودية": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -3782,7 +3785,7 @@
     ],
     "Reuters": [
      0,
-     32,
+     34,
      0
     ],
     "Nikkei Asia": [
@@ -4086,6 +4089,21 @@
      0
     ],
     "Le Monde.fr": [
+     0,
+     1,
+     0
+    ],
+    "CairoScene": [
+     0,
+     1,
+     0
+    ],
+    "USA Today": [
+     0,
+     1,
+     0
+    ],
+    "وكالة الأنباء السعودية": [
      0,
      1,
      0
