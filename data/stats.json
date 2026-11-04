@@ -3639,16 +3639,16 @@
    }
   },
   "2026-11-04": {
-   "total": 26,
-   "news": 26,
+   "total": 28,
+   "news": 28,
    "articles": 0,
    "positive": 0,
-   "neutral": 26,
+   "neutral": 28,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "SA": 2,
-    "US": 10,
+    "US": 11,
     "GB": 4,
     "JP": 1
    },
@@ -3657,7 +3657,7 @@
     "Arabian Gulf Business Insight | AGBI": 1,
     "Arab News": 2,
     "Heavy.com": 1,
-    "Al-Monitor": 6,
+    "Al-Monitor": 7,
     "The Washington Post": 1,
     "Bloomberg.com": 2,
     "Reuters": 4,
@@ -3669,7 +3669,8 @@
     "www.theatlasnews.com": 1,
     "Gulf News": 1,
     "매일경제": 1,
-    "The Daily Star": 1
+    "The Daily Star": 1,
+    "ABC News - Breaking News, Latest News and Videos": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -3689,7 +3690,7 @@
     ],
     "Al-Monitor": [
      0,
-     6,
+     7,
      0
     ],
     "The Washington Post": [
@@ -3748,6 +3749,11 @@
      0
     ],
     "The Daily Star": [
+     0,
+     1,
+     0
+    ],
+    "ABC News - Breaking News, Latest News and Videos": [
      0,
      1,
      0
