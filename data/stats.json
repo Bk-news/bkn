@@ -1469,16 +1469,16 @@
    }
   },
   "2026-11-02": {
-   "total": 927,
-   "news": 921,
+   "total": 928,
+   "news": 922,
    "articles": 6,
    "positive": 0,
-   "neutral": 927,
+   "neutral": 928,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "GB": 270,
-    "US": 290,
+    "US": 291,
     "SA": 85,
     "HK": 4,
     "FR": 17,
@@ -1611,7 +1611,7 @@
     "Instagram": 1,
     "The Jerusalem Post": 2,
     "JFeed": 1,
-    "Bloomberg.com": 53,
+    "Bloomberg.com": 54,
     "Spiegel": 1,
     "Atlantic Council": 2,
     "Daily Times": 1,
@@ -2296,7 +2296,7 @@
     ],
     "Bloomberg.com": [
      0,
-     53,
+     54,
      0
     ],
     "Spiegel": [
@@ -2602,11 +2602,11 @@
    }
   },
   "2026-11-03": {
-   "total": 849,
-   "news": 831,
+   "total": 854,
+   "news": 836,
    "articles": 18,
    "positive": 0,
-   "neutral": 849,
+   "neutral": 854,
    "critical": 0,
    "mbs": 10,
    "countries": {
@@ -2732,7 +2732,7 @@
     "RFI": 1,
     "Yahoo Sports": 5,
     "www.jordannews.jo": 1,
-    "NewsCord": 1,
+    "NewsCord": 2,
     "houseofsaud.com": 1,
     "Atlantic Council": 6,
     "BAE Systems": 1,
@@ -2788,7 +2788,11 @@
     "Addis Standard": 1,
     "Newsquawk": 1,
     "شبكة تواصل الإخبارية": 1,
-    "Blueprint Newspapers": 1
+    "Blueprint Newspapers": 1,
+    "investingLive": 1,
+    "WrestleRant": 1,
+    "TV7 Israel News": 1,
+    "mynbc15.com": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -3353,7 +3357,7 @@
     ],
     "NewsCord": [
      0,
-     1,
+     2,
      0
     ],
     "houseofsaud.com": [
@@ -3635,21 +3639,41 @@
      0,
      1,
      0
+    ],
+    "investingLive": [
+     0,
+     1,
+     0
+    ],
+    "WrestleRant": [
+     0,
+     1,
+     0
+    ],
+    "TV7 Israel News": [
+     0,
+     1,
+     0
+    ],
+    "mynbc15.com": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-04": {
-   "total": 148,
-   "news": 147,
+   "total": 152,
+   "news": 151,
    "articles": 1,
    "positive": 0,
-   "neutral": 148,
+   "neutral": 152,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 13,
     "US": 31,
-    "GB": 46,
+    "GB": 47,
     "JP": 1,
     "FR": 1,
     "HK": 2
@@ -3662,7 +3686,7 @@
     "Al-Monitor": 10,
     "The Washington Post": 2,
     "Bloomberg.com": 11,
-    "Reuters": 29,
+    "Reuters": 30,
     "Nikkei Asia": 1,
     "WSJ": 4,
     "The Australian": 1,
@@ -3710,13 +3734,15 @@
     "Il Sole 24 ORE": 1,
     "Dubai Eye 103.8": 1,
     "Dawn": 1,
-    "Travel & Tourism News Middle East": 1,
+    "Travel & Tourism News Middle East": 2,
     "Arabian Business": 1,
     "Jordan News": 1,
     "chinadailyhk": 1,
     "INDiplomacy": 1,
     "BigGo Finance": 1,
-    "Bernama": 1
+    "Bernama": 1,
+    "Middle East Construction News": 1,
+    "朝日新聞": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -3751,7 +3777,7 @@
     ],
     "Reuters": [
      0,
-     29,
+     30,
      0
     ],
     "Nikkei Asia": [
@@ -3991,7 +4017,7 @@
     ],
     "Travel & Tourism News Middle East": [
      0,
-     1,
+     2,
      0
     ],
     "Arabian Business": [
@@ -4020,6 +4046,16 @@
      0
     ],
     "Bernama": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Construction News": [
+     0,
+     1,
+     0
+    ],
+    "朝日新聞": [
      0,
      1,
      0
