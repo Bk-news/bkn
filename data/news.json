@@ -2165,6 +2165,26 @@
   "mt": true
  },
  {
+  "id": "96352c818dabf580",
+  "origin": "rss",
+  "source": "Reuters",
+  "author": "",
+  "title_ar": "Shots fired at Yangon anti-military protest",
+  "title_orig": "Shots fired at Yangon anti-military protest",
+  "title_en": "Shots fired at Yangon anti-military protest",
+  "summary_ar": [],
+  "summary_en": [],
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjaW5hb2tFQWhmSWJfTjVmM2w0bUh0Qmdqb0ptdm9va2pCWDlWMVJPek8tQUNOVk02ZVJmcjFiUDZ6WEpkUER3Vjk5Q0hYVDBkNHk5OWRwTWNsazlp?oc=5",
+  "published": "2026-11-03T18:22:42.000Z",
+  "subject": "saudi",
+  "tone": "neutral",
+  "topic": "",
+  "country": "GB",
+  "pending": true,
+  "desc": "Shots fired at Yangon anti-military protest &nbsp;&nbsp; Reuters",
+  "lang": "en"
+ },
+ {
   "id": "780cf75e8ec94920",
   "origin": "rss",
   "source": "Reuters",
@@ -10402,25 +10422,5 @@
   "desc": "Watch Hochstein: Markets Should Be Cognizant of Strike Risk &nbsp;&nbsp; Bloomberg.com",
   "lang": "en",
   "mt": true
- },
- {
-  "id": "c11d9b6e58a8522e",
-  "origin": "rss",
-  "source": "Institute for the Study of War",
-  "author": "",
-  "title_ar": "Houthi Strikes in Saudi Arabia, as of November 2, 2026 at 2:00 PM ET",
-  "title_orig": "Houthi Strikes in Saudi Arabia, as of November 2, 2026 at 2:00 PM ET",
-  "title_en": "Houthi Strikes in Saudi Arabia, as of November 2, 2026 at 2:00 PM ET",
-  "summary_ar": [],
-  "summary_en": [],
-  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV1BpNXRMcnZ6clZlT1JIdHNYakFWWHJUU2l2ZXpUUG0xWTBYS0hJdWJabkhYNnY4N0wzUFJyRlV2LVdOdDJRLTBpZ3FHb2FKSHdsUVpNaFBOTTJKUmlXWjBSS0JXYzd4dXhZZ0d4NkxQd0UwVm8tZ3JLV1R5RkFKUF9UTmZzQUtOd3NvRzF3RjRUbnc2ZFluMWEwQTRGaGpk?oc=5",
-  "published": "2026-11-03T08:16:37.000Z",
-  "subject": "saudi",
-  "tone": "neutral",
-  "topic": "",
-  "country": "",
-  "pending": true,
-  "desc": "Houthi Strikes in Saudi Arabia, as of November 2, 2026 at 2:00 PM ET &nbsp;&nbsp; Institute for the Study of War",
-  "lang": "en"
  }
 ]
