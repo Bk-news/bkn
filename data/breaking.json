@@ -1,5 +1,17 @@
 [
  {
+  "id": "91e0dc1e65d112d4",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "إعلام أميركي: توقعات بفوز الديمقراطيين بـ 244 مقعدا في مجلس النواب من 435",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152329",
+  "published": "2026-11-04T03:33:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-04T03:33:01.000Z"
+ },
+ {
   "id": "8d0eb018cbaf5a7d",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -214,17 +226,5 @@
   "published": "2026-11-04T02:35:01.000Z",
   "subject": "saudi",
   "added": "2026-11-04T02:35:01.000Z"
- },
- {
-  "id": "99f8110abc12f06b",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "نتائج أولية لانتخابات حكام الولايات: الديمقراطيون 14 والجمهوريون 10",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152310",
-  "published": "2026-11-04T02:34:01.000Z",
-  "subject": "saudi",
-  "added": "2026-11-04T02:34:01.000Z"
  }
 ]
