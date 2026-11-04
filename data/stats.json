@@ -2602,11 +2602,11 @@
    }
   },
   "2026-11-03": {
-   "total": 822,
-   "news": 804,
+   "total": 823,
+   "news": 805,
    "articles": 18,
    "positive": 0,
-   "neutral": 822,
+   "neutral": 823,
    "critical": 0,
    "mbs": 10,
    "countries": {
@@ -2787,7 +2787,8 @@
     "The Times of India": 1,
     "Addis Standard": 1,
     "Newsquawk": 1,
-    "شبكة تواصل الإخبارية": 1
+    "شبكة تواصل الإخبارية": 1,
+    "Blueprint Newspapers": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -3629,20 +3630,25 @@
      0,
      1,
      0
+    ],
+    "Blueprint Newspapers": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-04": {
-   "total": 25,
-   "news": 25,
+   "total": 26,
+   "news": 26,
    "articles": 0,
    "positive": 0,
-   "neutral": 25,
+   "neutral": 26,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "SA": 2,
-    "US": 9,
+    "US": 10,
     "GB": 4,
     "JP": 1
    },
@@ -3653,7 +3659,7 @@
     "Heavy.com": 1,
     "Al-Monitor": 6,
     "The Washington Post": 1,
-    "Bloomberg.com": 1,
+    "Bloomberg.com": 2,
     "Reuters": 4,
     "Nikkei Asia": 1,
     "WSJ": 1,
@@ -3693,7 +3699,7 @@
     ],
     "Bloomberg.com": [
      0,
-     1,
+     2,
      0
     ],
     "Reuters": [
