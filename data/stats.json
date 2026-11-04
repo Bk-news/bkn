@@ -1469,16 +1469,16 @@
    }
   },
   "2026-11-02": {
-   "total": 926,
-   "news": 920,
+   "total": 927,
+   "news": 921,
    "articles": 6,
    "positive": 0,
-   "neutral": 926,
+   "neutral": 927,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "GB": 270,
-    "US": 289,
+    "US": 290,
     "SA": 85,
     "HK": 4,
     "FR": 17,
@@ -1611,7 +1611,7 @@
     "Instagram": 1,
     "The Jerusalem Post": 2,
     "JFeed": 1,
-    "Bloomberg.com": 52,
+    "Bloomberg.com": 53,
     "Spiegel": 1,
     "Atlantic Council": 2,
     "Daily Times": 1,
@@ -2296,7 +2296,7 @@
     ],
     "Bloomberg.com": [
      0,
-     52,
+     53,
      0
     ],
     "Spiegel": [
