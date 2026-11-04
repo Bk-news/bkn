@@ -3663,17 +3663,17 @@
    }
   },
   "2026-11-04": {
-   "total": 401,
-   "news": 396,
+   "total": 404,
+   "news": 399,
    "articles": 5,
    "positive": 0,
-   "neutral": 401,
+   "neutral": 404,
    "critical": 0,
    "mbs": 12,
    "countries": {
     "SA": 39,
-    "US": 83,
-    "GB": 126,
+    "US": 84,
+    "GB": 127,
     "JP": 1,
     "FR": 3,
     "HK": 2
@@ -3686,7 +3686,7 @@
     "Al-Monitor": 26,
     "The Washington Post": 5,
     "Bloomberg.com": 21,
-    "Reuters": 82,
+    "Reuters": 83,
     "Nikkei Asia": 1,
     "WSJ": 11,
     "The Australian": 1,
@@ -3706,7 +3706,7 @@
     "A News": 1,
     "BBC": 11,
     "Financial Times": 13,
-    "AP News": 12,
+    "AP News": 13,
     "Saudi Gazette": 7,
     "TahawulTech.com": 1,
     "The National": 3,
@@ -3807,7 +3807,8 @@
     "SunStar Publishing Inc.": 1,
     "Al Arabiya English": 1,
     "Daryo": 1,
-    "وكالة الانباء العراقية (واع)": 1
+    "وكالة الانباء العراقية (واع)": 1,
+    "LinkedIn": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -3842,7 +3843,7 @@
     ],
     "Reuters": [
      0,
-     82,
+     83,
      0
     ],
     "Nikkei Asia": [
@@ -3942,7 +3943,7 @@
     ],
     "AP News": [
      0,
-     12,
+     13,
      0
     ],
     "Saudi Gazette": [
@@ -4446,6 +4447,11 @@
      0
     ],
     "وكالة الانباء العراقية (واع)": [
+     0,
+     1,
+     0
+    ],
+    "LinkedIn": [
      0,
      1,
      0
