@@ -1469,16 +1469,16 @@
    }
   },
   "2026-11-02": {
-   "total": 963,
-   "news": 956,
+   "total": 965,
+   "news": 958,
    "articles": 7,
    "positive": 0,
-   "neutral": 963,
+   "neutral": 965,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "GB": 288,
-    "US": 301,
+    "US": 303,
     "SA": 86,
     "HK": 6,
     "FR": 20,
@@ -1490,7 +1490,7 @@
     "Cageside Seats": 1,
     "The Guardian": 54,
     "Financial Times": 79,
-    "Al-Monitor": 34,
+    "Al-Monitor": 35,
     "AP News": 129,
     "Bloomberg": 20,
     "Mehr News Agency": 5,
@@ -1526,7 +1526,7 @@
     "Arabisk London": 1,
     "New Age BD": 1,
     "Agenda Pública": 1,
-    "The New York Times": 15,
+    "The New York Times": 16,
     "Ship & Bunker": 1,
     "ChemNet News": 1,
     "Saudi Gazette": 17,
@@ -1691,7 +1691,7 @@
     ],
     "Al-Monitor": [
      0,
-     34,
+     35,
      0
     ],
     "AP News": [
@@ -1871,7 +1871,7 @@
     ],
     "The New York Times": [
      0,
-     15,
+     16,
      0
     ],
     "Ship & Bunker": [
@@ -3663,17 +3663,17 @@
    }
   },
   "2026-11-04": {
-   "total": 382,
-   "news": 378,
-   "articles": 4,
+   "total": 385,
+   "news": 380,
+   "articles": 5,
    "positive": 0,
-   "neutral": 382,
+   "neutral": 385,
    "critical": 0,
    "mbs": 11,
    "countries": {
     "SA": 38,
-    "US": 79,
-    "GB": 119,
+    "US": 80,
+    "GB": 121,
     "JP": 1,
     "FR": 3,
     "HK": 2
@@ -3699,7 +3699,7 @@
     "ABC News - Breaking News, Latest News and Videos": 1,
     "LiveScore": 1,
     "France 24": 1,
-    "The Guardian": 16,
+    "The Guardian": 18,
     "Foreign Affairs": 1,
     "The New York Times": 5,
     "South China Morning Post": 2,
@@ -3757,7 +3757,7 @@
     "Instagram": 1,
     "سانا": 3,
     "Foreign Policy": 1,
-    "Atlantic Council": 1,
+    "Atlantic Council": 2,
     "The Economist": 1,
     "Charlotte Observer": 1,
     "MTV Lebanon": 1,
@@ -3902,7 +3902,7 @@
     ],
     "The Guardian": [
      0,
-     16,
+     18,
      0
     ],
     "Foreign Affairs": [
@@ -4192,7 +4192,7 @@
     ],
     "Atlantic Council": [
      0,
-     1,
+     2,
      0
     ],
     "The Economist": [
