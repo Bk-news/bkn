@@ -1469,19 +1469,19 @@
    }
   },
   "2026-11-02": {
-   "total": 928,
-   "news": 922,
+   "total": 932,
+   "news": 926,
    "articles": 6,
    "positive": 0,
-   "neutral": 928,
+   "neutral": 932,
    "critical": 0,
    "mbs": 20,
    "countries": {
-    "GB": 270,
-    "US": 291,
+    "GB": 271,
+    "US": 292,
     "SA": 85,
-    "HK": 4,
-    "FR": 17,
+    "HK": 5,
+    "FR": 18,
     "JP": 2,
     "DE": 1
    },
@@ -1489,7 +1489,7 @@
    "sources": {
     "Cageside Seats": 1,
     "The Guardian": 47,
-    "Financial Times": 76,
+    "Financial Times": 77,
     "Al-Monitor": 33,
     "AP News": 129,
     "Bloomberg": 19,
@@ -1497,7 +1497,7 @@
     "Arab News": 82,
     "The Washington Post": 4,
     "وكالة الأنباء السعودية": 2,
-    "WSJ": 38,
+    "WSJ": 39,
     "TNGlobal": 1,
     "Facebook": 2,
     "Breakingthenews.net": 3,
@@ -1530,9 +1530,9 @@
     "Ship & Bunker": 1,
     "ChemNet News": 1,
     "Saudi Gazette": 17,
-    "South China Morning Post": 4,
+    "South China Morning Post": 5,
     "Reuters": 138,
-    "France 24": 5,
+    "France 24": 6,
     "CNN": 1,
     "New Telegraph": 2,
     "Nikkei Asia": 2,
@@ -1686,7 +1686,7 @@
     ],
     "Financial Times": [
      0,
-     76,
+     77,
      0
     ],
     "Al-Monitor": [
@@ -1726,7 +1726,7 @@
     ],
     "WSJ": [
      0,
-     38,
+     39,
      0
     ],
     "TNGlobal": [
@@ -1891,7 +1891,7 @@
     ],
     "South China Morning Post": [
      0,
-     4,
+     5,
      0
     ],
     "Reuters": [
@@ -1901,7 +1901,7 @@
     ],
     "France 24": [
      0,
-     5,
+     6,
      0
     ],
     "CNN": [
@@ -2602,15 +2602,15 @@
    }
   },
   "2026-11-03": {
-   "total": 854,
-   "news": 836,
+   "total": 855,
+   "news": 837,
    "articles": 18,
    "positive": 0,
-   "neutral": 854,
+   "neutral": 855,
    "critical": 0,
    "mbs": 10,
    "countries": {
-    "US": 282,
+    "US": 283,
     "GB": 225,
     "HK": 6,
     "FR": 7,
@@ -2621,7 +2621,7 @@
    "topics": {},
    "sources": {
     "Asia News Network": 1,
-    "The Washington Post": 9,
+    "The Washington Post": 10,
     "WSJ": 45,
     "Financial Times": 47,
     "Al-Monitor": 41,
@@ -2802,7 +2802,7 @@
     ],
     "The Washington Post": [
      0,
-     9,
+     10,
      0
     ],
     "WSJ": [
