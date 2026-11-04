@@ -1469,28 +1469,28 @@
    }
   },
   "2026-11-02": {
-   "total": 952,
-   "news": 946,
+   "total": 956,
+   "news": 950,
    "articles": 6,
    "positive": 0,
-   "neutral": 952,
+   "neutral": 956,
    "critical": 0,
    "mbs": 20,
    "countries": {
-    "GB": 284,
-    "US": 298,
+    "GB": 286,
+    "US": 299,
     "SA": 85,
     "HK": 6,
     "FR": 18,
     "JP": 2,
-    "DE": 1
+    "DE": 2
    },
    "topics": {},
    "sources": {
     "Cageside Seats": 1,
     "The Guardian": 53,
     "Financial Times": 79,
-    "Al-Monitor": 33,
+    "Al-Monitor": 34,
     "AP News": 129,
     "Bloomberg": 20,
     "Mehr News Agency": 5,
@@ -1531,7 +1531,7 @@
     "ChemNet News": 1,
     "Saudi Gazette": 17,
     "South China Morning Post": 6,
-    "Reuters": 143,
+    "Reuters": 145,
     "France 24": 6,
     "CNN": 2,
     "New Telegraph": 2,
@@ -1612,7 +1612,7 @@
     "The Jerusalem Post": 2,
     "JFeed": 1,
     "Bloomberg.com": 55,
-    "Spiegel": 1,
+    "Spiegel": 2,
     "Atlantic Council": 2,
     "Daily Times": 1,
     "News of Bahrain": 7,
@@ -1691,7 +1691,7 @@
     ],
     "Al-Monitor": [
      0,
-     33,
+     34,
      0
     ],
     "AP News": [
@@ -1896,7 +1896,7 @@
     ],
     "Reuters": [
      0,
-     143,
+     145,
      0
     ],
     "France 24": [
@@ -2301,7 +2301,7 @@
     ],
     "Spiegel": [
      0,
-     1,
+     2,
      0
     ],
     "Atlantic Council": [
@@ -2602,15 +2602,15 @@
    }
   },
   "2026-11-03": {
-   "total": 891,
-   "news": 873,
+   "total": 892,
+   "news": 874,
    "articles": 18,
    "positive": 0,
-   "neutral": 891,
+   "neutral": 892,
    "critical": 0,
    "mbs": 10,
    "countries": {
-    "US": 286,
+    "US": 287,
     "GB": 255,
     "HK": 6,
     "FR": 8,
@@ -2626,7 +2626,7 @@
     "Financial Times": 49,
     "Al-Monitor": 43,
     "Reuters": 153,
-    "Bloomberg.com": 63,
+    "Bloomberg.com": 64,
     "חרדים10": 1,
     "BBC": 22,
     "The Guardian": 33,
@@ -2827,7 +2827,7 @@
     ],
     "Bloomberg.com": [
      0,
-     63,
+     64,
      0
     ],
     "חרדים10": [
