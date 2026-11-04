@@ -1469,17 +1469,17 @@
    }
   },
   "2026-11-02": {
-   "total": 916,
-   "news": 910,
+   "total": 920,
+   "news": 914,
    "articles": 6,
    "positive": 0,
-   "neutral": 916,
+   "neutral": 920,
    "critical": 0,
    "mbs": 20,
    "countries": {
-    "GB": 262,
+    "GB": 265,
     "US": 288,
-    "SA": 84,
+    "SA": 85,
     "HK": 4,
     "FR": 17,
     "JP": 2,
@@ -1488,13 +1488,13 @@
    "topics": {},
    "sources": {
     "Cageside Seats": 1,
-    "The Guardian": 44,
-    "Financial Times": 75,
+    "The Guardian": 46,
+    "Financial Times": 76,
     "Al-Monitor": 33,
     "AP News": 129,
     "Bloomberg": 19,
     "Mehr News Agency": 5,
-    "Arab News": 81,
+    "Arab News": 82,
     "The Washington Post": 4,
     "وكالة الأنباء السعودية": 2,
     "WSJ": 37,
@@ -1681,12 +1681,12 @@
     ],
     "The Guardian": [
      0,
-     44,
+     46,
      0
     ],
     "Financial Times": [
      0,
-     75,
+     76,
      0
     ],
     "Al-Monitor": [
@@ -1711,7 +1711,7 @@
     ],
     "Arab News": [
      0,
-     81,
+     82,
      0
     ],
     "The Washington Post": [
@@ -2602,19 +2602,19 @@
    }
   },
   "2026-11-03": {
-   "total": 832,
-   "news": 814,
+   "total": 835,
+   "news": 817,
    "articles": 18,
    "positive": 0,
-   "neutral": 832,
+   "neutral": 835,
    "critical": 0,
    "mbs": 10,
    "countries": {
-    "US": 279,
-    "GB": 216,
+    "US": 280,
+    "GB": 217,
     "HK": 6,
     "FR": 7,
-    "SA": 85,
+    "SA": 86,
     "JP": 4,
     "DE": 3
    },
@@ -2622,13 +2622,13 @@
    "sources": {
     "Asia News Network": 1,
     "The Washington Post": 9,
-    "WSJ": 44,
+    "WSJ": 45,
     "Financial Times": 47,
     "Al-Monitor": 41,
     "Reuters": 120,
     "Bloomberg.com": 61,
     "חרדים10": 1,
-    "BBC": 20,
+    "BBC": 21,
     "The Guardian": 31,
     "South China Morning Post": 6,
     "Hindustan Times": 3,
@@ -2652,7 +2652,7 @@
     "Le Monde.fr": 1,
     "Access Partnership": 1,
     "The New York Times": 11,
-    "Arab News": 80,
+    "Arab News": 81,
     "Foreign Affairs": 3,
     "Nikkei Asia": 4,
     "Spiegel": 3,
@@ -2803,7 +2803,7 @@
     ],
     "WSJ": [
      0,
-     44,
+     45,
      0
     ],
     "Financial Times": [
@@ -2833,7 +2833,7 @@
     ],
     "BBC": [
      0,
-     20,
+     21,
      0
     ],
     "The Guardian": [
@@ -2953,7 +2953,7 @@
     ],
     "Arab News": [
      0,
-     80,
+     81,
      0
     ],
     "Foreign Affairs": [
@@ -3639,17 +3639,17 @@
    }
   },
   "2026-11-04": {
-   "total": 67,
-   "news": 66,
+   "total": 100,
+   "news": 99,
    "articles": 1,
    "positive": 0,
-   "neutral": 67,
+   "neutral": 100,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "SA": 6,
-    "US": 26,
-    "GB": 17,
+    "SA": 9,
+    "US": 30,
+    "GB": 33,
     "JP": 1,
     "FR": 1,
     "HK": 2
@@ -3657,12 +3657,12 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 1,
-    "Arab News": 5,
+    "Arab News": 9,
     "Heavy.com": 1,
     "Al-Monitor": 10,
     "The Washington Post": 2,
-    "Bloomberg.com": 6,
-    "Reuters": 8,
+    "Bloomberg.com": 10,
+    "Reuters": 17,
     "Nikkei Asia": 1,
     "WSJ": 4,
     "The Australian": 1,
@@ -3675,17 +3675,23 @@
     "ABC News - Breaking News, Latest News and Videos": 1,
     "LiveScore": 1,
     "France 24": 1,
-    "The Guardian": 3,
+    "The Guardian": 5,
     "Foreign Affairs": 1,
     "The New York Times": 1,
     "South China Morning Post": 2,
     "A News": 1,
-    "BBC": 3,
-    "Financial Times": 3,
-    "AP News": 2,
+    "BBC": 6,
+    "Financial Times": 5,
+    "AP News": 3,
     "Saudi Gazette": 1,
     "TahawulTech.com": 1,
-    "The National": 1
+    "The National": 1,
+    "Anadolu Ajansı": 1,
+    "Arab News PK": 1,
+    "UA.NEWS": 1,
+    "ASHARQ AL-AWSAT English": 3,
+    "The Quint": 1,
+    "The Indian Express": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -3695,7 +3701,7 @@
     ],
     "Arab News": [
      0,
-     5,
+     9,
      0
     ],
     "Heavy.com": [
@@ -3715,12 +3721,12 @@
     ],
     "Bloomberg.com": [
      0,
-     6,
+     10,
      0
     ],
     "Reuters": [
      0,
-     8,
+     17,
      0
     ],
     "Nikkei Asia": [
@@ -3785,7 +3791,7 @@
     ],
     "The Guardian": [
      0,
-     3,
+     5,
      0
     ],
     "Foreign Affairs": [
@@ -3810,17 +3816,17 @@
     ],
     "BBC": [
      0,
-     3,
+     6,
      0
     ],
     "Financial Times": [
      0,
-     3,
+     5,
      0
     ],
     "AP News": [
      0,
-     2,
+     3,
      0
     ],
     "Saudi Gazette": [
@@ -3834,6 +3840,36 @@
      0
     ],
     "The National": [
+     0,
+     1,
+     0
+    ],
+    "Anadolu Ajansı": [
+     0,
+     1,
+     0
+    ],
+    "Arab News PK": [
+     0,
+     1,
+     0
+    ],
+    "UA.NEWS": [
+     0,
+     1,
+     0
+    ],
+    "ASHARQ AL-AWSAT English": [
+     0,
+     3,
+     0
+    ],
+    "The Quint": [
+     0,
+     1,
+     0
+    ],
+    "The Indian Express": [
      0,
      1,
      0
