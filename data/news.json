@@ -1,5 +1,25 @@
 [
  {
+  "id": "4742d0a5036f7950",
+  "origin": "rss",
+  "source": "WSJ",
+  "author": "",
+  "title_ar": "Apple Can be an Expensive AI Safe Haven",
+  "title_orig": "Apple Can be an Expensive AI Safe Haven",
+  "title_en": "Apple Can be an Expensive AI Safe Haven",
+  "summary_ar": [],
+  "summary_en": [],
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYW9hV0laUnRsWV9pbEhCbjVwdFlvUjhyd0Z0YTRjSkZTcVRyNWU0S19hMENCaUpPZ1FrXzRpZEtIQ015OGVuVzBrQ0N5LXpBSDhZTC1FZG5hVjJMOFRmYlQ2bnFnenZzTFVJM21GZ0tOWVk5b3l4MkF4eXlCS1FiNE9vWUtvNjZ4UWFCUlRZOA?oc=5",
+  "published": "2026-11-04T11:26:00.000Z",
+  "subject": "saudi",
+  "tone": "neutral",
+  "topic": "",
+  "country": "US",
+  "pending": true,
+  "desc": "Apple Can be an Expensive AI Safe Haven &nbsp;&nbsp; WSJ",
+  "lang": "en"
+ },
+ {
   "id": "335f7fe8ead1453e",
   "origin": "rss",
   "source": "Arabian Business",
@@ -10471,27 +10491,6 @@
   "country": "US",
   "pending": true,
   "desc": "Arnold Palmer junior golf tour with tournaments across the country to launch in January &nbsp;&nbsp; AP News",
-  "lang": "en",
-  "mt": true
- },
- {
-  "id": "24d118f7c5816a48",
-  "origin": "rss",
-  "source": "AP News",
-  "author": "",
-  "title_ar": "يقول مسؤول إن المملكة المتحدة ستواجه هجمات إلكترونية تعتمد على الذكاء الاصطناعي على البنية التحتية الحيوية بحلول عام 2028",
-  "title_orig": "UK will face AI cyberattacks on critical infrastructure by 2028, official says",
-  "title_en": "UK will face AI cyberattacks on critical infrastructure by 2028, official says",
-  "summary_ar": [],
-  "summary_en": [],
-  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaGx3eWwwYzBFUHZMcktMZFJxU1JEclEyZnZNTDVRNkg3c1dQeEY1WUItTTFhN3ZXZE00dm43MGgxbTR4SU1MZm9KOGpTLUxjTThXX0V1X0N3YXZmVW1BMjVwNnJ1VmY3dTFKaTc3dEZtREN3WDhYWm82UndfWEZnR3BiU0hsN2gweENzRGJxcWVmWnkwMFV2cWsycVQzbU9pNk13R1VWNVM2cWotd25maDdEZldfeF9TRkw5aQ?oc=5",
-  "published": "2026-11-03T13:33:00.000Z",
-  "subject": "saudi",
-  "tone": "neutral",
-  "topic": "",
-  "country": "US",
-  "pending": true,
-  "desc": "UK will face AI cyberattacks on critical infrastructure by 2028, official says &nbsp;&nbsp; AP News",
   "lang": "en",
   "mt": true
  }
