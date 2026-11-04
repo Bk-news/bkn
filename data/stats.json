@@ -1469,15 +1469,15 @@
    }
   },
   "2026-11-02": {
-   "total": 968,
-   "news": 961,
+   "total": 969,
+   "news": 962,
    "articles": 7,
    "positive": 0,
-   "neutral": 968,
+   "neutral": 969,
    "critical": 0,
    "mbs": 20,
    "countries": {
-    "GB": 289,
+    "GB": 290,
     "US": 304,
     "SA": 87,
     "HK": 6,
@@ -1536,7 +1536,7 @@
     "CNN": 2,
     "New Telegraph": 2,
     "Nikkei Asia": 2,
-    "BBC": 8,
+    "BBC": 9,
     "Le Monde.fr": 13,
     "The Economist": 3,
     "The Media Line": 1,
@@ -1921,7 +1921,7 @@
     ],
     "BBC": [
      0,
-     8,
+     9,
      0
     ],
     "Le Monde.fr": [
