@@ -1469,18 +1469,18 @@
    }
   },
   "2026-11-02": {
-   "total": 932,
-   "news": 926,
+   "total": 934,
+   "news": 928,
    "articles": 6,
    "positive": 0,
-   "neutral": 932,
+   "neutral": 934,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "GB": 271,
-    "US": 292,
+    "US": 293,
     "SA": 85,
-    "HK": 5,
+    "HK": 6,
     "FR": 18,
     "JP": 2,
     "DE": 1
@@ -1492,7 +1492,7 @@
     "Financial Times": 77,
     "Al-Monitor": 33,
     "AP News": 129,
-    "Bloomberg": 19,
+    "Bloomberg": 20,
     "Mehr News Agency": 5,
     "Arab News": 82,
     "The Washington Post": 4,
@@ -1530,7 +1530,7 @@
     "Ship & Bunker": 1,
     "ChemNet News": 1,
     "Saudi Gazette": 17,
-    "South China Morning Post": 5,
+    "South China Morning Post": 6,
     "Reuters": 138,
     "France 24": 6,
     "CNN": 1,
@@ -1701,7 +1701,7 @@
     ],
     "Bloomberg": [
      0,
-     19,
+     20,
      0
     ],
     "Mehr News Agency": [
@@ -1891,7 +1891,7 @@
     ],
     "South China Morning Post": [
      0,
-     5,
+     6,
      0
     ],
     "Reuters": [
@@ -3663,17 +3663,17 @@
    }
   },
   "2026-11-04": {
-   "total": 159,
-   "news": 158,
+   "total": 161,
+   "news": 160,
    "articles": 1,
    "positive": 0,
-   "neutral": 159,
+   "neutral": 161,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 15,
-    "US": 31,
-    "GB": 49,
+    "US": 32,
+    "GB": 50,
     "JP": 1,
     "FR": 1,
     "HK": 2
@@ -3685,7 +3685,7 @@
     "Heavy.com": 1,
     "Al-Monitor": 10,
     "The Washington Post": 2,
-    "Bloomberg.com": 11,
+    "Bloomberg.com": 12,
     "Reuters": 31,
     "Nikkei Asia": 1,
     "WSJ": 4,
@@ -3699,7 +3699,7 @@
     "ABC News - Breaking News, Latest News and Videos": 1,
     "LiveScore": 1,
     "France 24": 1,
-    "The Guardian": 5,
+    "The Guardian": 6,
     "Foreign Affairs": 1,
     "The New York Times": 1,
     "South China Morning Post": 2,
@@ -3774,7 +3774,7 @@
     ],
     "Bloomberg.com": [
      0,
-     11,
+     12,
      0
     ],
     "Reuters": [
@@ -3844,7 +3844,7 @@
     ],
     "The Guardian": [
      0,
-     5,
+     6,
      0
     ],
     "Foreign Affairs": [
