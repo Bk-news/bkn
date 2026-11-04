@@ -1,5 +1,17 @@
 [
  {
+  "id": "a0624fca9017acee",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "نتائج أولية: الديمقراطي تالاريكو يفوز بمقعد مجلس الشيوخ عن ولاية تكساس",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152325",
+  "published": "2026-11-04T03:19:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-04T03:19:01.000Z"
+ },
+ {
   "id": "d974811294e59be8",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -226,17 +238,5 @@
   "published": "2026-11-04T02:24:02.000Z",
   "subject": "saudi",
   "added": "2026-11-04T02:24:02.000Z"
- },
- {
-  "id": "740f688d57f6ae7e",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "رويترز: منصة ديسيشن ديسك تتوقع فوز الديمقراطيين بالأغلبية في مجلس النواب الأميركي",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152305",
-  "published": "2026-11-04T02:20:01.000Z",
-  "subject": "saudi",
-  "added": "2026-11-04T02:20:01.000Z"
  }
 ]
