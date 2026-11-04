@@ -1469,16 +1469,16 @@
    }
   },
   "2026-11-02": {
-   "total": 962,
-   "news": 955,
+   "total": 963,
+   "news": 956,
    "articles": 7,
    "positive": 0,
-   "neutral": 962,
+   "neutral": 963,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "GB": 288,
-    "US": 300,
+    "US": 301,
     "SA": 86,
     "HK": 6,
     "FR": 20,
@@ -1611,7 +1611,7 @@
     "Instagram": 1,
     "The Jerusalem Post": 2,
     "JFeed": 1,
-    "Bloomberg.com": 55,
+    "Bloomberg.com": 56,
     "Spiegel": 2,
     "Atlantic Council": 3,
     "Daily Times": 1,
@@ -2296,7 +2296,7 @@
     ],
     "Bloomberg.com": [
      0,
-     55,
+     56,
      0
     ],
     "Spiegel": [
@@ -3663,17 +3663,17 @@
    }
   },
   "2026-11-04": {
-   "total": 380,
-   "news": 376,
+   "total": 382,
+   "news": 378,
    "articles": 4,
    "positive": 0,
-   "neutral": 380,
+   "neutral": 382,
    "critical": 0,
    "mbs": 11,
    "countries": {
     "SA": 38,
-    "US": 78,
-    "GB": 118,
+    "US": 79,
+    "GB": 119,
     "JP": 1,
     "FR": 3,
     "HK": 2
@@ -3683,10 +3683,10 @@
     "Arabian Gulf Business Insight | AGBI": 2,
     "Arab News": 42,
     "Heavy.com": 1,
-    "Al-Monitor": 22,
+    "Al-Monitor": 23,
     "The Washington Post": 5,
     "Bloomberg.com": 21,
-    "Reuters": 77,
+    "Reuters": 78,
     "Nikkei Asia": 1,
     "WSJ": 11,
     "The Australian": 1,
@@ -3822,7 +3822,7 @@
     ],
     "Al-Monitor": [
      0,
-     22,
+     23,
      0
     ],
     "The Washington Post": [
@@ -3837,7 +3837,7 @@
     ],
     "Reuters": [
      0,
-     77,
+     78,
      0
     ],
     "Nikkei Asia": [
