@@ -1469,15 +1469,15 @@
    }
   },
   "2026-11-02": {
-   "total": 943,
-   "news": 937,
+   "total": 944,
+   "news": 938,
    "articles": 6,
    "positive": 0,
-   "neutral": 943,
+   "neutral": 944,
    "critical": 0,
    "mbs": 20,
    "countries": {
-    "GB": 278,
+    "GB": 279,
     "US": 295,
     "SA": 85,
     "HK": 6,
@@ -1488,7 +1488,7 @@
    "topics": {},
    "sources": {
     "Cageside Seats": 1,
-    "The Guardian": 50,
+    "The Guardian": 51,
     "Financial Times": 79,
     "Al-Monitor": 33,
     "AP News": 129,
@@ -1681,7 +1681,7 @@
     ],
     "The Guardian": [
      0,
-     50,
+     51,
      0
     ],
     "Financial Times": [
@@ -3663,11 +3663,11 @@
    }
   },
   "2026-11-04": {
-   "total": 183,
-   "news": 182,
+   "total": 184,
+   "news": 183,
    "articles": 1,
    "positive": 0,
-   "neutral": 183,
+   "neutral": 184,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -3735,7 +3735,7 @@
     "Dubai Eye 103.8": 1,
     "Dawn": 1,
     "Travel & Tourism News Middle East": 2,
-    "Arabian Business": 1,
+    "Arabian Business": 2,
     "Jordan News": 1,
     "chinadailyhk": 1,
     "INDiplomacy": 1,
@@ -4031,7 +4031,7 @@
     ],
     "Arabian Business": [
      0,
-     1,
+     2,
      0
     ],
     "Jordan News": [
