@@ -1,5 +1,17 @@
 [
  {
+  "id": "611c6cf9250a2a48",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "ترمب عن تقدم الديمقراطيين في الانتخابات: لم يكن اسمي في بطاقة الاقتراع",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152332",
+  "published": "2026-11-04T03:41:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-04T03:41:01.000Z"
+ },
+ {
   "id": "99d1db6ebc4ecb57",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -214,17 +226,5 @@
   "published": "2026-11-04T02:51:02.000Z",
   "subject": "saudi",
   "added": "2026-11-04T02:51:02.000Z"
- },
- {
-  "id": "6f5332b308536908",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "نتائج أولية لانتخابات مجلس النواب: 3 مقاعد تحولت من جمهورية إلى ديمقراطية حتى الآن",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152313",
-  "published": "2026-11-04T02:42:01.000Z",
-  "subject": "saudi",
-  "added": "2026-11-04T02:42:01.000Z"
  }
 ]
