@@ -2602,16 +2602,16 @@
    }
   },
   "2026-11-03": {
-   "total": 893,
-   "news": 875,
+   "total": 894,
+   "news": 876,
    "articles": 18,
    "positive": 0,
-   "neutral": 893,
+   "neutral": 894,
    "critical": 0,
    "mbs": 10,
    "countries": {
     "US": 287,
-    "GB": 256,
+    "GB": 257,
     "HK": 6,
     "FR": 8,
     "SA": 91,
@@ -2625,7 +2625,7 @@
     "WSJ": 45,
     "Financial Times": 49,
     "Al-Monitor": 43,
-    "Reuters": 154,
+    "Reuters": 155,
     "Bloomberg.com": 64,
     "חרדים10": 1,
     "BBC": 22,
@@ -2822,7 +2822,7 @@
     ],
     "Reuters": [
      0,
-     154,
+     155,
      0
     ],
     "Bloomberg.com": [
