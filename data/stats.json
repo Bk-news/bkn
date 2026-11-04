@@ -3633,11 +3633,11 @@
    }
   },
   "2026-11-04": {
-   "total": 21,
-   "news": 21,
+   "total": 24,
+   "news": 24,
    "articles": 0,
    "positive": 0,
-   "neutral": 21,
+   "neutral": 24,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -3660,7 +3660,10 @@
     "The Australian": 1,
     "Middle East Eye": 1,
     "Asia News Network": 1,
-    "www.theatlasnews.com": 1
+    "www.theatlasnews.com": 1,
+    "Gulf News": 1,
+    "매일경제": 1,
+    "The Daily Star": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -3724,6 +3727,21 @@
      0
     ],
     "www.theatlasnews.com": [
+     0,
+     1,
+     0
+    ],
+    "Gulf News": [
+     0,
+     1,
+     0
+    ],
+    "매일경제": [
+     0,
+     1,
+     0
+    ],
+    "The Daily Star": [
      0,
      1,
      0
