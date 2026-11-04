@@ -1469,16 +1469,16 @@
    }
   },
   "2026-11-02": {
-   "total": 969,
-   "news": 962,
+   "total": 970,
+   "news": 963,
    "articles": 7,
    "positive": 0,
-   "neutral": 969,
+   "neutral": 970,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "GB": 290,
-    "US": 304,
+    "US": 305,
     "SA": 87,
     "HK": 6,
     "FR": 20,
@@ -1490,7 +1490,7 @@
     "Cageside Seats": 1,
     "The Guardian": 55,
     "Financial Times": 79,
-    "Al-Monitor": 36,
+    "Al-Monitor": 37,
     "AP News": 129,
     "Bloomberg": 20,
     "Mehr News Agency": 5,
@@ -1691,7 +1691,7 @@
     ],
     "Al-Monitor": [
      0,
-     36,
+     37,
      0
     ],
     "AP News": [
@@ -2602,19 +2602,19 @@
    }
   },
   "2026-11-03": {
-   "total": 898,
-   "news": 880,
+   "total": 912,
+   "news": 894,
    "articles": 18,
    "positive": 0,
-   "neutral": 898,
+   "neutral": 912,
    "critical": 0,
    "mbs": 10,
    "countries": {
     "US": 290,
-    "GB": 257,
+    "GB": 270,
     "HK": 6,
     "FR": 9,
-    "SA": 91,
+    "SA": 92,
     "JP": 4,
     "DE": 3
    },
@@ -2623,9 +2623,9 @@
     "Asia News Network": 1,
     "The Washington Post": 10,
     "WSJ": 45,
-    "Financial Times": 49,
+    "Financial Times": 51,
     "Al-Monitor": 43,
-    "Reuters": 155,
+    "Reuters": 166,
     "Bloomberg.com": 67,
     "חרדים10": 1,
     "BBC": 22,
@@ -2652,7 +2652,7 @@
     "Le Monde.fr": 3,
     "Access Partnership": 1,
     "The New York Times": 11,
-    "Arab News": 85,
+    "Arab News": 86,
     "Foreign Affairs": 3,
     "Nikkei Asia": 4,
     "Spiegel": 3,
@@ -2812,7 +2812,7 @@
     ],
     "Financial Times": [
      0,
-     49,
+     51,
      0
     ],
     "Al-Monitor": [
@@ -2822,7 +2822,7 @@
     ],
     "Reuters": [
      0,
-     155,
+     166,
      0
     ],
     "Bloomberg.com": [
@@ -2957,7 +2957,7 @@
     ],
     "Arab News": [
      0,
-     85,
+     86,
      0
     ],
     "Foreign Affairs": [
@@ -3663,17 +3663,17 @@
    }
   },
   "2026-11-04": {
-   "total": 484,
-   "news": 476,
+   "total": 509,
+   "news": 501,
    "articles": 8,
    "positive": 0,
-   "neutral": 484,
+   "neutral": 509,
    "critical": 0,
-   "mbs": 17,
+   "mbs": 19,
    "countries": {
     "SA": 48,
-    "US": 110,
-    "GB": 154,
+    "US": 111,
+    "GB": 165,
     "JP": 1,
     "FR": 5,
     "HK": 2,
@@ -3682,14 +3682,14 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Arab News": 51,
+    "Arab News": 54,
     "Heavy.com": 1,
     "Al-Monitor": 35,
     "The Washington Post": 5,
     "Bloomberg.com": 23,
-    "Reuters": 92,
+    "Reuters": 104,
     "Nikkei Asia": 1,
-    "WSJ": 15,
+    "WSJ": 16,
     "The Australian": 1,
     "Middle East Eye": 1,
     "Asia News Network": 1,
@@ -3697,7 +3697,7 @@
     "Gulf News": 1,
     "매일경제": 1,
     "The Daily Star": 1,
-    "ABC News - Breaking News, Latest News and Videos": 1,
+    "ABC News - Breaking News, Latest News and Videos": 2,
     "LiveScore": 1,
     "France 24": 3,
     "The Guardian": 22,
@@ -3708,9 +3708,9 @@
     "BBC": 15,
     "Financial Times": 23,
     "AP News": 16,
-    "Saudi Gazette": 8,
+    "Saudi Gazette": 9,
     "TahawulTech.com": 1,
-    "The National": 3,
+    "The National": 4,
     "Anadolu Ajansı": 4,
     "Arab News PK": 3,
     "UA.NEWS": 1,
@@ -3756,7 +3756,7 @@
     "MUFG Research": 1,
     "Daily Times": 1,
     "Instagram": 1,
-    "سانا": 3,
+    "سانا": 4,
     "Foreign Policy": 2,
     "Atlantic Council": 3,
     "The Economist": 2,
@@ -3792,7 +3792,7 @@
     "Computer Weekly": 1,
     "Condé Nast Traveller Middle East": 2,
     "Mehr News Agency": 1,
-    "Goal.com": 1,
+    "Goal.com": 2,
     "https://houseofsaud.com/": 1,
     "European External Action Service (EEAS)": 1,
     "Investment Monitor": 1,
@@ -3817,7 +3817,11 @@
     "Fana News -": 1,
     "Fightful": 2,
     "Al-Bawaba": 1,
-    "Punch Newspapers": 1
+    "Punch Newspapers": 1,
+    "Yahoo": 1,
+    "SeafoodSource": 1,
+    "صحيفة سبق الإلكترونية": 1,
+    "Trend News Agency": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -3827,7 +3831,7 @@
     ],
     "Arab News": [
      0,
-     51,
+     54,
      0
     ],
     "Heavy.com": [
@@ -3852,7 +3856,7 @@
     ],
     "Reuters": [
      0,
-     92,
+     104,
      0
     ],
     "Nikkei Asia": [
@@ -3862,7 +3866,7 @@
     ],
     "WSJ": [
      0,
-     15,
+     16,
      0
     ],
     "The Australian": [
@@ -3902,7 +3906,7 @@
     ],
     "ABC News - Breaking News, Latest News and Videos": [
      0,
-     1,
+     2,
      0
     ],
     "LiveScore": [
@@ -3957,7 +3961,7 @@
     ],
     "Saudi Gazette": [
      0,
-     8,
+     9,
      0
     ],
     "TahawulTech.com": [
@@ -3967,7 +3971,7 @@
     ],
     "The National": [
      0,
-     3,
+     4,
      0
     ],
     "Anadolu Ajansı": [
@@ -4197,7 +4201,7 @@
     ],
     "سانا": [
      0,
-     3,
+     4,
      0
     ],
     "Foreign Policy": [
@@ -4377,7 +4381,7 @@
     ],
     "Goal.com": [
      0,
-     1,
+     2,
      0
     ],
     "https://houseofsaud.com/": [
@@ -4501,6 +4505,26 @@
      0
     ],
     "Punch Newspapers": [
+     0,
+     1,
+     0
+    ],
+    "Yahoo": [
+     0,
+     1,
+     0
+    ],
+    "SeafoodSource": [
+     0,
+     1,
+     0
+    ],
+    "صحيفة سبق الإلكترونية": [
+     0,
+     1,
+     0
+    ],
+    "Trend News Agency": [
      0,
      1,
      0
