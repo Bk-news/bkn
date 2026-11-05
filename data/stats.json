@@ -4556,18 +4556,18 @@
    }
   },
   "2026-11-05": {
-   "total": 457,
-   "news": 435,
+   "total": 458,
+   "news": 436,
    "articles": 22,
    "positive": 0,
-   "neutral": 457,
+   "neutral": 458,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "SA": 47,
     "US": 124,
     "GB": 106,
-    "HK": 5,
+    "HK": 6,
     "FR": 8,
     "DE": 1,
     "JP": 1
@@ -4582,7 +4582,7 @@
     "Al-Monitor": 33,
     "Reuters": 41,
     "WSJ": 26,
-    "South China Morning Post": 5,
+    "South China Morning Post": 6,
     "Myanmar International TV": 1,
     "AP News": 15,
     "The New York Times": 21,
@@ -4742,7 +4742,7 @@
     ],
     "South China Morning Post": [
      0,
-     5,
+     6,
      0
     ],
     "Myanmar International TV": [
