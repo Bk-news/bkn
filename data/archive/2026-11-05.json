@@ -2,6 +2,26 @@
  "day": "2026-11-05",
  "items": [
   {
+   "id": "2771a32d0dac4920",
+   "origin": "rss",
+   "source": "Yemen Online",
+   "author": "",
+   "title_ar": "Saudi Arabia Says It Intercepted Houthi Missile Fired Toward Medina",
+   "title_orig": "Saudi Arabia Says It Intercepted Houthi Missile Fired Toward Medina",
+   "title_en": "Saudi Arabia Says It Intercepted Houthi Missile Fired Toward Medina",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1WmJHT053NFpwWjg0bGZQMDNIR3poVXZhVTlHZlpiWjZoV21BdGZ6NWphR0E2ZC00UFZEYnB1QURSWjNrNGdNSkN6Wk1FaF9yVEE?oc=5",
+   "published": "2026-11-05T12:22:41.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "",
+   "pending": true,
+   "desc": "Saudi Arabia Says It Intercepted Houthi Missile Fired Toward Medina &nbsp;&nbsp; Yemen Online",
+   "lang": "en"
+  },
+  {
    "id": "bb848e03b12313d3",
    "origin": "rss",
    "source": "Al-Monitor",
@@ -39,6 +59,26 @@
    "country": "GB",
    "pending": true,
    "desc": "Andy Burnham’s offer to discuss formal apology over slavery calms reparations tensions &nbsp;&nbsp; Financial Times",
+   "lang": "en"
+  },
+  {
+   "id": "cc5f664f488968d3",
+   "origin": "rss",
+   "source": "Condé Nast Traveller Middle East",
+   "author": "",
+   "title_ar": "Is it safe to travel to Saudi Arabia? Latest advice as Houthis claim fresh airport attacks",
+   "title_orig": "Is it safe to travel to Saudi Arabia? Latest advice as Houthis claim fresh airport attacks",
+   "title_en": "Is it safe to travel to Saudi Arabia? Latest advice as Houthis claim fresh airport attacks",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZHdaU0ZUeVc3YXU0Qk8wQ3AzUlhzUkZGX296WG52VEFnVjRwUkt4SFZWZWx6TEFiaVVjYmZuY1UxUDdvY1dFM0tJTkNXZElpMVNGblVDQTFQTnJKVHNtOEEtWmJWN3RhMWNJaGtrZ29tXy1SQW9OcHEyb3ZQczlBb0l4bXVBX3BhQ0FQekZRQW1BVHhRWl9PRVB6M0JvZm1CYUZTVUpsNW53QnVJQTZjdW5ZOWlkaVRKdktuOHFWc1JBLUk?oc=5",
+   "published": "2026-11-05T12:19:20.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "",
+   "pending": true,
+   "desc": "Is it safe to travel to Saudi Arabia? Latest advice as Houthis claim fresh airport attacks &nbsp;&nbsp; Condé Nast Traveller Middle East",
    "lang": "en"
   },
   {

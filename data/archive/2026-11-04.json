@@ -1343,6 +1343,26 @@
    "mt": true
   },
   {
+   "id": "410de01bfc852f9f",
+   "origin": "rss",
+   "source": "Reuters",
+   "author": "",
+   "title_ar": "Blue wave crashes through US state government races",
+   "title_orig": "Blue wave crashes through US state government races",
+   "title_en": "Blue wave crashes through US state government races",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORUt3b090T0plaEpHZUxPd0hQUVBSdzdldUFOVThGd3dYeE5hYlBUZFhKTS1HNkJLRU1rOHlqRjhlOTJTUkRKdWVuVTZKRW1ONk5rUTJ5UVRzRkgzVXVzMFZNdlFEYzJ0dU9MWG1ZSFd2b21DLW1JZ2VxWWZWTnZURTJNZnZtenN2cXp2aTBKZ2ZrTlAtQlEwWnJzcHY?oc=5",
+   "published": "2026-11-04T20:45:43.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "Blue wave crashes through US state government races &nbsp;&nbsp; Reuters",
+   "lang": "en"
+  },
+  {
    "id": "7000e279b5074b05",
    "origin": "rss",
    "source": "Al Arabiya English",
@@ -4510,6 +4530,26 @@
    "desc": "Red Cross delivers essential medical supplies to Yemen's besieged Taiz city &nbsp;&nbsp; Al-Monitor",
    "lang": "en",
    "mt": true
+  },
+  {
+   "id": "22cc86d250438ba5",
+   "origin": "rss",
+   "source": "Reuters",
+   "author": "",
+   "title_ar": "India says PepsiCo, Monster marketed with 'energy drink' label to dupe consumers",
+   "title_orig": "India says PepsiCo, Monster marketed with 'energy drink' label to dupe consumers",
+   "title_en": "India says PepsiCo, Monster marketed with 'energy drink' label to dupe consumers",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUDhDUE4wNmt4SlJOXzNpSzZRdUZmaGsxM09sUFdndVZJbUxSaXhiRFpubE9tNWtURmZISGdneEdxaWk5a2hjREQyTVlNd0x1Q0ZXTXZMVmZrMjNzem5Pc3RycWpWNHNweDVvSWZEaU9qV1YtdEVQbm9UUEctNm5RNVVLaldmNF9fLUwteEdFTXZwYVoybFhzY254RGpsMS1fMHNQZExWd2tNS1JsZUdSTkF0azZLYmljSVJ4MXBoQQ?oc=5",
+   "published": "2026-11-04T15:46:26.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "India says PepsiCo, Monster marketed with 'energy drink' label to dupe consumers &nbsp;&nbsp; Reuters",
+   "lang": "en"
   },
   {
    "id": "77674df25b0eb622",

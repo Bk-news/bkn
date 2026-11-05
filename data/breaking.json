@@ -1,5 +1,17 @@
 [
  {
+  "id": "1247a5b898be2275",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "الجيش اللبناني: محاولة دهس عناصر من الجيش في بلدة عرسال أثناء تهريب أشخاص لداخل لبنان",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152540",
+  "published": "2026-11-05T12:25:02.000Z",
+  "subject": "saudi",
+  "added": "2026-11-05T12:25:02.000Z"
+ },
+ {
   "id": "accb3166c620fef2",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -130,17 +142,5 @@
   "published": "2026-11-05T11:30:02.000Z",
   "subject": "saudi",
   "added": "2026-11-05T11:30:02.000Z"
- },
- {
-  "id": "dfa4171880c86ce9",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "إعلام إيطالي: إنذار بوجود قنابل على متن طائرتين متجهتين إلى مطار مالبينسا في ميلانو",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152528",
-  "published": "2026-11-05T11:25:02.000Z",
-  "subject": "saudi",
-  "added": "2026-11-05T11:25:02.000Z"
  }
 ]
