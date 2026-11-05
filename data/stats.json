@@ -3663,11 +3663,11 @@
    }
   },
   "2026-11-04": {
-   "total": 519,
-   "news": 510,
+   "total": 520,
+   "news": 511,
    "articles": 9,
    "positive": 0,
-   "neutral": 519,
+   "neutral": 520,
    "critical": 0,
    "mbs": 19,
    "countries": {
@@ -3821,7 +3821,8 @@
     "Yahoo": 1,
     "SeafoodSource": 1,
     "صحيفة سبق الإلكترونية": 1,
-    "Trend News Agency": 1
+    "Trend News Agency": 1,
+    "Toronto Sun": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -4525,6 +4526,32 @@
      0
     ],
     "Trend News Agency": [
+     0,
+     1,
+     0
+    ],
+    "Toronto Sun": [
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "2026-11-05": {
+   "total": 1,
+   "news": 1,
+   "articles": 0,
+   "positive": 0,
+   "neutral": 1,
+   "critical": 0,
+   "mbs": 0,
+   "countries": {},
+   "topics": {},
+   "sources": {
+    "Bloody Elbow": 1
+   },
+   "sourceTone": {
+    "Bloody Elbow": [
      0,
      1,
      0
