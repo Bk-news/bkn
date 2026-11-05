@@ -4556,11 +4556,11 @@
    }
   },
   "2026-11-05": {
-   "total": 47,
-   "news": 47,
+   "total": 48,
+   "news": 48,
    "articles": 0,
    "positive": 0,
-   "neutral": 47,
+   "neutral": 48,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -4601,7 +4601,8 @@
     "The Guardian": 1,
     "Mining.com.au": 1,
     "The Times of India": 1,
-    "Report.az": 1
+    "Report.az": 1,
+    "Oz Arab Media": 1
    },
    "sourceTone": {
     "Bloody Elbow": [
@@ -4755,6 +4756,11 @@
      0
     ],
     "Report.az": [
+     0,
+     1,
+     0
+    ],
+    "Oz Arab Media": [
      0,
      1,
      0
