@@ -3669,15 +3669,15 @@
    }
   },
   "2026-11-04": {
-   "total": 580,
-   "news": 571,
+   "total": 582,
+   "news": 573,
    "articles": 9,
    "positive": 0,
-   "neutral": 580,
+   "neutral": 582,
    "critical": 0,
    "mbs": 20,
    "countries": {
-    "SA": 58,
+    "SA": 60,
     "US": 122,
     "GB": 207,
     "JP": 1,
@@ -3714,7 +3714,7 @@
     "BBC": 15,
     "Financial Times": 40,
     "AP News": 18,
-    "Saudi Gazette": 14,
+    "Saudi Gazette": 16,
     "TahawulTech.com": 1,
     "The National": 4,
     "Anadolu Ajansı": 4,
@@ -3970,7 +3970,7 @@
     ],
     "Saudi Gazette": [
      0,
-     14,
+     16,
      0
     ],
     "TahawulTech.com": [
@@ -4556,34 +4556,35 @@
    }
   },
   "2026-11-05": {
-   "total": 48,
-   "news": 48,
-   "articles": 0,
+   "total": 86,
+   "news": 84,
+   "articles": 2,
    "positive": 0,
-   "neutral": 48,
+   "neutral": 86,
    "critical": 0,
-   "mbs": 1,
+   "mbs": 2,
    "countries": {
-    "SA": 2,
-    "US": 10,
-    "GB": 4,
-    "HK": 3
+    "SA": 4,
+    "US": 25,
+    "GB": 16,
+    "HK": 4,
+    "FR": 3
    },
    "topics": {},
    "sources": {
     "Bloody Elbow": 1,
     "وكالة الأنباء السعودية": 1,
-    "Arab News": 4,
+    "Arab News": 6,
     "Deadline": 1,
     "Al Majalla": 1,
-    "Al-Monitor": 1,
-    "Reuters": 3,
-    "WSJ": 6,
-    "South China Morning Post": 3,
+    "Al-Monitor": 4,
+    "Reuters": 5,
+    "WSJ": 8,
+    "South China Morning Post": 4,
     "Myanmar International TV": 1,
-    "AP News": 1,
-    "The New York Times": 1,
-    "The Washington Post": 2,
+    "AP News": 3,
+    "The New York Times": 4,
+    "The Washington Post": 5,
     "Arab News PK": 1,
     "The Express Tribune": 2,
     "The Nation Newspaper": 1,
@@ -4594,15 +4595,25 @@
     "Facebook": 1,
     "WR Immigration": 1,
     "LATTE Luxury News": 1,
-    "Saudi Gazette": 1,
+    "Saudi Gazette": 2,
     "https://houseofsaud.com/": 1,
     "Eurasia Review": 1,
     "Al Jazeera": 1,
-    "The Guardian": 1,
+    "The Guardian": 3,
     "Mining.com.au": 1,
     "The Times of India": 1,
     "Report.az": 1,
-    "Oz Arab Media": 1
+    "Oz Arab Media": 1,
+    "Yemen Online": 1,
+    "BBC": 3,
+    "Financial Times": 3,
+    "Bloomberg.com": 2,
+    "France 24": 1,
+    "Le Monde.fr": 2,
+    "The Economist": 2,
+    "ASHARQ AL-AWSAT English": 1,
+    "StreetInsider": 1,
+    "شبكة تواصل الإخبارية": 1
    },
    "sourceTone": {
     "Bloody Elbow": [
@@ -4617,7 +4628,7 @@
     ],
     "Arab News": [
      0,
-     4,
+     6,
      0
     ],
     "Deadline": [
@@ -4632,22 +4643,22 @@
     ],
     "Al-Monitor": [
      0,
-     1,
+     4,
      0
     ],
     "Reuters": [
      0,
-     3,
+     5,
      0
     ],
     "WSJ": [
      0,
-     6,
+     8,
      0
     ],
     "South China Morning Post": [
      0,
-     3,
+     4,
      0
     ],
     "Myanmar International TV": [
@@ -4657,17 +4668,17 @@
     ],
     "AP News": [
      0,
-     1,
+     3,
      0
     ],
     "The New York Times": [
      0,
-     1,
+     4,
      0
     ],
     "The Washington Post": [
      0,
-     2,
+     5,
      0
     ],
     "Arab News PK": [
@@ -4722,7 +4733,7 @@
     ],
     "Saudi Gazette": [
      0,
-     1,
+     2,
      0
     ],
     "https://houseofsaud.com/": [
@@ -4742,7 +4753,7 @@
     ],
     "The Guardian": [
      0,
-     1,
+     3,
      0
     ],
     "Mining.com.au": [
@@ -4761,6 +4772,56 @@
      0
     ],
     "Oz Arab Media": [
+     0,
+     1,
+     0
+    ],
+    "Yemen Online": [
+     0,
+     1,
+     0
+    ],
+    "BBC": [
+     0,
+     3,
+     0
+    ],
+    "Financial Times": [
+     0,
+     3,
+     0
+    ],
+    "Bloomberg.com": [
+     0,
+     2,
+     0
+    ],
+    "France 24": [
+     0,
+     1,
+     0
+    ],
+    "Le Monde.fr": [
+     0,
+     2,
+     0
+    ],
+    "The Economist": [
+     0,
+     2,
+     0
+    ],
+    "ASHARQ AL-AWSAT English": [
+     0,
+     1,
+     0
+    ],
+    "StreetInsider": [
+     0,
+     1,
+     0
+    ],
+    "شبكة تواصل الإخبارية": [
      0,
      1,
      0
