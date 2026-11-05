@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 187,
-   "news": 184,
+   "total": 191,
+   "news": 188,
    "articles": 3,
    "positive": 0,
-   "neutral": 187,
+   "neutral": 191,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "SA": 11,
-    "US": 51,
-    "GB": 28,
+    "US": 52,
+    "GB": 29,
     "HK": 4,
     "FR": 4
    },
@@ -4578,11 +4578,11 @@
     "Deadline": 1,
     "Al Majalla": 1,
     "Al-Monitor": 7,
-    "Reuters": 8,
+    "Reuters": 9,
     "WSJ": 15,
     "South China Morning Post": 4,
     "Myanmar International TV": 1,
-    "AP News": 7,
+    "AP News": 8,
     "The New York Times": 7,
     "The Washington Post": 6,
     "Arab News PK": 3,
@@ -4652,7 +4652,9 @@
     "Al Arabiya English": 1,
     "Bergen Record": 1,
     "CNN": 1,
-    "Outlook India": 1
+    "Outlook India": 1,
+    "Cruise & Ferry Review": 1,
+    "CairoScene": 1
    },
    "sourceTone": {
     "Bloody Elbow": [
@@ -4687,7 +4689,7 @@
     ],
     "Reuters": [
      0,
-     8,
+     9,
      0
     ],
     "WSJ": [
@@ -4707,7 +4709,7 @@
     ],
     "AP News": [
      0,
-     7,
+     8,
      0
     ],
     "The New York Times": [
@@ -5056,6 +5058,16 @@
      0
     ],
     "Outlook India": [
+     0,
+     1,
+     0
+    ],
+    "Cruise & Ferry Review": [
+     0,
+     1,
+     0
+    ],
+    "CairoScene": [
      0,
      1,
      0
