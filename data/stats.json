@@ -2602,16 +2602,16 @@
    }
   },
   "2026-11-03": {
-   "total": 929,
-   "news": 910,
+   "total": 930,
+   "news": 911,
    "articles": 19,
    "positive": 0,
-   "neutral": 929,
+   "neutral": 930,
    "critical": 0,
    "mbs": 10,
    "countries": {
     "US": 297,
-    "GB": 280,
+    "GB": 281,
     "HK": 6,
     "FR": 9,
     "SA": 92,
@@ -2628,7 +2628,7 @@
     "Reuters": 175,
     "Bloomberg.com": 67,
     "חרדים10": 1,
-    "BBC": 22,
+    "BBC": 23,
     "The Guardian": 33,
     "South China Morning Post": 6,
     "Hindustan Times": 3,
@@ -2838,7 +2838,7 @@
     ],
     "BBC": [
      0,
-     22,
+     23,
      0
     ],
     "The Guardian": [
@@ -4556,11 +4556,11 @@
    }
   },
   "2026-11-05": {
-   "total": 45,
-   "news": 45,
+   "total": 46,
+   "news": 46,
    "articles": 0,
    "positive": 0,
-   "neutral": 45,
+   "neutral": 46,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -4599,7 +4599,8 @@
     "Eurasia Review": 1,
     "Al Jazeera": 1,
     "The Guardian": 1,
-    "Mining.com.au": 1
+    "Mining.com.au": 1,
+    "The Times of India": 1
    },
    "sourceTone": {
     "Bloody Elbow": [
@@ -4743,6 +4744,11 @@
      0
     ],
     "Mining.com.au": [
+     0,
+     1,
+     0
+    ],
+    "The Times of India": [
      0,
      1,
      0
