@@ -3669,16 +3669,16 @@
    }
   },
   "2026-11-04": {
-   "total": 658,
-   "news": 649,
+   "total": 659,
+   "news": 650,
    "articles": 9,
    "positive": 0,
-   "neutral": 658,
+   "neutral": 659,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "SA": 73,
-    "US": 140,
+    "US": 141,
     "GB": 247,
     "JP": 1,
     "FR": 9,
@@ -3692,7 +3692,7 @@
     "Heavy.com": 1,
     "Al-Monitor": 37,
     "The Washington Post": 8,
-    "Bloomberg.com": 25,
+    "Bloomberg.com": 26,
     "Reuters": 162,
     "Nikkei Asia": 1,
     "WSJ": 25,
@@ -3860,7 +3860,7 @@
     ],
     "Bloomberg.com": [
      0,
-     25,
+     26,
      0
     ],
     "Reuters": [
@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 560,
-   "news": 532,
+   "total": 562,
+   "news": 534,
    "articles": 28,
    "positive": 0,
-   "neutral": 560,
+   "neutral": 562,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "SA": 66,
-    "US": 155,
-    "GB": 130,
+    "US": 156,
+    "GB": 131,
     "HK": 6,
     "FR": 8,
     "DE": 1,
@@ -4580,8 +4580,8 @@
     "Deadline": 2,
     "Al Majalla": 1,
     "Al-Monitor": 41,
-    "Reuters": 55,
-    "WSJ": 33,
+    "Reuters": 56,
+    "WSJ": 34,
     "South China Morning Post": 6,
     "Myanmar International TV": 1,
     "AP News": 20,
@@ -4745,12 +4745,12 @@
     ],
     "Reuters": [
      0,
-     55,
+     56,
      0
     ],
     "WSJ": [
      0,
-     33,
+     34,
      0
     ],
     "South China Morning Post": [
