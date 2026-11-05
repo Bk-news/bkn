@@ -2602,15 +2602,15 @@
    }
   },
   "2026-11-03": {
-   "total": 945,
-   "news": 925,
+   "total": 946,
+   "news": 926,
    "articles": 20,
    "positive": 0,
-   "neutral": 945,
+   "neutral": 946,
    "critical": 0,
    "mbs": 10,
    "countries": {
-    "US": 304,
+    "US": 305,
     "GB": 289,
     "HK": 6,
     "FR": 9,
@@ -2622,7 +2622,7 @@
    "sources": {
     "Asia News Network": 1,
     "The Washington Post": 13,
-    "WSJ": 49,
+    "WSJ": 50,
     "Financial Times": 52,
     "Al-Monitor": 43,
     "Reuters": 181,
@@ -2808,7 +2808,7 @@
     ],
     "WSJ": [
      0,
-     49,
+     50,
      0
     ],
     "Financial Times": [
@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 437,
-   "news": 417,
-   "articles": 20,
+   "total": 439,
+   "news": 418,
+   "articles": 21,
    "positive": 0,
-   "neutral": 437,
+   "neutral": 439,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "SA": 44,
+    "SA": 45,
     "US": 122,
-    "GB": 98,
+    "GB": 99,
     "HK": 5,
     "FR": 8,
     "DE": 1,
@@ -4576,7 +4576,7 @@
    "sources": {
     "Bloody Elbow": 1,
     "وكالة الأنباء السعودية": 1,
-    "Arab News": 48,
+    "Arab News": 49,
     "Deadline": 2,
     "Al Majalla": 1,
     "Al-Monitor": 32,
@@ -4612,7 +4612,7 @@
     "Bloomberg.com": 16,
     "France 24": 4,
     "Le Monde.fr": 5,
-    "The Economist": 17,
+    "The Economist": 18,
     "ASHARQ AL-AWSAT English": 5,
     "StreetInsider": 1,
     "شبكة تواصل الإخبارية": 1,
@@ -4708,7 +4708,7 @@
     ],
     "Arab News": [
      0,
-     48,
+     49,
      0
     ],
     "Deadline": [
@@ -4888,7 +4888,7 @@
     ],
     "The Economist": [
      0,
-     17,
+     18,
      0
     ],
     "ASHARQ AL-AWSAT English": [
