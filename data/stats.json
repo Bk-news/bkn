@@ -3669,17 +3669,17 @@
    }
   },
   "2026-11-04": {
-   "total": 643,
-   "news": 634,
+   "total": 644,
+   "news": 635,
    "articles": 9,
    "positive": 0,
-   "neutral": 643,
+   "neutral": 644,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "SA": 73,
     "US": 135,
-    "GB": 238,
+    "GB": 239,
     "JP": 1,
     "FR": 8,
     "HK": 2,
@@ -3693,7 +3693,7 @@
     "Al-Monitor": 37,
     "The Washington Post": 7,
     "Bloomberg.com": 25,
-    "Reuters": 154,
+    "Reuters": 155,
     "Nikkei Asia": 1,
     "WSJ": 24,
     "The Australian": 1,
@@ -3865,7 +3865,7 @@
     ],
     "Reuters": [
      0,
-     154,
+     155,
      0
     ],
     "Nikkei Asia": [
@@ -4556,19 +4556,19 @@
    }
   },
   "2026-11-05": {
-   "total": 434,
-   "news": 414,
+   "total": 437,
+   "news": 417,
    "articles": 20,
    "positive": 0,
-   "neutral": 434,
+   "neutral": 437,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "SA": 44,
     "US": 122,
-    "GB": 97,
+    "GB": 98,
     "HK": 5,
-    "FR": 7,
+    "FR": 8,
     "DE": 1,
     "JP": 1
    },
@@ -4607,11 +4607,11 @@
     "Report.az": 1,
     "Oz Arab Media": 1,
     "Yemen Online": 2,
-    "BBC": 8,
+    "BBC": 9,
     "Financial Times": 21,
     "Bloomberg.com": 16,
     "France 24": 4,
-    "Le Monde.fr": 4,
+    "Le Monde.fr": 5,
     "The Economist": 17,
     "ASHARQ AL-AWSAT English": 5,
     "StreetInsider": 1,
@@ -4692,7 +4692,8 @@
     "Yahoo Sports": 1,
     "GIS Reports": 1,
     "Middle East Online": 1,
-    "The National": 1
+    "The National": 1,
+    "EnergyNow": 1
    },
    "sourceTone": {
     "Bloody Elbow": [
@@ -4862,7 +4863,7 @@
     ],
     "BBC": [
      0,
-     8,
+     9,
      0
     ],
     "Financial Times": [
@@ -4882,7 +4883,7 @@
     ],
     "Le Monde.fr": [
      0,
-     4,
+     5,
      0
     ],
     "The Economist": [
@@ -5286,6 +5287,11 @@
      0
     ],
     "The National": [
+     0,
+     1,
+     0
+    ],
+    "EnergyNow": [
      0,
      1,
      0
