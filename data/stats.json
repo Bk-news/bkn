@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 458,
-   "news": 436,
+   "total": 459,
+   "news": 437,
    "articles": 22,
    "positive": 0,
-   "neutral": 458,
+   "neutral": 459,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "SA": 47,
     "US": 124,
-    "GB": 106,
+    "GB": 107,
     "HK": 6,
     "FR": 8,
     "DE": 1,
@@ -4601,7 +4601,7 @@
     "https://houseofsaud.com/": 2,
     "Eurasia Review": 1,
     "Al Jazeera": 2,
-    "The Guardian": 11,
+    "The Guardian": 12,
     "Mining.com.au": 1,
     "The Times of India": 1,
     "Report.az": 1,
@@ -4837,7 +4837,7 @@
     ],
     "The Guardian": [
      0,
-     11,
+     12,
      0
     ],
     "Mining.com.au": [
