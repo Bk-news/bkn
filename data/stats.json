@@ -3669,15 +3669,15 @@
    }
   },
   "2026-11-04": {
-   "total": 574,
-   "news": 565,
+   "total": 578,
+   "news": 569,
    "articles": 9,
    "positive": 0,
-   "neutral": 574,
+   "neutral": 578,
    "critical": 0,
    "mbs": 20,
    "countries": {
-    "SA": 54,
+    "SA": 58,
     "US": 121,
     "GB": 206,
     "JP": 1,
@@ -3688,7 +3688,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Arab News": 57,
+    "Arab News": 60,
     "Heavy.com": 1,
     "Al-Monitor": 35,
     "The Washington Post": 7,
@@ -3714,7 +3714,7 @@
     "BBC": 15,
     "Financial Times": 40,
     "AP News": 18,
-    "Saudi Gazette": 13,
+    "Saudi Gazette": 14,
     "TahawulTech.com": 1,
     "The National": 4,
     "Anadolu Ajansı": 4,
@@ -3840,7 +3840,7 @@
     ],
     "Arab News": [
      0,
-     57,
+     60,
      0
     ],
     "Heavy.com": [
@@ -3970,7 +3970,7 @@
     ],
     "Saudi Gazette": [
      0,
-     13,
+     14,
      0
     ],
     "TahawulTech.com": [
