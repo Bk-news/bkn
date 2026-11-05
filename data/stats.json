@@ -4556,11 +4556,11 @@
    }
   },
   "2026-11-05": {
-   "total": 439,
-   "news": 418,
+   "total": 440,
+   "news": 419,
    "articles": 21,
    "positive": 0,
-   "neutral": 439,
+   "neutral": 440,
    "critical": 0,
    "mbs": 7,
    "countries": {
@@ -4693,7 +4693,8 @@
     "GIS Reports": 1,
     "Middle East Online": 1,
     "The National": 1,
-    "EnergyNow": 1
+    "EnergyNow": 1,
+    "Egypt Today": 1
    },
    "sourceTone": {
     "Bloody Elbow": [
@@ -5292,6 +5293,11 @@
      0
     ],
     "EnergyNow": [
+     0,
+     1,
+     0
+    ],
+    "Egypt Today": [
      0,
      1,
      0
