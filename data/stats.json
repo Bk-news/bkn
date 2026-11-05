@@ -3669,17 +3669,17 @@
    }
   },
   "2026-11-04": {
-   "total": 532,
-   "news": 523,
+   "total": 549,
+   "news": 540,
    "articles": 9,
    "positive": 0,
-   "neutral": 532,
+   "neutral": 549,
    "critical": 0,
    "mbs": 20,
    "countries": {
-    "SA": 49,
-    "US": 114,
-    "GB": 179,
+    "SA": 53,
+    "US": 119,
+    "GB": 187,
     "JP": 1,
     "FR": 5,
     "HK": 2,
@@ -3688,12 +3688,12 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Arab News": 55,
+    "Arab News": 57,
     "Heavy.com": 1,
     "Al-Monitor": 35,
-    "The Washington Post": 5,
+    "The Washington Post": 7,
     "Bloomberg.com": 23,
-    "Reuters": 116,
+    "Reuters": 119,
     "Nikkei Asia": 1,
     "WSJ": 17,
     "The Australian": 1,
@@ -3708,13 +3708,13 @@
     "France 24": 3,
     "The Guardian": 23,
     "Foreign Affairs": 1,
-    "The New York Times": 10,
+    "The New York Times": 12,
     "South China Morning Post": 2,
     "A News": 1,
     "BBC": 15,
-    "Financial Times": 24,
-    "AP News": 17,
-    "Saudi Gazette": 10,
+    "Financial Times": 29,
+    "AP News": 18,
+    "Saudi Gazette": 12,
     "TahawulTech.com": 1,
     "The National": 4,
     "Anadolu Ajansı": 4,
@@ -3839,7 +3839,7 @@
     ],
     "Arab News": [
      0,
-     55,
+     57,
      0
     ],
     "Heavy.com": [
@@ -3854,7 +3854,7 @@
     ],
     "The Washington Post": [
      0,
-     5,
+     7,
      0
     ],
     "Bloomberg.com": [
@@ -3864,7 +3864,7 @@
     ],
     "Reuters": [
      0,
-     116,
+     119,
      0
     ],
     "Nikkei Asia": [
@@ -3939,7 +3939,7 @@
     ],
     "The New York Times": [
      0,
-     10,
+     12,
      0
     ],
     "South China Morning Post": [
@@ -3959,17 +3959,17 @@
     ],
     "Financial Times": [
      0,
-     24,
+     29,
      0
     ],
     "AP News": [
      0,
-     17,
+     18,
      0
     ],
     "Saudi Gazette": [
      0,
-     10,
+     12,
      0
     ],
     "TahawulTech.com": [
@@ -4550,22 +4550,39 @@
    }
   },
   "2026-11-05": {
-   "total": 4,
-   "news": 4,
+   "total": 27,
+   "news": 27,
    "articles": 0,
    "positive": 0,
-   "neutral": 4,
+   "neutral": 27,
    "critical": 0,
-   "mbs": 0,
+   "mbs": 1,
    "countries": {
-    "SA": 1
+    "SA": 2,
+    "US": 9,
+    "GB": 2,
+    "HK": 3
    },
    "topics": {},
    "sources": {
     "Bloody Elbow": 1,
     "وكالة الأنباء السعودية": 1,
-    "Arab News": 1,
-    "Deadline": 1
+    "Arab News": 2,
+    "Deadline": 1,
+    "Al Majalla": 1,
+    "Al-Monitor": 1,
+    "Reuters": 2,
+    "WSJ": 6,
+    "South China Morning Post": 3,
+    "Myanmar International TV": 1,
+    "AP News": 1,
+    "The New York Times": 1,
+    "The Washington Post": 1,
+    "Arab News PK": 1,
+    "The Express Tribune": 1,
+    "The Nation Newspaper": 1,
+    "Gulf News": 1,
+    "UA.NEWS": 1
    },
    "sourceTone": {
     "Bloody Elbow": [
@@ -4580,10 +4597,80 @@
     ],
     "Arab News": [
      0,
-     1,
+     2,
      0
     ],
     "Deadline": [
+     0,
+     1,
+     0
+    ],
+    "Al Majalla": [
+     0,
+     1,
+     0
+    ],
+    "Al-Monitor": [
+     0,
+     1,
+     0
+    ],
+    "Reuters": [
+     0,
+     2,
+     0
+    ],
+    "WSJ": [
+     0,
+     6,
+     0
+    ],
+    "South China Morning Post": [
+     0,
+     3,
+     0
+    ],
+    "Myanmar International TV": [
+     0,
+     1,
+     0
+    ],
+    "AP News": [
+     0,
+     1,
+     0
+    ],
+    "The New York Times": [
+     0,
+     1,
+     0
+    ],
+    "The Washington Post": [
+     0,
+     1,
+     0
+    ],
+    "Arab News PK": [
+     0,
+     1,
+     0
+    ],
+    "The Express Tribune": [
+     0,
+     1,
+     0
+    ],
+    "The Nation Newspaper": [
+     0,
+     1,
+     0
+    ],
+    "Gulf News": [
+     0,
+     1,
+     0
+    ],
+    "UA.NEWS": [
      0,
      1,
      0
