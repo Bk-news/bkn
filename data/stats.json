@@ -3669,11 +3669,11 @@
    }
   },
   "2026-11-04": {
-   "total": 522,
-   "news": 513,
+   "total": 523,
+   "news": 514,
    "articles": 9,
    "positive": 0,
-   "neutral": 522,
+   "neutral": 523,
    "critical": 0,
    "mbs": 19,
    "countries": {
@@ -3798,7 +3798,7 @@
     "Computer Weekly": 1,
     "Condé Nast Traveller Middle East": 2,
     "Mehr News Agency": 1,
-    "Goal.com": 2,
+    "Goal.com": 3,
     "https://houseofsaud.com/": 1,
     "European External Action Service (EEAS)": 1,
     "Investment Monitor": 1,
@@ -4388,7 +4388,7 @@
     ],
     "Goal.com": [
      0,
-     2,
+     3,
      0
     ],
     "https://houseofsaud.com/": [
