@@ -3669,16 +3669,16 @@
    }
   },
   "2026-11-04": {
-   "total": 628,
-   "news": 619,
+   "total": 634,
+   "news": 625,
    "articles": 9,
    "positive": 0,
-   "neutral": 628,
+   "neutral": 634,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "SA": 73,
-    "US": 127,
+    "US": 133,
     "GB": 231,
     "JP": 1,
     "FR": 8,
@@ -3692,10 +3692,10 @@
     "Heavy.com": 1,
     "Al-Monitor": 36,
     "The Washington Post": 7,
-    "Bloomberg.com": 23,
+    "Bloomberg.com": 25,
     "Reuters": 147,
     "Nikkei Asia": 1,
-    "WSJ": 21,
+    "WSJ": 24,
     "The Australian": 1,
     "Middle East Eye": 1,
     "Asia News Network": 1,
@@ -3713,7 +3713,7 @@
     "A News": 1,
     "BBC": 15,
     "Financial Times": 45,
-    "AP News": 19,
+    "AP News": 20,
     "Saudi Gazette": 16,
     "TahawulTech.com": 1,
     "The National": 4,
@@ -3860,7 +3860,7 @@
     ],
     "Bloomberg.com": [
      0,
-     23,
+     25,
      0
     ],
     "Reuters": [
@@ -3875,7 +3875,7 @@
     ],
     "WSJ": [
      0,
-     21,
+     24,
      0
     ],
     "The Australian": [
@@ -3965,7 +3965,7 @@
     ],
     "AP News": [
      0,
-     19,
+     20,
      0
     ],
     "Saudi Gazette": [
@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 324,
-   "news": 313,
-   "articles": 11,
+   "total": 358,
+   "news": 342,
+   "articles": 16,
    "positive": 0,
-   "neutral": 324,
+   "neutral": 358,
    "critical": 0,
-   "mbs": 4,
+   "mbs": 5,
    "countries": {
-    "SA": 23,
-    "US": 98,
-    "GB": 79,
+    "SA": 29,
+    "US": 109,
+    "GB": 90,
     "HK": 5,
     "FR": 7,
     "DE": 1
@@ -4575,16 +4575,16 @@
    "sources": {
     "Bloody Elbow": 1,
     "وكالة الأنباء السعودية": 1,
-    "Arab News": 24,
+    "Arab News": 31,
     "Deadline": 1,
     "Al Majalla": 1,
-    "Al-Monitor": 16,
-    "Reuters": 32,
-    "WSJ": 24,
+    "Al-Monitor": 22,
+    "Reuters": 38,
+    "WSJ": 25,
     "South China Morning Post": 5,
     "Myanmar International TV": 1,
     "AP News": 13,
-    "The New York Times": 15,
+    "The New York Times": 19,
     "The Washington Post": 10,
     "Arab News PK": 3,
     "The Express Tribune": 2,
@@ -4611,7 +4611,7 @@
     "Bloomberg.com": 16,
     "France 24": 4,
     "Le Monde.fr": 4,
-    "The Economist": 8,
+    "The Economist": 13,
     "ASHARQ AL-AWSAT English": 2,
     "StreetInsider": 1,
     "شبكة تواصل الإخبارية": 1,
@@ -4644,7 +4644,7 @@
     "ANHA": 1,
     "Azərtac": 1,
     "CounterPunch.org": 1,
-    "Latest news from Azerbaijan": 1,
+    "Latest news from Azerbaijan": 2,
     "Deccan Herald": 1,
     "Small Wars Journal": 1,
     "thenationalnews.com": 1,
@@ -4668,7 +4668,10 @@
     "Variety": 1,
     "The Global Legal Post": 1,
     "Axios": 1,
-    "TV with Thinus": 1
+    "TV with Thinus": 1,
+    "The New Arab": 2,
+    "Kashmir Observer": 1,
+    "marketscreener.com": 1
    },
    "sourceTone": {
     "Bloody Elbow": [
@@ -4683,7 +4686,7 @@
     ],
     "Arab News": [
      0,
-     24,
+     31,
      0
     ],
     "Deadline": [
@@ -4698,17 +4701,17 @@
     ],
     "Al-Monitor": [
      0,
-     16,
+     22,
      0
     ],
     "Reuters": [
      0,
-     32,
+     38,
      0
     ],
     "WSJ": [
      0,
-     24,
+     25,
      0
     ],
     "South China Morning Post": [
@@ -4728,7 +4731,7 @@
     ],
     "The New York Times": [
      0,
-     15,
+     19,
      0
     ],
     "The Washington Post": [
@@ -4863,7 +4866,7 @@
     ],
     "The Economist": [
      0,
-     8,
+     13,
      0
     ],
     "ASHARQ AL-AWSAT English": [
@@ -5028,7 +5031,7 @@
     ],
     "Latest news from Azerbaijan": [
      0,
-     1,
+     2,
      0
     ],
     "Deccan Herald": [
@@ -5147,6 +5150,21 @@
      0
     ],
     "TV with Thinus": [
+     0,
+     1,
+     0
+    ],
+    "The New Arab": [
+     0,
+     2,
+     0
+    ],
+    "Kashmir Observer": [
+     0,
+     1,
+     0
+    ],
+    "marketscreener.com": [
      0,
      1,
      0
