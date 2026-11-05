@@ -3551,6 +3551,27 @@
    "mt": true
   },
   {
+   "id": "941dc0e171033985",
+   "origin": "rss",
+   "source": "The New York Times",
+   "author": "",
+   "title_ar": "التصحيحات - الصفحة 9",
+   "title_orig": "Corrections - Page 9",
+   "title_en": "Corrections - Page 9",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WaXRCa3YyY205S1NmTTJPQ0x2MzZsSWc0emJzM3I5Yi1UdXhrWjcxMVdZWjJDMHFOZV9aUmpQVHpCX1l1eW5USzhJQUwyNTFvcUZEcWx6UGJLSTFweU53?oc=5",
+   "published": "2026-11-04T16:34:42.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "Corrections - Page 9 &nbsp;&nbsp; The New York Times",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "90b581a582db902d",
    "origin": "rss",
    "source": "The Jerusalem Post",
