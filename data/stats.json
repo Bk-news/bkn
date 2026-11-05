@@ -2602,16 +2602,16 @@
    }
   },
   "2026-11-03": {
-   "total": 937,
+   "total": 938,
    "news": 918,
-   "articles": 19,
+   "articles": 20,
    "positive": 0,
-   "neutral": 937,
+   "neutral": 938,
    "critical": 0,
    "mbs": 10,
    "countries": {
     "US": 301,
-    "GB": 284,
+    "GB": 285,
     "HK": 6,
     "FR": 9,
     "SA": 92,
@@ -2671,7 +2671,7 @@
     "Crude Oil Prices Today | OilPrice.com": 2,
     "Egyptian Gazette": 1,
     "Euronews.com": 2,
-    "The Economist": 7,
+    "The Economist": 8,
     "Qazinform": 1,
     "The Arab Weekly": 1,
     "صوت الإمارات": 2,
@@ -3053,7 +3053,7 @@
     ],
     "The Economist": [
      0,
-     7,
+     8,
      0
     ],
     "Qazinform": [
@@ -4556,16 +4556,16 @@
    }
   },
   "2026-11-05": {
-   "total": 184,
-   "news": 181,
+   "total": 187,
+   "news": 184,
    "articles": 3,
    "positive": 0,
-   "neutral": 184,
+   "neutral": 187,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "SA": 11,
-    "US": 50,
+    "US": 51,
     "GB": 28,
     "HK": 4,
     "FR": 4
@@ -4649,7 +4649,10 @@
     "thenationalnews.com": 1,
     "Rediff MoneyWiz": 1,
     "Pajhwok Afghan News": 1,
-    "Al Arabiya English": 1
+    "Al Arabiya English": 1,
+    "Bergen Record": 1,
+    "CNN": 1,
+    "Outlook India": 1
    },
    "sourceTone": {
     "Bloody Elbow": [
@@ -5038,6 +5041,21 @@
      0
     ],
     "Al Arabiya English": [
+     0,
+     1,
+     0
+    ],
+    "Bergen Record": [
+     0,
+     1,
+     0
+    ],
+    "CNN": [
+     0,
+     1,
+     0
+    ],
+    "Outlook India": [
      0,
      1,
      0
