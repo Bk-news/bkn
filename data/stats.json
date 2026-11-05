@@ -2602,16 +2602,16 @@
    }
   },
   "2026-11-03": {
-   "total": 928,
-   "news": 909,
+   "total": 929,
+   "news": 910,
    "articles": 19,
    "positive": 0,
-   "neutral": 928,
+   "neutral": 929,
    "critical": 0,
    "mbs": 10,
    "countries": {
     "US": 297,
-    "GB": 279,
+    "GB": 280,
     "HK": 6,
     "FR": 9,
     "SA": 92,
@@ -2623,7 +2623,7 @@
     "Asia News Network": 1,
     "The Washington Post": 12,
     "WSJ": 48,
-    "Financial Times": 51,
+    "Financial Times": 52,
     "Al-Monitor": 43,
     "Reuters": 175,
     "Bloomberg.com": 67,
@@ -2813,7 +2813,7 @@
     ],
     "Financial Times": [
      0,
-     51,
+     52,
      0
     ],
     "Al-Monitor": [
