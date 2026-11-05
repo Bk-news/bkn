@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 206,
-   "news": 203,
+   "total": 210,
+   "news": 207,
    "articles": 3,
    "positive": 0,
-   "neutral": 206,
+   "neutral": 210,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "SA": 12,
-    "US": 55,
-    "GB": 38,
+    "US": 56,
+    "GB": 40,
     "HK": 4,
     "FR": 4
    },
@@ -4578,8 +4578,8 @@
     "Deadline": 1,
     "Al Majalla": 1,
     "Al-Monitor": 9,
-    "Reuters": 15,
-    "WSJ": 15,
+    "Reuters": 17,
+    "WSJ": 16,
     "South China Morning Post": 4,
     "Myanmar International TV": 1,
     "AP News": 8,
@@ -4654,7 +4654,8 @@
     "CNN": 1,
     "Outlook India": 1,
     "Cruise & Ferry Review": 1,
-    "CairoScene": 1
+    "CairoScene": 1,
+    "Grand View Research": 1
    },
    "sourceTone": {
     "Bloody Elbow": [
@@ -4689,12 +4690,12 @@
     ],
     "Reuters": [
      0,
-     15,
+     17,
      0
     ],
     "WSJ": [
      0,
-     15,
+     16,
      0
     ],
     "South China Morning Post": [
@@ -5068,6 +5069,11 @@
      0
     ],
     "CairoScene": [
+     0,
+     1,
+     0
+    ],
+    "Grand View Research": [
      0,
      1,
      0
