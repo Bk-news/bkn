@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 41,
-   "news": 41,
+   "total": 42,
+   "news": 42,
    "articles": 0,
    "positive": 0,
-   "neutral": 41,
+   "neutral": 42,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 2,
     "US": 10,
-    "GB": 2,
+    "GB": 3,
     "HK": 3
    },
    "topics": {},
@@ -4597,7 +4597,8 @@
     "Saudi Gazette": 1,
     "https://houseofsaud.com/": 1,
     "Eurasia Review": 1,
-    "Al Jazeera": 1
+    "Al Jazeera": 1,
+    "The Guardian": 1
    },
    "sourceTone": {
     "Bloody Elbow": [
@@ -4731,6 +4732,11 @@
      0
     ],
     "Al Jazeera": [
+     0,
+     1,
+     0
+    ],
+    "The Guardian": [
      0,
      1,
      0
