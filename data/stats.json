@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 226,
-   "news": 223,
+   "total": 230,
+   "news": 227,
    "articles": 3,
    "positive": 0,
-   "neutral": 226,
+   "neutral": 230,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "SA": 13,
     "US": 60,
-    "GB": 47,
+    "GB": 50,
     "HK": 4,
     "FR": 4
    },
@@ -4578,7 +4578,7 @@
     "Deadline": 1,
     "Al Majalla": 1,
     "Al-Monitor": 9,
-    "Reuters": 22,
+    "Reuters": 23,
     "WSJ": 18,
     "South China Morning Post": 4,
     "Myanmar International TV": 1,
@@ -4599,14 +4599,14 @@
     "https://houseofsaud.com/": 2,
     "Eurasia Review": 1,
     "Al Jazeera": 2,
-    "The Guardian": 3,
+    "The Guardian": 4,
     "Mining.com.au": 1,
     "The Times of India": 1,
     "Report.az": 1,
     "Oz Arab Media": 1,
     "Yemen Online": 1,
     "BBC": 4,
-    "Financial Times": 15,
+    "Financial Times": 16,
     "Bloomberg.com": 11,
     "France 24": 2,
     "Le Monde.fr": 3,
@@ -4649,7 +4649,7 @@
     "thenationalnews.com": 1,
     "Rediff MoneyWiz": 1,
     "Pajhwok Afghan News": 1,
-    "Al Arabiya English": 1,
+    "Al Arabiya English": 2,
     "Bergen Record": 1,
     "CNN": 1,
     "Outlook India": 1,
@@ -4693,7 +4693,7 @@
     ],
     "Reuters": [
      0,
-     22,
+     23,
      0
     ],
     "WSJ": [
@@ -4798,7 +4798,7 @@
     ],
     "The Guardian": [
      0,
-     3,
+     4,
      0
     ],
     "Mining.com.au": [
@@ -4833,7 +4833,7 @@
     ],
     "Financial Times": [
      0,
-     15,
+     16,
      0
     ],
     "Bloomberg.com": [
@@ -5048,7 +5048,7 @@
     ],
     "Al Arabiya English": [
      0,
-     1,
+     2,
      0
     ],
     "Bergen Record": [
