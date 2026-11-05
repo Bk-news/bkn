@@ -4556,11 +4556,11 @@
    }
   },
   "2026-11-05": {
-   "total": 449,
-   "news": 428,
+   "total": 451,
+   "news": 430,
    "articles": 21,
    "positive": 0,
-   "neutral": 449,
+   "neutral": 451,
    "critical": 0,
    "mbs": 7,
    "countries": {
@@ -4625,7 +4625,7 @@
     "سانا": 2,
     "Kurdistan24": 1,
     "CGTN": 1,
-    "Daily Sabah": 1,
+    "Daily Sabah": 2,
     "A News": 1,
     "Khaama Press": 1,
     "Rus Tourism News": 1,
@@ -4696,7 +4696,8 @@
     "EnergyNow": 1,
     "Egypt Today": 1,
     "The Indian Express": 1,
-    "Business Standard": 1
+    "Business Standard": 1,
+    "TV News Check": 1
    },
    "sourceTone": {
     "Bloody Elbow": [
@@ -4956,7 +4957,7 @@
     ],
     "Daily Sabah": [
      0,
-     1,
+     2,
      0
     ],
     "A News": [
@@ -5310,6 +5311,11 @@
      0
     ],
     "Business Standard": [
+     0,
+     1,
+     0
+    ],
+    "TV News Check": [
      0,
      1,
      0
