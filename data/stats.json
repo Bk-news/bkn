@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 210,
-   "news": 207,
+   "total": 215,
+   "news": 212,
    "articles": 3,
    "positive": 0,
-   "neutral": 210,
+   "neutral": 215,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "SA": 12,
-    "US": 56,
-    "GB": 40,
+    "SA": 13,
+    "US": 58,
+    "GB": 41,
     "HK": 4,
     "FR": 4
    },
@@ -4574,16 +4574,16 @@
    "sources": {
     "Bloody Elbow": 1,
     "وكالة الأنباء السعودية": 1,
-    "Arab News": 16,
+    "Arab News": 17,
     "Deadline": 1,
     "Al Majalla": 1,
     "Al-Monitor": 9,
     "Reuters": 17,
-    "WSJ": 16,
+    "WSJ": 17,
     "South China Morning Post": 4,
     "Myanmar International TV": 1,
     "AP News": 8,
-    "The New York Times": 7,
+    "The New York Times": 8,
     "The Washington Post": 6,
     "Arab News PK": 3,
     "The Express Tribune": 2,
@@ -4606,7 +4606,7 @@
     "Oz Arab Media": 1,
     "Yemen Online": 1,
     "BBC": 4,
-    "Financial Times": 13,
+    "Financial Times": 14,
     "Bloomberg.com": 10,
     "France 24": 2,
     "Le Monde.fr": 3,
@@ -4655,7 +4655,8 @@
     "Outlook India": 1,
     "Cruise & Ferry Review": 1,
     "CairoScene": 1,
-    "Grand View Research": 1
+    "Grand View Research": 1,
+    "FF News": 1
    },
    "sourceTone": {
     "Bloody Elbow": [
@@ -4670,7 +4671,7 @@
     ],
     "Arab News": [
      0,
-     16,
+     17,
      0
     ],
     "Deadline": [
@@ -4695,7 +4696,7 @@
     ],
     "WSJ": [
      0,
-     16,
+     17,
      0
     ],
     "South China Morning Post": [
@@ -4715,7 +4716,7 @@
     ],
     "The New York Times": [
      0,
-     7,
+     8,
      0
     ],
     "The Washington Post": [
@@ -4830,7 +4831,7 @@
     ],
     "Financial Times": [
      0,
-     13,
+     14,
      0
     ],
     "Bloomberg.com": [
@@ -5074,6 +5075,11 @@
      0
     ],
     "Grand View Research": [
+     0,
+     1,
+     0
+    ],
+    "FF News": [
      0,
      1,
      0
