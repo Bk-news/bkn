@@ -2602,16 +2602,16 @@
    }
   },
   "2026-11-03": {
-   "total": 941,
-   "news": 921,
+   "total": 943,
+   "news": 923,
    "articles": 20,
    "positive": 0,
-   "neutral": 941,
+   "neutral": 943,
    "critical": 0,
    "mbs": 10,
    "countries": {
-    "US": 301,
-    "GB": 288,
+    "US": 302,
+    "GB": 289,
     "HK": 6,
     "FR": 9,
     "SA": 92,
@@ -2622,14 +2622,14 @@
    "sources": {
     "Asia News Network": 1,
     "The Washington Post": 13,
-    "WSJ": 48,
+    "WSJ": 49,
     "Financial Times": 52,
     "Al-Monitor": 43,
     "Reuters": 181,
     "Bloomberg.com": 69,
     "חרדים10": 1,
     "BBC": 23,
-    "The Guardian": 33,
+    "The Guardian": 34,
     "South China Morning Post": 6,
     "Hindustan Times": 3,
     "Jordan Times": 1,
@@ -2808,7 +2808,7 @@
     ],
     "WSJ": [
      0,
-     48,
+     49,
      0
     ],
     "Financial Times": [
@@ -2843,7 +2843,7 @@
     ],
     "The Guardian": [
      0,
-     33,
+     34,
      0
     ],
     "South China Morning Post": [
@@ -3669,17 +3669,17 @@
    }
   },
   "2026-11-04": {
-   "total": 617,
-   "news": 608,
+   "total": 619,
+   "news": 610,
    "articles": 9,
    "positive": 0,
-   "neutral": 617,
+   "neutral": 619,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "SA": 71,
-    "US": 125,
-    "GB": 226,
+    "US": 126,
+    "GB": 227,
     "JP": 1,
     "FR": 6,
     "HK": 2,
@@ -3693,9 +3693,9 @@
     "Al-Monitor": 36,
     "The Washington Post": 7,
     "Bloomberg.com": 23,
-    "Reuters": 143,
+    "Reuters": 144,
     "Nikkei Asia": 1,
-    "WSJ": 20,
+    "WSJ": 21,
     "The Australian": 1,
     "Middle East Eye": 1,
     "Asia News Network": 1,
@@ -3865,7 +3865,7 @@
     ],
     "Reuters": [
      0,
-     143,
+     144,
      0
     ],
     "Nikkei Asia": [
@@ -3875,7 +3875,7 @@
     ],
     "WSJ": [
      0,
-     20,
+     21,
      0
     ],
     "The Australian": [
@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 231,
-   "news": 228,
+   "total": 239,
+   "news": 236,
    "articles": 3,
    "positive": 0,
-   "neutral": 231,
+   "neutral": 239,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "SA": 13,
-    "US": 61,
-    "GB": 50,
+    "US": 63,
+    "GB": 54,
     "HK": 4,
     "FR": 4
    },
@@ -4578,11 +4578,11 @@
     "Deadline": 1,
     "Al Majalla": 1,
     "Al-Monitor": 9,
-    "Reuters": 23,
-    "WSJ": 18,
+    "Reuters": 26,
+    "WSJ": 19,
     "South China Morning Post": 4,
     "Myanmar International TV": 1,
-    "AP News": 8,
+    "AP News": 9,
     "The New York Times": 9,
     "The Washington Post": 6,
     "Arab News PK": 3,
@@ -4599,7 +4599,7 @@
     "https://houseofsaud.com/": 2,
     "Eurasia Review": 1,
     "Al Jazeera": 2,
-    "The Guardian": 4,
+    "The Guardian": 5,
     "Mining.com.au": 1,
     "The Times of India": 1,
     "Report.az": 1,
@@ -4658,7 +4658,8 @@
     "Grand View Research": 1,
     "FF News": 1,
     "The Economic Times": 1,
-    "The Jerusalem Post": 1
+    "The Jerusalem Post": 2,
+    "BOAT International": 1
    },
    "sourceTone": {
     "Bloody Elbow": [
@@ -4693,12 +4694,12 @@
     ],
     "Reuters": [
      0,
-     23,
+     26,
      0
     ],
     "WSJ": [
      0,
-     18,
+     19,
      0
     ],
     "South China Morning Post": [
@@ -4713,7 +4714,7 @@
     ],
     "AP News": [
      0,
-     8,
+     9,
      0
     ],
     "The New York Times": [
@@ -4798,7 +4799,7 @@
     ],
     "The Guardian": [
      0,
-     4,
+     5,
      0
     ],
     "Mining.com.au": [
@@ -5092,6 +5093,11 @@
      0
     ],
     "The Jerusalem Post": [
+     0,
+     2,
+     0
+    ],
+    "BOAT International": [
      0,
      1,
      0

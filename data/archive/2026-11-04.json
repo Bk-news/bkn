@@ -65,6 +65,26 @@
    "mt": true
   },
   {
+   "id": "6e48cd55eccf564b",
+   "origin": "rss",
+   "source": "Reuters",
+   "author": "",
+   "title_ar": "Democratic victories bring historic breakthroughs for women and minorities",
+   "title_orig": "Democratic victories bring historic breakthroughs for women and minorities",
+   "title_en": "Democratic victories bring historic breakthroughs for women and minorities",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNajdEWW5uUmVIMVJpcmRhTjBNUnl5NUY5ZGdmdDJnWTRIVUViQ1hNWGl0VmE1aGd6R1E0dGpNM3p5Mk1WRTVNVlBCZ1VpMmxjejJtdmZfOTEtRlg4MjhhNERqOHczUVY5VkZHUmhmbmkwS0ZRRkh2eDNsMzdPazRva2lSdHlXdEhIcWlWSjhIS29JTzJiWDJtdUVQQUwwbndhMEoyVnBfNENzMTZwcGxUXw?oc=5",
+   "published": "2026-11-04T23:33:44.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "Democratic victories bring historic breakthroughs for women and minorities &nbsp;&nbsp; Reuters",
+   "lang": "en"
+  },
+  {
    "id": "d1ab7a19209bc0db",
    "origin": "rss",
    "source": "Foreign Policy",
@@ -6002,6 +6022,26 @@
    "desc": "Pablo Torre Finds Out - Page 8 &nbsp;&nbsp; The New York Times",
    "lang": "en",
    "mt": true
+  },
+  {
+   "id": "e0219439ec876254",
+   "origin": "rss",
+   "source": "WSJ",
+   "author": "",
+   "title_ar": "Empower Brands Makes Unsolicited Bid to Buy Helen of Troy for $1.6 Billion",
+   "title_orig": "Empower Brands Makes Unsolicited Bid to Buy Helen of Troy for $1.6 Billion",
+   "title_en": "Empower Brands Makes Unsolicited Bid to Buy Helen of Troy for $1.6 Billion",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSW9yLUFVb09mNjFzbl84Tld2M2VhNkY1WDVydkNGNXg3S2E2dUFYbkg4OG15MlJZblJEU2ZsekxQTWZYT3oxUUxpcXNTbFhTYXc1eE9rVVpUWkozVjZoanVuQldSQzlMZWZIMmdWZWoyZEk2TWY0VTJhZnZZb0ZFZkN4b1FUSXJCYldjcTlrVTF0NlljN2JRV2pya1dUOHZMZVUzSjZ3S1FtMG0zTlBpR2RhNi1TMFBT?oc=5",
+   "published": "2026-11-04T13:48:00.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "Empower Brands Makes Unsolicited Bid to Buy Helen of Troy for $1.6 Billion &nbsp;&nbsp; WSJ",
+   "lang": "en"
   },
   {
    "id": "9a66ed15261d34b0",
