@@ -2602,16 +2602,16 @@
    }
   },
   "2026-11-03": {
-   "total": 922,
-   "news": 903,
+   "total": 925,
+   "news": 906,
    "articles": 19,
    "positive": 0,
-   "neutral": 922,
+   "neutral": 925,
    "critical": 0,
    "mbs": 10,
    "countries": {
     "US": 296,
-    "GB": 274,
+    "GB": 277,
     "HK": 6,
     "FR": 9,
     "SA": 92,
@@ -2625,7 +2625,7 @@
     "WSJ": 47,
     "Financial Times": 51,
     "Al-Monitor": 43,
-    "Reuters": 170,
+    "Reuters": 173,
     "Bloomberg.com": 67,
     "חרדים10": 1,
     "BBC": 22,
@@ -2823,7 +2823,7 @@
     ],
     "Reuters": [
      0,
-     170,
+     173,
      0
     ],
     "Bloomberg.com": [
@@ -3669,17 +3669,17 @@
    }
   },
   "2026-11-04": {
-   "total": 562,
-   "news": 553,
+   "total": 564,
+   "news": 555,
    "articles": 9,
    "positive": 0,
-   "neutral": 562,
+   "neutral": 564,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "SA": 53,
     "US": 120,
-    "GB": 197,
+    "GB": 199,
     "JP": 1,
     "FR": 5,
     "HK": 2,
@@ -3693,7 +3693,7 @@
     "Al-Monitor": 35,
     "The Washington Post": 7,
     "Bloomberg.com": 23,
-    "Reuters": 125,
+    "Reuters": 127,
     "Nikkei Asia": 1,
     "WSJ": 18,
     "The Australian": 1,
@@ -3865,7 +3865,7 @@
     ],
     "Reuters": [
      0,
-     125,
+     127,
      0
     ],
     "Nikkei Asia": [
@@ -4556,11 +4556,11 @@
    }
   },
   "2026-11-05": {
-   "total": 40,
-   "news": 40,
+   "total": 41,
+   "news": 41,
    "articles": 0,
    "positive": 0,
-   "neutral": 40,
+   "neutral": 41,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -4596,7 +4596,8 @@
     "LATTE Luxury News": 1,
     "Saudi Gazette": 1,
     "https://houseofsaud.com/": 1,
-    "Eurasia Review": 1
+    "Eurasia Review": 1,
+    "Al Jazeera": 1
    },
    "sourceTone": {
     "Bloody Elbow": [
@@ -4725,6 +4726,11 @@
      0
     ],
     "Eurasia Review": [
+     0,
+     1,
+     0
+    ],
+    "Al Jazeera": [
      0,
      1,
      0
