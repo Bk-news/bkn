@@ -3669,17 +3669,17 @@
    }
   },
   "2026-11-04": {
-   "total": 524,
-   "news": 515,
+   "total": 527,
+   "news": 518,
    "articles": 9,
    "positive": 0,
-   "neutral": 524,
+   "neutral": 527,
    "critical": 0,
-   "mbs": 19,
+   "mbs": 20,
    "countries": {
     "SA": 49,
-    "US": 113,
-    "GB": 173,
+    "US": 114,
+    "GB": 174,
     "JP": 1,
     "FR": 5,
     "HK": 2,
@@ -3693,7 +3693,7 @@
     "Al-Monitor": 35,
     "The Washington Post": 5,
     "Bloomberg.com": 23,
-    "Reuters": 110,
+    "Reuters": 111,
     "Nikkei Asia": 1,
     "WSJ": 17,
     "The Australian": 1,
@@ -3713,7 +3713,7 @@
     "A News": 1,
     "BBC": 15,
     "Financial Times": 24,
-    "AP News": 16,
+    "AP News": 17,
     "Saudi Gazette": 10,
     "TahawulTech.com": 1,
     "The National": 4,
@@ -3828,7 +3828,8 @@
     "SeafoodSource": 1,
     "صحيفة سبق الإلكترونية": 1,
     "Trend News Agency": 1,
-    "Toronto Sun": 1
+    "Toronto Sun": 1,
+    "Xinhua": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -3863,7 +3864,7 @@
     ],
     "Reuters": [
      0,
-     110,
+     111,
      0
     ],
     "Nikkei Asia": [
@@ -3963,7 +3964,7 @@
     ],
     "AP News": [
      0,
-     16,
+     17,
      0
     ],
     "Saudi Gazette": [
@@ -4537,6 +4538,11 @@
      0
     ],
     "Toronto Sun": [
+     0,
+     1,
+     0
+    ],
+    "Xinhua": [
      0,
      1,
      0
