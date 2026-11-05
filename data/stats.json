@@ -4556,16 +4556,16 @@
    }
   },
   "2026-11-05": {
-   "total": 446,
-   "news": 425,
+   "total": 449,
+   "news": 428,
    "articles": 21,
    "positive": 0,
-   "neutral": 446,
+   "neutral": 449,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "SA": 45,
-    "US": 123,
+    "SA": 46,
+    "US": 124,
     "GB": 103,
     "HK": 5,
     "FR": 8,
@@ -4576,7 +4576,7 @@
    "sources": {
     "Bloody Elbow": 1,
     "وكالة الأنباء السعودية": 1,
-    "Arab News": 49,
+    "Arab News": 50,
     "Deadline": 2,
     "Al Majalla": 1,
     "Al-Monitor": 33,
@@ -4585,7 +4585,7 @@
     "South China Morning Post": 5,
     "Myanmar International TV": 1,
     "AP News": 15,
-    "The New York Times": 20,
+    "The New York Times": 21,
     "The Washington Post": 10,
     "Arab News PK": 3,
     "The Express Tribune": 2,
@@ -4695,7 +4695,8 @@
     "The National": 1,
     "EnergyNow": 1,
     "Egypt Today": 1,
-    "The Indian Express": 1
+    "The Indian Express": 1,
+    "Business Standard": 1
    },
    "sourceTone": {
     "Bloody Elbow": [
@@ -4710,7 +4711,7 @@
     ],
     "Arab News": [
      0,
-     49,
+     50,
      0
     ],
     "Deadline": [
@@ -4755,7 +4756,7 @@
     ],
     "The New York Times": [
      0,
-     20,
+     21,
      0
     ],
     "The Washington Post": [
@@ -5304,6 +5305,11 @@
      0
     ],
     "The Indian Express": [
+     0,
+     1,
+     0
+    ],
+    "Business Standard": [
      0,
      1,
      0
