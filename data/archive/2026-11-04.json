@@ -254,6 +254,26 @@
    "mt": true
   },
   {
+   "id": "a8596cb3ca0687de",
+   "origin": "rss",
+   "source": "Reuters",
+   "author": "",
+   "title_ar": "Hong Kong activist Joshua Wong gets 10 years in jail on national security charge",
+   "title_orig": "Hong Kong activist Joshua Wong gets 10 years in jail on national security charge",
+   "title_en": "Hong Kong activist Joshua Wong gets 10 years in jail on national security charge",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeW4tNlZjWHJjNXhIQXJhS3owZ3JIQ1U0VEo5RERfSGhldWx6Z0lQSzZTcmR5TU9aVzd3aWJaZVJwMHRIRVViMndnNDBESERVM2F6UWNyakVEMXdkNllqY3hOSTRzMV9yVGpIT1I1YkZjT01JNFF4cE05VW1VMzNNcjh2T1JqaEI5dGJBNGltcVhmaF9pYnM2WGg4MUJpOFRMY1NwcVVOR1RfdXRkaElFMEY2alEtWDhtYWswaA?oc=5",
+   "published": "2026-11-04T23:02:00.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "Hong Kong activist Joshua Wong gets 10 years in jail on national security charge &nbsp;&nbsp; Reuters",
+   "lang": "en"
+  },
+  {
    "id": "6c144a050345395b",
    "origin": "rss",
    "source": "Fightful",
@@ -9338,6 +9358,26 @@
    "desc": "Bread Financial Holdings, Inc., BDFNL:PKL summary &nbsp;&nbsp; Financial Times",
    "lang": "en",
    "mt": true
+  },
+  {
+   "id": "9b620c6781b0c298",
+   "origin": "rss",
+   "source": "Reuters",
+   "author": "",
+   "title_ar": "Trump approval near career low ahead of elections, Reuters/Ipsos poll finds",
+   "title_orig": "Trump approval near career low ahead of elections, Reuters/Ipsos poll finds",
+   "title_en": "Trump approval near career low ahead of elections, Reuters/Ipsos poll finds",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQckJ4X3UzNnZ3QWxTaXBzanBjc000blVFTXpDRDFEYnFUa29ZcWpOM1lxWS1LSWpMSlFfMFYzZ3U0UE4xZGpSQXJHc2ZneGllSzRZMjdZS3p4dzM5ZUk1dWtOd2ticXV5OGZBLXZqVHhSMi1uTGl1cUR5a2wzZm45cVllZy05UXBURGhLaWN5WWU0SlNMdS1zamRodWhNNUlqWEJKUW1qZmNCRHpnNFRscXlR?oc=5",
+   "published": "2026-11-04T08:04:56.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "Trump approval near career low ahead of elections, Reuters/Ipsos poll finds &nbsp;&nbsp; Reuters",
+   "lang": "en"
   },
   {
    "id": "e3c88e9d909bfb0c",
