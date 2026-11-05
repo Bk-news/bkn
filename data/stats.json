@@ -4556,11 +4556,11 @@
    }
   },
   "2026-11-05": {
-   "total": 428,
-   "news": 408,
+   "total": 431,
+   "news": 411,
    "articles": 20,
    "positive": 0,
-   "neutral": 428,
+   "neutral": 431,
    "critical": 0,
    "mbs": 7,
    "countries": {
@@ -4689,7 +4689,10 @@
     "Investing.com": 1,
     "POST Wrestling": 1,
     "India Today": 1,
-    "Yahoo Sports": 1
+    "Yahoo Sports": 1,
+    "GIS Reports": 1,
+    "Middle East Online": 1,
+    "The National": 1
    },
    "sourceTone": {
     "Bloody Elbow": [
@@ -5268,6 +5271,21 @@
      0
     ],
     "Yahoo Sports": [
+     0,
+     1,
+     0
+    ],
+    "GIS Reports": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Online": [
+     0,
+     1,
+     0
+    ],
+    "The National": [
      0,
      1,
      0
