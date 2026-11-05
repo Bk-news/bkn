@@ -3669,17 +3669,17 @@
    }
   },
   "2026-11-04": {
-   "total": 607,
-   "news": 598,
+   "total": 611,
+   "news": 602,
    "articles": 9,
    "positive": 0,
-   "neutral": 607,
+   "neutral": 611,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "SA": 71,
     "US": 123,
-    "GB": 218,
+    "GB": 222,
     "JP": 1,
     "FR": 6,
     "HK": 2,
@@ -3712,7 +3712,7 @@
     "South China Morning Post": 2,
     "A News": 1,
     "BBC": 15,
-    "Financial Times": 40,
+    "Financial Times": 44,
     "AP News": 18,
     "Saudi Gazette": 16,
     "TahawulTech.com": 1,
@@ -3960,7 +3960,7 @@
     ],
     "Financial Times": [
      0,
-     40,
+     44,
      0
     ],
     "AP News": [
@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 194,
-   "news": 191,
+   "total": 200,
+   "news": 197,
    "articles": 3,
    "positive": 0,
-   "neutral": 194,
+   "neutral": 200,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "SA": 12,
-    "US": 53,
-    "GB": 30,
+    "US": 55,
+    "GB": 33,
     "HK": 4,
     "FR": 4
    },
@@ -4577,7 +4577,7 @@
     "Arab News": 15,
     "Deadline": 1,
     "Al Majalla": 1,
-    "Al-Monitor": 7,
+    "Al-Monitor": 9,
     "Reuters": 10,
     "WSJ": 15,
     "South China Morning Post": 4,
@@ -4606,7 +4606,7 @@
     "Oz Arab Media": 1,
     "Yemen Online": 1,
     "BBC": 4,
-    "Financial Times": 10,
+    "Financial Times": 13,
     "Bloomberg.com": 10,
     "France 24": 2,
     "Le Monde.fr": 3,
@@ -4617,7 +4617,7 @@
     "Female First": 1,
     "MARCA": 1,
     "Zawya": 1,
-    "Anadolu Ajansı": 3,
+    "Anadolu Ajansı": 4,
     "WION": 2,
     "AzerNews": 1,
     "سانا": 2,
@@ -4684,7 +4684,7 @@
     ],
     "Al-Monitor": [
      0,
-     7,
+     9,
      0
     ],
     "Reuters": [
@@ -4829,7 +4829,7 @@
     ],
     "Financial Times": [
      0,
-     10,
+     13,
      0
     ],
     "Bloomberg.com": [
@@ -4884,7 +4884,7 @@
     ],
     "Anadolu Ajansı": [
      0,
-     3,
+     4,
      0
     ],
     "WION": [
