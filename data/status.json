@@ -1,23 +1,23 @@
 {
- "run": "2026-11-05T03:48:46.921Z",
+ "run": "2026-11-05T03:49:46.496Z",
  "key": true,
  "model": "claude-haiku-5-5",
  "feedsOk": 24,
  "feedsFailed": [],
  "fetched": 839,
- "fresh": 68,
- "world": 68,
- "analyzed": 39,
+ "fresh": 29,
+ "world": 29,
+ "analyzed": 28,
  "analyzeErrors": 1,
- "lastError": "Anthropic 401: {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Cgj6eAg2ymN6yZPwXQUi6\"}",
+ "lastError": "Anthropic 401: {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Cgj6iVpLHBELXxd5M9WtL\"}",
  "telegram": 20,
  "royal": 0,
- "mt": 40,
+ "mt": 29,
  "keyRejected": true,
- "pending": 582,
+ "pending": 571,
  "added": {
-  "news": 40,
+  "news": 29,
   "articles": 0,
-  "breaking": 1
+  "breaking": 0
  }
 }
