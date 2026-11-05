@@ -4556,11 +4556,11 @@
    }
   },
   "2026-11-05": {
-   "total": 42,
-   "news": 42,
+   "total": 43,
+   "news": 43,
    "articles": 0,
    "positive": 0,
-   "neutral": 42,
+   "neutral": 43,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -4588,7 +4588,7 @@
     "The Express Tribune": 2,
     "The Nation Newspaper": 1,
     "Gulf News": 1,
-    "UA.NEWS": 2,
+    "UA.NEWS": 3,
     "Firstpost": 1,
     "ThePrint": 1,
     "Facebook": 1,
@@ -4688,7 +4688,7 @@
     ],
     "UA.NEWS": [
      0,
-     2,
+     3,
      0
     ],
     "Firstpost": [
