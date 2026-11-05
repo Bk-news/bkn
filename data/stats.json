@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 220,
-   "news": 217,
+   "total": 223,
+   "news": 220,
    "articles": 3,
    "positive": 0,
-   "neutral": 220,
+   "neutral": 223,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "SA": 13,
     "US": 60,
-    "GB": 42,
+    "GB": 44,
     "HK": 4,
     "FR": 4
    },
@@ -4578,7 +4578,7 @@
     "Deadline": 1,
     "Al Majalla": 1,
     "Al-Monitor": 9,
-    "Reuters": 18,
+    "Reuters": 19,
     "WSJ": 18,
     "South China Morning Post": 4,
     "Myanmar International TV": 1,
@@ -4606,7 +4606,7 @@
     "Oz Arab Media": 1,
     "Yemen Online": 1,
     "BBC": 4,
-    "Financial Times": 14,
+    "Financial Times": 15,
     "Bloomberg.com": 11,
     "France 24": 2,
     "Le Monde.fr": 3,
@@ -4657,7 +4657,8 @@
     "CairoScene": 1,
     "Grand View Research": 1,
     "FF News": 1,
-    "The Economic Times": 1
+    "The Economic Times": 1,
+    "The Jerusalem Post": 1
    },
    "sourceTone": {
     "Bloody Elbow": [
@@ -4692,7 +4693,7 @@
     ],
     "Reuters": [
      0,
-     18,
+     19,
      0
     ],
     "WSJ": [
@@ -4832,7 +4833,7 @@
     ],
     "Financial Times": [
      0,
-     14,
+     15,
      0
     ],
     "Bloomberg.com": [
@@ -5086,6 +5087,11 @@
      0
     ],
     "The Economic Times": [
+     0,
+     1,
+     0
+    ],
+    "The Jerusalem Post": [
      0,
      1,
      0
