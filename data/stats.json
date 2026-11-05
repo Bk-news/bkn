@@ -2602,15 +2602,15 @@
    }
   },
   "2026-11-03": {
-   "total": 936,
-   "news": 917,
+   "total": 937,
+   "news": 918,
    "articles": 19,
    "positive": 0,
-   "neutral": 936,
+   "neutral": 937,
    "critical": 0,
    "mbs": 10,
    "countries": {
-    "US": 300,
+    "US": 301,
     "GB": 284,
     "HK": 6,
     "FR": 9,
@@ -2626,7 +2626,7 @@
     "Financial Times": 52,
     "Al-Monitor": 43,
     "Reuters": 178,
-    "Bloomberg.com": 68,
+    "Bloomberg.com": 69,
     "חרדים10": 1,
     "BBC": 23,
     "The Guardian": 33,
@@ -2828,7 +2828,7 @@
     ],
     "Bloomberg.com": [
      0,
-     68,
+     69,
      0
     ],
     "חרדים10": [
@@ -3669,16 +3669,16 @@
    }
   },
   "2026-11-04": {
-   "total": 604,
-   "news": 595,
+   "total": 606,
+   "news": 597,
    "articles": 9,
    "positive": 0,
-   "neutral": 604,
+   "neutral": 606,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "SA": 71,
-    "US": 122,
+    "US": 123,
     "GB": 217,
     "JP": 1,
     "FR": 6,
@@ -3695,7 +3695,7 @@
     "Bloomberg.com": 23,
     "Reuters": 138,
     "Nikkei Asia": 1,
-    "WSJ": 18,
+    "WSJ": 19,
     "The Australian": 1,
     "Middle East Eye": 1,
     "Asia News Network": 1,
@@ -3785,7 +3785,7 @@
     "Daily Monitor": 1,
     "Diari ARA": 1,
     "TheSportster": 1,
-    "Enab Baladi": 2,
+    "Enab Baladi": 3,
     "El Constitucional": 1,
     "Channels Television": 2,
     "Vanguard News": 1,
@@ -3875,7 +3875,7 @@
     ],
     "WSJ": [
      0,
-     18,
+     19,
      0
     ],
     "The Australian": [
@@ -4325,7 +4325,7 @@
     ],
     "Enab Baladi": [
      0,
-     2,
+     3,
      0
     ],
     "El Constitucional": [
@@ -4556,11 +4556,11 @@
    }
   },
   "2026-11-05": {
-   "total": 176,
-   "news": 173,
+   "total": 184,
+   "news": 181,
    "articles": 3,
    "positive": 0,
-   "neutral": 176,
+   "neutral": 184,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -4596,7 +4596,7 @@
     "WR Immigration": 1,
     "LATTE Luxury News": 1,
     "Saudi Gazette": 3,
-    "https://houseofsaud.com/": 1,
+    "https://houseofsaud.com/": 2,
     "Eurasia Review": 1,
     "Al Jazeera": 1,
     "The Guardian": 3,
@@ -4611,7 +4611,7 @@
     "France 24": 2,
     "Le Monde.fr": 3,
     "The Economist": 3,
-    "ASHARQ AL-AWSAT English": 1,
+    "ASHARQ AL-AWSAT English": 2,
     "StreetInsider": 1,
     "شبكة تواصل الإخبارية": 1,
     "Female First": 1,
@@ -4627,7 +4627,7 @@
     "A News": 1,
     "Khaama Press": 1,
     "Rus Tourism News": 1,
-    "Construction Week Online": 1,
+    "Construction Week Online": 2,
     "Yeni Şafak English": 1,
     "Fast Company Middle East": 1,
     "NDTV Sports": 1,
@@ -4639,13 +4639,17 @@
     "TradingView": 2,
     "Breaking Travel News": 1,
     "Dawn": 1,
-    "Yahoo": 1,
+    "Yahoo": 2,
     "ANHA": 1,
     "Azərtac": 1,
     "CounterPunch.org": 1,
     "Latest news from Azerbaijan": 1,
     "Deccan Herald": 1,
-    "Small Wars Journal": 1
+    "Small Wars Journal": 1,
+    "thenationalnews.com": 1,
+    "Rediff MoneyWiz": 1,
+    "Pajhwok Afghan News": 1,
+    "Al Arabiya English": 1
    },
    "sourceTone": {
     "Bloody Elbow": [
@@ -4770,7 +4774,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     1,
+     2,
      0
     ],
     "Eurasia Review": [
@@ -4845,7 +4849,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     1,
+     2,
      0
     ],
     "StreetInsider": [
@@ -4925,7 +4929,7 @@
     ],
     "Construction Week Online": [
      0,
-     1,
+     2,
      0
     ],
     "Yeni Şafak English": [
@@ -4985,7 +4989,7 @@
     ],
     "Yahoo": [
      0,
-     1,
+     2,
      0
     ],
     "ANHA": [
@@ -5014,6 +5018,26 @@
      0
     ],
     "Small Wars Journal": [
+     0,
+     1,
+     0
+    ],
+    "thenationalnews.com": [
+     0,
+     1,
+     0
+    ],
+    "Rediff MoneyWiz": [
+     0,
+     1,
+     0
+    ],
+    "Pajhwok Afghan News": [
+     0,
+     1,
+     0
+    ],
+    "Al Arabiya English": [
      0,
      1,
      0
