@@ -3669,16 +3669,16 @@
    }
   },
   "2026-11-04": {
-   "total": 564,
-   "news": 555,
+   "total": 566,
+   "news": 557,
    "articles": 9,
    "positive": 0,
-   "neutral": 564,
+   "neutral": 566,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "SA": 53,
-    "US": 120,
+    "US": 121,
     "GB": 199,
     "JP": 1,
     "FR": 5,
@@ -3708,7 +3708,7 @@
     "France 24": 3,
     "The Guardian": 23,
     "Foreign Affairs": 1,
-    "The New York Times": 12,
+    "The New York Times": 13,
     "South China Morning Post": 2,
     "A News": 1,
     "BBC": 15,
@@ -3790,7 +3790,7 @@
     "Channels Television": 2,
     "Vanguard News": 1,
     "The Times of Israel": 2,
-    "Yahoo Sports": 3,
+    "Yahoo Sports": 4,
     "TheCable": 2,
     "Rare Earth Exchanges": 1,
     "صحيفة مال": 1,
@@ -3940,7 +3940,7 @@
     ],
     "The New York Times": [
      0,
-     12,
+     13,
      0
     ],
     "South China Morning Post": [
@@ -4350,7 +4350,7 @@
     ],
     "Yahoo Sports": [
      0,
-     3,
+     4,
      0
     ],
     "TheCable": [
