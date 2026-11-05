@@ -2602,16 +2602,16 @@
    }
   },
   "2026-11-03": {
-   "total": 939,
-   "news": 919,
+   "total": 940,
+   "news": 920,
    "articles": 20,
    "positive": 0,
-   "neutral": 939,
+   "neutral": 940,
    "critical": 0,
    "mbs": 10,
    "countries": {
     "US": 301,
-    "GB": 286,
+    "GB": 287,
     "HK": 6,
     "FR": 9,
     "SA": 92,
@@ -2625,7 +2625,7 @@
     "WSJ": 48,
     "Financial Times": 52,
     "Al-Monitor": 43,
-    "Reuters": 179,
+    "Reuters": 180,
     "Bloomberg.com": 69,
     "חרדים10": 1,
     "BBC": 23,
@@ -2823,7 +2823,7 @@
     ],
     "Reuters": [
      0,
-     179,
+     180,
      0
     ],
     "Bloomberg.com": [
@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 215,
-   "news": 212,
+   "total": 219,
+   "news": 216,
    "articles": 3,
    "positive": 0,
-   "neutral": 215,
+   "neutral": 219,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "SA": 13,
-    "US": 58,
-    "GB": 41,
+    "US": 59,
+    "GB": 42,
     "HK": 4,
     "FR": 4
    },
@@ -4578,7 +4578,7 @@
     "Deadline": 1,
     "Al Majalla": 1,
     "Al-Monitor": 9,
-    "Reuters": 17,
+    "Reuters": 18,
     "WSJ": 17,
     "South China Morning Post": 4,
     "Myanmar International TV": 1,
@@ -4598,7 +4598,7 @@
     "Saudi Gazette": 3,
     "https://houseofsaud.com/": 2,
     "Eurasia Review": 1,
-    "Al Jazeera": 1,
+    "Al Jazeera": 2,
     "The Guardian": 3,
     "Mining.com.au": 1,
     "The Times of India": 1,
@@ -4607,7 +4607,7 @@
     "Yemen Online": 1,
     "BBC": 4,
     "Financial Times": 14,
-    "Bloomberg.com": 10,
+    "Bloomberg.com": 11,
     "France 24": 2,
     "Le Monde.fr": 3,
     "The Economist": 3,
@@ -4656,7 +4656,8 @@
     "Cruise & Ferry Review": 1,
     "CairoScene": 1,
     "Grand View Research": 1,
-    "FF News": 1
+    "FF News": 1,
+    "The Economic Times": 1
    },
    "sourceTone": {
     "Bloody Elbow": [
@@ -4691,7 +4692,7 @@
     ],
     "Reuters": [
      0,
-     17,
+     18,
      0
     ],
     "WSJ": [
@@ -4791,7 +4792,7 @@
     ],
     "Al Jazeera": [
      0,
-     1,
+     2,
      0
     ],
     "The Guardian": [
@@ -4836,7 +4837,7 @@
     ],
     "Bloomberg.com": [
      0,
-     10,
+     11,
      0
     ],
     "France 24": [
@@ -5080,6 +5081,11 @@
      0
     ],
     "FF News": [
+     0,
+     1,
+     0
+    ],
+    "The Economic Times": [
      0,
      1,
      0
