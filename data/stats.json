@@ -2602,15 +2602,15 @@
    }
   },
   "2026-11-03": {
-   "total": 944,
-   "news": 924,
+   "total": 945,
+   "news": 925,
    "articles": 20,
    "positive": 0,
-   "neutral": 944,
+   "neutral": 945,
    "critical": 0,
    "mbs": 10,
    "countries": {
-    "US": 303,
+    "US": 304,
     "GB": 289,
     "HK": 6,
     "FR": 9,
@@ -2626,7 +2626,7 @@
     "Financial Times": 52,
     "Al-Monitor": 43,
     "Reuters": 181,
-    "Bloomberg.com": 69,
+    "Bloomberg.com": 70,
     "חרדים10": 1,
     "BBC": 23,
     "The Guardian": 34,
@@ -2828,7 +2828,7 @@
     ],
     "Bloomberg.com": [
      0,
-     69,
+     70,
      0
     ],
     "חרדים10": [
@@ -3669,17 +3669,17 @@
    }
   },
   "2026-11-04": {
-   "total": 639,
-   "news": 630,
+   "total": 642,
+   "news": 633,
    "articles": 9,
    "positive": 0,
-   "neutral": 639,
+   "neutral": 642,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "SA": 73,
-    "US": 133,
-    "GB": 236,
+    "US": 135,
+    "GB": 237,
     "JP": 1,
     "FR": 8,
     "HK": 2,
@@ -3690,10 +3690,10 @@
     "Arabian Gulf Business Insight | AGBI": 2,
     "Arab News": 73,
     "Heavy.com": 1,
-    "Al-Monitor": 36,
+    "Al-Monitor": 37,
     "The Washington Post": 7,
     "Bloomberg.com": 25,
-    "Reuters": 152,
+    "Reuters": 153,
     "Nikkei Asia": 1,
     "WSJ": 24,
     "The Australian": 1,
@@ -3713,7 +3713,7 @@
     "A News": 1,
     "BBC": 15,
     "Financial Times": 45,
-    "AP News": 20,
+    "AP News": 21,
     "Saudi Gazette": 16,
     "TahawulTech.com": 1,
     "The National": 4,
@@ -3850,7 +3850,7 @@
     ],
     "Al-Monitor": [
      0,
-     36,
+     37,
      0
     ],
     "The Washington Post": [
@@ -3865,7 +3865,7 @@
     ],
     "Reuters": [
      0,
-     152,
+     153,
      0
     ],
     "Nikkei Asia": [
@@ -3965,7 +3965,7 @@
     ],
     "AP News": [
      0,
-     20,
+     21,
      0
     ],
     "Saudi Gazette": [
@@ -4556,31 +4556,32 @@
    }
   },
   "2026-11-05": {
-   "total": 392,
-   "news": 372,
+   "total": 428,
+   "news": 408,
    "articles": 20,
    "positive": 0,
-   "neutral": 392,
+   "neutral": 428,
    "critical": 0,
-   "mbs": 6,
+   "mbs": 7,
    "countries": {
-    "SA": 38,
-    "US": 118,
+    "SA": 44,
+    "US": 119,
     "GB": 97,
     "HK": 5,
     "FR": 7,
-    "DE": 1
+    "DE": 1,
+    "JP": 1
    },
    "topics": {},
    "sources": {
     "Bloody Elbow": 1,
     "وكالة الأنباء السعودية": 1,
-    "Arab News": 39,
-    "Deadline": 1,
+    "Arab News": 48,
+    "Deadline": 2,
     "Al Majalla": 1,
     "Al-Monitor": 31,
     "Reuters": 40,
-    "WSJ": 25,
+    "WSJ": 26,
     "South China Morning Post": 5,
     "Myanmar International TV": 1,
     "AP News": 14,
@@ -4589,9 +4590,9 @@
     "Arab News PK": 3,
     "The Express Tribune": 2,
     "The Nation Newspaper": 1,
-    "Gulf News": 2,
-    "UA.NEWS": 3,
-    "Firstpost": 2,
+    "Gulf News": 3,
+    "UA.NEWS": 4,
+    "Firstpost": 3,
     "ThePrint": 1,
     "Facebook": 3,
     "WR Immigration": 1,
@@ -4612,15 +4613,15 @@
     "France 24": 4,
     "Le Monde.fr": 4,
     "The Economist": 17,
-    "ASHARQ AL-AWSAT English": 2,
+    "ASHARQ AL-AWSAT English": 5,
     "StreetInsider": 1,
     "شبكة تواصل الإخبارية": 1,
     "Female First": 1,
     "MARCA": 1,
-    "Zawya": 1,
-    "Anadolu Ajansı": 4,
+    "Zawya": 2,
+    "Anadolu Ajansı": 6,
     "WION": 2,
-    "AzerNews": 1,
+    "AzerNews": 2,
     "سانا": 2,
     "Kurdistan24": 1,
     "CGTN": 1,
@@ -4631,7 +4632,7 @@
     "Construction Week Online": 2,
     "Yeni Şafak English": 1,
     "Fast Company Middle East": 1,
-    "NDTV Sports": 1,
+    "NDTV Sports": 2,
     "8AM Media": 1,
     "Vietnam Investment Review - VIR": 1,
     "صوت الإمارات": 1,
@@ -4644,13 +4645,13 @@
     "ANHA": 1,
     "Azərtac": 1,
     "CounterPunch.org": 1,
-    "Latest news from Azerbaijan": 2,
+    "Latest news from Azerbaijan": 3,
     "Deccan Herald": 1,
     "Small Wars Journal": 1,
     "thenationalnews.com": 1,
     "Rediff MoneyWiz": 1,
     "Pajhwok Afghan News": 1,
-    "Al Arabiya English": 2,
+    "Al Arabiya English": 3,
     "Bergen Record": 1,
     "CNN": 3,
     "Outlook India": 1,
@@ -4671,13 +4672,24 @@
     "TV with Thinus": 1,
     "The New Arab": 2,
     "Kashmir Observer": 1,
-    "marketscreener.com": 1,
+    "marketscreener.com": 2,
     "DW.com": 1,
     "NewsCord": 1,
     "Vanguard News": 1,
     "Friends of Socialist China": 1,
     "Construction Review": 1,
-    "Ahram Online": 1
+    "Ahram Online": 1,
+    "Nikkei Asia": 1,
+    "Fragomen": 1,
+    "The Diplomatic Insight": 1,
+    "Telecompaper": 1,
+    "Egyptian Gazette": 1,
+    "Trend News Agency": 1,
+    "IndexBox": 1,
+    "Investing.com": 1,
+    "POST Wrestling": 1,
+    "India Today": 1,
+    "Yahoo Sports": 1
    },
    "sourceTone": {
     "Bloody Elbow": [
@@ -4692,12 +4704,12 @@
     ],
     "Arab News": [
      0,
-     39,
+     48,
      0
     ],
     "Deadline": [
      0,
-     1,
+     2,
      0
     ],
     "Al Majalla": [
@@ -4717,7 +4729,7 @@
     ],
     "WSJ": [
      0,
-     25,
+     26,
      0
     ],
     "South China Morning Post": [
@@ -4762,17 +4774,17 @@
     ],
     "Gulf News": [
      0,
-     2,
+     3,
      0
     ],
     "UA.NEWS": [
      0,
-     3,
+     4,
      0
     ],
     "Firstpost": [
      0,
-     2,
+     3,
      0
     ],
     "ThePrint": [
@@ -4877,7 +4889,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     2,
+     5,
      0
     ],
     "StreetInsider": [
@@ -4902,12 +4914,12 @@
     ],
     "Zawya": [
      0,
-     1,
+     2,
      0
     ],
     "Anadolu Ajansı": [
      0,
-     4,
+     6,
      0
     ],
     "WION": [
@@ -4917,7 +4929,7 @@
     ],
     "AzerNews": [
      0,
-     1,
+     2,
      0
     ],
     "سانا": [
@@ -4972,7 +4984,7 @@
     ],
     "NDTV Sports": [
      0,
-     1,
+     2,
      0
     ],
     "8AM Media": [
@@ -5037,7 +5049,7 @@
     ],
     "Latest news from Azerbaijan": [
      0,
-     2,
+     3,
      0
     ],
     "Deccan Herald": [
@@ -5067,7 +5079,7 @@
     ],
     "Al Arabiya English": [
      0,
-     2,
+     3,
      0
     ],
     "Bergen Record": [
@@ -5172,7 +5184,7 @@
     ],
     "marketscreener.com": [
      0,
-     1,
+     2,
      0
     ],
     "DW.com": [
@@ -5201,6 +5213,61 @@
      0
     ],
     "Ahram Online": [
+     0,
+     1,
+     0
+    ],
+    "Nikkei Asia": [
+     0,
+     1,
+     0
+    ],
+    "Fragomen": [
+     0,
+     1,
+     0
+    ],
+    "The Diplomatic Insight": [
+     0,
+     1,
+     0
+    ],
+    "Telecompaper": [
+     0,
+     1,
+     0
+    ],
+    "Egyptian Gazette": [
+     0,
+     1,
+     0
+    ],
+    "Trend News Agency": [
+     0,
+     1,
+     0
+    ],
+    "IndexBox": [
+     0,
+     1,
+     0
+    ],
+    "Investing.com": [
+     0,
+     1,
+     0
+    ],
+    "POST Wrestling": [
+     0,
+     1,
+     0
+    ],
+    "India Today": [
+     0,
+     1,
+     0
+    ],
+    "Yahoo Sports": [
      0,
      1,
      0
