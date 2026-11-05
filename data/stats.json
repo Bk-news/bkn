@@ -3669,19 +3669,19 @@
    }
   },
   "2026-11-04": {
-   "total": 646,
-   "news": 637,
+   "total": 648,
+   "news": 639,
    "articles": 9,
    "positive": 0,
-   "neutral": 646,
+   "neutral": 648,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "SA": 73,
     "US": 136,
-    "GB": 240,
+    "GB": 241,
     "JP": 1,
-    "FR": 8,
+    "FR": 9,
     "HK": 2,
     "DE": 1
    },
@@ -3706,7 +3706,7 @@
     "ABC News - Breaking News, Latest News and Videos": 2,
     "LiveScore": 1,
     "France 24": 3,
-    "The Guardian": 23,
+    "The Guardian": 24,
     "Foreign Affairs": 1,
     "The New York Times": 14,
     "South China Morning Post": 2,
@@ -3754,7 +3754,7 @@
     "NewsCord": 1,
     "Forbes Middle East": 1,
     "Fast Company Middle East": 1,
-    "Le Monde.fr": 5,
+    "Le Monde.fr": 6,
     "CairoScene": 2,
     "USA Today": 1,
     "وكالة الأنباء السعودية": 5,
@@ -3930,7 +3930,7 @@
     ],
     "The Guardian": [
      0,
-     23,
+     24,
      0
     ],
     "Foreign Affairs": [
@@ -4170,7 +4170,7 @@
     ],
     "Le Monde.fr": [
      0,
-     5,
+     6,
      0
     ],
     "CairoScene": [
@@ -4556,37 +4556,37 @@
    }
   },
   "2026-11-05": {
-   "total": 459,
-   "news": 437,
-   "articles": 22,
+   "total": 497,
+   "news": 470,
+   "articles": 27,
    "positive": 0,
-   "neutral": 459,
+   "neutral": 497,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "SA": 47,
-    "US": 124,
-    "GB": 107,
+    "SA": 52,
+    "US": 144,
+    "GB": 115,
     "HK": 6,
     "FR": 8,
     "DE": 1,
-    "JP": 1
+    "JP": 3
    },
    "topics": {},
    "sources": {
     "Bloody Elbow": 1,
     "وكالة الأنباء السعودية": 1,
-    "Arab News": 52,
+    "Arab News": 55,
     "Deadline": 2,
     "Al Majalla": 1,
-    "Al-Monitor": 33,
-    "Reuters": 41,
-    "WSJ": 26,
+    "Al-Monitor": 36,
+    "Reuters": 44,
+    "WSJ": 29,
     "South China Morning Post": 6,
     "Myanmar International TV": 1,
-    "AP News": 15,
-    "The New York Times": 21,
-    "The Washington Post": 10,
+    "AP News": 18,
+    "The New York Times": 24,
+    "The Washington Post": 13,
     "Arab News PK": 3,
     "The Express Tribune": 2,
     "The Nation Newspaper": 1,
@@ -4597,7 +4597,7 @@
     "Facebook": 3,
     "WR Immigration": 1,
     "LATTE Luxury News": 1,
-    "Saudi Gazette": 7,
+    "Saudi Gazette": 9,
     "https://houseofsaud.com/": 2,
     "Eurasia Review": 1,
     "Al Jazeera": 2,
@@ -4607,12 +4607,12 @@
     "Report.az": 1,
     "Oz Arab Media": 1,
     "Yemen Online": 2,
-    "BBC": 9,
-    "Financial Times": 26,
-    "Bloomberg.com": 16,
+    "BBC": 11,
+    "Financial Times": 28,
+    "Bloomberg.com": 17,
     "France 24": 4,
     "Le Monde.fr": 5,
-    "The Economist": 19,
+    "The Economist": 20,
     "ASHARQ AL-AWSAT English": 6,
     "StreetInsider": 1,
     "شبكة تواصل الإخبارية": 1,
@@ -4663,7 +4663,7 @@
     "The Jerusalem Post": 4,
     "BOAT International": 1,
     "Condé Nast Traveller Middle East": 1,
-    "Atlantic Council": 3,
+    "Atlantic Council": 5,
     "Qatar news agency": 1,
     "Spiegel": 1,
     "Variety": 1,
@@ -4679,7 +4679,7 @@
     "Friends of Socialist China": 1,
     "Construction Review": 1,
     "Ahram Online": 1,
-    "Nikkei Asia": 1,
+    "Nikkei Asia": 3,
     "Fragomen": 1,
     "The Diplomatic Insight": 1,
     "Telecompaper": 1,
@@ -4697,7 +4697,11 @@
     "Egypt Today": 1,
     "The Indian Express": 1,
     "Business Standard": 1,
-    "TV News Check": 1
+    "TV News Check": 1,
+    "Central Oregon Daily": 1,
+    "Foreign Policy": 2,
+    "The Times of Israel": 1,
+    "TRT World": 1
    },
    "sourceTone": {
     "Bloody Elbow": [
@@ -4712,7 +4716,7 @@
     ],
     "Arab News": [
      0,
-     52,
+     55,
      0
     ],
     "Deadline": [
@@ -4727,17 +4731,17 @@
     ],
     "Al-Monitor": [
      0,
-     33,
+     36,
      0
     ],
     "Reuters": [
      0,
-     41,
+     44,
      0
     ],
     "WSJ": [
      0,
-     26,
+     29,
      0
     ],
     "South China Morning Post": [
@@ -4752,17 +4756,17 @@
     ],
     "AP News": [
      0,
-     15,
+     18,
      0
     ],
     "The New York Times": [
      0,
-     21,
+     24,
      0
     ],
     "The Washington Post": [
      0,
-     10,
+     13,
      0
     ],
     "Arab News PK": [
@@ -4817,7 +4821,7 @@
     ],
     "Saudi Gazette": [
      0,
-     7,
+     9,
      0
     ],
     "https://houseofsaud.com/": [
@@ -4867,17 +4871,17 @@
     ],
     "BBC": [
      0,
-     9,
+     11,
      0
     ],
     "Financial Times": [
      0,
-     26,
+     28,
      0
     ],
     "Bloomberg.com": [
      0,
-     16,
+     17,
      0
     ],
     "France 24": [
@@ -4892,7 +4896,7 @@
     ],
     "The Economist": [
      0,
-     19,
+     20,
      0
     ],
     "ASHARQ AL-AWSAT English": [
@@ -5147,7 +5151,7 @@
     ],
     "Atlantic Council": [
      0,
-     3,
+     5,
      0
     ],
     "Qatar news agency": [
@@ -5227,7 +5231,7 @@
     ],
     "Nikkei Asia": [
      0,
-     1,
+     3,
      0
     ],
     "Fragomen": [
@@ -5316,6 +5320,26 @@
      0
     ],
     "TV News Check": [
+     0,
+     1,
+     0
+    ],
+    "Central Oregon Daily": [
+     0,
+     1,
+     0
+    ],
+    "Foreign Policy": [
+     0,
+     2,
+     0
+    ],
+    "The Times of Israel": [
+     0,
+     1,
+     0
+    ],
+    "TRT World": [
      0,
      1,
      0

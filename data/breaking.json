@@ -1,122 +1,38 @@
 [
  {
-  "id": "bded642767d59dbd",
+  "id": "05378042f762b405",
   "origin": "telegram",
   "source": "العربية عاجل",
   "country": "SA",
-  "title_ar": "مسؤول إيراني كبير لرويترز: المقترح النووي الجديد لن يناقش إلا بعد تلبية مطالبنا الـ7",
+  "title_ar": "أكسيوس: حاملة الطائرات روزفلت ستصل الشرق الأوسط منتصف الشهر الحالي",
   "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152602",
-  "published": "2026-11-05T19:47:01.000Z",
+  "url": "https://t.me/alarabiyaBr/152639",
+  "published": "2026-11-05T23:54:01.000Z",
   "subject": "saudi",
-  "added": "2026-11-05T19:47:01.000Z"
+  "added": "2026-11-05T23:54:01.000Z"
  },
  {
-  "id": "6551381988716050",
+  "id": "d6de9d799960a575",
   "origin": "telegram",
   "source": "العربية عاجل",
   "country": "SA",
-  "title_ar": "مسؤول إيراني كبير لرويترز: أميركا تراجع مقترح طهران النووي",
+  "title_ar": "أكسيوس عن مسؤول أميركي: الجيش يضع اللمسات الأخيرة لاحتمال استئناف حرب إيران",
   "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152601",
-  "published": "2026-11-05T19:46:01.000Z",
+  "url": "https://t.me/alarabiyaBr/152638",
+  "published": "2026-11-05T23:53:01.000Z",
   "subject": "saudi",
-  "added": "2026-11-05T19:46:01.000Z"
+  "added": "2026-11-05T23:53:01.000Z"
  },
  {
-  "id": "d9911eeaeab68a3b",
+  "id": "a42aebad81947dbe",
   "origin": "telegram",
   "source": "العربية عاجل",
   "country": "SA",
-  "title_ar": "مسؤول إيراني كبير لرويترز: أرسلنا مقترحا نوويا عبر قطر",
+  "title_ar": "أكسيوس: ترمب اجتمع مع كبار مستشاريه للأمن القومي لأول مرة منذ صدور نتائج الانتخابات",
   "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152600",
-  "published": "2026-11-05T19:45:02.000Z",
+  "url": "https://t.me/alarabiyaBr/152637",
+  "published": "2026-11-05T23:52:02.000Z",
   "subject": "saudi",
-  "added": "2026-11-05T19:45:02.000Z"
- },
- {
-  "id": "76ca493d24c30f71",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "رئيس الاتحاد الوطني الكردستاني يعلن انسحاب الاتحاد الوطني من حكومة إقليم كردستان",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152599",
-  "published": "2026-11-05T19:27:02.000Z",
-  "subject": "saudi",
-  "added": "2026-11-05T19:27:02.000Z"
- },
- {
-  "id": "04f9b6d6708a4aaf",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "رئيس الاتحاد الوطني الكردستاني ينسحب من حكومة إقليم كردستان العراق",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152598",
-  "published": "2026-11-05T19:25:02.000Z",
-  "subject": "saudi",
-  "added": "2026-11-05T19:25:02.000Z"
- },
- {
-  "id": "9ba9ce9fdde35d36",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "أحمد الطيبي للعربية: هزمنا نتنياهو ونرفض التشكيك بشرعية الانتخابات",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152597",
-  "published": "2026-11-05T19:17:01.000Z",
-  "subject": "saudi",
-  "added": "2026-11-05T19:17:01.000Z"
- },
- {
-  "id": "1267f517c8e797e8",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "أحمد الطيبي للعربية: رفضت أسئلة الرئيس الإسرائيلي حول موقفنا من الإرهاب",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152596",
-  "published": "2026-11-05T19:16:01.000Z",
-  "subject": "saudi",
-  "added": "2026-11-05T19:16:01.000Z"
- },
- {
-  "id": "40f8b66fb8793c4b",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "أحمد الطيبي للعربية: اخترنا آيزنكوت لأننا نلتزم بالإطاحة بحكومة نتنياهو وبن غفير وسموتريتش",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152595",
-  "published": "2026-11-05T19:15:02.000Z",
-  "subject": "saudi",
-  "added": "2026-11-05T19:15:02.000Z"
- },
- {
-  "id": "d15e66f2d3370c70",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "إعلام إيراني: عراقجي ناقش مع نظيره الإماراتي الجهود الدبلوماسية لتحقيق الاستقرار بالمنطقة",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152594",
-  "published": "2026-11-05T19:13:01.000Z",
-  "subject": "saudi",
-  "added": "2026-11-05T19:13:01.000Z"
- },
- {
-  "id": "298b2f2d3bab3f75",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "مسؤول سعودي: نذكر كاتبي مقال وول ستريت جورنال بأن لليمن حكومة معترفا بها",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152593",
-  "published": "2026-11-05T18:52:02.000Z",
-  "subject": "saudi",
-  "added": "2026-11-05T18:52:02.000Z"
+  "added": "2026-11-05T23:52:02.000Z"
  }
 ]
