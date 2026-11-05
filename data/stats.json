@@ -1469,16 +1469,16 @@
    }
   },
   "2026-11-02": {
-   "total": 970,
-   "news": 963,
+   "total": 971,
+   "news": 964,
    "articles": 7,
    "positive": 0,
-   "neutral": 970,
+   "neutral": 971,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "GB": 290,
-    "US": 305,
+    "US": 306,
     "SA": 87,
     "HK": 6,
     "FR": 20,
@@ -1490,7 +1490,7 @@
     "Cageside Seats": 1,
     "The Guardian": 55,
     "Financial Times": 79,
-    "Al-Monitor": 37,
+    "Al-Monitor": 38,
     "AP News": 129,
     "Bloomberg": 20,
     "Mehr News Agency": 5,
@@ -1691,7 +1691,7 @@
     ],
     "Al-Monitor": [
      0,
-     37,
+     38,
      0
     ],
     "AP News": [
@@ -3669,19 +3669,19 @@
    }
   },
   "2026-11-04": {
-   "total": 582,
-   "news": 573,
+   "total": 584,
+   "news": 575,
    "articles": 9,
    "positive": 0,
-   "neutral": 582,
+   "neutral": 584,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "SA": 60,
     "US": 122,
-    "GB": 207,
+    "GB": 208,
     "JP": 1,
-    "FR": 5,
+    "FR": 6,
     "HK": 2,
     "DE": 1
    },
@@ -3693,7 +3693,7 @@
     "Al-Monitor": 35,
     "The Washington Post": 7,
     "Bloomberg.com": 23,
-    "Reuters": 128,
+    "Reuters": 129,
     "Nikkei Asia": 1,
     "WSJ": 18,
     "The Australian": 1,
@@ -3754,7 +3754,7 @@
     "NewsCord": 1,
     "Forbes Middle East": 1,
     "Fast Company Middle East": 1,
-    "Le Monde.fr": 2,
+    "Le Monde.fr": 3,
     "CairoScene": 2,
     "USA Today": 1,
     "وكالة الأنباء السعودية": 5,
@@ -3865,7 +3865,7 @@
     ],
     "Reuters": [
      0,
-     128,
+     129,
      0
     ],
     "Nikkei Asia": [
@@ -4170,7 +4170,7 @@
     ],
     "Le Monde.fr": [
      0,
-     2,
+     3,
      0
     ],
     "CairoScene": [
@@ -4556,35 +4556,35 @@
    }
   },
   "2026-11-05": {
-   "total": 86,
-   "news": 84,
-   "articles": 2,
+   "total": 123,
+   "news": 120,
+   "articles": 3,
    "positive": 0,
-   "neutral": 86,
+   "neutral": 123,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "SA": 4,
-    "US": 25,
-    "GB": 16,
+    "SA": 8,
+    "US": 44,
+    "GB": 25,
     "HK": 4,
-    "FR": 3
+    "FR": 4
    },
    "topics": {},
    "sources": {
     "Bloody Elbow": 1,
     "وكالة الأنباء السعودية": 1,
-    "Arab News": 6,
+    "Arab News": 11,
     "Deadline": 1,
     "Al Majalla": 1,
-    "Al-Monitor": 4,
-    "Reuters": 5,
-    "WSJ": 8,
+    "Al-Monitor": 7,
+    "Reuters": 8,
+    "WSJ": 12,
     "South China Morning Post": 4,
     "Myanmar International TV": 1,
-    "AP News": 3,
-    "The New York Times": 4,
-    "The Washington Post": 5,
+    "AP News": 7,
+    "The New York Times": 7,
+    "The Washington Post": 6,
     "Arab News PK": 1,
     "The Express Tribune": 2,
     "The Nation Newspaper": 1,
@@ -4605,15 +4605,17 @@
     "Report.az": 1,
     "Oz Arab Media": 1,
     "Yemen Online": 1,
-    "BBC": 3,
-    "Financial Times": 3,
-    "Bloomberg.com": 2,
-    "France 24": 1,
-    "Le Monde.fr": 2,
-    "The Economist": 2,
+    "BBC": 4,
+    "Financial Times": 7,
+    "Bloomberg.com": 6,
+    "France 24": 2,
+    "Le Monde.fr": 3,
+    "The Economist": 3,
     "ASHARQ AL-AWSAT English": 1,
     "StreetInsider": 1,
-    "شبكة تواصل الإخبارية": 1
+    "شبكة تواصل الإخبارية": 1,
+    "Female First": 1,
+    "MARCA": 1
    },
    "sourceTone": {
     "Bloody Elbow": [
@@ -4628,7 +4630,7 @@
     ],
     "Arab News": [
      0,
-     6,
+     11,
      0
     ],
     "Deadline": [
@@ -4643,17 +4645,17 @@
     ],
     "Al-Monitor": [
      0,
-     4,
+     7,
      0
     ],
     "Reuters": [
      0,
-     5,
+     8,
      0
     ],
     "WSJ": [
      0,
-     8,
+     12,
      0
     ],
     "South China Morning Post": [
@@ -4668,17 +4670,17 @@
     ],
     "AP News": [
      0,
-     3,
+     7,
      0
     ],
     "The New York Times": [
      0,
-     4,
+     7,
      0
     ],
     "The Washington Post": [
      0,
-     5,
+     6,
      0
     ],
     "Arab News PK": [
@@ -4783,32 +4785,32 @@
     ],
     "BBC": [
      0,
-     3,
+     4,
      0
     ],
     "Financial Times": [
      0,
-     3,
+     7,
      0
     ],
     "Bloomberg.com": [
      0,
-     2,
+     6,
      0
     ],
     "France 24": [
      0,
-     1,
+     2,
      0
     ],
     "Le Monde.fr": [
      0,
-     2,
+     3,
      0
     ],
     "The Economist": [
      0,
-     2,
+     3,
      0
     ],
     "ASHARQ AL-AWSAT English": [
@@ -4822,6 +4824,16 @@
      0
     ],
     "شبكة تواصل الإخبارية": [
+     0,
+     1,
+     0
+    ],
+    "Female First": [
+     0,
+     1,
+     0
+    ],
+    "MARCA": [
      0,
      1,
      0
