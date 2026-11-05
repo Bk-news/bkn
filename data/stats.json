@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 239,
-   "news": 236,
+   "total": 244,
+   "news": 241,
    "articles": 3,
    "positive": 0,
-   "neutral": 239,
+   "neutral": 244,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "SA": 13,
-    "US": 63,
-    "GB": 54,
+    "US": 64,
+    "GB": 58,
     "HK": 4,
     "FR": 4
    },
@@ -4577,8 +4577,8 @@
     "Arab News": 17,
     "Deadline": 1,
     "Al Majalla": 1,
-    "Al-Monitor": 9,
-    "Reuters": 26,
+    "Al-Monitor": 10,
+    "Reuters": 27,
     "WSJ": 19,
     "South China Morning Post": 4,
     "Myanmar International TV": 1,
@@ -4605,8 +4605,8 @@
     "Report.az": 1,
     "Oz Arab Media": 1,
     "Yemen Online": 1,
-    "BBC": 4,
-    "Financial Times": 16,
+    "BBC": 5,
+    "Financial Times": 18,
     "Bloomberg.com": 11,
     "France 24": 2,
     "Le Monde.fr": 3,
@@ -4689,12 +4689,12 @@
     ],
     "Al-Monitor": [
      0,
-     9,
+     10,
      0
     ],
     "Reuters": [
      0,
-     26,
+     27,
      0
     ],
     "WSJ": [
@@ -4829,12 +4829,12 @@
     ],
     "BBC": [
      0,
-     4,
+     5,
      0
     ],
     "Financial Times": [
      0,
-     16,
+     18,
      0
     ],
     "Bloomberg.com": [
