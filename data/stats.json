@@ -4556,11 +4556,11 @@
    }
   },
   "2026-11-05": {
-   "total": 44,
-   "news": 44,
+   "total": 45,
+   "news": 45,
    "articles": 0,
    "positive": 0,
-   "neutral": 44,
+   "neutral": 45,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -4598,7 +4598,8 @@
     "https://houseofsaud.com/": 1,
     "Eurasia Review": 1,
     "Al Jazeera": 1,
-    "The Guardian": 1
+    "The Guardian": 1,
+    "Mining.com.au": 1
    },
    "sourceTone": {
     "Bloody Elbow": [
@@ -4737,6 +4738,11 @@
      0
     ],
     "The Guardian": [
+     0,
+     1,
+     0
+    ],
+    "Mining.com.au": [
      0,
      1,
      0
