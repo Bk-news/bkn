@@ -1469,16 +1469,16 @@
    }
   },
   "2026-11-02": {
-   "total": 971,
-   "news": 964,
+   "total": 972,
+   "news": 965,
    "articles": 7,
    "positive": 0,
-   "neutral": 971,
+   "neutral": 972,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "GB": 290,
-    "US": 306,
+    "US": 307,
     "SA": 87,
     "HK": 6,
     "FR": 20,
@@ -1490,7 +1490,7 @@
     "Cageside Seats": 1,
     "The Guardian": 55,
     "Financial Times": 79,
-    "Al-Monitor": 38,
+    "Al-Monitor": 39,
     "AP News": 129,
     "Bloomberg": 20,
     "Mehr News Agency": 5,
@@ -1691,7 +1691,7 @@
     ],
     "Al-Monitor": [
      0,
-     38,
+     39,
      0
     ],
     "AP News": [
@@ -2602,15 +2602,15 @@
    }
   },
   "2026-11-03": {
-   "total": 930,
-   "news": 911,
+   "total": 933,
+   "news": 914,
    "articles": 19,
    "positive": 0,
-   "neutral": 930,
+   "neutral": 933,
    "critical": 0,
    "mbs": 10,
    "countries": {
-    "US": 297,
+    "US": 300,
     "GB": 281,
     "HK": 6,
     "FR": 9,
@@ -2621,12 +2621,12 @@
    "topics": {},
    "sources": {
     "Asia News Network": 1,
-    "The Washington Post": 12,
+    "The Washington Post": 13,
     "WSJ": 48,
     "Financial Times": 52,
     "Al-Monitor": 43,
     "Reuters": 175,
-    "Bloomberg.com": 67,
+    "Bloomberg.com": 68,
     "חרדים10": 1,
     "BBC": 23,
     "The Guardian": 33,
@@ -2658,7 +2658,7 @@
     "Spiegel": 3,
     "Saudi Gazette": 15,
     "ASHARQ AL-AWSAT English": 4,
-    "AP News": 100,
+    "AP News": 101,
     "Bloom Pakistan": 1,
     "Jordan News": 1,
     "Baird Maritime": 2,
@@ -2803,7 +2803,7 @@
     ],
     "The Washington Post": [
      0,
-     12,
+     13,
      0
     ],
     "WSJ": [
@@ -2828,7 +2828,7 @@
     ],
     "Bloomberg.com": [
      0,
-     67,
+     68,
      0
     ],
     "חרדים10": [
@@ -2988,7 +2988,7 @@
     ],
     "AP News": [
      0,
-     100,
+     101,
      0
     ],
     "Bloom Pakistan": [
@@ -3669,17 +3669,17 @@
    }
   },
   "2026-11-04": {
-   "total": 584,
-   "news": 575,
+   "total": 599,
+   "news": 590,
    "articles": 9,
    "positive": 0,
-   "neutral": 584,
+   "neutral": 599,
    "critical": 0,
    "mbs": 20,
    "countries": {
-    "SA": 60,
+    "SA": 66,
     "US": 122,
-    "GB": 208,
+    "GB": 217,
     "JP": 1,
     "FR": 6,
     "HK": 2,
@@ -3688,12 +3688,12 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Arab News": 60,
+    "Arab News": 66,
     "Heavy.com": 1,
     "Al-Monitor": 35,
     "The Washington Post": 7,
     "Bloomberg.com": 23,
-    "Reuters": 129,
+    "Reuters": 138,
     "Nikkei Asia": 1,
     "WSJ": 18,
     "The Australian": 1,
@@ -3840,7 +3840,7 @@
     ],
     "Arab News": [
      0,
-     60,
+     66,
      0
     ],
     "Heavy.com": [
@@ -3865,7 +3865,7 @@
     ],
     "Reuters": [
      0,
-     129,
+     138,
      0
     ],
     "Nikkei Asia": [
@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 123,
-   "news": 120,
+   "total": 144,
+   "news": 141,
    "articles": 3,
    "positive": 0,
-   "neutral": 123,
+   "neutral": 144,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "SA": 8,
-    "US": 44,
-    "GB": 25,
+    "SA": 11,
+    "US": 50,
+    "GB": 28,
     "HK": 4,
     "FR": 4
    },
@@ -4574,12 +4574,12 @@
    "sources": {
     "Bloody Elbow": 1,
     "وكالة الأنباء السعودية": 1,
-    "Arab News": 11,
+    "Arab News": 14,
     "Deadline": 1,
     "Al Majalla": 1,
     "Al-Monitor": 7,
     "Reuters": 8,
-    "WSJ": 12,
+    "WSJ": 15,
     "South China Morning Post": 4,
     "Myanmar International TV": 1,
     "AP News": 7,
@@ -4606,8 +4606,8 @@
     "Oz Arab Media": 1,
     "Yemen Online": 1,
     "BBC": 4,
-    "Financial Times": 7,
-    "Bloomberg.com": 6,
+    "Financial Times": 10,
+    "Bloomberg.com": 9,
     "France 24": 2,
     "Le Monde.fr": 3,
     "The Economist": 3,
@@ -4615,7 +4615,15 @@
     "StreetInsider": 1,
     "شبكة تواصل الإخبارية": 1,
     "Female First": 1,
-    "MARCA": 1
+    "MARCA": 1,
+    "Zawya": 1,
+    "Anadolu Ajansı": 2,
+    "WION": 1,
+    "AzerNews": 1,
+    "سانا": 1,
+    "Kurdistan24": 1,
+    "CGTN": 1,
+    "Daily Sabah": 1
    },
    "sourceTone": {
     "Bloody Elbow": [
@@ -4630,7 +4638,7 @@
     ],
     "Arab News": [
      0,
-     11,
+     14,
      0
     ],
     "Deadline": [
@@ -4655,7 +4663,7 @@
     ],
     "WSJ": [
      0,
-     12,
+     15,
      0
     ],
     "South China Morning Post": [
@@ -4790,12 +4798,12 @@
     ],
     "Financial Times": [
      0,
-     7,
+     10,
      0
     ],
     "Bloomberg.com": [
      0,
-     6,
+     9,
      0
     ],
     "France 24": [
@@ -4834,6 +4842,46 @@
      0
     ],
     "MARCA": [
+     0,
+     1,
+     0
+    ],
+    "Zawya": [
+     0,
+     1,
+     0
+    ],
+    "Anadolu Ajansı": [
+     0,
+     2,
+     0
+    ],
+    "WION": [
+     0,
+     1,
+     0
+    ],
+    "AzerNews": [
+     0,
+     1,
+     0
+    ],
+    "سانا": [
+     0,
+     1,
+     0
+    ],
+    "Kurdistan24": [
+     0,
+     1,
+     0
+    ],
+    "CGTN": [
+     0,
+     1,
+     0
+    ],
+    "Daily Sabah": [
      0,
      1,
      0
