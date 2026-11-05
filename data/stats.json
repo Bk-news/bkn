@@ -3669,17 +3669,17 @@
    }
   },
   "2026-11-04": {
-   "total": 652,
-   "news": 643,
+   "total": 658,
+   "news": 649,
    "articles": 9,
    "positive": 0,
-   "neutral": 652,
+   "neutral": 658,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "SA": 73,
     "US": 140,
-    "GB": 241,
+    "GB": 247,
     "JP": 1,
     "FR": 9,
     "HK": 2,
@@ -3693,7 +3693,7 @@
     "Al-Monitor": 37,
     "The Washington Post": 8,
     "Bloomberg.com": 25,
-    "Reuters": 156,
+    "Reuters": 162,
     "Nikkei Asia": 1,
     "WSJ": 25,
     "The Australian": 1,
@@ -3865,7 +3865,7 @@
     ],
     "Reuters": [
      0,
-     156,
+     162,
      0
     ],
     "Nikkei Asia": [
@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 532,
-   "news": 504,
+   "total": 560,
+   "news": 532,
    "articles": 28,
    "positive": 0,
-   "neutral": 532,
+   "neutral": 560,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "SA": 59,
-    "US": 154,
-    "GB": 125,
+    "SA": 66,
+    "US": 155,
+    "GB": 130,
     "HK": 6,
     "FR": 8,
     "DE": 1,
@@ -4576,12 +4576,12 @@
    "sources": {
     "Bloody Elbow": 1,
     "وكالة الأنباء السعودية": 1,
-    "Arab News": 62,
+    "Arab News": 69,
     "Deadline": 2,
     "Al Majalla": 1,
-    "Al-Monitor": 40,
-    "Reuters": 51,
-    "WSJ": 32,
+    "Al-Monitor": 41,
+    "Reuters": 55,
+    "WSJ": 33,
     "South China Morning Post": 6,
     "Myanmar International TV": 1,
     "AP News": 20,
@@ -4597,17 +4597,17 @@
     "Facebook": 3,
     "WR Immigration": 1,
     "LATTE Luxury News": 1,
-    "Saudi Gazette": 9,
+    "Saudi Gazette": 10,
     "https://houseofsaud.com/": 2,
     "Eurasia Review": 1,
-    "Al Jazeera": 2,
+    "Al Jazeera": 3,
     "The Guardian": 13,
     "Mining.com.au": 1,
     "The Times of India": 1,
     "Report.az": 1,
     "Oz Arab Media": 1,
     "Yemen Online": 2,
-    "BBC": 12,
+    "BBC": 13,
     "Financial Times": 29,
     "Bloomberg.com": 17,
     "France 24": 4,
@@ -4625,7 +4625,7 @@
     "سانا": 2,
     "Kurdistan24": 1,
     "CGTN": 1,
-    "Daily Sabah": 2,
+    "Daily Sabah": 3,
     "A News": 1,
     "Khaama Press": 1,
     "Rus Tourism News": 1,
@@ -4635,13 +4635,13 @@
     "NDTV Sports": 2,
     "8AM Media": 1,
     "Vietnam Investment Review - VIR": 1,
-    "صوت الإمارات": 1,
+    "صوت الإمارات": 2,
     "The Media Line": 1,
     "Türkiye Today": 3,
     "TradingView": 2,
     "Breaking Travel News": 1,
     "Dawn": 1,
-    "Yahoo": 2,
+    "Yahoo": 3,
     "ANHA": 1,
     "Azərtac": 1,
     "CounterPunch.org": 1,
@@ -4651,7 +4651,7 @@
     "thenationalnews.com": 1,
     "Rediff MoneyWiz": 1,
     "Pajhwok Afghan News": 1,
-    "Al Arabiya English": 4,
+    "Al Arabiya English": 5,
     "Bergen Record": 1,
     "CNN": 3,
     "Outlook India": 1,
@@ -4689,9 +4689,9 @@
     "Investing.com": 1,
     "POST Wrestling": 1,
     "India Today": 1,
-    "Yahoo Sports": 1,
+    "Yahoo Sports": 2,
     "GIS Reports": 1,
-    "Middle East Online": 1,
+    "Middle East Online": 2,
     "The National": 1,
     "EnergyNow": 1,
     "Egypt Today": 1,
@@ -4702,10 +4702,15 @@
     "Foreign Policy": 2,
     "The Times of Israel": 1,
     "TRT World": 1,
-    "Fana News -": 1,
+    "Fana News -": 2,
     "Heavy.com": 1,
     "Modern Ghana": 1,
-    "Devdiscourse": 1
+    "Devdiscourse": 1,
+    "Cageside Seats": 1,
+    "Wrestling Inc.": 1,
+    "CBS Sports": 1,
+    "Gulf International Forum": 1,
+    "Latham & Watkins LLP": 1
    },
    "sourceTone": {
     "Bloody Elbow": [
@@ -4720,7 +4725,7 @@
     ],
     "Arab News": [
      0,
-     62,
+     69,
      0
     ],
     "Deadline": [
@@ -4735,17 +4740,17 @@
     ],
     "Al-Monitor": [
      0,
-     40,
+     41,
      0
     ],
     "Reuters": [
      0,
-     51,
+     55,
      0
     ],
     "WSJ": [
      0,
-     32,
+     33,
      0
     ],
     "South China Morning Post": [
@@ -4825,7 +4830,7 @@
     ],
     "Saudi Gazette": [
      0,
-     9,
+     10,
      0
     ],
     "https://houseofsaud.com/": [
@@ -4840,7 +4845,7 @@
     ],
     "Al Jazeera": [
      0,
-     2,
+     3,
      0
     ],
     "The Guardian": [
@@ -4875,7 +4880,7 @@
     ],
     "BBC": [
      0,
-     12,
+     13,
      0
     ],
     "Financial Times": [
@@ -4965,7 +4970,7 @@
     ],
     "Daily Sabah": [
      0,
-     2,
+     3,
      0
     ],
     "A News": [
@@ -5015,7 +5020,7 @@
     ],
     "صوت الإمارات": [
      0,
-     1,
+     2,
      0
     ],
     "The Media Line": [
@@ -5045,7 +5050,7 @@
     ],
     "Yahoo": [
      0,
-     2,
+     3,
      0
     ],
     "ANHA": [
@@ -5095,7 +5100,7 @@
     ],
     "Al Arabiya English": [
      0,
-     4,
+     5,
      0
     ],
     "Bergen Record": [
@@ -5285,7 +5290,7 @@
     ],
     "Yahoo Sports": [
      0,
-     1,
+     2,
      0
     ],
     "GIS Reports": [
@@ -5295,7 +5300,7 @@
     ],
     "Middle East Online": [
      0,
-     1,
+     2,
      0
     ],
     "The National": [
@@ -5350,7 +5355,7 @@
     ],
     "Fana News -": [
      0,
-     1,
+     2,
      0
     ],
     "Heavy.com": [
@@ -5364,6 +5369,31 @@
      0
     ],
     "Devdiscourse": [
+     0,
+     1,
+     0
+    ],
+    "Cageside Seats": [
+     0,
+     1,
+     0
+    ],
+    "Wrestling Inc.": [
+     0,
+     1,
+     0
+    ],
+    "CBS Sports": [
+     0,
+     1,
+     0
+    ],
+    "Gulf International Forum": [
+     0,
+     1,
+     0
+    ],
+    "Latham & Watkins LLP": [
      0,
      1,
      0
