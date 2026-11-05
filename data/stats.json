@@ -4556,11 +4556,11 @@
    }
   },
   "2026-11-05": {
-   "total": 456,
-   "news": 434,
+   "total": 457,
+   "news": 435,
    "articles": 22,
    "positive": 0,
-   "neutral": 456,
+   "neutral": 457,
    "critical": 0,
    "mbs": 7,
    "countries": {
@@ -4613,7 +4613,7 @@
     "France 24": 4,
     "Le Monde.fr": 5,
     "The Economist": 19,
-    "ASHARQ AL-AWSAT English": 5,
+    "ASHARQ AL-AWSAT English": 6,
     "StreetInsider": 1,
     "شبكة تواصل الإخبارية": 1,
     "Female First": 1,
@@ -4897,7 +4897,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     5,
+     6,
      0
     ],
     "StreetInsider": [
