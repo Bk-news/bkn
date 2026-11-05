@@ -2602,15 +2602,15 @@
    }
   },
   "2026-11-03": {
-   "total": 916,
+   "total": 917,
    "news": 898,
-   "articles": 18,
+   "articles": 19,
    "positive": 0,
-   "neutral": 916,
+   "neutral": 917,
    "critical": 0,
    "mbs": 10,
    "countries": {
-    "US": 291,
+    "US": 292,
     "GB": 273,
     "HK": 6,
     "FR": 9,
@@ -2720,7 +2720,7 @@
     "www.marketscreener.com": 1,
     "Bloomberg": 7,
     "وكالة صدى نيوز": 1,
-    "Foreign Policy": 3,
+    "Foreign Policy": 4,
     "Goal.com": 4,
     "WRAL": 2,
     "L'Orient Today": 1,
@@ -3298,7 +3298,7 @@
     ],
     "Foreign Policy": [
      0,
-     3,
+     4,
      0
     ],
     "Goal.com": [
