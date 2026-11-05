@@ -4556,16 +4556,16 @@
    }
   },
   "2026-11-05": {
-   "total": 431,
-   "news": 411,
+   "total": 434,
+   "news": 414,
    "articles": 20,
    "positive": 0,
-   "neutral": 431,
+   "neutral": 434,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "SA": 44,
-    "US": 119,
+    "US": 122,
     "GB": 97,
     "HK": 5,
     "FR": 7,
@@ -4579,13 +4579,13 @@
     "Arab News": 48,
     "Deadline": 2,
     "Al Majalla": 1,
-    "Al-Monitor": 31,
+    "Al-Monitor": 32,
     "Reuters": 40,
     "WSJ": 26,
     "South China Morning Post": 5,
     "Myanmar International TV": 1,
-    "AP News": 14,
-    "The New York Times": 19,
+    "AP News": 15,
+    "The New York Times": 20,
     "The Washington Post": 10,
     "Arab News PK": 3,
     "The Express Tribune": 2,
@@ -4722,7 +4722,7 @@
     ],
     "Al-Monitor": [
      0,
-     31,
+     32,
      0
     ],
     "Reuters": [
@@ -4747,12 +4747,12 @@
     ],
     "AP News": [
      0,
-     14,
+     15,
      0
     ],
     "The New York Times": [
      0,
-     19,
+     20,
      0
     ],
     "The Washington Post": [
