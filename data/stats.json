@@ -3669,15 +3669,15 @@
    }
   },
   "2026-11-04": {
-   "total": 621,
-   "news": 612,
+   "total": 623,
+   "news": 614,
    "articles": 9,
    "positive": 0,
-   "neutral": 621,
+   "neutral": 623,
    "critical": 0,
    "mbs": 20,
    "countries": {
-    "SA": 71,
+    "SA": 73,
     "US": 126,
     "GB": 229,
     "JP": 1,
@@ -3688,7 +3688,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Arab News": 71,
+    "Arab News": 73,
     "Heavy.com": 1,
     "Al-Monitor": 36,
     "The Washington Post": 7,
@@ -3840,7 +3840,7 @@
     ],
     "Arab News": [
      0,
-     71,
+     73,
      0
     ],
     "Heavy.com": [
@@ -4556,15 +4556,15 @@
    }
   },
   "2026-11-05": {
-   "total": 246,
-   "news": 243,
+   "total": 248,
+   "news": 245,
    "articles": 3,
    "positive": 0,
-   "neutral": 246,
+   "neutral": 248,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "SA": 13,
+    "SA": 14,
     "US": 64,
     "GB": 58,
     "HK": 4,
@@ -4574,7 +4574,7 @@
    "sources": {
     "Bloody Elbow": 1,
     "وكالة الأنباء السعودية": 1,
-    "Arab News": 17,
+    "Arab News": 18,
     "Deadline": 1,
     "Al Majalla": 1,
     "Al-Monitor": 10,
@@ -4588,7 +4588,7 @@
     "Arab News PK": 3,
     "The Express Tribune": 2,
     "The Nation Newspaper": 1,
-    "Gulf News": 1,
+    "Gulf News": 2,
     "UA.NEWS": 3,
     "Firstpost": 1,
     "ThePrint": 1,
@@ -4675,7 +4675,7 @@
     ],
     "Arab News": [
      0,
-     17,
+     18,
      0
     ],
     "Deadline": [
@@ -4745,7 +4745,7 @@
     ],
     "Gulf News": [
      0,
-     1,
+     2,
      0
     ],
     "UA.NEWS": [
