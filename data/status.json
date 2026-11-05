@@ -1,17 +1,17 @@
 {
- "run": "2026-11-05T00:30:33.826Z",
+ "run": "2026-11-05T00:31:33.442Z",
  "key": true,
  "model": "claude-haiku-5-5",
  "feedsOk": 24,
  "feedsFailed": [
   "واس الملكية (يوتيوب): HTTP 404"
  ],
- "fetched": 825,
+ "fetched": 828,
  "fresh": 0,
  "world": 0,
  "analyzed": 0,
  "analyzeErrors": 0,
- "lastError": "Anthropic 401: {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CgiqXQsd13wpJ9UUQHkYw\"}",
+ "lastError": "Anthropic 401: {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Cgiqbq7WHncGBHbkH4y1b\"}",
  "telegram": 20,
  "royal": 0,
  "keyRejected": true,
