@@ -2602,15 +2602,15 @@
    }
   },
   "2026-11-03": {
-   "total": 915,
-   "news": 897,
+   "total": 916,
+   "news": 898,
    "articles": 18,
    "positive": 0,
-   "neutral": 915,
+   "neutral": 916,
    "critical": 0,
    "mbs": 10,
    "countries": {
-    "US": 290,
+    "US": 291,
     "GB": 273,
     "HK": 6,
     "FR": 9,
@@ -2792,7 +2792,8 @@
     "investingLive": 1,
     "WrestleRant": 1,
     "TV7 Israel News": 1,
-    "mynbc15.com": 1
+    "mynbc15.com": 1,
+    "CNN": 1
    },
    "sourceTone": {
     "Asia News Network": [
@@ -3656,6 +3657,11 @@
      0
     ],
     "mynbc15.com": [
+     0,
+     1,
+     0
+    ],
+    "CNN": [
      0,
      1,
      0
