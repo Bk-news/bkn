@@ -2602,15 +2602,15 @@
    }
   },
   "2026-11-03": {
-   "total": 921,
-   "news": 902,
+   "total": 922,
+   "news": 903,
    "articles": 19,
    "positive": 0,
-   "neutral": 921,
+   "neutral": 922,
    "critical": 0,
    "mbs": 10,
    "countries": {
-    "US": 295,
+    "US": 296,
     "GB": 274,
     "HK": 6,
     "FR": 9,
@@ -2621,7 +2621,7 @@
    "topics": {},
    "sources": {
     "Asia News Network": 1,
-    "The Washington Post": 11,
+    "The Washington Post": 12,
     "WSJ": 47,
     "Financial Times": 51,
     "Al-Monitor": 43,
@@ -2803,7 +2803,7 @@
     ],
     "The Washington Post": [
      0,
-     11,
+     12,
      0
     ],
     "WSJ": [
@@ -4556,16 +4556,16 @@
    }
   },
   "2026-11-05": {
-   "total": 39,
-   "news": 39,
+   "total": 40,
+   "news": 40,
    "articles": 0,
    "positive": 0,
-   "neutral": 39,
+   "neutral": 40,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 2,
-    "US": 9,
+    "US": 10,
     "GB": 2,
     "HK": 3
    },
@@ -4583,7 +4583,7 @@
     "Myanmar International TV": 1,
     "AP News": 1,
     "The New York Times": 1,
-    "The Washington Post": 1,
+    "The Washington Post": 2,
     "Arab News PK": 1,
     "The Express Tribune": 2,
     "The Nation Newspaper": 1,
@@ -4661,7 +4661,7 @@
     ],
     "The Washington Post": [
      0,
-     1,
+     2,
      0
     ],
     "Arab News PK": [
