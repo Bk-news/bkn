@@ -2602,16 +2602,16 @@
    }
   },
   "2026-11-03": {
-   "total": 933,
-   "news": 914,
+   "total": 936,
+   "news": 917,
    "articles": 19,
    "positive": 0,
-   "neutral": 933,
+   "neutral": 936,
    "critical": 0,
    "mbs": 10,
    "countries": {
     "US": 300,
-    "GB": 281,
+    "GB": 284,
     "HK": 6,
     "FR": 9,
     "SA": 92,
@@ -2625,7 +2625,7 @@
     "WSJ": 48,
     "Financial Times": 52,
     "Al-Monitor": 43,
-    "Reuters": 175,
+    "Reuters": 178,
     "Bloomberg.com": 68,
     "חרדים10": 1,
     "BBC": 23,
@@ -2823,7 +2823,7 @@
     ],
     "Reuters": [
      0,
-     175,
+     178,
      0
     ],
     "Bloomberg.com": [
@@ -3669,15 +3669,15 @@
    }
   },
   "2026-11-04": {
-   "total": 599,
-   "news": 590,
+   "total": 604,
+   "news": 595,
    "articles": 9,
    "positive": 0,
-   "neutral": 599,
+   "neutral": 604,
    "critical": 0,
    "mbs": 20,
    "countries": {
-    "SA": 66,
+    "SA": 71,
     "US": 122,
     "GB": 217,
     "JP": 1,
@@ -3688,7 +3688,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Arab News": 66,
+    "Arab News": 71,
     "Heavy.com": 1,
     "Al-Monitor": 35,
     "The Washington Post": 7,
@@ -3840,7 +3840,7 @@
     ],
     "Arab News": [
      0,
-     66,
+     71,
      0
     ],
     "Heavy.com": [
@@ -4556,13 +4556,13 @@
    }
   },
   "2026-11-05": {
-   "total": 144,
-   "news": 141,
+   "total": 176,
+   "news": 173,
    "articles": 3,
    "positive": 0,
-   "neutral": 144,
+   "neutral": 176,
    "critical": 0,
-   "mbs": 2,
+   "mbs": 3,
    "countries": {
     "SA": 11,
     "US": 50,
@@ -4585,17 +4585,17 @@
     "AP News": 7,
     "The New York Times": 7,
     "The Washington Post": 6,
-    "Arab News PK": 1,
+    "Arab News PK": 3,
     "The Express Tribune": 2,
     "The Nation Newspaper": 1,
     "Gulf News": 1,
     "UA.NEWS": 3,
     "Firstpost": 1,
     "ThePrint": 1,
-    "Facebook": 1,
+    "Facebook": 3,
     "WR Immigration": 1,
     "LATTE Luxury News": 1,
-    "Saudi Gazette": 2,
+    "Saudi Gazette": 3,
     "https://houseofsaud.com/": 1,
     "Eurasia Review": 1,
     "Al Jazeera": 1,
@@ -4617,13 +4617,35 @@
     "Female First": 1,
     "MARCA": 1,
     "Zawya": 1,
-    "Anadolu Ajansı": 2,
-    "WION": 1,
+    "Anadolu Ajansı": 3,
+    "WION": 2,
     "AzerNews": 1,
-    "سانا": 1,
+    "سانا": 2,
     "Kurdistan24": 1,
     "CGTN": 1,
-    "Daily Sabah": 1
+    "Daily Sabah": 1,
+    "A News": 1,
+    "Khaama Press": 1,
+    "Rus Tourism News": 1,
+    "Construction Week Online": 1,
+    "Yeni Şafak English": 1,
+    "Fast Company Middle East": 1,
+    "NDTV Sports": 1,
+    "8AM Media": 1,
+    "Vietnam Investment Review - VIR": 1,
+    "صوت الإمارات": 1,
+    "The Media Line": 1,
+    "Türkiye Today": 2,
+    "TradingView": 2,
+    "Breaking Travel News": 1,
+    "Dawn": 1,
+    "Yahoo": 1,
+    "ANHA": 1,
+    "Azərtac": 1,
+    "CounterPunch.org": 1,
+    "Latest news from Azerbaijan": 1,
+    "Deccan Herald": 1,
+    "Small Wars Journal": 1
    },
    "sourceTone": {
     "Bloody Elbow": [
@@ -4693,7 +4715,7 @@
     ],
     "Arab News PK": [
      0,
-     1,
+     3,
      0
     ],
     "The Express Tribune": [
@@ -4728,7 +4750,7 @@
     ],
     "Facebook": [
      0,
-     1,
+     3,
      0
     ],
     "WR Immigration": [
@@ -4743,7 +4765,7 @@
     ],
     "Saudi Gazette": [
      0,
-     2,
+     3,
      0
     ],
     "https://houseofsaud.com/": [
@@ -4853,12 +4875,12 @@
     ],
     "Anadolu Ajansı": [
      0,
-     2,
+     3,
      0
     ],
     "WION": [
      0,
-     1,
+     2,
      0
     ],
     "AzerNews": [
@@ -4868,7 +4890,7 @@
     ],
     "سانا": [
      0,
-     1,
+     2,
      0
     ],
     "Kurdistan24": [
@@ -4882,6 +4904,116 @@
      0
     ],
     "Daily Sabah": [
+     0,
+     1,
+     0
+    ],
+    "A News": [
+     0,
+     1,
+     0
+    ],
+    "Khaama Press": [
+     0,
+     1,
+     0
+    ],
+    "Rus Tourism News": [
+     0,
+     1,
+     0
+    ],
+    "Construction Week Online": [
+     0,
+     1,
+     0
+    ],
+    "Yeni Şafak English": [
+     0,
+     1,
+     0
+    ],
+    "Fast Company Middle East": [
+     0,
+     1,
+     0
+    ],
+    "NDTV Sports": [
+     0,
+     1,
+     0
+    ],
+    "8AM Media": [
+     0,
+     1,
+     0
+    ],
+    "Vietnam Investment Review - VIR": [
+     0,
+     1,
+     0
+    ],
+    "صوت الإمارات": [
+     0,
+     1,
+     0
+    ],
+    "The Media Line": [
+     0,
+     1,
+     0
+    ],
+    "Türkiye Today": [
+     0,
+     2,
+     0
+    ],
+    "TradingView": [
+     0,
+     2,
+     0
+    ],
+    "Breaking Travel News": [
+     0,
+     1,
+     0
+    ],
+    "Dawn": [
+     0,
+     1,
+     0
+    ],
+    "Yahoo": [
+     0,
+     1,
+     0
+    ],
+    "ANHA": [
+     0,
+     1,
+     0
+    ],
+    "Azərtac": [
+     0,
+     1,
+     0
+    ],
+    "CounterPunch.org": [
+     0,
+     1,
+     0
+    ],
+    "Latest news from Azerbaijan": [
+     0,
+     1,
+     0
+    ],
+    "Deccan Herald": [
+     0,
+     1,
+     0
+    ],
+    "Small Wars Journal": [
      0,
      1,
      0
