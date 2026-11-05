@@ -3669,17 +3669,17 @@
    }
   },
   "2026-11-04": {
-   "total": 644,
-   "news": 635,
+   "total": 645,
+   "news": 636,
    "articles": 9,
    "positive": 0,
-   "neutral": 644,
+   "neutral": 645,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "SA": 73,
     "US": 135,
-    "GB": 239,
+    "GB": 240,
     "JP": 1,
     "FR": 8,
     "HK": 2,
@@ -3693,7 +3693,7 @@
     "Al-Monitor": 37,
     "The Washington Post": 7,
     "Bloomberg.com": 25,
-    "Reuters": 155,
+    "Reuters": 156,
     "Nikkei Asia": 1,
     "WSJ": 24,
     "The Australian": 1,
@@ -3865,7 +3865,7 @@
     ],
     "Reuters": [
      0,
-     155,
+     156,
      0
     ],
     "Nikkei Asia": [
@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 440,
-   "news": 419,
+   "total": 446,
+   "news": 425,
    "articles": 21,
    "positive": 0,
-   "neutral": 440,
+   "neutral": 446,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "SA": 45,
-    "US": 122,
-    "GB": 99,
+    "US": 123,
+    "GB": 103,
     "HK": 5,
     "FR": 8,
     "DE": 1,
@@ -4579,7 +4579,7 @@
     "Arab News": 49,
     "Deadline": 2,
     "Al Majalla": 1,
-    "Al-Monitor": 32,
+    "Al-Monitor": 33,
     "Reuters": 40,
     "WSJ": 26,
     "South China Morning Post": 5,
@@ -4608,7 +4608,7 @@
     "Oz Arab Media": 1,
     "Yemen Online": 2,
     "BBC": 9,
-    "Financial Times": 21,
+    "Financial Times": 25,
     "Bloomberg.com": 16,
     "France 24": 4,
     "Le Monde.fr": 5,
@@ -4694,7 +4694,8 @@
     "Middle East Online": 1,
     "The National": 1,
     "EnergyNow": 1,
-    "Egypt Today": 1
+    "Egypt Today": 1,
+    "The Indian Express": 1
    },
    "sourceTone": {
     "Bloody Elbow": [
@@ -4724,7 +4725,7 @@
     ],
     "Al-Monitor": [
      0,
-     32,
+     33,
      0
     ],
     "Reuters": [
@@ -4869,7 +4870,7 @@
     ],
     "Financial Times": [
      0,
-     21,
+     25,
      0
     ],
     "Bloomberg.com": [
@@ -5298,6 +5299,11 @@
      0
     ],
     "Egypt Today": [
+     0,
+     1,
+     0
+    ],
+    "The Indian Express": [
      0,
      1,
      0
