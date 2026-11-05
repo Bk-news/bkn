@@ -2602,16 +2602,16 @@
    }
   },
   "2026-11-03": {
-   "total": 927,
-   "news": 908,
+   "total": 928,
+   "news": 909,
    "articles": 19,
    "positive": 0,
-   "neutral": 927,
+   "neutral": 928,
    "critical": 0,
    "mbs": 10,
    "countries": {
     "US": 297,
-    "GB": 278,
+    "GB": 279,
     "HK": 6,
     "FR": 9,
     "SA": 92,
@@ -2625,7 +2625,7 @@
     "WSJ": 48,
     "Financial Times": 51,
     "Al-Monitor": 43,
-    "Reuters": 174,
+    "Reuters": 175,
     "Bloomberg.com": 67,
     "חרדים10": 1,
     "BBC": 22,
@@ -2823,7 +2823,7 @@
     ],
     "Reuters": [
      0,
-     174,
+     175,
      0
     ],
     "Bloomberg.com": [
@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 43,
-   "news": 43,
+   "total": 44,
+   "news": 44,
    "articles": 0,
    "positive": 0,
-   "neutral": 43,
+   "neutral": 44,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 2,
     "US": 10,
-    "GB": 3,
+    "GB": 4,
     "HK": 3
    },
    "topics": {},
@@ -4577,7 +4577,7 @@
     "Deadline": 1,
     "Al Majalla": 1,
     "Al-Monitor": 1,
-    "Reuters": 2,
+    "Reuters": 3,
     "WSJ": 6,
     "South China Morning Post": 3,
     "Myanmar International TV": 1,
@@ -4633,7 +4633,7 @@
     ],
     "Reuters": [
      0,
-     2,
+     3,
      0
     ],
     "WSJ": [
