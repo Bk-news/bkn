@@ -5425,11 +5425,11 @@
    }
   },
   "2026-11-06": {
-   "total": 30,
-   "news": 30,
+   "total": 31,
+   "news": 31,
    "articles": 0,
    "positive": 0,
-   "neutral": 30,
+   "neutral": 31,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -5458,7 +5458,8 @@
     "Inven Global": 1,
     "www.thenationalnews.com": 1,
     "Critical Threats": 1,
-    "Middle East Eye": 1
+    "Middle East Eye": 1,
+    "digitimes": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -5557,6 +5558,11 @@
      0
     ],
     "Middle East Eye": [
+     0,
+     1,
+     0
+    ],
+    "digitimes": [
      0,
      1,
      0
