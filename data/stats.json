@@ -5405,6 +5405,27 @@
      0
     ]
    }
+  },
+  "2026-11-06": {
+   "total": 1,
+   "news": 1,
+   "articles": 0,
+   "positive": 0,
+   "neutral": 1,
+   "critical": 0,
+   "mbs": 0,
+   "countries": {},
+   "topics": {},
+   "sources": {
+    "Arabian Gulf Business Insight | AGBI": 1
+   },
+   "sourceTone": {
+    "Arabian Gulf Business Insight | AGBI": [
+     0,
+     1,
+     0
+    ]
+   }
   }
  }
 }
