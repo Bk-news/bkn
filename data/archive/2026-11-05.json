@@ -2585,6 +2585,27 @@
    "mt": true
   },
   {
+   "id": "3fafbe877d64838d",
+   "origin": "rss",
+   "source": "Le Monde.fr",
+   "author": "",
+   "title_ar": "L'actualité - الأخبار ومقاطع الفيديو والمعلومات المباشرة",
+   "title_orig": "L'actualité - Actualités, vidéos et infos en direct",
+   "title_en": "",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5nbldKa2R0WnBFdU5tc2tFSmh1OXl2X24wMVNuUlBYZlpleGNGbDA0S0xVRjNGZnJxQmxzNG1wejI4ZEJJSWZwYQ?oc=5",
+   "published": "2026-11-05T17:52:44.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "FR",
+   "pending": true,
+   "desc": "L'actualité - Actualités, vidéos et infos en direct &nbsp;&nbsp; Le Monde.fr",
+   "lang": "fr",
+   "mt": true
+  },
+  {
    "id": "b82800183383021e",
    "origin": "rss",
    "source": "The New Arab",

@@ -4556,11 +4556,11 @@
    }
   },
   "2026-11-05": {
-   "total": 615,
-   "news": 587,
+   "total": 616,
+   "news": 588,
    "articles": 28,
    "positive": 0,
-   "neutral": 615,
+   "neutral": 616,
    "critical": 0,
    "mbs": 7,
    "countries": {
@@ -4568,7 +4568,7 @@
     "US": 165,
     "GB": 150,
     "HK": 7,
-    "FR": 9,
+    "FR": 10,
     "DE": 1,
     "JP": 3
    },
@@ -4611,7 +4611,7 @@
     "Financial Times": 34,
     "Bloomberg.com": 17,
     "France 24": 4,
-    "Le Monde.fr": 6,
+    "Le Monde.fr": 7,
     "The Economist": 20,
     "ASHARQ AL-AWSAT English": 6,
     "StreetInsider": 1,
@@ -4905,7 +4905,7 @@
     ],
     "Le Monde.fr": [
      0,
-     6,
+     7,
      0
     ],
     "The Economist": [
@@ -5431,34 +5431,34 @@
    }
   },
   "2026-11-06": {
-   "total": 182,
-   "news": 182,
-   "articles": 0,
+   "total": 221,
+   "news": 220,
+   "articles": 1,
    "positive": 0,
-   "neutral": 182,
+   "neutral": 221,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 23,
-    "SA": 33,
-    "US": 38,
-    "DE": 3,
-    "HK": 4,
-    "FR": 3
+    "GB": 31,
+    "SA": 38,
+    "US": 56,
+    "DE": 4,
+    "HK": 5,
+    "FR": 5
    },
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Reuters": 11,
-    "Arab News": 33,
+    "Reuters": 14,
+    "Arab News": 36,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
-    "The Guardian": 3,
-    "WSJ": 12,
-    "Al-Monitor": 4,
-    "The New York Times": 6,
-    "Bloomberg.com": 14,
-    "BBC": 6,
+    "The Guardian": 5,
+    "WSJ": 15,
+    "Al-Monitor": 8,
+    "The New York Times": 9,
+    "Bloomberg.com": 17,
+    "BBC": 9,
     "Gulf News": 1,
     "Iran International": 1,
     "Asia News Network": 1,
@@ -5473,13 +5473,13 @@
     "Financial Times": 2,
     "UA.NEWS": 2,
     "GamesRadar+": 1,
-    "Spiegel": 3,
-    "South China Morning Post": 4,
-    "France 24": 3,
+    "Spiegel": 4,
+    "South China Morning Post": 5,
+    "France 24": 4,
     "CNN": 1,
     "The Express Tribune": 3,
-    "Saudi Gazette": 1,
-    "AP News": 2,
+    "Saudi Gazette": 3,
+    "AP News": 5,
     "BBC Shop": 1,
     "Geo News": 1,
     "وكالة الأنباء السعودية": 2,
@@ -5529,7 +5529,14 @@
     "Diari ARA": 1,
     "The Diplomatic Insight": 1,
     "Deccan Chronicle": 1,
-    "Egypt Today": 1
+    "Egypt Today": 1,
+    "Atlantic Council": 1,
+    "The Washington Post": 1,
+    "Boston Herald": 1,
+    "Le Monde.fr": 1,
+    "Game Developer": 1,
+    "GamesBeat": 1,
+    "Мілітарний": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -5539,12 +5546,12 @@
     ],
     "Reuters": [
      0,
-     11,
+     14,
      0
     ],
     "Arab News": [
      0,
-     33,
+     36,
      0
     ],
     "Al Jazeera": [
@@ -5559,32 +5566,32 @@
     ],
     "The Guardian": [
      0,
-     3,
+     5,
      0
     ],
     "WSJ": [
      0,
-     12,
+     15,
      0
     ],
     "Al-Monitor": [
      0,
-     4,
+     8,
      0
     ],
     "The New York Times": [
      0,
-     6,
+     9,
      0
     ],
     "Bloomberg.com": [
      0,
-     14,
+     17,
      0
     ],
     "BBC": [
      0,
-     6,
+     9,
      0
     ],
     "Gulf News": [
@@ -5659,17 +5666,17 @@
     ],
     "Spiegel": [
      0,
-     3,
+     4,
      0
     ],
     "South China Morning Post": [
      0,
-     4,
+     5,
      0
     ],
     "France 24": [
      0,
-     3,
+     4,
      0
     ],
     "CNN": [
@@ -5684,12 +5691,12 @@
     ],
     "Saudi Gazette": [
      0,
-     1,
+     3,
      0
     ],
     "AP News": [
      0,
-     2,
+     5,
      0
     ],
     "BBC Shop": [
@@ -5938,6 +5945,41 @@
      0
     ],
     "Egypt Today": [
+     0,
+     1,
+     0
+    ],
+    "Atlantic Council": [
+     0,
+     1,
+     0
+    ],
+    "The Washington Post": [
+     0,
+     1,
+     0
+    ],
+    "Boston Herald": [
+     0,
+     1,
+     0
+    ],
+    "Le Monde.fr": [
+     0,
+     1,
+     0
+    ],
+    "Game Developer": [
+     0,
+     1,
+     0
+    ],
+    "GamesBeat": [
+     0,
+     1,
+     0
+    ],
+    "Мілітарний": [
      0,
      1,
      0
