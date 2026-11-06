@@ -4556,16 +4556,16 @@
    }
   },
   "2026-11-05": {
-   "total": 653,
-   "news": 625,
+   "total": 654,
+   "news": 626,
    "articles": 28,
    "positive": 0,
-   "neutral": 653,
+   "neutral": 654,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "SA": 87,
-    "US": 171,
+    "US": 172,
     "GB": 175,
     "HK": 7,
     "FR": 10,
@@ -4581,7 +4581,7 @@
     "Al Majalla": 1,
     "Al-Monitor": 44,
     "Reuters": 85,
-    "WSJ": 40,
+    "WSJ": 41,
     "South China Morning Post": 7,
     "Myanmar International TV": 1,
     "AP News": 22,
@@ -4755,7 +4755,7 @@
     ],
     "WSJ": [
      0,
-     40,
+     41,
      0
     ],
     "South China Morning Post": [
@@ -5431,15 +5431,15 @@
    }
   },
   "2026-11-06": {
-   "total": 432,
-   "news": 424,
+   "total": 433,
+   "news": 425,
    "articles": 8,
    "positive": 0,
-   "neutral": 432,
+   "neutral": 433,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 83,
+    "GB": 84,
     "SA": 89,
     "US": 95,
     "DE": 4,
@@ -5450,7 +5450,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Reuters": 58,
+    "Reuters": 59,
     "Arab News": 87,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
@@ -5591,7 +5591,7 @@
     ],
     "Reuters": [
      0,
-     58,
+     59,
      0
     ],
     "Arab News": [
