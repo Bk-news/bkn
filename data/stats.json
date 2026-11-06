@@ -3669,16 +3669,16 @@
    }
   },
   "2026-11-04": {
-   "total": 677,
-   "news": 668,
+   "total": 678,
+   "news": 669,
    "articles": 9,
    "positive": 0,
-   "neutral": 677,
+   "neutral": 678,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "SA": 77,
-    "US": 146,
+    "US": 147,
     "GB": 256,
     "JP": 1,
     "FR": 9,
@@ -3695,7 +3695,7 @@
     "Bloomberg.com": 28,
     "Reuters": 170,
     "Nikkei Asia": 1,
-    "WSJ": 25,
+    "WSJ": 26,
     "The Australian": 1,
     "Middle East Eye": 1,
     "Asia News Network": 1,
@@ -3875,7 +3875,7 @@
     ],
     "WSJ": [
      0,
-     25,
+     26,
      0
     ],
     "The Australian": [
@@ -5431,11 +5431,11 @@
    }
   },
   "2026-11-06": {
-   "total": 129,
-   "news": 129,
+   "total": 153,
+   "news": 153,
    "articles": 0,
    "positive": 0,
-   "neutral": 129,
+   "neutral": 153,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -5448,7 +5448,7 @@
    },
    "topics": {},
    "sources": {
-    "Arabian Gulf Business Insight | AGBI": 1,
+    "Arabian Gulf Business Insight | AGBI": 2,
     "Reuters": 9,
     "Arab News": 25,
     "Al Jazeera": 1,
@@ -5467,11 +5467,11 @@
     "Inven Global": 1,
     "www.thenationalnews.com": 1,
     "Critical Threats": 1,
-    "Middle East Eye": 2,
+    "Middle East Eye": 3,
     "digitimes": 1,
     "Anadolu Ajansı": 1,
     "Financial Times": 2,
-    "UA.NEWS": 1,
+    "UA.NEWS": 2,
     "GamesRadar+": 1,
     "Spiegel": 3,
     "South China Morning Post": 4,
@@ -5488,7 +5488,7 @@
     "https://www.readthepeak.com/": 1,
     "Egypt Independent": 1,
     "Kurdistan24": 1,
-    "The National": 1,
+    "The National": 2,
     "Egyptian Gazette": 1,
     "Rock Paper Shotgun": 1,
     "marketscreener.com": 1,
@@ -5502,12 +5502,32 @@
     "Haaretz": 1,
     "The Arab Weekly": 1,
     "Bioengineer.org": 1,
-    "The Jerusalem Post": 1
+    "The Jerusalem Post": 1,
+    "Dawn": 1,
+    "The Times of Israel": 1,
+    "TRT World": 1,
+    "ASHARQ AL-AWSAT English": 1,
+    "Oil & Gas Middle East": 1,
+    "Devdiscourse": 1,
+    "The Times of India": 1,
+    "Free Press Kashmir": 1,
+    "India News Network": 1,
+    "NDTV Sports": 1,
+    "Middle East Online": 1,
+    "Türkiye Today": 1,
+    "Pajhwok Afghan News": 1,
+    "FWDStart": 1,
+    "PC Gamer": 1,
+    "NewsCord": 1,
+    "TradingView": 1,
+    "https://houseofsaud.com/": 1,
+    "CairoScene": 1,
+    "Zawya": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
      0,
-     1,
+     2,
      0
     ],
     "Reuters": [
@@ -5602,7 +5622,7 @@
     ],
     "Middle East Eye": [
      0,
-     2,
+     3,
      0
     ],
     "digitimes": [
@@ -5622,7 +5642,7 @@
     ],
     "UA.NEWS": [
      0,
-     1,
+     2,
      0
     ],
     "GamesRadar+": [
@@ -5707,7 +5727,7 @@
     ],
     "The National": [
      0,
-     1,
+     2,
      0
     ],
     "Egyptian Gazette": [
@@ -5776,6 +5796,106 @@
      0
     ],
     "The Jerusalem Post": [
+     0,
+     1,
+     0
+    ],
+    "Dawn": [
+     0,
+     1,
+     0
+    ],
+    "The Times of Israel": [
+     0,
+     1,
+     0
+    ],
+    "TRT World": [
+     0,
+     1,
+     0
+    ],
+    "ASHARQ AL-AWSAT English": [
+     0,
+     1,
+     0
+    ],
+    "Oil & Gas Middle East": [
+     0,
+     1,
+     0
+    ],
+    "Devdiscourse": [
+     0,
+     1,
+     0
+    ],
+    "The Times of India": [
+     0,
+     1,
+     0
+    ],
+    "Free Press Kashmir": [
+     0,
+     1,
+     0
+    ],
+    "India News Network": [
+     0,
+     1,
+     0
+    ],
+    "NDTV Sports": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Online": [
+     0,
+     1,
+     0
+    ],
+    "Türkiye Today": [
+     0,
+     1,
+     0
+    ],
+    "Pajhwok Afghan News": [
+     0,
+     1,
+     0
+    ],
+    "FWDStart": [
+     0,
+     1,
+     0
+    ],
+    "PC Gamer": [
+     0,
+     1,
+     0
+    ],
+    "NewsCord": [
+     0,
+     1,
+     0
+    ],
+    "TradingView": [
+     0,
+     1,
+     0
+    ],
+    "https://houseofsaud.com/": [
+     0,
+     1,
+     0
+    ],
+    "CairoScene": [
+     0,
+     1,
+     0
+    ],
+    "Zawya": [
      0,
      1,
      0
