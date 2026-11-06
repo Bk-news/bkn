@@ -3669,11 +3669,11 @@
    }
   },
   "2026-11-04": {
-   "total": 678,
-   "news": 669,
+   "total": 679,
+   "news": 670,
    "articles": 9,
    "positive": 0,
-   "neutral": 678,
+   "neutral": 679,
    "critical": 0,
    "mbs": 20,
    "countries": {
@@ -3681,7 +3681,7 @@
     "US": 147,
     "GB": 256,
     "JP": 1,
-    "FR": 9,
+    "FR": 10,
     "HK": 2,
     "DE": 1
    },
@@ -3754,7 +3754,7 @@
     "NewsCord": 1,
     "Forbes Middle East": 1,
     "Fast Company Middle East": 1,
-    "Le Monde.fr": 6,
+    "Le Monde.fr": 7,
     "CairoScene": 2,
     "USA Today": 1,
     "وكالة الأنباء السعودية": 5,
@@ -4170,7 +4170,7 @@
     ],
     "Le Monde.fr": [
      0,
-     6,
+     7,
      0
     ],
     "CairoScene": [
@@ -4556,16 +4556,16 @@
    }
   },
   "2026-11-05": {
-   "total": 610,
-   "news": 582,
+   "total": 611,
+   "news": 583,
    "articles": 28,
    "positive": 0,
-   "neutral": 610,
+   "neutral": 611,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "SA": 79,
-    "US": 162,
+    "US": 163,
     "GB": 150,
     "HK": 7,
     "FR": 9,
@@ -4581,7 +4581,7 @@
     "Al Majalla": 1,
     "Al-Monitor": 41,
     "Reuters": 69,
-    "WSJ": 37,
+    "WSJ": 38,
     "South China Morning Post": 7,
     "Myanmar International TV": 1,
     "AP News": 21,
@@ -4755,7 +4755,7 @@
     ],
     "WSJ": [
      0,
-     37,
+     38,
      0
     ],
     "South China Morning Post": [

@@ -1509,6 +1509,27 @@
    "mt": true
   },
   {
+   "id": "b2d6fbe7c7f85c93",
+   "origin": "rss",
+   "source": "Le Monde.fr",
+   "author": "",
+   "title_ar": "فرنسا المؤرقة (LFI)",
+   "title_orig": "La France insoumise (LFI)",
+   "title_en": "",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PXzFvT0puQlJtN2NRdEdLdGVXSFZKdDhRUXYwOGRIajh2bnNkMFFuNG5MOVNXV3VaX2tWdjIxeVAxbWNXdmJHbjlXVExGY3VWeTdqZVNR?oc=5",
+   "published": "2026-11-04T21:04:10.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "FR",
+   "pending": true,
+   "desc": "La France insoumise (LFI) &nbsp;&nbsp; Le Monde.fr",
+   "lang": "fr",
+   "mt": true
+  },
+  {
    "id": "b9f8504786af1110",
    "origin": "rss",
    "source": "Le Monde.fr",
