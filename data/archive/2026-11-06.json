@@ -2,6 +2,27 @@
  "day": "2026-11-06",
  "items": [
   {
+   "id": "e0e56ebde70e4510",
+   "origin": "rss",
+   "source": "Arab News",
+   "author": "",
+   "title_ar": "الصين تشهد أسرع انخفاض في الانبعاثات منذ كوفيد بسبب حرب الشرق الأوسط: تقرير",
+   "title_orig": "China sees fastest emissions drop since Covid due to Mideast war: report",
+   "title_en": "China sees fastest emissions drop since Covid due to Mideast war: report",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVFlVWExONGZPS0p2aktzQlJlWHZjRHR2X1hxVGtwQkhHRUtPOFUwR01qT1QzRFVsdVY1THRnZ1VwTGtJdC11anNDelc3aUhCbmhKTW1JRVNiZGUxY3NrcUtxZHVKWDZBbXNCdnBYYjRROEE3V1lmTkxzeGx3UGh1WG1mLUFibDFEQVduMEhYTW80Q1hoTWwtZmVDaUU5aHY2eEsyMi1nRzhocENRMGhV?oc=5",
+   "published": "2026-11-06T00:20:25.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "SA",
+   "pending": true,
+   "desc": "China sees fastest emissions drop since Covid due to Mideast war: report &nbsp;&nbsp; Arab News",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "67d26507aea293f8",
    "origin": "rss",
    "source": "Reuters",
