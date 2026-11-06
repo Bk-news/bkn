@@ -2921,6 +2921,27 @@
    "mt": true
   },
   {
+   "id": "0cc139edb8665665",
+   "origin": "rss",
+   "source": "Bloomberg.com",
+   "author": "",
+   "title_ar": "بلومبرج بيزنس ويك - بلومبرج",
+   "title_orig": "Bloomberg Businessweek - Bloomberg",
+   "title_en": "Bloomberg Businessweek - Bloomberg",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rZzA3NW15dWxmZzV5aFBXWGtHVWNPa2w1Uzd5MXBHZkRMTDV1aEIyMFI1c1lXdTF2MVNfaFRVbVFPTDdOM2dKV3JvLWNKdE0?oc=5",
+   "published": "2026-11-06T12:08:39.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "Bloomberg Businessweek - Bloomberg &nbsp;&nbsp; Bloomberg.com",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "d4523f832437e80a",
    "origin": "rss",
    "source": "The New York Times",
