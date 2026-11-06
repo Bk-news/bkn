@@ -5431,11 +5431,11 @@
    }
   },
   "2026-11-06": {
-   "total": 171,
-   "news": 171,
+   "total": 172,
+   "news": 172,
    "articles": 0,
    "positive": 0,
-   "neutral": 171,
+   "neutral": 172,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -5528,7 +5528,8 @@
     "i24NEWS": 1,
     "Diari ARA": 1,
     "The Diplomatic Insight": 1,
-    "Deccan Chronicle": 1
+    "Deccan Chronicle": 1,
+    "Egypt Today": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -5932,6 +5933,11 @@
      0
     ],
     "Deccan Chronicle": [
+     0,
+     1,
+     0
+    ],
+    "Egypt Today": [
      0,
      1,
      0
