@@ -2,6 +2,27 @@
  "day": "2026-11-06",
  "items": [
   {
+   "id": "0cf3a5182e05fecd",
+   "origin": "rss",
+   "source": "Reuters",
+   "author": "",
+   "title_ar": "اندلعت اشتباكات في تشيلي حيث طالب الطلاب باستقالة وزير العدل",
+   "title_orig": "Clashes erupt in Chile as students demand justice minister's resignation",
+   "title_en": "Clashes erupt in Chile as students demand justice minister's resignation",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fQVhseUl5N0xKLVNydDhBTzAzZkhTSDdXUzlDczZ4aDQyODZzeHRERVVoMUtBTVdCRTFFWkhaRFhDM1pvS1JQcTVlUEk1SnBKRUNvTkJvR0RRYkk5RGtUZXEyaVdLOWc?oc=5",
+   "published": "2026-11-06T00:36:57.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "Clashes erupt in Chile as students demand justice minister's resignation &nbsp;&nbsp; Reuters",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "834be3b7b3c2f185",
    "origin": "rss",
    "source": "Al Jazeera",

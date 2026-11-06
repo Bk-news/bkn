@@ -5407,21 +5407,21 @@
    }
   },
   "2026-11-06": {
-   "total": 4,
-   "news": 4,
+   "total": 5,
+   "news": 5,
    "articles": 0,
    "positive": 0,
-   "neutral": 4,
+   "neutral": 5,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 1,
+    "GB": 2,
     "SA": 1
    },
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 1,
-    "Reuters": 1,
+    "Reuters": 2,
     "Arab News": 1,
     "Al Jazeera": 1
    },
@@ -5433,7 +5433,7 @@
     ],
     "Reuters": [
      0,
-     1,
+     2,
      0
     ],
     "Arab News": [
