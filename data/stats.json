@@ -5431,11 +5431,11 @@
    }
   },
   "2026-11-06": {
-   "total": 164,
-   "news": 164,
+   "total": 165,
+   "news": 165,
    "articles": 0,
    "positive": 0,
-   "neutral": 164,
+   "neutral": 165,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -5477,7 +5477,7 @@
     "South China Morning Post": 4,
     "France 24": 2,
     "CNN": 1,
-    "The Express Tribune": 2,
+    "The Express Tribune": 3,
     "Saudi Gazette": 1,
     "AP News": 2,
     "BBC Shop": 1,
@@ -5677,7 +5677,7 @@
     ],
     "The Express Tribune": [
      0,
-     2,
+     3,
      0
     ],
     "Saudi Gazette": [

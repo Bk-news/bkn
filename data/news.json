@@ -1,5 +1,26 @@
 [
  {
+  "id": "81d85b440a8f627b",
+  "origin": "rss",
+  "source": "The Express Tribune",
+  "author": "",
+  "title_ar": "باكستان تؤكد مجددا تضامنها الثابت مع السعودية وتنتقد الحوثيين بسبب الهجمات",
+  "title_orig": "Pakistan reaffirms ‘unwavering solidarity’ with Saudi Arabia, slams Houthis for attacks",
+  "title_en": "Pakistan reaffirms ‘unwavering solidarity’ with Saudi Arabia, slams Houthis for attacks",
+  "summary_ar": [],
+  "summary_en": [],
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc2txNVl0dldTX1JIWXp3eFlBY3gxaFREOVlSM0QtUFhwUUJDaW1DY0RmUGRUUmdiRS1zZEN6dldGTVVPZ1pySnNWZWxCX2JfNUdHTF9TU1pZZWhtc3J3RzZhTnpvMXpwMmh4R1B2TW1vQjg2Wi00dmxCbUhDNldLZ2ktalRKSHdPa2V2Vk9YdFpXNmJoMk4tX3ItMzE2YThNWlJIS0o0eGxselJvOENNOFBIc0FRck0?oc=5",
+  "published": "2026-11-06T11:45:54.000Z",
+  "subject": "saudi",
+  "tone": "neutral",
+  "topic": "",
+  "country": "",
+  "pending": true,
+  "desc": "Pakistan reaffirms ‘unwavering solidarity’ with Saudi Arabia, slams Houthis for attacks &nbsp;&nbsp; The Express Tribune",
+  "lang": "en",
+  "mt": true
+ },
+ {
   "id": "9d667d79c28b2a90",
   "origin": "rss",
   "source": "Arab News",
@@ -10476,27 +10497,6 @@
   "pending": true,
   "desc": "Houthi missiles fired at Medina intercepted, Saudi coalition says &nbsp;&nbsp; France 24",
   "lang": "en",
-  "mt": true
- },
- {
-  "id": "3093034941f7ecb2",
-  "origin": "rss",
-  "source": "Le Monde.fr",
-  "author": "",
-  "title_ar": "لوموند - Toute l'actualité en continu",
-  "title_orig": "Le Monde - Toute l’actualité en continu",
-  "title_en": "",
-  "summary_ar": [],
-  "summary_en": [],
-  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45YV9uSWV6UXctdDlweEpKbUFOeC1iWFlDZXhWcW5aUTducW1FY3dHbUhXeTl6ZkV5dTA3ckR3R1BlOFRKenpzZWRQWGd5M2pDSkY5LTNtczJKUklJV0hleG5rWVU?oc=5",
-  "published": "2026-11-05T11:03:55.000Z",
-  "subject": "saudi",
-  "tone": "neutral",
-  "topic": "",
-  "country": "FR",
-  "pending": true,
-  "desc": "Le Monde - Toute l’actualité en continu &nbsp;&nbsp; Le Monde.fr",
-  "lang": "fr",
   "mt": true
  }
 ]
