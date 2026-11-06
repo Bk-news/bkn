@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 637,
-   "news": 609,
+   "total": 638,
+   "news": 610,
    "articles": 28,
    "positive": 0,
-   "neutral": 637,
+   "neutral": 638,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "SA": 84,
     "US": 170,
-    "GB": 163,
+    "GB": 164,
     "HK": 7,
     "FR": 10,
     "DE": 1,
@@ -4580,7 +4580,7 @@
     "Deadline": 2,
     "Al Majalla": 1,
     "Al-Monitor": 43,
-    "Reuters": 82,
+    "Reuters": 83,
     "WSJ": 40,
     "South China Morning Post": 7,
     "Myanmar International TV": 1,
@@ -4750,7 +4750,7 @@
     ],
     "Reuters": [
      0,
-     82,
+     83,
      0
     ],
     "WSJ": [
@@ -5431,15 +5431,15 @@
    }
   },
   "2026-11-06": {
-   "total": 327,
-   "news": 325,
+   "total": 330,
+   "news": 328,
    "articles": 2,
    "positive": 0,
-   "neutral": 327,
+   "neutral": 330,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 59,
+    "GB": 60,
     "SA": 63,
     "US": 67,
     "DE": 4,
@@ -5449,7 +5449,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Reuters": 41,
+    "Reuters": 42,
     "Arab News": 62,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
@@ -5564,7 +5564,9 @@
     "Nacionale": 1,
     "The Supercar Blog": 1,
     "The Media Line": 1,
-    "WhatCulture.com": 1
+    "WhatCulture.com": 1,
+    "World Socialist Web Site": 1,
+    "www.tokenpost.com": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -5574,7 +5576,7 @@
     ],
     "Reuters": [
      0,
-     41,
+     42,
      0
     ],
     "Arab News": [
@@ -6148,6 +6150,16 @@
      0
     ],
     "WhatCulture.com": [
+     0,
+     1,
+     0
+    ],
+    "World Socialist Web Site": [
+     0,
+     1,
+     0
+    ],
+    "www.tokenpost.com": [
      0,
      1,
      0
