@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 640,
-   "news": 612,
+   "total": 642,
+   "news": 614,
    "articles": 28,
    "positive": 0,
-   "neutral": 640,
+   "neutral": 642,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "SA": 86,
+    "SA": 87,
     "US": 170,
-    "GB": 164,
+    "GB": 165,
     "HK": 7,
     "FR": 10,
     "DE": 1,
@@ -4576,7 +4576,7 @@
    "sources": {
     "Bloody Elbow": 1,
     "وكالة الأنباء السعودية": 1,
-    "Arab News": 87,
+    "Arab News": 88,
     "Deadline": 2,
     "Al Majalla": 1,
     "Al-Monitor": 43,
@@ -4608,7 +4608,7 @@
     "Oz Arab Media": 1,
     "Yemen Online": 2,
     "BBC": 14,
-    "Financial Times": 34,
+    "Financial Times": 35,
     "Bloomberg.com": 17,
     "France 24": 4,
     "Le Monde.fr": 7,
@@ -4730,7 +4730,7 @@
     ],
     "Arab News": [
      0,
-     87,
+     88,
      0
     ],
     "Deadline": [
@@ -4890,7 +4890,7 @@
     ],
     "Financial Times": [
      0,
-     34,
+     35,
      0
     ],
     "Bloomberg.com": [
