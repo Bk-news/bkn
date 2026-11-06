@@ -3669,16 +3669,16 @@
    }
   },
   "2026-11-04": {
-   "total": 659,
-   "news": 650,
+   "total": 661,
+   "news": 652,
    "articles": 9,
    "positive": 0,
-   "neutral": 659,
+   "neutral": 661,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "SA": 73,
-    "US": 141,
+    "US": 143,
     "GB": 247,
     "JP": 1,
     "FR": 9,
@@ -3713,7 +3713,7 @@
     "A News": 1,
     "BBC": 15,
     "Financial Times": 45,
-    "AP News": 24,
+    "AP News": 26,
     "Saudi Gazette": 16,
     "TahawulTech.com": 1,
     "The National": 4,
@@ -3965,7 +3965,7 @@
     ],
     "AP News": [
      0,
-     24,
+     26,
      0
     ],
     "Saudi Gazette": [
@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 562,
-   "news": 534,
+   "total": 563,
+   "news": 535,
    "articles": 28,
    "positive": 0,
-   "neutral": 562,
+   "neutral": 563,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "SA": 66,
     "US": 156,
-    "GB": 131,
+    "GB": 132,
     "HK": 6,
     "FR": 8,
     "DE": 1,
@@ -4608,7 +4608,7 @@
     "Oz Arab Media": 1,
     "Yemen Online": 2,
     "BBC": 13,
-    "Financial Times": 29,
+    "Financial Times": 30,
     "Bloomberg.com": 17,
     "France 24": 4,
     "Le Monde.fr": 5,
@@ -4885,7 +4885,7 @@
     ],
     "Financial Times": [
      0,
-     29,
+     30,
      0
     ],
     "Bloomberg.com": [
