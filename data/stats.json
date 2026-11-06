@@ -4556,15 +4556,15 @@
    }
   },
   "2026-11-05": {
-   "total": 586,
-   "news": 558,
+   "total": 587,
+   "news": 559,
    "articles": 28,
    "positive": 0,
-   "neutral": 586,
+   "neutral": 587,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "SA": 74,
+    "SA": 75,
     "US": 158,
     "GB": 137,
     "HK": 6,
@@ -4576,7 +4576,7 @@
    "sources": {
     "Bloody Elbow": 1,
     "وكالة الأنباء السعودية": 1,
-    "Arab News": 77,
+    "Arab News": 78,
     "Deadline": 2,
     "Al Majalla": 1,
     "Al-Monitor": 41,
@@ -4729,7 +4729,7 @@
     ],
     "Arab News": [
      0,
-     77,
+     78,
      0
     ],
     "Deadline": [
@@ -5425,23 +5425,23 @@
    }
   },
   "2026-11-06": {
-   "total": 25,
-   "news": 25,
+   "total": 26,
+   "news": 26,
    "articles": 0,
    "positive": 0,
-   "neutral": 25,
+   "neutral": 26,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 5,
-    "SA": 2,
+    "SA": 3,
     "US": 7
    },
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 1,
     "Reuters": 3,
-    "Arab News": 3,
+    "Arab News": 4,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
     "The Guardian": 1,
@@ -5471,7 +5471,7 @@
     ],
     "Arab News": [
      0,
-     3,
+     4,
      0
     ],
     "Al Jazeera": [
