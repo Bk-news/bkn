@@ -3669,17 +3669,17 @@
    }
   },
   "2026-11-04": {
-   "total": 683,
-   "news": 674,
+   "total": 684,
+   "news": 675,
    "articles": 9,
    "positive": 0,
-   "neutral": 683,
+   "neutral": 684,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "SA": 79,
     "US": 148,
-    "GB": 257,
+    "GB": 258,
     "JP": 1,
     "FR": 10,
     "HK": 2,
@@ -3693,7 +3693,7 @@
     "Al-Monitor": 37,
     "The Washington Post": 8,
     "Bloomberg.com": 28,
-    "Reuters": 171,
+    "Reuters": 172,
     "Nikkei Asia": 1,
     "WSJ": 26,
     "The Australian": 1,
@@ -3865,7 +3865,7 @@
     ],
     "Reuters": [
      0,
-     171,
+     172,
      0
     ],
     "Nikkei Asia": [
