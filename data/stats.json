@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 621,
-   "news": 593,
+   "total": 637,
+   "news": 609,
    "articles": 28,
    "positive": 0,
-   "neutral": 621,
+   "neutral": 637,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "SA": 81,
+    "SA": 84,
     "US": 170,
-    "GB": 150,
+    "GB": 163,
     "HK": 7,
     "FR": 10,
     "DE": 1,
@@ -4576,11 +4576,11 @@
    "sources": {
     "Bloody Elbow": 1,
     "وكالة الأنباء السعودية": 1,
-    "Arab News": 82,
+    "Arab News": 85,
     "Deadline": 2,
     "Al Majalla": 1,
     "Al-Monitor": 43,
-    "Reuters": 69,
+    "Reuters": 82,
     "WSJ": 40,
     "South China Morning Post": 7,
     "Myanmar International TV": 1,
@@ -4730,7 +4730,7 @@
     ],
     "Arab News": [
      0,
-     82,
+     85,
      0
     ],
     "Deadline": [
@@ -4750,7 +4750,7 @@
     ],
     "Reuters": [
      0,
-     69,
+     82,
      0
     ],
     "WSJ": [
@@ -5431,16 +5431,16 @@
    }
   },
   "2026-11-06": {
-   "total": 296,
-   "news": 295,
+   "total": 320,
+   "news": 319,
    "articles": 1,
    "positive": 0,
-   "neutral": 296,
+   "neutral": 320,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 53,
-    "SA": 60,
+    "GB": 58,
+    "SA": 61,
     "US": 65,
     "DE": 4,
     "HK": 5,
@@ -5449,15 +5449,15 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Reuters": 35,
-    "Arab News": 60,
+    "Reuters": 40,
+    "Arab News": 61,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
     "The Guardian": 5,
-    "WSJ": 17,
+    "WSJ": 18,
     "Al-Monitor": 13,
     "The New York Times": 9,
-    "Bloomberg.com": 19,
+    "Bloomberg.com": 20,
     "BBC": 10,
     "Gulf News": 1,
     "Iran International": 2,
@@ -5503,7 +5503,7 @@
     "The Arab Weekly": 1,
     "Bioengineer.org": 1,
     "The Jerusalem Post": 1,
-    "Dawn": 1,
+    "Dawn": 2,
     "The Times of Israel": 2,
     "TRT World": 1,
     "ASHARQ AL-AWSAT English": 1,
@@ -5529,7 +5529,7 @@
     "Diari ARA": 1,
     "The Diplomatic Insight": 1,
     "Deccan Chronicle": 1,
-    "Egypt Today": 1,
+    "Egypt Today": 2,
     "Atlantic Council": 1,
     "The Washington Post": 1,
     "Boston Herald": 1,
@@ -5550,7 +5550,20 @@
     "Breaking Defense": 1,
     "Quartz": 1,
     "Fragomen": 2,
-    "www.nationpathindia.com": 1
+    "www.nationpathindia.com": 1,
+    "GamingBolt": 1,
+    "RealClearWorld": 2,
+    "DW.com": 1,
+    "AFP Fact Check": 1,
+    "صحيفة مال": 1,
+    "GameSpot": 1,
+    "TweakTown": 1,
+    "Caspian Post": 1,
+    "https://tech-insider.org/": 1,
+    "Goal.com": 1,
+    "Nacionale": 1,
+    "The Supercar Blog": 1,
+    "The Media Line": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -5560,12 +5573,12 @@
     ],
     "Reuters": [
      0,
-     35,
+     40,
      0
     ],
     "Arab News": [
      0,
-     60,
+     61,
      0
     ],
     "Al Jazeera": [
@@ -5585,7 +5598,7 @@
     ],
     "WSJ": [
      0,
-     17,
+     18,
      0
     ],
     "Al-Monitor": [
@@ -5600,7 +5613,7 @@
     ],
     "Bloomberg.com": [
      0,
-     19,
+     20,
      0
     ],
     "BBC": [
@@ -5830,7 +5843,7 @@
     ],
     "Dawn": [
      0,
-     1,
+     2,
      0
     ],
     "The Times of Israel": [
@@ -5960,7 +5973,7 @@
     ],
     "Egypt Today": [
      0,
-     1,
+     2,
      0
     ],
     "Atlantic Council": [
@@ -6064,6 +6077,71 @@
      0
     ],
     "www.nationpathindia.com": [
+     0,
+     1,
+     0
+    ],
+    "GamingBolt": [
+     0,
+     1,
+     0
+    ],
+    "RealClearWorld": [
+     0,
+     2,
+     0
+    ],
+    "DW.com": [
+     0,
+     1,
+     0
+    ],
+    "AFP Fact Check": [
+     0,
+     1,
+     0
+    ],
+    "صحيفة مال": [
+     0,
+     1,
+     0
+    ],
+    "GameSpot": [
+     0,
+     1,
+     0
+    ],
+    "TweakTown": [
+     0,
+     1,
+     0
+    ],
+    "Caspian Post": [
+     0,
+     1,
+     0
+    ],
+    "https://tech-insider.org/": [
+     0,
+     1,
+     0
+    ],
+    "Goal.com": [
+     0,
+     1,
+     0
+    ],
+    "Nacionale": [
+     0,
+     1,
+     0
+    ],
+    "The Supercar Blog": [
+     0,
+     1,
+     0
+    ],
+    "The Media Line": [
      0,
      1,
      0
