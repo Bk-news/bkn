@@ -4556,11 +4556,11 @@
    }
   },
   "2026-11-05": {
-   "total": 654,
-   "news": 626,
+   "total": 655,
+   "news": 627,
    "articles": 28,
    "positive": 0,
-   "neutral": 654,
+   "neutral": 655,
    "critical": 0,
    "mbs": 7,
    "countries": {
@@ -4568,7 +4568,7 @@
     "US": 172,
     "GB": 175,
     "HK": 7,
-    "FR": 10,
+    "FR": 11,
     "DE": 1,
     "JP": 3
    },
@@ -4611,7 +4611,7 @@
     "Financial Times": 43,
     "Bloomberg.com": 17,
     "France 24": 4,
-    "Le Monde.fr": 7,
+    "Le Monde.fr": 8,
     "The Economist": 20,
     "ASHARQ AL-AWSAT English": 6,
     "StreetInsider": 1,
@@ -4905,7 +4905,7 @@
     ],
     "Le Monde.fr": [
      0,
-     7,
+     8,
      0
     ],
     "The Economist": [
