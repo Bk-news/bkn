@@ -5431,17 +5431,17 @@
    }
   },
   "2026-11-06": {
-   "total": 322,
-   "news": 321,
-   "articles": 1,
+   "total": 324,
+   "news": 322,
+   "articles": 2,
    "positive": 0,
-   "neutral": 322,
+   "neutral": 324,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 58,
+    "GB": 59,
     "SA": 61,
-    "US": 65,
+    "US": 66,
     "DE": 4,
     "HK": 5,
     "FR": 5
@@ -5449,7 +5449,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Reuters": 40,
+    "Reuters": 41,
     "Arab News": 61,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
@@ -5530,7 +5530,7 @@
     "The Diplomatic Insight": 1,
     "Deccan Chronicle": 1,
     "Egypt Today": 2,
-    "Atlantic Council": 1,
+    "Atlantic Council": 2,
     "The Washington Post": 1,
     "Boston Herald": 1,
     "Le Monde.fr": 1,
@@ -5574,7 +5574,7 @@
     ],
     "Reuters": [
      0,
-     40,
+     41,
      0
     ],
     "Arab News": [
@@ -5979,7 +5979,7 @@
     ],
     "Atlantic Council": [
      0,
-     1,
+     2,
      0
     ],
     "The Washington Post": [
