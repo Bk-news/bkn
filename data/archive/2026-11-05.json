@@ -1934,6 +1934,27 @@
    "mt": true
   },
   {
+   "id": "3e7d0b620bf7a573",
+   "origin": "rss",
+   "source": "Reuters",
+   "author": "",
+   "title_ar": "افتتاح سينما السيارات في المملكة العربية السعودية",
+   "title_orig": "Drive-in movie theatre opens in Saudi Arabia",
+   "title_en": "Drive-in movie theatre opens in Saudi Arabia",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90Vmc0YS1zWlRZNm1KX2J0SmF4YmtOUUxaYlU3MEZjVVhINVo4dmpob0Rkd0VUTFBrSV9DbUlNQWtHaGNvbTdPdlY3RXdsNGt4cFY3VUpqa0VWSjhv?oc=5",
+   "published": "2026-11-05T18:52:10.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "Drive-in movie theatre opens in Saudi Arabia &nbsp;&nbsp; Reuters",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "9f7925bf6298cb79",
    "origin": "rss",
    "source": "The Guardian",
