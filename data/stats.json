@@ -5431,16 +5431,16 @@
    }
   },
   "2026-11-06": {
-   "total": 337,
-   "news": 335,
+   "total": 341,
+   "news": 339,
    "articles": 2,
    "positive": 0,
-   "neutral": 337,
+   "neutral": 341,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 62,
-    "SA": 67,
+    "SA": 69,
     "US": 67,
     "DE": 4,
     "HK": 5,
@@ -5450,7 +5450,7 @@
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
     "Reuters": 44,
-    "Arab News": 66,
+    "Arab News": 68,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
     "The Guardian": 5,
@@ -5502,7 +5502,7 @@
     "Haaretz": 1,
     "The Arab Weekly": 1,
     "Bioengineer.org": 1,
-    "The Jerusalem Post": 1,
+    "The Jerusalem Post": 2,
     "Dawn": 2,
     "The Times of Israel": 2,
     "TRT World": 1,
@@ -5567,7 +5567,8 @@
     "WhatCulture.com": 1,
     "World Socialist Web Site": 1,
     "www.tokenpost.com": 1,
-    "WRTV": 1
+    "WRTV": 1,
+    "Khaama Press": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -5582,7 +5583,7 @@
     ],
     "Arab News": [
      0,
-     66,
+     68,
      0
     ],
     "Al Jazeera": [
@@ -5842,7 +5843,7 @@
     ],
     "The Jerusalem Post": [
      0,
-     1,
+     2,
      0
     ],
     "Dawn": [
@@ -6166,6 +6167,11 @@
      0
     ],
     "WRTV": [
+     0,
+     1,
+     0
+    ],
+    "Khaama Press": [
      0,
      1,
      0
