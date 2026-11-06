@@ -5431,16 +5431,16 @@
    }
   },
   "2026-11-06": {
-   "total": 170,
-   "news": 170,
+   "total": 171,
+   "news": 171,
    "articles": 0,
    "positive": 0,
-   "neutral": 170,
+   "neutral": 171,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 23,
-    "SA": 27,
+    "SA": 28,
     "US": 34,
     "DE": 3,
     "HK": 4,
@@ -5450,7 +5450,7 @@
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
     "Reuters": 11,
-    "Arab News": 27,
+    "Arab News": 28,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
     "The Guardian": 3,
@@ -5543,7 +5543,7 @@
     ],
     "Arab News": [
      0,
-     27,
+     28,
      0
     ],
     "Al Jazeera": [
