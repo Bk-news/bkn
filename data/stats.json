@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 593,
-   "news": 565,
+   "total": 596,
+   "news": 568,
    "articles": 28,
    "positive": 0,
-   "neutral": 593,
+   "neutral": 596,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "SA": 75,
-    "US": 159,
-    "GB": 141,
+    "SA": 76,
+    "US": 160,
+    "GB": 142,
     "HK": 6,
     "FR": 9,
     "DE": 1,
@@ -4586,7 +4586,7 @@
     "Myanmar International TV": 1,
     "AP News": 20,
     "The New York Times": 24,
-    "The Washington Post": 14,
+    "The Washington Post": 15,
     "Arab News PK": 3,
     "The Express Tribune": 3,
     "The Nation Newspaper": 1,
@@ -4597,7 +4597,7 @@
     "Facebook": 3,
     "WR Immigration": 1,
     "LATTE Luxury News": 1,
-    "Saudi Gazette": 11,
+    "Saudi Gazette": 12,
     "https://houseofsaud.com/": 2,
     "Eurasia Review": 1,
     "Al Jazeera": 3,
@@ -4608,7 +4608,7 @@
     "Oz Arab Media": 1,
     "Yemen Online": 2,
     "BBC": 14,
-    "Financial Times": 33,
+    "Financial Times": 34,
     "Bloomberg.com": 17,
     "France 24": 4,
     "Le Monde.fr": 6,
@@ -4780,7 +4780,7 @@
     ],
     "The Washington Post": [
      0,
-     14,
+     15,
      0
     ],
     "Arab News PK": [
@@ -4835,7 +4835,7 @@
     ],
     "Saudi Gazette": [
      0,
-     11,
+     12,
      0
     ],
     "https://houseofsaud.com/": [
@@ -4890,7 +4890,7 @@
     ],
     "Financial Times": [
      0,
-     33,
+     34,
      0
     ],
     "Bloomberg.com": [
@@ -5431,31 +5431,34 @@
    }
   },
   "2026-11-06": {
-   "total": 37,
-   "news": 37,
+   "total": 74,
+   "news": 74,
    "articles": 0,
    "positive": 0,
-   "neutral": 37,
+   "neutral": 74,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 6,
-    "SA": 7,
-    "US": 8
+    "GB": 14,
+    "SA": 11,
+    "US": 22,
+    "DE": 2,
+    "HK": 2,
+    "FR": 2
    },
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 1,
-    "Reuters": 3,
-    "Arab News": 8,
+    "Reuters": 5,
+    "Arab News": 11,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
-    "The Guardian": 1,
-    "WSJ": 4,
-    "Al-Monitor": 1,
-    "The New York Times": 1,
-    "Bloomberg.com": 2,
-    "BBC": 1,
+    "The Guardian": 3,
+    "WSJ": 7,
+    "Al-Monitor": 4,
+    "The New York Times": 4,
+    "Bloomberg.com": 4,
+    "BBC": 3,
     "Gulf News": 1,
     "Iran International": 1,
     "Asia News Network": 1,
@@ -5467,8 +5470,19 @@
     "Middle East Eye": 1,
     "digitimes": 1,
     "Anadolu Ajansı": 1,
-    "Financial Times": 1,
-    "UA.NEWS": 1
+    "Financial Times": 2,
+    "UA.NEWS": 1,
+    "GamesRadar+": 1,
+    "Spiegel": 2,
+    "South China Morning Post": 2,
+    "France 24": 2,
+    "CNN": 1,
+    "The Express Tribune": 2,
+    "Saudi Gazette": 1,
+    "AP News": 2,
+    "BBC Shop": 1,
+    "Geo News": 1,
+    "وكالة الأنباء السعودية": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -5478,12 +5492,12 @@
     ],
     "Reuters": [
      0,
-     3,
+     5,
      0
     ],
     "Arab News": [
      0,
-     8,
+     11,
      0
     ],
     "Al Jazeera": [
@@ -5498,32 +5512,32 @@
     ],
     "The Guardian": [
      0,
-     1,
+     3,
      0
     ],
     "WSJ": [
      0,
-     4,
+     7,
      0
     ],
     "Al-Monitor": [
      0,
-     1,
+     4,
      0
     ],
     "The New York Times": [
      0,
-     1,
+     4,
      0
     ],
     "Bloomberg.com": [
      0,
-     2,
+     4,
      0
     ],
     "BBC": [
      0,
-     1,
+     3,
      0
     ],
     "Gulf News": [
@@ -5583,10 +5597,65 @@
     ],
     "Financial Times": [
      0,
-     1,
+     2,
      0
     ],
     "UA.NEWS": [
+     0,
+     1,
+     0
+    ],
+    "GamesRadar+": [
+     0,
+     1,
+     0
+    ],
+    "Spiegel": [
+     0,
+     2,
+     0
+    ],
+    "South China Morning Post": [
+     0,
+     2,
+     0
+    ],
+    "France 24": [
+     0,
+     2,
+     0
+    ],
+    "CNN": [
+     0,
+     1,
+     0
+    ],
+    "The Express Tribune": [
+     0,
+     2,
+     0
+    ],
+    "Saudi Gazette": [
+     0,
+     1,
+     0
+    ],
+    "AP News": [
+     0,
+     2,
+     0
+    ],
+    "BBC Shop": [
+     0,
+     1,
+     0
+    ],
+    "Geo News": [
+     0,
+     1,
+     0
+    ],
+    "وكالة الأنباء السعودية": [
      0,
      1,
      0
