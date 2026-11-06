@@ -5431,17 +5431,17 @@
    }
   },
   "2026-11-06": {
-   "total": 438,
-   "news": 430,
+   "total": 439,
+   "news": 431,
    "articles": 8,
    "positive": 0,
-   "neutral": 438,
+   "neutral": 439,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 85,
     "SA": 91,
-    "US": 96,
+    "US": 97,
     "DE": 4,
     "HK": 6,
     "FR": 6,
@@ -5455,7 +5455,7 @@
     "Al Jazeera": 1,
     "Amwaj.media": 1,
     "The Guardian": 7,
-    "WSJ": 24,
+    "WSJ": 25,
     "Al-Monitor": 16,
     "The New York Times": 15,
     "Bloomberg.com": 25,
@@ -5617,7 +5617,7 @@
     ],
     "WSJ": [
      0,
-     24,
+     25,
      0
     ],
     "Al-Monitor": [
