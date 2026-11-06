@@ -2,6 +2,27 @@
  "day": "2026-11-06",
  "items": [
   {
+   "id": "6666b81f768784ed",
+   "origin": "rss",
+   "source": "Anadolu Ajansı",
+   "author": "",
+   "title_ar": "الدول العربية تدين محاولة الحوثيين استهداف منطقة المدينة المنورة بالمملكة العربية السعودية",
+   "title_orig": "Arab countries condemn Houthi attempt to target Saudi Arabia’s Madinah region",
+   "title_en": "Arab countries condemn Houthi attempt to target Saudi Arabia’s Madinah region",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUWpzSzZVQWdGOXJhV2NGZml0d0xRX0tSTXdQZXV4SVRxOXlHQ25FdWVhS3BVekhXWGRWcTdSa0E5NjNjSUNfMkZraXkyMURPYUZXZWZCZ01HM294a096UGRYU2NDUlBVUGNHZXN2ZnpMY2xzekdxWVlhck9kdnduamlHZ1M5TWNEQW5IR0VqNHd6MnRVQ0FtS3ZPZ2hzY05KVE9ZbUZxOFdROVBDTDcyel9PMUFPc0ZPNU1fVmsxMA?oc=5",
+   "published": "2026-11-06T04:07:35.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "",
+   "pending": true,
+   "desc": "Arab countries condemn Houthi attempt to target Saudi Arabia’s Madinah region &nbsp;&nbsp; Anadolu Ajansı",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "18f0484f3e0cfce8",
    "origin": "rss",
    "source": "Arab News",

@@ -2602,15 +2602,15 @@
    }
   },
   "2026-11-03": {
-   "total": 951,
-   "news": 930,
+   "total": 952,
+   "news": 931,
    "articles": 21,
    "positive": 0,
-   "neutral": 951,
+   "neutral": 952,
    "critical": 0,
    "mbs": 10,
    "countries": {
-    "US": 309,
+    "US": 310,
     "GB": 290,
     "HK": 6,
     "FR": 9,
@@ -2624,7 +2624,7 @@
     "The Washington Post": 14,
     "WSJ": 50,
     "Financial Times": 52,
-    "Al-Monitor": 45,
+    "Al-Monitor": 46,
     "Reuters": 182,
     "Bloomberg.com": 70,
     "חרדים10": 1,
@@ -2818,7 +2818,7 @@
     ],
     "Al-Monitor": [
      0,
-     45,
+     46,
      0
     ],
     "Reuters": [
@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 588,
-   "news": 560,
+   "total": 590,
+   "news": 562,
    "articles": 28,
    "positive": 0,
-   "neutral": 588,
+   "neutral": 590,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "SA": 75,
     "US": 159,
-    "GB": 137,
+    "GB": 138,
     "HK": 6,
     "FR": 9,
     "DE": 1,
@@ -4608,7 +4608,7 @@
     "Oz Arab Media": 1,
     "Yemen Online": 2,
     "BBC": 14,
-    "Financial Times": 31,
+    "Financial Times": 32,
     "Bloomberg.com": 17,
     "France 24": 4,
     "Le Monde.fr": 6,
@@ -4714,7 +4714,8 @@
     "News24": 1,
     "Global Times": 1,
     "CBS News": 1,
-    "jawlah.co": 1
+    "jawlah.co": 1,
+    "BAL Immigration Law": 1
    },
    "sourceTone": {
     "Bloody Elbow": [
@@ -4889,7 +4890,7 @@
     ],
     "Financial Times": [
      0,
-     31,
+     32,
      0
     ],
     "Bloomberg.com": [
@@ -5421,15 +5422,20 @@
      0,
      1,
      0
+    ],
+    "BAL Immigration Law": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-06": {
-   "total": 31,
-   "news": 31,
+   "total": 32,
+   "news": 32,
    "articles": 0,
    "positive": 0,
-   "neutral": 31,
+   "neutral": 32,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -5459,7 +5465,8 @@
     "www.thenationalnews.com": 1,
     "Critical Threats": 1,
     "Middle East Eye": 1,
-    "digitimes": 1
+    "digitimes": 1,
+    "Anadolu Ajansı": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -5563,6 +5570,11 @@
      0
     ],
     "digitimes": [
+     0,
+     1,
+     0
+    ],
+    "Anadolu Ajansı": [
      0,
      1,
      0
