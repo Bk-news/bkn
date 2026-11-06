@@ -4556,15 +4556,15 @@
    }
   },
   "2026-11-05": {
-   "total": 612,
-   "news": 584,
+   "total": 613,
+   "news": 585,
    "articles": 28,
    "positive": 0,
-   "neutral": 612,
+   "neutral": 613,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "SA": 79,
+    "SA": 80,
     "US": 164,
     "GB": 150,
     "HK": 7,
@@ -4597,7 +4597,7 @@
     "Facebook": 3,
     "WR Immigration": 1,
     "LATTE Luxury News": 1,
-    "Saudi Gazette": 12,
+    "Saudi Gazette": 13,
     "https://houseofsaud.com/": 2,
     "Eurasia Review": 1,
     "Al Jazeera": 3,
@@ -4835,7 +4835,7 @@
     ],
     "Saudi Gazette": [
      0,
-     12,
+     13,
      0
     ],
     "https://houseofsaud.com/": [
@@ -5431,11 +5431,11 @@
    }
   },
   "2026-11-06": {
-   "total": 155,
-   "news": 155,
+   "total": 157,
+   "news": 157,
    "articles": 0,
    "positive": 0,
-   "neutral": 155,
+   "neutral": 157,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -5523,7 +5523,9 @@
     "https://houseofsaud.com/": 1,
     "CairoScene": 1,
     "Zawya": 1,
-    "Arabian Business": 1
+    "Arabian Business": 1,
+    "Institute for the Study of War": 1,
+    "i24NEWS": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -5902,6 +5904,16 @@
      0
     ],
     "Arabian Business": [
+     0,
+     1,
+     0
+    ],
+    "Institute for the Study of War": [
+     0,
+     1,
+     0
+    ],
+    "i24NEWS": [
      0,
      1,
      0
