@@ -3669,16 +3669,16 @@
    }
   },
   "2026-11-04": {
-   "total": 682,
-   "news": 673,
+   "total": 683,
+   "news": 674,
    "articles": 9,
    "positive": 0,
-   "neutral": 682,
+   "neutral": 683,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "SA": 79,
-    "US": 147,
+    "US": 148,
     "GB": 257,
     "JP": 1,
     "FR": 10,
@@ -3713,7 +3713,7 @@
     "A News": 1,
     "BBC": 15,
     "Financial Times": 46,
-    "AP News": 26,
+    "AP News": 27,
     "Saudi Gazette": 16,
     "TahawulTech.com": 1,
     "The National": 4,
@@ -3965,7 +3965,7 @@
     ],
     "AP News": [
      0,
-     26,
+     27,
      0
     ],
     "Saudi Gazette": [
@@ -5431,16 +5431,16 @@
    }
   },
   "2026-11-06": {
-   "total": 346,
-   "news": 344,
+   "total": 348,
+   "news": 346,
    "articles": 2,
    "positive": 0,
-   "neutral": 346,
+   "neutral": 348,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 62,
-    "SA": 70,
+    "SA": 72,
     "US": 67,
     "DE": 4,
     "HK": 5,
@@ -5450,7 +5450,7 @@
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
     "Reuters": 44,
-    "Arab News": 68,
+    "Arab News": 69,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
     "The Guardian": 5,
@@ -5478,7 +5478,7 @@
     "France 24": 4,
     "CNN": 1,
     "The Express Tribune": 3,
-    "Saudi Gazette": 5,
+    "Saudi Gazette": 6,
     "AP News": 5,
     "BBC Shop": 1,
     "Geo News": 1,
@@ -5584,7 +5584,7 @@
     ],
     "Arab News": [
      0,
-     68,
+     69,
      0
     ],
     "Al Jazeera": [
@@ -5724,7 +5724,7 @@
     ],
     "Saudi Gazette": [
      0,
-     5,
+     6,
      0
     ],
     "AP News": [
