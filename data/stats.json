@@ -2602,15 +2602,15 @@
    }
   },
   "2026-11-03": {
-   "total": 952,
-   "news": 931,
+   "total": 954,
+   "news": 933,
    "articles": 21,
    "positive": 0,
-   "neutral": 952,
+   "neutral": 954,
    "critical": 0,
    "mbs": 10,
    "countries": {
-    "US": 310,
+    "US": 312,
     "GB": 290,
     "HK": 6,
     "FR": 9,
@@ -2624,7 +2624,7 @@
     "The Washington Post": 14,
     "WSJ": 50,
     "Financial Times": 52,
-    "Al-Monitor": 46,
+    "Al-Monitor": 48,
     "Reuters": 182,
     "Bloomberg.com": 70,
     "חרדים10": 1,
@@ -2818,7 +2818,7 @@
     ],
     "Al-Monitor": [
      0,
-     46,
+     48,
      0
     ],
     "Reuters": [
@@ -4556,18 +4556,18 @@
    }
   },
   "2026-11-05": {
-   "total": 596,
-   "news": 568,
+   "total": 602,
+   "news": 574,
    "articles": 28,
    "positive": 0,
-   "neutral": 596,
+   "neutral": 602,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "SA": 76,
-    "US": 160,
-    "GB": 142,
-    "HK": 6,
+    "US": 162,
+    "GB": 145,
+    "HK": 7,
     "FR": 9,
     "DE": 1,
     "JP": 3
@@ -4580,11 +4580,11 @@
     "Deadline": 2,
     "Al Majalla": 1,
     "Al-Monitor": 41,
-    "Reuters": 61,
-    "WSJ": 36,
-    "South China Morning Post": 6,
+    "Reuters": 64,
+    "WSJ": 37,
+    "South China Morning Post": 7,
     "Myanmar International TV": 1,
-    "AP News": 20,
+    "AP News": 21,
     "The New York Times": 24,
     "The Washington Post": 15,
     "Arab News PK": 3,
@@ -4750,17 +4750,17 @@
     ],
     "Reuters": [
      0,
-     61,
+     64,
      0
     ],
     "WSJ": [
      0,
-     36,
+     37,
      0
     ],
     "South China Morning Post": [
      0,
-     6,
+     7,
      0
     ],
     "Myanmar International TV": [
@@ -4770,7 +4770,7 @@
     ],
     "AP News": [
      0,
-     20,
+     21,
      0
     ],
     "The New York Times": [
@@ -5431,34 +5431,34 @@
    }
   },
   "2026-11-06": {
-   "total": 74,
-   "news": 74,
+   "total": 106,
+   "news": 106,
    "articles": 0,
    "positive": 0,
-   "neutral": 74,
+   "neutral": 106,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 14,
-    "SA": 11,
-    "US": 22,
-    "DE": 2,
-    "HK": 2,
+    "GB": 21,
+    "SA": 18,
+    "US": 30,
+    "DE": 3,
+    "HK": 4,
     "FR": 2
    },
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 1,
-    "Reuters": 5,
-    "Arab News": 11,
+    "Reuters": 9,
+    "Arab News": 18,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
     "The Guardian": 3,
-    "WSJ": 7,
+    "WSJ": 8,
     "Al-Monitor": 4,
     "The New York Times": 4,
-    "Bloomberg.com": 4,
-    "BBC": 3,
+    "Bloomberg.com": 11,
+    "BBC": 6,
     "Gulf News": 1,
     "Iran International": 1,
     "Asia News Network": 1,
@@ -5473,8 +5473,8 @@
     "Financial Times": 2,
     "UA.NEWS": 1,
     "GamesRadar+": 1,
-    "Spiegel": 2,
-    "South China Morning Post": 2,
+    "Spiegel": 3,
+    "South China Morning Post": 4,
     "France 24": 2,
     "CNN": 1,
     "The Express Tribune": 2,
@@ -5482,7 +5482,13 @@
     "AP News": 2,
     "BBC Shop": 1,
     "Geo News": 1,
-    "وكالة الأنباء السعودية": 1
+    "وكالة الأنباء السعودية": 2,
+    "Pinsent Masons": 1,
+    "سانا": 1,
+    "https://www.readthepeak.com/": 1,
+    "Egypt Independent": 1,
+    "Kurdistan24": 1,
+    "The National": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -5492,12 +5498,12 @@
     ],
     "Reuters": [
      0,
-     5,
+     9,
      0
     ],
     "Arab News": [
      0,
-     11,
+     18,
      0
     ],
     "Al Jazeera": [
@@ -5517,7 +5523,7 @@
     ],
     "WSJ": [
      0,
-     7,
+     8,
      0
     ],
     "Al-Monitor": [
@@ -5532,12 +5538,12 @@
     ],
     "Bloomberg.com": [
      0,
-     4,
+     11,
      0
     ],
     "BBC": [
      0,
-     3,
+     6,
      0
     ],
     "Gulf News": [
@@ -5612,12 +5618,12 @@
     ],
     "Spiegel": [
      0,
-     2,
+     3,
      0
     ],
     "South China Morning Post": [
      0,
-     2,
+     4,
      0
     ],
     "France 24": [
@@ -5656,6 +5662,36 @@
      0
     ],
     "وكالة الأنباء السعودية": [
+     0,
+     2,
+     0
+    ],
+    "Pinsent Masons": [
+     0,
+     1,
+     0
+    ],
+    "سانا": [
+     0,
+     1,
+     0
+    ],
+    "https://www.readthepeak.com/": [
+     0,
+     1,
+     0
+    ],
+    "Egypt Independent": [
+     0,
+     1,
+     0
+    ],
+    "Kurdistan24": [
+     0,
+     1,
+     0
+    ],
+    "The National": [
      0,
      1,
      0
