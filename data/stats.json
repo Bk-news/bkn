@@ -5431,11 +5431,11 @@
    }
   },
   "2026-11-06": {
-   "total": 167,
-   "news": 167,
+   "total": 169,
+   "news": 169,
    "articles": 0,
    "positive": 0,
-   "neutral": 167,
+   "neutral": 169,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -5444,7 +5444,7 @@
     "US": 34,
     "DE": 3,
     "HK": 4,
-    "FR": 2
+    "FR": 3
    },
    "topics": {},
    "sources": {
@@ -5469,13 +5469,13 @@
     "Critical Threats": 1,
     "Middle East Eye": 3,
     "digitimes": 1,
-    "Anadolu Ajansı": 1,
+    "Anadolu Ajansı": 2,
     "Financial Times": 2,
     "UA.NEWS": 2,
     "GamesRadar+": 1,
     "Spiegel": 3,
     "South China Morning Post": 4,
-    "France 24": 2,
+    "France 24": 3,
     "CNN": 1,
     "The Express Tribune": 3,
     "Saudi Gazette": 1,
@@ -5638,7 +5638,7 @@
     ],
     "Anadolu Ajansı": [
      0,
-     1,
+     2,
      0
     ],
     "Financial Times": [
@@ -5668,7 +5668,7 @@
     ],
     "France 24": [
      0,
-     2,
+     3,
      0
     ],
     "CNN": [
