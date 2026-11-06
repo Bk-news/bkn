@@ -5431,15 +5431,15 @@
    }
   },
   "2026-11-06": {
-   "total": 33,
-   "news": 33,
+   "total": 34,
+   "news": 34,
    "articles": 0,
    "positive": 0,
-   "neutral": 33,
+   "neutral": 34,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 5,
+    "GB": 6,
     "SA": 5,
     "US": 8
    },
@@ -5466,7 +5466,8 @@
     "Critical Threats": 1,
     "Middle East Eye": 1,
     "digitimes": 1,
-    "Anadolu Ajansı": 1
+    "Anadolu Ajansı": 1,
+    "Financial Times": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -5575,6 +5576,11 @@
      0
     ],
     "Anadolu Ajansı": [
+     0,
+     1,
+     0
+    ],
+    "Financial Times": [
      0,
      1,
      0
