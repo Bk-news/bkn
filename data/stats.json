@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 643,
-   "news": 615,
+   "total": 650,
+   "news": 622,
    "articles": 28,
    "positive": 0,
-   "neutral": 643,
+   "neutral": 650,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "SA": 87,
-    "US": 170,
-    "GB": 166,
+    "US": 171,
+    "GB": 172,
     "HK": 7,
     "FR": 10,
     "DE": 1,
@@ -4579,8 +4579,8 @@
     "Arab News": 88,
     "Deadline": 2,
     "Al Majalla": 1,
-    "Al-Monitor": 43,
-    "Reuters": 83,
+    "Al-Monitor": 44,
+    "Reuters": 85,
     "WSJ": 40,
     "South China Morning Post": 7,
     "Myanmar International TV": 1,
@@ -4608,7 +4608,7 @@
     "Oz Arab Media": 1,
     "Yemen Online": 2,
     "BBC": 14,
-    "Financial Times": 36,
+    "Financial Times": 40,
     "Bloomberg.com": 17,
     "France 24": 4,
     "Le Monde.fr": 7,
@@ -4745,12 +4745,12 @@
     ],
     "Al-Monitor": [
      0,
-     43,
+     44,
      0
     ],
     "Reuters": [
      0,
-     83,
+     85,
      0
     ],
     "WSJ": [
@@ -4890,7 +4890,7 @@
     ],
     "Financial Times": [
      0,
-     36,
+     40,
      0
     ],
     "Bloomberg.com": [
@@ -5431,17 +5431,17 @@
    }
   },
   "2026-11-06": {
-   "total": 398,
-   "news": 392,
-   "articles": 6,
+   "total": 430,
+   "news": 422,
+   "articles": 8,
    "positive": 0,
-   "neutral": 398,
+   "neutral": 430,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 74,
-    "SA": 77,
-    "US": 91,
+    "GB": 83,
+    "SA": 89,
+    "US": 94,
     "DE": 4,
     "HK": 5,
     "FR": 6,
@@ -5450,12 +5450,12 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Reuters": 49,
-    "Arab News": 73,
+    "Reuters": 58,
+    "Arab News": 87,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
     "The Guardian": 7,
-    "WSJ": 23,
+    "WSJ": 24,
     "Al-Monitor": 16,
     "The New York Times": 13,
     "Bloomberg.com": 25,
@@ -5514,8 +5514,8 @@
     "Free Press Kashmir": 1,
     "India News Network": 1,
     "NDTV Sports": 1,
-    "Middle East Online": 1,
-    "Türkiye Today": 1,
+    "Middle East Online": 2,
+    "Türkiye Today": 2,
     "Pajhwok Afghan News": 1,
     "FWDStart": 1,
     "PC Gamer": 1,
@@ -5531,7 +5531,7 @@
     "The Diplomatic Insight": 1,
     "Deccan Chronicle": 1,
     "Egypt Today": 2,
-    "Atlantic Council": 5,
+    "Atlantic Council": 7,
     "The Washington Post": 3,
     "Boston Herald": 1,
     "Le Monde.fr": 2,
@@ -5577,7 +5577,11 @@
     "Nikkei Asia": 1,
     "Foreign Policy": 1,
     "India Today": 1,
-    "Yardbarker": 1
+    "Yardbarker": 1,
+    "Arab News PK": 1,
+    "Cageside Seats": 1,
+    "www.israelhayom.com": 1,
+    "CBS Sports": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -5587,12 +5591,12 @@
     ],
     "Reuters": [
      0,
-     49,
+     58,
      0
     ],
     "Arab News": [
      0,
-     73,
+     87,
      0
     ],
     "Al Jazeera": [
@@ -5612,7 +5616,7 @@
     ],
     "WSJ": [
      0,
-     23,
+     24,
      0
     ],
     "Al-Monitor": [
@@ -5907,12 +5911,12 @@
     ],
     "Middle East Online": [
      0,
-     1,
+     2,
      0
     ],
     "Türkiye Today": [
      0,
-     1,
+     2,
      0
     ],
     "Pajhwok Afghan News": [
@@ -5992,7 +5996,7 @@
     ],
     "Atlantic Council": [
      0,
-     5,
+     7,
      0
     ],
     "The Washington Post": [
@@ -6221,6 +6225,26 @@
      0
     ],
     "Yardbarker": [
+     0,
+     1,
+     0
+    ],
+    "Arab News PK": [
+     0,
+     1,
+     0
+    ],
+    "Cageside Seats": [
+     0,
+     1,
+     0
+    ],
+    "www.israelhayom.com": [
+     0,
+     1,
+     0
+    ],
+    "CBS Sports": [
      0,
      1,
      0
