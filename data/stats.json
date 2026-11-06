@@ -4556,15 +4556,15 @@
    }
   },
   "2026-11-05": {
-   "total": 638,
-   "news": 610,
+   "total": 640,
+   "news": 612,
    "articles": 28,
    "positive": 0,
-   "neutral": 638,
+   "neutral": 640,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "SA": 84,
+    "SA": 86,
     "US": 170,
     "GB": 164,
     "HK": 7,
@@ -4576,7 +4576,7 @@
    "sources": {
     "Bloody Elbow": 1,
     "وكالة الأنباء السعودية": 1,
-    "Arab News": 85,
+    "Arab News": 87,
     "Deadline": 2,
     "Al Majalla": 1,
     "Al-Monitor": 43,
@@ -4730,7 +4730,7 @@
     ],
     "Arab News": [
      0,
-     85,
+     87,
      0
     ],
     "Deadline": [
@@ -5431,16 +5431,16 @@
    }
   },
   "2026-11-06": {
-   "total": 330,
-   "news": 328,
+   "total": 335,
+   "news": 333,
    "articles": 2,
    "positive": 0,
-   "neutral": 330,
+   "neutral": 335,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 60,
-    "SA": 63,
+    "SA": 67,
     "US": 67,
     "DE": 4,
     "HK": 5,
@@ -5450,7 +5450,7 @@
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
     "Reuters": 42,
-    "Arab News": 62,
+    "Arab News": 66,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
     "The Guardian": 5,
@@ -5566,7 +5566,8 @@
     "The Media Line": 1,
     "WhatCulture.com": 1,
     "World Socialist Web Site": 1,
-    "www.tokenpost.com": 1
+    "www.tokenpost.com": 1,
+    "WRTV": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -5581,7 +5582,7 @@
     ],
     "Arab News": [
      0,
-     62,
+     66,
      0
     ],
     "Al Jazeera": [
@@ -6160,6 +6161,11 @@
      0
     ],
     "www.tokenpost.com": [
+     0,
+     1,
+     0
+    ],
+    "WRTV": [
      0,
      1,
      0
