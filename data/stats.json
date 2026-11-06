@@ -5431,11 +5431,11 @@
    }
   },
   "2026-11-06": {
-   "total": 35,
-   "news": 35,
+   "total": 36,
+   "news": 36,
    "articles": 0,
    "positive": 0,
-   "neutral": 35,
+   "neutral": 36,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -5467,7 +5467,8 @@
     "Middle East Eye": 1,
     "digitimes": 1,
     "Anadolu Ajansı": 1,
-    "Financial Times": 1
+    "Financial Times": 1,
+    "UA.NEWS": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -5581,6 +5582,11 @@
      0
     ],
     "Financial Times": [
+     0,
+     1,
+     0
+    ],
+    "UA.NEWS": [
      0,
      1,
      0
