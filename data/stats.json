@@ -5431,11 +5431,11 @@
    }
   },
   "2026-11-06": {
-   "total": 320,
-   "news": 319,
+   "total": 322,
+   "news": 321,
    "articles": 1,
    "positive": 0,
-   "neutral": 320,
+   "neutral": 322,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -5524,7 +5524,7 @@
     "CairoScene": 1,
     "Zawya": 1,
     "Arabian Business": 1,
-    "Institute for the Study of War": 1,
+    "Institute for the Study of War": 2,
     "i24NEWS": 1,
     "Diari ARA": 1,
     "The Diplomatic Insight": 1,
@@ -5563,7 +5563,8 @@
     "Goal.com": 1,
     "Nacionale": 1,
     "The Supercar Blog": 1,
-    "The Media Line": 1
+    "The Media Line": 1,
+    "WhatCulture.com": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -5948,7 +5949,7 @@
     ],
     "Institute for the Study of War": [
      0,
-     1,
+     2,
      0
     ],
     "i24NEWS": [
@@ -6142,6 +6143,11 @@
      0
     ],
     "The Media Line": [
+     0,
+     1,
+     0
+    ],
+    "WhatCulture.com": [
      0,
      1,
      0
