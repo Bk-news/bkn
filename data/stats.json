@@ -4556,16 +4556,16 @@
    }
   },
   "2026-11-05": {
-   "total": 620,
-   "news": 592,
+   "total": 621,
+   "news": 593,
    "articles": 28,
    "positive": 0,
-   "neutral": 620,
+   "neutral": 621,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "SA": 81,
-    "US": 169,
+    "US": 170,
     "GB": 150,
     "HK": 7,
     "FR": 10,
@@ -4585,7 +4585,7 @@
     "South China Morning Post": 7,
     "Myanmar International TV": 1,
     "AP News": 22,
-    "The New York Times": 25,
+    "The New York Times": 26,
     "The Washington Post": 15,
     "Arab News PK": 3,
     "The Express Tribune": 3,
@@ -4775,7 +4775,7 @@
     ],
     "The New York Times": [
      0,
-     25,
+     26,
      0
     ],
     "The Washington Post": [
@@ -5431,16 +5431,16 @@
    }
   },
   "2026-11-06": {
-   "total": 257,
-   "news": 256,
+   "total": 296,
+   "news": 295,
    "articles": 1,
    "positive": 0,
-   "neutral": 257,
+   "neutral": 296,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 40,
-    "SA": 47,
+    "GB": 53,
+    "SA": 60,
     "US": 65,
     "DE": 4,
     "HK": 5,
@@ -5449,8 +5449,8 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Reuters": 22,
-    "Arab News": 45,
+    "Reuters": 35,
+    "Arab News": 60,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
     "The Guardian": 5,
@@ -5504,12 +5504,12 @@
     "Bioengineer.org": 1,
     "The Jerusalem Post": 1,
     "Dawn": 1,
-    "The Times of Israel": 1,
+    "The Times of Israel": 2,
     "TRT World": 1,
     "ASHARQ AL-AWSAT English": 1,
     "Oil & Gas Middle East": 1,
     "Devdiscourse": 1,
-    "The Times of India": 1,
+    "The Times of India": 2,
     "Free Press Kashmir": 1,
     "India News Network": 1,
     "NDTV Sports": 1,
@@ -5542,7 +5542,15 @@
     "Ynetnews": 1,
     "Ahram Online": 1,
     "Latest news from Azerbaijan": 1,
-    "Semafor": 1
+    "Semafor": 1,
+    "Eurasia Review": 1,
+    "Sims Community": 1,
+    "MiGFlug": 1,
+    "Metro.co.uk": 1,
+    "Breaking Defense": 1,
+    "Quartz": 1,
+    "Fragomen": 2,
+    "www.nationpathindia.com": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -5552,12 +5560,12 @@
     ],
     "Reuters": [
      0,
-     22,
+     35,
      0
     ],
     "Arab News": [
      0,
-     45,
+     60,
      0
     ],
     "Al Jazeera": [
@@ -5827,7 +5835,7 @@
     ],
     "The Times of Israel": [
      0,
-     1,
+     2,
      0
     ],
     "TRT World": [
@@ -5852,7 +5860,7 @@
     ],
     "The Times of India": [
      0,
-     1,
+     2,
      0
     ],
     "Free Press Kashmir": [
@@ -6016,6 +6024,46 @@
      0
     ],
     "Semafor": [
+     0,
+     1,
+     0
+    ],
+    "Eurasia Review": [
+     0,
+     1,
+     0
+    ],
+    "Sims Community": [
+     0,
+     1,
+     0
+    ],
+    "MiGFlug": [
+     0,
+     1,
+     0
+    ],
+    "Metro.co.uk": [
+     0,
+     1,
+     0
+    ],
+    "Breaking Defense": [
+     0,
+     1,
+     0
+    ],
+    "Quartz": [
+     0,
+     1,
+     0
+    ],
+    "Fragomen": [
+     0,
+     2,
+     0
+    ],
+    "www.nationpathindia.com": [
      0,
      1,
      0
