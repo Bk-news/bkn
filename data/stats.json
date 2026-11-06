@@ -5425,11 +5425,11 @@
    }
   },
   "2026-11-06": {
-   "total": 24,
-   "news": 24,
+   "total": 25,
+   "news": 25,
    "articles": 0,
    "positive": 0,
-   "neutral": 24,
+   "neutral": 25,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -5455,7 +5455,8 @@
     "Asia News Network": 1,
     "The Information": 1,
     "Breakingthenews.net": 1,
-    "Inven Global": 1
+    "Inven Global": 1,
+    "www.thenationalnews.com": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -5539,6 +5540,11 @@
      0
     ],
     "Inven Global": [
+     0,
+     1,
+     0
+    ],
+    "www.thenationalnews.com": [
      0,
      1,
      0
