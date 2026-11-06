@@ -2,6 +2,27 @@
  "day": "2026-11-06",
  "items": [
   {
+   "id": "0c327993dfe5669a",
+   "origin": "rss",
+   "source": "Bloomberg.com",
+   "author": "",
+   "title_ar": "رهانات برمجيات الائتمان الخاصة تصمد أمام هجمات الذكاء الاصطناعي المبكرة",
+   "title_orig": "Private Credit Software Bets Holding Up Against Early AI Attacks",
+   "title_en": "Private Credit Software Bets Holding Up Against Early AI Attacks",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcmlqb1ZscUdaVWNDa2k4Q2NnNkNRamxZOE9NQzlETjRwSTQ0VnNGRm5yV2Y0dWpqVnM5RlBoUEJFa29qRWNkeG94cTE1MWRleTBIMHRsMjlkTzF0Z0xUQk1TWTY1TkV2M1NNVVUyclpHLXpMUDdZbkN5ZHVTSHVCZW10ak9fZnBWQy13am9sM2pmVTRwcFUyZ19LbXhkVE9zcENfRUN1SmllTmlkM1RBdnhFMzJfS3dmZkJERFl2bGhlc2NpYzNCem1ocmgxZ01zTFZuSmtBa0ZWdVZFNGkzdXI2MVQ?oc=5",
+   "published": "2026-11-06T12:12:54.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "Private Credit Software Bets Holding Up Against Early AI Attacks &nbsp;&nbsp; Bloomberg.com",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "e0efbfcd1fce7ba3",
    "origin": "rss",
    "source": "WSJ",
