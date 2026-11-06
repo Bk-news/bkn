@@ -5431,17 +5431,17 @@
    }
   },
   "2026-11-06": {
-   "total": 158,
-   "news": 158,
+   "total": 163,
+   "news": 163,
    "articles": 0,
    "positive": 0,
-   "neutral": 158,
+   "neutral": 163,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 22,
-    "SA": 26,
-    "US": 30,
+    "SA": 27,
+    "US": 32,
     "DE": 3,
     "HK": 4,
     "FR": 2
@@ -5450,14 +5450,14 @@
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
     "Reuters": 10,
-    "Arab News": 26,
+    "Arab News": 27,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
     "The Guardian": 3,
-    "WSJ": 8,
+    "WSJ": 9,
     "Al-Monitor": 4,
     "The New York Times": 5,
-    "Bloomberg.com": 11,
+    "Bloomberg.com": 12,
     "BBC": 6,
     "Gulf News": 1,
     "Iran International": 1,
@@ -5525,7 +5525,9 @@
     "Zawya": 1,
     "Arabian Business": 1,
     "Institute for the Study of War": 1,
-    "i24NEWS": 1
+    "i24NEWS": 1,
+    "Diari ARA": 1,
+    "The Diplomatic Insight": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -5540,7 +5542,7 @@
     ],
     "Arab News": [
      0,
-     26,
+     27,
      0
     ],
     "Al Jazeera": [
@@ -5560,7 +5562,7 @@
     ],
     "WSJ": [
      0,
-     8,
+     9,
      0
     ],
     "Al-Monitor": [
@@ -5575,7 +5577,7 @@
     ],
     "Bloomberg.com": [
      0,
-     11,
+     12,
      0
     ],
     "BBC": [
@@ -5914,6 +5916,16 @@
      0
     ],
     "i24NEWS": [
+     0,
+     1,
+     0
+    ],
+    "Diari ARA": [
+     0,
+     1,
+     0
+    ],
+    "The Diplomatic Insight": [
      0,
      1,
      0
