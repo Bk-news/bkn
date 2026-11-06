@@ -4556,16 +4556,16 @@
    }
   },
   "2026-11-05": {
-   "total": 616,
-   "news": 588,
+   "total": 620,
+   "news": 592,
    "articles": 28,
    "positive": 0,
-   "neutral": 616,
+   "neutral": 620,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "SA": 81,
-    "US": 165,
+    "US": 169,
     "GB": 150,
     "HK": 7,
     "FR": 10,
@@ -4579,13 +4579,13 @@
     "Arab News": 82,
     "Deadline": 2,
     "Al Majalla": 1,
-    "Al-Monitor": 41,
+    "Al-Monitor": 43,
     "Reuters": 69,
     "WSJ": 40,
     "South China Morning Post": 7,
     "Myanmar International TV": 1,
-    "AP News": 21,
-    "The New York Times": 24,
+    "AP News": 22,
+    "The New York Times": 25,
     "The Washington Post": 15,
     "Arab News PK": 3,
     "The Express Tribune": 3,
@@ -4745,7 +4745,7 @@
     ],
     "Al-Monitor": [
      0,
-     41,
+     43,
      0
     ],
     "Reuters": [
@@ -4770,12 +4770,12 @@
     ],
     "AP News": [
      0,
-     21,
+     22,
      0
     ],
     "The New York Times": [
      0,
-     24,
+     25,
      0
     ],
     "The Washington Post": [
@@ -5431,17 +5431,17 @@
    }
   },
   "2026-11-06": {
-   "total": 221,
-   "news": 220,
+   "total": 257,
+   "news": 256,
    "articles": 1,
    "positive": 0,
-   "neutral": 221,
+   "neutral": 257,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 31,
-    "SA": 38,
-    "US": 56,
+    "GB": 40,
+    "SA": 47,
+    "US": 65,
     "DE": 4,
     "HK": 5,
     "FR": 5
@@ -5449,18 +5449,18 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Reuters": 14,
-    "Arab News": 36,
+    "Reuters": 22,
+    "Arab News": 45,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
     "The Guardian": 5,
-    "WSJ": 15,
-    "Al-Monitor": 8,
+    "WSJ": 17,
+    "Al-Monitor": 13,
     "The New York Times": 9,
-    "Bloomberg.com": 17,
-    "BBC": 9,
+    "Bloomberg.com": 19,
+    "BBC": 10,
     "Gulf News": 1,
-    "Iran International": 1,
+    "Iran International": 2,
     "Asia News Network": 1,
     "The Information": 1,
     "Breakingthenews.net": 1,
@@ -5484,7 +5484,7 @@
     "Geo News": 1,
     "وكالة الأنباء السعودية": 2,
     "Pinsent Masons": 1,
-    "سانا": 1,
+    "سانا": 2,
     "https://www.readthepeak.com/": 1,
     "Egypt Independent": 1,
     "Kurdistan24": 1,
@@ -5536,7 +5536,13 @@
     "Le Monde.fr": 1,
     "Game Developer": 1,
     "GamesBeat": 1,
-    "Мілітарний": 1
+    "Мілітарний": 1,
+    "Kashmir Observer": 1,
+    "Firstpost": 2,
+    "Ynetnews": 1,
+    "Ahram Online": 1,
+    "Latest news from Azerbaijan": 1,
+    "Semafor": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -5546,12 +5552,12 @@
     ],
     "Reuters": [
      0,
-     14,
+     22,
      0
     ],
     "Arab News": [
      0,
-     36,
+     45,
      0
     ],
     "Al Jazeera": [
@@ -5571,12 +5577,12 @@
     ],
     "WSJ": [
      0,
-     15,
+     17,
      0
     ],
     "Al-Monitor": [
      0,
-     8,
+     13,
      0
     ],
     "The New York Times": [
@@ -5586,12 +5592,12 @@
     ],
     "Bloomberg.com": [
      0,
-     17,
+     19,
      0
     ],
     "BBC": [
      0,
-     9,
+     10,
      0
     ],
     "Gulf News": [
@@ -5601,7 +5607,7 @@
     ],
     "Iran International": [
      0,
-     1,
+     2,
      0
     ],
     "Asia News Network": [
@@ -5721,7 +5727,7 @@
     ],
     "سانا": [
      0,
-     1,
+     2,
      0
     ],
     "https://www.readthepeak.com/": [
@@ -5980,6 +5986,36 @@
      0
     ],
     "Мілітарний": [
+     0,
+     1,
+     0
+    ],
+    "Kashmir Observer": [
+     0,
+     1,
+     0
+    ],
+    "Firstpost": [
+     0,
+     2,
+     0
+    ],
+    "Ynetnews": [
+     0,
+     1,
+     0
+    ],
+    "Ahram Online": [
+     0,
+     1,
+     0
+    ],
+    "Latest news from Azerbaijan": [
+     0,
+     1,
+     0
+    ],
+    "Semafor": [
      0,
      1,
      0
