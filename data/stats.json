@@ -5431,11 +5431,11 @@
    }
   },
   "2026-11-06": {
-   "total": 343,
-   "news": 341,
+   "total": 345,
+   "news": 343,
    "articles": 2,
    "positive": 0,
-   "neutral": 343,
+   "neutral": 345,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -5444,7 +5444,7 @@
     "US": 67,
     "DE": 4,
     "HK": 5,
-    "FR": 5
+    "FR": 6
    },
    "topics": {},
    "sources": {
@@ -5533,7 +5533,7 @@
     "Atlantic Council": 2,
     "The Washington Post": 1,
     "Boston Herald": 1,
-    "Le Monde.fr": 1,
+    "Le Monde.fr": 2,
     "Game Developer": 1,
     "GamesBeat": 1,
     "Мілітарний": 1,
@@ -5568,7 +5568,8 @@
     "World Socialist Web Site": 1,
     "www.tokenpost.com": 1,
     "WRTV": 1,
-    "Khaama Press": 1
+    "Khaama Press": 1,
+    "ANHA": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -5998,7 +5999,7 @@
     ],
     "Le Monde.fr": [
      0,
-     1,
+     2,
      0
     ],
     "Game Developer": [
@@ -6172,6 +6173,11 @@
      0
     ],
     "Khaama Press": [
+     0,
+     1,
+     0
+    ],
+    "ANHA": [
      0,
      1,
      0
