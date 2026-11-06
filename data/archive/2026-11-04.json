@@ -501,6 +501,27 @@
    "mt": true
   },
   {
+   "id": "3f8b29b0d3786ef9",
+   "origin": "rss",
+   "source": "The New York Times",
+   "author": "",
+   "title_ar": "بابلو توري - الصفحة 9",
+   "title_orig": "Pablo Torre - Page 9",
+   "title_en": "Pablo Torre - Page 9",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RR3F0OVZrX0lVcjkxMFZlUjY3cXhaLThqVVlLTWg3OEN4Zm5yb1VkaWVab0otOXlrQW0tNzlqV3JGNXF2LVlFb0MzejR1bElvYXA0Z1ZaNko?oc=5",
+   "published": "2026-11-04T22:37:30.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "Pablo Torre - Page 9 &nbsp;&nbsp; The New York Times",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "f0d15fdb2f4cfd0f",
    "origin": "rss",
    "source": "AP News",

@@ -2602,15 +2602,15 @@
    }
   },
   "2026-11-03": {
-   "total": 950,
-   "news": 929,
+   "total": 951,
+   "news": 930,
    "articles": 21,
    "positive": 0,
-   "neutral": 950,
+   "neutral": 951,
    "critical": 0,
    "mbs": 10,
    "countries": {
-    "US": 308,
+    "US": 309,
     "GB": 290,
     "HK": 6,
     "FR": 9,
@@ -2624,7 +2624,7 @@
     "The Washington Post": 14,
     "WSJ": 50,
     "Financial Times": 52,
-    "Al-Monitor": 44,
+    "Al-Monitor": 45,
     "Reuters": 182,
     "Bloomberg.com": 70,
     "חרדים10": 1,
@@ -2818,7 +2818,7 @@
     ],
     "Al-Monitor": [
      0,
-     44,
+     45,
      0
     ],
     "Reuters": [
@@ -3669,16 +3669,16 @@
    }
   },
   "2026-11-04": {
-   "total": 668,
-   "news": 659,
+   "total": 669,
+   "news": 660,
    "articles": 9,
    "positive": 0,
-   "neutral": 668,
+   "neutral": 669,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "SA": 76,
-    "US": 144,
+    "US": 145,
     "GB": 250,
     "JP": 1,
     "FR": 9,
@@ -3708,7 +3708,7 @@
     "France 24": 3,
     "The Guardian": 24,
     "Foreign Affairs": 1,
-    "The New York Times": 14,
+    "The New York Times": 15,
     "South China Morning Post": 2,
     "A News": 1,
     "BBC": 15,
@@ -3940,7 +3940,7 @@
     ],
     "The New York Times": [
      0,
-     14,
+     15,
      0
     ],
     "South China Morning Post": [
