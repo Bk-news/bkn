@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 642,
-   "news": 614,
+   "total": 643,
+   "news": 615,
    "articles": 28,
    "positive": 0,
-   "neutral": 642,
+   "neutral": 643,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "SA": 87,
     "US": 170,
-    "GB": 165,
+    "GB": 166,
     "HK": 7,
     "FR": 10,
     "DE": 1,
@@ -4608,7 +4608,7 @@
     "Oz Arab Media": 1,
     "Yemen Online": 2,
     "BBC": 14,
-    "Financial Times": 35,
+    "Financial Times": 36,
     "Bloomberg.com": 17,
     "France 24": 4,
     "Le Monde.fr": 7,
@@ -4890,7 +4890,7 @@
     ],
     "Financial Times": [
      0,
-     35,
+     36,
      0
     ],
     "Bloomberg.com": [
@@ -5431,34 +5431,35 @@
    }
   },
   "2026-11-06": {
-   "total": 359,
-   "news": 357,
-   "articles": 2,
+   "total": 398,
+   "news": 392,
+   "articles": 6,
    "positive": 0,
-   "neutral": 359,
+   "neutral": 398,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 66,
-    "SA": 73,
-    "US": 71,
+    "GB": 74,
+    "SA": 77,
+    "US": 91,
     "DE": 4,
     "HK": 5,
-    "FR": 6
+    "FR": 6,
+    "JP": 1
    },
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Reuters": 46,
-    "Arab News": 69,
+    "Reuters": 49,
+    "Arab News": 73,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
     "The Guardian": 7,
-    "WSJ": 20,
-    "Al-Monitor": 13,
-    "The New York Times": 10,
-    "Bloomberg.com": 22,
-    "BBC": 10,
+    "WSJ": 23,
+    "Al-Monitor": 16,
+    "The New York Times": 13,
+    "Bloomberg.com": 25,
+    "BBC": 13,
     "Gulf News": 1,
     "Iran International": 2,
     "Asia News Network": 1,
@@ -5470,16 +5471,16 @@
     "Middle East Eye": 3,
     "digitimes": 1,
     "Anadolu Ajansı": 2,
-    "Financial Times": 2,
-    "UA.NEWS": 2,
+    "Financial Times": 4,
+    "UA.NEWS": 3,
     "GamesRadar+": 1,
     "Spiegel": 4,
     "South China Morning Post": 5,
     "France 24": 4,
     "CNN": 1,
     "The Express Tribune": 3,
-    "Saudi Gazette": 7,
-    "AP News": 5,
+    "Saudi Gazette": 8,
+    "AP News": 7,
     "BBC Shop": 1,
     "Geo News": 1,
     "وكالة الأنباء السعودية": 2,
@@ -5530,8 +5531,8 @@
     "The Diplomatic Insight": 1,
     "Deccan Chronicle": 1,
     "Egypt Today": 2,
-    "Atlantic Council": 2,
-    "The Washington Post": 1,
+    "Atlantic Council": 5,
+    "The Washington Post": 3,
     "Boston Herald": 1,
     "Le Monde.fr": 2,
     "Game Developer": 1,
@@ -5570,7 +5571,13 @@
     "WRTV": 1,
     "Khaama Press": 1,
     "ANHA": 1,
-    "LiveScore": 1
+    "LiveScore": 1,
+    "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
+    "6abc Philadelphia": 1,
+    "Nikkei Asia": 1,
+    "Foreign Policy": 1,
+    "India Today": 1,
+    "Yardbarker": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -5580,12 +5587,12 @@
     ],
     "Reuters": [
      0,
-     46,
+     49,
      0
     ],
     "Arab News": [
      0,
-     69,
+     73,
      0
     ],
     "Al Jazeera": [
@@ -5605,27 +5612,27 @@
     ],
     "WSJ": [
      0,
-     20,
+     23,
      0
     ],
     "Al-Monitor": [
      0,
-     13,
+     16,
      0
     ],
     "The New York Times": [
      0,
-     10,
+     13,
      0
     ],
     "Bloomberg.com": [
      0,
-     22,
+     25,
      0
     ],
     "BBC": [
      0,
-     10,
+     13,
      0
     ],
     "Gulf News": [
@@ -5685,12 +5692,12 @@
     ],
     "Financial Times": [
      0,
-     2,
+     4,
      0
     ],
     "UA.NEWS": [
      0,
-     2,
+     3,
      0
     ],
     "GamesRadar+": [
@@ -5725,12 +5732,12 @@
     ],
     "Saudi Gazette": [
      0,
-     7,
+     8,
      0
     ],
     "AP News": [
      0,
-     5,
+     7,
      0
     ],
     "BBC Shop": [
@@ -5985,12 +5992,12 @@
     ],
     "Atlantic Council": [
      0,
-     2,
+     5,
      0
     ],
     "The Washington Post": [
      0,
-     1,
+     3,
      0
     ],
     "Boston Herald": [
@@ -6184,6 +6191,36 @@
      0
     ],
     "LiveScore": [
+     0,
+     1,
+     0
+    ],
+    "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
+     0,
+     1,
+     0
+    ],
+    "6abc Philadelphia": [
+     0,
+     1,
+     0
+    ],
+    "Nikkei Asia": [
+     0,
+     1,
+     0
+    ],
+    "Foreign Policy": [
+     0,
+     1,
+     0
+    ],
+    "India Today": [
+     0,
+     1,
+     0
+    ],
+    "Yardbarker": [
      0,
      1,
      0
