@@ -1157,6 +1157,27 @@
    "mt": true
   },
   {
+   "id": "d3c0e779145b0e62",
+   "origin": "rss",
+   "source": "Reuters",
+   "author": "",
+   "title_ar": "تراجع وول ستريت حيث وضعت خسائر التكنولوجيا الحادة مؤشر ناسداك في طريقه للتصحيح",
+   "title_orig": "Wall St slumps as sharp tech losses put Nasdaq on course for correction",
+   "title_en": "Wall St slumps as sharp tech losses put Nasdaq on course for correction",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iMWxXWGVRSlJRNWVPRFV6OWtGdGQtZ1ZZYmZfQzBabGtwTzh5cU8tTHNvSGh5Y1RyZEZuX2YyMjg4TEN2WGF0LUw1aWduLWdkQTdUR1FZZnZHZmdJ?oc=5",
+   "published": "2026-11-05T21:00:50.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "Wall St slumps as sharp tech losses put Nasdaq on course for correction &nbsp;&nbsp; Reuters",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "359377e43f36b441",
    "origin": "rss",
    "source": "Al-Monitor",
