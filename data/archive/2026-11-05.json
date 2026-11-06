@@ -2333,6 +2333,27 @@
    "mt": true
   },
   {
+   "id": "4adf7112f1d2a768",
+   "origin": "rss",
+   "source": "Reuters",
+   "author": "",
+   "title_ar": "تم إجلاء مريض إيبولا بريطاني في حالة مستقرة: مركز السيطرة على الأمراض في أفريقيا",
+   "title_orig": "Evacuated British Ebola patient in stable condition: Africa CDC",
+   "title_en": "Evacuated British Ebola patient in stable condition: Africa CDC",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02N0huWUsyZzVCSTBGbnB2RTd6X3ZPVjI4UjliTlBUdlRsaW5VR1IzeFJDLXpueGRZQmRkTzh4ekNDSFNTOGZ6QVFYX0piNGhPWUNoYXQ3bkVFLXhLVzJWelhsWnduazFHSnVtQzZBUDBBNU9hdG1z?oc=5",
+   "published": "2026-11-05T17:49:01.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "Evacuated British Ebola patient in stable condition: Africa CDC &nbsp;&nbsp; Reuters",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "e7f482c1d7a3fe84",
    "origin": "rss",
    "source": "The Guardian",
