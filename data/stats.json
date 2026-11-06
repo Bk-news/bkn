@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 650,
-   "news": 622,
+   "total": 653,
+   "news": 625,
    "articles": 28,
    "positive": 0,
-   "neutral": 650,
+   "neutral": 653,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "SA": 87,
     "US": 171,
-    "GB": 172,
+    "GB": 175,
     "HK": 7,
     "FR": 10,
     "DE": 1,
@@ -4608,7 +4608,7 @@
     "Oz Arab Media": 1,
     "Yemen Online": 2,
     "BBC": 14,
-    "Financial Times": 40,
+    "Financial Times": 43,
     "Bloomberg.com": 17,
     "France 24": 4,
     "Le Monde.fr": 7,
@@ -4890,7 +4890,7 @@
     ],
     "Financial Times": [
      0,
-     40,
+     43,
      0
     ],
     "Bloomberg.com": [
@@ -5431,19 +5431,19 @@
    }
   },
   "2026-11-06": {
-   "total": 430,
-   "news": 422,
+   "total": 432,
+   "news": 424,
    "articles": 8,
    "positive": 0,
-   "neutral": 430,
+   "neutral": 432,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 83,
     "SA": 89,
-    "US": 94,
+    "US": 95,
     "DE": 4,
-    "HK": 5,
+    "HK": 6,
     "FR": 6,
     "JP": 1
    },
@@ -5457,7 +5457,7 @@
     "The Guardian": 7,
     "WSJ": 24,
     "Al-Monitor": 16,
-    "The New York Times": 13,
+    "The New York Times": 14,
     "Bloomberg.com": 25,
     "BBC": 13,
     "Gulf News": 1,
@@ -5475,7 +5475,7 @@
     "UA.NEWS": 3,
     "GamesRadar+": 1,
     "Spiegel": 4,
-    "South China Morning Post": 5,
+    "South China Morning Post": 6,
     "France 24": 4,
     "CNN": 1,
     "The Express Tribune": 3,
@@ -5626,7 +5626,7 @@
     ],
     "The New York Times": [
      0,
-     13,
+     14,
      0
     ],
     "Bloomberg.com": [
@@ -5716,7 +5716,7 @@
     ],
     "South China Morning Post": [
      0,
-     5,
+     6,
      0
     ],
     "France 24": [
