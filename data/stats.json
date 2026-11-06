@@ -5431,15 +5431,15 @@
    }
   },
   "2026-11-06": {
-   "total": 351,
-   "news": 349,
+   "total": 354,
+   "news": 352,
    "articles": 2,
    "positive": 0,
-   "neutral": 351,
+   "neutral": 354,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 63,
+    "GB": 65,
     "SA": 73,
     "US": 68,
     "DE": 4,
@@ -5449,11 +5449,11 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Reuters": 44,
+    "Reuters": 45,
     "Arab News": 69,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
-    "The Guardian": 6,
+    "The Guardian": 7,
     "WSJ": 19,
     "Al-Monitor": 13,
     "The New York Times": 9,
@@ -5487,7 +5487,7 @@
     "سانا": 2,
     "https://www.readthepeak.com/": 1,
     "Egypt Independent": 1,
-    "Kurdistan24": 1,
+    "Kurdistan24": 2,
     "The National": 2,
     "Egyptian Gazette": 1,
     "Rock Paper Shotgun": 1,
@@ -5579,7 +5579,7 @@
     ],
     "Reuters": [
      0,
-     44,
+     45,
      0
     ],
     "Arab News": [
@@ -5599,7 +5599,7 @@
     ],
     "The Guardian": [
      0,
-     6,
+     7,
      0
     ],
     "WSJ": [
@@ -5769,7 +5769,7 @@
     ],
     "Kurdistan24": [
      0,
-     1,
+     2,
      0
     ],
     "The National": [
