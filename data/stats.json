@@ -5425,17 +5425,17 @@
    }
   },
   "2026-11-06": {
-   "total": 26,
-   "news": 26,
+   "total": 28,
+   "news": 28,
    "articles": 0,
    "positive": 0,
-   "neutral": 26,
+   "neutral": 28,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 5,
     "SA": 3,
-    "US": 7
+    "US": 8
    },
    "topics": {},
    "sources": {
@@ -5445,7 +5445,7 @@
     "Al Jazeera": 1,
     "Amwaj.media": 1,
     "The Guardian": 1,
-    "WSJ": 3,
+    "WSJ": 4,
     "Al-Monitor": 1,
     "The New York Times": 1,
     "Bloomberg.com": 2,
@@ -5456,7 +5456,8 @@
     "The Information": 1,
     "Breakingthenews.net": 1,
     "Inven Global": 1,
-    "www.thenationalnews.com": 1
+    "www.thenationalnews.com": 1,
+    "Critical Threats": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -5491,7 +5492,7 @@
     ],
     "WSJ": [
      0,
-     3,
+     4,
      0
     ],
     "Al-Monitor": [
@@ -5545,6 +5546,11 @@
      0
     ],
     "www.thenationalnews.com": [
+     0,
+     1,
+     0
+    ],
+    "Critical Threats": [
      0,
      1,
      0
