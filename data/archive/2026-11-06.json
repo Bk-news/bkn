@@ -3299,6 +3299,27 @@
    "mt": true
   },
   {
+   "id": "ec9b774f275ddde9",
+   "origin": "rss",
+   "source": "WSJ",
+   "author": "",
+   "title_ar": "الطاقة والنفط والغاز والطاقة النووية والمتجددة - آخر الأخبار والتحليلات",
+   "title_orig": "Energy, Oil, Gas, Nuclear & Renewables - Latest News and Analysis",
+   "title_en": "Energy, Oil, Gas, Nuclear & Renewables - Latest News and Analysis",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FdWRuN1NtU2djWl91NmdEeExzNUs3Sk1GREZ2eVEtTnM3UW0xQVV0UVlNT0lqVW1ybGlwclRZQmpqamlRdFpJRzc0LXVIY0Zt?oc=5",
+   "published": "2026-11-06T00:43:56.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "Energy, Oil, Gas, Nuclear & Renewables - Latest News and Analysis &nbsp;&nbsp; WSJ",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "0cf3a5182e05fecd",
    "origin": "rss",
    "source": "Reuters",

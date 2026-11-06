@@ -3297,6 +3297,27 @@
   "mt": true
  },
  {
+  "id": "ec9b774f275ddde9",
+  "origin": "rss",
+  "source": "WSJ",
+  "author": "",
+  "title_ar": "الطاقة والنفط والغاز والطاقة النووية والمتجددة - آخر الأخبار والتحليلات",
+  "title_orig": "Energy, Oil, Gas, Nuclear & Renewables - Latest News and Analysis",
+  "title_en": "Energy, Oil, Gas, Nuclear & Renewables - Latest News and Analysis",
+  "summary_ar": [],
+  "summary_en": [],
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FdWRuN1NtU2djWl91NmdEeExzNUs3Sk1GREZ2eVEtTnM3UW0xQVV0UVlNT0lqVW1ybGlwclRZQmpqamlRdFpJRzc0LXVIY0Zt?oc=5",
+  "published": "2026-11-06T00:43:56.000Z",
+  "subject": "saudi",
+  "tone": "neutral",
+  "topic": "",
+  "country": "US",
+  "pending": true,
+  "desc": "Energy, Oil, Gas, Nuclear & Renewables - Latest News and Analysis &nbsp;&nbsp; WSJ",
+  "lang": "en",
+  "mt": true
+ },
+ {
   "id": "0cf3a5182e05fecd",
   "origin": "rss",
   "source": "Reuters",
@@ -10476,27 +10497,6 @@
   "pending": true,
   "desc": "Le Monde - Toute l’actualité en continu &nbsp;&nbsp; Le Monde.fr",
   "lang": "fr",
-  "mt": true
- },
- {
-  "id": "1ea2563224a4246a",
-  "origin": "rss",
-  "source": "Female First",
-  "author": "",
-  "title_ar": "لدى WWE قائمة طويلة من المدن الجاهزة إذا تم نقل ريستليمانيا 43 من المملكة العربية السعودية",
-  "title_orig": "WWE has 'long list of cities' ready if WrestleMania 43 has to be moved from Saudi Arabia",
-  "title_en": "WWE has 'long list of cities' ready if WrestleMania 43 has to be moved from Saudi Arabia",
-  "summary_ar": [],
-  "summary_en": [],
-  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQmZJRzYtTTk5YkVFejR3cFYzcTJYT3dOLWlBTmtacThTMmZwUmw3ZFR4di11MXVHQ1NzeF8xOW1sMFJ0TXFOMk9ub2NQckIzU2pNR0drTmFEWVJVRi14OW1XNG43N0I0dlhFMW9BVWoxd3FrZW9CdFVuWEhmU1FuaVE1d3dkSDVTU2EtVFc5aGhQQXQtZXFFVW53T0hZeFJqdTc3NzhsNUQzc1E5RVNnR01GUWU?oc=5",
-  "published": "2026-11-05T11:03:04.000Z",
-  "subject": "saudi",
-  "tone": "neutral",
-  "topic": "",
-  "country": "",
-  "pending": true,
-  "desc": "WWE has 'long list of cities' ready if WrestleMania 43 has to be moved from Saudi Arabia &nbsp;&nbsp; Female First",
-  "lang": "en",
   "mt": true
  }
 ]
