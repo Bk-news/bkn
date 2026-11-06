@@ -5431,17 +5431,17 @@
    }
   },
   "2026-11-06": {
-   "total": 354,
-   "news": 352,
+   "total": 356,
+   "news": 354,
    "articles": 2,
    "positive": 0,
-   "neutral": 354,
+   "neutral": 356,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 65,
     "SA": 73,
-    "US": 68,
+    "US": 69,
     "DE": 4,
     "HK": 5,
     "FR": 6
@@ -5456,7 +5456,7 @@
     "The Guardian": 7,
     "WSJ": 19,
     "Al-Monitor": 13,
-    "The New York Times": 9,
+    "The New York Times": 10,
     "Bloomberg.com": 21,
     "BBC": 10,
     "Gulf News": 1,
@@ -5569,7 +5569,8 @@
     "www.tokenpost.com": 1,
     "WRTV": 1,
     "Khaama Press": 1,
-    "ANHA": 1
+    "ANHA": 1,
+    "LiveScore": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -5614,7 +5615,7 @@
     ],
     "The New York Times": [
      0,
-     9,
+     10,
      0
     ],
     "Bloomberg.com": [
@@ -6178,6 +6179,11 @@
      0
     ],
     "ANHA": [
+     0,
+     1,
+     0
+    ],
+    "LiveScore": [
      0,
      1,
      0
