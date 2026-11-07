@@ -1,5 +1,17 @@
 [
  {
+  "id": "38d9dd4a8f33fd62",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "تسنيم الإيرانية: الانفجارات في قشم ليست مرتبطة بضربات صاروخية",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152773",
+  "published": "2026-11-07T20:35:02.000Z",
+  "subject": "saudi",
+  "added": "2026-11-07T20:35:02.000Z"
+ },
+ {
   "id": "d6c0104742eee1da",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -106,17 +118,5 @@
   "published": "2026-11-07T19:40:01.000Z",
   "subject": "saudi",
   "added": "2026-11-07T19:40:01.000Z"
- },
- {
-  "id": "235e0e8cd9a502b5",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "الرئاسة الإسرائيلية: 67 عضوا في الكنيست أوصوا بتكليف آيزنكوت بتشكيل الحكومة",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152763",
-  "published": "2026-11-07T19:35:02.000Z",
-  "subject": "saudi",
-  "added": "2026-11-07T19:35:02.000Z"
  }
 ]

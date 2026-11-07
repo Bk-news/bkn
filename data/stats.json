@@ -5431,15 +5431,15 @@
    }
   },
   "2026-11-06": {
-   "total": 560,
-   "news": 551,
+   "total": 561,
+   "news": 552,
    "articles": 9,
    "positive": 0,
-   "neutral": 560,
+   "neutral": 561,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 164,
+    "GB": 165,
     "SA": 101,
     "US": 107,
     "DE": 4,
@@ -5450,7 +5450,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Reuters": 117,
+    "Reuters": 118,
     "Arab News": 102,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
@@ -5606,7 +5606,7 @@
     ],
     "Reuters": [
      0,
-     117,
+     118,
      0
     ],
     "Arab News": [
@@ -6342,17 +6342,17 @@
    }
   },
   "2026-11-07": {
-   "total": 288,
-   "news": 286,
+   "total": 292,
+   "news": 290,
    "articles": 2,
    "positive": 0,
-   "neutral": 288,
+   "neutral": 292,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 54,
     "SA": 39,
-    "US": 35,
+    "US": 36,
     "FR": 7
    },
    "topics": {},
@@ -6361,7 +6361,7 @@
     "OpenCritic": 1,
     "Arab News": 46,
     "AP News": 8,
-    "Al-Monitor": 12,
+    "Al-Monitor": 13,
     "Le Monde.fr": 5,
     "BBC": 9,
     "Nacionale": 1,
@@ -6398,7 +6398,7 @@
     "Egyptian Gazette": 1,
     "Bioengineer.org": 3,
     "Envanter Medya": 1,
-    "Saudi Gazette": 4,
+    "Saudi Gazette": 5,
     "Prothom Alo English": 1,
     "Bloomberg.com": 5,
     "Yahoo Sports": 4,
@@ -6463,7 +6463,9 @@
     "upi": 1,
     "Devdiscourse": 1,
     "Sky News": 1,
-    "The Boston Globe": 1
+    "The Boston Globe": 1,
+    "巴士的報": 1,
+    "The Hindu": 1
    },
    "sourceTone": {
     "Reuters": [
@@ -6488,7 +6490,7 @@
     ],
     "Al-Monitor": [
      0,
-     12,
+     13,
      0
     ],
     "Le Monde.fr": [
@@ -6673,7 +6675,7 @@
     ],
     "Saudi Gazette": [
      0,
-     4,
+     5,
      0
     ],
     "Prothom Alo English": [
@@ -6997,6 +6999,16 @@
      0
     ],
     "The Boston Globe": [
+     0,
+     1,
+     0
+    ],
+    "巴士的報": [
+     0,
+     1,
+     0
+    ],
+    "The Hindu": [
      0,
      1,
      0
