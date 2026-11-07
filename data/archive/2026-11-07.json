@@ -2,6 +2,27 @@
  "day": "2026-11-07",
  "items": [
   {
+   "id": "ad3604fafd05e5cf",
+   "origin": "rss",
+   "source": "The Boston Globe",
+   "author": "",
+   "title_ar": "ويقول الحوثيون إن الغارات الجوية أسفرت عن مقتل أكثر من عشرين شخصًا بالقرب من العاصمة اليمنية",
+   "title_orig": "Airstrikes kill more than 2 dozen people near Yemen’s capital, Houthis say",
+   "title_en": "Airstrikes kill more than 2 dozen people near Yemen’s capital, Houthis say",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb0J5MFItNDk4dC1qNWFWMEpONUpYNGlyVXk5S3pqZVlXOER5eUN3Q1VvRjlUUXdtOExvUS05aUI5UmVuTFJMVkwxT0ZSQTFHdlN6bW9rUEthOTA5MFJWaDRROFBXYW9rNWhoSUo2ZGZpeUlWQ2k3NTlvdTZtQjlpaVdxY212ZVdGNHZlYm0zY2NjTHJPTzQtSW1hekRtcmxWTFgzTU1vRklPRkNGSFFSaU9qUlFiRjdWSVE?oc=5",
+   "published": "2026-11-07T20:16:37.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "",
+   "pending": true,
+   "desc": "Airstrikes kill more than 2 dozen people near Yemen’s capital, Houthis say &nbsp;&nbsp; The Boston Globe",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "e6843af2131754d3",
    "origin": "rss",
    "source": "Arab News",

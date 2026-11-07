@@ -6342,11 +6342,11 @@
    }
   },
   "2026-11-07": {
-   "total": 285,
-   "news": 283,
+   "total": 286,
+   "news": 284,
    "articles": 2,
    "positive": 0,
-   "neutral": 285,
+   "neutral": 286,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -6462,7 +6462,8 @@
     "WSLS": 1,
     "upi": 1,
     "Devdiscourse": 1,
-    "Sky News": 1
+    "Sky News": 1,
+    "The Boston Globe": 1
    },
    "sourceTone": {
     "Reuters": [
@@ -6991,6 +6992,11 @@
      0
     ],
     "Sky News": [
+     0,
+     1,
+     0
+    ],
+    "The Boston Globe": [
      0,
      1,
      0
