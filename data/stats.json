@@ -4556,16 +4556,16 @@
    }
   },
   "2026-11-05": {
-   "total": 698,
-   "news": 669,
+   "total": 699,
+   "news": 670,
    "articles": 29,
    "positive": 0,
-   "neutral": 698,
+   "neutral": 699,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "SA": 88,
-    "US": 176,
+    "US": 177,
     "GB": 212,
     "HK": 8,
     "FR": 11,
@@ -4585,7 +4585,7 @@
     "South China Morning Post": 8,
     "Myanmar International TV": 1,
     "AP News": 22,
-    "The New York Times": 29,
+    "The New York Times": 30,
     "The Washington Post": 15,
     "Arab News PK": 3,
     "The Express Tribune": 3,
@@ -4775,7 +4775,7 @@
     ],
     "The New York Times": [
      0,
-     29,
+     30,
      0
     ],
     "The Washington Post": [
@@ -5431,17 +5431,17 @@
    }
   },
   "2026-11-06": {
-   "total": 505,
-   "news": 496,
+   "total": 506,
+   "news": 497,
    "articles": 9,
    "positive": 0,
-   "neutral": 505,
+   "neutral": 506,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 114,
     "SA": 100,
-    "US": 105,
+    "US": 106,
     "DE": 4,
     "HK": 6,
     "FR": 7,
@@ -5457,7 +5457,7 @@
     "The Guardian": 8,
     "WSJ": 28,
     "Al-Monitor": 16,
-    "The New York Times": 18,
+    "The New York Times": 19,
     "Bloomberg.com": 26,
     "BBC": 14,
     "Gulf News": 1,
@@ -5639,7 +5639,7 @@
     ],
     "The New York Times": [
      0,
-     18,
+     19,
      0
     ],
     "Bloomberg.com": [
@@ -6330,25 +6330,25 @@
    }
   },
   "2026-11-07": {
-   "total": 162,
-   "news": 161,
+   "total": 166,
+   "news": 165,
    "articles": 1,
    "positive": 0,
-   "neutral": 162,
+   "neutral": 166,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 24,
-    "SA": 19,
-    "US": 27,
+    "SA": 20,
+    "US": 28,
     "FR": 6
    },
    "topics": {},
    "sources": {
     "Reuters": 6,
     "OpenCritic": 1,
-    "Arab News": 22,
-    "AP News": 7,
+    "Arab News": 23,
+    "AP News": 8,
     "Al-Monitor": 11,
     "Le Monde.fr": 5,
     "BBC": 7,
@@ -6382,7 +6382,7 @@
     "https://houseofsaud.com/": 3,
     "France 24": 1,
     "NDTV Sports": 1,
-    "Ahram Online": 1,
+    "Ahram Online": 2,
     "Egyptian Gazette": 1,
     "Bioengineer.org": 3,
     "Envanter Medya": 1,
@@ -6423,7 +6423,8 @@
     "UA.NEWS": 1,
     "The Star": 1,
     "The Daily Star": 1,
-    "Pro Wrestling Dot Net": 1
+    "Pro Wrestling Dot Net": 1,
+    "Transfermarkt": 1
    },
    "sourceTone": {
     "Reuters": [
@@ -6438,12 +6439,12 @@
     ],
     "Arab News": [
      0,
-     22,
+     23,
      0
     ],
     "AP News": [
      0,
-     7,
+     8,
      0
     ],
     "Al-Monitor": [
@@ -6613,7 +6614,7 @@
     ],
     "Ahram Online": [
      0,
-     1,
+     2,
      0
     ],
     "Egyptian Gazette": [
@@ -6817,6 +6818,11 @@
      0
     ],
     "Pro Wrestling Dot Net": [
+     0,
+     1,
+     0
+    ],
+    "Transfermarkt": [
      0,
      1,
      0

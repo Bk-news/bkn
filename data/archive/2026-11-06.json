@@ -317,6 +317,27 @@
    "mt": true
   },
   {
+   "id": "d3d8eda9528f15eb",
+   "origin": "rss",
+   "source": "The New York Times",
+   "author": "",
+   "title_ar": "خوان غاليندو - الصفحة 8",
+   "title_orig": "Juan Galindo - Page 8",
+   "title_en": "Juan Galindo - Page 8",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPbXVVN2N2NlphanpzNVN4RjVuNWo4Q20xY0JqemNwVGl2Y3Y3STlKT3ZEZmQ0THVSajJ6U21rUEZqd1ZwamgteU96ejRvRFotZXV1ZThKMDA4QQ?oc=5",
+   "published": "2026-11-06T22:17:01.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "Juan Galindo - Page 8 &nbsp;&nbsp; The New York Times",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "9d78f1befbbe9fd2",
    "origin": "rss",
    "source": "The Washington Post",
