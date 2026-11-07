@@ -6312,11 +6312,11 @@
    }
   },
   "2026-11-07": {
-   "total": 57,
-   "news": 56,
+   "total": 61,
+   "news": 60,
    "articles": 1,
    "positive": 0,
-   "neutral": 57,
+   "neutral": 61,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -6356,7 +6356,11 @@
     "Middle East Eye": 1,
     "Anadolu Ajansı": 1,
     "Sports Illustrated": 1,
-    "Al Arabiya English": 1
+    "Al Arabiya English": 1,
+    "Bd24live": 1,
+    "News On AIR": 1,
+    "The Eastleigh Voice": 1,
+    "Daily Tribune": 1
    },
    "sourceTone": {
     "Reuters": [
@@ -6505,6 +6509,26 @@
      0
     ],
     "Al Arabiya English": [
+     0,
+     1,
+     0
+    ],
+    "Bd24live": [
+     0,
+     1,
+     0
+    ],
+    "News On AIR": [
+     0,
+     1,
+     0
+    ],
+    "The Eastleigh Voice": [
+     0,
+     1,
+     0
+    ],
+    "Daily Tribune": [
      0,
      1,
      0
