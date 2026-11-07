@@ -10655,6 +10655,27 @@
    "mt": true
   },
   {
+   "id": "59db37cd9640434c",
+   "origin": "rss",
+   "source": "WSJ",
+   "author": "",
+   "title_ar": "مجلة المخاطر والامتثال",
+   "title_orig": "Risk and Compliance Journal",
+   "title_en": "Risk and Compliance Journal",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xZnRXeFhYSThudldGeGlDU254OElpakVYT2ZsLU0yaDRQZmU5RlZnWTI0RUtxczZsNTVaR04tbFJfWHh5SjlQWmFGcDhJZDljem04RVJpRXA0WmtubTJuSGpfRTBqY1F1eDBqOC1JNl9jU3dNLTZVSw?oc=5",
+   "published": "2026-11-05T08:00:53.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "Risk and Compliance Journal &nbsp;&nbsp; WSJ",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "8da4e9509b1e906b",
    "origin": "rss",
    "source": "Dawn",
