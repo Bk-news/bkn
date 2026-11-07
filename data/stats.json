@@ -6342,11 +6342,11 @@
    }
   },
   "2026-11-07": {
-   "total": 323,
-   "news": 321,
+   "total": 325,
+   "news": 323,
    "articles": 2,
    "positive": 0,
-   "neutral": 323,
+   "neutral": 325,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -6471,7 +6471,9 @@
     "Latin Times": 1,
     "Hum News English": 1,
     "الخبر اليمني": 1,
-    "The Times": 1
+    "The Times": 1,
+    "Enab Baladi": 1,
+    "www.tenniswatcher.com": 1
    },
    "sourceTone": {
     "Reuters": [
@@ -7045,6 +7047,16 @@
      0
     ],
     "The Times": [
+     0,
+     1,
+     0
+    ],
+    "Enab Baladi": [
+     0,
+     1,
+     0
+    ],
+    "www.tenniswatcher.com": [
      0,
      1,
      0
