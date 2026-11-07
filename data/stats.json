@@ -5431,15 +5431,15 @@
    }
   },
   "2026-11-06": {
-   "total": 561,
-   "news": 552,
+   "total": 574,
+   "news": 565,
    "articles": 9,
    "positive": 0,
-   "neutral": 561,
+   "neutral": 574,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 165,
+    "GB": 178,
     "SA": 101,
     "US": 107,
     "DE": 4,
@@ -5450,7 +5450,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Reuters": 118,
+    "Reuters": 130,
     "Arab News": 102,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
@@ -5471,7 +5471,7 @@
     "Middle East Eye": 3,
     "digitimes": 1,
     "Anadolu Ajansı": 2,
-    "Financial Times": 23,
+    "Financial Times": 24,
     "UA.NEWS": 3,
     "GamesRadar+": 1,
     "Spiegel": 4,
@@ -5606,7 +5606,7 @@
     ],
     "Reuters": [
      0,
-     118,
+     130,
      0
     ],
     "Arab News": [
@@ -5711,7 +5711,7 @@
     ],
     "Financial Times": [
      0,
-     23,
+     24,
      0
     ],
     "UA.NEWS": [
@@ -6342,32 +6342,32 @@
    }
   },
   "2026-11-07": {
-   "total": 292,
-   "news": 290,
+   "total": 311,
+   "news": 309,
    "articles": 2,
    "positive": 0,
-   "neutral": 292,
+   "neutral": 311,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 54,
-    "SA": 39,
-    "US": 36,
+    "GB": 58,
+    "SA": 44,
+    "US": 39,
     "FR": 7
    },
    "topics": {},
    "sources": {
-    "Reuters": 28,
+    "Reuters": 30,
     "OpenCritic": 1,
-    "Arab News": 46,
-    "AP News": 8,
-    "Al-Monitor": 13,
+    "Arab News": 51,
+    "AP News": 9,
+    "Al-Monitor": 14,
     "Le Monde.fr": 5,
-    "BBC": 9,
+    "BBC": 10,
     "Nacionale": 1,
     "WSJ": 2,
     "وكالة الأنباء السعودية": 2,
-    "Financial Times": 14,
+    "Financial Times": 15,
     "The Arab Weekly": 1,
     "The Guardian": 4,
     "The New York Times": 6,
@@ -6382,7 +6382,7 @@
     "شفق نيوز": 1,
     "Kurdistan24": 3,
     "Al Jazeera": 1,
-    "Gulf Times": 1,
+    "Gulf Times": 2,
     "Middle East Eye": 2,
     "Anadolu Ajansı": 4,
     "Sports Illustrated": 1,
@@ -6391,10 +6391,10 @@
     "News On AIR": 1,
     "The Eastleigh Voice": 1,
     "Daily Tribune": 2,
-    "https://houseofsaud.com/": 5,
+    "https://houseofsaud.com/": 6,
     "France 24": 2,
     "NDTV Sports": 1,
-    "Ahram Online": 4,
+    "Ahram Online": 5,
     "Egyptian Gazette": 1,
     "Bioengineer.org": 3,
     "Envanter Medya": 1,
@@ -6403,7 +6403,7 @@
     "Bloomberg.com": 5,
     "Yahoo Sports": 4,
     "LiveScore": 2,
-    "The Washington Post": 2,
+    "The Washington Post": 3,
     "Türkiye Today": 2,
     "The New Region": 2,
     "Yardbarker": 1,
@@ -6441,7 +6441,7 @@
     "The New Arab": 1,
     "X": 1,
     "الهيئة العامة للاستعلامات": 1,
-    "Arab News PK": 3,
+    "Arab News PK": 4,
     "Cyprus Inform": 1,
     "The Straits Times": 1,
     "TodayPress.tv": 2,
@@ -6465,12 +6465,15 @@
     "Sky News": 1,
     "The Boston Globe": 1,
     "巴士的報": 1,
-    "The Hindu": 1
+    "The Hindu": 1,
+    "The Express Tribune": 1,
+    "الحرة": 1,
+    "Latin Times": 1
    },
    "sourceTone": {
     "Reuters": [
      0,
-     28,
+     30,
      0
     ],
     "OpenCritic": [
@@ -6480,17 +6483,17 @@
     ],
     "Arab News": [
      0,
-     46,
+     51,
      0
     ],
     "AP News": [
      0,
-     8,
+     9,
      0
     ],
     "Al-Monitor": [
      0,
-     13,
+     14,
      0
     ],
     "Le Monde.fr": [
@@ -6500,7 +6503,7 @@
     ],
     "BBC": [
      0,
-     9,
+     10,
      0
     ],
     "Nacionale": [
@@ -6520,7 +6523,7 @@
     ],
     "Financial Times": [
      0,
-     14,
+     15,
      0
     ],
     "The Arab Weekly": [
@@ -6595,7 +6598,7 @@
     ],
     "Gulf Times": [
      0,
-     1,
+     2,
      0
     ],
     "Middle East Eye": [
@@ -6640,7 +6643,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     5,
+     6,
      0
     ],
     "France 24": [
@@ -6655,7 +6658,7 @@
     ],
     "Ahram Online": [
      0,
-     4,
+     5,
      0
     ],
     "Egyptian Gazette": [
@@ -6700,7 +6703,7 @@
     ],
     "The Washington Post": [
      0,
-     2,
+     3,
      0
     ],
     "Türkiye Today": [
@@ -6890,7 +6893,7 @@
     ],
     "Arab News PK": [
      0,
-     3,
+     4,
      0
     ],
     "Cyprus Inform": [
@@ -7009,6 +7012,21 @@
      0
     ],
     "The Hindu": [
+     0,
+     1,
+     0
+    ],
+    "The Express Tribune": [
+     0,
+     1,
+     0
+    ],
+    "الحرة": [
+     0,
+     1,
+     0
+    ],
+    "Latin Times": [
      0,
      1,
      0
