@@ -6318,11 +6318,11 @@
    }
   },
   "2026-11-07": {
-   "total": 61,
-   "news": 60,
+   "total": 62,
+   "news": 61,
    "articles": 1,
    "positive": 0,
-   "neutral": 61,
+   "neutral": 62,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -6366,7 +6366,8 @@
     "Bd24live": 1,
     "News On AIR": 1,
     "The Eastleigh Voice": 1,
-    "Daily Tribune": 1
+    "Daily Tribune": 1,
+    "https://houseofsaud.com/": 1
    },
    "sourceTone": {
     "Reuters": [
@@ -6535,6 +6536,11 @@
      0
     ],
     "Daily Tribune": [
+     0,
+     1,
+     0
+    ],
+    "https://houseofsaud.com/": [
      0,
      1,
      0
