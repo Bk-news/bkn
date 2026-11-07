@@ -6330,11 +6330,11 @@
    }
   },
   "2026-11-07": {
-   "total": 171,
-   "news": 169,
+   "total": 173,
+   "news": 171,
    "articles": 2,
    "positive": 0,
-   "neutral": 171,
+   "neutral": 173,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -6396,7 +6396,7 @@
     "The New Region": 1,
     "Yardbarker": 1,
     "CBS Sports": 1,
-    "The Times of Israel": 2,
+    "The Times of Israel": 3,
     "Deccan Chronicle": 1,
     "Bhaskar English": 1,
     "United News of Bangladesh": 1,
@@ -6425,7 +6425,8 @@
     "The Daily Star": 1,
     "Pro Wrestling Dot Net": 1,
     "Transfermarkt": 1,
-    "Breakingthenews.net": 1
+    "Breakingthenews.net": 1,
+    "The New Arab": 1
    },
    "sourceTone": {
     "Reuters": [
@@ -6685,7 +6686,7 @@
     ],
     "The Times of Israel": [
      0,
-     2,
+     3,
      0
     ],
     "Deccan Chronicle": [
@@ -6829,6 +6830,11 @@
      0
     ],
     "Breakingthenews.net": [
+     0,
+     1,
+     0
+    ],
+    "The New Arab": [
      0,
      1,
      0
