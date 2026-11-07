@@ -6342,24 +6342,24 @@
    }
   },
   "2026-11-07": {
-   "total": 275,
-   "news": 273,
+   "total": 278,
+   "news": 276,
    "articles": 2,
    "positive": 0,
-   "neutral": 275,
+   "neutral": 278,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 52,
     "SA": 36,
-    "US": 34,
+    "US": 35,
     "FR": 6
    },
    "topics": {},
    "sources": {
     "Reuters": 26,
     "OpenCritic": 1,
-    "Arab News": 40,
+    "Arab News": 42,
     "AP News": 8,
     "Al-Monitor": 12,
     "Le Monde.fr": 5,
@@ -6400,7 +6400,7 @@
     "Envanter Medya": 1,
     "Saudi Gazette": 4,
     "Prothom Alo English": 1,
-    "Bloomberg.com": 4,
+    "Bloomberg.com": 5,
     "Yahoo Sports": 4,
     "LiveScore": 2,
     "The Washington Post": 2,
@@ -6477,7 +6477,7 @@
     ],
     "Arab News": [
      0,
-     40,
+     42,
      0
     ],
     "AP News": [
@@ -6682,7 +6682,7 @@
     ],
     "Bloomberg.com": [
      0,
-     4,
+     5,
      0
     ],
     "Yahoo Sports": [
