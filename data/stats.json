@@ -5431,11 +5431,11 @@
    }
   },
   "2026-11-06": {
-   "total": 504,
-   "news": 495,
+   "total": 505,
+   "news": 496,
    "articles": 9,
    "positive": 0,
-   "neutral": 504,
+   "neutral": 505,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -5593,7 +5593,8 @@
     "HKTDC Research": 1,
     "Middle East Monitor": 1,
     "Lee News Central": 1,
-    "Yahoo": 1
+    "Yahoo": 1,
+    "Le Monde diplomatique - English edition": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -6320,42 +6321,47 @@
      0,
      1,
      0
+    ],
+    "Le Monde diplomatique - English edition": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-07": {
-   "total": 142,
-   "news": 141,
+   "total": 162,
+   "news": 161,
    "articles": 1,
    "positive": 0,
-   "neutral": 142,
+   "neutral": 162,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 24,
     "SA": 19,
     "US": 27,
-    "FR": 5
+    "FR": 6
    },
    "topics": {},
    "sources": {
     "Reuters": 6,
     "OpenCritic": 1,
-    "Arab News": 20,
+    "Arab News": 22,
     "AP News": 7,
     "Al-Monitor": 11,
-    "Le Monde.fr": 4,
-    "BBC": 6,
+    "Le Monde.fr": 5,
+    "BBC": 7,
     "Nacionale": 1,
     "WSJ": 2,
-    "وكالة الأنباء السعودية": 1,
+    "وكالة الأنباء السعودية": 2,
     "Financial Times": 9,
     "The Arab Weekly": 1,
     "The Guardian": 2,
     "The New York Times": 3,
     "CNN": 2,
     "The Economist": 1,
-    "Daily Observer": 1,
+    "Daily Observer": 2,
     "سانا": 2,
     "صوت الإمارات": 1,
     "Khaleej Times": 1,
@@ -6366,19 +6372,19 @@
     "Al Jazeera": 1,
     "Gulf Times": 1,
     "Middle East Eye": 1,
-    "Anadolu Ajansı": 1,
+    "Anadolu Ajansı": 2,
     "Sports Illustrated": 1,
     "Al Arabiya English": 1,
     "Bd24live": 1,
     "News On AIR": 1,
     "The Eastleigh Voice": 1,
     "Daily Tribune": 2,
-    "https://houseofsaud.com/": 2,
+    "https://houseofsaud.com/": 3,
     "France 24": 1,
     "NDTV Sports": 1,
     "Ahram Online": 1,
     "Egyptian Gazette": 1,
-    "Bioengineer.org": 2,
+    "Bioengineer.org": 3,
     "Envanter Medya": 1,
     "Saudi Gazette": 2,
     "Prothom Alo English": 1,
@@ -6396,7 +6402,7 @@
     "United News of Bangladesh": 1,
     "Bangladesh Sangbad Sangstha (BSS)": 1,
     "Jagonews24": 1,
-    "The Business Standard": 1,
+    "The Business Standard": 2,
     "Chosunbiz": 1,
     "thecradle.co": 1,
     "news.sbs.co.kr": 1,
@@ -6408,7 +6414,16 @@
     "Moneycontrol.com": 1,
     "Audacy": 1,
     "Dhaka Tribune": 1,
-    "The Times of India": 1
+    "The Times of India": 1,
+    "The Filipino Times": 1,
+    "Egypt Today": 2,
+    "Rigzone": 1,
+    "Firstpost": 1,
+    "ANTARA News": 1,
+    "UA.NEWS": 1,
+    "The Star": 1,
+    "The Daily Star": 1,
+    "Pro Wrestling Dot Net": 1
    },
    "sourceTone": {
     "Reuters": [
@@ -6423,7 +6438,7 @@
     ],
     "Arab News": [
      0,
-     20,
+     22,
      0
     ],
     "AP News": [
@@ -6438,12 +6453,12 @@
     ],
     "Le Monde.fr": [
      0,
-     4,
+     5,
      0
     ],
     "BBC": [
      0,
-     6,
+     7,
      0
     ],
     "Nacionale": [
@@ -6458,7 +6473,7 @@
     ],
     "وكالة الأنباء السعودية": [
      0,
-     1,
+     2,
      0
     ],
     "Financial Times": [
@@ -6493,7 +6508,7 @@
     ],
     "Daily Observer": [
      0,
-     1,
+     2,
      0
     ],
     "سانا": [
@@ -6548,7 +6563,7 @@
     ],
     "Anadolu Ajansı": [
      0,
-     1,
+     2,
      0
     ],
     "Sports Illustrated": [
@@ -6583,7 +6598,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     2,
+     3,
      0
     ],
     "France 24": [
@@ -6608,7 +6623,7 @@
     ],
     "Bioengineer.org": [
      0,
-     2,
+     3,
      0
     ],
     "Envanter Medya": [
@@ -6698,7 +6713,7 @@
     ],
     "The Business Standard": [
      0,
-     1,
+     2,
      0
     ],
     "Chosunbiz": [
@@ -6757,6 +6772,51 @@
      0
     ],
     "The Times of India": [
+     0,
+     1,
+     0
+    ],
+    "The Filipino Times": [
+     0,
+     1,
+     0
+    ],
+    "Egypt Today": [
+     0,
+     2,
+     0
+    ],
+    "Rigzone": [
+     0,
+     1,
+     0
+    ],
+    "Firstpost": [
+     0,
+     1,
+     0
+    ],
+    "ANTARA News": [
+     0,
+     1,
+     0
+    ],
+    "UA.NEWS": [
+     0,
+     1,
+     0
+    ],
+    "The Star": [
+     0,
+     1,
+     0
+    ],
+    "The Daily Star": [
+     0,
+     1,
+     0
+    ],
+    "Pro Wrestling Dot Net": [
      0,
      1,
      0
