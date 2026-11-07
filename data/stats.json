@@ -5431,15 +5431,15 @@
    }
   },
   "2026-11-06": {
-   "total": 578,
-   "news": 569,
+   "total": 579,
+   "news": 570,
    "articles": 9,
    "positive": 0,
-   "neutral": 578,
+   "neutral": 579,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 182,
+    "GB": 183,
     "SA": 101,
     "US": 107,
     "DE": 4,
@@ -5450,7 +5450,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Reuters": 134,
+    "Reuters": 135,
     "Arab News": 102,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
@@ -5606,7 +5606,7 @@
     ],
     "Reuters": [
      0,
-     134,
+     135,
      0
     ],
     "Arab News": [
@@ -6342,23 +6342,23 @@
    }
   },
   "2026-11-07": {
-   "total": 328,
-   "news": 326,
+   "total": 330,
+   "news": 328,
    "articles": 2,
    "positive": 0,
-   "neutral": 328,
+   "neutral": 330,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 64,
+    "GB": 65,
     "SA": 48,
-    "US": 40,
+    "US": 41,
     "FR": 7,
     "HK": 1
    },
    "topics": {},
    "sources": {
-    "Reuters": 33,
+    "Reuters": 34,
     "OpenCritic": 1,
     "Arab News": 55,
     "AP News": 9,
@@ -6404,7 +6404,7 @@
     "Bloomberg.com": 5,
     "Yahoo Sports": 4,
     "LiveScore": 2,
-    "The Washington Post": 3,
+    "The Washington Post": 4,
     "Türkiye Today": 2,
     "The New Region": 2,
     "Yardbarker": 1,
@@ -6480,7 +6480,7 @@
    "sourceTone": {
     "Reuters": [
      0,
-     33,
+     34,
      0
     ],
     "OpenCritic": [
@@ -6710,7 +6710,7 @@
     ],
     "The Washington Post": [
      0,
-     3,
+     4,
      0
     ],
     "Türkiye Today": [
