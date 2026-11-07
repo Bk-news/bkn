@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 693,
-   "news": 664,
+   "total": 695,
+   "news": 666,
    "articles": 29,
    "positive": 0,
-   "neutral": 693,
+   "neutral": 695,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "SA": 88,
-    "US": 175,
-    "GB": 208,
+    "US": 176,
+    "GB": 209,
     "HK": 8,
     "FR": 11,
     "DE": 1,
@@ -4585,7 +4585,7 @@
     "South China Morning Post": 8,
     "Myanmar International TV": 1,
     "AP News": 22,
-    "The New York Times": 28,
+    "The New York Times": 29,
     "The Washington Post": 15,
     "Arab News PK": 3,
     "The Express Tribune": 3,
@@ -4608,7 +4608,7 @@
     "Oz Arab Media": 1,
     "Yemen Online": 2,
     "BBC": 16,
-    "Financial Times": 54,
+    "Financial Times": 55,
     "Bloomberg.com": 17,
     "France 24": 4,
     "Le Monde.fr": 8,
@@ -4775,7 +4775,7 @@
     ],
     "The New York Times": [
      0,
-     28,
+     29,
      0
     ],
     "The Washington Post": [
@@ -4890,7 +4890,7 @@
     ],
     "Financial Times": [
      0,
-     54,
+     55,
      0
     ],
     "Bloomberg.com": [
@@ -5431,17 +5431,17 @@
    }
   },
   "2026-11-06": {
-   "total": 495,
-   "news": 486,
+   "total": 496,
+   "news": 487,
    "articles": 9,
    "positive": 0,
-   "neutral": 495,
+   "neutral": 496,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 106,
     "SA": 100,
-    "US": 104,
+    "US": 105,
     "DE": 4,
     "HK": 6,
     "FR": 7,
@@ -5457,7 +5457,7 @@
     "The Guardian": 8,
     "WSJ": 28,
     "Al-Monitor": 16,
-    "The New York Times": 17,
+    "The New York Times": 18,
     "Bloomberg.com": 26,
     "BBC": 14,
     "Gulf News": 1,
@@ -5638,7 +5638,7 @@
     ],
     "The New York Times": [
      0,
-     17,
+     18,
      0
     ],
     "Bloomberg.com": [
@@ -6324,35 +6324,35 @@
    }
   },
   "2026-11-07": {
-   "total": 76,
-   "news": 75,
+   "total": 113,
+   "news": 112,
    "articles": 1,
    "positive": 0,
-   "neutral": 76,
+   "neutral": 113,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 12,
-    "SA": 10,
-    "US": 15,
-    "FR": 4
+    "GB": 24,
+    "SA": 16,
+    "US": 27,
+    "FR": 5
    },
    "topics": {},
    "sources": {
-    "Reuters": 1,
+    "Reuters": 6,
     "OpenCritic": 1,
-    "Arab News": 11,
-    "AP News": 3,
-    "Al-Monitor": 7,
-    "Le Monde.fr": 3,
-    "BBC": 3,
+    "Arab News": 17,
+    "AP News": 7,
+    "Al-Monitor": 11,
+    "Le Monde.fr": 4,
+    "BBC": 6,
     "Nacionale": 1,
-    "WSJ": 1,
+    "WSJ": 2,
     "وكالة الأنباء السعودية": 1,
-    "Financial Times": 5,
+    "Financial Times": 9,
     "The Arab Weekly": 1,
     "The Guardian": 2,
-    "The New York Times": 2,
+    "The New York Times": 3,
     "CNN": 2,
     "The Economist": 1,
     "Daily Observer": 1,
@@ -6380,15 +6380,20 @@
     "Egyptian Gazette": 1,
     "Bioengineer.org": 1,
     "Envanter Medya": 1,
-    "Saudi Gazette": 1,
+    "Saudi Gazette": 2,
     "Prothom Alo English": 1,
     "Bloomberg.com": 1,
-    "Yahoo Sports": 1
+    "Yahoo Sports": 1,
+    "LiveScore": 2,
+    "The Washington Post": 2,
+    "Türkiye Today": 1,
+    "The New Region": 1,
+    "Yardbarker": 1
    },
    "sourceTone": {
     "Reuters": [
      0,
-     1,
+     6,
      0
     ],
     "OpenCritic": [
@@ -6398,27 +6403,27 @@
     ],
     "Arab News": [
      0,
-     11,
+     17,
      0
     ],
     "AP News": [
      0,
-     3,
+     7,
      0
     ],
     "Al-Monitor": [
      0,
-     7,
+     11,
      0
     ],
     "Le Monde.fr": [
      0,
-     3,
+     4,
      0
     ],
     "BBC": [
      0,
-     3,
+     6,
      0
     ],
     "Nacionale": [
@@ -6428,7 +6433,7 @@
     ],
     "WSJ": [
      0,
-     1,
+     2,
      0
     ],
     "وكالة الأنباء السعودية": [
@@ -6438,7 +6443,7 @@
     ],
     "Financial Times": [
      0,
-     5,
+     9,
      0
     ],
     "The Arab Weekly": [
@@ -6453,7 +6458,7 @@
     ],
     "The New York Times": [
      0,
-     2,
+     3,
      0
     ],
     "CNN": [
@@ -6593,7 +6598,7 @@
     ],
     "Saudi Gazette": [
      0,
-     1,
+     2,
      0
     ],
     "Prothom Alo English": [
@@ -6607,6 +6612,31 @@
      0
     ],
     "Yahoo Sports": [
+     0,
+     1,
+     0
+    ],
+    "LiveScore": [
+     0,
+     2,
+     0
+    ],
+    "The Washington Post": [
+     0,
+     2,
+     0
+    ],
+    "Türkiye Today": [
+     0,
+     1,
+     0
+    ],
+    "The New Region": [
+     0,
+     1,
+     0
+    ],
+    "Yardbarker": [
      0,
      1,
      0
