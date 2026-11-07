@@ -6342,11 +6342,11 @@
    }
   },
   "2026-11-07": {
-   "total": 318,
-   "news": 316,
+   "total": 319,
+   "news": 317,
    "articles": 2,
    "positive": 0,
-   "neutral": 318,
+   "neutral": 319,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -6469,7 +6469,8 @@
     "The Express Tribune": 1,
     "الحرة": 1,
     "Latin Times": 1,
-    "Hum News English": 1
+    "Hum News English": 1,
+    "الخبر اليمني": 1
    },
    "sourceTone": {
     "Reuters": [
@@ -7033,6 +7034,11 @@
      0
     ],
     "Hum News English": [
+     0,
+     1,
+     0
+    ],
+    "الخبر اليمني": [
      0,
      1,
      0
