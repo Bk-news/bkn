@@ -6318,11 +6318,11 @@
    }
   },
   "2026-11-07": {
-   "total": 64,
-   "news": 63,
+   "total": 65,
+   "news": 64,
    "articles": 1,
    "positive": 0,
-   "neutral": 64,
+   "neutral": 65,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -6369,7 +6369,8 @@
     "Daily Tribune": 1,
     "https://houseofsaud.com/": 1,
     "France 24": 1,
-    "NDTV Sports": 1
+    "NDTV Sports": 1,
+    "Ahram Online": 1
    },
    "sourceTone": {
     "Reuters": [
@@ -6553,6 +6554,11 @@
      0
     ],
     "NDTV Sports": [
+     0,
+     1,
+     0
+    ],
+    "Ahram Online": [
      0,
      1,
      0
