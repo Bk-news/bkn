@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 700,
-   "news": 671,
+   "total": 701,
+   "news": 672,
    "articles": 29,
    "positive": 0,
-   "neutral": 700,
+   "neutral": 701,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "SA": 88,
     "US": 177,
-    "GB": 213,
+    "GB": 214,
     "HK": 8,
     "FR": 11,
     "DE": 1,
@@ -4580,7 +4580,7 @@
     "Deadline": 2,
     "Al Majalla": 1,
     "Al-Monitor": 44,
-    "Reuters": 106,
+    "Reuters": 107,
     "WSJ": 42,
     "South China Morning Post": 8,
     "Myanmar International TV": 1,
@@ -4750,7 +4750,7 @@
     ],
     "Reuters": [
      0,
-     106,
+     107,
      0
     ],
     "WSJ": [
@@ -5431,15 +5431,15 @@
    }
   },
   "2026-11-06": {
-   "total": 526,
-   "news": 517,
+   "total": 554,
+   "news": 545,
    "articles": 9,
    "positive": 0,
-   "neutral": 526,
+   "neutral": 554,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 132,
+    "GB": 159,
     "SA": 100,
     "US": 107,
     "DE": 4,
@@ -5450,7 +5450,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Reuters": 86,
+    "Reuters": 112,
     "Arab News": 101,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
@@ -5471,7 +5471,7 @@
     "Middle East Eye": 3,
     "digitimes": 1,
     "Anadolu Ajansı": 2,
-    "Financial Times": 22,
+    "Financial Times": 23,
     "UA.NEWS": 3,
     "GamesRadar+": 1,
     "Spiegel": 4,
@@ -5595,7 +5595,8 @@
     "Lee News Central": 1,
     "Yahoo": 1,
     "Le Monde diplomatique - English edition": 1,
-    "Breitbart News": 1
+    "Breitbart News": 1,
+    "The New Arab": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -5605,7 +5606,7 @@
     ],
     "Reuters": [
      0,
-     86,
+     112,
      0
     ],
     "Arab News": [
@@ -5710,7 +5711,7 @@
     ],
     "Financial Times": [
      0,
-     22,
+     23,
      0
     ],
     "UA.NEWS": [
@@ -6332,15 +6333,20 @@
      0,
      1,
      0
+    ],
+    "The New Arab": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-07": {
-   "total": 254,
-   "news": 252,
+   "total": 265,
+   "news": 263,
    "articles": 2,
    "positive": 0,
-   "neutral": 254,
+   "neutral": 265,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -6357,24 +6363,24 @@
     "AP News": 8,
     "Al-Monitor": 12,
     "Le Monde.fr": 5,
-    "BBC": 8,
+    "BBC": 9,
     "Nacionale": 1,
     "WSJ": 2,
     "وكالة الأنباء السعودية": 2,
     "Financial Times": 12,
     "The Arab Weekly": 1,
     "The Guardian": 3,
-    "The New York Times": 4,
+    "The New York Times": 5,
     "CNN": 2,
     "The Economist": 2,
     "Daily Observer": 2,
-    "سانا": 2,
+    "سانا": 3,
     "صوت الإمارات": 2,
     "Khaleej Times": 1,
     "Latest news from Azerbaijan": 1,
     "Malaysia-China Insight": 1,
     "شفق نيوز": 1,
-    "Kurdistan24": 2,
+    "Kurdistan24": 3,
     "Al Jazeera": 1,
     "Gulf Times": 1,
     "Middle East Eye": 2,
@@ -6388,7 +6394,7 @@
     "https://houseofsaud.com/": 4,
     "France 24": 1,
     "NDTV Sports": 1,
-    "Ahram Online": 3,
+    "Ahram Online": 4,
     "Egyptian Gazette": 1,
     "Bioengineer.org": 3,
     "Envanter Medya": 1,
@@ -6443,12 +6449,17 @@
     "Rus Tourism News": 1,
     "Goal.com": 1,
     "Oman Observer": 1,
-    "The New Indian Express": 1,
+    "The New Indian Express": 2,
     "India Today": 1,
     "Mehr News Agency": 1,
     "WION": 1,
     "Kashmir Life": 1,
-    "The Jerusalem Post": 1
+    "The Jerusalem Post": 1,
+    "Autoblog": 1,
+    "Business Insider Africa": 1,
+    "Awful Announcing": 1,
+    "DW.com": 1,
+    "WSLS": 1
    },
    "sourceTone": {
     "Reuters": [
@@ -6483,7 +6494,7 @@
     ],
     "BBC": [
      0,
-     8,
+     9,
      0
     ],
     "Nacionale": [
@@ -6518,7 +6529,7 @@
     ],
     "The New York Times": [
      0,
-     4,
+     5,
      0
     ],
     "CNN": [
@@ -6538,7 +6549,7 @@
     ],
     "سانا": [
      0,
-     2,
+     3,
      0
     ],
     "صوت الإمارات": [
@@ -6568,7 +6579,7 @@
     ],
     "Kurdistan24": [
      0,
-     2,
+     3,
      0
     ],
     "Al Jazeera": [
@@ -6638,7 +6649,7 @@
     ],
     "Ahram Online": [
      0,
-     3,
+     4,
      0
     ],
     "Egyptian Gazette": [
@@ -6913,7 +6924,7 @@
     ],
     "The New Indian Express": [
      0,
-     1,
+     2,
      0
     ],
     "India Today": [
@@ -6937,6 +6948,31 @@
      0
     ],
     "The Jerusalem Post": [
+     0,
+     1,
+     0
+    ],
+    "Autoblog": [
+     0,
+     1,
+     0
+    ],
+    "Business Insider Africa": [
+     0,
+     1,
+     0
+    ],
+    "Awful Announcing": [
+     0,
+     1,
+     0
+    ],
+    "DW.com": [
+     0,
+     1,
+     0
+    ],
+    "WSLS": [
      0,
      1,
      0
