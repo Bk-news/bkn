@@ -6330,11 +6330,11 @@
    }
   },
   "2026-11-07": {
-   "total": 184,
-   "news": 182,
+   "total": 185,
+   "news": 183,
    "articles": 2,
    "positive": 0,
-   "neutral": 184,
+   "neutral": 185,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -6395,7 +6395,7 @@
     "Türkiye Today": 2,
     "The New Region": 1,
     "Yardbarker": 1,
-    "CBS Sports": 1,
+    "CBS Sports": 2,
     "The Times of Israel": 3,
     "Deccan Chronicle": 1,
     "Bhaskar English": 2,
@@ -6684,7 +6684,7 @@
     ],
     "CBS Sports": [
      0,
-     1,
+     2,
      0
     ],
     "The Times of Israel": [
