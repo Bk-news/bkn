@@ -5431,11 +5431,11 @@
    }
   },
   "2026-11-06": {
-   "total": 456,
-   "news": 448,
+   "total": 459,
+   "news": 451,
    "articles": 8,
    "positive": 0,
-   "neutral": 456,
+   "neutral": 459,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -5451,7 +5451,7 @@
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
     "Reuters": 64,
-    "Arab News": 91,
+    "Arab News": 92,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
     "The Guardian": 8,
@@ -5583,7 +5583,8 @@
     "www.israelhayom.com": 1,
     "CBS Sports": 1,
     "Table.Briefings": 1,
-    "Wccftech": 1
+    "Wccftech": 1,
+    "يمن مونيتور": 2
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -5598,7 +5599,7 @@
     ],
     "Arab News": [
      0,
-     91,
+     92,
      0
     ],
     "Al Jazeera": [
@@ -6259,6 +6260,11 @@
     "Wccftech": [
      0,
      1,
+     0
+    ],
+    "يمن مونيتور": [
+     0,
+     2,
      0
     ]
    }
