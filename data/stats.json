@@ -6330,16 +6330,16 @@
    }
   },
   "2026-11-07": {
-   "total": 168,
-   "news": 166,
+   "total": 170,
+   "news": 168,
    "articles": 2,
    "positive": 0,
-   "neutral": 168,
+   "neutral": 170,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 26,
-    "SA": 20,
+    "SA": 21,
     "US": 28,
     "FR": 6
    },
@@ -6347,7 +6347,7 @@
    "sources": {
     "Reuters": 6,
     "OpenCritic": 1,
-    "Arab News": 23,
+    "Arab News": 24,
     "AP News": 8,
     "Al-Monitor": 11,
     "Le Monde.fr": 5,
@@ -6371,7 +6371,7 @@
     "Kurdistan24": 2,
     "Al Jazeera": 1,
     "Gulf Times": 1,
-    "Middle East Eye": 1,
+    "Middle East Eye": 2,
     "Anadolu Ajansı": 2,
     "Sports Illustrated": 1,
     "Al Arabiya English": 1,
@@ -6439,7 +6439,7 @@
     ],
     "Arab News": [
      0,
-     23,
+     24,
      0
     ],
     "AP News": [
@@ -6559,7 +6559,7 @@
     ],
     "Middle East Eye": [
      0,
-     1,
+     2,
      0
     ],
     "Anadolu Ajansı": [
