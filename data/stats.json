@@ -6318,24 +6318,24 @@
    }
   },
   "2026-11-07": {
-   "total": 73,
-   "news": 72,
+   "total": 76,
+   "news": 75,
    "articles": 1,
    "positive": 0,
-   "neutral": 73,
+   "neutral": 76,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 12,
     "SA": 10,
-    "US": 14,
+    "US": 15,
     "FR": 4
    },
    "topics": {},
    "sources": {
     "Reuters": 1,
     "OpenCritic": 1,
-    "Arab News": 10,
+    "Arab News": 11,
     "AP News": 3,
     "Al-Monitor": 7,
     "Le Monde.fr": 3,
@@ -6375,7 +6375,9 @@
     "Bioengineer.org": 1,
     "Envanter Medya": 1,
     "Saudi Gazette": 1,
-    "Prothom Alo English": 1
+    "Prothom Alo English": 1,
+    "Bloomberg.com": 1,
+    "Yahoo Sports": 1
    },
    "sourceTone": {
     "Reuters": [
@@ -6390,7 +6392,7 @@
     ],
     "Arab News": [
      0,
-     10,
+     11,
      0
     ],
     "AP News": [
@@ -6589,6 +6591,16 @@
      0
     ],
     "Prothom Alo English": [
+     0,
+     1,
+     0
+    ],
+    "Bloomberg.com": [
+     0,
+     1,
+     0
+    ],
+    "Yahoo Sports": [
      0,
      1,
      0
