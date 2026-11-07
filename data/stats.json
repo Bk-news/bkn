@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 671,
-   "news": 642,
+   "total": 686,
+   "news": 657,
    "articles": 29,
    "positive": 0,
-   "neutral": 671,
+   "neutral": 686,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "SA": 88,
     "US": 174,
-    "GB": 187,
+    "GB": 202,
     "HK": 8,
     "FR": 11,
     "DE": 1,
@@ -4580,7 +4580,7 @@
     "Deadline": 2,
     "Al Majalla": 1,
     "Al-Monitor": 44,
-    "Reuters": 94,
+    "Reuters": 102,
     "WSJ": 42,
     "South China Morning Post": 8,
     "Myanmar International TV": 1,
@@ -4608,7 +4608,7 @@
     "Oz Arab Media": 1,
     "Yemen Online": 2,
     "BBC": 16,
-    "Financial Times": 43,
+    "Financial Times": 50,
     "Bloomberg.com": 17,
     "France 24": 4,
     "Le Monde.fr": 8,
@@ -4750,7 +4750,7 @@
     ],
     "Reuters": [
      0,
-     94,
+     102,
      0
     ],
     "WSJ": [
@@ -4890,7 +4890,7 @@
     ],
     "Financial Times": [
      0,
-     43,
+     50,
      0
     ],
     "Bloomberg.com": [
@@ -5431,16 +5431,16 @@
    }
   },
   "2026-11-06": {
-   "total": 475,
-   "news": 466,
+   "total": 486,
+   "news": 477,
    "articles": 9,
    "positive": 0,
-   "neutral": 475,
+   "neutral": 486,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 99,
-    "SA": 97,
+    "GB": 104,
+    "SA": 99,
     "US": 102,
     "DE": 4,
     "HK": 6,
@@ -5451,7 +5451,7 @@
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
     "Reuters": 68,
-    "Arab News": 98,
+    "Arab News": 101,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
     "The Guardian": 8,
@@ -5471,7 +5471,7 @@
     "Middle East Eye": 3,
     "digitimes": 1,
     "Anadolu Ajansı": 2,
-    "Financial Times": 7,
+    "Financial Times": 12,
     "UA.NEWS": 3,
     "GamesRadar+": 1,
     "Spiegel": 4,
@@ -5570,7 +5570,7 @@
     "www.tokenpost.com": 1,
     "WRTV": 1,
     "Khaama Press": 1,
-    "ANHA": 1,
+    "ANHA": 2,
     "LiveScore": 1,
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
     "6abc Philadelphia": 1,
@@ -5587,7 +5587,9 @@
     "يمن مونيتور": 2,
     "The Economist": 1,
     "The News Pakistan": 1,
-    "Raw Story": 1
+    "Raw Story": 1,
+    "NDTV": 1,
+    "Yahoo Sports": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -5602,7 +5604,7 @@
     ],
     "Arab News": [
      0,
-     98,
+     101,
      0
     ],
     "Al Jazeera": [
@@ -5702,7 +5704,7 @@
     ],
     "Financial Times": [
      0,
-     7,
+     12,
      0
     ],
     "UA.NEWS": [
@@ -6197,7 +6199,7 @@
     ],
     "ANHA": [
      0,
-     1,
+     2,
      0
     ],
     "LiveScore": [
@@ -6284,36 +6286,46 @@
      0,
      1,
      0
+    ],
+    "NDTV": [
+     0,
+     1,
+     0
+    ],
+    "Yahoo Sports": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-07": {
-   "total": 43,
-   "news": 42,
+   "total": 57,
+   "news": 56,
    "articles": 1,
    "positive": 0,
-   "neutral": 43,
+   "neutral": 57,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 11,
+    "GB": 12,
     "SA": 8,
-    "US": 13,
+    "US": 14,
     "FR": 3
    },
    "topics": {},
    "sources": {
     "Reuters": 1,
     "OpenCritic": 1,
-    "Arab News": 8,
+    "Arab News": 9,
     "AP News": 3,
-    "Al-Monitor": 6,
+    "Al-Monitor": 7,
     "Le Monde.fr": 3,
     "BBC": 3,
     "Nacionale": 1,
     "WSJ": 1,
     "وكالة الأنباء السعودية": 1,
-    "Financial Times": 4,
+    "Financial Times": 5,
     "The Arab Weekly": 1,
     "The Guardian": 2,
     "The New York Times": 2,
@@ -6321,7 +6333,18 @@
     "The Economist": 1,
     "Daily Observer": 1,
     "سانا": 1,
-    "صوت الإمارات": 1
+    "صوت الإمارات": 1,
+    "Khaleej Times": 1,
+    "Latest news from Azerbaijan": 1,
+    "Malaysia-China Insight": 1,
+    "شفق نيوز": 1,
+    "Kurdistan24": 1,
+    "Al Jazeera": 1,
+    "Gulf Times": 1,
+    "Middle East Eye": 1,
+    "Anadolu Ajansı": 1,
+    "Sports Illustrated": 1,
+    "Al Arabiya English": 1
    },
    "sourceTone": {
     "Reuters": [
@@ -6336,7 +6359,7 @@
     ],
     "Arab News": [
      0,
-     8,
+     9,
      0
     ],
     "AP News": [
@@ -6346,7 +6369,7 @@
     ],
     "Al-Monitor": [
      0,
-     6,
+     7,
      0
     ],
     "Le Monde.fr": [
@@ -6376,7 +6399,7 @@
     ],
     "Financial Times": [
      0,
-     4,
+     5,
      0
     ],
     "The Arab Weekly": [
@@ -6415,6 +6438,61 @@
      0
     ],
     "صوت الإمارات": [
+     0,
+     1,
+     0
+    ],
+    "Khaleej Times": [
+     0,
+     1,
+     0
+    ],
+    "Latest news from Azerbaijan": [
+     0,
+     1,
+     0
+    ],
+    "Malaysia-China Insight": [
+     0,
+     1,
+     0
+    ],
+    "شفق نيوز": [
+     0,
+     1,
+     0
+    ],
+    "Kurdistan24": [
+     0,
+     1,
+     0
+    ],
+    "Al Jazeera": [
+     0,
+     1,
+     0
+    ],
+    "Gulf Times": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Eye": [
+     0,
+     1,
+     0
+    ],
+    "Anadolu Ajansı": [
+     0,
+     1,
+     0
+    ],
+    "Sports Illustrated": [
+     0,
+     1,
+     0
+    ],
+    "Al Arabiya English": [
      0,
      1,
      0
