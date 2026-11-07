@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 655,
+   "total": 656,
    "news": 627,
-   "articles": 28,
+   "articles": 29,
    "positive": 0,
-   "neutral": 655,
+   "neutral": 656,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "SA": 87,
     "US": 172,
-    "GB": 175,
+    "GB": 176,
     "HK": 7,
     "FR": 11,
     "DE": 1,
@@ -4612,7 +4612,7 @@
     "Bloomberg.com": 17,
     "France 24": 4,
     "Le Monde.fr": 8,
-    "The Economist": 20,
+    "The Economist": 21,
     "ASHARQ AL-AWSAT English": 6,
     "StreetInsider": 1,
     "شبكة تواصل الإخبارية": 1,
@@ -4910,7 +4910,7 @@
     ],
     "The Economist": [
      0,
-     20,
+     21,
      0
     ],
     "ASHARQ AL-AWSAT English": [
