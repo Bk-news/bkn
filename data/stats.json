@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 666,
-   "news": 637,
+   "total": 667,
+   "news": 638,
    "articles": 29,
    "positive": 0,
-   "neutral": 666,
+   "neutral": 667,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "SA": 88,
     "US": 174,
-    "GB": 182,
+    "GB": 183,
     "HK": 8,
     "FR": 11,
     "DE": 1,
@@ -4580,7 +4580,7 @@
     "Deadline": 2,
     "Al Majalla": 1,
     "Al-Monitor": 44,
-    "Reuters": 90,
+    "Reuters": 91,
     "WSJ": 42,
     "South China Morning Post": 8,
     "Myanmar International TV": 1,
@@ -4750,7 +4750,7 @@
     ],
     "Reuters": [
      0,
-     90,
+     91,
      0
     ],
     "WSJ": [
