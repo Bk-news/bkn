@@ -6342,22 +6342,22 @@
    }
   },
   "2026-11-07": {
-   "total": 312,
-   "news": 310,
+   "total": 316,
+   "news": 314,
    "articles": 2,
    "positive": 0,
-   "neutral": 312,
+   "neutral": 316,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 58,
+    "GB": 62,
     "SA": 44,
     "US": 39,
     "FR": 7
    },
    "topics": {},
    "sources": {
-    "Reuters": 30,
+    "Reuters": 31,
     "OpenCritic": 1,
     "Arab News": 51,
     "AP News": 9,
@@ -6367,7 +6367,7 @@
     "Nacionale": 1,
     "WSJ": 2,
     "وكالة الأنباء السعودية": 2,
-    "Financial Times": 15,
+    "Financial Times": 18,
     "The Arab Weekly": 1,
     "The Guardian": 4,
     "The New York Times": 6,
@@ -6474,7 +6474,7 @@
    "sourceTone": {
     "Reuters": [
      0,
-     30,
+     31,
      0
     ],
     "OpenCritic": [
@@ -6524,7 +6524,7 @@
     ],
     "Financial Times": [
      0,
-     15,
+     18,
      0
     ],
     "The Arab Weekly": [
