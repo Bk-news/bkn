@@ -5431,16 +5431,16 @@
    }
   },
   "2026-11-06": {
-   "total": 491,
-   "news": 482,
+   "total": 492,
+   "news": 483,
    "articles": 9,
    "positive": 0,
-   "neutral": 491,
+   "neutral": 492,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 106,
-    "SA": 99,
+    "SA": 100,
     "US": 102,
     "DE": 4,
     "HK": 6,
@@ -5479,7 +5479,7 @@
     "France 24": 4,
     "CNN": 1,
     "The Express Tribune": 3,
-    "Saudi Gazette": 8,
+    "Saudi Gazette": 9,
     "AP News": 7,
     "BBC Shop": 1,
     "Geo News": 1,
@@ -5747,7 +5747,7 @@
     ],
     "Saudi Gazette": [
      0,
-     8,
+     9,
      0
     ],
     "AP News": [
