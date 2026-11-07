@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 695,
-   "news": 666,
+   "total": 698,
+   "news": 669,
    "articles": 29,
    "positive": 0,
-   "neutral": 695,
+   "neutral": 698,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "SA": 88,
     "US": 176,
-    "GB": 209,
+    "GB": 212,
     "HK": 8,
     "FR": 11,
     "DE": 1,
@@ -4580,7 +4580,7 @@
     "Deadline": 2,
     "Al Majalla": 1,
     "Al-Monitor": 44,
-    "Reuters": 104,
+    "Reuters": 105,
     "WSJ": 42,
     "South China Morning Post": 8,
     "Myanmar International TV": 1,
@@ -4608,7 +4608,7 @@
     "Oz Arab Media": 1,
     "Yemen Online": 2,
     "BBC": 16,
-    "Financial Times": 55,
+    "Financial Times": 57,
     "Bloomberg.com": 17,
     "France 24": 4,
     "Le Monde.fr": 8,
@@ -4750,7 +4750,7 @@
     ],
     "Reuters": [
      0,
-     104,
+     105,
      0
     ],
     "WSJ": [
@@ -4890,7 +4890,7 @@
     ],
     "Financial Times": [
      0,
-     55,
+     57,
      0
     ],
     "Bloomberg.com": [
@@ -5431,15 +5431,15 @@
    }
   },
   "2026-11-06": {
-   "total": 496,
-   "news": 487,
+   "total": 504,
+   "news": 495,
    "articles": 9,
    "positive": 0,
-   "neutral": 496,
+   "neutral": 504,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 106,
+    "GB": 114,
     "SA": 100,
     "US": 105,
     "DE": 4,
@@ -5450,7 +5450,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Reuters": 69,
+    "Reuters": 77,
     "Arab News": 101,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
@@ -5603,7 +5603,7 @@
     ],
     "Reuters": [
      0,
-     69,
+     77,
      0
     ],
     "Arab News": [
@@ -6324,16 +6324,16 @@
    }
   },
   "2026-11-07": {
-   "total": 113,
-   "news": 112,
+   "total": 142,
+   "news": 141,
    "articles": 1,
    "positive": 0,
-   "neutral": 113,
+   "neutral": 142,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 24,
-    "SA": 16,
+    "SA": 19,
     "US": 27,
     "FR": 5
    },
@@ -6341,7 +6341,7 @@
    "sources": {
     "Reuters": 6,
     "OpenCritic": 1,
-    "Arab News": 17,
+    "Arab News": 20,
     "AP News": 7,
     "Al-Monitor": 11,
     "Le Monde.fr": 4,
@@ -6356,13 +6356,13 @@
     "CNN": 2,
     "The Economist": 1,
     "Daily Observer": 1,
-    "سانا": 1,
+    "سانا": 2,
     "صوت الإمارات": 1,
     "Khaleej Times": 1,
     "Latest news from Azerbaijan": 1,
     "Malaysia-China Insight": 1,
     "شفق نيوز": 1,
-    "Kurdistan24": 1,
+    "Kurdistan24": 2,
     "Al Jazeera": 1,
     "Gulf Times": 1,
     "Middle East Eye": 1,
@@ -6378,17 +6378,37 @@
     "NDTV Sports": 1,
     "Ahram Online": 1,
     "Egyptian Gazette": 1,
-    "Bioengineer.org": 1,
+    "Bioengineer.org": 2,
     "Envanter Medya": 1,
     "Saudi Gazette": 2,
     "Prothom Alo English": 1,
     "Bloomberg.com": 1,
-    "Yahoo Sports": 1,
+    "Yahoo Sports": 3,
     "LiveScore": 2,
     "The Washington Post": 2,
     "Türkiye Today": 1,
     "The New Region": 1,
-    "Yardbarker": 1
+    "Yardbarker": 1,
+    "CBS Sports": 1,
+    "The Times of Israel": 2,
+    "Deccan Chronicle": 1,
+    "Bhaskar English": 1,
+    "United News of Bangladesh": 1,
+    "Bangladesh Sangbad Sangstha (BSS)": 1,
+    "Jagonews24": 1,
+    "The Business Standard": 1,
+    "Chosunbiz": 1,
+    "thecradle.co": 1,
+    "news.sbs.co.kr": 1,
+    "L'Orient Today": 1,
+    "Middle East Monitor": 1,
+    "Egyptian Streets": 1,
+    "Hindustan Times": 1,
+    "Arab Times Kuwait News": 1,
+    "Moneycontrol.com": 1,
+    "Audacy": 1,
+    "Dhaka Tribune": 1,
+    "The Times of India": 1
    },
    "sourceTone": {
     "Reuters": [
@@ -6403,7 +6423,7 @@
     ],
     "Arab News": [
      0,
-     17,
+     20,
      0
     ],
     "AP News": [
@@ -6478,7 +6498,7 @@
     ],
     "سانا": [
      0,
-     1,
+     2,
      0
     ],
     "صوت الإمارات": [
@@ -6508,7 +6528,7 @@
     ],
     "Kurdistan24": [
      0,
-     1,
+     2,
      0
     ],
     "Al Jazeera": [
@@ -6588,7 +6608,7 @@
     ],
     "Bioengineer.org": [
      0,
-     1,
+     2,
      0
     ],
     "Envanter Medya": [
@@ -6613,7 +6633,7 @@
     ],
     "Yahoo Sports": [
      0,
-     1,
+     3,
      0
     ],
     "LiveScore": [
@@ -6637,6 +6657,106 @@
      0
     ],
     "Yardbarker": [
+     0,
+     1,
+     0
+    ],
+    "CBS Sports": [
+     0,
+     1,
+     0
+    ],
+    "The Times of Israel": [
+     0,
+     2,
+     0
+    ],
+    "Deccan Chronicle": [
+     0,
+     1,
+     0
+    ],
+    "Bhaskar English": [
+     0,
+     1,
+     0
+    ],
+    "United News of Bangladesh": [
+     0,
+     1,
+     0
+    ],
+    "Bangladesh Sangbad Sangstha (BSS)": [
+     0,
+     1,
+     0
+    ],
+    "Jagonews24": [
+     0,
+     1,
+     0
+    ],
+    "The Business Standard": [
+     0,
+     1,
+     0
+    ],
+    "Chosunbiz": [
+     0,
+     1,
+     0
+    ],
+    "thecradle.co": [
+     0,
+     1,
+     0
+    ],
+    "news.sbs.co.kr": [
+     0,
+     1,
+     0
+    ],
+    "L'Orient Today": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Monitor": [
+     0,
+     1,
+     0
+    ],
+    "Egyptian Streets": [
+     0,
+     1,
+     0
+    ],
+    "Hindustan Times": [
+     0,
+     1,
+     0
+    ],
+    "Arab Times Kuwait News": [
+     0,
+     1,
+     0
+    ],
+    "Moneycontrol.com": [
+     0,
+     1,
+     0
+    ],
+    "Audacy": [
+     0,
+     1,
+     0
+    ],
+    "Dhaka Tribune": [
+     0,
+     1,
+     0
+    ],
+    "The Times of India": [
      0,
      1,
      0
