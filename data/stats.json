@@ -6330,11 +6330,11 @@
    }
   },
   "2026-11-07": {
-   "total": 186,
-   "news": 184,
+   "total": 187,
+   "news": 185,
    "articles": 2,
    "positive": 0,
-   "neutral": 186,
+   "neutral": 187,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -6429,7 +6429,8 @@
     "The New Arab": 1,
     "X": 1,
     "الهيئة العامة للاستعلامات": 1,
-    "Arab News PK": 1
+    "Arab News PK": 1,
+    "Cyprus Inform": 1
    },
    "sourceTone": {
     "Reuters": [
@@ -6853,6 +6854,11 @@
      0
     ],
     "Arab News PK": [
+     0,
+     1,
+     0
+    ],
+    "Cyprus Inform": [
      0,
      1,
      0
