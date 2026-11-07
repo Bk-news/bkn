@@ -6330,11 +6330,11 @@
    }
   },
   "2026-11-07": {
-   "total": 181,
-   "news": 179,
+   "total": 182,
+   "news": 180,
    "articles": 2,
    "positive": 0,
-   "neutral": 181,
+   "neutral": 182,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -6427,7 +6427,8 @@
     "Transfermarkt": 1,
     "Breakingthenews.net": 1,
     "The New Arab": 1,
-    "X": 1
+    "X": 1,
+    "الهيئة العامة للاستعلامات": 1
    },
    "sourceTone": {
     "Reuters": [
@@ -6841,6 +6842,11 @@
      0
     ],
     "X": [
+     0,
+     1,
+     0
+    ],
+    "الهيئة العامة للاستعلامات": [
      0,
      1,
      0
