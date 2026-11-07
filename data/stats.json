@@ -5431,15 +5431,15 @@
    }
   },
   "2026-11-06": {
-   "total": 454,
-   "news": 446,
+   "total": 455,
+   "news": 447,
    "articles": 8,
    "positive": 0,
-   "neutral": 454,
+   "neutral": 455,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 93,
+    "GB": 94,
     "SA": 91,
     "US": 99,
     "DE": 4,
@@ -5459,7 +5459,7 @@
     "Al-Monitor": 16,
     "The New York Times": 15,
     "Bloomberg.com": 25,
-    "BBC": 13,
+    "BBC": 14,
     "Gulf News": 1,
     "Iran International": 2,
     "Asia News Network": 1,
@@ -5638,7 +5638,7 @@
     ],
     "BBC": [
      0,
-     13,
+     14,
      0
     ],
     "Gulf News": [
