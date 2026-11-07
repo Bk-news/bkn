@@ -5431,16 +5431,16 @@
    }
   },
   "2026-11-06": {
-   "total": 461,
-   "news": 453,
+   "total": 463,
+   "news": 455,
    "articles": 8,
    "positive": 0,
-   "neutral": 461,
+   "neutral": 463,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 94,
-    "SA": 93,
+    "GB": 95,
+    "SA": 94,
     "US": 100,
     "DE": 4,
     "HK": 6,
@@ -5450,8 +5450,8 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Reuters": 64,
-    "Arab News": 94,
+    "Reuters": 65,
+    "Arab News": 95,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
     "The Guardian": 8,
@@ -5594,12 +5594,12 @@
     ],
     "Reuters": [
      0,
-     64,
+     65,
      0
     ],
     "Arab News": [
      0,
-     94,
+     95,
      0
     ],
     "Al Jazeera": [
@@ -6270,16 +6270,16 @@
    }
   },
   "2026-11-07": {
-   "total": 15,
-   "news": 15,
+   "total": 16,
+   "news": 16,
    "articles": 0,
    "positive": 0,
-   "neutral": 15,
+   "neutral": 16,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 4,
-    "SA": 5,
+    "SA": 6,
     "US": 3,
     "FR": 1
    },
@@ -6287,7 +6287,7 @@
    "sources": {
     "Reuters": 1,
     "OpenCritic": 1,
-    "Arab News": 5,
+    "Arab News": 6,
     "AP News": 1,
     "Al-Monitor": 1,
     "Le Monde.fr": 1,
@@ -6308,7 +6308,7 @@
     ],
     "Arab News": [
      0,
-     5,
+     6,
      0
     ],
     "AP News": [
