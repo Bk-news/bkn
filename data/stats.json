@@ -6330,16 +6330,16 @@
    }
   },
   "2026-11-07": {
-   "total": 173,
-   "news": 171,
+   "total": 176,
+   "news": 174,
    "articles": 2,
    "positive": 0,
-   "neutral": 173,
+   "neutral": 176,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 26,
-    "SA": 21,
+    "SA": 22,
     "US": 28,
     "FR": 6
    },
@@ -6347,7 +6347,7 @@
    "sources": {
     "Reuters": 6,
     "OpenCritic": 1,
-    "Arab News": 24,
+    "Arab News": 25,
     "AP News": 8,
     "Al-Monitor": 11,
     "Le Monde.fr": 5,
@@ -6409,7 +6409,7 @@
     "L'Orient Today": 1,
     "Middle East Monitor": 1,
     "Egyptian Streets": 1,
-    "Hindustan Times": 1,
+    "Hindustan Times": 2,
     "Arab Times Kuwait News": 1,
     "Moneycontrol.com": 1,
     "Audacy": 1,
@@ -6426,7 +6426,8 @@
     "Pro Wrestling Dot Net": 1,
     "Transfermarkt": 1,
     "Breakingthenews.net": 1,
-    "The New Arab": 1
+    "The New Arab": 1,
+    "X": 1
    },
    "sourceTone": {
     "Reuters": [
@@ -6441,7 +6442,7 @@
     ],
     "Arab News": [
      0,
-     24,
+     25,
      0
     ],
     "AP News": [
@@ -6751,7 +6752,7 @@
     ],
     "Hindustan Times": [
      0,
-     1,
+     2,
      0
     ],
     "Arab Times Kuwait News": [
@@ -6835,6 +6836,11 @@
      0
     ],
     "The New Arab": [
+     0,
+     1,
+     0
+    ],
+    "X": [
      0,
      1,
      0
