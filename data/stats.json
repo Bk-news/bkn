@@ -5431,15 +5431,15 @@
    }
   },
   "2026-11-06": {
-   "total": 511,
-   "news": 502,
+   "total": 512,
+   "news": 503,
    "articles": 9,
    "positive": 0,
-   "neutral": 511,
+   "neutral": 512,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 119,
+    "GB": 120,
     "SA": 100,
     "US": 106,
     "DE": 4,
@@ -5471,7 +5471,7 @@
     "Middle East Eye": 3,
     "digitimes": 1,
     "Anadolu Ajansı": 2,
-    "Financial Times": 17,
+    "Financial Times": 18,
     "UA.NEWS": 3,
     "GamesRadar+": 1,
     "Spiegel": 4,
@@ -5709,7 +5709,7 @@
     ],
     "Financial Times": [
      0,
-     17,
+     18,
      0
     ],
     "UA.NEWS": [
@@ -6330,17 +6330,17 @@
    }
   },
   "2026-11-07": {
-   "total": 185,
-   "news": 183,
+   "total": 186,
+   "news": 184,
    "articles": 2,
    "positive": 0,
-   "neutral": 185,
+   "neutral": 186,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 26,
     "SA": 22,
-    "US": 30,
+    "US": 31,
     "FR": 6
    },
    "topics": {},
@@ -6388,7 +6388,7 @@
     "Envanter Medya": 1,
     "Saudi Gazette": 2,
     "Prothom Alo English": 1,
-    "Bloomberg.com": 2,
+    "Bloomberg.com": 3,
     "Yahoo Sports": 4,
     "LiveScore": 2,
     "The Washington Post": 2,
@@ -6649,7 +6649,7 @@
     ],
     "Bloomberg.com": [
      0,
-     2,
+     3,
      0
     ],
     "Yahoo Sports": [
