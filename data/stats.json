@@ -5431,15 +5431,15 @@
    }
   },
   "2026-11-06": {
-   "total": 452,
-   "news": 444,
+   "total": 453,
+   "news": 445,
    "articles": 8,
    "positive": 0,
-   "neutral": 452,
+   "neutral": 453,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 91,
+    "GB": 92,
     "SA": 91,
     "US": 99,
     "DE": 4,
@@ -5454,7 +5454,7 @@
     "Arab News": 91,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
-    "The Guardian": 7,
+    "The Guardian": 8,
     "WSJ": 27,
     "Al-Monitor": 16,
     "The New York Times": 15,
@@ -5613,7 +5613,7 @@
     ],
     "The Guardian": [
      0,
-     7,
+     8,
      0
     ],
     "WSJ": [
@@ -6264,17 +6264,17 @@
    }
   },
   "2026-11-07": {
-   "total": 11,
-   "news": 11,
+   "total": 12,
+   "news": 12,
    "articles": 0,
    "positive": 0,
-   "neutral": 11,
+   "neutral": 12,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 3,
     "SA": 3,
-    "US": 2,
+    "US": 3,
     "FR": 1
    },
    "topics": {},
@@ -6286,7 +6286,8 @@
     "Al-Monitor": 1,
     "Le Monde.fr": 1,
     "BBC": 2,
-    "Nacionale": 1
+    "Nacionale": 1,
+    "WSJ": 1
    },
    "sourceTone": {
     "Reuters": [
@@ -6325,6 +6326,11 @@
      0
     ],
     "Nacionale": [
+     0,
+     1,
+     0
+    ],
+    "WSJ": [
      0,
      1,
      0
