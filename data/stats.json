@@ -6342,11 +6342,11 @@
    }
   },
   "2026-11-07": {
-   "total": 278,
-   "news": 276,
+   "total": 280,
+   "news": 278,
    "articles": 2,
    "positive": 0,
-   "neutral": 278,
+   "neutral": 280,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -6359,7 +6359,7 @@
    "sources": {
     "Reuters": 26,
     "OpenCritic": 1,
-    "Arab News": 42,
+    "Arab News": 43,
     "AP News": 8,
     "Al-Monitor": 12,
     "Le Monde.fr": 5,
@@ -6441,7 +6441,7 @@
     "The New Arab": 1,
     "X": 1,
     "الهيئة العامة للاستعلامات": 1,
-    "Arab News PK": 2,
+    "Arab News PK": 3,
     "Cyprus Inform": 1,
     "The Straits Times": 1,
     "TodayPress.tv": 2,
@@ -6477,7 +6477,7 @@
     ],
     "Arab News": [
      0,
-     42,
+     43,
      0
     ],
     "AP News": [
@@ -6887,7 +6887,7 @@
     ],
     "Arab News PK": [
      0,
-     2,
+     3,
      0
     ],
     "Cyprus Inform": [
