@@ -5431,11 +5431,11 @@
    }
   },
   "2026-11-06": {
-   "total": 486,
-   "news": 477,
+   "total": 488,
+   "news": 479,
    "articles": 9,
    "positive": 0,
-   "neutral": 486,
+   "neutral": 488,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -5589,7 +5589,9 @@
     "The News Pakistan": 1,
     "Raw Story": 1,
     "NDTV": 1,
-    "Yahoo Sports": 1
+    "Yahoo Sports": 1,
+    "HKTDC Research": 1,
+    "Middle East Monitor": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -6293,6 +6295,16 @@
      0
     ],
     "Yahoo Sports": [
+     0,
+     1,
+     0
+    ],
+    "HKTDC Research": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Monitor": [
      0,
      1,
      0
