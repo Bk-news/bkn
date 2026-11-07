@@ -6318,18 +6318,18 @@
    }
   },
   "2026-11-07": {
-   "total": 62,
-   "news": 61,
+   "total": 64,
+   "news": 63,
    "articles": 1,
    "positive": 0,
-   "neutral": 62,
+   "neutral": 64,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 12,
     "SA": 8,
     "US": 14,
-    "FR": 3
+    "FR": 4
    },
    "topics": {},
    "sources": {
@@ -6367,7 +6367,9 @@
     "News On AIR": 1,
     "The Eastleigh Voice": 1,
     "Daily Tribune": 1,
-    "https://houseofsaud.com/": 1
+    "https://houseofsaud.com/": 1,
+    "France 24": 1,
+    "NDTV Sports": 1
    },
    "sourceTone": {
     "Reuters": [
@@ -6541,6 +6543,16 @@
      0
     ],
     "https://houseofsaud.com/": [
+     0,
+     1,
+     0
+    ],
+    "France 24": [
+     0,
+     1,
+     0
+    ],
+    "NDTV Sports": [
      0,
      1,
      0
