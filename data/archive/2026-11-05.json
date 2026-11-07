@@ -212,6 +212,27 @@
    "mt": true
   },
   {
+   "id": "c4c2c8a7c4200219",
+   "origin": "rss",
+   "source": "The New York Times",
+   "author": "",
+   "title_ar": "مات سوليفان - الصفحة 8",
+   "title_orig": "Matt Sullivan - Page 8",
+   "title_en": "Matt Sullivan - Page 8",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YUWVXLWc3d0cyWEJIeUNTbUF2UXRCZ0xHWDY5N18wb0tFQUVxMG96MHRzOVJkUG5PcWlTNmhYQWFZX0h5Y0FfUWxBMjhaY1NoSkhsMWkzd013RVU?oc=5",
+   "published": "2026-11-05T23:23:52.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "Matt Sullivan - Page 8 &nbsp;&nbsp; The New York Times",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "4176efa98428afd3",
    "origin": "rss",
    "source": "Al-Monitor",

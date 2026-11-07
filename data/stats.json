@@ -4556,16 +4556,16 @@
    }
   },
   "2026-11-05": {
-   "total": 689,
-   "news": 660,
+   "total": 690,
+   "news": 661,
    "articles": 29,
    "positive": 0,
-   "neutral": 689,
+   "neutral": 690,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "SA": 88,
-    "US": 174,
+    "US": 175,
     "GB": 205,
     "HK": 8,
     "FR": 11,
@@ -4585,7 +4585,7 @@
     "South China Morning Post": 8,
     "Myanmar International TV": 1,
     "AP News": 22,
-    "The New York Times": 27,
+    "The New York Times": 28,
     "The Washington Post": 15,
     "Arab News PK": 3,
     "The Express Tribune": 3,
@@ -4775,7 +4775,7 @@
     ],
     "The New York Times": [
      0,
-     27,
+     28,
      0
     ],
     "The Washington Post": [
@@ -6318,16 +6318,16 @@
    }
   },
   "2026-11-07": {
-   "total": 65,
-   "news": 64,
+   "total": 67,
+   "news": 66,
    "articles": 1,
    "positive": 0,
-   "neutral": 65,
+   "neutral": 67,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 12,
-    "SA": 8,
+    "SA": 9,
     "US": 14,
     "FR": 4
    },
@@ -6335,7 +6335,7 @@
    "sources": {
     "Reuters": 1,
     "OpenCritic": 1,
-    "Arab News": 9,
+    "Arab News": 10,
     "AP News": 3,
     "Al-Monitor": 7,
     "Le Monde.fr": 3,
@@ -6370,7 +6370,8 @@
     "https://houseofsaud.com/": 1,
     "France 24": 1,
     "NDTV Sports": 1,
-    "Ahram Online": 1
+    "Ahram Online": 1,
+    "Egyptian Gazette": 1
    },
    "sourceTone": {
     "Reuters": [
@@ -6385,7 +6386,7 @@
     ],
     "Arab News": [
      0,
-     9,
+     10,
      0
     ],
     "AP News": [
@@ -6559,6 +6560,11 @@
      0
     ],
     "Ahram Online": [
+     0,
+     1,
+     0
+    ],
+    "Egyptian Gazette": [
      0,
      1,
      0
