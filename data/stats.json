@@ -6342,17 +6342,17 @@
    }
   },
   "2026-11-07": {
-   "total": 269,
-   "news": 267,
+   "total": 273,
+   "news": 271,
    "articles": 2,
    "positive": 0,
-   "neutral": 269,
+   "neutral": 273,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 51,
+    "GB": 52,
     "SA": 36,
-    "US": 33,
+    "US": 34,
     "FR": 6
    },
    "topics": {},
@@ -6367,10 +6367,10 @@
     "Nacionale": 1,
     "WSJ": 2,
     "وكالة الأنباء السعودية": 2,
-    "Financial Times": 13,
+    "Financial Times": 14,
     "The Arab Weekly": 1,
     "The Guardian": 4,
-    "The New York Times": 5,
+    "The New York Times": 6,
     "CNN": 2,
     "The Economist": 2,
     "Daily Observer": 2,
@@ -6391,7 +6391,7 @@
     "News On AIR": 1,
     "The Eastleigh Voice": 1,
     "Daily Tribune": 2,
-    "https://houseofsaud.com/": 4,
+    "https://houseofsaud.com/": 5,
     "France 24": 1,
     "NDTV Sports": 1,
     "Ahram Online": 4,
@@ -6441,7 +6441,7 @@
     "The New Arab": 1,
     "X": 1,
     "الهيئة العامة للاستعلامات": 1,
-    "Arab News PK": 1,
+    "Arab News PK": 2,
     "Cyprus Inform": 1,
     "The Straits Times": 1,
     "TodayPress.tv": 2,
@@ -6516,7 +6516,7 @@
     ],
     "Financial Times": [
      0,
-     13,
+     14,
      0
     ],
     "The Arab Weekly": [
@@ -6531,7 +6531,7 @@
     ],
     "The New York Times": [
      0,
-     5,
+     6,
      0
     ],
     "CNN": [
@@ -6636,7 +6636,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     4,
+     5,
      0
     ],
     "France 24": [
@@ -6886,7 +6886,7 @@
     ],
     "Arab News PK": [
      0,
-     1,
+     2,
      0
     ],
     "Cyprus Inform": [
