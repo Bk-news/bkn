@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 667,
-   "news": 638,
+   "total": 671,
+   "news": 642,
    "articles": 29,
    "positive": 0,
-   "neutral": 667,
+   "neutral": 671,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "SA": 88,
     "US": 174,
-    "GB": 183,
+    "GB": 187,
     "HK": 8,
     "FR": 11,
     "DE": 1,
@@ -4580,7 +4580,7 @@
     "Deadline": 2,
     "Al Majalla": 1,
     "Al-Monitor": 44,
-    "Reuters": 91,
+    "Reuters": 94,
     "WSJ": 42,
     "South China Morning Post": 8,
     "Myanmar International TV": 1,
@@ -4607,7 +4607,7 @@
     "Report.az": 1,
     "Oz Arab Media": 1,
     "Yemen Online": 2,
-    "BBC": 15,
+    "BBC": 16,
     "Financial Times": 43,
     "Bloomberg.com": 17,
     "France 24": 4,
@@ -4750,7 +4750,7 @@
     ],
     "Reuters": [
      0,
-     91,
+     94,
      0
     ],
     "WSJ": [
@@ -4885,7 +4885,7 @@
     ],
     "BBC": [
      0,
-     15,
+     16,
      0
     ],
     "Financial Times": [
@@ -5431,34 +5431,34 @@
    }
   },
   "2026-11-06": {
-   "total": 466,
-   "news": 458,
-   "articles": 8,
+   "total": 475,
+   "news": 466,
+   "articles": 9,
    "positive": 0,
-   "neutral": 466,
+   "neutral": 475,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 97,
-    "SA": 95,
-    "US": 100,
+    "GB": 99,
+    "SA": 97,
+    "US": 102,
     "DE": 4,
     "HK": 6,
-    "FR": 6,
+    "FR": 7,
     "JP": 1
    },
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Reuters": 67,
-    "Arab News": 96,
+    "Reuters": 68,
+    "Arab News": 98,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
     "The Guardian": 8,
-    "WSJ": 27,
+    "WSJ": 28,
     "Al-Monitor": 16,
     "The New York Times": 15,
-    "Bloomberg.com": 25,
+    "Bloomberg.com": 26,
     "BBC": 14,
     "Gulf News": 1,
     "Iran International": 2,
@@ -5534,7 +5534,7 @@
     "Atlantic Council": 7,
     "The Washington Post": 4,
     "Boston Herald": 1,
-    "Le Monde.fr": 2,
+    "Le Monde.fr": 3,
     "Game Developer": 1,
     "GamesBeat": 1,
     "Мілітарний": 1,
@@ -5584,7 +5584,10 @@
     "CBS Sports": 1,
     "Table.Briefings": 1,
     "Wccftech": 1,
-    "يمن مونيتور": 2
+    "يمن مونيتور": 2,
+    "The Economist": 1,
+    "The News Pakistan": 1,
+    "Raw Story": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -5594,12 +5597,12 @@
     ],
     "Reuters": [
      0,
-     67,
+     68,
      0
     ],
     "Arab News": [
      0,
-     96,
+     98,
      0
     ],
     "Al Jazeera": [
@@ -5619,7 +5622,7 @@
     ],
     "WSJ": [
      0,
-     27,
+     28,
      0
     ],
     "Al-Monitor": [
@@ -5634,7 +5637,7 @@
     ],
     "Bloomberg.com": [
      0,
-     25,
+     26,
      0
     ],
     "BBC": [
@@ -6014,7 +6017,7 @@
     ],
     "Le Monde.fr": [
      0,
-     2,
+     3,
      0
     ],
     "Game Developer": [
@@ -6266,34 +6269,59 @@
      0,
      2,
      0
+    ],
+    "The Economist": [
+     0,
+     1,
+     0
+    ],
+    "The News Pakistan": [
+     0,
+     1,
+     0
+    ],
+    "Raw Story": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-07": {
-   "total": 16,
-   "news": 16,
-   "articles": 0,
+   "total": 43,
+   "news": 42,
+   "articles": 1,
    "positive": 0,
-   "neutral": 16,
+   "neutral": 43,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 4,
-    "SA": 6,
-    "US": 3,
-    "FR": 1
+    "GB": 11,
+    "SA": 8,
+    "US": 13,
+    "FR": 3
    },
    "topics": {},
    "sources": {
     "Reuters": 1,
     "OpenCritic": 1,
-    "Arab News": 6,
-    "AP News": 1,
-    "Al-Monitor": 1,
-    "Le Monde.fr": 1,
+    "Arab News": 8,
+    "AP News": 3,
+    "Al-Monitor": 6,
+    "Le Monde.fr": 3,
     "BBC": 3,
     "Nacionale": 1,
-    "WSJ": 1
+    "WSJ": 1,
+    "وكالة الأنباء السعودية": 1,
+    "Financial Times": 4,
+    "The Arab Weekly": 1,
+    "The Guardian": 2,
+    "The New York Times": 2,
+    "CNN": 2,
+    "The Economist": 1,
+    "Daily Observer": 1,
+    "سانا": 1,
+    "صوت الإمارات": 1
    },
    "sourceTone": {
     "Reuters": [
@@ -6308,22 +6336,22 @@
     ],
     "Arab News": [
      0,
-     6,
+     8,
      0
     ],
     "AP News": [
      0,
-     1,
+     3,
      0
     ],
     "Al-Monitor": [
      0,
-     1,
+     6,
      0
     ],
     "Le Monde.fr": [
      0,
-     1,
+     3,
      0
     ],
     "BBC": [
@@ -6337,6 +6365,56 @@
      0
     ],
     "WSJ": [
+     0,
+     1,
+     0
+    ],
+    "وكالة الأنباء السعودية": [
+     0,
+     1,
+     0
+    ],
+    "Financial Times": [
+     0,
+     4,
+     0
+    ],
+    "The Arab Weekly": [
+     0,
+     1,
+     0
+    ],
+    "The Guardian": [
+     0,
+     2,
+     0
+    ],
+    "The New York Times": [
+     0,
+     2,
+     0
+    ],
+    "CNN": [
+     0,
+     2,
+     0
+    ],
+    "The Economist": [
+     0,
+     1,
+     0
+    ],
+    "Daily Observer": [
+     0,
+     1,
+     0
+    ],
+    "سانا": [
+     0,
+     1,
+     0
+    ],
+    "صوت الإمارات": [
      0,
      1,
      0
