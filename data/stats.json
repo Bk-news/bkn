@@ -6342,25 +6342,25 @@
    }
   },
   "2026-11-07": {
-   "total": 326,
-   "news": 324,
+   "total": 328,
+   "news": 326,
    "articles": 2,
    "positive": 0,
-   "neutral": 326,
+   "neutral": 328,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 63,
-    "SA": 47,
+    "GB": 64,
+    "SA": 48,
     "US": 40,
     "FR": 7,
     "HK": 1
    },
    "topics": {},
    "sources": {
-    "Reuters": 32,
+    "Reuters": 33,
     "OpenCritic": 1,
-    "Arab News": 54,
+    "Arab News": 55,
     "AP News": 9,
     "Al-Monitor": 14,
     "Le Monde.fr": 5,
@@ -6480,7 +6480,7 @@
    "sourceTone": {
     "Reuters": [
      0,
-     32,
+     33,
      0
     ],
     "OpenCritic": [
@@ -6490,7 +6490,7 @@
     ],
     "Arab News": [
      0,
-     54,
+     55,
      0
     ],
     "AP News": [
