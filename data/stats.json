@@ -6318,11 +6318,11 @@
    }
   },
   "2026-11-07": {
-   "total": 70,
-   "news": 69,
+   "total": 72,
+   "news": 71,
    "articles": 1,
    "positive": 0,
-   "neutral": 70,
+   "neutral": 72,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -6366,8 +6366,8 @@
     "Bd24live": 1,
     "News On AIR": 1,
     "The Eastleigh Voice": 1,
-    "Daily Tribune": 1,
-    "https://houseofsaud.com/": 1,
+    "Daily Tribune": 2,
+    "https://houseofsaud.com/": 2,
     "France 24": 1,
     "NDTV Sports": 1,
     "Ahram Online": 1,
@@ -6544,12 +6544,12 @@
     ],
     "Daily Tribune": [
      0,
-     1,
+     2,
      0
     ],
     "https://houseofsaud.com/": [
      0,
-     1,
+     2,
      0
     ],
     "France 24": [
