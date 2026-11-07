@@ -2,6 +2,27 @@
  "day": "2026-11-07",
  "items": [
   {
+   "id": "330c479b07f8b9e8",
+   "origin": "rss",
+   "source": "Prothom Alo English",
+   "author": "",
+   "title_ar": "مقتل 7 بنجلاديشيين وإصابة 15 آخرين في حادث سير بالسعودية",
+   "title_orig": "7 Bangladeshis killed, 15 injured in road accident in Saudi Arabia",
+   "title_en": "7 Bangladeshis killed, 15 injured in road accident in Saudi Arabia",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VWGdLeGJZVTFCS1ZXRHRWYm1ESnlydVJZdnR3aU5lbFhBcEl4Zk1jZEJ6WVV1Ri00OU9GU09zQzRnMkY0X2pBNXdwaDU2QVhWeDlDREgwczVpYXPSAWhBVV95cUxORnl1Yjl2cU5JU2JaSUF3MG1sdDRVajU2UDA4cEh5SElGUmdMWTFKbDdxVmhoOHZEU01zQUNyVzNKNGFETElYX2Jxc3VWdzBmVzRlb0VsQWNMSWdQVWJ4S0dMRGV2bzU2cQ?oc=5",
+   "published": "2026-11-07T09:54:49.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "",
+   "pending": true,
+   "desc": "7 Bangladeshis killed, 15 injured in road accident in Saudi Arabia &nbsp;&nbsp; Prothom Alo English",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "18ca6967fbcde8f0",
    "origin": "rss",
    "source": "https://houseofsaud.com/",
