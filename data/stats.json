@@ -6270,16 +6270,16 @@
    }
   },
   "2026-11-07": {
-   "total": 13,
-   "news": 13,
+   "total": 14,
+   "news": 14,
    "articles": 0,
    "positive": 0,
-   "neutral": 13,
+   "neutral": 14,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 3,
-    "SA": 4,
+    "SA": 5,
     "US": 3,
     "FR": 1
    },
@@ -6287,7 +6287,7 @@
    "sources": {
     "Reuters": 1,
     "OpenCritic": 1,
-    "Arab News": 4,
+    "Arab News": 5,
     "AP News": 1,
     "Al-Monitor": 1,
     "Le Monde.fr": 1,
@@ -6308,7 +6308,7 @@
     ],
     "Arab News": [
      0,
-     4,
+     5,
      0
     ],
     "AP News": [
