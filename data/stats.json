@@ -6330,11 +6330,11 @@
    }
   },
   "2026-11-07": {
-   "total": 170,
-   "news": 168,
+   "total": 171,
+   "news": 169,
    "articles": 2,
    "positive": 0,
-   "neutral": 170,
+   "neutral": 171,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -6424,7 +6424,8 @@
     "The Star": 1,
     "The Daily Star": 1,
     "Pro Wrestling Dot Net": 1,
-    "Transfermarkt": 1
+    "Transfermarkt": 1,
+    "Breakingthenews.net": 1
    },
    "sourceTone": {
     "Reuters": [
@@ -6823,6 +6824,11 @@
      0
     ],
     "Transfermarkt": [
+     0,
+     1,
+     0
+    ],
+    "Breakingthenews.net": [
      0,
      1,
      0

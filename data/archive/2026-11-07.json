@@ -2,6 +2,27 @@
  "day": "2026-11-07",
  "items": [
   {
+   "id": "89dd581a14f34ebf",
+   "origin": "rss",
+   "source": "Breakingthenews.net",
+   "author": "",
+   "title_ar": "وقد ترسل سوريا آلاف القوات لمحاربة الحوثيين",
+   "title_orig": "Syria may send thousands of troops to fight Houthis",
+   "title_en": "Syria may send thousands of troops to fight Houthis",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb0VvekxtOFUxS3pNNlpPREZvcWFGaENTRVNjTzRxZFNLR1BBU3JETk41ZzEzODVpYjcwbG9Rc1Jldk9ZbmlxaEtSTVNCbHUxU1cxVDlTUjZLSEVnQk1JRW5fa0k3LXFvT2FkcE9rVUdSN1E2VWpmY2JuTXBhYjUzV3VObGFVYmtlOFhLXzVvZERSaE8xZEFydWgtVGE?oc=5",
+   "published": "2026-11-07T16:00:00.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "",
+   "pending": true,
+   "desc": "Syria may send thousands of troops to fight Houthis &nbsp;&nbsp; Breakingthenews.net",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "551543a398d56ffd",
    "origin": "rss",
    "source": "Arab News",
