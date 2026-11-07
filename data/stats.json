@@ -5431,17 +5431,17 @@
    }
   },
   "2026-11-06": {
-   "total": 455,
-   "news": 447,
+   "total": 456,
+   "news": 448,
    "articles": 8,
    "positive": 0,
-   "neutral": 455,
+   "neutral": 456,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 94,
     "SA": 91,
-    "US": 99,
+    "US": 100,
     "DE": 4,
     "HK": 6,
     "FR": 6,
@@ -5532,7 +5532,7 @@
     "Deccan Chronicle": 1,
     "Egypt Today": 2,
     "Atlantic Council": 7,
-    "The Washington Post": 3,
+    "The Washington Post": 4,
     "Boston Herald": 1,
     "Le Monde.fr": 2,
     "Game Developer": 1,
@@ -6003,7 +6003,7 @@
     ],
     "The Washington Post": [
      0,
-     3,
+     4,
      0
     ],
     "Boston Herald": [
