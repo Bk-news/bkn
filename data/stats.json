@@ -5431,15 +5431,15 @@
    }
   },
   "2026-11-06": {
-   "total": 510,
-   "news": 501,
+   "total": 511,
+   "news": 502,
    "articles": 9,
    "positive": 0,
-   "neutral": 510,
+   "neutral": 511,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 118,
+    "GB": 119,
     "SA": 100,
     "US": 106,
     "DE": 4,
@@ -5471,7 +5471,7 @@
     "Middle East Eye": 3,
     "digitimes": 1,
     "Anadolu Ajansı": 2,
-    "Financial Times": 16,
+    "Financial Times": 17,
     "UA.NEWS": 3,
     "GamesRadar+": 1,
     "Spiegel": 4,
@@ -5709,7 +5709,7 @@
     ],
     "Financial Times": [
      0,
-     16,
+     17,
      0
     ],
     "UA.NEWS": [
@@ -6330,17 +6330,17 @@
    }
   },
   "2026-11-07": {
-   "total": 182,
-   "news": 180,
+   "total": 184,
+   "news": 182,
    "articles": 2,
    "positive": 0,
-   "neutral": 182,
+   "neutral": 184,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 26,
     "SA": 22,
-    "US": 29,
+    "US": 30,
     "FR": 6
    },
    "topics": {},
@@ -6358,7 +6358,7 @@
     "Financial Times": 10,
     "The Arab Weekly": 1,
     "The Guardian": 2,
-    "The New York Times": 3,
+    "The New York Times": 4,
     "CNN": 2,
     "The Economist": 2,
     "Daily Observer": 2,
@@ -6428,7 +6428,8 @@
     "Breakingthenews.net": 1,
     "The New Arab": 1,
     "X": 1,
-    "الهيئة العامة للاستعلامات": 1
+    "الهيئة العامة للاستعلامات": 1,
+    "Arab News PK": 1
    },
    "sourceTone": {
     "Reuters": [
@@ -6498,7 +6499,7 @@
     ],
     "The New York Times": [
      0,
-     3,
+     4,
      0
     ],
     "CNN": [
@@ -6847,6 +6848,11 @@
      0
     ],
     "الهيئة العامة للاستعلامات": [
+     0,
+     1,
+     0
+    ],
+    "Arab News PK": [
      0,
      1,
      0
