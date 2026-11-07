@@ -5431,11 +5431,11 @@
    }
   },
   "2026-11-06": {
-   "total": 493,
-   "news": 484,
+   "total": 494,
+   "news": 485,
    "articles": 9,
    "positive": 0,
-   "neutral": 493,
+   "neutral": 494,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -5592,7 +5592,8 @@
     "Yahoo Sports": 1,
     "HKTDC Research": 1,
     "Middle East Monitor": 1,
-    "Lee News Central": 1
+    "Lee News Central": 1,
+    "Yahoo": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -6311,6 +6312,11 @@
      0
     ],
     "Lee News Central": [
+     0,
+     1,
+     0
+    ],
+    "Yahoo": [
      0,
      1,
      0
