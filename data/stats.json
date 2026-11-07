@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 701,
-   "news": 672,
+   "total": 711,
+   "news": 682,
    "articles": 29,
    "positive": 0,
-   "neutral": 701,
+   "neutral": 711,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "SA": 88,
     "US": 177,
-    "GB": 214,
+    "GB": 224,
     "HK": 8,
     "FR": 11,
     "DE": 1,
@@ -4580,7 +4580,7 @@
     "Deadline": 2,
     "Al Majalla": 1,
     "Al-Monitor": 44,
-    "Reuters": 107,
+    "Reuters": 117,
     "WSJ": 42,
     "South China Morning Post": 8,
     "Myanmar International TV": 1,
@@ -4750,7 +4750,7 @@
     ],
     "Reuters": [
      0,
-     107,
+     117,
      0
     ],
     "WSJ": [
@@ -6342,15 +6342,15 @@
    }
   },
   "2026-11-07": {
-   "total": 265,
-   "news": 263,
+   "total": 266,
+   "news": 264,
    "articles": 2,
    "positive": 0,
-   "neutral": 265,
+   "neutral": 266,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 49,
+    "GB": 50,
     "SA": 36,
     "US": 33,
     "FR": 6
@@ -6369,7 +6369,7 @@
     "وكالة الأنباء السعودية": 2,
     "Financial Times": 12,
     "The Arab Weekly": 1,
-    "The Guardian": 3,
+    "The Guardian": 4,
     "The New York Times": 5,
     "CNN": 2,
     "The Economist": 2,
@@ -6524,7 +6524,7 @@
     ],
     "The Guardian": [
      0,
-     3,
+     4,
      0
     ],
     "The New York Times": [

@@ -611,6 +611,27 @@
    "mt": true
   },
   {
+   "id": "04358b39d90cf23f",
+   "origin": "rss",
+   "source": "The Guardian",
+   "author": "",
+   "title_ar": "الشرق الأوسط وشمال أفريقيا",
+   "title_orig": "Middle East and north Africa",
+   "title_en": "Middle East and north Africa",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mUXo4RzBTYnBSblRjT0IyTFFSSWE0b2ZyQlR6RHVPMGdMd1dHTDhYTGxsXzQ4MERJUTNsV2c1YzVxQnA1VFBEc0VlYmgtcDBzSFUtZ1JZWQ?oc=5",
+   "published": "2026-11-07T17:56:01.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "Middle East and north Africa &nbsp;&nbsp; The Guardian",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "a6fc2c9f201ee01e",
    "origin": "rss",
    "source": "India Today",
