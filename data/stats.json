@@ -6270,15 +6270,15 @@
    }
   },
   "2026-11-07": {
-   "total": 14,
-   "news": 14,
+   "total": 15,
+   "news": 15,
    "articles": 0,
    "positive": 0,
-   "neutral": 14,
+   "neutral": 15,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 3,
+    "GB": 4,
     "SA": 5,
     "US": 3,
     "FR": 1
@@ -6291,7 +6291,7 @@
     "AP News": 1,
     "Al-Monitor": 1,
     "Le Monde.fr": 1,
-    "BBC": 2,
+    "BBC": 3,
     "Nacionale": 1,
     "WSJ": 1
    },
@@ -6328,7 +6328,7 @@
     ],
     "BBC": [
      0,
-     2,
+     3,
      0
     ],
     "Nacionale": [
