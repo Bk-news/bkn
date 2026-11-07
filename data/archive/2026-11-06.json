@@ -2,6 +2,27 @@
  "day": "2026-11-06",
  "items": [
   {
+   "id": "38f0b19d729790b4",
+   "origin": "rss",
+   "source": "Reuters",
+   "author": "",
+   "title_ar": "انهيار مبنى من أربعة طوابق في ساو باولو، وإصابة أربعة",
+   "title_orig": "Four-story building collapses in Sao Paulo, four injured",
+   "title_en": "Four-story building collapses in Sao Paulo, four injured",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdkRTaFNMU09QY0lHNW9mTF9SYlZqa0pJbWRRRWdCV09naDk2M1AzWl9LZDByTmVoN1V1cGI3T21zaG9zZzl3ZDZnTmVoS01pWDBjN1VDdzBoMkR2ZVVoNkJEWWkwWDBSd29RTmpKNDVlaDhoS2FGbzNuNmF2MXlPZ3lOcHRJam15VnRiVmY3eFRwYzl1?oc=5",
+   "published": "2026-11-06T23:49:58.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "Four-story building collapses in Sao Paulo, four injured &nbsp;&nbsp; Reuters",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "5f5314fa5138de11",
    "origin": "rss",
    "source": "The New York Times",
