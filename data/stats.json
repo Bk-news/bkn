@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 692,
-   "news": 663,
+   "total": 693,
+   "news": 664,
    "articles": 29,
    "positive": 0,
-   "neutral": 692,
+   "neutral": 693,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "SA": 88,
     "US": 175,
-    "GB": 207,
+    "GB": 208,
     "HK": 8,
     "FR": 11,
     "DE": 1,
@@ -4608,7 +4608,7 @@
     "Oz Arab Media": 1,
     "Yemen Online": 2,
     "BBC": 16,
-    "Financial Times": 53,
+    "Financial Times": 54,
     "Bloomberg.com": 17,
     "France 24": 4,
     "Le Monde.fr": 8,
@@ -4890,7 +4890,7 @@
     ],
     "Financial Times": [
      0,
-     53,
+     54,
      0
     ],
     "Bloomberg.com": [
