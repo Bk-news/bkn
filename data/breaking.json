@@ -1,5 +1,17 @@
 [
  {
+  "id": "8f9b07f043316cfd",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "سنتكوم: مكافأة 20 مليون دولار لمن يدلي بمعلومات عن خبراء ومنشآت ومعدات إيران النووية",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152724",
+  "published": "2026-11-07T00:07:02.000Z",
+  "subject": "saudi",
+  "added": "2026-11-07T00:07:02.000Z"
+ },
+ {
   "id": "92f5193a5ae73e2b",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -46,17 +58,5 @@
   "published": "2026-11-06T23:12:02.000Z",
   "subject": "saudi",
   "added": "2026-11-06T23:12:02.000Z"
- },
- {
-  "id": "200c5218922943a6",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "الجيش الإيراني يقول إنه أسقط مسيّرة أميركية في أجواء جزيرة قشم",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152719",
-  "published": "2026-11-06T23:07:01.000Z",
-  "subject": "saudi",
-  "added": "2026-11-06T23:07:01.000Z"
  }
 ]
