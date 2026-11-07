@@ -5431,17 +5431,17 @@
    }
   },
   "2026-11-06": {
-   "total": 494,
-   "news": 485,
+   "total": 495,
+   "news": 486,
    "articles": 9,
    "positive": 0,
-   "neutral": 494,
+   "neutral": 495,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 106,
     "SA": 100,
-    "US": 103,
+    "US": 104,
     "DE": 4,
     "HK": 6,
     "FR": 7,
@@ -5457,7 +5457,7 @@
     "The Guardian": 8,
     "WSJ": 28,
     "Al-Monitor": 16,
-    "The New York Times": 16,
+    "The New York Times": 17,
     "Bloomberg.com": 26,
     "BBC": 14,
     "Gulf News": 1,
@@ -5638,7 +5638,7 @@
     ],
     "The New York Times": [
      0,
-     16,
+     17,
      0
     ],
     "Bloomberg.com": [

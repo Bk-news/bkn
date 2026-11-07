@@ -3698,6 +3698,27 @@
    "mt": true
   },
   {
+   "id": "f4b1a90ca6634d01",
+   "origin": "rss",
+   "source": "The New York Times",
+   "author": "",
+   "title_ar": "التصحيحات - الصفحة 4",
+   "title_orig": "Corrections - Page 4",
+   "title_en": "Corrections - Page 4",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQOXNMM3MtdVRyaEdCcm9MZDI0aExEd0duQUlmOXo5bUo2SXFKVUJGbmxCaGxCTm5DRjFRM0RzUUZ0Q0pTd2lrYlY2cktiYnR5cW0tYXMxc3g0cE1aUTg0?oc=5",
+   "published": "2026-11-06T14:59:56.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "Corrections - Page 4 &nbsp;&nbsp; The New York Times",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "3af594327f1b5aba",
    "origin": "rss",
    "source": "Reuters",
