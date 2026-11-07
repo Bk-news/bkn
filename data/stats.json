@@ -6342,15 +6342,15 @@
    }
   },
   "2026-11-07": {
-   "total": 266,
-   "news": 264,
+   "total": 268,
+   "news": 266,
    "articles": 2,
    "positive": 0,
-   "neutral": 266,
+   "neutral": 268,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 50,
+    "GB": 51,
     "SA": 36,
     "US": 33,
     "FR": 6
@@ -6367,7 +6367,7 @@
     "Nacionale": 1,
     "WSJ": 2,
     "وكالة الأنباء السعودية": 2,
-    "Financial Times": 12,
+    "Financial Times": 13,
     "The Arab Weekly": 1,
     "The Guardian": 4,
     "The New York Times": 5,
@@ -6459,7 +6459,8 @@
     "Business Insider Africa": 1,
     "Awful Announcing": 1,
     "DW.com": 1,
-    "WSLS": 1
+    "WSLS": 1,
+    "upi": 1
    },
    "sourceTone": {
     "Reuters": [
@@ -6514,7 +6515,7 @@
     ],
     "Financial Times": [
      0,
-     12,
+     13,
      0
     ],
     "The Arab Weekly": [
@@ -6973,6 +6974,11 @@
      0
     ],
     "WSLS": [
+     0,
+     1,
+     0
+    ],
+    "upi": [
      0,
      1,
      0
