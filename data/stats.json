@@ -6318,16 +6318,16 @@
    }
   },
   "2026-11-07": {
-   "total": 69,
-   "news": 68,
+   "total": 70,
+   "news": 69,
    "articles": 1,
    "positive": 0,
-   "neutral": 69,
+   "neutral": 70,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 12,
-    "SA": 9,
+    "SA": 10,
     "US": 14,
     "FR": 4
    },
@@ -6373,7 +6373,8 @@
     "Ahram Online": 1,
     "Egyptian Gazette": 1,
     "Bioengineer.org": 1,
-    "Envanter Medya": 1
+    "Envanter Medya": 1,
+    "Saudi Gazette": 1
    },
    "sourceTone": {
     "Reuters": [
@@ -6577,6 +6578,11 @@
      0
     ],
     "Envanter Medya": [
+     0,
+     1,
+     0
+    ],
+    "Saudi Gazette": [
      0,
      1,
      0

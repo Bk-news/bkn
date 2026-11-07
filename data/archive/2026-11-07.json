@@ -1136,6 +1136,27 @@
    "mt": true
   },
   {
+   "id": "f9c911779b3a8b5a",
+   "origin": "rss",
+   "source": "Saudi Gazette",
+   "author": "",
+   "title_ar": "sg-20261107.pdf - الجريدة السعودية",
+   "title_orig": "sg-20261107.pdf - Saudi Gazette",
+   "title_en": "sg-20261107.pdf - Saudi Gazette",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeEFoN2Fod2h1dmlzWl9lLTlEYTN4RkRCdEdzNFVyOWEwYTBXdnNpdzBMcDVuVGlIcVRPVjB6YVZ2TUdrN3dJMGhYbHlCZWc0VUlBQ09QQ3d1WWhLUm5udndMVjN3MnhfNlZfSGV5VW1xLUxmdjNycGxhSUFVdk51VTdINHlTaVI4TzRWaQ?oc=5",
+   "published": "2026-11-07T03:00:18.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "SA",
+   "pending": true,
+   "desc": "sg-20261107.pdf - Saudi Gazette &nbsp;&nbsp; Saudi Gazette",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "d8936e68f514295f",
    "origin": "rss",
    "source": "Arab News",
