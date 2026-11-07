@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 665,
-   "news": 636,
+   "total": 666,
+   "news": 637,
    "articles": 29,
    "positive": 0,
-   "neutral": 665,
+   "neutral": 666,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "SA": 88,
     "US": 174,
-    "GB": 181,
+    "GB": 182,
     "HK": 8,
     "FR": 11,
     "DE": 1,
@@ -4580,7 +4580,7 @@
     "Deadline": 2,
     "Al Majalla": 1,
     "Al-Monitor": 44,
-    "Reuters": 89,
+    "Reuters": 90,
     "WSJ": 42,
     "South China Morning Post": 8,
     "Myanmar International TV": 1,
@@ -4750,7 +4750,7 @@
     ],
     "Reuters": [
      0,
-     89,
+     90,
      0
     ],
     "WSJ": [
@@ -5431,15 +5431,15 @@
    }
   },
   "2026-11-06": {
-   "total": 453,
-   "news": 445,
+   "total": 454,
+   "news": 446,
    "articles": 8,
    "positive": 0,
-   "neutral": 453,
+   "neutral": 454,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 92,
+    "GB": 93,
     "SA": 91,
     "US": 99,
     "DE": 4,
@@ -5471,7 +5471,7 @@
     "Middle East Eye": 3,
     "digitimes": 1,
     "Anadolu Ajansı": 2,
-    "Financial Times": 6,
+    "Financial Times": 7,
     "UA.NEWS": 3,
     "GamesRadar+": 1,
     "Spiegel": 4,
@@ -5698,7 +5698,7 @@
     ],
     "Financial Times": [
      0,
-     6,
+     7,
      0
     ],
     "UA.NEWS": [
@@ -6264,16 +6264,16 @@
    }
   },
   "2026-11-07": {
-   "total": 12,
-   "news": 12,
+   "total": 13,
+   "news": 13,
    "articles": 0,
    "positive": 0,
-   "neutral": 12,
+   "neutral": 13,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 3,
-    "SA": 3,
+    "SA": 4,
     "US": 3,
     "FR": 1
    },
@@ -6281,7 +6281,7 @@
    "sources": {
     "Reuters": 1,
     "OpenCritic": 1,
-    "Arab News": 3,
+    "Arab News": 4,
     "AP News": 1,
     "Al-Monitor": 1,
     "Le Monde.fr": 1,
@@ -6302,7 +6302,7 @@
     ],
     "Arab News": [
      0,
-     3,
+     4,
      0
     ],
     "AP News": [
