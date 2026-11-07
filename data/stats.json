@@ -5431,15 +5431,15 @@
    }
   },
   "2026-11-06": {
-   "total": 518,
-   "news": 509,
+   "total": 526,
+   "news": 517,
    "articles": 9,
    "positive": 0,
-   "neutral": 518,
+   "neutral": 526,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 124,
+    "GB": 132,
     "SA": 100,
     "US": 107,
     "DE": 4,
@@ -5450,7 +5450,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Reuters": 78,
+    "Reuters": 86,
     "Arab News": 101,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
@@ -5605,7 +5605,7 @@
     ],
     "Reuters": [
      0,
-     78,
+     86,
      0
     ],
     "Arab News": [
@@ -6336,24 +6336,24 @@
    }
   },
   "2026-11-07": {
-   "total": 222,
-   "news": 220,
+   "total": 254,
+   "news": 252,
    "articles": 2,
    "positive": 0,
-   "neutral": 222,
+   "neutral": 254,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 39,
-    "SA": 32,
+    "GB": 49,
+    "SA": 36,
     "US": 33,
     "FR": 6
    },
    "topics": {},
    "sources": {
-    "Reuters": 16,
+    "Reuters": 26,
     "OpenCritic": 1,
-    "Arab News": 35,
+    "Arab News": 39,
     "AP News": 8,
     "Al-Monitor": 12,
     "Le Monde.fr": 5,
@@ -6369,7 +6369,7 @@
     "The Economist": 2,
     "Daily Observer": 2,
     "سانا": 2,
-    "صوت الإمارات": 1,
+    "صوت الإمارات": 2,
     "Khaleej Times": 1,
     "Latest news from Azerbaijan": 1,
     "Malaysia-China Insight": 1,
@@ -6378,21 +6378,21 @@
     "Al Jazeera": 1,
     "Gulf Times": 1,
     "Middle East Eye": 2,
-    "Anadolu Ajansı": 2,
+    "Anadolu Ajansı": 3,
     "Sports Illustrated": 1,
     "Al Arabiya English": 2,
     "Bd24live": 1,
     "News On AIR": 1,
     "The Eastleigh Voice": 1,
     "Daily Tribune": 2,
-    "https://houseofsaud.com/": 3,
+    "https://houseofsaud.com/": 4,
     "France 24": 1,
     "NDTV Sports": 1,
-    "Ahram Online": 2,
+    "Ahram Online": 3,
     "Egyptian Gazette": 1,
     "Bioengineer.org": 3,
     "Envanter Medya": 1,
-    "Saudi Gazette": 3,
+    "Saudi Gazette": 4,
     "Prothom Alo English": 1,
     "Bloomberg.com": 4,
     "Yahoo Sports": 4,
@@ -6402,7 +6402,7 @@
     "The New Region": 2,
     "Yardbarker": 1,
     "CBS Sports": 2,
-    "The Times of Israel": 3,
+    "The Times of Israel": 4,
     "Deccan Chronicle": 1,
     "Bhaskar English": 2,
     "United News of Bangladesh": 1,
@@ -6414,13 +6414,13 @@
     "news.sbs.co.kr": 2,
     "L'Orient Today": 1,
     "Middle East Monitor": 1,
-    "Egyptian Streets": 1,
+    "Egyptian Streets": 2,
     "Hindustan Times": 2,
     "Arab Times Kuwait News": 1,
     "Moneycontrol.com": 1,
     "Audacy": 1,
     "Dhaka Tribune": 1,
-    "The Times of India": 1,
+    "The Times of India": 2,
     "The Filipino Times": 1,
     "Egypt Today": 2,
     "Rigzone": 1,
@@ -6431,22 +6431,29 @@
     "The Daily Star": 2,
     "Pro Wrestling Dot Net": 1,
     "Transfermarkt": 1,
-    "Breakingthenews.net": 1,
+    "Breakingthenews.net": 3,
     "The New Arab": 1,
     "X": 1,
     "الهيئة العامة للاستعلامات": 1,
     "Arab News PK": 1,
     "Cyprus Inform": 1,
     "The Straits Times": 1,
-    "TodayPress.tv": 1,
+    "TodayPress.tv": 2,
     "LBCI Lebanon": 1,
     "Rus Tourism News": 1,
-    "Goal.com": 1
+    "Goal.com": 1,
+    "Oman Observer": 1,
+    "The New Indian Express": 1,
+    "India Today": 1,
+    "Mehr News Agency": 1,
+    "WION": 1,
+    "Kashmir Life": 1,
+    "The Jerusalem Post": 1
    },
    "sourceTone": {
     "Reuters": [
      0,
-     16,
+     26,
      0
     ],
     "OpenCritic": [
@@ -6456,7 +6463,7 @@
     ],
     "Arab News": [
      0,
-     35,
+     39,
      0
     ],
     "AP News": [
@@ -6536,7 +6543,7 @@
     ],
     "صوت الإمارات": [
      0,
-     1,
+     2,
      0
     ],
     "Khaleej Times": [
@@ -6581,7 +6588,7 @@
     ],
     "Anadolu Ajansı": [
      0,
-     2,
+     3,
      0
     ],
     "Sports Illustrated": [
@@ -6616,7 +6623,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     3,
+     4,
      0
     ],
     "France 24": [
@@ -6631,7 +6638,7 @@
     ],
     "Ahram Online": [
      0,
-     2,
+     3,
      0
     ],
     "Egyptian Gazette": [
@@ -6651,7 +6658,7 @@
     ],
     "Saudi Gazette": [
      0,
-     3,
+     4,
      0
     ],
     "Prothom Alo English": [
@@ -6701,7 +6708,7 @@
     ],
     "The Times of Israel": [
      0,
-     3,
+     4,
      0
     ],
     "Deccan Chronicle": [
@@ -6761,7 +6768,7 @@
     ],
     "Egyptian Streets": [
      0,
-     1,
+     2,
      0
     ],
     "Hindustan Times": [
@@ -6791,7 +6798,7 @@
     ],
     "The Times of India": [
      0,
-     1,
+     2,
      0
     ],
     "The Filipino Times": [
@@ -6846,7 +6853,7 @@
     ],
     "Breakingthenews.net": [
      0,
-     1,
+     3,
      0
     ],
     "The New Arab": [
@@ -6881,7 +6888,7 @@
     ],
     "TodayPress.tv": [
      0,
-     1,
+     2,
      0
     ],
     "LBCI Lebanon": [
@@ -6895,6 +6902,41 @@
      0
     ],
     "Goal.com": [
+     0,
+     1,
+     0
+    ],
+    "Oman Observer": [
+     0,
+     1,
+     0
+    ],
+    "The New Indian Express": [
+     0,
+     1,
+     0
+    ],
+    "India Today": [
+     0,
+     1,
+     0
+    ],
+    "Mehr News Agency": [
+     0,
+     1,
+     0
+    ],
+    "WION": [
+     0,
+     1,
+     0
+    ],
+    "Kashmir Life": [
+     0,
+     1,
+     0
+    ],
+    "The Jerusalem Post": [
      0,
      1,
      0
