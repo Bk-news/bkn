@@ -5431,17 +5431,17 @@
    }
   },
   "2026-11-06": {
-   "total": 512,
-   "news": 503,
+   "total": 518,
+   "news": 509,
    "articles": 9,
    "positive": 0,
-   "neutral": 512,
+   "neutral": 518,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 120,
+    "GB": 124,
     "SA": 100,
-    "US": 106,
+    "US": 107,
     "DE": 4,
     "HK": 6,
     "FR": 7,
@@ -5455,7 +5455,7 @@
     "Al Jazeera": 1,
     "Amwaj.media": 1,
     "The Guardian": 8,
-    "WSJ": 28,
+    "WSJ": 29,
     "Al-Monitor": 16,
     "The New York Times": 19,
     "Bloomberg.com": 26,
@@ -5471,7 +5471,7 @@
     "Middle East Eye": 3,
     "digitimes": 1,
     "Anadolu Ajansı": 2,
-    "Financial Times": 18,
+    "Financial Times": 22,
     "UA.NEWS": 3,
     "GamesRadar+": 1,
     "Spiegel": 4,
@@ -5594,7 +5594,8 @@
     "Middle East Monitor": 1,
     "Lee News Central": 1,
     "Yahoo": 1,
-    "Le Monde diplomatique - English edition": 1
+    "Le Monde diplomatique - English edition": 1,
+    "Breitbart News": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -5629,7 +5630,7 @@
     ],
     "WSJ": [
      0,
-     28,
+     29,
      0
     ],
     "Al-Monitor": [
@@ -5709,7 +5710,7 @@
     ],
     "Financial Times": [
      0,
-     18,
+     22,
      0
     ],
     "UA.NEWS": [
@@ -6326,38 +6327,43 @@
      0,
      1,
      0
+    ],
+    "Breitbart News": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-07": {
-   "total": 188,
-   "news": 186,
+   "total": 222,
+   "news": 220,
    "articles": 2,
    "positive": 0,
-   "neutral": 188,
+   "neutral": 222,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 26,
-    "SA": 23,
-    "US": 31,
+    "GB": 39,
+    "SA": 32,
+    "US": 33,
     "FR": 6
    },
    "topics": {},
    "sources": {
-    "Reuters": 6,
+    "Reuters": 16,
     "OpenCritic": 1,
-    "Arab News": 26,
+    "Arab News": 35,
     "AP News": 8,
-    "Al-Monitor": 11,
+    "Al-Monitor": 12,
     "Le Monde.fr": 5,
-    "BBC": 7,
+    "BBC": 8,
     "Nacionale": 1,
     "WSJ": 2,
     "وكالة الأنباء السعودية": 2,
-    "Financial Times": 10,
+    "Financial Times": 12,
     "The Arab Weekly": 1,
-    "The Guardian": 2,
+    "The Guardian": 3,
     "The New York Times": 4,
     "CNN": 2,
     "The Economist": 2,
@@ -6386,14 +6392,14 @@
     "Egyptian Gazette": 1,
     "Bioengineer.org": 3,
     "Envanter Medya": 1,
-    "Saudi Gazette": 2,
+    "Saudi Gazette": 3,
     "Prothom Alo English": 1,
-    "Bloomberg.com": 3,
+    "Bloomberg.com": 4,
     "Yahoo Sports": 4,
     "LiveScore": 2,
     "The Washington Post": 2,
     "Türkiye Today": 2,
-    "The New Region": 1,
+    "The New Region": 2,
     "Yardbarker": 1,
     "CBS Sports": 2,
     "The Times of Israel": 3,
@@ -6405,7 +6411,7 @@
     "The Business Standard": 2,
     "Chosunbiz": 1,
     "thecradle.co": 1,
-    "news.sbs.co.kr": 1,
+    "news.sbs.co.kr": 2,
     "L'Orient Today": 1,
     "Middle East Monitor": 1,
     "Egyptian Streets": 1,
@@ -6422,7 +6428,7 @@
     "ANTARA News": 1,
     "UA.NEWS": 1,
     "The Star": 1,
-    "The Daily Star": 1,
+    "The Daily Star": 2,
     "Pro Wrestling Dot Net": 1,
     "Transfermarkt": 1,
     "Breakingthenews.net": 1,
@@ -6430,12 +6436,17 @@
     "X": 1,
     "الهيئة العامة للاستعلامات": 1,
     "Arab News PK": 1,
-    "Cyprus Inform": 1
+    "Cyprus Inform": 1,
+    "The Straits Times": 1,
+    "TodayPress.tv": 1,
+    "LBCI Lebanon": 1,
+    "Rus Tourism News": 1,
+    "Goal.com": 1
    },
    "sourceTone": {
     "Reuters": [
      0,
-     6,
+     16,
      0
     ],
     "OpenCritic": [
@@ -6445,7 +6456,7 @@
     ],
     "Arab News": [
      0,
-     26,
+     35,
      0
     ],
     "AP News": [
@@ -6455,7 +6466,7 @@
     ],
     "Al-Monitor": [
      0,
-     11,
+     12,
      0
     ],
     "Le Monde.fr": [
@@ -6465,7 +6476,7 @@
     ],
     "BBC": [
      0,
-     7,
+     8,
      0
     ],
     "Nacionale": [
@@ -6485,7 +6496,7 @@
     ],
     "Financial Times": [
      0,
-     10,
+     12,
      0
     ],
     "The Arab Weekly": [
@@ -6495,7 +6506,7 @@
     ],
     "The Guardian": [
      0,
-     2,
+     3,
      0
     ],
     "The New York Times": [
@@ -6640,7 +6651,7 @@
     ],
     "Saudi Gazette": [
      0,
-     2,
+     3,
      0
     ],
     "Prothom Alo English": [
@@ -6650,7 +6661,7 @@
     ],
     "Bloomberg.com": [
      0,
-     3,
+     4,
      0
     ],
     "Yahoo Sports": [
@@ -6675,7 +6686,7 @@
     ],
     "The New Region": [
      0,
-     1,
+     2,
      0
     ],
     "Yardbarker": [
@@ -6735,7 +6746,7 @@
     ],
     "news.sbs.co.kr": [
      0,
-     1,
+     2,
      0
     ],
     "L'Orient Today": [
@@ -6820,7 +6831,7 @@
     ],
     "The Daily Star": [
      0,
-     1,
+     2,
      0
     ],
     "Pro Wrestling Dot Net": [
@@ -6859,6 +6870,31 @@
      0
     ],
     "Cyprus Inform": [
+     0,
+     1,
+     0
+    ],
+    "The Straits Times": [
+     0,
+     1,
+     0
+    ],
+    "TodayPress.tv": [
+     0,
+     1,
+     0
+    ],
+    "LBCI Lebanon": [
+     0,
+     1,
+     0
+    ],
+    "Rus Tourism News": [
+     0,
+     1,
+     0
+    ],
+    "Goal.com": [
      0,
      1,
      0
