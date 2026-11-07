@@ -6330,11 +6330,11 @@
    }
   },
   "2026-11-07": {
-   "total": 176,
-   "news": 174,
+   "total": 177,
+   "news": 175,
    "articles": 2,
    "positive": 0,
-   "neutral": 176,
+   "neutral": 177,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -6392,7 +6392,7 @@
     "Yahoo Sports": 3,
     "LiveScore": 2,
     "The Washington Post": 2,
-    "Türkiye Today": 1,
+    "Türkiye Today": 2,
     "The New Region": 1,
     "Yardbarker": 1,
     "CBS Sports": 1,
@@ -6667,7 +6667,7 @@
     ],
     "Türkiye Today": [
      0,
-     1,
+     2,
      0
     ],
     "The New Region": [

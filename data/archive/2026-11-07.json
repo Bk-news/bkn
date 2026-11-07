@@ -2,6 +2,27 @@
  "day": "2026-11-07",
  "items": [
   {
+   "id": "c449b731eb18ae01",
+   "origin": "rss",
+   "source": "Türkiye Today",
+   "author": "",
+   "title_ar": "ويقول مسؤولون يمنيون إن القوات السورية تتجه إلى السعودية واليمن، وهو ما تنفيه دمشق",
+   "title_orig": "Yemeni officials say Syrian troops are heading to Saudi and Yemen, Damascus denies",
+   "title_en": "Yemeni officials say Syrian troops are heading to Saudi and Yemen, Damascus denies",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWm92TVJXMExGV3dZZ1ZxTHlDemthU1NXeXNXS09uUmNZYUt2TjlGTEJkR2daNHNBb2x1cDVMMzFTckMxTm9nRnB6aFdidzhBbmMxOG02b3ZKVFpXVlVBLUFSQW9nMGplcWc3X1pWZTVxVDJyUnNDQ2RZd0NSQllwY0xhWDVVQjF2Rkl5Z1pFRF9WTEVWdFpFZklVR2JmTE9UNGQ2S2ZpMkllOVFnNFRkcHpsM1VLS2R2MVZlX2VqTlo1VVk?oc=5",
+   "published": "2026-11-07T16:08:24.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "",
+   "pending": true,
+   "desc": "Yemeni officials say Syrian troops are heading to Saudi and Yemen, Damascus denies &nbsp;&nbsp; Türkiye Today",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "43733409729709bf",
    "origin": "rss",
    "source": "Arab News",
