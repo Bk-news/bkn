@@ -6342,11 +6342,11 @@
    }
   },
   "2026-11-07": {
-   "total": 311,
-   "news": 309,
+   "total": 312,
+   "news": 310,
    "articles": 2,
    "positive": 0,
-   "neutral": 311,
+   "neutral": 312,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -6468,7 +6468,8 @@
     "The Hindu": 1,
     "The Express Tribune": 1,
     "الحرة": 1,
-    "Latin Times": 1
+    "Latin Times": 1,
+    "Hum News English": 1
    },
    "sourceTone": {
     "Reuters": [
@@ -7027,6 +7028,11 @@
      0
     ],
     "Latin Times": [
+     0,
+     1,
+     0
+    ],
+    "Hum News English": [
      0,
      1,
      0
