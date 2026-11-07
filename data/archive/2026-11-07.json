@@ -2,6 +2,27 @@
  "day": "2026-11-07",
  "items": [
   {
+   "id": "d7bb979314c2603e",
+   "origin": "rss",
+   "source": "WSJ",
+   "author": "",
+   "title_ar": "يتباطأ بناء المنازل بسبب ارتفاع تكاليف المواد والعمالة",
+   "title_orig": "Home Building Slows on Soaring Costs for Materials and Labor",
+   "title_en": "Home Building Slows on Soaring Costs for Materials and Labor",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRXV1UjJyd0E2Y1NtUlFmdTNnUGh4ak1qMWxsbWJtVERsUklOMDkzajg4OS1FNEowRWlYdnFHLXMtOGFDTHpLcUhlcEZuYTZqWEtlZ2Fubzl4aWdkanJqSVBVLWpvTDA3WjBZa3dHSGRKdko0Y2h2VFg1UGhJN3ZORTN4UHcyWkhKRWZydlEwcmJlZVBvbi1UcUZyM21MVUg0M19WcDVOUlhRQQ?oc=5",
+   "published": "2026-11-07T23:31:13.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "Home Building Slows on Soaring Costs for Materials and Labor &nbsp;&nbsp; WSJ",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "9472720902aab3d5",
    "origin": "rss",
    "source": "The Times",

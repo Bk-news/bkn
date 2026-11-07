@@ -6342,17 +6342,17 @@
    }
   },
   "2026-11-07": {
-   "total": 322,
-   "news": 320,
+   "total": 323,
+   "news": 321,
    "articles": 2,
    "positive": 0,
-   "neutral": 322,
+   "neutral": 323,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 63,
     "SA": 47,
-    "US": 39,
+    "US": 40,
     "FR": 7
    },
    "topics": {},
@@ -6365,7 +6365,7 @@
     "Le Monde.fr": 5,
     "BBC": 10,
     "Nacionale": 1,
-    "WSJ": 2,
+    "WSJ": 3,
     "وكالة الأنباء السعودية": 2,
     "Financial Times": 18,
     "The Arab Weekly": 1,
@@ -6516,7 +6516,7 @@
     ],
     "WSJ": [
      0,
-     2,
+     3,
      0
     ],
     "وكالة الأنباء السعودية": [
