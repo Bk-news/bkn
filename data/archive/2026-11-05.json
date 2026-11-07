@@ -1157,6 +1157,27 @@
    "mt": true
   },
   {
+   "id": "2bfb8f84f72903ae",
+   "origin": "rss",
+   "source": "Reuters",
+   "author": "",
+   "title_ar": "مقتل خبير متفجرات أثناء تفكيك قنبلة بالقاهرة",
+   "title_orig": "Explosives expert killed defusing bomb in Cairo",
+   "title_en": "Explosives expert killed defusing bomb in Cairo",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6dlk3TmNrSGsxX1lGbGVpVTNBM2Njd2x4R0FnbzZNY0xzQXFvaUgyaXJSamJqWU9MaUdhRmNNWGZUMHpDNXpIRXNXOE43SzNlbWxkdnE0SDB2bHNQ?oc=5",
+   "published": "2026-11-05T21:30:09.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "Explosives expert killed defusing bomb in Cairo &nbsp;&nbsp; Reuters",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "ee174120741a2859",
    "origin": "rss",
    "source": "Arab News",
