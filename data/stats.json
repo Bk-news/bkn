@@ -6330,15 +6330,15 @@
    }
   },
   "2026-11-07": {
-   "total": 167,
+   "total": 168,
    "news": 166,
-   "articles": 1,
+   "articles": 2,
    "positive": 0,
-   "neutral": 167,
+   "neutral": 168,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 25,
+    "GB": 26,
     "SA": 20,
     "US": 28,
     "FR": 6
@@ -6360,7 +6360,7 @@
     "The Guardian": 2,
     "The New York Times": 3,
     "CNN": 2,
-    "The Economist": 1,
+    "The Economist": 2,
     "Daily Observer": 2,
     "سانا": 2,
     "صوت الإمارات": 1,
@@ -6504,7 +6504,7 @@
     ],
     "The Economist": [
      0,
-     1,
+     2,
      0
     ],
     "Daily Observer": [
