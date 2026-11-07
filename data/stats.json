@@ -6342,16 +6342,16 @@
    }
   },
   "2026-11-07": {
-   "total": 319,
-   "news": 317,
+   "total": 322,
+   "news": 320,
    "articles": 2,
    "positive": 0,
-   "neutral": 319,
+   "neutral": 322,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 63,
-    "SA": 45,
+    "SA": 47,
     "US": 39,
     "FR": 7
    },
@@ -6359,7 +6359,7 @@
    "sources": {
     "Reuters": 32,
     "OpenCritic": 1,
-    "Arab News": 52,
+    "Arab News": 54,
     "AP News": 9,
     "Al-Monitor": 14,
     "Le Monde.fr": 5,
@@ -6470,7 +6470,8 @@
     "الحرة": 1,
     "Latin Times": 1,
     "Hum News English": 1,
-    "الخبر اليمني": 1
+    "الخبر اليمني": 1,
+    "The Times": 1
    },
    "sourceTone": {
     "Reuters": [
@@ -6485,7 +6486,7 @@
     ],
     "Arab News": [
      0,
-     52,
+     54,
      0
     ],
     "AP News": [
@@ -7039,6 +7040,11 @@
      0
     ],
     "الخبر اليمني": [
+     0,
+     1,
+     0
+    ],
+    "The Times": [
      0,
      1,
      0
