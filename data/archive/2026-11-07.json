@@ -2,6 +2,27 @@
  "day": "2026-11-07",
  "items": [
   {
+   "id": "85f34cfe9d1bb970",
+   "origin": "rss",
+   "source": "Sky News",
+   "author": "",
+   "title_ar": "مسؤول حوثي يقول إن 27 شخصا على الأقل قتلوا في غارة قرب العاصمة اليمنية",
+   "title_orig": "At least 27 people killed in strike near Yemen's capital, Houthi official says",
+   "title_en": "At least 27 people killed in strike near Yemen's capital, Houthi official says",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdElJT2IxV2wwQlBQVG9NaEo3MlZDblRVLWliMjE1dDYxd1hSYU5DVXFZdVpfQXdJR2tzOGo4LXBxdExUOXlWZWUtUkFER25sbGNnbG84U01Cd2N1NnpkM3lUVVRtcmMzNnNnbVV4bWcyUUhsSTdhRTRMM25sTGQ1MThVZGx6QU04akMyZ0pUcHlsdXMtUVZ6MXRvQ09Ia2d6X2dYdHlVU0dFZ2hRa0piNzdn?oc=5",
+   "published": "2026-11-07T20:00:28.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "",
+   "pending": true,
+   "desc": "At least 27 people killed in strike near Yemen's capital, Houthi official says &nbsp;&nbsp; Sky News",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "3c2cc21ec77396d4",
    "origin": "rss",
    "source": "Arab News PK",

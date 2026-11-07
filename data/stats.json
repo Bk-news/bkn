@@ -5431,15 +5431,15 @@
    }
   },
   "2026-11-06": {
-   "total": 557,
-   "news": 548,
+   "total": 558,
+   "news": 549,
    "articles": 9,
    "positive": 0,
-   "neutral": 557,
+   "neutral": 558,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 162,
+    "GB": 163,
     "SA": 100,
     "US": 107,
     "DE": 4,
@@ -5450,7 +5450,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Reuters": 115,
+    "Reuters": 116,
     "Arab News": 101,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
@@ -5606,7 +5606,7 @@
     ],
     "Reuters": [
      0,
-     115,
+     116,
      0
     ],
     "Arab News": [
@@ -6342,11 +6342,11 @@
    }
   },
   "2026-11-07": {
-   "total": 273,
-   "news": 271,
+   "total": 274,
+   "news": 272,
    "articles": 2,
    "positive": 0,
-   "neutral": 273,
+   "neutral": 274,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -6461,7 +6461,8 @@
     "DW.com": 1,
     "WSLS": 1,
     "upi": 1,
-    "Devdiscourse": 1
+    "Devdiscourse": 1,
+    "Sky News": 1
    },
    "sourceTone": {
     "Reuters": [
@@ -6985,6 +6986,11 @@
      0
     ],
     "Devdiscourse": [
+     0,
+     1,
+     0
+    ],
+    "Sky News": [
      0,
      1,
      0
