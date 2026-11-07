@@ -5431,15 +5431,15 @@
    }
   },
   "2026-11-06": {
-   "total": 443,
-   "news": 435,
+   "total": 444,
+   "news": 436,
    "articles": 8,
    "positive": 0,
-   "neutral": 443,
+   "neutral": 444,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 87,
+    "GB": 88,
     "SA": 91,
     "US": 97,
     "DE": 4,
@@ -5471,7 +5471,7 @@
     "Middle East Eye": 3,
     "digitimes": 1,
     "Anadolu Ajansı": 2,
-    "Financial Times": 5,
+    "Financial Times": 6,
     "UA.NEWS": 3,
     "GamesRadar+": 1,
     "Spiegel": 4,
@@ -5697,7 +5697,7 @@
     ],
     "Financial Times": [
      0,
-     5,
+     6,
      0
     ],
     "UA.NEWS": [
