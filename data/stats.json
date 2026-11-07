@@ -6342,18 +6342,18 @@
    }
   },
   "2026-11-07": {
-   "total": 286,
-   "news": 284,
+   "total": 288,
+   "news": 286,
    "articles": 2,
    "positive": 0,
-   "neutral": 286,
+   "neutral": 288,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 54,
     "SA": 39,
     "US": 35,
-    "FR": 6
+    "FR": 7
    },
    "topics": {},
    "sources": {
@@ -6384,7 +6384,7 @@
     "Al Jazeera": 1,
     "Gulf Times": 1,
     "Middle East Eye": 2,
-    "Anadolu Ajansı": 3,
+    "Anadolu Ajansı": 4,
     "Sports Illustrated": 1,
     "Al Arabiya English": 2,
     "Bd24live": 1,
@@ -6392,7 +6392,7 @@
     "The Eastleigh Voice": 1,
     "Daily Tribune": 2,
     "https://houseofsaud.com/": 5,
-    "France 24": 1,
+    "France 24": 2,
     "NDTV Sports": 1,
     "Ahram Online": 4,
     "Egyptian Gazette": 1,
@@ -6603,7 +6603,7 @@
     ],
     "Anadolu Ajansı": [
      0,
-     3,
+     4,
      0
     ],
     "Sports Illustrated": [
@@ -6643,7 +6643,7 @@
     ],
     "France 24": [
      0,
-     1,
+     2,
      0
     ],
     "NDTV Sports": [
