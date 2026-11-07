@@ -4556,17 +4556,17 @@
    }
   },
   "2026-11-05": {
-   "total": 686,
-   "news": 657,
+   "total": 688,
+   "news": 659,
    "articles": 29,
    "positive": 0,
-   "neutral": 686,
+   "neutral": 688,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "SA": 88,
     "US": 174,
-    "GB": 202,
+    "GB": 204,
     "HK": 8,
     "FR": 11,
     "DE": 1,
@@ -4608,7 +4608,7 @@
     "Oz Arab Media": 1,
     "Yemen Online": 2,
     "BBC": 16,
-    "Financial Times": 50,
+    "Financial Times": 52,
     "Bloomberg.com": 17,
     "France 24": 4,
     "Le Monde.fr": 8,
@@ -4890,7 +4890,7 @@
     ],
     "Financial Times": [
      0,
-     50,
+     52,
      0
     ],
     "Bloomberg.com": [
@@ -5431,15 +5431,15 @@
    }
   },
   "2026-11-06": {
-   "total": 488,
-   "news": 479,
+   "total": 491,
+   "news": 482,
    "articles": 9,
    "positive": 0,
-   "neutral": 488,
+   "neutral": 491,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 104,
+    "GB": 106,
     "SA": 99,
     "US": 102,
     "DE": 4,
@@ -5450,7 +5450,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Reuters": 68,
+    "Reuters": 69,
     "Arab News": 101,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
@@ -5471,7 +5471,7 @@
     "Middle East Eye": 3,
     "digitimes": 1,
     "Anadolu Ajansı": 2,
-    "Financial Times": 12,
+    "Financial Times": 13,
     "UA.NEWS": 3,
     "GamesRadar+": 1,
     "Spiegel": 4,
@@ -5591,7 +5591,8 @@
     "NDTV": 1,
     "Yahoo Sports": 1,
     "HKTDC Research": 1,
-    "Middle East Monitor": 1
+    "Middle East Monitor": 1,
+    "Lee News Central": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -5601,7 +5602,7 @@
     ],
     "Reuters": [
      0,
-     68,
+     69,
      0
     ],
     "Arab News": [
@@ -5706,7 +5707,7 @@
     ],
     "Financial Times": [
      0,
-     12,
+     13,
      0
     ],
     "UA.NEWS": [
@@ -6305,6 +6306,11 @@
      0
     ],
     "Middle East Monitor": [
+     0,
+     1,
+     0
+    ],
+    "Lee News Central": [
      0,
      1,
      0
