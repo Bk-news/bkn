@@ -6330,17 +6330,17 @@
    }
   },
   "2026-11-07": {
-   "total": 177,
-   "news": 175,
+   "total": 180,
+   "news": 178,
    "articles": 2,
    "positive": 0,
-   "neutral": 177,
+   "neutral": 180,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 26,
     "SA": 22,
-    "US": 28,
+    "US": 29,
     "FR": 6
    },
    "topics": {},
@@ -6374,7 +6374,7 @@
     "Middle East Eye": 2,
     "Anadolu Ajansı": 2,
     "Sports Illustrated": 1,
-    "Al Arabiya English": 1,
+    "Al Arabiya English": 2,
     "Bd24live": 1,
     "News On AIR": 1,
     "The Eastleigh Voice": 1,
@@ -6388,7 +6388,7 @@
     "Envanter Medya": 1,
     "Saudi Gazette": 2,
     "Prothom Alo English": 1,
-    "Bloomberg.com": 1,
+    "Bloomberg.com": 2,
     "Yahoo Sports": 3,
     "LiveScore": 2,
     "The Washington Post": 2,
@@ -6398,7 +6398,7 @@
     "CBS Sports": 1,
     "The Times of Israel": 3,
     "Deccan Chronicle": 1,
-    "Bhaskar English": 1,
+    "Bhaskar English": 2,
     "United News of Bangladesh": 1,
     "Bangladesh Sangbad Sangstha (BSS)": 1,
     "Jagonews24": 1,
@@ -6577,7 +6577,7 @@
     ],
     "Al Arabiya English": [
      0,
-     1,
+     2,
      0
     ],
     "Bd24live": [
@@ -6647,7 +6647,7 @@
     ],
     "Bloomberg.com": [
      0,
-     1,
+     2,
      0
     ],
     "Yahoo Sports": [
@@ -6697,7 +6697,7 @@
     ],
     "Bhaskar English": [
      0,
-     1,
+     2,
      0
     ],
     "United News of Bangladesh": [
