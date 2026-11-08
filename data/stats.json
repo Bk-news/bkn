@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 523,
-   "news": 519,
+   "total": 524,
+   "news": 520,
    "articles": 4,
    "positive": 0,
-   "neutral": 523,
+   "neutral": 524,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -7250,7 +7250,8 @@
     "TheSportster": 1,
     "Wrestling Inc.": 1,
     "Qazinform": 1,
-    "The Lufkin Daily News": 1
+    "The Lufkin Daily News": 1,
+    "Yahoo": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -8004,6 +8005,11 @@
      0
     ],
     "The Lufkin Daily News": [
+     0,
+     1,
+     0
+    ],
+    "Yahoo": [
      0,
      1,
      0
