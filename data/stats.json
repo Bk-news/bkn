@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 122,
-   "news": 122,
+   "total": 123,
+   "news": 123,
    "articles": 0,
    "positive": 0,
-   "neutral": 122,
+   "neutral": 123,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -7172,7 +7172,8 @@
     "Gulf Business": 1,
     "CNN": 1,
     "ynetnews": 1,
-    "L'Orient Today": 1
+    "L'Orient Today": 1,
+    "Arabian Business": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -7541,6 +7542,11 @@
      0
     ],
     "L'Orient Today": [
+     0,
+     1,
+     0
+    ],
+    "Arabian Business": [
      0,
      1,
      0
