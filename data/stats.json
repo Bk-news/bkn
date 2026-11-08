@@ -7083,25 +7083,25 @@
    }
   },
   "2026-11-08": {
-   "total": 419,
-   "news": 418,
+   "total": 421,
+   "news": 420,
    "articles": 1,
    "positive": 0,
-   "neutral": 419,
+   "neutral": 421,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 55,
-    "FR": 28,
+    "FR": 29,
     "HK": 4,
     "GB": 77,
-    "US": 61,
+    "US": 62,
     "DE": 2
    },
    "topics": {},
    "sources": {
     "Arab News": 60,
-    "France 24": 26,
+    "France 24": 27,
     "South China Morning Post": 4,
     "RTE.ie": 1,
     "The Express Tribune": 2,
@@ -7180,7 +7180,7 @@
     "upi": 1,
     "Bloomberg.com": 5,
     "Saudi Gazette": 12,
-    "The New York Times": 14,
+    "The New York Times": 15,
     "Spiegel": 2,
     "The Seattle Times": 1,
     "Middle East Eye": 2,
@@ -7250,7 +7250,7 @@
     ],
     "France 24": [
      0,
-     26,
+     27,
      0
     ],
     "South China Morning Post": [
@@ -7645,7 +7645,7 @@
     ],
     "The New York Times": [
      0,
-     14,
+     15,
      0
     ],
     "Spiegel": [
