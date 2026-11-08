@@ -6342,17 +6342,17 @@
    }
   },
   "2026-11-07": {
-   "total": 465,
-   "news": 462,
+   "total": 466,
+   "news": 463,
    "articles": 3,
    "positive": 0,
-   "neutral": 465,
+   "neutral": 466,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 145,
     "SA": 60,
-    "US": 79,
+    "US": 80,
     "FR": 8,
     "HK": 1
    },
@@ -6366,7 +6366,7 @@
     "Le Monde.fr": 6,
     "BBC": 12,
     "Nacionale": 1,
-    "WSJ": 8,
+    "WSJ": 9,
     "وكالة الأنباء السعودية": 2,
     "Financial Times": 70,
     "The Arab Weekly": 1,
@@ -6522,7 +6522,7 @@
     ],
     "WSJ": [
      0,
-     8,
+     9,
      0
     ],
     "وكالة الأنباء السعودية": [
@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 529,
-   "news": 525,
+   "total": 532,
+   "news": 528,
    "articles": 4,
    "positive": 0,
-   "neutral": 529,
+   "neutral": 532,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -7095,7 +7095,7 @@
     "FR": 52,
     "HK": 6,
     "GB": 98,
-    "US": 82,
+    "US": 85,
     "DE": 2
    },
    "topics": {},
@@ -7115,8 +7115,8 @@
     "الخبر اليمني": 3,
     "Reuters": 42,
     "Breakingthenews.net": 1,
-    "WSJ": 8,
-    "AP News": 11,
+    "WSJ": 10,
+    "AP News": 12,
     "Yemen Online": 2,
     "Le Monde.fr": 6,
     "Al-Monitor": 19,
@@ -7331,12 +7331,12 @@
     ],
     "WSJ": [
      0,
-     8,
+     10,
      0
     ],
     "AP News": [
      0,
-     11,
+     12,
      0
     ],
     "Yemen Online": [
