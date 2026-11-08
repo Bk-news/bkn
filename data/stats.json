@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 125,
-   "news": 125,
+   "total": 126,
+   "news": 126,
    "articles": 0,
    "positive": 0,
-   "neutral": 125,
+   "neutral": 126,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -7132,7 +7132,7 @@
     "Kurdistan24": 1,
     "BroadcastPro ME": 1,
     "Dealroom": 1,
-    "The National": 1,
+    "The National": 2,
     "صوت الإمارات": 1,
     "Al Jazeera": 1,
     "سانا": 1,
@@ -7344,7 +7344,7 @@
     ],
     "The National": [
      0,
-     1,
+     2,
      0
     ],
     "صوت الإمارات": [
