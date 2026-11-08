@@ -1,5 +1,25 @@
 [
  {
+  "id": "6b3403f7576b91a7",
+  "origin": "rss",
+  "source": "CNN",
+  "author": "",
+  "title_ar": "NASCAR phenom Kyle Larson wins 2nd consecutive Cup Series title",
+  "title_orig": "NASCAR phenom Kyle Larson wins 2nd consecutive Cup Series title",
+  "title_en": "NASCAR phenom Kyle Larson wins 2nd consecutive Cup Series title",
+  "summary_ar": [],
+  "summary_en": [],
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaHZLM2Zob2dZQzVIQlM5SUZ6YWRsc2sxV2xoVDhWd3pPZnM1RXNBaWFoWTVrOFpZbk5SX1NsQXk4d2l1V0tJRWF6ZkZjQW1PWXpIZXJFTTVJV1l3eE9wMVR4dUZlRlFPSkhTRnpMWGJtNmFhNzZ3c3BvWGlURVVZMkxpV2h4YzlSMXBlazMwWkwtcXViUkE?oc=5",
+  "published": "2026-11-08T23:51:22.000Z",
+  "subject": "saudi",
+  "tone": "neutral",
+  "topic": "",
+  "country": "US",
+  "pending": true,
+  "desc": "NASCAR phenom Kyle Larson wins 2nd consecutive Cup Series title &nbsp;&nbsp; CNN",
+  "lang": "en"
+ },
+ {
   "id": "3f00002e74be6c91",
   "origin": "rss",
   "source": "MMA Junkie",
@@ -10390,27 +10410,6 @@
   "country": "",
   "pending": true,
   "desc": "Saudi Arabia issues, lifts 3 danger alerts &nbsp;&nbsp; Breakingthenews.net",
-  "lang": "en",
-  "mt": true
- },
- {
-  "id": "fc40bd9e5ac334a7",
-  "origin": "rss",
-  "source": "Arab News",
-  "author": "",
-  "title_ar": "قادة كيانات الرعاية الصحية السعودية يحصلون على أعلى مراتب الشرف في حفل توزيع جوائز تجربة العملاء في لندن",
-  "title_orig": "Saudi healthcare entities, leaders claim top honors at London customer experience awards",
-  "title_en": "Saudi healthcare entities, leaders claim top honors at London customer experience awards",
-  "summary_ar": [],
-  "summary_en": [],
-  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPODcybzlxNEpsanZzWDdMcHhsa0ZaUURvMVRhZmJrSTFHcU9GeW1EaWdUenZBOVo2MXRpNm9BYWlfTkZXbl9IZVowTm5KTU10ZVZrVmpWQ3U0Mk5DSU5jelMyUDQ1VnVRSTlfVWR5Zy0wRGYzR0FFX3p1enpramtlaGVSZ1VwdGVXbzlscXdUWkNUZktudDM2Y2ZOM1dwZUVYcHNVa21LOFF6cjFJa19PNG82NlZYTTAyWjVqc3BNdUwzX2J1YTR6aEo2ZXk0dw?oc=5",
-  "published": "2026-11-08T02:32:05.000Z",
-  "subject": "saudi",
-  "tone": "neutral",
-  "topic": "",
-  "country": "",
-  "pending": true,
-  "desc": "Saudi healthcare entities, leaders claim top honors at London customer experience awards &nbsp;&nbsp; Arab News",
   "lang": "en",
   "mt": true
  }
