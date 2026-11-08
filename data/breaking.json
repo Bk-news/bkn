@@ -1,5 +1,17 @@
 [
  {
+  "id": "b186bcdc73b0435c",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "الصحة المصرية: ارتفاع عدد قتلى حادث قطار العياط إلى 7",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152844",
+  "published": "2026-11-08T16:22:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-08T16:22:01.000Z"
+ },
+ {
   "id": "0a33813ca4e6ec32",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -130,17 +142,5 @@
   "published": "2026-11-08T15:46:01.000Z",
   "subject": "saudi",
   "added": "2026-11-08T15:46:01.000Z"
- },
- {
-  "id": "eb1ab51e1684a6b6",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "الرئيس الإسرائيلي: يجب أن نتقدم في المفاوضات مع لبنان",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152832",
-  "published": "2026-11-08T15:23:01.000Z",
-  "subject": "saudi",
-  "added": "2026-11-08T15:23:01.000Z"
  }
 ]

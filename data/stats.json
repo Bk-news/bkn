@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 287,
-   "news": 287,
+   "total": 288,
+   "news": 288,
    "articles": 0,
    "positive": 0,
-   "neutral": 287,
+   "neutral": 288,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -7225,7 +7225,8 @@
     "houseofsaud.com": 1,
     "ARN News Centre": 1,
     "The Manila Times": 1,
-    "Philenews": 1
+    "Philenews": 1,
+    "Organiser": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -7854,6 +7855,11 @@
      0
     ],
     "Philenews": [
+     0,
+     1,
+     0
+    ],
+    "Organiser": [
      0,
      1,
      0
