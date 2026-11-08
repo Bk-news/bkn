@@ -2,6 +2,27 @@
  "day": "2026-11-08",
  "items": [
   {
+   "id": "2a662444571ab580",
+   "origin": "rss",
+   "source": "The Manila Times",
+   "author": "",
+   "title_ar": "33 قتيلاً في الغارات السعودية على اليمن",
+   "title_orig": "33 killed in Saudi Arabia strikes on Yemen",
+   "title_en": "33 killed in Saudi Arabia strikes on Yemen",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR2w5R1oyZGhtTmdUQjh1WmF6azhIcWh1bjRWcXhXRXJQM29IUnpFWEV3MS1jbE1PZlByYzFFeWJCQWt2clo3VTRzbzQ4MDJPcmIwSjhLWEtyWFR6TGNFeW90Wlh4MUlOVV9tcmpYczhUY0xWYjlmMWsyZjFZeFphd3IybFRPanEtNlR1MTVBZHdwQ3BMV2djc01ZSdIBoAFBVV95cUxQSGNtaDhDb050eVYzSjl6eVdOSUVJSXpJQVJROFRueHRMZnhPNGhYQS02UFRLc2VzOEFIcl9Na1hOaWIwLS1RUWoxaHR3TXF0cC1XeDhYeXNfYmdoSm5mY3dVOUJnMjZrcmRmWDIyZHdNVTFacHEzQ2lRRWhiQldxN29pVlNoY3hZNnJwTFFDaUIwMjZORkxHM0hMWEJYM0Ra?oc=5",
+   "published": "2026-11-08T16:04:00.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "",
+   "pending": true,
+   "desc": "33 killed in Saudi Arabia strikes on Yemen &nbsp;&nbsp; The Manila Times",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "4e84f239a621148f",
    "origin": "rss",
    "source": "ARN News Centre",

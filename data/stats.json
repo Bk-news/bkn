@@ -5431,15 +5431,15 @@
    }
   },
   "2026-11-06": {
-   "total": 626,
-   "news": 617,
+   "total": 628,
+   "news": 619,
    "articles": 9,
    "positive": 0,
-   "neutral": 626,
+   "neutral": 628,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 221,
+    "GB": 223,
     "SA": 103,
     "US": 114,
     "DE": 4,
@@ -5450,7 +5450,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Reuters": 170,
+    "Reuters": 172,
     "Arab News": 104,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
@@ -5606,7 +5606,7 @@
     ],
     "Reuters": [
      0,
-     170,
+     172,
      0
     ],
     "Arab News": [
@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 283,
-   "news": 283,
+   "total": 284,
+   "news": 284,
    "articles": 0,
    "positive": 0,
-   "neutral": 283,
+   "neutral": 284,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -7223,7 +7223,8 @@
     "CNBC": 1,
     "Telegraph India": 1,
     "houseofsaud.com": 1,
-    "ARN News Centre": 1
+    "ARN News Centre": 1,
+    "The Manila Times": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -7842,6 +7843,11 @@
      0
     ],
     "ARN News Centre": [
+     0,
+     1,
+     0
+    ],
+    "The Manila Times": [
      0,
      1,
      0
