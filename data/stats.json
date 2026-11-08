@@ -5431,15 +5431,15 @@
    }
   },
   "2026-11-06": {
-   "total": 618,
-   "news": 609,
+   "total": 622,
+   "news": 613,
    "articles": 9,
    "positive": 0,
-   "neutral": 618,
+   "neutral": 622,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 214,
+    "GB": 218,
     "SA": 103,
     "US": 113,
     "DE": 4,
@@ -5450,7 +5450,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Reuters": 163,
+    "Reuters": 167,
     "Arab News": 104,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
@@ -5606,7 +5606,7 @@
     ],
     "Reuters": [
      0,
-     163,
+     167,
      0
     ],
     "Arab News": [
@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 220,
-   "news": 220,
+   "total": 254,
+   "news": 254,
    "articles": 0,
    "positive": 0,
-   "neutral": 220,
+   "neutral": 254,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -7100,20 +7100,20 @@
    },
    "topics": {},
    "sources": {
-    "Arab News": 38,
+    "Arab News": 40,
     "France 24": 2,
     "South China Morning Post": 2,
     "RTE.ie": 1,
     "The Express Tribune": 2,
     "The Kathmandu Post": 1,
     "Moneycontrol.com": 1,
-    "Deccan Chronicle": 2,
+    "Deccan Chronicle": 3,
     "Hindustan Times": 1,
     "Facebook": 2,
     "China Daily Global Edition": 1,
     "The Times of India": 3,
     "الخبر اليمني": 2,
-    "Reuters": 15,
+    "Reuters": 16,
     "Breakingthenews.net": 1,
     "WSJ": 3,
     "AP News": 6,
@@ -7122,13 +7122,13 @@
     "Al-Monitor": 12,
     "The Washington Post": 2,
     "BBC": 5,
-    "Financial Times": 7,
+    "Financial Times": 8,
     "The Guardian": 2,
     "Arab News PK": 3,
     "Khaama Press": 1,
-    "Yahoo Sports": 2,
+    "Yahoo Sports": 3,
     "arabinform.com": 1,
-    "Gulf News": 4,
+    "Gulf News": 5,
     "شفق نيوز": 1,
     "Kurdistan24": 1,
     "BroadcastPro ME": 1,
@@ -7152,7 +7152,7 @@
     "Bloody Elbow": 1,
     "Open Magazine": 1,
     "Investing.com": 2,
-    "The Independent": 1,
+    "The Independent": 2,
     "MMA Fighting": 1,
     "i24NEWS": 1,
     "theScore": 1,
@@ -7178,26 +7178,48 @@
     "oEnergetice.cz": 1,
     "Defence.in": 1,
     "upi": 1,
-    "Bloomberg.com": 1,
-    "Saudi Gazette": 7,
-    "The New York Times": 5,
+    "Bloomberg.com": 2,
+    "Saudi Gazette": 8,
+    "The New York Times": 6,
     "Spiegel": 1,
     "The Seattle Times": 1,
     "Middle East Eye": 1,
     "Yeni Şafak English": 1,
     "Iran International": 1,
     "The Indian Express": 1,
-    "IraqiNews": 1,
+    "IraqiNews": 2,
     "Multibagg AI": 1,
     "Business Insider Africa": 1,
     "JNS": 1,
     "Investing.com India": 1,
-    "news.sbs.co.kr": 1
+    "news.sbs.co.kr": 1,
+    "CairoScene": 1,
+    "National Herald": 1,
+    "Investing.com UK": 1,
+    "Egypt Today": 1,
+    "Middle East Monitor": 1,
+    "Khaleej Times": 1,
+    "Egyptian Gazette": 1,
+    "Bhaskar English": 1,
+    "www.nationpathindia.com": 1,
+    "Ahram Online": 1,
+    "Rediff": 1,
+    "The Jerusalem Post": 1,
+    "NewsCord": 1,
+    "MMA Mania": 1,
+    "BusinessLine": 1,
+    "A News": 1,
+    "Global Arab Network": 1,
+    "ummid.com": 1,
+    "The Times of Israel": 1,
+    "The Telegraph": 1,
+    "Newsweek": 1,
+    "https://houseofsaud.com/": 1
    },
    "sourceTone": {
     "Arab News": [
      0,
-     38,
+     40,
      0
     ],
     "France 24": [
@@ -7232,7 +7254,7 @@
     ],
     "Deccan Chronicle": [
      0,
-     2,
+     3,
      0
     ],
     "Hindustan Times": [
@@ -7262,7 +7284,7 @@
     ],
     "Reuters": [
      0,
-     15,
+     16,
      0
     ],
     "Breakingthenews.net": [
@@ -7307,7 +7329,7 @@
     ],
     "Financial Times": [
      0,
-     7,
+     8,
      0
     ],
     "The Guardian": [
@@ -7327,7 +7349,7 @@
     ],
     "Yahoo Sports": [
      0,
-     2,
+     3,
      0
     ],
     "arabinform.com": [
@@ -7337,7 +7359,7 @@
     ],
     "Gulf News": [
      0,
-     4,
+     5,
      0
     ],
     "شفق نيوز": [
@@ -7457,7 +7479,7 @@
     ],
     "The Independent": [
      0,
-     1,
+     2,
      0
     ],
     "MMA Fighting": [
@@ -7587,17 +7609,17 @@
     ],
     "Bloomberg.com": [
      0,
-     1,
+     2,
      0
     ],
     "Saudi Gazette": [
      0,
-     7,
+     8,
      0
     ],
     "The New York Times": [
      0,
-     5,
+     6,
      0
     ],
     "Spiegel": [
@@ -7632,7 +7654,7 @@
     ],
     "IraqiNews": [
      0,
-     1,
+     2,
      0
     ],
     "Multibagg AI": [
@@ -7656,6 +7678,116 @@
      0
     ],
     "news.sbs.co.kr": [
+     0,
+     1,
+     0
+    ],
+    "CairoScene": [
+     0,
+     1,
+     0
+    ],
+    "National Herald": [
+     0,
+     1,
+     0
+    ],
+    "Investing.com UK": [
+     0,
+     1,
+     0
+    ],
+    "Egypt Today": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Monitor": [
+     0,
+     1,
+     0
+    ],
+    "Khaleej Times": [
+     0,
+     1,
+     0
+    ],
+    "Egyptian Gazette": [
+     0,
+     1,
+     0
+    ],
+    "Bhaskar English": [
+     0,
+     1,
+     0
+    ],
+    "www.nationpathindia.com": [
+     0,
+     1,
+     0
+    ],
+    "Ahram Online": [
+     0,
+     1,
+     0
+    ],
+    "Rediff": [
+     0,
+     1,
+     0
+    ],
+    "The Jerusalem Post": [
+     0,
+     1,
+     0
+    ],
+    "NewsCord": [
+     0,
+     1,
+     0
+    ],
+    "MMA Mania": [
+     0,
+     1,
+     0
+    ],
+    "BusinessLine": [
+     0,
+     1,
+     0
+    ],
+    "A News": [
+     0,
+     1,
+     0
+    ],
+    "Global Arab Network": [
+     0,
+     1,
+     0
+    ],
+    "ummid.com": [
+     0,
+     1,
+     0
+    ],
+    "The Times of Israel": [
+     0,
+     1,
+     0
+    ],
+    "The Telegraph": [
+     0,
+     1,
+     0
+    ],
+    "Newsweek": [
+     0,
+     1,
+     0
+    ],
+    "https://houseofsaud.com/": [
      0,
      1,
      0
