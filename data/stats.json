@@ -5431,15 +5431,15 @@
    }
   },
   "2026-11-06": {
-   "total": 604,
-   "news": 595,
+   "total": 605,
+   "news": 596,
    "articles": 9,
    "positive": 0,
-   "neutral": 604,
+   "neutral": 605,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 203,
+    "GB": 204,
     "SA": 103,
     "US": 110,
     "DE": 4,
@@ -5454,7 +5454,7 @@
     "Arab News": 104,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
-    "The Guardian": 9,
+    "The Guardian": 10,
     "WSJ": 32,
     "Al-Monitor": 16,
     "The New York Times": 19,
@@ -5626,7 +5626,7 @@
     ],
     "The Guardian": [
      0,
-     9,
+     10,
      0
     ],
     "WSJ": [
@@ -6342,15 +6342,15 @@
    }
   },
   "2026-11-07": {
-   "total": 357,
-   "news": 355,
+   "total": 358,
+   "news": 356,
    "articles": 2,
    "positive": 0,
-   "neutral": 357,
+   "neutral": 358,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 76,
+    "GB": 77,
     "SA": 56,
     "US": 45,
     "FR": 7,
@@ -6368,7 +6368,7 @@
     "Nacionale": 1,
     "WSJ": 3,
     "وكالة الأنباء السعودية": 2,
-    "Financial Times": 23,
+    "Financial Times": 24,
     "The Arab Weekly": 1,
     "The Guardian": 4,
     "The New York Times": 8,
@@ -6532,7 +6532,7 @@
     ],
     "Financial Times": [
      0,
-     23,
+     24,
      0
     ],
     "The Arab Weekly": [
@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 107,
-   "news": 107,
+   "total": 108,
+   "news": 108,
    "articles": 0,
    "positive": 0,
-   "neutral": 107,
+   "neutral": 108,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -7165,7 +7165,8 @@
     "CBS Sports": 1,
     "Heavy.com": 1,
     "8AM Media": 1,
-    "NDTV": 1
+    "NDTV": 1,
+    "アラブニュース": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -7499,6 +7500,11 @@
      0
     ],
     "NDTV": [
+     0,
+     1,
+     0
+    ],
+    "アラブニュース": [
      0,
      1,
      0
