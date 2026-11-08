@@ -7077,11 +7077,11 @@
    }
   },
   "2026-11-08": {
-   "total": 19,
-   "news": 19,
+   "total": 20,
+   "news": 20,
    "articles": 0,
    "positive": 0,
-   "neutral": 19,
+   "neutral": 20,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -7105,7 +7105,8 @@
     "China Daily Global Edition": 1,
     "The Times of India": 2,
     "الخبر اليمني": 1,
-    "Reuters": 1
+    "Reuters": 1,
+    "Breakingthenews.net": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -7174,6 +7175,11 @@
      0
     ],
     "Reuters": [
+     0,
+     1,
+     0
+    ],
+    "Breakingthenews.net": [
      0,
      1,
      0
