@@ -2,6 +2,26 @@
  "day": "2026-11-08",
  "items": [
   {
+   "id": "0055cd2a82c45a3d",
+   "origin": "rss",
+   "source": "الخبر اليمني",
+   "author": "",
+   "title_ar": "The Hardest Day in the History of Saudi Arabia... Details of Successive Waves of Yemeni Lava",
+   "title_orig": "The Hardest Day in the History of Saudi Arabia... Details of Successive Waves of Yemeni Lava",
+   "title_en": "The Hardest Day in the History of Saudi Arabia... Details of Successive Waves of Yemeni Lava",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95QWsyaWJ0RTJwdmxreldhNEtIVXZPUWpIczNUSm1hTFB6SW1PRlJDSjFyckhva0RLNEZVSkVnTGFOZlM5cHNEZS1yRkxIV0k3YXZJMG44T1VuZ0U?oc=5",
+   "published": "2026-11-08T23:35:48.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "",
+   "pending": true,
+   "desc": "The Hardest Day in the History of Saudi Arabia... Details of Successive Waves of Yemeni Lava &nbsp;&nbsp; الخبر اليمني",
+   "lang": "en"
+  },
+  {
    "id": "8a53eef18c204303",
    "origin": "rss",
    "source": "Nacionale",
@@ -759,6 +779,26 @@
    "country": "GB",
    "pending": true,
    "desc": "US High School Economics class: US economy beats forecasts to grow at 3.4% rate in third quarter &nbsp;&nbsp; Financial Times",
+   "lang": "en"
+  },
+  {
+   "id": "350235aa85c216d9",
+   "origin": "rss",
+   "source": "WSJ",
+   "author": "",
+   "title_ar": "Brooklyn House Fire Kills Six People",
+   "title_orig": "Brooklyn House Fire Kills Six People",
+   "title_en": "Brooklyn House Fire Kills Six People",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81dVZxa2FyczZPYUhIdmgtTWF0eVZtcXJSaUg3aFYtOGY1d1c5aEJXLTlmQ2JNaXotZ2RGd1hfNkZ4V2wtNVRQYy05YVJfVVhfdHpkczUyWFpJUFZmN2NXUTB0MmE1OW4zN0hoUHJFTTRxZWtUaElrNWtxRkV4dw?oc=5",
+   "published": "2026-11-08T21:33:43.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "Brooklyn House Fire Kills Six People &nbsp;&nbsp; WSJ",
    "lang": "en"
   },
   {

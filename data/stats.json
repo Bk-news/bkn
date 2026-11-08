@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 527,
-   "news": 523,
+   "total": 529,
+   "news": 525,
    "articles": 4,
    "positive": 0,
-   "neutral": 527,
+   "neutral": 529,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -7095,7 +7095,7 @@
     "FR": 52,
     "HK": 6,
     "GB": 98,
-    "US": 81,
+    "US": 82,
     "DE": 2
    },
    "topics": {},
@@ -7112,10 +7112,10 @@
     "Facebook": 2,
     "China Daily Global Edition": 1,
     "The Times of India": 3,
-    "الخبر اليمني": 2,
+    "الخبر اليمني": 3,
     "Reuters": 42,
     "Breakingthenews.net": 1,
-    "WSJ": 7,
+    "WSJ": 8,
     "AP News": 11,
     "Yemen Online": 2,
     "Le Monde.fr": 6,
@@ -7316,7 +7316,7 @@
     ],
     "الخبر اليمني": [
      0,
-     2,
+     3,
      0
     ],
     "Reuters": [
@@ -7331,7 +7331,7 @@
     ],
     "WSJ": [
      0,
-     7,
+     8,
      0
     ],
     "AP News": [
