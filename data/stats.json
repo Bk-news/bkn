@@ -6342,17 +6342,17 @@
    }
   },
   "2026-11-07": {
-   "total": 454,
-   "news": 451,
+   "total": 455,
+   "news": 452,
    "articles": 3,
    "positive": 0,
-   "neutral": 454,
+   "neutral": 455,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 144,
     "SA": 60,
-    "US": 69,
+    "US": 70,
     "FR": 8,
     "HK": 1
    },
@@ -6372,7 +6372,7 @@
     "The Arab Weekly": 1,
     "The Guardian": 4,
     "The New York Times": 12,
-    "CNN": 21,
+    "CNN": 22,
     "The Economist": 3,
     "Daily Observer": 2,
     "سانا": 3,
@@ -6552,7 +6552,7 @@
     ],
     "CNN": [
      0,
-     21,
+     22,
      0
     ],
     "The Economist": [
@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 432,
-   "news": 431,
+   "total": 434,
+   "news": 433,
    "articles": 1,
    "positive": 0,
-   "neutral": 432,
+   "neutral": 434,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -7095,7 +7095,7 @@
     "FR": 30,
     "HK": 4,
     "GB": 77,
-    "US": 62,
+    "US": 63,
     "DE": 2
    },
    "topics": {},
@@ -7116,7 +7116,7 @@
     "Reuters": 33,
     "Breakingthenews.net": 1,
     "WSJ": 4,
-    "AP News": 10,
+    "AP News": 11,
     "Yemen Online": 1,
     "Le Monde.fr": 5,
     "Al-Monitor": 15,
@@ -7241,7 +7241,8 @@
     "News On AIR": 1,
     "scanx.trade": 1,
     "DW.com": 1,
-    "Fightful": 1
+    "Fightful": 1,
+    "Peoples Gazette Nigeria": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -7326,7 +7327,7 @@
     ],
     "AP News": [
      0,
-     10,
+     11,
      0
     ],
     "Yemen Online": [
@@ -7950,6 +7951,11 @@
      0
     ],
     "Fightful": [
+     0,
+     1,
+     0
+    ],
+    "Peoples Gazette Nigeria": [
      0,
      1,
      0
