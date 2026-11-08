@@ -6342,11 +6342,11 @@
    }
   },
   "2026-11-07": {
-   "total": 356,
-   "news": 354,
+   "total": 357,
+   "news": 355,
    "articles": 2,
    "positive": 0,
-   "neutral": 356,
+   "neutral": 357,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -6459,7 +6459,7 @@
     "Autoblog": 1,
     "Business Insider Africa": 1,
     "Awful Announcing": 1,
-    "DW.com": 1,
+    "DW.com": 2,
     "WSLS": 1,
     "upi": 1,
     "Devdiscourse": 1,
@@ -6987,7 +6987,7 @@
     ],
     "DW.com": [
      0,
-     1,
+     2,
      0
     ],
     "WSLS": [
@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 82,
-   "news": 82,
+   "total": 107,
+   "news": 107,
    "articles": 0,
    "positive": 0,
-   "neutral": 82,
+   "neutral": 107,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -7127,7 +7127,7 @@
     "Khaama Press": 1,
     "Yahoo Sports": 2,
     "arabinform.com": 1,
-    "Gulf News": 1,
+    "Gulf News": 2,
     "شفق نيوز": 1,
     "Kurdistan24": 1,
     "BroadcastPro ME": 1,
@@ -7138,14 +7138,34 @@
     "سانا": 1,
     "Türkiye Today": 2,
     "The Peninsula Qatar": 1,
-    "Firstpost": 1,
+    "Firstpost": 2,
     "UA.NEWS": 2,
     "Al Arabiya English": 1,
     "Latest news from Azerbaijan": 1,
     "تسنیم": 1,
-    "Anadolu Ajansı": 1,
-    "Mehr News Agency": 1,
-    "Pars Today": 1
+    "Anadolu Ajansı": 2,
+    "Mehr News Agency": 2,
+    "Pars Today": 1,
+    "The Economic Times": 2,
+    "TradingView": 1,
+    "Bloody Elbow": 1,
+    "Open Magazine": 1,
+    "Investing.com": 1,
+    "The Independent": 1,
+    "MMA Fighting": 1,
+    "i24NEWS": 1,
+    "theScore": 1,
+    "MMA Junkie": 1,
+    "chinadailyhk": 1,
+    "EL PAÍS English": 1,
+    "MMANews.com": 1,
+    "Cageside Press": 1,
+    "People Daily": 1,
+    "Central Oregon Daily": 1,
+    "CBS Sports": 1,
+    "Heavy.com": 1,
+    "8AM Media": 1,
+    "NDTV": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -7290,7 +7310,7 @@
     ],
     "Gulf News": [
      0,
-     1,
+     2,
      0
     ],
     "شفق نيوز": [
@@ -7345,7 +7365,7 @@
     ],
     "Firstpost": [
      0,
-     1,
+     2,
      0
     ],
     "UA.NEWS": [
@@ -7370,15 +7390,115 @@
     ],
     "Anadolu Ajansı": [
      0,
-     1,
+     2,
      0
     ],
     "Mehr News Agency": [
      0,
-     1,
+     2,
      0
     ],
     "Pars Today": [
+     0,
+     1,
+     0
+    ],
+    "The Economic Times": [
+     0,
+     2,
+     0
+    ],
+    "TradingView": [
+     0,
+     1,
+     0
+    ],
+    "Bloody Elbow": [
+     0,
+     1,
+     0
+    ],
+    "Open Magazine": [
+     0,
+     1,
+     0
+    ],
+    "Investing.com": [
+     0,
+     1,
+     0
+    ],
+    "The Independent": [
+     0,
+     1,
+     0
+    ],
+    "MMA Fighting": [
+     0,
+     1,
+     0
+    ],
+    "i24NEWS": [
+     0,
+     1,
+     0
+    ],
+    "theScore": [
+     0,
+     1,
+     0
+    ],
+    "MMA Junkie": [
+     0,
+     1,
+     0
+    ],
+    "chinadailyhk": [
+     0,
+     1,
+     0
+    ],
+    "EL PAÍS English": [
+     0,
+     1,
+     0
+    ],
+    "MMANews.com": [
+     0,
+     1,
+     0
+    ],
+    "Cageside Press": [
+     0,
+     1,
+     0
+    ],
+    "People Daily": [
+     0,
+     1,
+     0
+    ],
+    "Central Oregon Daily": [
+     0,
+     1,
+     0
+    ],
+    "CBS Sports": [
+     0,
+     1,
+     0
+    ],
+    "Heavy.com": [
+     0,
+     1,
+     0
+    ],
+    "8AM Media": [
+     0,
+     1,
+     0
+    ],
+    "NDTV": [
      0,
      1,
      0
