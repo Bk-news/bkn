@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 258,
-   "news": 258,
+   "total": 260,
+   "news": 260,
    "articles": 0,
    "positive": 0,
-   "neutral": 258,
+   "neutral": 260,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -7142,7 +7142,7 @@
     "Firstpost": 2,
     "UA.NEWS": 2,
     "Al Arabiya English": 2,
-    "Latest news from Azerbaijan": 2,
+    "Latest news from Azerbaijan": 3,
     "تسنیم": 2,
     "Anadolu Ajansı": 2,
     "Mehr News Agency": 2,
@@ -7214,7 +7214,8 @@
     "The Times of Israel": 1,
     "The Telegraph": 1,
     "Newsweek": 1,
-    "https://houseofsaud.com/": 1
+    "https://houseofsaud.com/": 1,
+    "LiveScore": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -7429,7 +7430,7 @@
     ],
     "Latest news from Azerbaijan": [
      0,
-     2,
+     3,
      0
     ],
     "تسنیم": [
@@ -7788,6 +7789,11 @@
      0
     ],
     "https://houseofsaud.com/": [
+     0,
+     1,
+     0
+    ],
+    "LiveScore": [
      0,
      1,
      0
