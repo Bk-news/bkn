@@ -6342,17 +6342,17 @@
    }
   },
   "2026-11-07": {
-   "total": 389,
-   "news": 387,
+   "total": 390,
+   "news": 388,
    "articles": 2,
    "positive": 0,
-   "neutral": 389,
+   "neutral": 390,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 91,
     "SA": 59,
-    "US": 59,
+    "US": 60,
     "FR": 7,
     "HK": 1
    },
@@ -6366,7 +6366,7 @@
     "Le Monde.fr": 5,
     "BBC": 12,
     "Nacionale": 1,
-    "WSJ": 3,
+    "WSJ": 4,
     "وكالة الأنباء السعودية": 2,
     "Financial Times": 29,
     "The Arab Weekly": 1,
@@ -6522,7 +6522,7 @@
     ],
     "WSJ": [
      0,
-     3,
+     4,
      0
     ],
     "وكالة الأنباء السعودية": [
@@ -7083,24 +7083,24 @@
    }
   },
   "2026-11-08": {
-   "total": 290,
-   "news": 290,
+   "total": 292,
+   "news": 292,
    "articles": 0,
    "positive": 0,
-   "neutral": 290,
+   "neutral": 292,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 37,
+    "SA": 38,
     "FR": 5,
     "HK": 3,
     "GB": 39,
-    "US": 40,
+    "US": 41,
     "DE": 1
    },
    "topics": {},
    "sources": {
-    "Arab News": 41,
+    "Arab News": 42,
     "France 24": 3,
     "South China Morning Post": 3,
     "RTE.ie": 1,
@@ -7119,7 +7119,7 @@
     "AP News": 6,
     "Yemen Online": 1,
     "Le Monde.fr": 4,
-    "Al-Monitor": 12,
+    "Al-Monitor": 13,
     "The Washington Post": 2,
     "BBC": 6,
     "Financial Times": 9,
@@ -7231,7 +7231,7 @@
    "sourceTone": {
     "Arab News": [
      0,
-     41,
+     42,
      0
     ],
     "France 24": [
@@ -7326,7 +7326,7 @@
     ],
     "Al-Monitor": [
      0,
-     12,
+     13,
      0
     ],
     "The Washington Post": [
