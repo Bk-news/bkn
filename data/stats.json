@@ -7083,15 +7083,15 @@
    }
   },
   "2026-11-08": {
-   "total": 117,
-   "news": 117,
+   "total": 119,
+   "news": 119,
    "articles": 0,
    "positive": 0,
-   "neutral": 117,
+   "neutral": 119,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "SA": 13,
+    "SA": 15,
     "FR": 3,
     "HK": 1,
     "GB": 9,
@@ -7099,7 +7099,7 @@
    },
    "topics": {},
    "sources": {
-    "Arab News": 18,
+    "Arab News": 20,
     "France 24": 2,
     "South China Morning Post": 1,
     "RTE.ie": 1,
@@ -7175,7 +7175,7 @@
    "sourceTone": {
     "Arab News": [
      0,
-     18,
+     20,
      0
     ],
     "France 24": [
