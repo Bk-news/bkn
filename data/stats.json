@@ -5431,15 +5431,15 @@
    }
   },
   "2026-11-06": {
-   "total": 630,
-   "news": 621,
+   "total": 631,
+   "news": 622,
    "articles": 9,
    "positive": 0,
-   "neutral": 630,
+   "neutral": 631,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 225,
+    "GB": 226,
     "SA": 103,
     "US": 114,
     "DE": 4,
@@ -5450,7 +5450,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Reuters": 174,
+    "Reuters": 175,
     "Arab News": 104,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
@@ -5606,7 +5606,7 @@
     ],
     "Reuters": [
      0,
-     174,
+     175,
      0
     ],
     "Arab News": [
@@ -7083,24 +7083,24 @@
    }
   },
   "2026-11-08": {
-   "total": 292,
-   "news": 292,
+   "total": 296,
+   "news": 296,
    "articles": 0,
    "positive": 0,
-   "neutral": 292,
+   "neutral": 296,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 38,
+    "SA": 39,
     "FR": 5,
     "HK": 3,
-    "GB": 39,
+    "GB": 40,
     "US": 41,
     "DE": 1
    },
    "topics": {},
    "sources": {
-    "Arab News": 42,
+    "Arab News": 43,
     "France 24": 3,
     "South China Morning Post": 3,
     "RTE.ie": 1,
@@ -7113,7 +7113,7 @@
     "China Daily Global Edition": 1,
     "The Times of India": 3,
     "الخبر اليمني": 2,
-    "Reuters": 24,
+    "Reuters": 25,
     "Breakingthenews.net": 1,
     "WSJ": 3,
     "AP News": 6,
@@ -7189,7 +7189,7 @@
     "The Indian Express": 1,
     "IraqiNews": 2,
     "Multibagg AI": 1,
-    "Business Insider Africa": 1,
+    "Business Insider Africa": 2,
     "JNS": 1,
     "Investing.com India": 1,
     "news.sbs.co.kr": 1,
@@ -7226,12 +7226,13 @@
     "ARN News Centre": 1,
     "The Manila Times": 1,
     "Philenews": 1,
-    "Organiser": 1
+    "Organiser": 1,
+    "GuruFocus": 1
    },
    "sourceTone": {
     "Arab News": [
      0,
-     42,
+     43,
      0
     ],
     "France 24": [
@@ -7296,7 +7297,7 @@
     ],
     "Reuters": [
      0,
-     24,
+     25,
      0
     ],
     "Breakingthenews.net": [
@@ -7676,7 +7677,7 @@
     ],
     "Business Insider Africa": [
      0,
-     1,
+     2,
      0
     ],
     "JNS": [
@@ -7860,6 +7861,11 @@
      0
     ],
     "Organiser": [
+     0,
+     1,
+     0
+    ],
+    "GuruFocus": [
      0,
      1,
      0
