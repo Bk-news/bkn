@@ -5431,15 +5431,15 @@
    }
   },
   "2026-11-06": {
-   "total": 591,
-   "news": 582,
+   "total": 592,
+   "news": 583,
    "articles": 9,
    "positive": 0,
-   "neutral": 591,
+   "neutral": 592,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 190,
+    "GB": 191,
     "SA": 103,
     "US": 110,
     "DE": 4,
@@ -5450,7 +5450,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Reuters": 142,
+    "Reuters": 143,
     "Arab News": 104,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
@@ -5606,7 +5606,7 @@
     ],
     "Reuters": [
      0,
-     142,
+     143,
      0
     ],
     "Arab News": [
@@ -7077,11 +7077,11 @@
    }
   },
   "2026-11-08": {
-   "total": 22,
-   "news": 22,
+   "total": 23,
+   "news": 23,
    "articles": 0,
    "positive": 0,
-   "neutral": 22,
+   "neutral": 23,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -7089,7 +7089,7 @@
     "FR": 1,
     "HK": 1,
     "GB": 1,
-    "US": 1
+    "US": 2
    },
    "topics": {},
    "sources": {
@@ -7108,7 +7108,8 @@
     "الخبر اليمني": 1,
     "Reuters": 1,
     "Breakingthenews.net": 1,
-    "WSJ": 1
+    "WSJ": 1,
+    "AP News": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -7187,6 +7188,11 @@
      0
     ],
     "WSJ": [
+     0,
+     1,
+     0
+    ],
+    "AP News": [
      0,
      1,
      0
