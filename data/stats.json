@@ -7083,19 +7083,19 @@
    }
   },
   "2026-11-08": {
-   "total": 439,
-   "news": 438,
-   "articles": 1,
+   "total": 441,
+   "news": 439,
+   "articles": 2,
    "positive": 0,
-   "neutral": 439,
+   "neutral": 441,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 63,
     "FR": 30,
     "HK": 4,
-    "GB": 80,
-    "US": 63,
+    "GB": 81,
+    "US": 64,
     "DE": 2
    },
    "topics": {},
@@ -7171,7 +7171,7 @@
     "Bloomberg": 2,
     "NDTV Profit": 1,
     "Gulf Business": 1,
-    "CNN": 14,
+    "CNN": 15,
     "ynetnews": 1,
     "L'Orient Today": 1,
     "Arabian Business": 1,
@@ -7232,7 +7232,7 @@
     "Orlando Sentinel": 1,
     "Morocco World News": 1,
     "ASHARQ AL-AWSAT English": 1,
-    "The Economist": 1,
+    "The Economist": 2,
     "Nacionale": 2,
     "United News of Bangladesh": 2,
     "Around Prague": 1,
@@ -7602,7 +7602,7 @@
     ],
     "CNN": [
      0,
-     14,
+     15,
      0
     ],
     "ynetnews": [
@@ -7907,7 +7907,7 @@
     ],
     "The Economist": [
      0,
-     1,
+     2,
      0
     ],
     "Nacionale": [
