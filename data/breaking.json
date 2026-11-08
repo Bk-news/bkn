@@ -1,5 +1,17 @@
 [
  {
+  "id": "728e147309da13f8",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "رئيس وزراء العراق: لن نسمح لتجار الحروب بتعكير صفو انطلاق عملية البناء والإعمار",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152834",
+  "published": "2026-11-08T16:06:02.000Z",
+  "subject": "saudi",
+  "added": "2026-11-08T16:06:02.000Z"
+ },
+ {
   "id": "8d3c2b176fb4284a",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -118,17 +130,5 @@
   "published": "2026-11-08T15:08:02.000Z",
   "subject": "saudi",
   "added": "2026-11-08T15:08:02.000Z"
- },
- {
-  "id": "2c30ee1ec15d27b9",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "الرئيس الإسرائيلي: يجب محاربة الجريمة في المجتمع العربي",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152823",
-  "published": "2026-11-08T15:07:01.000Z",
-  "subject": "saudi",
-  "added": "2026-11-08T15:07:01.000Z"
  }
 ]
