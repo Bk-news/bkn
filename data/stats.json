@@ -5431,15 +5431,15 @@
    }
   },
   "2026-11-06": {
-   "total": 622,
-   "news": 613,
+   "total": 623,
+   "news": 614,
    "articles": 9,
    "positive": 0,
-   "neutral": 622,
+   "neutral": 623,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 218,
+    "GB": 219,
     "SA": 103,
     "US": 113,
     "DE": 4,
@@ -5450,7 +5450,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Reuters": 167,
+    "Reuters": 168,
     "Arab News": 104,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
@@ -5606,7 +5606,7 @@
     ],
     "Reuters": [
      0,
-     167,
+     168,
      0
     ],
     "Arab News": [
@@ -7083,18 +7083,18 @@
    }
   },
   "2026-11-08": {
-   "total": 254,
-   "news": 254,
+   "total": 258,
+   "news": 258,
    "articles": 0,
    "positive": 0,
-   "neutral": 254,
+   "neutral": 258,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "SA": 36,
     "FR": 4,
-    "HK": 2,
-    "GB": 29,
+    "HK": 3,
+    "GB": 32,
     "US": 34,
     "DE": 1
    },
@@ -7102,7 +7102,7 @@
    "sources": {
     "Arab News": 40,
     "France 24": 2,
-    "South China Morning Post": 2,
+    "South China Morning Post": 3,
     "RTE.ie": 1,
     "The Express Tribune": 2,
     "The Kathmandu Post": 1,
@@ -7113,7 +7113,7 @@
     "China Daily Global Edition": 1,
     "The Times of India": 3,
     "الخبر اليمني": 2,
-    "Reuters": 16,
+    "Reuters": 19,
     "Breakingthenews.net": 1,
     "WSJ": 3,
     "AP News": 6,
@@ -7229,7 +7229,7 @@
     ],
     "South China Morning Post": [
      0,
-     2,
+     3,
      0
     ],
     "RTE.ie": [
@@ -7284,7 +7284,7 @@
     ],
     "Reuters": [
      0,
-     16,
+     19,
      0
     ],
     "Breakingthenews.net": [
