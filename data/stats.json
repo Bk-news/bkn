@@ -5431,17 +5431,17 @@
    }
   },
   "2026-11-06": {
-   "total": 607,
-   "news": 598,
+   "total": 609,
+   "news": 600,
    "articles": 9,
    "positive": 0,
-   "neutral": 607,
+   "neutral": 609,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 205,
     "SA": 103,
-    "US": 111,
+    "US": 113,
     "DE": 4,
     "HK": 6,
     "FR": 7,
@@ -5532,7 +5532,7 @@
     "Deccan Chronicle": 1,
     "Egypt Today": 2,
     "Atlantic Council": 7,
-    "The Washington Post": 4,
+    "The Washington Post": 6,
     "Boston Herald": 1,
     "Le Monde.fr": 3,
     "Game Developer": 1,
@@ -6016,7 +6016,7 @@
     ],
     "The Washington Post": [
      0,
-     4,
+     6,
      0
     ],
     "Boston Herald": [
@@ -7083,25 +7083,26 @@
    }
   },
   "2026-11-08": {
-   "total": 130,
-   "news": 130,
+   "total": 168,
+   "news": 168,
    "articles": 0,
    "positive": 0,
-   "neutral": 130,
+   "neutral": 168,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "SA": 15,
-    "FR": 3,
-    "HK": 1,
-    "GB": 11,
-    "US": 11
+    "SA": 22,
+    "FR": 4,
+    "HK": 2,
+    "GB": 20,
+    "US": 26,
+    "DE": 1
    },
    "topics": {},
    "sources": {
-    "Arab News": 20,
+    "Arab News": 24,
     "France 24": 2,
-    "South China Morning Post": 1,
+    "South China Morning Post": 2,
     "RTE.ie": 1,
     "The Express Tribune": 2,
     "The Kathmandu Post": 1,
@@ -7112,18 +7113,18 @@
     "China Daily Global Edition": 1,
     "The Times of India": 3,
     "الخبر اليمني": 2,
-    "Reuters": 4,
+    "Reuters": 7,
     "Breakingthenews.net": 1,
     "WSJ": 2,
-    "AP News": 2,
+    "AP News": 5,
     "Yemen Online": 1,
-    "Le Monde.fr": 2,
-    "Al-Monitor": 5,
-    "The Washington Post": 1,
-    "BBC": 3,
-    "Financial Times": 3,
-    "The Guardian": 1,
-    "Arab News PK": 2,
+    "Le Monde.fr": 3,
+    "Al-Monitor": 8,
+    "The Washington Post": 2,
+    "BBC": 5,
+    "Financial Times": 6,
+    "The Guardian": 2,
+    "Arab News PK": 3,
     "Khaama Press": 1,
     "Yahoo Sports": 2,
     "arabinform.com": 1,
@@ -7141,7 +7142,7 @@
     "Firstpost": 2,
     "UA.NEWS": 2,
     "Al Arabiya English": 2,
-    "Latest news from Azerbaijan": 1,
+    "Latest news from Azerbaijan": 2,
     "تسنیم": 1,
     "Anadolu Ajansı": 2,
     "Mehr News Agency": 2,
@@ -7167,20 +7168,26 @@
     "8AM Media": 1,
     "NDTV": 1,
     "アラブニュース": 1,
-    "Bloomberg": 1,
+    "Bloomberg": 2,
     "NDTV Profit": 1,
     "Gulf Business": 1,
-    "CNN": 1,
+    "CNN": 4,
     "ynetnews": 1,
     "L'Orient Today": 1,
     "Arabian Business": 1,
     "oEnergetice.cz": 1,
-    "Defence.in": 1
+    "Defence.in": 1,
+    "upi": 1,
+    "Bloomberg.com": 1,
+    "Saudi Gazette": 3,
+    "The New York Times": 3,
+    "Spiegel": 1,
+    "The Seattle Times": 1
    },
    "sourceTone": {
     "Arab News": [
      0,
-     20,
+     24,
      0
     ],
     "France 24": [
@@ -7190,7 +7197,7 @@
     ],
     "South China Morning Post": [
      0,
-     1,
+     2,
      0
     ],
     "RTE.ie": [
@@ -7245,7 +7252,7 @@
     ],
     "Reuters": [
      0,
-     4,
+     7,
      0
     ],
     "Breakingthenews.net": [
@@ -7260,7 +7267,7 @@
     ],
     "AP News": [
      0,
-     2,
+     5,
      0
     ],
     "Yemen Online": [
@@ -7270,37 +7277,37 @@
     ],
     "Le Monde.fr": [
      0,
-     2,
+     3,
      0
     ],
     "Al-Monitor": [
      0,
-     5,
+     8,
      0
     ],
     "The Washington Post": [
      0,
-     1,
+     2,
      0
     ],
     "BBC": [
      0,
-     3,
+     5,
      0
     ],
     "Financial Times": [
      0,
-     3,
+     6,
      0
     ],
     "The Guardian": [
      0,
-     1,
+     2,
      0
     ],
     "Arab News PK": [
      0,
-     2,
+     3,
      0
     ],
     "Khaama Press": [
@@ -7390,7 +7397,7 @@
     ],
     "Latest news from Azerbaijan": [
      0,
-     1,
+     2,
      0
     ],
     "تسنیم": [
@@ -7520,7 +7527,7 @@
     ],
     "Bloomberg": [
      0,
-     1,
+     2,
      0
     ],
     "NDTV Profit": [
@@ -7535,7 +7542,7 @@
     ],
     "CNN": [
      0,
-     1,
+     4,
      0
     ],
     "ynetnews": [
@@ -7559,6 +7566,36 @@
      0
     ],
     "Defence.in": [
+     0,
+     1,
+     0
+    ],
+    "upi": [
+     0,
+     1,
+     0
+    ],
+    "Bloomberg.com": [
+     0,
+     1,
+     0
+    ],
+    "Saudi Gazette": [
+     0,
+     3,
+     0
+    ],
+    "The New York Times": [
+     0,
+     3,
+     0
+    ],
+    "Spiegel": [
+     0,
+     1,
+     0
+    ],
+    "The Seattle Times": [
      0,
      1,
      0
