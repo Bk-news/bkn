@@ -5431,15 +5431,15 @@
    }
   },
   "2026-11-06": {
-   "total": 606,
-   "news": 597,
+   "total": 607,
+   "news": 598,
    "articles": 9,
    "positive": 0,
-   "neutral": 606,
+   "neutral": 607,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 204,
+    "GB": 205,
     "SA": 103,
     "US": 111,
     "DE": 4,
@@ -5450,7 +5450,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Reuters": 154,
+    "Reuters": 155,
     "Arab News": 104,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
@@ -5606,7 +5606,7 @@
     ],
     "Reuters": [
      0,
-     154,
+     155,
      0
     ],
     "Arab News": [
@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 119,
-   "news": 119,
+   "total": 122,
+   "news": 122,
    "articles": 0,
    "positive": 0,
-   "neutral": 119,
+   "neutral": 122,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -7123,7 +7123,7 @@
     "BBC": 3,
     "Financial Times": 2,
     "The Guardian": 1,
-    "Arab News PK": 1,
+    "Arab News PK": 2,
     "Khaama Press": 1,
     "Yahoo Sports": 2,
     "arabinform.com": 1,
@@ -7170,7 +7170,9 @@
     "Bloomberg": 1,
     "NDTV Profit": 1,
     "Gulf Business": 1,
-    "CNN": 1
+    "CNN": 1,
+    "ynetnews": 1,
+    "L'Orient Today": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -7295,7 +7297,7 @@
     ],
     "Arab News PK": [
      0,
-     1,
+     2,
      0
     ],
     "Khaama Press": [
@@ -7529,6 +7531,16 @@
      0
     ],
     "CNN": [
+     0,
+     1,
+     0
+    ],
+    "ynetnews": [
+     0,
+     1,
+     0
+    ],
+    "L'Orient Today": [
      0,
      1,
      0
