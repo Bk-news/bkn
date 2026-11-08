@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 129,
-   "news": 129,
+   "total": 130,
+   "news": 130,
    "articles": 0,
    "positive": 0,
-   "neutral": 129,
+   "neutral": 130,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -7140,7 +7140,7 @@
     "The Peninsula Qatar": 1,
     "Firstpost": 2,
     "UA.NEWS": 2,
-    "Al Arabiya English": 1,
+    "Al Arabiya English": 2,
     "Latest news from Azerbaijan": 1,
     "تسنیم": 1,
     "Anadolu Ajansı": 2,
@@ -7385,7 +7385,7 @@
     ],
     "Al Arabiya English": [
      0,
-     1,
+     2,
      0
     ],
     "Latest news from Azerbaijan": [
