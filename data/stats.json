@@ -5431,17 +5431,17 @@
    }
   },
   "2026-11-06": {
-   "total": 631,
-   "news": 622,
+   "total": 632,
+   "news": 623,
    "articles": 9,
    "positive": 0,
-   "neutral": 631,
+   "neutral": 632,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 226,
     "SA": 103,
-    "US": 114,
+    "US": 115,
     "DE": 4,
     "HK": 6,
     "FR": 7,
@@ -5480,7 +5480,7 @@
     "CNN": 2,
     "The Express Tribune": 3,
     "Saudi Gazette": 9,
-    "AP News": 7,
+    "AP News": 8,
     "BBC Shop": 1,
     "Geo News": 1,
     "وكالة الأنباء السعودية": 2,
@@ -5756,7 +5756,7 @@
     ],
     "AP News": [
      0,
-     7,
+     8,
      0
     ],
     "BBC Shop": [
@@ -7083,26 +7083,26 @@
    }
   },
   "2026-11-08": {
-   "total": 296,
-   "news": 296,
+   "total": 335,
+   "news": 335,
    "articles": 0,
    "positive": 0,
-   "neutral": 296,
+   "neutral": 335,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 39,
-    "FR": 5,
-    "HK": 3,
-    "GB": 40,
-    "US": 41,
+    "SA": 45,
+    "FR": 9,
+    "HK": 4,
+    "GB": 49,
+    "US": 54,
     "DE": 1
    },
    "topics": {},
    "sources": {
-    "Arab News": 43,
-    "France 24": 3,
-    "South China Morning Post": 3,
+    "Arab News": 48,
+    "France 24": 7,
+    "South China Morning Post": 4,
     "RTE.ie": 1,
     "The Express Tribune": 2,
     "The Kathmandu Post": 1,
@@ -7113,16 +7113,16 @@
     "China Daily Global Edition": 1,
     "The Times of India": 3,
     "الخبر اليمني": 2,
-    "Reuters": 25,
+    "Reuters": 29,
     "Breakingthenews.net": 1,
-    "WSJ": 3,
-    "AP News": 6,
+    "WSJ": 4,
+    "AP News": 9,
     "Yemen Online": 1,
     "Le Monde.fr": 4,
-    "Al-Monitor": 13,
+    "Al-Monitor": 15,
     "The Washington Post": 2,
-    "BBC": 6,
-    "Financial Times": 9,
+    "BBC": 7,
+    "Financial Times": 13,
     "The Guardian": 2,
     "Arab News PK": 3,
     "Khaama Press": 1,
@@ -7171,16 +7171,16 @@
     "Bloomberg": 2,
     "NDTV Profit": 1,
     "Gulf Business": 1,
-    "CNN": 6,
+    "CNN": 10,
     "ynetnews": 1,
     "L'Orient Today": 1,
     "Arabian Business": 1,
     "oEnergetice.cz": 1,
     "Defence.in": 1,
     "upi": 1,
-    "Bloomberg.com": 2,
-    "Saudi Gazette": 9,
-    "The New York Times": 11,
+    "Bloomberg.com": 3,
+    "Saudi Gazette": 11,
+    "The New York Times": 13,
     "Spiegel": 1,
     "The Seattle Times": 1,
     "Middle East Eye": 2,
@@ -7214,7 +7214,7 @@
     "The Times of Israel": 1,
     "The Telegraph": 1,
     "Newsweek": 1,
-    "https://houseofsaud.com/": 1,
+    "https://houseofsaud.com/": 2,
     "LiveScore": 1,
     "ABNA English": 1,
     "TVC News": 1,
@@ -7227,22 +7227,26 @@
     "The Manila Times": 1,
     "Philenews": 1,
     "Organiser": 1,
-    "GuruFocus": 1
+    "GuruFocus": 1,
+    "The Daily Star": 1,
+    "Orlando Sentinel": 1,
+    "Morocco World News": 1,
+    "ASHARQ AL-AWSAT English": 1
    },
    "sourceTone": {
     "Arab News": [
      0,
-     43,
+     48,
      0
     ],
     "France 24": [
      0,
-     3,
+     7,
      0
     ],
     "South China Morning Post": [
      0,
-     3,
+     4,
      0
     ],
     "RTE.ie": [
@@ -7297,7 +7301,7 @@
     ],
     "Reuters": [
      0,
-     25,
+     29,
      0
     ],
     "Breakingthenews.net": [
@@ -7307,12 +7311,12 @@
     ],
     "WSJ": [
      0,
-     3,
+     4,
      0
     ],
     "AP News": [
      0,
-     6,
+     9,
      0
     ],
     "Yemen Online": [
@@ -7327,7 +7331,7 @@
     ],
     "Al-Monitor": [
      0,
-     13,
+     15,
      0
     ],
     "The Washington Post": [
@@ -7337,12 +7341,12 @@
     ],
     "BBC": [
      0,
-     6,
+     7,
      0
     ],
     "Financial Times": [
      0,
-     9,
+     13,
      0
     ],
     "The Guardian": [
@@ -7587,7 +7591,7 @@
     ],
     "CNN": [
      0,
-     6,
+     10,
      0
     ],
     "ynetnews": [
@@ -7622,17 +7626,17 @@
     ],
     "Bloomberg.com": [
      0,
-     2,
+     3,
      0
     ],
     "Saudi Gazette": [
      0,
-     9,
+     11,
      0
     ],
     "The New York Times": [
      0,
-     11,
+     13,
      0
     ],
     "Spiegel": [
@@ -7802,7 +7806,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     1,
+     2,
      0
     ],
     "LiveScore": [
@@ -7866,6 +7870,26 @@
      0
     ],
     "GuruFocus": [
+     0,
+     1,
+     0
+    ],
+    "The Daily Star": [
+     0,
+     1,
+     0
+    ],
+    "Orlando Sentinel": [
+     0,
+     1,
+     0
+    ],
+    "Morocco World News": [
+     0,
+     1,
+     0
+    ],
+    "ASHARQ AL-AWSAT English": [
      0,
      1,
      0
