@@ -6342,17 +6342,17 @@
    }
   },
   "2026-11-07": {
-   "total": 455,
-   "news": 452,
+   "total": 457,
+   "news": 454,
    "articles": 3,
    "positive": 0,
-   "neutral": 455,
+   "neutral": 457,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 144,
     "SA": 60,
-    "US": 70,
+    "US": 72,
     "FR": 8,
     "HK": 1
    },
@@ -6361,12 +6361,12 @@
     "Reuters": 58,
     "OpenCritic": 1,
     "Arab News": 64,
-    "AP News": 11,
+    "AP News": 12,
     "Al-Monitor": 14,
     "Le Monde.fr": 6,
     "BBC": 12,
     "Nacionale": 1,
-    "WSJ": 4,
+    "WSJ": 5,
     "وكالة الأنباء السعودية": 2,
     "Financial Times": 70,
     "The Arab Weekly": 1,
@@ -6497,7 +6497,7 @@
     ],
     "AP News": [
      0,
-     11,
+     12,
      0
     ],
     "Al-Monitor": [
@@ -6522,7 +6522,7 @@
     ],
     "WSJ": [
      0,
-     4,
+     5,
      0
     ],
     "وكالة الأنباء السعودية": [
@@ -7083,26 +7083,26 @@
    }
   },
   "2026-11-08": {
-   "total": 449,
-   "news": 445,
+   "total": 487,
+   "news": 483,
    "articles": 4,
    "positive": 0,
-   "neutral": 449,
+   "neutral": 487,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 64,
-    "FR": 32,
-    "HK": 4,
-    "GB": 83,
-    "US": 66,
+    "SA": 69,
+    "FR": 37,
+    "HK": 5,
+    "GB": 93,
+    "US": 78,
     "DE": 2
    },
    "topics": {},
    "sources": {
-    "Arab News": 70,
-    "France 24": 29,
-    "South China Morning Post": 4,
+    "Arab News": 74,
+    "France 24": 33,
+    "South China Morning Post": 5,
     "RTE.ie": 1,
     "The Express Tribune": 2,
     "The Kathmandu Post": 1,
@@ -7113,17 +7113,17 @@
     "China Daily Global Edition": 1,
     "The Times of India": 3,
     "الخبر اليمني": 2,
-    "Reuters": 35,
+    "Reuters": 39,
     "Breakingthenews.net": 1,
-    "WSJ": 4,
+    "WSJ": 5,
     "AP News": 11,
-    "Yemen Online": 1,
-    "Le Monde.fr": 5,
-    "Al-Monitor": 16,
+    "Yemen Online": 2,
+    "Le Monde.fr": 6,
+    "Al-Monitor": 19,
     "The Washington Post": 2,
-    "BBC": 7,
-    "Financial Times": 37,
-    "The Guardian": 2,
+    "BBC": 9,
+    "Financial Times": 40,
+    "The Guardian": 3,
     "Arab News PK": 3,
     "Khaama Press": 1,
     "Yahoo Sports": 3,
@@ -7149,7 +7149,7 @@
     "Pars Today": 1,
     "The Economic Times": 2,
     "TradingView": 1,
-    "Bloody Elbow": 1,
+    "Bloody Elbow": 2,
     "Open Magazine": 1,
     "Investing.com": 2,
     "The Independent": 2,
@@ -7168,10 +7168,10 @@
     "8AM Media": 1,
     "NDTV": 1,
     "アラブニュース": 1,
-    "Bloomberg": 2,
+    "Bloomberg": 4,
     "NDTV Profit": 1,
     "Gulf Business": 1,
-    "CNN": 16,
+    "CNN": 19,
     "ynetnews": 1,
     "L'Orient Today": 1,
     "Arabian Business": 1,
@@ -7179,8 +7179,8 @@
     "Defence.in": 1,
     "upi": 1,
     "Bloomberg.com": 5,
-    "Saudi Gazette": 12,
-    "The New York Times": 15,
+    "Saudi Gazette": 13,
+    "The New York Times": 18,
     "Spiegel": 2,
     "The Seattle Times": 1,
     "Middle East Eye": 2,
@@ -7242,22 +7242,25 @@
     "scanx.trade": 1,
     "DW.com": 1,
     "Fightful": 1,
-    "Peoples Gazette Nigeria": 1
+    "Peoples Gazette Nigeria": 1,
+    "News of Bahrain": 1,
+    "investingLive": 1,
+    "Magnolia Banner News": 1
    },
    "sourceTone": {
     "Arab News": [
      0,
-     70,
+     74,
      0
     ],
     "France 24": [
      0,
-     29,
+     33,
      0
     ],
     "South China Morning Post": [
      0,
-     4,
+     5,
      0
     ],
     "RTE.ie": [
@@ -7312,7 +7315,7 @@
     ],
     "Reuters": [
      0,
-     35,
+     39,
      0
     ],
     "Breakingthenews.net": [
@@ -7322,7 +7325,7 @@
     ],
     "WSJ": [
      0,
-     4,
+     5,
      0
     ],
     "AP News": [
@@ -7332,17 +7335,17 @@
     ],
     "Yemen Online": [
      0,
-     1,
+     2,
      0
     ],
     "Le Monde.fr": [
      0,
-     5,
+     6,
      0
     ],
     "Al-Monitor": [
      0,
-     16,
+     19,
      0
     ],
     "The Washington Post": [
@@ -7352,17 +7355,17 @@
     ],
     "BBC": [
      0,
-     7,
+     9,
      0
     ],
     "Financial Times": [
      0,
-     37,
+     40,
      0
     ],
     "The Guardian": [
      0,
-     2,
+     3,
      0
     ],
     "Arab News PK": [
@@ -7492,7 +7495,7 @@
     ],
     "Bloody Elbow": [
      0,
-     1,
+     2,
      0
     ],
     "Open Magazine": [
@@ -7587,7 +7590,7 @@
     ],
     "Bloomberg": [
      0,
-     2,
+     4,
      0
     ],
     "NDTV Profit": [
@@ -7602,7 +7605,7 @@
     ],
     "CNN": [
      0,
-     16,
+     19,
      0
     ],
     "ynetnews": [
@@ -7642,12 +7645,12 @@
     ],
     "Saudi Gazette": [
      0,
-     12,
+     13,
      0
     ],
     "The New York Times": [
      0,
-     15,
+     18,
      0
     ],
     "Spiegel": [
@@ -7956,6 +7959,21 @@
      0
     ],
     "Peoples Gazette Nigeria": [
+     0,
+     1,
+     0
+    ],
+    "News of Bahrain": [
+     0,
+     1,
+     0
+    ],
+    "investingLive": [
+     0,
+     1,
+     0
+    ],
+    "Magnolia Banner News": [
      0,
      1,
      0

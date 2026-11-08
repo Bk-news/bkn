@@ -23,6 +23,26 @@
    "mt": true
   },
   {
+   "id": "a2fbdaf8624cbed1",
+   "origin": "rss",
+   "source": "AP News",
+   "author": "",
+   "title_ar": "Ben James builds a 4-shot lead as he closes in on his first PGA Tour title",
+   "title_orig": "Ben James builds a 4-shot lead as he closes in on his first PGA Tour title",
+   "title_en": "Ben James builds a 4-shot lead as he closes in on his first PGA Tour title",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa1pYN1RYLThSZGQxTDdNMndRVXVtMlA0V25laDk4MDltYVNCQ0U0ei1Ma3FtM2xoRDF1YmlWaW94MHFRRV9HcF8wSlNGYlhMbGJ3LUlqeHZrZTFTM0toU1BEaEo4eEt3S0JyblZQOVpkdlBycXdHMHgyWV9EbE00WTZTZVlyQW4ta0Z2T01VaG9TTXB5Mmdyc0ZZOVA5Zw?oc=5",
+   "published": "2026-11-07T23:51:00.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "Ben James builds a 4-shot lead as he closes in on his first PGA Tour title &nbsp;&nbsp; AP News",
+   "lang": "en"
+  },
+  {
    "id": "ae1729357bafec61",
    "origin": "rss",
    "source": "Reuters",
@@ -8883,6 +8903,26 @@
    "desc": "sg-20261107.pdf - Saudi Gazette &nbsp;&nbsp; Saudi Gazette",
    "lang": "en",
    "mt": true
+  },
+  {
+   "id": "9cce2f62d35cd2c8",
+   "origin": "rss",
+   "source": "WSJ",
+   "author": "",
+   "title_ar": "Ribeye for Breakfast? The First Meal of the Day Has Become Unrecognizable",
+   "title_orig": "Ribeye for Breakfast? The First Meal of the Day Has Become Unrecognizable",
+   "title_en": "Ribeye for Breakfast? The First Meal of the Day Has Become Unrecognizable",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVGQtQXNhMHMtNVBDLXZNRkZ2bnBBSDNpaV91Vy1obXppNlZVcGhJdFY4VnBrSXo4NzN5MV9TMXhYTmNQY0hpUDRzZDhJQThkQVB3OHFrbC1ZNE1WUjBKemRjc1pJZUc0UjZCN3JXaGlpNXNnYnBvVVVFUG1MNHMyWEhmZEJ6N25zeUJxZFM0ZDhaaThtZUsyYWI0NVIzQmJHSk5CQ3kyTkNTTlNLb3NVSA?oc=5",
+   "published": "2026-11-07T03:00:00.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "Ribeye for Breakfast? The First Meal of the Day Has Become Unrecognizable &nbsp;&nbsp; WSJ",
+   "lang": "en"
   },
   {
    "id": "d8936e68f514295f",
