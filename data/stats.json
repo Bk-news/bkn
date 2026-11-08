@@ -5431,17 +5431,17 @@
    }
   },
   "2026-11-06": {
-   "total": 632,
-   "news": 623,
+   "total": 634,
+   "news": 625,
    "articles": 9,
    "positive": 0,
-   "neutral": 632,
+   "neutral": 634,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 226,
     "SA": 103,
-    "US": 115,
+    "US": 117,
     "DE": 4,
     "HK": 6,
     "FR": 7,
@@ -5477,7 +5477,7 @@
     "Spiegel": 4,
     "South China Morning Post": 6,
     "France 24": 4,
-    "CNN": 2,
+    "CNN": 4,
     "The Express Tribune": 3,
     "Saudi Gazette": 9,
     "AP News": 8,
@@ -5741,7 +5741,7 @@
     ],
     "CNN": [
      0,
-     2,
+     4,
      0
     ],
     "The Express Tribune": [
@@ -6342,28 +6342,28 @@
    }
   },
   "2026-11-07": {
-   "total": 398,
-   "news": 395,
+   "total": 410,
+   "news": 407,
    "articles": 3,
    "positive": 0,
-   "neutral": 398,
+   "neutral": 410,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 95,
+    "GB": 102,
     "SA": 59,
-    "US": 64,
-    "FR": 7,
+    "US": 68,
+    "FR": 8,
     "HK": 1
    },
    "topics": {},
    "sources": {
-    "Reuters": 50,
+    "Reuters": 57,
     "OpenCritic": 1,
     "Arab News": 63,
     "AP News": 11,
     "Al-Monitor": 14,
-    "Le Monde.fr": 5,
+    "Le Monde.fr": 6,
     "BBC": 12,
     "Nacionale": 1,
     "WSJ": 4,
@@ -6372,7 +6372,7 @@
     "The Arab Weekly": 1,
     "The Guardian": 4,
     "The New York Times": 12,
-    "CNN": 16,
+    "CNN": 20,
     "The Economist": 3,
     "Daily Observer": 2,
     "سانا": 3,
@@ -6482,7 +6482,7 @@
    "sourceTone": {
     "Reuters": [
      0,
-     50,
+     57,
      0
     ],
     "OpenCritic": [
@@ -6507,7 +6507,7 @@
     ],
     "Le Monde.fr": [
      0,
-     5,
+     6,
      0
     ],
     "BBC": [
@@ -6552,7 +6552,7 @@
     ],
     "CNN": [
      0,
-     16,
+     20,
      0
     ],
     "The Economist": [
@@ -7083,25 +7083,25 @@
    }
   },
   "2026-11-08": {
-   "total": 368,
-   "news": 367,
+   "total": 394,
+   "news": 393,
    "articles": 1,
    "positive": 0,
-   "neutral": 368,
+   "neutral": 394,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 52,
-    "FR": 15,
+    "SA": 55,
+    "FR": 23,
     "HK": 4,
-    "GB": 59,
-    "US": 57,
+    "GB": 66,
+    "US": 58,
     "DE": 2
    },
    "topics": {},
    "sources": {
-    "Arab News": 56,
-    "France 24": 13,
+    "Arab News": 59,
+    "France 24": 21,
     "South China Morning Post": 4,
     "RTE.ie": 1,
     "The Express Tribune": 2,
@@ -7122,7 +7122,7 @@
     "Al-Monitor": 15,
     "The Washington Post": 2,
     "BBC": 7,
-    "Financial Times": 19,
+    "Financial Times": 26,
     "The Guardian": 2,
     "Arab News PK": 3,
     "Khaama Press": 1,
@@ -7171,15 +7171,15 @@
     "Bloomberg": 2,
     "NDTV Profit": 1,
     "Gulf Business": 1,
-    "CNN": 13,
+    "CNN": 14,
     "ynetnews": 1,
     "L'Orient Today": 1,
     "Arabian Business": 1,
     "oEnergetice.cz": 1,
     "Defence.in": 1,
     "upi": 1,
-    "Bloomberg.com": 3,
-    "Saudi Gazette": 11,
+    "Bloomberg.com": 4,
+    "Saudi Gazette": 12,
     "The New York Times": 13,
     "Spiegel": 2,
     "The Seattle Times": 1,
@@ -7189,7 +7189,7 @@
     "The Indian Express": 1,
     "IraqiNews": 2,
     "Multibagg AI": 1,
-    "Business Insider Africa": 2,
+    "Business Insider Africa": 3,
     "JNS": 1,
     "Investing.com India": 1,
     "news.sbs.co.kr": 1,
@@ -7233,19 +7233,22 @@
     "Morocco World News": 1,
     "ASHARQ AL-AWSAT English": 1,
     "The Economist": 1,
-    "Nacionale": 1,
+    "Nacionale": 2,
     "United News of Bangladesh": 1,
-    "Around Prague": 1
+    "Around Prague": 1,
+    "Bioengineer.org": 1,
+    "ITVX": 1,
+    "News On AIR": 1
    },
    "sourceTone": {
     "Arab News": [
      0,
-     56,
+     59,
      0
     ],
     "France 24": [
      0,
-     13,
+     21,
      0
     ],
     "South China Morning Post": [
@@ -7350,7 +7353,7 @@
     ],
     "Financial Times": [
      0,
-     19,
+     26,
      0
     ],
     "The Guardian": [
@@ -7595,7 +7598,7 @@
     ],
     "CNN": [
      0,
-     13,
+     14,
      0
     ],
     "ynetnews": [
@@ -7630,12 +7633,12 @@
     ],
     "Bloomberg.com": [
      0,
-     3,
+     4,
      0
     ],
     "Saudi Gazette": [
      0,
-     11,
+     12,
      0
     ],
     "The New York Times": [
@@ -7685,7 +7688,7 @@
     ],
     "Business Insider Africa": [
      0,
-     2,
+     3,
      0
     ],
     "JNS": [
@@ -7905,7 +7908,7 @@
     ],
     "Nacionale": [
      0,
-     1,
+     2,
      0
     ],
     "United News of Bangladesh": [
@@ -7914,6 +7917,21 @@
      0
     ],
     "Around Prague": [
+     0,
+     1,
+     0
+    ],
+    "Bioengineer.org": [
+     0,
+     1,
+     0
+    ],
+    "ITVX": [
+     0,
+     1,
+     0
+    ],
+    "News On AIR": [
      0,
      1,
      0
