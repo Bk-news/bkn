@@ -7083,13 +7083,13 @@
    }
   },
   "2026-11-08": {
-   "total": 286,
-   "news": 286,
+   "total": 287,
+   "news": 287,
    "articles": 0,
    "positive": 0,
-   "neutral": 286,
+   "neutral": 287,
    "critical": 0,
-   "mbs": 0,
+   "mbs": 1,
    "countries": {
     "SA": 36,
     "FR": 5,
@@ -7224,7 +7224,8 @@
     "Telegraph India": 1,
     "houseofsaud.com": 1,
     "ARN News Centre": 1,
-    "The Manila Times": 1
+    "The Manila Times": 1,
+    "Philenews": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -7848,6 +7849,11 @@
      0
     ],
     "The Manila Times": [
+     0,
+     1,
+     0
+    ],
+    "Philenews": [
      0,
      1,
      0
