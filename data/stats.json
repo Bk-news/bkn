@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 282,
-   "news": 282,
+   "total": 283,
+   "news": 283,
    "articles": 0,
    "positive": 0,
-   "neutral": 282,
+   "neutral": 283,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -7095,7 +7095,7 @@
     "FR": 5,
     "HK": 3,
     "GB": 37,
-    "US": 39,
+    "US": 40,
     "DE": 1
    },
    "topics": {},
@@ -7171,7 +7171,7 @@
     "Bloomberg": 2,
     "NDTV Profit": 1,
     "Gulf Business": 1,
-    "CNN": 5,
+    "CNN": 6,
     "ynetnews": 1,
     "L'Orient Today": 1,
     "Arabian Business": 1,
@@ -7583,7 +7583,7 @@
     ],
     "CNN": [
      0,
-     5,
+     6,
      0
     ],
     "ynetnews": [
