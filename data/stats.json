@@ -5431,15 +5431,15 @@
    }
   },
   "2026-11-06": {
-   "total": 595,
-   "news": 586,
+   "total": 604,
+   "news": 595,
    "articles": 9,
    "positive": 0,
-   "neutral": 595,
+   "neutral": 604,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 194,
+    "GB": 203,
     "SA": 103,
     "US": 110,
     "DE": 4,
@@ -5450,7 +5450,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Reuters": 145,
+    "Reuters": 154,
     "Arab News": 104,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
@@ -5606,7 +5606,7 @@
     ],
     "Reuters": [
      0,
-     145,
+     154,
      0
     ],
     "Arab News": [
@@ -6342,16 +6342,16 @@
    }
   },
   "2026-11-07": {
-   "total": 355,
-   "news": 353,
+   "total": 356,
+   "news": 354,
    "articles": 2,
    "positive": 0,
-   "neutral": 355,
+   "neutral": 356,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 76,
-    "SA": 55,
+    "SA": 56,
     "US": 45,
     "FR": 7,
     "HK": 1
@@ -6360,7 +6360,7 @@
    "sources": {
     "Reuters": 38,
     "OpenCritic": 1,
-    "Arab News": 59,
+    "Arab News": 60,
     "AP News": 10,
     "Al-Monitor": 14,
     "Le Monde.fr": 5,
@@ -6492,7 +6492,7 @@
     ],
     "Arab News": [
      0,
-     59,
+     60,
      0
     ],
     "AP News": [
@@ -7083,38 +7083,38 @@
    }
   },
   "2026-11-08": {
-   "total": 52,
-   "news": 52,
+   "total": 82,
+   "news": 82,
    "articles": 0,
    "positive": 0,
-   "neutral": 52,
+   "neutral": 82,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "SA": 9,
+    "SA": 11,
     "FR": 3,
     "HK": 1,
     "GB": 9,
-    "US": 9
+    "US": 10
    },
    "topics": {},
    "sources": {
-    "Arab News": 12,
+    "Arab News": 14,
     "France 24": 2,
     "South China Morning Post": 1,
     "RTE.ie": 1,
-    "The Express Tribune": 1,
+    "The Express Tribune": 2,
     "The Kathmandu Post": 1,
     "Moneycontrol.com": 1,
-    "Deccan Chronicle": 1,
+    "Deccan Chronicle": 2,
     "Hindustan Times": 1,
-    "Facebook": 1,
+    "Facebook": 2,
     "China Daily Global Edition": 1,
-    "The Times of India": 2,
-    "الخبر اليمني": 1,
+    "The Times of India": 3,
+    "الخبر اليمني": 2,
     "Reuters": 3,
     "Breakingthenews.net": 1,
-    "WSJ": 1,
+    "WSJ": 2,
     "AP News": 2,
     "Yemen Online": 1,
     "Le Monde.fr": 2,
@@ -7125,13 +7125,32 @@
     "The Guardian": 1,
     "Arab News PK": 1,
     "Khaama Press": 1,
-    "Yahoo Sports": 1,
-    "arabinform.com": 1
+    "Yahoo Sports": 2,
+    "arabinform.com": 1,
+    "Gulf News": 1,
+    "شفق نيوز": 1,
+    "Kurdistan24": 1,
+    "BroadcastPro ME": 1,
+    "Dealroom": 1,
+    "The National": 1,
+    "صوت الإمارات": 1,
+    "Al Jazeera": 1,
+    "سانا": 1,
+    "Türkiye Today": 2,
+    "The Peninsula Qatar": 1,
+    "Firstpost": 1,
+    "UA.NEWS": 2,
+    "Al Arabiya English": 1,
+    "Latest news from Azerbaijan": 1,
+    "تسنیم": 1,
+    "Anadolu Ajansı": 1,
+    "Mehr News Agency": 1,
+    "Pars Today": 1
    },
    "sourceTone": {
     "Arab News": [
      0,
-     12,
+     14,
      0
     ],
     "France 24": [
@@ -7151,7 +7170,7 @@
     ],
     "The Express Tribune": [
      0,
-     1,
+     2,
      0
     ],
     "The Kathmandu Post": [
@@ -7166,7 +7185,7 @@
     ],
     "Deccan Chronicle": [
      0,
-     1,
+     2,
      0
     ],
     "Hindustan Times": [
@@ -7176,7 +7195,7 @@
     ],
     "Facebook": [
      0,
-     1,
+     2,
      0
     ],
     "China Daily Global Edition": [
@@ -7186,12 +7205,12 @@
     ],
     "The Times of India": [
      0,
-     2,
+     3,
      0
     ],
     "الخبر اليمني": [
      0,
-     1,
+     2,
      0
     ],
     "Reuters": [
@@ -7206,7 +7225,7 @@
     ],
     "WSJ": [
      0,
-     1,
+     2,
      0
     ],
     "AP News": [
@@ -7261,10 +7280,105 @@
     ],
     "Yahoo Sports": [
      0,
-     1,
+     2,
      0
     ],
     "arabinform.com": [
+     0,
+     1,
+     0
+    ],
+    "Gulf News": [
+     0,
+     1,
+     0
+    ],
+    "شفق نيوز": [
+     0,
+     1,
+     0
+    ],
+    "Kurdistan24": [
+     0,
+     1,
+     0
+    ],
+    "BroadcastPro ME": [
+     0,
+     1,
+     0
+    ],
+    "Dealroom": [
+     0,
+     1,
+     0
+    ],
+    "The National": [
+     0,
+     1,
+     0
+    ],
+    "صوت الإمارات": [
+     0,
+     1,
+     0
+    ],
+    "Al Jazeera": [
+     0,
+     1,
+     0
+    ],
+    "سانا": [
+     0,
+     1,
+     0
+    ],
+    "Türkiye Today": [
+     0,
+     2,
+     0
+    ],
+    "The Peninsula Qatar": [
+     0,
+     1,
+     0
+    ],
+    "Firstpost": [
+     0,
+     1,
+     0
+    ],
+    "UA.NEWS": [
+     0,
+     2,
+     0
+    ],
+    "Al Arabiya English": [
+     0,
+     1,
+     0
+    ],
+    "Latest news from Azerbaijan": [
+     0,
+     1,
+     0
+    ],
+    "تسنیم": [
+     0,
+     1,
+     0
+    ],
+    "Anadolu Ajansı": [
+     0,
+     1,
+     0
+    ],
+    "Mehr News Agency": [
+     0,
+     1,
+     0
+    ],
+    "Pars Today": [
      0,
      1,
      0
