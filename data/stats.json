@@ -7071,11 +7071,11 @@
    }
   },
   "2026-11-08": {
-   "total": 13,
-   "news": 13,
+   "total": 14,
+   "news": 14,
    "articles": 0,
    "positive": 0,
-   "neutral": 13,
+   "neutral": 14,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -7085,7 +7085,7 @@
    },
    "topics": {},
    "sources": {
-    "Arab News": 3,
+    "Arab News": 4,
     "France 24": 1,
     "South China Morning Post": 1,
     "RTE.ie": 1,
@@ -7100,7 +7100,7 @@
    "sourceTone": {
     "Arab News": [
      0,
-     3,
+     4,
      0
     ],
     "France 24": [
