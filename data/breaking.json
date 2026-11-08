@@ -1,5 +1,17 @@
 [
  {
+  "id": "5a4f2ce1e4883d88",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "ترمب لـCBS: انتصرنا في حربي فنزويلا وإيران وحصلنا على مليارات الدولارات",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152841",
+  "published": "2026-11-08T16:19:02.000Z",
+  "subject": "saudi",
+  "added": "2026-11-08T16:19:02.000Z"
+ },
+ {
   "id": "b816f1c0345125c5",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -106,17 +118,5 @@
   "published": "2026-11-08T15:23:01.000Z",
   "subject": "saudi",
   "added": "2026-11-08T15:23:01.000Z"
- },
- {
-  "id": "03cffa727de226e3",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "آيزنكوت: إسرائيل لا تتحمل جولة أخرى من انتخابات لا تنتهي",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152831",
-  "published": "2026-11-08T15:20:01.000Z",
-  "subject": "saudi",
-  "added": "2026-11-08T15:20:01.000Z"
  }
 ]
