@@ -7083,15 +7083,15 @@
    }
   },
   "2026-11-08": {
-   "total": 429,
-   "news": 428,
+   "total": 432,
+   "news": 431,
    "articles": 1,
    "positive": 0,
-   "neutral": 429,
+   "neutral": 432,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 61,
+    "SA": 62,
     "FR": 30,
     "HK": 4,
     "GB": 77,
@@ -7100,7 +7100,7 @@
    },
    "topics": {},
    "sources": {
-    "Arab News": 66,
+    "Arab News": 68,
     "France 24": 27,
     "South China Morning Post": 4,
     "RTE.ie": 1,
@@ -7240,12 +7240,13 @@
     "ITVX": 1,
     "News On AIR": 1,
     "scanx.trade": 1,
-    "DW.com": 1
+    "DW.com": 1,
+    "Fightful": 1
    },
    "sourceTone": {
     "Arab News": [
      0,
-     66,
+     68,
      0
     ],
     "France 24": [
@@ -7944,6 +7945,11 @@
      0
     ],
     "DW.com": [
+     0,
+     1,
+     0
+    ],
+    "Fightful": [
      0,
      1,
      0
