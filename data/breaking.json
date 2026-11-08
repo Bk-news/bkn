@@ -1,5 +1,17 @@
 [
  {
+  "id": "b816f1c0345125c5",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "ترمب لـCBS: أثق بوزير الحرب هيغسيث وهو في مأمن مؤقتا",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152840",
+  "published": "2026-11-08T16:17:02.000Z",
+  "subject": "saudi",
+  "added": "2026-11-08T16:17:02.000Z"
+ },
+ {
   "id": "ca247ed197e26f30",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -118,17 +130,5 @@
   "published": "2026-11-08T15:18:02.000Z",
   "subject": "saudi",
   "added": "2026-11-08T15:18:02.000Z"
- },
- {
-  "id": "b0a8a70ef6e9675d",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "آيزنكوت: المهمة ليست سهلة ونحن في وضع معقد",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152829",
-  "published": "2026-11-08T15:17:01.000Z",
-  "subject": "saudi",
-  "added": "2026-11-08T15:17:01.000Z"
  }
 ]

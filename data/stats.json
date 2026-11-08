@@ -6342,25 +6342,25 @@
    }
   },
   "2026-11-07": {
-   "total": 385,
-   "news": 383,
+   "total": 388,
+   "news": 386,
    "articles": 2,
    "positive": 0,
-   "neutral": 385,
+   "neutral": 388,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 90,
-    "SA": 58,
-    "US": 57,
+    "GB": 91,
+    "SA": 59,
+    "US": 58,
     "FR": 7,
     "HK": 1
    },
    "topics": {},
    "sources": {
-    "Reuters": 46,
+    "Reuters": 47,
     "OpenCritic": 1,
-    "Arab News": 62,
+    "Arab News": 63,
     "AP News": 11,
     "Al-Monitor": 14,
     "Le Monde.fr": 5,
@@ -6372,7 +6372,7 @@
     "The Arab Weekly": 1,
     "The Guardian": 4,
     "The New York Times": 12,
-    "CNN": 10,
+    "CNN": 11,
     "The Economist": 2,
     "Daily Observer": 2,
     "سانا": 3,
@@ -6482,7 +6482,7 @@
    "sourceTone": {
     "Reuters": [
      0,
-     46,
+     47,
      0
     ],
     "OpenCritic": [
@@ -6492,7 +6492,7 @@
     ],
     "Arab News": [
      0,
-     62,
+     63,
      0
     ],
     "AP News": [
@@ -6552,7 +6552,7 @@
     ],
     "CNN": [
      0,
-     10,
+     11,
      0
     ],
     "The Economist": [
@@ -7083,18 +7083,18 @@
    }
   },
   "2026-11-08": {
-   "total": 285,
-   "news": 285,
+   "total": 286,
+   "news": 286,
    "articles": 0,
    "positive": 0,
-   "neutral": 285,
+   "neutral": 286,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "SA": 36,
     "FR": 5,
     "HK": 3,
-    "GB": 38,
+    "GB": 39,
     "US": 40,
     "DE": 1
    },
@@ -7122,7 +7122,7 @@
     "Al-Monitor": 12,
     "The Washington Post": 2,
     "BBC": 6,
-    "Financial Times": 8,
+    "Financial Times": 9,
     "The Guardian": 2,
     "Arab News PK": 3,
     "Khaama Press": 1,
@@ -7339,7 +7339,7 @@
     ],
     "Financial Times": [
      0,
-     8,
+     9,
      0
     ],
     "The Guardian": [
