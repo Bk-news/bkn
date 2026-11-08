@@ -5431,17 +5431,17 @@
    }
   },
   "2026-11-06": {
-   "total": 605,
-   "news": 596,
+   "total": 606,
+   "news": 597,
    "articles": 9,
    "positive": 0,
-   "neutral": 605,
+   "neutral": 606,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 204,
     "SA": 103,
-    "US": 110,
+    "US": 111,
     "DE": 4,
     "HK": 6,
     "FR": 7,
@@ -5457,7 +5457,7 @@
     "The Guardian": 10,
     "WSJ": 32,
     "Al-Monitor": 16,
-    "The New York Times": 19,
+    "The New York Times": 20,
     "Bloomberg.com": 26,
     "BBC": 14,
     "Gulf News": 1,
@@ -5641,7 +5641,7 @@
     ],
     "The New York Times": [
      0,
-     19,
+     20,
      0
     ],
     "Bloomberg.com": [
@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 108,
-   "news": 108,
+   "total": 110,
+   "news": 110,
    "articles": 0,
    "positive": 0,
-   "neutral": 108,
+   "neutral": 110,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -7099,7 +7099,7 @@
    },
    "topics": {},
    "sources": {
-    "Arab News": 14,
+    "Arab News": 15,
     "France 24": 2,
     "South China Morning Post": 1,
     "RTE.ie": 1,
@@ -7127,7 +7127,7 @@
     "Khaama Press": 1,
     "Yahoo Sports": 2,
     "arabinform.com": 1,
-    "Gulf News": 2,
+    "Gulf News": 3,
     "شفق نيوز": 1,
     "Kurdistan24": 1,
     "BroadcastPro ME": 1,
@@ -7171,7 +7171,7 @@
    "sourceTone": {
     "Arab News": [
      0,
-     14,
+     15,
      0
     ],
     "France 24": [
@@ -7311,7 +7311,7 @@
     ],
     "Gulf News": [
      0,
-     2,
+     3,
      0
     ],
     "شفق نيوز": [
