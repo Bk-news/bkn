@@ -6342,17 +6342,17 @@
    }
   },
   "2026-11-07": {
-   "total": 463,
-   "news": 460,
+   "total": 465,
+   "news": 462,
    "articles": 3,
    "positive": 0,
-   "neutral": 463,
+   "neutral": 465,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 145,
     "SA": 60,
-    "US": 77,
+    "US": 79,
     "FR": 8,
     "HK": 1
    },
@@ -6366,12 +6366,12 @@
     "Le Monde.fr": 6,
     "BBC": 12,
     "Nacionale": 1,
-    "WSJ": 7,
+    "WSJ": 8,
     "وكالة الأنباء السعودية": 2,
     "Financial Times": 70,
     "The Arab Weekly": 1,
     "The Guardian": 4,
-    "The New York Times": 12,
+    "The New York Times": 13,
     "CNN": 25,
     "The Economist": 3,
     "Daily Observer": 2,
@@ -6522,7 +6522,7 @@
     ],
     "WSJ": [
      0,
-     7,
+     8,
      0
     ],
     "وكالة الأنباء السعودية": [
@@ -6547,7 +6547,7 @@
     ],
     "The New York Times": [
      0,
-     12,
+     13,
      0
     ],
     "CNN": [

@@ -43,6 +43,26 @@
    "lang": "en"
   },
   {
+   "id": "98d22661c768700c",
+   "origin": "rss",
+   "source": "The New York Times",
+   "author": "",
+   "title_ar": "California News - Page 8",
+   "title_orig": "California News - Page 8",
+   "title_en": "California News - Page 8",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1acGFfSkpPX0tMVzRqc0FWeER2cXM4LWVCeG9TTkpMWWlnWG9LaXNRNU9zaTI2SDJGZXQxUGpCYmVOcTB2YWJ5a080aGVMSjF0eW1ENS02VGg2SGFCVno4cVBVSFpjRkk?oc=5",
+   "published": "2026-11-07T23:48:51.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "California News - Page 8 &nbsp;&nbsp; The New York Times",
+   "lang": "en"
+  },
+  {
    "id": "ae1729357bafec61",
    "origin": "rss",
    "source": "Reuters",
@@ -419,6 +439,26 @@
    "desc": "Breaking China, Asia, HK News, Opinions and Insights | South China Morning Post &nbsp;&nbsp; South China Morning Post",
    "lang": "en",
    "mt": true
+  },
+  {
+   "id": "7e46f41f566c0bee",
+   "origin": "rss",
+   "source": "WSJ",
+   "author": "",
+   "title_ar": "Six Dead in Shooting at Market Square in Poland",
+   "title_orig": "Six Dead in Shooting at Market Square in Poland",
+   "title_en": "Six Dead in Shooting at Market Square in Poland",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYlJseDJnMVkzeVBUenVwRTVsWVVEU3prS1hWUXk1enhtRE5KaFlTOWhmYmZNTElpaEdSWWJUZ0Jvam5hYTlSdklrLTRnc1FEb3ZtcEdJcDA3SUN5ZFJjeWFMaGdObnJ2RXY2STJJd05Mam5kMjJpSkFkZHRIcEZ2dm1leXRwd3RkU2VXUTY4V1JlRUk?oc=5",
+   "published": "2026-11-07T22:27:00.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "Six Dead in Shooting at Market Square in Poland &nbsp;&nbsp; WSJ",
+   "lang": "en"
   },
   {
    "id": "eaed885b02064769",
