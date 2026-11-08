@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 265,
-   "news": 265,
+   "total": 266,
+   "news": 266,
    "articles": 0,
    "positive": 0,
-   "neutral": 265,
+   "neutral": 266,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -7183,7 +7183,7 @@
     "The New York Times": 10,
     "Spiegel": 1,
     "The Seattle Times": 1,
-    "Middle East Eye": 1,
+    "Middle East Eye": 2,
     "Yeni Şafak English": 1,
     "Iran International": 1,
     "The Indian Express": 1,
@@ -7635,7 +7635,7 @@
     ],
     "Middle East Eye": [
      0,
-     1,
+     2,
      0
     ],
     "Yeni Şafak English": [
