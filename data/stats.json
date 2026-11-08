@@ -6342,23 +6342,23 @@
    }
   },
   "2026-11-07": {
-   "total": 457,
-   "news": 454,
+   "total": 460,
+   "news": 457,
    "articles": 3,
    "positive": 0,
-   "neutral": 457,
+   "neutral": 460,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 144,
+    "GB": 145,
     "SA": 60,
-    "US": 72,
+    "US": 74,
     "FR": 8,
     "HK": 1
    },
    "topics": {},
    "sources": {
-    "Reuters": 58,
+    "Reuters": 59,
     "OpenCritic": 1,
     "Arab News": 64,
     "AP News": 12,
@@ -6372,7 +6372,7 @@
     "The Arab Weekly": 1,
     "The Guardian": 4,
     "The New York Times": 12,
-    "CNN": 22,
+    "CNN": 24,
     "The Economist": 3,
     "Daily Observer": 2,
     "سانا": 3,
@@ -6482,7 +6482,7 @@
    "sourceTone": {
     "Reuters": [
      0,
-     58,
+     59,
      0
     ],
     "OpenCritic": [
@@ -6552,7 +6552,7 @@
     ],
     "CNN": [
      0,
-     22,
+     24,
      0
     ],
     "The Economist": [
@@ -7083,25 +7083,25 @@
    }
   },
   "2026-11-08": {
-   "total": 487,
-   "news": 483,
+   "total": 520,
+   "news": 516,
    "articles": 4,
    "positive": 0,
-   "neutral": 487,
+   "neutral": 520,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 69,
-    "FR": 37,
+    "SA": 71,
+    "FR": 52,
     "HK": 5,
-    "GB": 93,
+    "GB": 98,
     "US": 78,
     "DE": 2
    },
    "topics": {},
    "sources": {
-    "Arab News": 74,
-    "France 24": 33,
+    "Arab News": 76,
+    "France 24": 48,
     "South China Morning Post": 5,
     "RTE.ie": 1,
     "The Express Tribune": 2,
@@ -7113,7 +7113,7 @@
     "China Daily Global Edition": 1,
     "The Times of India": 3,
     "الخبر اليمني": 2,
-    "Reuters": 39,
+    "Reuters": 42,
     "Breakingthenews.net": 1,
     "WSJ": 5,
     "AP News": 11,
@@ -7121,8 +7121,8 @@
     "Le Monde.fr": 6,
     "Al-Monitor": 19,
     "The Washington Post": 2,
-    "BBC": 9,
-    "Financial Times": 40,
+    "BBC": 10,
+    "Financial Times": 42,
     "The Guardian": 3,
     "Arab News PK": 3,
     "Khaama Press": 1,
@@ -7134,13 +7134,13 @@
     "BroadcastPro ME": 1,
     "Dealroom": 1,
     "The National": 3,
-    "صوت الإمارات": 1,
+    "صوت الإمارات": 2,
     "Al Jazeera": 1,
     "سانا": 3,
     "Türkiye Today": 3,
     "The Peninsula Qatar": 3,
     "Firstpost": 2,
-    "UA.NEWS": 2,
+    "UA.NEWS": 3,
     "Al Arabiya English": 3,
     "Latest news from Azerbaijan": 3,
     "تسنیم": 2,
@@ -7179,7 +7179,7 @@
     "Defence.in": 1,
     "upi": 1,
     "Bloomberg.com": 5,
-    "Saudi Gazette": 13,
+    "Saudi Gazette": 14,
     "The New York Times": 18,
     "Spiegel": 2,
     "The Seattle Times": 1,
@@ -7189,7 +7189,7 @@
     "The Indian Express": 1,
     "IraqiNews": 2,
     "Multibagg AI": 1,
-    "Business Insider Africa": 4,
+    "Business Insider Africa": 5,
     "JNS": 1,
     "Investing.com India": 1,
     "news.sbs.co.kr": 1,
@@ -7237,7 +7237,7 @@
     "United News of Bangladesh": 2,
     "Around Prague": 1,
     "Bioengineer.org": 1,
-    "ITVX": 1,
+    "ITVX": 2,
     "News On AIR": 1,
     "scanx.trade": 1,
     "DW.com": 1,
@@ -7245,17 +7245,22 @@
     "Peoples Gazette Nigeria": 1,
     "News of Bahrain": 1,
     "investingLive": 1,
-    "Magnolia Banner News": 1
+    "Magnolia Banner News": 1,
+    "صحيفة سبق الإلكترونية": 1,
+    "TheSportster": 1,
+    "Wrestling Inc.": 1,
+    "Qazinform": 1,
+    "The Lufkin Daily News": 1
    },
    "sourceTone": {
     "Arab News": [
      0,
-     74,
+     76,
      0
     ],
     "France 24": [
      0,
-     33,
+     48,
      0
     ],
     "South China Morning Post": [
@@ -7315,7 +7320,7 @@
     ],
     "Reuters": [
      0,
-     39,
+     42,
      0
     ],
     "Breakingthenews.net": [
@@ -7355,12 +7360,12 @@
     ],
     "BBC": [
      0,
-     9,
+     10,
      0
     ],
     "Financial Times": [
      0,
-     40,
+     42,
      0
     ],
     "The Guardian": [
@@ -7420,7 +7425,7 @@
     ],
     "صوت الإمارات": [
      0,
-     1,
+     2,
      0
     ],
     "Al Jazeera": [
@@ -7450,7 +7455,7 @@
     ],
     "UA.NEWS": [
      0,
-     2,
+     3,
      0
     ],
     "Al Arabiya English": [
@@ -7645,7 +7650,7 @@
     ],
     "Saudi Gazette": [
      0,
-     13,
+     14,
      0
     ],
     "The New York Times": [
@@ -7695,7 +7700,7 @@
     ],
     "Business Insider Africa": [
      0,
-     4,
+     5,
      0
     ],
     "JNS": [
@@ -7935,7 +7940,7 @@
     ],
     "ITVX": [
      0,
-     1,
+     2,
      0
     ],
     "News On AIR": [
@@ -7974,6 +7979,31 @@
      0
     ],
     "Magnolia Banner News": [
+     0,
+     1,
+     0
+    ],
+    "صحيفة سبق الإلكترونية": [
+     0,
+     1,
+     0
+    ],
+    "TheSportster": [
+     0,
+     1,
+     0
+    ],
+    "Wrestling Inc.": [
+     0,
+     1,
+     0
+    ],
+    "Qazinform": [
+     0,
+     1,
+     0
+    ],
+    "The Lufkin Daily News": [
      0,
      1,
      0
