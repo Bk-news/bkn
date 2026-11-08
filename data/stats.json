@@ -7083,25 +7083,25 @@
    }
   },
   "2026-11-08": {
-   "total": 444,
-   "news": 441,
-   "articles": 3,
+   "total": 447,
+   "news": 443,
+   "articles": 4,
    "positive": 0,
-   "neutral": 444,
+   "neutral": 447,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 63,
-    "FR": 30,
+    "FR": 32,
     "HK": 4,
-    "GB": 82,
+    "GB": 83,
     "US": 65,
     "DE": 2
    },
    "topics": {},
    "sources": {
     "Arab News": 69,
-    "France 24": 27,
+    "France 24": 29,
     "South China Morning Post": 4,
     "RTE.ie": 1,
     "The Express Tribune": 2,
@@ -7232,7 +7232,7 @@
     "Orlando Sentinel": 1,
     "Morocco World News": 1,
     "ASHARQ AL-AWSAT English": 1,
-    "The Economist": 3,
+    "The Economist": 4,
     "Nacionale": 2,
     "United News of Bangladesh": 2,
     "Around Prague": 1,
@@ -7252,7 +7252,7 @@
     ],
     "France 24": [
      0,
-     27,
+     29,
      0
     ],
     "South China Morning Post": [
@@ -7907,7 +7907,7 @@
     ],
     "The Economist": [
      0,
-     3,
+     4,
      0
     ],
     "Nacionale": [
