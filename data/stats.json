@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 113,
-   "news": 113,
+   "total": 114,
+   "news": 114,
    "articles": 0,
    "positive": 0,
-   "neutral": 113,
+   "neutral": 114,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -7168,7 +7168,8 @@
     "NDTV": 1,
     "アラブニュース": 1,
     "Bloomberg": 1,
-    "NDTV Profit": 1
+    "NDTV Profit": 1,
+    "Gulf Business": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -7517,6 +7518,11 @@
      0
     ],
     "NDTV Profit": [
+     0,
+     1,
+     0
+    ],
+    "Gulf Business": [
      0,
      1,
      0
