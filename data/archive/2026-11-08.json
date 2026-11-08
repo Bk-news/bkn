@@ -1031,6 +1031,27 @@
    "mt": true
   },
   {
+   "id": "8d3613ff7b3bae07",
+   "origin": "rss",
+   "source": "AP News",
+   "author": "",
+   "title_ar": "أخبار الشرق الأوسط | آخر الأخبار من الشرق الأوسط اليوم",
+   "title_orig": "Middle East News | Latest News From The Middle East Today",
+   "title_en": "Middle East News | Latest News From The Middle East Today",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05b1dqSlZ2X2tIcTFyZ0NfdEQzaGpTQzBhWUV5Rk5tZkowNU95RWd5ZkJqQWRINDFkSGhCM19BazF6VndzclpBNHhB?oc=5",
+   "published": "2026-11-08T17:15:59.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "Middle East News | Latest News From The Middle East Today &nbsp;&nbsp; AP News",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "717feb21c0883630",
    "origin": "rss",
    "source": "Bloomberg.com",
