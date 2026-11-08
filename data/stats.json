@@ -6342,11 +6342,11 @@
    }
   },
   "2026-11-07": {
-   "total": 345,
-   "news": 343,
+   "total": 346,
+   "news": 344,
    "articles": 2,
    "positive": 0,
-   "neutral": 345,
+   "neutral": 346,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -6476,7 +6476,8 @@
     "Enab Baladi": 1,
     "www.tenniswatcher.com": 1,
     "South China Morning Post": 1,
-    "Fox News": 1
+    "Fox News": 1,
+    "Lloyd's Register": 1
    },
    "sourceTone": {
     "Reuters": [
@@ -7070,6 +7071,11 @@
      0
     ],
     "Fox News": [
+     0,
+     1,
+     0
+    ],
+    "Lloyd's Register": [
      0,
      1,
      0
