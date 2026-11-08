@@ -6342,16 +6342,16 @@
    }
   },
   "2026-11-07": {
-   "total": 453,
-   "news": 450,
+   "total": 454,
+   "news": 451,
    "articles": 3,
    "positive": 0,
-   "neutral": 453,
+   "neutral": 454,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 144,
-    "SA": 59,
+    "SA": 60,
     "US": 69,
     "FR": 8,
     "HK": 1
@@ -6360,7 +6360,7 @@
    "sources": {
     "Reuters": 58,
     "OpenCritic": 1,
-    "Arab News": 63,
+    "Arab News": 64,
     "AP News": 11,
     "Al-Monitor": 14,
     "Le Monde.fr": 6,
@@ -6492,7 +6492,7 @@
     ],
     "Arab News": [
      0,
-     63,
+     64,
      0
     ],
     "AP News": [
@@ -7083,15 +7083,15 @@
    }
   },
   "2026-11-08": {
-   "total": 424,
-   "news": 423,
+   "total": 428,
+   "news": 427,
    "articles": 1,
    "positive": 0,
-   "neutral": 424,
+   "neutral": 428,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 58,
+    "SA": 61,
     "FR": 29,
     "HK": 4,
     "GB": 77,
@@ -7100,7 +7100,7 @@
    },
    "topics": {},
    "sources": {
-    "Arab News": 63,
+    "Arab News": 66,
     "France 24": 27,
     "South China Morning Post": 4,
     "RTE.ie": 1,
@@ -7189,7 +7189,7 @@
     "The Indian Express": 1,
     "IraqiNews": 2,
     "Multibagg AI": 1,
-    "Business Insider Africa": 3,
+    "Business Insider Africa": 4,
     "JNS": 1,
     "Investing.com India": 1,
     "news.sbs.co.kr": 1,
@@ -7245,7 +7245,7 @@
    "sourceTone": {
     "Arab News": [
      0,
-     63,
+     66,
      0
     ],
     "France 24": [
@@ -7690,7 +7690,7 @@
     ],
     "Business Insider Africa": [
      0,
-     3,
+     4,
      0
     ],
     "JNS": [
