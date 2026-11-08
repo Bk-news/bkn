@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 111,
-   "news": 111,
+   "total": 113,
+   "news": 113,
    "articles": 0,
    "positive": 0,
-   "neutral": 111,
+   "neutral": 113,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -7099,7 +7099,7 @@
    },
    "topics": {},
    "sources": {
-    "Arab News": 15,
+    "Arab News": 16,
     "France 24": 2,
     "South China Morning Post": 1,
     "RTE.ie": 1,
@@ -7167,12 +7167,13 @@
     "8AM Media": 1,
     "NDTV": 1,
     "アラブニュース": 1,
-    "Bloomberg": 1
+    "Bloomberg": 1,
+    "NDTV Profit": 1
    },
    "sourceTone": {
     "Arab News": [
      0,
-     15,
+     16,
      0
     ],
     "France 24": [
@@ -7511,6 +7512,11 @@
      0
     ],
     "Bloomberg": [
+     0,
+     1,
+     0
+    ],
+    "NDTV Profit": [
      0,
      1,
      0
