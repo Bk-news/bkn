@@ -6342,17 +6342,17 @@
    }
   },
   "2026-11-07": {
-   "total": 381,
-   "news": 379,
+   "total": 382,
+   "news": 380,
    "articles": 2,
    "positive": 0,
-   "neutral": 381,
+   "neutral": 382,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 87,
     "SA": 58,
-    "US": 56,
+    "US": 57,
     "FR": 7,
     "HK": 1
    },
@@ -6372,7 +6372,7 @@
     "The Arab Weekly": 1,
     "The Guardian": 4,
     "The New York Times": 12,
-    "CNN": 9,
+    "CNN": 10,
     "The Economist": 2,
     "Daily Observer": 2,
     "سانا": 3,
@@ -6552,7 +6552,7 @@
     ],
     "CNN": [
      0,
-     9,
+     10,
      0
     ],
     "The Economist": [
@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 266,
-   "news": 266,
+   "total": 272,
+   "news": 272,
    "articles": 0,
    "positive": 0,
-   "neutral": 266,
+   "neutral": 272,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -7138,7 +7138,7 @@
     "Al Jazeera": 1,
     "سانا": 3,
     "Türkiye Today": 2,
-    "The Peninsula Qatar": 2,
+    "The Peninsula Qatar": 3,
     "Firstpost": 2,
     "UA.NEWS": 2,
     "Al Arabiya English": 2,
@@ -7215,7 +7215,12 @@
     "The Telegraph": 1,
     "Newsweek": 1,
     "https://houseofsaud.com/": 1,
-    "LiveScore": 1
+    "LiveScore": 1,
+    "ABNA English": 1,
+    "TVC News": 1,
+    "وكالة الانباء الاردنية": 1,
+    "Informat.ro": 1,
+    "CNBC": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -7410,7 +7415,7 @@
     ],
     "The Peninsula Qatar": [
      0,
-     2,
+     3,
      0
     ],
     "Firstpost": [
@@ -7794,6 +7799,31 @@
      0
     ],
     "LiveScore": [
+     0,
+     1,
+     0
+    ],
+    "ABNA English": [
+     0,
+     1,
+     0
+    ],
+    "TVC News": [
+     0,
+     1,
+     0
+    ],
+    "وكالة الانباء الاردنية": [
+     0,
+     1,
+     0
+    ],
+    "Informat.ro": [
+     0,
+     1,
+     0
+    ],
+    "CNBC": [
      0,
      1,
      0
