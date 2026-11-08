@@ -6342,15 +6342,15 @@
    }
   },
   "2026-11-07": {
-   "total": 337,
-   "news": 335,
+   "total": 338,
+   "news": 336,
    "articles": 2,
    "positive": 0,
-   "neutral": 337,
+   "neutral": 338,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 69,
+    "GB": 70,
     "SA": 48,
     "US": 43,
     "FR": 7,
@@ -6364,7 +6364,7 @@
     "AP News": 10,
     "Al-Monitor": 14,
     "Le Monde.fr": 5,
-    "BBC": 10,
+    "BBC": 11,
     "Nacionale": 1,
     "WSJ": 3,
     "وكالة الأنباء السعودية": 2,
@@ -6510,7 +6510,7 @@
     ],
     "BBC": [
      0,
-     10,
+     11,
      0
     ],
     "Nacionale": [
