@@ -6342,23 +6342,23 @@
    }
   },
   "2026-11-07": {
-   "total": 391,
-   "news": 389,
-   "articles": 2,
+   "total": 398,
+   "news": 395,
+   "articles": 3,
    "positive": 0,
-   "neutral": 391,
+   "neutral": 398,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 91,
+    "GB": 95,
     "SA": 59,
-    "US": 61,
+    "US": 64,
     "FR": 7,
     "HK": 1
    },
    "topics": {},
    "sources": {
-    "Reuters": 47,
+    "Reuters": 50,
     "OpenCritic": 1,
     "Arab News": 63,
     "AP News": 11,
@@ -6372,8 +6372,8 @@
     "The Arab Weekly": 1,
     "The Guardian": 4,
     "The New York Times": 12,
-    "CNN": 13,
-    "The Economist": 2,
+    "CNN": 16,
+    "The Economist": 3,
     "Daily Observer": 2,
     "سانا": 3,
     "صوت الإمارات": 2,
@@ -6482,7 +6482,7 @@
    "sourceTone": {
     "Reuters": [
      0,
-     47,
+     50,
      0
     ],
     "OpenCritic": [
@@ -6552,12 +6552,12 @@
     ],
     "CNN": [
      0,
-     13,
+     16,
      0
     ],
     "The Economist": [
      0,
-     2,
+     3,
      0
     ],
     "Daily Observer": [
@@ -7083,25 +7083,25 @@
    }
   },
   "2026-11-08": {
-   "total": 335,
-   "news": 335,
-   "articles": 0,
+   "total": 368,
+   "news": 367,
+   "articles": 1,
    "positive": 0,
-   "neutral": 335,
+   "neutral": 368,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 45,
-    "FR": 9,
+    "SA": 52,
+    "FR": 15,
     "HK": 4,
-    "GB": 49,
-    "US": 54,
-    "DE": 1
+    "GB": 59,
+    "US": 57,
+    "DE": 2
    },
    "topics": {},
    "sources": {
-    "Arab News": 48,
-    "France 24": 7,
+    "Arab News": 56,
+    "France 24": 13,
     "South China Morning Post": 4,
     "RTE.ie": 1,
     "The Express Tribune": 2,
@@ -7113,7 +7113,7 @@
     "China Daily Global Edition": 1,
     "The Times of India": 3,
     "الخبر اليمني": 2,
-    "Reuters": 29,
+    "Reuters": 32,
     "Breakingthenews.net": 1,
     "WSJ": 4,
     "AP News": 9,
@@ -7122,7 +7122,7 @@
     "Al-Monitor": 15,
     "The Washington Post": 2,
     "BBC": 7,
-    "Financial Times": 13,
+    "Financial Times": 19,
     "The Guardian": 2,
     "Arab News PK": 3,
     "Khaama Press": 1,
@@ -7137,7 +7137,7 @@
     "صوت الإمارات": 1,
     "Al Jazeera": 1,
     "سانا": 3,
-    "Türkiye Today": 2,
+    "Türkiye Today": 3,
     "The Peninsula Qatar": 3,
     "Firstpost": 2,
     "UA.NEWS": 2,
@@ -7171,7 +7171,7 @@
     "Bloomberg": 2,
     "NDTV Profit": 1,
     "Gulf Business": 1,
-    "CNN": 10,
+    "CNN": 13,
     "ynetnews": 1,
     "L'Orient Today": 1,
     "Arabian Business": 1,
@@ -7181,7 +7181,7 @@
     "Bloomberg.com": 3,
     "Saudi Gazette": 11,
     "The New York Times": 13,
-    "Spiegel": 1,
+    "Spiegel": 2,
     "The Seattle Times": 1,
     "Middle East Eye": 2,
     "Yeni Şafak English": 1,
@@ -7214,7 +7214,7 @@
     "The Times of Israel": 1,
     "The Telegraph": 1,
     "Newsweek": 1,
-    "https://houseofsaud.com/": 2,
+    "https://houseofsaud.com/": 3,
     "LiveScore": 1,
     "ABNA English": 1,
     "TVC News": 1,
@@ -7231,17 +7231,21 @@
     "The Daily Star": 1,
     "Orlando Sentinel": 1,
     "Morocco World News": 1,
-    "ASHARQ AL-AWSAT English": 1
+    "ASHARQ AL-AWSAT English": 1,
+    "The Economist": 1,
+    "Nacionale": 1,
+    "United News of Bangladesh": 1,
+    "Around Prague": 1
    },
    "sourceTone": {
     "Arab News": [
      0,
-     48,
+     56,
      0
     ],
     "France 24": [
      0,
-     7,
+     13,
      0
     ],
     "South China Morning Post": [
@@ -7301,7 +7305,7 @@
     ],
     "Reuters": [
      0,
-     29,
+     32,
      0
     ],
     "Breakingthenews.net": [
@@ -7346,7 +7350,7 @@
     ],
     "Financial Times": [
      0,
-     13,
+     19,
      0
     ],
     "The Guardian": [
@@ -7421,7 +7425,7 @@
     ],
     "Türkiye Today": [
      0,
-     2,
+     3,
      0
     ],
     "The Peninsula Qatar": [
@@ -7591,7 +7595,7 @@
     ],
     "CNN": [
      0,
-     10,
+     13,
      0
     ],
     "ynetnews": [
@@ -7641,7 +7645,7 @@
     ],
     "Spiegel": [
      0,
-     1,
+     2,
      0
     ],
     "The Seattle Times": [
@@ -7806,7 +7810,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     2,
+     3,
      0
     ],
     "LiveScore": [
@@ -7890,6 +7894,26 @@
      0
     ],
     "ASHARQ AL-AWSAT English": [
+     0,
+     1,
+     0
+    ],
+    "The Economist": [
+     0,
+     1,
+     0
+    ],
+    "Nacionale": [
+     0,
+     1,
+     0
+    ],
+    "United News of Bangladesh": [
+     0,
+     1,
+     0
+    ],
+    "Around Prague": [
      0,
      1,
      0
