@@ -6342,15 +6342,15 @@
    }
   },
   "2026-11-07": {
-   "total": 382,
-   "news": 380,
+   "total": 383,
+   "news": 381,
    "articles": 2,
    "positive": 0,
-   "neutral": 382,
+   "neutral": 383,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 87,
+    "GB": 88,
     "SA": 58,
     "US": 57,
     "FR": 7,
@@ -6358,7 +6358,7 @@
    },
    "topics": {},
    "sources": {
-    "Reuters": 43,
+    "Reuters": 44,
     "OpenCritic": 1,
     "Arab News": 62,
     "AP News": 11,
@@ -6482,7 +6482,7 @@
    "sourceTone": {
     "Reuters": [
      0,
-     43,
+     44,
      0
     ],
     "OpenCritic": [
@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 276,
-   "news": 276,
+   "total": 277,
+   "news": 277,
    "articles": 0,
    "positive": 0,
-   "neutral": 276,
+   "neutral": 277,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -7179,7 +7179,7 @@
     "Defence.in": 1,
     "upi": 1,
     "Bloomberg.com": 2,
-    "Saudi Gazette": 8,
+    "Saudi Gazette": 9,
     "The New York Times": 10,
     "Spiegel": 1,
     "The Seattle Times": 1,
@@ -7622,7 +7622,7 @@
     ],
     "Saudi Gazette": [
      0,
-     8,
+     9,
      0
     ],
     "The New York Times": [

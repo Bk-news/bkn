@@ -2,6 +2,27 @@
  "day": "2026-11-08",
  "items": [
   {
+   "id": "b82ccf5e2586d824",
+   "origin": "rss",
+   "source": "Saudi Gazette",
+   "author": "",
+   "title_ar": "عندما تطغى الهوية على المواقف السياسية",
+   "title_orig": "When identity overshadows political positions",
+   "title_en": "When identity overshadows political positions",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRFFRUXlHYkllMk9PYjZnQml1ZDYzaS1hNldyMEhTMGtlZ3plc2JaS1NBLVBCS3BneE1ldjlhekUzcnVqXzhveUFJYmFMY0lHMGdiYWxTU053UlVwYXNvZ1ZmUDh2T2JPaGx3OVU1dkYxaVBaV2lXZ2JoTzN5Wkw3TzV1Nzc0NXl6YmZZQ2dxU3BBQTdzVFVFTHZkU3E?oc=5",
+   "published": "2026-11-08T15:54:00.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "",
+   "pending": true,
+   "desc": "When identity overshadows political positions &nbsp;&nbsp; Saudi Gazette",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "90b1689a075fcbf8",
    "origin": "rss",
    "source": "Reuters",
