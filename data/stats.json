@@ -6342,15 +6342,15 @@
    }
   },
   "2026-11-07": {
-   "total": 338,
-   "news": 336,
+   "total": 340,
+   "news": 338,
    "articles": 2,
    "positive": 0,
-   "neutral": 338,
+   "neutral": 340,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 70,
+    "GB": 71,
     "SA": 48,
     "US": 43,
     "FR": 7,
@@ -6368,7 +6368,7 @@
     "Nacionale": 1,
     "WSJ": 3,
     "وكالة الأنباء السعودية": 2,
-    "Financial Times": 19,
+    "Financial Times": 20,
     "The Arab Weekly": 1,
     "The Guardian": 4,
     "The New York Times": 6,
@@ -6475,7 +6475,8 @@
     "The Times": 1,
     "Enab Baladi": 1,
     "www.tenniswatcher.com": 1,
-    "South China Morning Post": 1
+    "South China Morning Post": 1,
+    "Fox News": 1
    },
    "sourceTone": {
     "Reuters": [
@@ -6530,7 +6531,7 @@
     ],
     "Financial Times": [
      0,
-     19,
+     20,
      0
     ],
     "The Arab Weekly": [
@@ -7067,21 +7068,27 @@
      0,
      1,
      0
+    ],
+    "Fox News": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-08": {
-   "total": 16,
-   "news": 16,
+   "total": 17,
+   "news": 17,
    "articles": 0,
    "positive": 0,
-   "neutral": 16,
+   "neutral": 17,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "SA": 2,
     "FR": 1,
-    "HK": 1
+    "HK": 1,
+    "GB": 1
    },
    "topics": {},
    "sources": {
@@ -7097,7 +7104,8 @@
     "Facebook": 1,
     "China Daily Global Edition": 1,
     "The Times of India": 1,
-    "الخبر اليمني": 1
+    "الخبر اليمني": 1,
+    "Reuters": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -7161,6 +7169,11 @@
      0
     ],
     "الخبر اليمني": [
+     0,
+     1,
+     0
+    ],
+    "Reuters": [
      0,
      1,
      0
