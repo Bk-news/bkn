@@ -5431,15 +5431,15 @@
    }
   },
   "2026-11-06": {
-   "total": 625,
-   "news": 616,
+   "total": 626,
+   "news": 617,
    "articles": 9,
    "positive": 0,
-   "neutral": 625,
+   "neutral": 626,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 220,
+    "GB": 221,
     "SA": 103,
     "US": 114,
     "DE": 4,
@@ -5450,7 +5450,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Reuters": 169,
+    "Reuters": 170,
     "Arab News": 104,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
@@ -5606,7 +5606,7 @@
     ],
     "Reuters": [
      0,
-     169,
+     170,
      0
     ],
     "Arab News": [
@@ -6342,15 +6342,15 @@
    }
   },
   "2026-11-07": {
-   "total": 383,
-   "news": 381,
+   "total": 384,
+   "news": 382,
    "articles": 2,
    "positive": 0,
-   "neutral": 383,
+   "neutral": 384,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 88,
+    "GB": 89,
     "SA": 58,
     "US": 57,
     "FR": 7,
@@ -6358,7 +6358,7 @@
    },
    "topics": {},
    "sources": {
-    "Reuters": 44,
+    "Reuters": 45,
     "OpenCritic": 1,
     "Arab News": 62,
     "AP News": 11,
@@ -6482,7 +6482,7 @@
    "sourceTone": {
     "Reuters": [
      0,
-     44,
+     45,
      0
     ],
     "OpenCritic": [
@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 280,
-   "news": 280,
+   "total": 282,
+   "news": 282,
    "articles": 0,
    "positive": 0,
-   "neutral": 280,
+   "neutral": 282,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -7095,7 +7095,7 @@
     "FR": 5,
     "HK": 3,
     "GB": 37,
-    "US": 38,
+    "US": 39,
     "DE": 1
    },
    "topics": {},
@@ -7180,7 +7180,7 @@
     "upi": 1,
     "Bloomberg.com": 2,
     "Saudi Gazette": 9,
-    "The New York Times": 10,
+    "The New York Times": 11,
     "Spiegel": 1,
     "The Seattle Times": 1,
     "Middle East Eye": 2,
@@ -7222,7 +7222,8 @@
     "Informat.ro": 1,
     "CNBC": 1,
     "Telegraph India": 1,
-    "houseofsaud.com": 1
+    "houseofsaud.com": 1,
+    "ARN News Centre": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -7627,7 +7628,7 @@
     ],
     "The New York Times": [
      0,
-     10,
+     11,
      0
     ],
     "Spiegel": [
@@ -7836,6 +7837,11 @@
      0
     ],
     "houseofsaud.com": [
+     0,
+     1,
+     0
+    ],
+    "ARN News Centre": [
      0,
      1,
      0
