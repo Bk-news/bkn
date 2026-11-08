@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 416,
-   "news": 415,
+   "total": 418,
+   "news": 417,
    "articles": 1,
    "positive": 0,
-   "neutral": 416,
+   "neutral": 418,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -7095,7 +7095,7 @@
     "FR": 27,
     "HK": 4,
     "GB": 77,
-    "US": 60,
+    "US": 61,
     "DE": 2
    },
    "topics": {},
@@ -7141,7 +7141,7 @@
     "The Peninsula Qatar": 3,
     "Firstpost": 2,
     "UA.NEWS": 2,
-    "Al Arabiya English": 2,
+    "Al Arabiya English": 3,
     "Latest news from Azerbaijan": 3,
     "تسنیم": 2,
     "Anadolu Ajansı": 2,
@@ -7178,7 +7178,7 @@
     "oEnergetice.cz": 1,
     "Defence.in": 1,
     "upi": 1,
-    "Bloomberg.com": 4,
+    "Bloomberg.com": 5,
     "Saudi Gazette": 12,
     "The New York Times": 14,
     "Spiegel": 2,
@@ -7450,7 +7450,7 @@
     ],
     "Al Arabiya English": [
      0,
-     2,
+     3,
      0
     ],
     "Latest news from Azerbaijan": [
@@ -7635,7 +7635,7 @@
     ],
     "Bloomberg.com": [
      0,
-     4,
+     5,
      0
     ],
     "Saudi Gazette": [
