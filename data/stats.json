@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 533,
-   "news": 529,
+   "total": 534,
+   "news": 530,
    "articles": 4,
    "positive": 0,
-   "neutral": 533,
+   "neutral": 534,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -7156,7 +7156,7 @@
     "MMA Fighting": 1,
     "i24NEWS": 1,
     "theScore": 1,
-    "MMA Junkie": 2,
+    "MMA Junkie": 3,
     "chinadailyhk": 1,
     "EL PAÍS English": 1,
     "MMANews.com": 1,
@@ -7536,7 +7536,7 @@
     ],
     "MMA Junkie": [
      0,
-     2,
+     3,
      0
     ],
     "chinadailyhk": [
