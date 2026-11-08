@@ -5431,17 +5431,17 @@
    }
   },
   "2026-11-06": {
-   "total": 579,
-   "news": 570,
+   "total": 583,
+   "news": 574,
    "articles": 9,
    "positive": 0,
-   "neutral": 579,
+   "neutral": 583,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 183,
+    "GB": 186,
     "SA": 101,
-    "US": 107,
+    "US": 108,
     "DE": 4,
     "HK": 6,
     "FR": 7,
@@ -5450,12 +5450,12 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Reuters": 135,
+    "Reuters": 138,
     "Arab News": 102,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
     "The Guardian": 8,
-    "WSJ": 29,
+    "WSJ": 30,
     "Al-Monitor": 16,
     "The New York Times": 19,
     "Bloomberg.com": 26,
@@ -5606,7 +5606,7 @@
     ],
     "Reuters": [
      0,
-     135,
+     138,
      0
     ],
     "Arab News": [
@@ -5631,7 +5631,7 @@
     ],
     "WSJ": [
      0,
-     29,
+     30,
      0
     ],
     "Al-Monitor": [
@@ -6342,33 +6342,33 @@
    }
   },
   "2026-11-07": {
-   "total": 330,
-   "news": 328,
+   "total": 336,
+   "news": 334,
    "articles": 2,
    "positive": 0,
-   "neutral": 330,
+   "neutral": 336,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 65,
+    "GB": 69,
     "SA": 48,
-    "US": 41,
+    "US": 42,
     "FR": 7,
     "HK": 1
    },
    "topics": {},
    "sources": {
-    "Reuters": 34,
+    "Reuters": 37,
     "OpenCritic": 1,
     "Arab News": 55,
-    "AP News": 9,
+    "AP News": 10,
     "Al-Monitor": 14,
     "Le Monde.fr": 5,
     "BBC": 10,
     "Nacionale": 1,
     "WSJ": 3,
     "وكالة الأنباء السعودية": 2,
-    "Financial Times": 18,
+    "Financial Times": 19,
     "The Arab Weekly": 1,
     "The Guardian": 4,
     "The New York Times": 6,
@@ -6384,7 +6384,7 @@
     "Kurdistan24": 3,
     "Al Jazeera": 1,
     "Gulf Times": 2,
-    "Middle East Eye": 2,
+    "Middle East Eye": 3,
     "Anadolu Ajansı": 4,
     "Sports Illustrated": 1,
     "Al Arabiya English": 2,
@@ -6480,7 +6480,7 @@
    "sourceTone": {
     "Reuters": [
      0,
-     34,
+     37,
      0
     ],
     "OpenCritic": [
@@ -6495,7 +6495,7 @@
     ],
     "AP News": [
      0,
-     9,
+     10,
      0
     ],
     "Al-Monitor": [
@@ -6530,7 +6530,7 @@
     ],
     "Financial Times": [
      0,
-     18,
+     19,
      0
     ],
     "The Arab Weekly": [
@@ -6610,7 +6610,7 @@
     ],
     "Middle East Eye": [
      0,
-     2,
+     3,
      0
     ],
     "Anadolu Ajansı": [
@@ -7064,6 +7064,91 @@
      0
     ],
     "South China Morning Post": [
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "2026-11-08": {
+   "total": 13,
+   "news": 13,
+   "articles": 0,
+   "positive": 0,
+   "neutral": 13,
+   "critical": 0,
+   "mbs": 0,
+   "countries": {
+    "SA": 2,
+    "FR": 1,
+    "HK": 1
+   },
+   "topics": {},
+   "sources": {
+    "Arab News": 3,
+    "France 24": 1,
+    "South China Morning Post": 1,
+    "RTE.ie": 1,
+    "The Express Tribune": 1,
+    "The Kathmandu Post": 1,
+    "Moneycontrol.com": 1,
+    "Deccan Chronicle": 1,
+    "Hindustan Times": 1,
+    "Facebook": 1,
+    "China Daily Global Edition": 1
+   },
+   "sourceTone": {
+    "Arab News": [
+     0,
+     3,
+     0
+    ],
+    "France 24": [
+     0,
+     1,
+     0
+    ],
+    "South China Morning Post": [
+     0,
+     1,
+     0
+    ],
+    "RTE.ie": [
+     0,
+     1,
+     0
+    ],
+    "The Express Tribune": [
+     0,
+     1,
+     0
+    ],
+    "The Kathmandu Post": [
+     0,
+     1,
+     0
+    ],
+    "Moneycontrol.com": [
+     0,
+     1,
+     0
+    ],
+    "Deccan Chronicle": [
+     0,
+     1,
+     0
+    ],
+    "Hindustan Times": [
+     0,
+     1,
+     0
+    ],
+    "Facebook": [
+     0,
+     1,
+     0
+    ],
+    "China Daily Global Edition": [
      0,
      1,
      0
