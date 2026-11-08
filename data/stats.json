@@ -5431,15 +5431,15 @@
    }
   },
   "2026-11-06": {
-   "total": 609,
-   "news": 600,
+   "total": 610,
+   "news": 601,
    "articles": 9,
    "positive": 0,
-   "neutral": 609,
+   "neutral": 610,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 205,
+    "GB": 206,
     "SA": 103,
     "US": 113,
     "DE": 4,
@@ -5471,7 +5471,7 @@
     "Middle East Eye": 3,
     "digitimes": 1,
     "Anadolu Ajansı": 2,
-    "Financial Times": 24,
+    "Financial Times": 25,
     "UA.NEWS": 3,
     "GamesRadar+": 1,
     "Spiegel": 4,
@@ -5711,7 +5711,7 @@
     ],
     "Financial Times": [
      0,
-     24,
+     25,
      0
     ],
     "UA.NEWS": [
@@ -6342,17 +6342,17 @@
    }
   },
   "2026-11-07": {
-   "total": 358,
-   "news": 356,
+   "total": 369,
+   "news": 367,
    "articles": 2,
    "positive": 0,
-   "neutral": 358,
+   "neutral": 369,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 77,
+    "GB": 81,
     "SA": 56,
-    "US": 45,
+    "US": 52,
     "FR": 7,
     "HK": 1
    },
@@ -6361,18 +6361,18 @@
     "Reuters": 38,
     "OpenCritic": 1,
     "Arab News": 60,
-    "AP News": 10,
+    "AP News": 11,
     "Al-Monitor": 14,
     "Le Monde.fr": 5,
     "BBC": 12,
     "Nacionale": 1,
     "WSJ": 3,
     "وكالة الأنباء السعودية": 2,
-    "Financial Times": 24,
+    "Financial Times": 28,
     "The Arab Weekly": 1,
     "The Guardian": 4,
-    "The New York Times": 8,
-    "CNN": 3,
+    "The New York Times": 11,
+    "CNN": 6,
     "The Economist": 2,
     "Daily Observer": 2,
     "سانا": 3,
@@ -6497,7 +6497,7 @@
     ],
     "AP News": [
      0,
-     10,
+     11,
      0
     ],
     "Al-Monitor": [
@@ -6532,7 +6532,7 @@
     ],
     "Financial Times": [
      0,
-     24,
+     28,
      0
     ],
     "The Arab Weekly": [
@@ -6547,12 +6547,12 @@
     ],
     "The New York Times": [
      0,
-     8,
+     11,
      0
     ],
     "CNN": [
      0,
-     3,
+     6,
      0
     ],
     "The Economist": [
@@ -7083,24 +7083,24 @@
    }
   },
   "2026-11-08": {
-   "total": 168,
-   "news": 168,
+   "total": 196,
+   "news": 196,
    "articles": 0,
    "positive": 0,
-   "neutral": 168,
+   "neutral": 196,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "SA": 22,
+    "SA": 30,
     "FR": 4,
     "HK": 2,
-    "GB": 20,
-    "US": 26,
+    "GB": 26,
+    "US": 34,
     "DE": 1
    },
    "topics": {},
    "sources": {
-    "Arab News": 24,
+    "Arab News": 32,
     "France 24": 2,
     "South China Morning Post": 2,
     "RTE.ie": 1,
@@ -7113,13 +7113,13 @@
     "China Daily Global Edition": 1,
     "The Times of India": 3,
     "الخبر اليمني": 2,
-    "Reuters": 7,
+    "Reuters": 13,
     "Breakingthenews.net": 1,
     "WSJ": 2,
-    "AP News": 5,
+    "AP News": 6,
     "Yemen Online": 1,
     "Le Monde.fr": 3,
-    "Al-Monitor": 8,
+    "Al-Monitor": 12,
     "The Washington Post": 2,
     "BBC": 5,
     "Financial Times": 6,
@@ -7171,7 +7171,7 @@
     "Bloomberg": 2,
     "NDTV Profit": 1,
     "Gulf Business": 1,
-    "CNN": 4,
+    "CNN": 5,
     "ynetnews": 1,
     "L'Orient Today": 1,
     "Arabian Business": 1,
@@ -7179,15 +7179,18 @@
     "Defence.in": 1,
     "upi": 1,
     "Bloomberg.com": 1,
-    "Saudi Gazette": 3,
-    "The New York Times": 3,
+    "Saudi Gazette": 6,
+    "The New York Times": 5,
     "Spiegel": 1,
-    "The Seattle Times": 1
+    "The Seattle Times": 1,
+    "Middle East Eye": 1,
+    "Yeni Şafak English": 1,
+    "Iran International": 1
    },
    "sourceTone": {
     "Arab News": [
      0,
-     24,
+     32,
      0
     ],
     "France 24": [
@@ -7252,7 +7255,7 @@
     ],
     "Reuters": [
      0,
-     7,
+     13,
      0
     ],
     "Breakingthenews.net": [
@@ -7267,7 +7270,7 @@
     ],
     "AP News": [
      0,
-     5,
+     6,
      0
     ],
     "Yemen Online": [
@@ -7282,7 +7285,7 @@
     ],
     "Al-Monitor": [
      0,
-     8,
+     12,
      0
     ],
     "The Washington Post": [
@@ -7542,7 +7545,7 @@
     ],
     "CNN": [
      0,
-     4,
+     5,
      0
     ],
     "ynetnews": [
@@ -7582,12 +7585,12 @@
     ],
     "Saudi Gazette": [
      0,
-     3,
+     6,
      0
     ],
     "The New York Times": [
      0,
-     3,
+     5,
      0
     ],
     "Spiegel": [
@@ -7596,6 +7599,21 @@
      0
     ],
     "The Seattle Times": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Eye": [
+     0,
+     1,
+     0
+    ],
+    "Yeni Şafak English": [
+     0,
+     1,
+     0
+    ],
+    "Iran International": [
      0,
      1,
      0
