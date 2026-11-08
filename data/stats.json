@@ -7083,17 +7083,17 @@
    }
   },
   "2026-11-08": {
-   "total": 521,
-   "news": 517,
+   "total": 522,
+   "news": 518,
    "articles": 4,
    "positive": 0,
-   "neutral": 521,
+   "neutral": 522,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 71,
     "FR": 52,
-    "HK": 5,
+    "HK": 6,
     "GB": 98,
     "US": 78,
     "DE": 2
@@ -7102,7 +7102,7 @@
    "sources": {
     "Arab News": 76,
     "France 24": 48,
-    "South China Morning Post": 5,
+    "South China Morning Post": 6,
     "RTE.ie": 1,
     "The Express Tribune": 2,
     "The Kathmandu Post": 1,
@@ -7265,7 +7265,7 @@
     ],
     "South China Morning Post": [
      0,
-     5,
+     6,
      0
     ],
     "RTE.ie": [
