@@ -5431,17 +5431,17 @@
    }
   },
   "2026-11-06": {
-   "total": 583,
-   "news": 574,
+   "total": 587,
+   "news": 578,
    "articles": 9,
    "positive": 0,
-   "neutral": 583,
+   "neutral": 587,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 186,
+    "GB": 189,
     "SA": 101,
-    "US": 108,
+    "US": 109,
     "DE": 4,
     "HK": 6,
     "FR": 7,
@@ -5450,12 +5450,12 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Reuters": 138,
+    "Reuters": 141,
     "Arab News": 102,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
     "The Guardian": 8,
-    "WSJ": 30,
+    "WSJ": 31,
     "Al-Monitor": 16,
     "The New York Times": 19,
     "Bloomberg.com": 26,
@@ -5606,7 +5606,7 @@
     ],
     "Reuters": [
      0,
-     138,
+     141,
      0
     ],
     "Arab News": [
@@ -5631,7 +5631,7 @@
     ],
     "WSJ": [
      0,
-     30,
+     31,
      0
     ],
     "Al-Monitor": [
