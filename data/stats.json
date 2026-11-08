@@ -5431,17 +5431,17 @@
    }
   },
   "2026-11-06": {
-   "total": 623,
-   "news": 614,
+   "total": 624,
+   "news": 615,
    "articles": 9,
    "positive": 0,
-   "neutral": 623,
+   "neutral": 624,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 219,
     "SA": 103,
-    "US": 113,
+    "US": 114,
     "DE": 4,
     "HK": 6,
     "FR": 7,
@@ -5477,7 +5477,7 @@
     "Spiegel": 4,
     "South China Morning Post": 6,
     "France 24": 4,
-    "CNN": 1,
+    "CNN": 2,
     "The Express Tribune": 3,
     "Saudi Gazette": 9,
     "AP News": 7,
@@ -5741,7 +5741,7 @@
     ],
     "CNN": [
      0,
-     1,
+     2,
      0
     ],
     "The Express Tribune": [
@@ -7083,18 +7083,18 @@
    }
   },
   "2026-11-08": {
-   "total": 273,
-   "news": 273,
+   "total": 276,
+   "news": 276,
    "articles": 0,
    "positive": 0,
-   "neutral": 273,
+   "neutral": 276,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "SA": 36,
     "FR": 4,
     "HK": 3,
-    "GB": 33,
+    "GB": 35,
     "US": 38,
     "DE": 1
    },
@@ -7113,7 +7113,7 @@
     "China Daily Global Edition": 1,
     "The Times of India": 3,
     "الخبر اليمني": 2,
-    "Reuters": 20,
+    "Reuters": 22,
     "Breakingthenews.net": 1,
     "WSJ": 3,
     "AP News": 6,
@@ -7221,7 +7221,8 @@
     "وكالة الانباء الاردنية": 1,
     "Informat.ro": 1,
     "CNBC": 1,
-    "Telegraph India": 1
+    "Telegraph India": 1,
+    "houseofsaud.com": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -7291,7 +7292,7 @@
     ],
     "Reuters": [
      0,
-     20,
+     22,
      0
     ],
     "Breakingthenews.net": [
@@ -7830,6 +7831,11 @@
      0
     ],
     "Telegraph India": [
+     0,
+     1,
+     0
+    ],
+    "houseofsaud.com": [
      0,
      1,
      0
