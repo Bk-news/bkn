@@ -5431,16 +5431,16 @@
    }
   },
   "2026-11-06": {
-   "total": 588,
-   "news": 579,
+   "total": 590,
+   "news": 581,
    "articles": 9,
    "positive": 0,
-   "neutral": 588,
+   "neutral": 590,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 189,
-    "SA": 101,
+    "SA": 103,
     "US": 110,
     "DE": 4,
     "HK": 6,
@@ -5451,7 +5451,7 @@
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
     "Reuters": 141,
-    "Arab News": 102,
+    "Arab News": 104,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
     "The Guardian": 8,
@@ -5611,7 +5611,7 @@
     ],
     "Arab News": [
      0,
-     102,
+     104,
      0
     ],
     "Al Jazeera": [
@@ -6342,16 +6342,16 @@
    }
   },
   "2026-11-07": {
-   "total": 340,
-   "news": 338,
+   "total": 345,
+   "news": 343,
    "articles": 2,
    "positive": 0,
-   "neutral": 340,
+   "neutral": 345,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 71,
-    "SA": 48,
+    "GB": 72,
+    "SA": 52,
     "US": 43,
     "FR": 7,
     "HK": 1
@@ -6360,7 +6360,7 @@
    "sources": {
     "Reuters": 37,
     "OpenCritic": 1,
-    "Arab News": 55,
+    "Arab News": 59,
     "AP News": 10,
     "Al-Monitor": 14,
     "Le Monde.fr": 5,
@@ -6368,7 +6368,7 @@
     "Nacionale": 1,
     "WSJ": 3,
     "وكالة الأنباء السعودية": 2,
-    "Financial Times": 20,
+    "Financial Times": 21,
     "The Arab Weekly": 1,
     "The Guardian": 4,
     "The New York Times": 6,
@@ -6491,7 +6491,7 @@
     ],
     "Arab News": [
      0,
-     55,
+     59,
      0
     ],
     "AP News": [
@@ -6531,7 +6531,7 @@
     ],
     "Financial Times": [
      0,
-     20,
+     21,
      0
     ],
     "The Arab Weekly": [
@@ -7077,22 +7077,23 @@
    }
   },
   "2026-11-08": {
-   "total": 20,
-   "news": 20,
+   "total": 22,
+   "news": 22,
    "articles": 0,
    "positive": 0,
-   "neutral": 20,
+   "neutral": 22,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "SA": 2,
+    "SA": 3,
     "FR": 1,
     "HK": 1,
-    "GB": 1
+    "GB": 1,
+    "US": 1
    },
    "topics": {},
    "sources": {
-    "Arab News": 5,
+    "Arab News": 6,
     "France 24": 1,
     "South China Morning Post": 1,
     "RTE.ie": 1,
@@ -7106,12 +7107,13 @@
     "The Times of India": 2,
     "الخبر اليمني": 1,
     "Reuters": 1,
-    "Breakingthenews.net": 1
+    "Breakingthenews.net": 1,
+    "WSJ": 1
    },
    "sourceTone": {
     "Arab News": [
      0,
-     5,
+     6,
      0
     ],
     "France 24": [
@@ -7180,6 +7182,11 @@
      0
     ],
     "Breakingthenews.net": [
+     0,
+     1,
+     0
+    ],
+    "WSJ": [
      0,
      1,
      0
