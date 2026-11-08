@@ -1,5 +1,17 @@
 [
  {
+  "id": "4484d1bd3ec8ed8c",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "القوات المسلحة اليمنية: مدفعية الميدان والراجمات نفذت 944 عملية استهداف لميليشيا الحوثي",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152837",
+  "published": "2026-11-08T16:11:02.000Z",
+  "subject": "saudi",
+  "added": "2026-11-08T16:11:02.000Z"
+ },
+ {
   "id": "3ee544ec8188990f",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -118,17 +130,5 @@
   "published": "2026-11-08T15:14:02.000Z",
   "subject": "saudi",
   "added": "2026-11-08T15:14:02.000Z"
- },
- {
-  "id": "a3d2388ea627dbee",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "التحالف: الميليشيا الحوثية الإرهابية استخدمت المنصتين في محاولة للاعتداء على الرياض اليوم",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152826",
-  "published": "2026-11-08T15:12:01.000Z",
-  "subject": "saudi",
-  "added": "2026-11-08T15:12:01.000Z"
  }
 ]
