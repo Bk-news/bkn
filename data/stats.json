@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 272,
-   "news": 272,
+   "total": 273,
+   "news": 273,
    "articles": 0,
    "positive": 0,
-   "neutral": 272,
+   "neutral": 273,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -7220,7 +7220,8 @@
     "TVC News": 1,
     "وكالة الانباء الاردنية": 1,
     "Informat.ro": 1,
-    "CNBC": 1
+    "CNBC": 1,
+    "Telegraph India": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -7824,6 +7825,11 @@
      0
     ],
     "CNBC": [
+     0,
+     1,
+     0
+    ],
+    "Telegraph India": [
      0,
      1,
      0
