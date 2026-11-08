@@ -1,5 +1,17 @@
 [
  {
+  "id": "3ee544ec8188990f",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "القوات المسلحة اليمنية: الطيران المسير استهدف مواقع قتالية وآليات لميليشيا الحوثي",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152836",
+  "published": "2026-11-08T16:10:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-08T16:10:01.000Z"
+ },
+ {
   "id": "242f0d9b7fd8685b",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -118,17 +130,5 @@
   "published": "2026-11-08T15:12:01.000Z",
   "subject": "saudi",
   "added": "2026-11-08T15:12:01.000Z"
- },
- {
-  "id": "bd03fdcfd0600e4e",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "التحالف: دمرنا منصتين لإطلاق الصواريخ الباليستية في صعدة",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152825",
-  "published": "2026-11-08T15:11:01.000Z",
-  "subject": "saudi",
-  "added": "2026-11-08T15:11:01.000Z"
  }
 ]

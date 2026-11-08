@@ -2,6 +2,27 @@
  "day": "2026-11-08",
  "items": [
   {
+   "id": "6274d94c0846a2d5",
+   "origin": "rss",
+   "source": "BBC",
+   "author": "",
+   "title_ar": "تظهر اللقطات عربات خرجت عن مسارها بعد حادث قطار مميت في مصر",
+   "title_orig": "Footage shows derailed carriages after fatal train crash in Egypt",
+   "title_en": "Footage shows derailed carriages after fatal train crash in Egypt",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iUVkxa3lUQ1JmNGV3MEJBYXRDa3RNRV9pRDRTTko5RzBaMC0tLVVOUWhkMjFKTGUyQ0dmWWpMazdGOUNYMHhEWWttb1ZVc2xHdzZWeTZIVWk?oc=5",
+   "published": "2026-11-08T16:05:57.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "Footage shows derailed carriages after fatal train crash in Egypt &nbsp;&nbsp; BBC",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "2a662444571ab580",
    "origin": "rss",
    "source": "The Manila Times",
