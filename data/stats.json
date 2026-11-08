@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 110,
-   "news": 110,
+   "total": 111,
+   "news": 111,
    "articles": 0,
    "positive": 0,
-   "neutral": 110,
+   "neutral": 111,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -7095,7 +7095,7 @@
     "FR": 3,
     "HK": 1,
     "GB": 9,
-    "US": 10
+    "US": 11
    },
    "topics": {},
    "sources": {
@@ -7166,7 +7166,8 @@
     "Heavy.com": 1,
     "8AM Media": 1,
     "NDTV": 1,
-    "アラブニュース": 1
+    "アラブニュース": 1,
+    "Bloomberg": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -7505,6 +7506,11 @@
      0
     ],
     "アラブニュース": [
+     0,
+     1,
+     0
+    ],
+    "Bloomberg": [
      0,
      1,
      0
