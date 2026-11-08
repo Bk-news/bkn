@@ -7071,11 +7071,11 @@
    }
   },
   "2026-11-08": {
-   "total": 14,
-   "news": 14,
+   "total": 15,
+   "news": 15,
    "articles": 0,
    "positive": 0,
-   "neutral": 14,
+   "neutral": 15,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -7095,7 +7095,8 @@
     "Deccan Chronicle": 1,
     "Hindustan Times": 1,
     "Facebook": 1,
-    "China Daily Global Edition": 1
+    "China Daily Global Edition": 1,
+    "The Times of India": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -7149,6 +7150,11 @@
      0
     ],
     "China Daily Global Edition": [
+     0,
+     1,
+     0
+    ],
+    "The Times of India": [
      0,
      1,
      0
