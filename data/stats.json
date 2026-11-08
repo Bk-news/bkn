@@ -7071,11 +7071,11 @@
    }
   },
   "2026-11-08": {
-   "total": 15,
-   "news": 15,
+   "total": 16,
+   "news": 16,
    "articles": 0,
    "positive": 0,
-   "neutral": 15,
+   "neutral": 16,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -7096,7 +7096,8 @@
     "Hindustan Times": 1,
     "Facebook": 1,
     "China Daily Global Edition": 1,
-    "The Times of India": 1
+    "The Times of India": 1,
+    "الخبر اليمني": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -7155,6 +7156,11 @@
      0
     ],
     "The Times of India": [
+     0,
+     1,
+     0
+    ],
+    "الخبر اليمني": [
      0,
      1,
      0
