@@ -6342,17 +6342,17 @@
    }
   },
   "2026-11-07": {
-   "total": 377,
-   "news": 375,
+   "total": 378,
+   "news": 376,
    "articles": 2,
    "positive": 0,
-   "neutral": 377,
+   "neutral": 378,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 87,
     "SA": 58,
-    "US": 52,
+    "US": 53,
     "FR": 7,
     "HK": 1
    },
@@ -6372,7 +6372,7 @@
     "The Arab Weekly": 1,
     "The Guardian": 4,
     "The New York Times": 11,
-    "CNN": 6,
+    "CNN": 7,
     "The Economist": 2,
     "Daily Observer": 2,
     "سانا": 3,
@@ -6552,7 +6552,7 @@
     ],
     "CNN": [
      0,
-     6,
+     7,
      0
     ],
     "The Economist": [
