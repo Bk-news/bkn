@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 438,
-   "news": 437,
+   "total": 439,
+   "news": 438,
    "articles": 1,
    "positive": 0,
-   "neutral": 438,
+   "neutral": 439,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -7204,7 +7204,7 @@
     "www.nationpathindia.com": 1,
     "Ahram Online": 1,
     "Rediff": 1,
-    "The Jerusalem Post": 2,
+    "The Jerusalem Post": 3,
     "NewsCord": 1,
     "MMA Mania": 1,
     "BusinessLine": 1,
@@ -7767,7 +7767,7 @@
     ],
     "The Jerusalem Post": [
      0,
-     2,
+     3,
      0
     ],
     "NewsCord": [
