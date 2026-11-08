@@ -6342,17 +6342,17 @@
    }
   },
   "2026-11-07": {
-   "total": 388,
-   "news": 386,
+   "total": 389,
+   "news": 387,
    "articles": 2,
    "positive": 0,
-   "neutral": 388,
+   "neutral": 389,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 91,
     "SA": 59,
-    "US": 58,
+    "US": 59,
     "FR": 7,
     "HK": 1
    },
@@ -6372,7 +6372,7 @@
     "The Arab Weekly": 1,
     "The Guardian": 4,
     "The New York Times": 12,
-    "CNN": 11,
+    "CNN": 12,
     "The Economist": 2,
     "Daily Observer": 2,
     "سانا": 3,
@@ -6552,7 +6552,7 @@
     ],
     "CNN": [
      0,
-     11,
+     12,
      0
     ],
     "The Economist": [
@@ -7083,15 +7083,15 @@
    }
   },
   "2026-11-08": {
-   "total": 288,
-   "news": 288,
+   "total": 290,
+   "news": 290,
    "articles": 0,
    "positive": 0,
-   "neutral": 288,
+   "neutral": 290,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 36,
+    "SA": 37,
     "FR": 5,
     "HK": 3,
     "GB": 39,
@@ -7100,8 +7100,8 @@
    },
    "topics": {},
    "sources": {
-    "Arab News": 40,
-    "France 24": 2,
+    "Arab News": 41,
+    "France 24": 3,
     "South China Morning Post": 3,
     "RTE.ie": 1,
     "The Express Tribune": 2,
@@ -7231,12 +7231,12 @@
    "sourceTone": {
     "Arab News": [
      0,
-     40,
+     41,
      0
     ],
     "France 24": [
      0,
-     2,
+     3,
      0
     ],
     "South China Morning Post": [
