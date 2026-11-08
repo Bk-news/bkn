@@ -6342,17 +6342,17 @@
    }
   },
   "2026-11-07": {
-   "total": 379,
-   "news": 377,
+   "total": 380,
+   "news": 378,
    "articles": 2,
    "positive": 0,
-   "neutral": 379,
+   "neutral": 380,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 87,
     "SA": 58,
-    "US": 54,
+    "US": 55,
     "FR": 7,
     "HK": 1
    },
@@ -6372,7 +6372,7 @@
     "The Arab Weekly": 1,
     "The Guardian": 4,
     "The New York Times": 11,
-    "CNN": 8,
+    "CNN": 9,
     "The Economist": 2,
     "Daily Observer": 2,
     "سانا": 3,
@@ -6552,7 +6552,7 @@
     ],
     "CNN": [
      0,
-     8,
+     9,
      0
     ],
     "The Economist": [
@@ -7083,18 +7083,18 @@
    }
   },
   "2026-11-08": {
-   "total": 264,
-   "news": 264,
+   "total": 265,
+   "news": 265,
    "articles": 0,
    "positive": 0,
-   "neutral": 264,
+   "neutral": 265,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "SA": 36,
     "FR": 4,
     "HK": 3,
-    "GB": 32,
+    "GB": 33,
     "US": 38,
     "DE": 1
    },
@@ -7113,7 +7113,7 @@
     "China Daily Global Edition": 1,
     "The Times of India": 3,
     "الخبر اليمني": 2,
-    "Reuters": 19,
+    "Reuters": 20,
     "Breakingthenews.net": 1,
     "WSJ": 3,
     "AP News": 6,
@@ -7285,7 +7285,7 @@
     ],
     "Reuters": [
      0,
-     19,
+     20,
      0
     ],
     "Breakingthenews.net": [
