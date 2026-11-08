@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 128,
-   "news": 128,
+   "total": 129,
+   "news": 129,
    "articles": 0,
    "positive": 0,
-   "neutral": 128,
+   "neutral": 129,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -7174,7 +7174,8 @@
     "ynetnews": 1,
     "L'Orient Today": 1,
     "Arabian Business": 1,
-    "oEnergetice.cz": 1
+    "oEnergetice.cz": 1,
+    "Defence.in": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -7553,6 +7554,11 @@
      0
     ],
     "oEnergetice.cz": [
+     0,
+     1,
+     0
+    ],
+    "Defence.in": [
      0,
      1,
      0
