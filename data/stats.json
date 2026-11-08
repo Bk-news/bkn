@@ -5431,15 +5431,15 @@
    }
   },
   "2026-11-06": {
-   "total": 624,
-   "news": 615,
+   "total": 625,
+   "news": 616,
    "articles": 9,
    "positive": 0,
-   "neutral": 624,
+   "neutral": 625,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 219,
+    "GB": 220,
     "SA": 103,
     "US": 114,
     "DE": 4,
@@ -5450,7 +5450,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Reuters": 168,
+    "Reuters": 169,
     "Arab News": 104,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
@@ -5606,7 +5606,7 @@
     ],
     "Reuters": [
      0,
-     168,
+     169,
      0
     ],
     "Arab News": [
@@ -7083,18 +7083,18 @@
    }
   },
   "2026-11-08": {
-   "total": 278,
-   "news": 278,
+   "total": 280,
+   "news": 280,
    "articles": 0,
    "positive": 0,
-   "neutral": 278,
+   "neutral": 280,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "SA": 36,
     "FR": 5,
     "HK": 3,
-    "GB": 35,
+    "GB": 37,
     "US": 38,
     "DE": 1
    },
@@ -7113,7 +7113,7 @@
     "China Daily Global Edition": 1,
     "The Times of India": 3,
     "الخبر اليمني": 2,
-    "Reuters": 22,
+    "Reuters": 24,
     "Breakingthenews.net": 1,
     "WSJ": 3,
     "AP News": 6,
@@ -7292,7 +7292,7 @@
     ],
     "Reuters": [
      0,
-     22,
+     24,
      0
     ],
     "Breakingthenews.net": [
