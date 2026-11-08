@@ -6342,17 +6342,17 @@
    }
   },
   "2026-11-07": {
-   "total": 378,
-   "news": 376,
+   "total": 379,
+   "news": 377,
    "articles": 2,
    "positive": 0,
-   "neutral": 378,
+   "neutral": 379,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 87,
     "SA": 58,
-    "US": 53,
+    "US": 54,
     "FR": 7,
     "HK": 1
    },
@@ -6372,7 +6372,7 @@
     "The Arab Weekly": 1,
     "The Guardian": 4,
     "The New York Times": 11,
-    "CNN": 7,
+    "CNN": 8,
     "The Economist": 2,
     "Daily Observer": 2,
     "سانا": 3,
@@ -6552,7 +6552,7 @@
     ],
     "CNN": [
      0,
-     7,
+     8,
      0
     ],
     "The Economist": [
@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 260,
-   "news": 260,
+   "total": 264,
+   "news": 264,
    "articles": 0,
    "positive": 0,
-   "neutral": 260,
+   "neutral": 264,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -7095,7 +7095,7 @@
     "FR": 4,
     "HK": 3,
     "GB": 32,
-    "US": 34,
+    "US": 38,
     "DE": 1
    },
    "topics": {},
@@ -7180,7 +7180,7 @@
     "upi": 1,
     "Bloomberg.com": 2,
     "Saudi Gazette": 8,
-    "The New York Times": 6,
+    "The New York Times": 10,
     "Spiegel": 1,
     "The Seattle Times": 1,
     "Middle East Eye": 1,
@@ -7620,7 +7620,7 @@
     ],
     "The New York Times": [
      0,
-     6,
+     10,
      0
     ],
     "Spiegel": [
