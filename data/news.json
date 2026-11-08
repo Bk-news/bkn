@@ -1,5 +1,25 @@
 [
  {
+  "id": "8a53eef18c204303",
+  "origin": "rss",
+  "source": "Nacionale",
+  "author": "",
+  "title_ar": "What do the Houthis want from Saudi Arabia? Money and recognition, a report says; Riyadh denies it",
+  "title_orig": "What do the Houthis want from Saudi Arabia? Money and recognition, a report says; Riyadh denies it",
+  "title_en": "What do the Houthis want from Saudi Arabia? Money and recognition, a report says; Riyadh denies it",
+  "summary_ar": [],
+  "summary_en": [],
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRFk4b3RaZm52Z0ZzT3hPTkJ1M0J6amw2ejQyZmRqX19EelJFc0NGQlN3MFVlYUpJRnFMNGZpSlFCM1o2VTlNUWhuT0c3UGlqd0RXVU03dkh1WUF1VXowNGdFNktxdTlIUGdOSnRUNmRBaUZ2d0tXYkFlWFFpSHRjc3Vid0NnbEFkN1pxa1NNdl9BZVV1ejI3OUN3VkdCQkxIY3BGbFZabFFqYmduWWRQMEQxUQ?oc=5",
+  "published": "2026-11-08T23:15:51.000Z",
+  "subject": "saudi",
+  "tone": "neutral",
+  "topic": "",
+  "country": "",
+  "pending": true,
+  "desc": "What do the Houthis want from Saudi Arabia? Money and recognition, a report says; Riyadh denies it &nbsp;&nbsp; Nacionale",
+  "lang": "en"
+ },
+ {
   "id": "4c2cfb9aedf57486",
   "origin": "rss",
   "source": "Arab News",
@@ -10404,27 +10424,6 @@
   "country": "GB",
   "pending": true,
   "desc": "Indonesian president’s adviser says MSCI downgrade threat ‘went too far’ &nbsp;&nbsp; Financial Times",
-  "lang": "en",
-  "mt": true
- },
- {
-  "id": "0f489cdb2edc4dcb",
-  "origin": "rss",
-  "source": "Moneycontrol.com",
-  "author": "",
-  "title_ar": "المملكة العربية السعودية تتعرض للهجوم: الحوثيون يعلنون عن هجمات صاروخية وطائرات بدون طيار على منشآت أرامكو النفطية ومطار الرياض",
-  "title_orig": "Saudi Arabia under attack: Houthis claim missile, drone strikes on Aramco oil facilities, Riyadh airport",
-  "title_en": "Saudi Arabia under attack: Houthis claim missile, drone strikes on Aramco oil facilities, Riyadh airport",
-  "summary_ar": [],
-  "summary_en": [],
-  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQemlmYWhlS25RNDd3N2phb1VmMU8tT1UzOHRVWjhiNmVZZ2FFRlp6QmFvelBwcnFHZGxaTlZCUVBfTE14VU92UElYR3NxaWJmbzZxWXpyQ1ctZnFvZkRxS0p5X25ycXBNU1VtUU9oY0wxY2dKSjFjVm1pYkk3UW0wekQzR3E3RVdzdG1PNWo2RnNGelBkcmlQeTh2WjI4bkhUTVlwV09FZW9td1dkS2tjNUlHT1k5YWIyb0ZCTUtaeVNndXIydF85MXFOOHdtUXh2Z0dPWldjSFF2bk02dTZBTFNzNXczY3EtQWRlTFd3SdIB9AFBVV95cUxNQkpNZGxvaDRQdV93N1FJMVBGWHFJZTZucmRZUFJWS3c1ZEdLeGVDd1h1MFBQR0EwdUo4dVo5TWxpY0VDSUVTaUxGSV92NFhPakkzaGVuT05DUG1uTlF4UGhBbjdMbFc2LXd6cWlLemgzS0E1N3lrR0hCYkcwR1YyWWl0YVBvblFUaWxQRmRFbEdKY0l1eG9zMnhVcEdLR09JY2dhOTc2WHJmQlpWTWxPc0w4dkpURTFmYVR4RXEzVGJYZjdLelhmRTU2MzZ6dzNrZlJVS29Xc0d3NC1NOElTZ2hfN2RGZktORENMWlJXelVYak5P?oc=5",
-  "published": "2026-11-08T01:31:58.000Z",
-  "subject": "saudi",
-  "tone": "neutral",
-  "topic": "",
-  "country": "",
-  "pending": true,
-  "desc": "Saudi Arabia under attack: Houthis claim missile, drone strikes on Aramco oil facilities, Riyadh airport &nbsp;&nbsp; Moneycontrol.com",
   "lang": "en",
   "mt": true
  }

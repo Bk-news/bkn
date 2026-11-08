@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 520,
-   "news": 516,
+   "total": 521,
+   "news": 517,
    "articles": 4,
    "positive": 0,
-   "neutral": 520,
+   "neutral": 521,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -7233,7 +7233,7 @@
     "Morocco World News": 1,
     "ASHARQ AL-AWSAT English": 1,
     "The Economist": 4,
-    "Nacionale": 2,
+    "Nacionale": 3,
     "United News of Bangladesh": 2,
     "Around Prague": 1,
     "Bioengineer.org": 1,
@@ -7920,7 +7920,7 @@
     ],
     "Nacionale": [
      0,
-     2,
+     3,
      0
     ],
     "United News of Bangladesh": [
