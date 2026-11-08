@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 525,
-   "news": 521,
+   "total": 527,
+   "news": 523,
    "articles": 4,
    "positive": 0,
-   "neutral": 525,
+   "neutral": 527,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -7095,7 +7095,7 @@
     "FR": 52,
     "HK": 6,
     "GB": 98,
-    "US": 79,
+    "US": 81,
     "DE": 2
    },
    "topics": {},
@@ -7115,7 +7115,7 @@
     "الخبر اليمني": 2,
     "Reuters": 42,
     "Breakingthenews.net": 1,
-    "WSJ": 6,
+    "WSJ": 7,
     "AP News": 11,
     "Yemen Online": 2,
     "Le Monde.fr": 6,
@@ -7168,7 +7168,7 @@
     "8AM Media": 1,
     "NDTV": 1,
     "アラブニュース": 1,
-    "Bloomberg": 4,
+    "Bloomberg": 5,
     "NDTV Profit": 1,
     "Gulf Business": 1,
     "CNN": 19,
@@ -7331,7 +7331,7 @@
     ],
     "WSJ": [
      0,
-     6,
+     7,
      0
     ],
     "AP News": [
@@ -7596,7 +7596,7 @@
     ],
     "Bloomberg": [
      0,
-     4,
+     5,
      0
     ],
     "NDTV Profit": [
