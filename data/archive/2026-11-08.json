@@ -2459,6 +2459,27 @@
    "mt": true
   },
   {
+   "id": "d1fa0a190af6a5ee",
+   "origin": "rss",
+   "source": "Le Monde.fr",
+   "author": "",
+   "title_ar": "دولي - أخبار ومقاطع فيديو ومعلومات حية",
+   "title_orig": "International - Actualités, vidéos et infos en direct",
+   "title_en": "",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxdjZEZ21KN2VLTy0zRURWT0N0Y21ja1hSTkpNYXVtd3ZFMXppQzZtQWdRTmlYaW1FaUJDeElxZjFsREhRWUNsUGtKWUNlUQ?oc=5",
+   "published": "2026-11-08T10:08:37.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "FR",
+   "pending": true,
+   "desc": "International - Actualités, vidéos et infos en direct &nbsp;&nbsp; Le Monde.fr",
+   "lang": "fr",
+   "mt": true
+  },
+  {
    "id": "7c2e598c47806d06",
    "origin": "rss",
    "source": "Arab News",
