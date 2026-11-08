@@ -5431,15 +5431,15 @@
    }
   },
   "2026-11-06": {
-   "total": 642,
-   "news": 633,
+   "total": 644,
+   "news": 635,
    "articles": 9,
    "positive": 0,
-   "neutral": 642,
+   "neutral": 644,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 234,
+    "GB": 236,
     "SA": 103,
     "US": 117,
     "DE": 4,
@@ -5471,7 +5471,7 @@
     "Middle East Eye": 3,
     "digitimes": 1,
     "Anadolu Ajansı": 2,
-    "Financial Times": 25,
+    "Financial Times": 27,
     "UA.NEWS": 3,
     "GamesRadar+": 1,
     "Spiegel": 4,
@@ -5711,7 +5711,7 @@
     ],
     "Financial Times": [
      0,
-     25,
+     27,
      0
     ],
     "UA.NEWS": [
@@ -6342,15 +6342,15 @@
    }
   },
   "2026-11-07": {
-   "total": 423,
-   "news": 420,
+   "total": 451,
+   "news": 448,
    "articles": 3,
    "positive": 0,
-   "neutral": 423,
+   "neutral": 451,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 115,
+    "GB": 143,
     "SA": 59,
     "US": 68,
     "FR": 8,
@@ -6368,7 +6368,7 @@
     "Nacionale": 1,
     "WSJ": 4,
     "وكالة الأنباء السعودية": 2,
-    "Financial Times": 41,
+    "Financial Times": 69,
     "The Arab Weekly": 1,
     "The Guardian": 4,
     "The New York Times": 12,
@@ -6532,7 +6532,7 @@
     ],
     "Financial Times": [
      0,
-     41,
+     69,
      0
     ],
     "The Arab Weekly": [
@@ -7083,18 +7083,18 @@
    }
   },
   "2026-11-08": {
-   "total": 413,
-   "news": 412,
+   "total": 415,
+   "news": 414,
    "articles": 1,
    "positive": 0,
-   "neutral": 413,
+   "neutral": 415,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 55,
     "FR": 27,
     "HK": 4,
-    "GB": 76,
+    "GB": 77,
     "US": 59,
     "DE": 2
    },
@@ -7113,7 +7113,7 @@
     "China Daily Global Edition": 1,
     "The Times of India": 3,
     "الخبر اليمني": 2,
-    "Reuters": 32,
+    "Reuters": 33,
     "Breakingthenews.net": 1,
     "WSJ": 4,
     "AP News": 9,
@@ -7239,7 +7239,8 @@
     "Bioengineer.org": 1,
     "ITVX": 1,
     "News On AIR": 1,
-    "scanx.trade": 1
+    "scanx.trade": 1,
+    "DW.com": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -7309,7 +7310,7 @@
     ],
     "Reuters": [
      0,
-     32,
+     33,
      0
     ],
     "Breakingthenews.net": [
@@ -7938,6 +7939,11 @@
      0
     ],
     "scanx.trade": [
+     0,
+     1,
+     0
+    ],
+    "DW.com": [
      0,
      1,
      0
