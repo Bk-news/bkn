@@ -5431,15 +5431,15 @@
    }
   },
   "2026-11-06": {
-   "total": 610,
-   "news": 601,
+   "total": 618,
+   "news": 609,
    "articles": 9,
    "positive": 0,
-   "neutral": 610,
+   "neutral": 618,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 206,
+    "GB": 214,
     "SA": 103,
     "US": 113,
     "DE": 4,
@@ -5450,7 +5450,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Reuters": 155,
+    "Reuters": 163,
     "Arab News": 104,
     "Al Jazeera": 1,
     "Amwaj.media": 1,
@@ -5606,7 +5606,7 @@
     ],
     "Reuters": [
      0,
-     155,
+     163,
      0
     ],
     "Arab News": [
@@ -6342,25 +6342,25 @@
    }
   },
   "2026-11-07": {
-   "total": 369,
-   "news": 367,
+   "total": 377,
+   "news": 375,
    "articles": 2,
    "positive": 0,
-   "neutral": 369,
+   "neutral": 377,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 81,
-    "SA": 56,
+    "GB": 87,
+    "SA": 58,
     "US": 52,
     "FR": 7,
     "HK": 1
    },
    "topics": {},
    "sources": {
-    "Reuters": 38,
+    "Reuters": 43,
     "OpenCritic": 1,
-    "Arab News": 60,
+    "Arab News": 62,
     "AP News": 11,
     "Al-Monitor": 14,
     "Le Monde.fr": 5,
@@ -6368,7 +6368,7 @@
     "Nacionale": 1,
     "WSJ": 3,
     "وكالة الأنباء السعودية": 2,
-    "Financial Times": 28,
+    "Financial Times": 29,
     "The Arab Weekly": 1,
     "The Guardian": 4,
     "The New York Times": 11,
@@ -6482,7 +6482,7 @@
    "sourceTone": {
     "Reuters": [
      0,
-     38,
+     43,
      0
     ],
     "OpenCritic": [
@@ -6492,7 +6492,7 @@
     ],
     "Arab News": [
      0,
-     60,
+     62,
      0
     ],
     "AP News": [
@@ -6532,7 +6532,7 @@
     ],
     "Financial Times": [
      0,
-     28,
+     29,
      0
     ],
     "The Arab Weekly": [
@@ -7083,24 +7083,24 @@
    }
   },
   "2026-11-08": {
-   "total": 196,
-   "news": 196,
+   "total": 220,
+   "news": 220,
    "articles": 0,
    "positive": 0,
-   "neutral": 196,
+   "neutral": 220,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "SA": 30,
+    "SA": 36,
     "FR": 4,
     "HK": 2,
-    "GB": 26,
+    "GB": 29,
     "US": 34,
     "DE": 1
    },
    "topics": {},
    "sources": {
-    "Arab News": 32,
+    "Arab News": 38,
     "France 24": 2,
     "South China Morning Post": 2,
     "RTE.ie": 1,
@@ -7113,16 +7113,16 @@
     "China Daily Global Edition": 1,
     "The Times of India": 3,
     "الخبر اليمني": 2,
-    "Reuters": 13,
+    "Reuters": 15,
     "Breakingthenews.net": 1,
-    "WSJ": 2,
+    "WSJ": 3,
     "AP News": 6,
     "Yemen Online": 1,
     "Le Monde.fr": 3,
     "Al-Monitor": 12,
     "The Washington Post": 2,
     "BBC": 5,
-    "Financial Times": 6,
+    "Financial Times": 7,
     "The Guardian": 2,
     "Arab News PK": 3,
     "Khaama Press": 1,
@@ -7133,17 +7133,17 @@
     "Kurdistan24": 1,
     "BroadcastPro ME": 1,
     "Dealroom": 1,
-    "The National": 2,
+    "The National": 3,
     "صوت الإمارات": 1,
     "Al Jazeera": 1,
-    "سانا": 1,
+    "سانا": 3,
     "Türkiye Today": 2,
-    "The Peninsula Qatar": 1,
+    "The Peninsula Qatar": 2,
     "Firstpost": 2,
     "UA.NEWS": 2,
     "Al Arabiya English": 2,
     "Latest news from Azerbaijan": 2,
-    "تسنیم": 1,
+    "تسنیم": 2,
     "Anadolu Ajansı": 2,
     "Mehr News Agency": 2,
     "Pars Today": 1,
@@ -7151,7 +7151,7 @@
     "TradingView": 1,
     "Bloody Elbow": 1,
     "Open Magazine": 1,
-    "Investing.com": 1,
+    "Investing.com": 2,
     "The Independent": 1,
     "MMA Fighting": 1,
     "i24NEWS": 1,
@@ -7179,18 +7179,25 @@
     "Defence.in": 1,
     "upi": 1,
     "Bloomberg.com": 1,
-    "Saudi Gazette": 6,
+    "Saudi Gazette": 7,
     "The New York Times": 5,
     "Spiegel": 1,
     "The Seattle Times": 1,
     "Middle East Eye": 1,
     "Yeni Şafak English": 1,
-    "Iran International": 1
+    "Iran International": 1,
+    "The Indian Express": 1,
+    "IraqiNews": 1,
+    "Multibagg AI": 1,
+    "Business Insider Africa": 1,
+    "JNS": 1,
+    "Investing.com India": 1,
+    "news.sbs.co.kr": 1
    },
    "sourceTone": {
     "Arab News": [
      0,
-     32,
+     38,
      0
     ],
     "France 24": [
@@ -7255,7 +7262,7 @@
     ],
     "Reuters": [
      0,
-     13,
+     15,
      0
     ],
     "Breakingthenews.net": [
@@ -7265,7 +7272,7 @@
     ],
     "WSJ": [
      0,
-     2,
+     3,
      0
     ],
     "AP News": [
@@ -7300,7 +7307,7 @@
     ],
     "Financial Times": [
      0,
-     6,
+     7,
      0
     ],
     "The Guardian": [
@@ -7355,7 +7362,7 @@
     ],
     "The National": [
      0,
-     2,
+     3,
      0
     ],
     "صوت الإمارات": [
@@ -7370,7 +7377,7 @@
     ],
     "سانا": [
      0,
-     1,
+     3,
      0
     ],
     "Türkiye Today": [
@@ -7380,7 +7387,7 @@
     ],
     "The Peninsula Qatar": [
      0,
-     1,
+     2,
      0
     ],
     "Firstpost": [
@@ -7405,7 +7412,7 @@
     ],
     "تسنیم": [
      0,
-     1,
+     2,
      0
     ],
     "Anadolu Ajansı": [
@@ -7445,7 +7452,7 @@
     ],
     "Investing.com": [
      0,
-     1,
+     2,
      0
     ],
     "The Independent": [
@@ -7585,7 +7592,7 @@
     ],
     "Saudi Gazette": [
      0,
-     6,
+     7,
      0
     ],
     "The New York Times": [
@@ -7614,6 +7621,41 @@
      0
     ],
     "Iran International": [
+     0,
+     1,
+     0
+    ],
+    "The Indian Express": [
+     0,
+     1,
+     0
+    ],
+    "IraqiNews": [
+     0,
+     1,
+     0
+    ],
+    "Multibagg AI": [
+     0,
+     1,
+     0
+    ],
+    "Business Insider Africa": [
+     0,
+     1,
+     0
+    ],
+    "JNS": [
+     0,
+     1,
+     0
+    ],
+    "Investing.com India": [
+     0,
+     1,
+     0
+    ],
+    "news.sbs.co.kr": [
      0,
      1,
      0
