@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 548,
-   "news": 544,
+   "total": 549,
+   "news": 545,
    "articles": 4,
    "positive": 0,
-   "neutral": 548,
+   "neutral": 549,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -7095,7 +7095,7 @@
     "FR": 52,
     "HK": 7,
     "GB": 98,
-    "US": 96,
+    "US": 97,
     "DE": 2
    },
    "topics": {},
@@ -7115,7 +7115,7 @@
     "الخبر اليمني": 3,
     "Reuters": 42,
     "Breakingthenews.net": 1,
-    "WSJ": 19,
+    "WSJ": 20,
     "AP News": 12,
     "Yemen Online": 2,
     "Le Monde.fr": 6,
@@ -7332,7 +7332,7 @@
     ],
     "WSJ": [
      0,
-     19,
+     20,
      0
     ],
     "AP News": [
