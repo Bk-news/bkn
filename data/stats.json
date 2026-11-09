@@ -6342,15 +6342,15 @@
    }
   },
   "2026-11-07": {
-   "total": 487,
-   "news": 484,
+   "total": 488,
+   "news": 485,
    "articles": 3,
    "positive": 0,
-   "neutral": 487,
+   "neutral": 488,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 149,
+    "GB": 150,
     "SA": 60,
     "US": 97,
     "FR": 8,
@@ -6358,7 +6358,7 @@
    },
    "topics": {},
    "sources": {
-    "Reuters": 60,
+    "Reuters": 61,
     "OpenCritic": 1,
     "Arab News": 64,
     "AP News": 12,
@@ -6482,7 +6482,7 @@
    "sourceTone": {
     "Reuters": [
      0,
-     60,
+     61,
      0
     ],
     "OpenCritic": [
