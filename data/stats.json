@@ -7083,24 +7083,24 @@
    }
   },
   "2026-11-08": {
-   "total": 536,
-   "news": 532,
+   "total": 541,
+   "news": 537,
    "articles": 4,
    "positive": 0,
-   "neutral": 536,
+   "neutral": 541,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 72,
+    "SA": 73,
     "FR": 52,
     "HK": 7,
     "GB": 98,
-    "US": 87,
+    "US": 90,
     "DE": 2
    },
    "topics": {},
    "sources": {
-    "Arab News": 77,
+    "Arab News": 78,
     "France 24": 48,
     "South China Morning Post": 7,
     "RTE.ie": 1,
@@ -7115,7 +7115,7 @@
     "الخبر اليمني": 3,
     "Reuters": 42,
     "Breakingthenews.net": 1,
-    "WSJ": 11,
+    "WSJ": 13,
     "AP News": 12,
     "Yemen Online": 2,
     "Le Monde.fr": 6,
@@ -7180,7 +7180,7 @@
     "upi": 1,
     "Bloomberg.com": 5,
     "Saudi Gazette": 14,
-    "The New York Times": 18,
+    "The New York Times": 19,
     "Spiegel": 2,
     "The Seattle Times": 1,
     "Middle East Eye": 2,
@@ -7251,12 +7251,13 @@
     "Wrestling Inc.": 1,
     "Qazinform": 1,
     "The Lufkin Daily News": 1,
-    "Yahoo": 1
+    "Yahoo": 1,
+    "New York Post": 1
    },
    "sourceTone": {
     "Arab News": [
      0,
-     77,
+     78,
      0
     ],
     "France 24": [
@@ -7331,7 +7332,7 @@
     ],
     "WSJ": [
      0,
-     11,
+     13,
      0
     ],
     "AP News": [
@@ -7656,7 +7657,7 @@
     ],
     "The New York Times": [
      0,
-     18,
+     19,
      0
     ],
     "Spiegel": [
@@ -8010,6 +8011,11 @@
      0
     ],
     "Yahoo": [
+     0,
+     1,
+     0
+    ],
+    "New York Post": [
      0,
      1,
      0
