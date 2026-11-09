@@ -8041,32 +8041,32 @@
    }
   },
   "2026-11-09": {
-   "total": 388,
-   "news": 385,
-   "articles": 3,
+   "total": 428,
+   "news": 424,
+   "articles": 4,
    "positive": 0,
-   "neutral": 388,
+   "neutral": 428,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 118,
-    "US": 144,
-    "FR": 20,
-    "SA": 25,
+    "GB": 128,
+    "US": 161,
+    "FR": 23,
+    "SA": 30,
     "HK": 3,
     "DE": 1
    },
    "topics": {},
    "sources": {
-    "Financial Times": 60,
-    "WSJ": 87,
+    "Financial Times": 63,
+    "WSJ": 91,
     "Heavy.com": 1,
     "CNN": 5,
-    "France 24": 19,
-    "Arab News": 28,
+    "France 24": 22,
+    "Arab News": 31,
     "The Washington Post": 6,
-    "Al-Monitor": 17,
-    "AP News": 6,
+    "Al-Monitor": 20,
+    "AP News": 9,
     "South China Morning Post": 3,
     "The Times of India": 1,
     "news.sbs.co.kr": 1,
@@ -8077,11 +8077,11 @@
     "Daily Observer": 1,
     "The Business Standard": 1,
     "Nine.com.au": 1,
-    "Reuters": 46,
+    "Reuters": 50,
     "NDTV Sports": 1,
-    "Bloomberg.com": 19,
+    "Bloomberg.com": 22,
     "UA.NEWS": 1,
-    "BBC": 7,
+    "BBC": 10,
     "The Guardian": 5,
     "Foreign Affairs": 1,
     "Le Monde.fr": 2,
@@ -8091,7 +8091,7 @@
     "Zawya": 2,
     "DD News": 1,
     "The Hindu": 1,
-    "Saudi Gazette": 5,
+    "Saudi Gazette": 7,
     "L'Orient Today": 1,
     "The National": 1,
     "Intelligent CISO": 1,
@@ -8100,7 +8100,7 @@
     "Daily Maverick": 1,
     "ET Government": 1,
     "www.nationpathindia.com": 1,
-    "Arabian Business": 2,
+    "Arabian Business": 3,
     "The Express Tribune": 2,
     "Seoul Economic Daily": 1,
     "The Tribune": 1,
@@ -8134,19 +8134,23 @@
     "Bloomberg": 1,
     "The Jerusalem Post": 1,
     "Spiegel": 1,
-    "Atlantic Council": 2,
-    "The New York Times": 2,
-    "Hindustan Times": 1
+    "Atlantic Council": 3,
+    "The New York Times": 5,
+    "Hindustan Times": 1,
+    "The Straits Times": 1,
+    "The Arab Weekly": 1,
+    "Middle East Online": 1,
+    "The Times of Israel": 1
    },
    "sourceTone": {
     "Financial Times": [
      0,
-     60,
+     63,
      0
     ],
     "WSJ": [
      0,
-     87,
+     91,
      0
     ],
     "Heavy.com": [
@@ -8161,12 +8165,12 @@
     ],
     "France 24": [
      0,
-     19,
+     22,
      0
     ],
     "Arab News": [
      0,
-     28,
+     31,
      0
     ],
     "The Washington Post": [
@@ -8176,12 +8180,12 @@
     ],
     "Al-Monitor": [
      0,
-     17,
+     20,
      0
     ],
     "AP News": [
      0,
-     6,
+     9,
      0
     ],
     "South China Morning Post": [
@@ -8236,7 +8240,7 @@
     ],
     "Reuters": [
      0,
-     46,
+     50,
      0
     ],
     "NDTV Sports": [
@@ -8246,7 +8250,7 @@
     ],
     "Bloomberg.com": [
      0,
-     19,
+     22,
      0
     ],
     "UA.NEWS": [
@@ -8256,7 +8260,7 @@
     ],
     "BBC": [
      0,
-     7,
+     10,
      0
     ],
     "The Guardian": [
@@ -8306,7 +8310,7 @@
     ],
     "Saudi Gazette": [
      0,
-     5,
+     7,
      0
     ],
     "L'Orient Today": [
@@ -8351,7 +8355,7 @@
     ],
     "Arabian Business": [
      0,
-     2,
+     3,
      0
     ],
     "The Express Tribune": [
@@ -8521,15 +8525,35 @@
     ],
     "Atlantic Council": [
      0,
-     2,
+     3,
      0
     ],
     "The New York Times": [
      0,
-     2,
+     5,
      0
     ],
     "Hindustan Times": [
+     0,
+     1,
+     0
+    ],
+    "The Straits Times": [
+     0,
+     1,
+     0
+    ],
+    "The Arab Weekly": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Online": [
+     0,
+     1,
+     0
+    ],
+    "The Times of Israel": [
      0,
      1,
      0
