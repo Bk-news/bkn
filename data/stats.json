@@ -7083,18 +7083,18 @@
    }
   },
   "2026-11-08": {
-   "total": 603,
-   "news": 599,
+   "total": 604,
+   "news": 600,
    "articles": 4,
    "positive": 0,
-   "neutral": 603,
+   "neutral": 604,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 81,
     "FR": 52,
     "HK": 9,
-    "GB": 109,
+    "GB": 110,
     "US": 126,
     "DE": 2
    },
@@ -7122,7 +7122,7 @@
     "Al-Monitor": 19,
     "The Washington Post": 2,
     "BBC": 11,
-    "Financial Times": 43,
+    "Financial Times": 44,
     "The Guardian": 3,
     "Arab News PK": 3,
     "Khaama Press": 1,
@@ -7370,7 +7370,7 @@
     ],
     "Financial Times": [
      0,
-     43,
+     44,
      0
     ],
     "The Guardian": [
@@ -8041,24 +8041,24 @@
    }
   },
   "2026-11-09": {
-   "total": 283,
-   "news": 282,
+   "total": 304,
+   "news": 303,
    "articles": 1,
    "positive": 0,
-   "neutral": 283,
+   "neutral": 304,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 89,
-    "US": 111,
+    "GB": 94,
+    "US": 112,
     "FR": 15,
     "SA": 16,
     "HK": 3
    },
    "topics": {},
    "sources": {
-    "Financial Times": 48,
-    "WSJ": 74,
+    "Financial Times": 53,
+    "WSJ": 75,
     "Heavy.com": 1,
     "CNN": 4,
     "France 24": 14,
@@ -8078,7 +8078,7 @@
     "Nine.com.au": 1,
     "Reuters": 33,
     "NDTV Sports": 1,
-    "Bloomberg.com": 13,
+    "Bloomberg.com": 14,
     "UA.NEWS": 1,
     "BBC": 5,
     "The Guardian": 3,
@@ -8087,7 +8087,7 @@
     "The Week": 1,
     "Fast Company Middle East": 1,
     "FF News": 1,
-    "Zawya": 1,
+    "Zawya": 2,
     "DD News": 1,
     "The Hindu": 1,
     "Saudi Gazette": 2,
@@ -8114,17 +8114,28 @@
     "CounterPunch.org": 1,
     "EU Reporter": 1,
     "Latest news from Azerbaijan": 1,
-    "Travel Daily News International": 1
+    "Travel Daily News International": 1,
+    "New Age BD": 2,
+    "Mobile Europe": 1,
+    "United Nations Development Programme": 2,
+    "Hotelier Middle East": 1,
+    "FashionNetwork - The World's Fashion Business News": 1,
+    "TechNode": 1,
+    "Gulf News": 1,
+    "Table.Briefings": 1,
+    "IDNFinancials": 1,
+    "MEED": 1,
+    "ET EnergyWorld": 1
    },
    "sourceTone": {
     "Financial Times": [
      0,
-     48,
+     53,
      0
     ],
     "WSJ": [
      0,
-     74,
+     75,
      0
     ],
     "Heavy.com": [
@@ -8224,7 +8235,7 @@
     ],
     "Bloomberg.com": [
      0,
-     13,
+     14,
      0
     ],
     "UA.NEWS": [
@@ -8269,7 +8280,7 @@
     ],
     "Zawya": [
      0,
-     1,
+     2,
      0
     ],
     "DD News": [
@@ -8403,6 +8414,61 @@
      0
     ],
     "Travel Daily News International": [
+     0,
+     1,
+     0
+    ],
+    "New Age BD": [
+     0,
+     2,
+     0
+    ],
+    "Mobile Europe": [
+     0,
+     1,
+     0
+    ],
+    "United Nations Development Programme": [
+     0,
+     2,
+     0
+    ],
+    "Hotelier Middle East": [
+     0,
+     1,
+     0
+    ],
+    "FashionNetwork - The World's Fashion Business News": [
+     0,
+     1,
+     0
+    ],
+    "TechNode": [
+     0,
+     1,
+     0
+    ],
+    "Gulf News": [
+     0,
+     1,
+     0
+    ],
+    "Table.Briefings": [
+     0,
+     1,
+     0
+    ],
+    "IDNFinancials": [
+     0,
+     1,
+     0
+    ],
+    "MEED": [
+     0,
+     1,
+     0
+    ],
+    "ET EnergyWorld": [
      0,
      1,
      0
