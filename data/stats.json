@@ -6342,17 +6342,17 @@
    }
   },
   "2026-11-07": {
-   "total": 484,
-   "news": 481,
+   "total": 485,
+   "news": 482,
    "articles": 3,
    "positive": 0,
-   "neutral": 484,
+   "neutral": 485,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 148,
     "SA": 60,
-    "US": 95,
+    "US": 96,
     "FR": 8,
     "HK": 1
    },
@@ -6372,7 +6372,7 @@
     "The Arab Weekly": 1,
     "The Guardian": 4,
     "The New York Times": 13,
-    "CNN": 27,
+    "CNN": 28,
     "The Economist": 3,
     "Daily Observer": 2,
     "سانا": 3,
@@ -6552,7 +6552,7 @@
     ],
     "CNN": [
      0,
-     27,
+     28,
      0
     ],
     "The Economist": [
@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 585,
-   "news": 581,
+   "total": 586,
+   "news": 582,
    "articles": 4,
    "positive": 0,
-   "neutral": 585,
+   "neutral": 586,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -7095,7 +7095,7 @@
     "FR": 52,
     "HK": 9,
     "GB": 102,
-    "US": 122,
+    "US": 123,
     "DE": 2
    },
    "topics": {},
@@ -7171,7 +7171,7 @@
     "Bloomberg": 5,
     "NDTV Profit": 1,
     "Gulf Business": 1,
-    "CNN": 20,
+    "CNN": 21,
     "ynetnews": 1,
     "L'Orient Today": 1,
     "Arabian Business": 1,
@@ -7615,7 +7615,7 @@
     ],
     "CNN": [
      0,
-     20,
+     21,
      0
     ],
     "ynetnews": [
