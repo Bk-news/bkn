@@ -8041,11 +8041,11 @@
    }
   },
   "2026-11-09": {
-   "total": 619,
-   "news": 615,
+   "total": 620,
+   "news": 616,
    "articles": 4,
    "positive": 0,
-   "neutral": 619,
+   "neutral": 620,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -8092,7 +8092,7 @@
     "Zawya": 2,
     "DD News": 1,
     "The Hindu": 1,
-    "Saudi Gazette": 7,
+    "Saudi Gazette": 8,
     "L'Orient Today": 1,
     "The National": 2,
     "Intelligent CISO": 1,
@@ -8356,7 +8356,7 @@
     ],
     "Saudi Gazette": [
      0,
-     7,
+     8,
      0
     ],
     "L'Orient Today": [
