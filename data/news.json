@@ -4,7 +4,7 @@
   "origin": "rss",
   "source": "Financial Times",
   "author": "",
-  "title_ar": "FT Crossword: Number 18,527",
+  "title_ar": "الكلمات المتقاطعة: رقم 18,527",
   "title_orig": "FT Crossword: Number 18,527",
   "title_en": "FT Crossword: Number 18,527",
   "summary_ar": [],
@@ -17,14 +17,15 @@
   "country": "GB",
   "pending": true,
   "desc": "FT Crossword: Number 18,527 &nbsp;&nbsp; Financial Times",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "1d42400a87ee934f",
   "origin": "rss",
   "source": "WSJ",
   "author": "",
-  "title_ar": "Americold Gains as Demand for Refrigerated Storage Stabilizes",
+  "title_ar": "المكاسب الأمريكية مع استقرار الطلب على التخزين المبرد",
   "title_orig": "Americold Gains as Demand for Refrigerated Storage Stabilizes",
   "title_en": "Americold Gains as Demand for Refrigerated Storage Stabilizes",
   "summary_ar": [],
@@ -37,14 +38,15 @@
   "country": "US",
   "pending": true,
   "desc": "Americold Gains as Demand for Refrigerated Storage Stabilizes &nbsp;&nbsp; WSJ",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "3d324ef62161ea49",
   "origin": "rss",
   "source": "WSJ",
   "author": "",
-  "title_ar": "Tech, Media & Telecom Roundup: Market Talk",
+  "title_ar": "تقرير إخباري عن التكنولوجيا والإعلام والاتصالات: حديث السوق",
   "title_orig": "Tech, Media & Telecom Roundup: Market Talk",
   "title_en": "Tech, Media & Telecom Roundup: Market Talk",
   "summary_ar": [],
@@ -57,14 +59,15 @@
   "country": "US",
   "pending": true,
   "desc": "Tech, Media & Telecom Roundup: Market Talk &nbsp;&nbsp; WSJ",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "818b55936bf70be8",
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Rubio says progress made on postwar security framework for Ukraine, Europe",
+  "title_ar": "روبيو يقول إن التقدم تم إحرازه في الإطار الأمني لما بعد الحرب في أوكرانيا وأوروبا",
   "title_orig": "Rubio says progress made on postwar security framework for Ukraine, Europe",
   "title_en": "Rubio says progress made on postwar security framework for Ukraine, Europe",
   "summary_ar": [],
@@ -77,14 +80,15 @@
   "country": "SA",
   "pending": true,
   "desc": "Rubio says progress made on postwar security framework for Ukraine, Europe &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "6b3403f7576b91a7",
   "origin": "rss",
   "source": "CNN",
   "author": "",
-  "title_ar": "NASCAR phenom Kyle Larson wins 2nd consecutive Cup Series title",
+  "title_ar": "ظاهرة ناسكار كايل لارسون يفوز بلقب سلسلة الكأس الثانية على التوالي",
   "title_orig": "NASCAR phenom Kyle Larson wins 2nd consecutive Cup Series title",
   "title_en": "NASCAR phenom Kyle Larson wins 2nd consecutive Cup Series title",
   "summary_ar": [],
@@ -97,14 +101,15 @@
   "country": "US",
   "pending": true,
   "desc": "NASCAR phenom Kyle Larson wins 2nd consecutive Cup Series title &nbsp;&nbsp; CNN",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "3f00002e74be6c91",
   "origin": "rss",
   "source": "MMA Junkie",
   "author": "",
-  "title_ar": "UFC Fight Night 295: Yaroslav Amosov vs. Ian Machado Garry odds, what to know",
+  "title_ar": "UFC Fight Night 295: احتمالات ياروسلاف أموسوف ضد إيان ماتشادو غاري، ما يجب معرفته",
   "title_orig": "UFC Fight Night 295: Yaroslav Amosov vs. Ian Machado Garry odds, what to know",
   "title_en": "UFC Fight Night 295: Yaroslav Amosov vs. Ian Machado Garry odds, what to know",
   "summary_ar": [],
@@ -117,14 +122,15 @@
   "country": "",
   "pending": true,
   "desc": "UFC Fight Night 295: Yaroslav Amosov vs. Ian Machado Garry odds, what to know &nbsp;&nbsp; MMA Junkie",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "837a139a2e94fae5",
   "origin": "rss",
   "source": "The New York Times",
   "author": "",
-  "title_ar": "Here Are the Difficult Options Trump Is Weighing to Resolve the War in Iran",
+  "title_ar": "إليكم الخيارات الصعبة التي يدرسها ترامب لحل الحرب في إيران",
   "title_orig": "Here Are the Difficult Options Trump Is Weighing to Resolve the War in Iran",
   "title_en": "Here Are the Difficult Options Trump Is Weighing to Resolve the War in Iran",
   "summary_ar": [],
@@ -137,14 +143,15 @@
   "country": "US",
   "pending": true,
   "desc": "Here Are the Difficult Options Trump Is Weighing to Resolve the War in Iran &nbsp;&nbsp; The New York Times",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "9393a6d5953e16ba",
   "origin": "rss",
   "source": "AP News",
   "author": "",
-  "title_ar": "Associated Press News: Breaking News | Latest News Today",
+  "title_ar": "أسوشيتد برس نيوز: الأخبار العاجلة | آخر الأخبار اليوم",
   "title_orig": "Associated Press News: Breaking News | Latest News Today",
   "title_en": "Associated Press News: Breaking News | Latest News Today",
   "summary_ar": [],
@@ -157,14 +164,15 @@
   "country": "US",
   "pending": true,
   "desc": "Associated Press News: Breaking News | Latest News Today &nbsp;&nbsp; AP News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "0055cd2a82c45a3d",
   "origin": "rss",
   "source": "الخبر اليمني",
   "author": "",
-  "title_ar": "The Hardest Day in the History of Saudi Arabia... Details of Successive Waves of Yemeni Lava",
+  "title_ar": "أصعب يوم في تاريخ السعودية.. تفاصيل موجات الحمم اليمنية المتتالية",
   "title_orig": "The Hardest Day in the History of Saudi Arabia... Details of Successive Waves of Yemeni Lava",
   "title_en": "The Hardest Day in the History of Saudi Arabia... Details of Successive Waves of Yemeni Lava",
   "summary_ar": [],
@@ -177,14 +185,15 @@
   "country": "",
   "pending": true,
   "desc": "The Hardest Day in the History of Saudi Arabia... Details of Successive Waves of Yemeni Lava &nbsp;&nbsp; الخبر اليمني",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "8a53eef18c204303",
   "origin": "rss",
   "source": "Nacionale",
   "author": "",
-  "title_ar": "What do the Houthis want from Saudi Arabia? Money and recognition, a report says; Riyadh denies it",
+  "title_ar": "ماذا يريد الحوثيون من السعودية؟ يقول أحد التقارير إن المال والتقدير؛ الرياض تنفي ذلك",
   "title_orig": "What do the Houthis want from Saudi Arabia? Money and recognition, a report says; Riyadh denies it",
   "title_en": "What do the Houthis want from Saudi Arabia? Money and recognition, a report says; Riyadh denies it",
   "summary_ar": [],
@@ -197,14 +206,15 @@
   "country": "",
   "pending": true,
   "desc": "What do the Houthis want from Saudi Arabia? Money and recognition, a report says; Riyadh denies it &nbsp;&nbsp; Nacionale",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "4c2cfb9aedf57486",
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Nvidia announces probe into CEO Huang amid reports China spied on him",
+  "title_ar": "تعلن Nvidia عن التحقيق مع الرئيس التنفيذي Huang وسط تقارير عن تجسس الصين عليه",
   "title_orig": "Nvidia announces probe into CEO Huang amid reports China spied on him",
   "title_en": "Nvidia announces probe into CEO Huang amid reports China spied on him",
   "summary_ar": [],
@@ -217,14 +227,15 @@
   "country": "SA",
   "pending": true,
   "desc": "Nvidia announces probe into CEO Huang amid reports China spied on him &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "2053caad7bc473e7",
   "origin": "rss",
   "source": "WSJ",
   "author": "",
-  "title_ar": "Nvidia’s Board Investigates Reports That CEO Was Spying Target After Affair",
+  "title_ar": "مجلس إدارة Nvidia يحقق في التقارير التي تفيد بأن الرئيس التنفيذي كان يتجسس على الهدف بعد علاقة غرامية",
   "title_orig": "Nvidia’s Board Investigates Reports That CEO Was Spying Target After Affair",
   "title_en": "Nvidia’s Board Investigates Reports That CEO Was Spying Target After Affair",
   "summary_ar": [],
@@ -237,14 +248,15 @@
   "country": "US",
   "pending": true,
   "desc": "Nvidia’s Board Investigates Reports That CEO Was Spying Target After Affair &nbsp;&nbsp; WSJ",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "414152df9908d46d",
   "origin": "rss",
   "source": "France 24",
   "author": "",
-  "title_ar": "Pope takes Milei to task as he visits divided Argentina",
+  "title_ar": "يتولى \"بوب\" مهمة \"مايلي\" أثناء زيارته للأرجنتين المقسمة",
   "title_orig": "Pope takes Milei to task as he visits divided Argentina",
   "title_en": "Pope takes Milei to task as he visits divided Argentina",
   "summary_ar": [],
@@ -257,14 +269,15 @@
   "country": "FR",
   "pending": true,
   "desc": "Pope takes Milei to task as he visits divided Argentina &nbsp;&nbsp; France 24",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "9042a0093c2d2c3a",
   "origin": "rss",
   "source": "Bloomberg",
   "author": "",
-  "title_ar": "Oil Extends Biggest Weekly Drop Since 2020 With Focus on Iran",
+  "title_ar": "النفط يواصل أكبر انخفاض أسبوعي منذ عام 2020 مع التركيز على إيران",
   "title_orig": "Oil Extends Biggest Weekly Drop Since 2020 With Focus on Iran",
   "title_en": "Oil Extends Biggest Weekly Drop Since 2020 With Focus on Iran",
   "summary_ar": [],
@@ -277,14 +290,15 @@
   "country": "US",
   "pending": true,
   "desc": "Oil Extends Biggest Weekly Drop Since 2020 With Focus on Iran &nbsp;&nbsp; Bloomberg",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "c142e0a685a9d4e2",
   "origin": "rss",
   "source": "France 24",
   "author": "",
-  "title_ar": "Nvidia to probe reports that Chinese intelligence targeted CEO Jensen Huang",
+  "title_ar": "إنفيديا ستحقق في التقارير التي تفيد بأن المخابرات الصينية استهدفت الرئيس التنفيذي جنسن هوانغ",
   "title_orig": "Nvidia to probe reports that Chinese intelligence targeted CEO Jensen Huang",
   "title_en": "Nvidia to probe reports that Chinese intelligence targeted CEO Jensen Huang",
   "summary_ar": [],
@@ -297,14 +311,15 @@
   "country": "FR",
   "pending": true,
   "desc": "Nvidia to probe reports that Chinese intelligence targeted CEO Jensen Huang &nbsp;&nbsp; France 24",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "d45c4eb28dfdd083",
   "origin": "rss",
   "source": "WSJ",
   "author": "",
-  "title_ar": "The Sudden Death of an Nvidia AI Prodigy Leaves Behind Bitter Accusations",
+  "title_ar": "الموت المفاجئ لمعجزة Nvidia AI يخلف وراءه اتهامات مريرة",
   "title_orig": "The Sudden Death of an Nvidia AI Prodigy Leaves Behind Bitter Accusations",
   "title_en": "The Sudden Death of an Nvidia AI Prodigy Leaves Behind Bitter Accusations",
   "summary_ar": [],
@@ -317,14 +332,15 @@
   "country": "US",
   "pending": true,
   "desc": "The Sudden Death of an Nvidia AI Prodigy Leaves Behind Bitter Accusations &nbsp;&nbsp; WSJ",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "96b9566b123f3351",
   "origin": "rss",
   "source": "Bloody Elbow",
   "author": "",
-  "title_ar": "Ian Garry’s brutal comments on Yaroslav Amosov resurface after UFC Saudi Arabia booking",
+  "title_ar": "عادت تعليقات إيان جاري القاسية على ياروسلاف أموسوف إلى الظهور بعد حجز UFC السعودية",
   "title_orig": "Ian Garry’s brutal comments on Yaroslav Amosov resurface after UFC Saudi Arabia booking",
   "title_en": "Ian Garry’s brutal comments on Yaroslav Amosov resurface after UFC Saudi Arabia booking",
   "summary_ar": [],
@@ -337,14 +353,15 @@
   "country": "",
   "pending": true,
   "desc": "Ian Garry’s brutal comments on Yaroslav Amosov resurface after UFC Saudi Arabia booking &nbsp;&nbsp; Bloody Elbow",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "4f42761c078bb767",
   "origin": "rss",
   "source": "France 24",
   "author": "",
-  "title_ar": "Lopez double earns Liga leaders Barca win at Atletico",
+  "title_ar": "ثنائية لوبيز تمنح برشلونة متصدر الدوري الإسباني الفوز على أتلتيكو",
   "title_orig": "Lopez double earns Liga leaders Barca win at Atletico",
   "title_en": "Lopez double earns Liga leaders Barca win at Atletico",
   "summary_ar": [],
@@ -357,14 +374,15 @@
   "country": "FR",
   "pending": true,
   "desc": "Lopez double earns Liga leaders Barca win at Atletico &nbsp;&nbsp; France 24",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "cc28d1b9573b7665",
   "origin": "rss",
   "source": "Al-Monitor",
   "author": "",
-  "title_ar": "Pope Leo tells Argentina's Trump-ally Milei that leaders must know limits of power",
+  "title_ar": "البابا ليو يخبر مايلي حليف الأرجنتين لترامب أن القادة يجب أن يعرفوا حدود السلطة",
   "title_orig": "Pope Leo tells Argentina's Trump-ally Milei that leaders must know limits of power",
   "title_en": "Pope Leo tells Argentina's Trump-ally Milei that leaders must know limits of power",
   "summary_ar": [],
@@ -377,14 +395,15 @@
   "country": "US",
   "pending": true,
   "desc": "Pope Leo tells Argentina's Trump-ally Milei that leaders must know limits of power &nbsp;&nbsp; Al-Monitor",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "3c4cac3df89c3ad2",
   "origin": "rss",
   "source": "Reuters",
   "author": "",
-  "title_ar": "Fermin double gives LaLiga leaders Barca 2-1 win at Atletico",
+  "title_ar": "ثنائية فيرمين تمنح برشلونة متصدر الدوري الإسباني الفوز 2-1 على أتلتيكو",
   "title_orig": "Fermin double gives LaLiga leaders Barca 2-1 win at Atletico",
   "title_en": "Fermin double gives LaLiga leaders Barca 2-1 win at Atletico",
   "summary_ar": [],
@@ -397,14 +416,15 @@
   "country": "GB",
   "pending": true,
   "desc": "Fermin double gives LaLiga leaders Barca 2-1 win at Atletico &nbsp;&nbsp; Reuters",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "a5588c959792edb0",
   "origin": "rss",
   "source": "The Guardian",
   "author": "",
-  "title_ar": "Barcelona move clear at the top after Fermín López’s double stuns Atlético Madrid",
+  "title_ar": "برشلونة يتحرك بوضوح في القمة بعد ثنائية فيرمين لوبيز التي فاجأت أتلتيكو مدريد",
   "title_orig": "Barcelona move clear at the top after Fermín López’s double stuns Atlético Madrid",
   "title_en": "Barcelona move clear at the top after Fermín López’s double stuns Atlético Madrid",
   "summary_ar": [],
@@ -417,14 +437,15 @@
   "country": "GB",
   "pending": true,
   "desc": "Barcelona move clear at the top after Fermín López’s double stuns Atlético Madrid &nbsp;&nbsp; The Guardian",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "ee7f1f2b7807c708",
   "origin": "rss",
   "source": "investingLive",
   "author": "",
-  "title_ar": "Weekend: Houthis hit Riyadh’s Aramco Tower and target oil storage as Saudi supply risk grows",
+  "title_ar": "عطلة نهاية الأسبوع: ضرب الحوثيون برج أرامكو بالرياض واستهدفوا تخزين النفط مع تزايد مخاطر الإمدادات السعودية",
   "title_orig": "Weekend: Houthis hit Riyadh’s Aramco Tower and target oil storage as Saudi supply risk grows",
   "title_en": "Weekend: Houthis hit Riyadh’s Aramco Tower and target oil storage as Saudi supply risk grows",
   "summary_ar": [],
@@ -437,14 +458,15 @@
   "country": "",
   "pending": true,
   "desc": "Weekend: Houthis hit Riyadh’s Aramco Tower and target oil storage as Saudi supply risk grows &nbsp;&nbsp; investingLive",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "93bd1ed399e7ef45",
   "origin": "rss",
   "source": "Yemen Online",
   "author": "",
-  "title_ar": "Saudi Arabia’s $83 Billion in Military Spending Has Not Resolved the Houthi Challenge, Forbes Analysis",
+  "title_ar": "الإنفاق العسكري السعودي البالغ 83 مليار دولار لم يحل التحدي الحوثي، بحسب تحليل فوربس",
   "title_orig": "Saudi Arabia’s $83 Billion in Military Spending Has Not Resolved the Houthi Challenge, Forbes Analysis",
   "title_en": "Saudi Arabia’s $83 Billion in Military Spending Has Not Resolved the Houthi Challenge, Forbes Analysis",
   "summary_ar": [],
@@ -457,14 +479,15 @@
   "country": "",
   "pending": true,
   "desc": "Saudi Arabia’s $83 Billion in Military Spending Has Not Resolved the Houthi Challenge, Forbes Analysis &nbsp;&nbsp; Yemen Online",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "9e3d60480a5fe4e7",
   "origin": "rss",
   "source": "CNN",
   "author": "",
-  "title_ar": "Pope Leo urges President Milei, a Trump ally, to ‘safeguard democracy’ on arrival in Argentina",
+  "title_ar": "ويحث البابا ليو الرئيس مايلي، حليف ترامب، على \"حماية الديمقراطية\" لدى وصوله إلى الأرجنتين",
   "title_orig": "Pope Leo urges President Milei, a Trump ally, to ‘safeguard democracy’ on arrival in Argentina",
   "title_en": "Pope Leo urges President Milei, a Trump ally, to ‘safeguard democracy’ on arrival in Argentina",
   "summary_ar": [],
@@ -477,14 +500,15 @@
   "country": "US",
   "pending": true,
   "desc": "Pope Leo urges President Milei, a Trump ally, to ‘safeguard democracy’ on arrival in Argentina &nbsp;&nbsp; CNN",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "8f25404d6588c353",
   "origin": "rss",
   "source": "Bloomberg",
   "author": "",
-  "title_ar": "Bruising New Zealand Election",
+  "title_ar": "انتخابات نيوزيلندا الصادمة",
   "title_orig": "Bruising New Zealand Election",
   "title_en": "Bruising New Zealand Election",
   "summary_ar": [],
@@ -497,14 +521,15 @@
   "country": "US",
   "pending": true,
   "desc": "Bruising New Zealand Election &nbsp;&nbsp; Bloomberg",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "f97beb29c55e14cc",
   "origin": "rss",
   "source": "Reuters",
   "author": "",
-  "title_ar": "Cryptocurrencies slide to two-month lows after US midterms",
+  "title_ar": "انخفضت العملات المشفرة إلى أدنى مستوياتها خلال شهرين بعد الانتخابات النصفية في الولايات المتحدة",
   "title_orig": "Cryptocurrencies slide to two-month lows after US midterms",
   "title_en": "Cryptocurrencies slide to two-month lows after US midterms",
   "summary_ar": [],
@@ -517,14 +542,15 @@
   "country": "GB",
   "pending": true,
   "desc": "Cryptocurrencies slide to two-month lows after US midterms &nbsp;&nbsp; Reuters",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "f2e03c5ee2686c23",
   "origin": "rss",
   "source": "France 24",
   "author": "",
-  "title_ar": "Pope Leo arrives in Argentina amid divisions over Milei’s austerity",
+  "title_ar": "البابا ليو يصل إلى الأرجنتين وسط انقسامات حول تقشف مايلي",
   "title_orig": "Pope Leo arrives in Argentina amid divisions over Milei’s austerity",
   "title_en": "Pope Leo arrives in Argentina amid divisions over Milei’s austerity",
   "summary_ar": [],
@@ -537,14 +563,15 @@
   "country": "FR",
   "pending": true,
   "desc": "Pope Leo arrives in Argentina amid divisions over Milei’s austerity &nbsp;&nbsp; France 24",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "4cf46cf648badd57",
   "origin": "rss",
   "source": "Bloomberg",
   "author": "",
-  "title_ar": "Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap",
+  "title_ar": "الأسواق الآسيوية معرضة لخطر الضغط على مسبار Nvidia: التفاف الأسواق",
   "title_orig": "Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap",
   "title_en": "Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap",
   "summary_ar": [],
@@ -557,14 +584,15 @@
   "country": "US",
   "pending": true,
   "desc": "Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap &nbsp;&nbsp; Bloomberg",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "8ef986f229058654",
   "origin": "rss",
   "source": "France 24",
   "author": "",
-  "title_ar": "Nvidia announces probe into Huang amid reports China spied on him",
+  "title_ar": "نفيديا تعلن عن التحقيق مع هوانغ وسط تقارير عن تجسس الصين عليه",
   "title_orig": "Nvidia announces probe into Huang amid reports China spied on him",
   "title_en": "Nvidia announces probe into Huang amid reports China spied on him",
   "summary_ar": [],
@@ -577,14 +605,15 @@
   "country": "FR",
   "pending": true,
   "desc": "Nvidia announces probe into Huang amid reports China spied on him &nbsp;&nbsp; France 24",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "f1fd96822b16c898",
   "origin": "rss",
   "source": "France 24",
   "author": "",
-  "title_ar": "Defiant DeChambeau 'grateful' for LIV, vague on future plans",
+  "title_ar": "ديشامبو المتحدي \"ممتن\" لـ LIV، غامض بشأن الخطط المستقبلية",
   "title_orig": "Defiant DeChambeau 'grateful' for LIV, vague on future plans",
   "title_en": "Defiant DeChambeau 'grateful' for LIV, vague on future plans",
   "summary_ar": [],
@@ -597,14 +626,15 @@
   "country": "FR",
   "pending": true,
   "desc": "Defiant DeChambeau 'grateful' for LIV, vague on future plans &nbsp;&nbsp; France 24",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "ec3b0dbaea1387ff",
   "origin": "rss",
   "source": "South China Morning Post",
   "author": "",
-  "title_ar": "Attack on Iraq gas complex disrupts supply to region’s power plants: authorities",
+  "title_ar": "الهجوم على مجمع الغاز العراقي يعطل إمدادات محطات الطاقة في المنطقة (السلطات)",
   "title_orig": "Attack on Iraq gas complex disrupts supply to region’s power plants: authorities",
   "title_en": "Attack on Iraq gas complex disrupts supply to region’s power plants: authorities",
   "summary_ar": [],
@@ -617,14 +647,15 @@
   "country": "HK",
   "pending": true,
   "desc": "Attack on Iraq gas complex disrupts supply to region’s power plants: authorities &nbsp;&nbsp; South China Morning Post",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "ecc6c4b86dc6c73f",
   "origin": "rss",
   "source": "South China Morning Post",
   "author": "",
-  "title_ar": "Attack on Iraq gas complex disrupts supply to region’s power plants, authorities say",
+  "title_ar": "تقول السلطات إن الهجوم على مجمع الغاز العراقي يعطل إمدادات محطات الطاقة في المنطقة",
   "title_orig": "Attack on Iraq gas complex disrupts supply to region’s power plants, authorities say",
   "title_en": "Attack on Iraq gas complex disrupts supply to region’s power plants, authorities say",
   "summary_ar": [],
@@ -637,14 +668,15 @@
   "country": "HK",
   "pending": true,
   "desc": "Attack on Iraq gas complex disrupts supply to region’s power plants, authorities say &nbsp;&nbsp; South China Morning Post",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "f6eb8c4c9e958e86",
   "origin": "rss",
   "source": "New York Post",
   "author": "",
-  "title_ar": "Saudi Aramco tower damaged in Houthi missiles attack on heart of capital’s financial district",
+  "title_ar": "تضرر برج أرامكو السعودية جراء هجوم صاروخي للحوثيين على قلب الحي المالي بالعاصمة",
   "title_orig": "Saudi Aramco tower damaged in Houthi missiles attack on heart of capital’s financial district",
   "title_en": "Saudi Aramco tower damaged in Houthi missiles attack on heart of capital’s financial district",
   "summary_ar": [],
@@ -657,14 +689,15 @@
   "country": "",
   "pending": true,
   "desc": "Saudi Aramco tower damaged in Houthi missiles attack on heart of capital’s financial district &nbsp;&nbsp; New York Post",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "38f763f4e9e8fa40",
   "origin": "rss",
   "source": "The New York Times",
   "author": "",
-  "title_ar": "Atletico Madrid 1 Barcelona 2: Fermin Lopez’s double seals key comeback victory",
+  "title_ar": "أتلتيكو مدريد 1 برشلونة 2: ثنائية فيرمين لوبيز تضمن الفوز الرئيسي في العودة",
   "title_orig": "Atletico Madrid 1 Barcelona 2: Fermin Lopez’s double seals key comeback victory",
   "title_en": "Atletico Madrid 1 Barcelona 2: Fermin Lopez’s double seals key comeback victory",
   "summary_ar": [],
@@ -677,14 +710,15 @@
   "country": "US",
   "pending": true,
   "desc": "Atletico Madrid 1 Barcelona 2: Fermin Lopez’s double seals key comeback victory &nbsp;&nbsp; The New York Times",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "957442fa55d09558",
   "origin": "rss",
   "source": "France 24",
   "author": "",
-  "title_ar": "Noskova beats Kostyuk in opening match at WTA Finals",
+  "title_ar": "نوسكوفا تفوز على كوستيوك في المباراة الافتتاحية في نهائيات اتحاد لاعبات التنس المحترفات",
   "title_orig": "Noskova beats Kostyuk in opening match at WTA Finals",
   "title_en": "Noskova beats Kostyuk in opening match at WTA Finals",
   "summary_ar": [],
@@ -697,14 +731,15 @@
   "country": "FR",
   "pending": true,
   "desc": "Noskova beats Kostyuk in opening match at WTA Finals &nbsp;&nbsp; France 24",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "de0b4512ce83a779",
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Trump says deportation policy was ‘too tough’: CBS interview",
+  "title_ar": "يقول ترامب إن سياسة الترحيل كانت “صعبة للغاية”: مقابلة مع شبكة سي بي إس",
   "title_orig": "Trump says deportation policy was ‘too tough’: CBS interview",
   "title_en": "Trump says deportation policy was ‘too tough’: CBS interview",
   "summary_ar": [],
@@ -717,14 +752,15 @@
   "country": "SA",
   "pending": true,
   "desc": "Trump says deportation policy was ‘too tough’: CBS interview &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "1bcc7d999ce8c339",
   "origin": "rss",
   "source": "Financial Times",
   "author": "",
-  "title_ar": "FirstFT: Nvidia CEO admits to affair after allegations of relationship with Chinese spy",
+  "title_ar": "FirstFT: الرئيس التنفيذي لشركة Nvidia يعترف بعلاقته الغرامية بعد مزاعم عن علاقته بجاسوس صيني",
   "title_orig": "FirstFT: Nvidia CEO admits to affair after allegations of relationship with Chinese spy",
   "title_en": "FirstFT: Nvidia CEO admits to affair after allegations of relationship with Chinese spy",
   "summary_ar": [],
@@ -737,14 +773,15 @@
   "country": "GB",
   "pending": true,
   "desc": "FirstFT: Nvidia CEO admits to affair after allegations of relationship with Chinese spy &nbsp;&nbsp; Financial Times",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "ee67d1356e5ee8c8",
   "origin": "rss",
   "source": "Magnolia Banner News",
   "author": "",
-  "title_ar": "Saudi Arabia intercepts missiles as Aramco building in Riyadh is damaged",
+  "title_ar": "السعودية تعترض صواريخ وتضرر مبنى أرامكو في الرياض",
   "title_orig": "Saudi Arabia intercepts missiles as Aramco building in Riyadh is damaged",
   "title_en": "Saudi Arabia intercepts missiles as Aramco building in Riyadh is damaged",
   "summary_ar": [],
@@ -757,14 +794,15 @@
   "country": "",
   "pending": true,
   "desc": "Saudi Arabia intercepts missiles as Aramco building in Riyadh is damaged &nbsp;&nbsp; Magnolia Banner News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "ef965b1007c996ec",
   "origin": "rss",
   "source": "Reuters",
   "author": "",
-  "title_ar": "Australian lender ANZ reports 31% rise in full-year cash profit",
+  "title_ar": "أعلن بنك ANZ الأسترالي عن زيادة بنسبة 31% في الأرباح النقدية للعام بأكمله",
   "title_orig": "Australian lender ANZ reports 31% rise in full-year cash profit",
   "title_en": "Australian lender ANZ reports 31% rise in full-year cash profit",
   "summary_ar": [],
@@ -777,14 +815,15 @@
   "country": "GB",
   "pending": true,
   "desc": "Australian lender ANZ reports 31% rise in full-year cash profit &nbsp;&nbsp; Reuters",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "ea1f4d602b060e6d",
   "origin": "rss",
   "source": "France 24",
   "author": "",
-  "title_ar": "Subdued Hamilton praises Ferrari after 'tricky' weekend",
+  "title_ar": "هاميلتون المهزوم يشيد بفيراري بعد عطلة نهاية الأسبوع \"الصعبة\".",
   "title_orig": "Subdued Hamilton praises Ferrari after 'tricky' weekend",
   "title_en": "Subdued Hamilton praises Ferrari after 'tricky' weekend",
   "summary_ar": [],
@@ -797,14 +836,15 @@
   "country": "FR",
   "pending": true,
   "desc": "Subdued Hamilton praises Ferrari after 'tricky' weekend &nbsp;&nbsp; France 24",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "0eb093e5e5fb05f7",
   "origin": "rss",
   "source": "France 24",
   "author": "",
-  "title_ar": "Burrow powers Bengals to Madrid win as Chiefs shine despite Mahomes injury scare",
+  "title_ar": "يدفع \"بورو\" البنغالز إلى الفوز في مدريد بينما يتألق \"تشيفز\" على الرغم من مخاوف إصابة \"ماهوميس\".",
   "title_orig": "Burrow powers Bengals to Madrid win as Chiefs shine despite Mahomes injury scare",
   "title_en": "Burrow powers Bengals to Madrid win as Chiefs shine despite Mahomes injury scare",
   "summary_ar": [],
@@ -817,14 +857,15 @@
   "country": "FR",
   "pending": true,
   "desc": "Burrow powers Bengals to Madrid win as Chiefs shine despite Mahomes injury scare &nbsp;&nbsp; France 24",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "a8d976796bae166f",
   "origin": "rss",
   "source": "Reuters",
   "author": "",
-  "title_ar": "Production suspended at Iraq's Khor Mor gas field after drone attack, sources say",
+  "title_ar": "قالت مصادر إن الإنتاج توقف في حقل خور مور للغاز العراقي بعد هجوم بطائرة بدون طيار",
   "title_orig": "Production suspended at Iraq's Khor Mor gas field after drone attack, sources say",
   "title_en": "Production suspended at Iraq's Khor Mor gas field after drone attack, sources say",
   "summary_ar": [],
@@ -837,14 +878,15 @@
   "country": "GB",
   "pending": true,
   "desc": "Production suspended at Iraq's Khor Mor gas field after drone attack, sources say &nbsp;&nbsp; Reuters",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "fa76b7094dd86cd8",
   "origin": "rss",
   "source": "Financial Times",
   "author": "",
-  "title_ar": "School sociology class: Today’s youth would like to give back modernity, thank you very much",
+  "title_ar": "حصة علم الاجتماع المدرسي: شباب اليوم يرغبون في رد الجميل للحداثة، شكرًا جزيلاً لكم",
   "title_orig": "School sociology class: Today’s youth would like to give back modernity, thank you very much",
   "title_en": "School sociology class: Today’s youth would like to give back modernity, thank you very much",
   "summary_ar": [],
@@ -857,14 +899,15 @@
   "country": "GB",
   "pending": true,
   "desc": "School sociology class: Today’s youth would like to give back modernity, thank you very much &nbsp;&nbsp; Financial Times",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "4842b2a94502781b",
   "origin": "rss",
   "source": "BBC",
   "author": "",
-  "title_ar": "LIV Golf: Bryson DeChambeau 'not going to rewrite last four years'",
+  "title_ar": "LIV Golf: برايسون ديشامبو \"لن يعيد كتابة السنوات الأربع الماضية\"",
   "title_orig": "LIV Golf: Bryson DeChambeau 'not going to rewrite last four years'",
   "title_en": "LIV Golf: Bryson DeChambeau 'not going to rewrite last four years'",
   "summary_ar": [],
@@ -877,14 +920,15 @@
   "country": "GB",
   "pending": true,
   "desc": "LIV Golf: Bryson DeChambeau 'not going to rewrite last four years' &nbsp;&nbsp; BBC",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "a62fa01411f20fa7",
   "origin": "rss",
   "source": "Financial Times",
   "author": "",
-  "title_ar": "School IB TOK class: A tribute to great wrong ideas",
+  "title_ar": "فئة IB TOK للمدرسة: تكريم للأفكار الخاطئة العظيمة",
   "title_orig": "School IB TOK class: A tribute to great wrong ideas",
   "title_en": "School IB TOK class: A tribute to great wrong ideas",
   "summary_ar": [],
@@ -897,14 +941,15 @@
   "country": "GB",
   "pending": true,
   "desc": "School IB TOK class: A tribute to great wrong ideas &nbsp;&nbsp; Financial Times",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "f35a0acf8e95d29c",
   "origin": "rss",
   "source": "Reuters",
   "author": "",
-  "title_ar": "How a digital bank’s collapse toppled Paraguay’s president",
+  "title_ar": "كيف أطاح انهيار البنك الرقمي برئيس باراجواي",
   "title_orig": "How a digital bank’s collapse toppled Paraguay’s president",
   "title_en": "How a digital bank’s collapse toppled Paraguay’s president",
   "summary_ar": [],
@@ -917,14 +962,15 @@
   "country": "GB",
   "pending": true,
   "desc": "How a digital bank’s collapse toppled Paraguay’s president &nbsp;&nbsp; Reuters",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "6b13375e5ae0b8e0",
   "origin": "rss",
   "source": "BBC",
   "author": "",
-  "title_ar": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+  "title_ar": "ضرب برج أرامكو في قلب العاصمة السعودية مع قيام الحوثيين بشن ضربات جديدة",
   "title_orig": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
   "title_en": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
   "summary_ar": [],
@@ -937,14 +983,15 @@
   "country": "",
   "pending": true,
   "desc": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes &nbsp;&nbsp; BBC",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "49120f13b4974020",
   "origin": "rss",
   "source": "France 24",
   "author": "",
-  "title_ar": "'Godzilla Minus Zero' stomps to the top of N. America box office",
+  "title_ar": "فيلم \"Godzilla Minus Zero\" يتصدر شباك التذاكر في أمريكا الشمالية",
   "title_orig": "'Godzilla Minus Zero' stomps to the top of N. America box office",
   "title_en": "'Godzilla Minus Zero' stomps to the top of N. America box office",
   "summary_ar": [],
@@ -957,14 +1004,15 @@
   "country": "FR",
   "pending": true,
   "desc": "'Godzilla Minus Zero' stomps to the top of N. America box office &nbsp;&nbsp; France 24",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "d56b63bb7af147c9",
   "origin": "rss",
   "source": "Financial Times",
   "author": "",
-  "title_ar": "US High School Economics class: US economy beats forecasts to grow at 3.4% rate in third quarter",
+  "title_ar": "فئة الاقتصاد في المدرسة الثانوية الأمريكية: تجاوز الاقتصاد الأمريكي التوقعات لينمو بمعدل 3.4% في الربع الثالث",
   "title_orig": "US High School Economics class: US economy beats forecasts to grow at 3.4% rate in third quarter",
   "title_en": "US High School Economics class: US economy beats forecasts to grow at 3.4% rate in third quarter",
   "summary_ar": [],
@@ -977,14 +1025,15 @@
   "country": "GB",
   "pending": true,
   "desc": "US High School Economics class: US economy beats forecasts to grow at 3.4% rate in third quarter &nbsp;&nbsp; Financial Times",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "350235aa85c216d9",
   "origin": "rss",
   "source": "WSJ",
   "author": "",
-  "title_ar": "Brooklyn House Fire Kills Six People",
+  "title_ar": "حريق منزل في بروكلين يقتل ستة أشخاص",
   "title_orig": "Brooklyn House Fire Kills Six People",
   "title_en": "Brooklyn House Fire Kills Six People",
   "summary_ar": [],
@@ -997,14 +1046,15 @@
   "country": "US",
   "pending": true,
   "desc": "Brooklyn House Fire Kills Six People &nbsp;&nbsp; WSJ",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "cf10104157607d15",
   "origin": "rss",
   "source": "Financial Times",
   "author": "",
-  "title_ar": "School politics class: Americans deliver stunning rebuke to Donald Trump as blue wave sweeps country",
+  "title_ar": "صف السياسة المدرسية: الأمريكيون يوجهون توبيخًا مذهلًا لدونالد ترامب بينما تجتاح الموجة الزرقاء البلاد",
   "title_orig": "School politics class: Americans deliver stunning rebuke to Donald Trump as blue wave sweeps country",
   "title_en": "School politics class: Americans deliver stunning rebuke to Donald Trump as blue wave sweeps country",
   "summary_ar": [],
@@ -1017,14 +1067,15 @@
   "country": "GB",
   "pending": true,
   "desc": "School politics class: Americans deliver stunning rebuke to Donald Trump as blue wave sweeps country &nbsp;&nbsp; Financial Times",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "be4d143a0fe129f0",
   "origin": "rss",
   "source": "France 24",
   "author": "",
-  "title_ar": "Freiburg third after beating Union, Leverkusen beat Cologne in derby",
+  "title_ar": "فرايبورج المركز الثالث بعد فوزه على يونيون، ليفركوزن فاز على كولونيا في الديربي",
   "title_orig": "Freiburg third after beating Union, Leverkusen beat Cologne in derby",
   "title_en": "Freiburg third after beating Union, Leverkusen beat Cologne in derby",
   "summary_ar": [],
@@ -1037,14 +1088,15 @@
   "country": "FR",
   "pending": true,
   "desc": "Freiburg third after beating Union, Leverkusen beat Cologne in derby &nbsp;&nbsp; France 24",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "6e743f26ced227b3",
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Sand cliff collapses onto tents in Gaza, killing 5",
+  "title_ar": "انهيار جرف رملي على الخيام في غزة، مما أسفر عن مقتل 5 أشخاص",
   "title_orig": "Sand cliff collapses onto tents in Gaza, killing 5",
   "title_en": "Sand cliff collapses onto tents in Gaza, killing 5",
   "summary_ar": [],
@@ -1057,14 +1109,15 @@
   "country": "SA",
   "pending": true,
   "desc": "Sand cliff collapses onto tents in Gaza, killing 5 &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "28776417319bdea0",
   "origin": "rss",
   "source": "France 24",
   "author": "",
-  "title_ar": "Wolff hails Mercedes double team and driver titles",
+  "title_ar": "يشيد وولف بألقاب فريق مرسيدس والسائق المزدوجة",
   "title_orig": "Wolff hails Mercedes double team and driver titles",
   "title_en": "Wolff hails Mercedes double team and driver titles",
   "summary_ar": [],
@@ -1077,14 +1130,15 @@
   "country": "FR",
   "pending": true,
   "desc": "Wolff hails Mercedes double team and driver titles &nbsp;&nbsp; France 24",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "d3e25b031a889815",
   "origin": "rss",
   "source": "Business Insider Africa",
   "author": "",
-  "title_ar": "Despite warnings from China, Saudi Arabia and Turkey, Israel advances embassy plans as U.S.-backed Somalia hits back and reasserts its claim to breakaway territory",
+  "title_ar": "على الرغم من تحذيرات الصين والمملكة العربية السعودية وتركيا، تقدم إسرائيل خططها لإقامة سفارة لها في الوقت الذي يرد فيه الصومال المدعوم من الولايات المتحدة ويعيد تأكيد مطالبته بمنطقة انفصالية",
   "title_orig": "Despite warnings from China, Saudi Arabia and Turkey, Israel advances embassy plans as U.S.-backed Somalia hits back and reasserts its claim to breakaway territory",
   "title_en": "Despite warnings from China, Saudi Arabia and Turkey, Israel advances embassy plans as U.S.-backed Somalia hits back and reasserts its claim to breakaway territory",
   "summary_ar": [],
@@ -1097,14 +1151,15 @@
   "country": "",
   "pending": true,
   "desc": "Despite warnings from China, Saudi Arabia and Turkey, Israel advances embassy plans as U.S.-backed Somalia hits back and reasserts its claim to breakaway territory &nbsp;&nbsp; Business Insider Africa",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "0bb7fa909a1d895c",
   "origin": "rss",
   "source": "صحيفة سبق الإلكترونية",
   "author": "",
-  "title_ar": "Minister of Communications: Saudi Arabia Calls for 'Partnership for Computing' to Expand Access to Artificial Intelligence",
+  "title_ar": "وزير الاتصالات: السعودية تدعو إلى \"شراكة في الحوسبة\" لتوسيع الوصول إلى الذكاء الاصطناعي",
   "title_orig": "Minister of Communications: Saudi Arabia Calls for 'Partnership for Computing' to Expand Access to Artificial Intelligence",
   "title_en": "Minister of Communications: Saudi Arabia Calls for 'Partnership for Computing' to Expand Access to Artificial Intelligence",
   "summary_ar": [],
@@ -1117,14 +1172,15 @@
   "country": "",
   "pending": true,
   "desc": "Minister of Communications: Saudi Arabia Calls for 'Partnership for Computing' to Expand Access to Artificial Intelligence &nbsp;&nbsp; صحيفة سبق الإلكترونية",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "4bb0584da2cf8a32",
   "origin": "rss",
   "source": "WSJ",
   "author": "",
-  "title_ar": "Energy & Utilities Roundup: Market Talk",
+  "title_ar": "تقرير إخباري عن الطاقة والمرافق: حديث السوق",
   "title_orig": "Energy & Utilities Roundup: Market Talk",
   "title_en": "Energy & Utilities Roundup: Market Talk",
   "summary_ar": [],
@@ -1137,14 +1193,15 @@
   "country": "US",
   "pending": true,
   "desc": "Energy & Utilities Roundup: Market Talk &nbsp;&nbsp; WSJ",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "74888df72adbc5e0",
   "origin": "rss",
   "source": "Saudi Gazette",
   "author": "",
-  "title_ar": "US-Saudi Business Council charts new path to boost trade, investment and economic ties",
+  "title_ar": "مجلس الأعمال الأمريكي السعودي يرسم مسارًا جديدًا لتعزيز العلاقات التجارية والاستثمارية والاقتصادية",
   "title_orig": "US-Saudi Business Council charts new path to boost trade, investment and economic ties",
   "title_en": "US-Saudi Business Council charts new path to boost trade, investment and economic ties",
   "summary_ar": [],
@@ -1157,14 +1214,15 @@
   "country": "",
   "pending": true,
   "desc": "US-Saudi Business Council charts new path to boost trade, investment and economic ties &nbsp;&nbsp; Saudi Gazette",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "8755df155d41135d",
   "origin": "rss",
   "source": "France 24",
   "author": "",
-  "title_ar": "Israeli opposition leader Eisenkot begins the hard work of forging a coalition government",
+  "title_ar": "يبدأ زعيم المعارضة الإسرائيلية آيزنكوت العمل الشاق لتشكيل حكومة ائتلافية",
   "title_orig": "Israeli opposition leader Eisenkot begins the hard work of forging a coalition government",
   "title_en": "Israeli opposition leader Eisenkot begins the hard work of forging a coalition government",
   "summary_ar": [],
@@ -1177,14 +1235,15 @@
   "country": "FR",
   "pending": true,
   "desc": "Israeli opposition leader Eisenkot begins the hard work of forging a coalition government &nbsp;&nbsp; France 24",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "33ef2cf1902b10cb",
   "origin": "rss",
   "source": "صوت الإمارات",
   "author": "",
-  "title_ar": "Saudi defense forces destroy a Houthi missile platform in Sanaa that targeted the Eastern Province.",
+  "title_ar": "دمرت قوات الدفاع السعودية منصة صواريخ للحوثيين في صنعاء استهدفت المنطقة الشرقية.",
   "title_orig": "Saudi defense forces destroy a Houthi missile platform in Sanaa that targeted the Eastern Province.",
   "title_en": "Saudi defense forces destroy a Houthi missile platform in Sanaa that targeted the Eastern Province.",
   "summary_ar": [],
@@ -1197,14 +1256,15 @@
   "country": "",
   "pending": true,
   "desc": "Saudi defense forces destroy a Houthi missile platform in Sanaa that targeted the Eastern Province. &nbsp;&nbsp; صوت الإمارات",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "73422e657931437f",
   "origin": "rss",
   "source": "France 24",
   "author": "",
-  "title_ar": "Three talking points from the Premier League",
+  "title_ar": "ثلاث نقاط للحديث من الدوري الممتاز",
   "title_orig": "Three talking points from the Premier League",
   "title_en": "Three talking points from the Premier League",
   "summary_ar": [],
@@ -1217,14 +1277,15 @@
   "country": "FR",
   "pending": true,
   "desc": "Three talking points from the Premier League &nbsp;&nbsp; France 24",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "39648b8532e68809",
   "origin": "rss",
   "source": "Al-Monitor",
   "author": "",
-  "title_ar": "Climate talks should focus on implementation, not new targets, Singapore says",
+  "title_ar": "وتقول سنغافورة إن محادثات المناخ يجب أن تركز على التنفيذ، وليس على أهداف جديدة",
   "title_orig": "Climate talks should focus on implementation, not new targets, Singapore says",
   "title_en": "Climate talks should focus on implementation, not new targets, Singapore says",
   "summary_ar": [],
@@ -1237,14 +1298,15 @@
   "country": "US",
   "pending": true,
   "desc": "Climate talks should focus on implementation, not new targets, Singapore says &nbsp;&nbsp; Al-Monitor",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "78089adfc9dc9b19",
   "origin": "rss",
   "source": "TheSportster",
   "author": "",
-  "title_ar": "Update On WWE Superstars Following Saudi Missile Attack",
+  "title_ar": "تحديث حول نجوم WWE بعد الهجوم الصاروخي السعودي",
   "title_orig": "Update On WWE Superstars Following Saudi Missile Attack",
   "title_en": "Update On WWE Superstars Following Saudi Missile Attack",
   "summary_ar": [],
@@ -1257,14 +1319,15 @@
   "country": "",
   "pending": true,
   "desc": "Update On WWE Superstars Following Saudi Missile Attack &nbsp;&nbsp; TheSportster",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "3f1867892493c071",
   "origin": "rss",
   "source": "Wrestling Inc.",
   "author": "",
-  "title_ar": "WWE Roster Left Saudi Arabia Before Recent Attacks On Riyadh",
+  "title_ar": "طاقم WWE غادر المملكة العربية السعودية قبل الهجمات الأخيرة على الرياض",
   "title_orig": "WWE Roster Left Saudi Arabia Before Recent Attacks On Riyadh",
   "title_en": "WWE Roster Left Saudi Arabia Before Recent Attacks On Riyadh",
   "summary_ar": [],
@@ -1277,14 +1340,15 @@
   "country": "",
   "pending": true,
   "desc": "WWE Roster Left Saudi Arabia Before Recent Attacks On Riyadh &nbsp;&nbsp; Wrestling Inc.",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "b12019bf50d52522",
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Iran FM says no negotiations since ‘shock’ of US midterms",
+  "title_ar": "وزير الخارجية الإيراني: لا توجد مفاوضات منذ \"صدمة\" الانتخابات النصفية الأمريكية",
   "title_orig": "Iran FM says no negotiations since ‘shock’ of US midterms",
   "title_en": "Iran FM says no negotiations since ‘shock’ of US midterms",
   "summary_ar": [],
@@ -1297,14 +1361,15 @@
   "country": "SA",
   "pending": true,
   "desc": "Iran FM says no negotiations since ‘shock’ of US midterms &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "bb845ba51cdeb8cf",
   "origin": "rss",
   "source": "Reuters",
   "author": "",
-  "title_ar": "DeChambeau reflects on uncertain days ahead after LIV liquidation announcement",
+  "title_ar": "يفكر DeChambeau في الأيام غير المؤكدة المقبلة بعد إعلان تصفية LIV",
   "title_orig": "DeChambeau reflects on uncertain days ahead after LIV liquidation announcement",
   "title_en": "DeChambeau reflects on uncertain days ahead after LIV liquidation announcement",
   "summary_ar": [],
@@ -1317,14 +1382,15 @@
   "country": "GB",
   "pending": true,
   "desc": "DeChambeau reflects on uncertain days ahead after LIV liquidation announcement &nbsp;&nbsp; Reuters",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "c424d1a96d95daa8",
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "France’s far-left leader attacked for remarks on Ukraine",
+  "title_ar": "تعرض زعيم اليسار المتطرف في فرنسا لهجوم بسبب تصريحاته بشأن أوكرانيا",
   "title_orig": "France’s far-left leader attacked for remarks on Ukraine",
   "title_en": "France’s far-left leader attacked for remarks on Ukraine",
   "summary_ar": [],
@@ -1337,14 +1403,15 @@
   "country": "SA",
   "pending": true,
   "desc": "France’s far-left leader attacked for remarks on Ukraine &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "172fdb2e1cfb9ac0",
   "origin": "rss",
   "source": "News of Bahrain",
   "author": "",
-  "title_ar": "A Crossroads of Cultures Celebrates Diwali",
+  "title_ar": "مفترق طرق الثقافات يحتفل بعيد ديوالي",
   "title_orig": "A Crossroads of Cultures Celebrates Diwali",
   "title_en": "A Crossroads of Cultures Celebrates Diwali",
   "summary_ar": [],
@@ -1357,14 +1424,15 @@
   "country": "",
   "pending": true,
   "desc": "A Crossroads of Cultures Celebrates Diwali &nbsp;&nbsp; News of Bahrain",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "bf524a623b191625",
   "origin": "rss",
   "source": "UA.NEWS",
   "author": "",
-  "title_ar": "Reuters reported that Syria sent military personnel to Saudi Arabia — Jerusalem Post",
+  "title_ar": "ذكرت رويترز أن سوريا أرسلت عسكريين إلى المملكة العربية السعودية – جيروزاليم بوست",
   "title_orig": "Reuters reported that Syria sent military personnel to Saudi Arabia — Jerusalem Post",
   "title_en": "Reuters reported that Syria sent military personnel to Saudi Arabia — Jerusalem Post",
   "summary_ar": [],
@@ -1377,7 +1445,8 @@
   "country": "",
   "pending": true,
   "desc": "Reuters reported that Syria sent military personnel to Saudi Arabia — Jerusalem Post &nbsp;&nbsp; UA.NEWS",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "f584721ecbbd781d",
@@ -1426,7 +1495,7 @@
   "origin": "rss",
   "source": "Qazinform",
   "author": "",
-  "title_ar": "Kazakhstan, Saudi Arabia finalize Hajj quota for 2027",
+  "title_ar": "كازاخستان والمملكة العربية السعودية تضعان اللمسات الأخيرة على حصة الحج لعام 2027",
   "title_orig": "Kazakhstan, Saudi Arabia finalize Hajj quota for 2027",
   "title_en": "Kazakhstan, Saudi Arabia finalize Hajj quota for 2027",
   "summary_ar": [],
@@ -1439,7 +1508,8 @@
   "country": "",
   "pending": true,
   "desc": "Kazakhstan, Saudi Arabia finalize Hajj quota for 2027 &nbsp;&nbsp; Qazinform",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "773c02744e789249",
@@ -1488,7 +1558,7 @@
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Attack on Iraq gas complex, cuts supply: authorities",
+  "title_ar": "السلطات: الهجوم على مجمع الغاز العراقي يقطع الإمدادات",
   "title_orig": "Attack on Iraq gas complex, cuts supply: authorities",
   "title_en": "Attack on Iraq gas complex, cuts supply: authorities",
   "summary_ar": [],
@@ -1501,7 +1571,8 @@
   "country": "SA",
   "pending": true,
   "desc": "Attack on Iraq gas complex, cuts supply: authorities &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "2333abd24d6e2bc9",
@@ -1529,7 +1600,7 @@
   "origin": "rss",
   "source": "The New York Times",
   "author": "",
-  "title_ar": "Aston Villa vs Fulham Box Score - October 31, 2026 - The Athletic",
+  "title_ar": "نتيجة مباراة أستون فيلا وفولهام – 31 أكتوبر 2026 – ذا أثليتيك",
   "title_orig": "Aston Villa vs Fulham Box Score - October 31, 2026 - The Athletic",
   "title_en": "Aston Villa vs Fulham Box Score - October 31, 2026 - The Athletic",
   "summary_ar": [],
@@ -1542,14 +1613,15 @@
   "country": "US",
   "pending": true,
   "desc": "Aston Villa vs Fulham Box Score - October 31, 2026 - The Athletic &nbsp;&nbsp; The New York Times",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "d1950e18df2af5b4",
   "origin": "rss",
   "source": "The New York Times",
   "author": "",
-  "title_ar": "Why Winning Big Matters",
+  "title_ar": "لماذا الفوز مهم؟",
   "title_orig": "Why Winning Big Matters",
   "title_en": "Why Winning Big Matters",
   "summary_ar": [],
@@ -1562,7 +1634,8 @@
   "country": "US",
   "pending": true,
   "desc": "Why Winning Big Matters &nbsp;&nbsp; The New York Times",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "8f4c003e3b953f64",
@@ -1737,7 +1810,7 @@
   "origin": "rss",
   "source": "The Lufkin Daily News",
   "author": "",
-  "title_ar": "FILE PHOTO: King Abdullah Financial District in Riyadh, Saudi Arabia",
+  "title_ar": "صورة من الأرشيف: مركز الملك عبد الله المالي في الرياض، المملكة العربية السعودية",
   "title_orig": "FILE PHOTO: King Abdullah Financial District in Riyadh, Saudi Arabia",
   "title_en": "FILE PHOTO: King Abdullah Financial District in Riyadh, Saudi Arabia",
   "summary_ar": [],
@@ -1750,14 +1823,15 @@
   "country": "",
   "pending": true,
   "desc": "FILE PHOTO: King Abdullah Financial District in Riyadh, Saudi Arabia &nbsp;&nbsp; The Lufkin Daily News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "4946da5e4b0a7efb",
   "origin": "rss",
   "source": "Al-Monitor",
   "author": "",
-  "title_ar": "Houthi attack damages Aramco building in Riyadh's financial district",
+  "title_ar": "هجوم حوثي يلحق أضرارا بمبنى أرامكو في الحي المالي بالرياض",
   "title_orig": "Houthi attack damages Aramco building in Riyadh's financial district",
   "title_en": "Houthi attack damages Aramco building in Riyadh's financial district",
   "summary_ar": [],
@@ -1770,7 +1844,8 @@
   "country": "US",
   "pending": true,
   "desc": "Houthi attack damages Aramco building in Riyadh's financial district &nbsp;&nbsp; Al-Monitor",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "97e3c8556da0ba44",
@@ -1819,7 +1894,7 @@
   "origin": "rss",
   "source": "BBC",
   "author": "",
-  "title_ar": "Seven dead and more than 100 injured after trains collide in Egypt",
+  "title_ar": "سبعة قتلى وأكثر من 100 جريح في حادث تصادم قطارين في مصر",
   "title_orig": "Seven dead and more than 100 injured after trains collide in Egypt",
   "title_en": "Seven dead and more than 100 injured after trains collide in Egypt",
   "summary_ar": [],
@@ -1832,7 +1907,8 @@
   "country": "GB",
   "pending": true,
   "desc": "Seven dead and more than 100 injured after trains collide in Egypt &nbsp;&nbsp; BBC",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "658e57a2fbcbaa7d",
@@ -1881,7 +1957,7 @@
   "origin": "rss",
   "source": "Reuters",
   "author": "",
-  "title_ar": "Power restored to Zaporizhzhia nuclear plant, IAEA says",
+  "title_ar": "الوكالة الدولية للطاقة الذرية تقول إن الطاقة عادت إلى محطة زابوريزهيا النووية",
   "title_orig": "Power restored to Zaporizhzhia nuclear plant, IAEA says",
   "title_en": "Power restored to Zaporizhzhia nuclear plant, IAEA says",
   "summary_ar": [],
@@ -1894,7 +1970,8 @@
   "country": "GB",
   "pending": true,
   "desc": "Power restored to Zaporizhzhia nuclear plant, IAEA says &nbsp;&nbsp; Reuters",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "2ef48d631f0a1668",
@@ -3077,7 +3154,7 @@
   "origin": "rss",
   "source": "WSJ",
   "author": "",
-  "title_ar": "Toddler-Snack Recall Tests Organic-Food Maker Once Upon a Farm",
+  "title_ar": "استرجاع الوجبات الخفيفة للأطفال الصغار يختبر صانع الأغذية العضوية ذات مرة في المزرعة",
   "title_orig": "Toddler-Snack Recall Tests Organic-Food Maker Once Upon a Farm",
   "title_en": "Toddler-Snack Recall Tests Organic-Food Maker Once Upon a Farm",
   "summary_ar": [],
@@ -3090,14 +3167,15 @@
   "country": "US",
   "pending": true,
   "desc": "Toddler-Snack Recall Tests Organic-Food Maker Once Upon a Farm &nbsp;&nbsp; WSJ",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "6a001f3f8515a4f7",
   "origin": "rss",
   "source": "WSJ",
   "author": "",
-  "title_ar": "Opinion | It Was the Economy, Not the War",
+  "title_ar": "الرأي | لقد كان الاقتصاد وليس الحرب",
   "title_orig": "Opinion | It Was the Economy, Not the War",
   "title_en": "Opinion | It Was the Economy, Not the War",
   "summary_ar": [],
@@ -3110,7 +3188,8 @@
   "country": "US",
   "pending": true,
   "desc": "Opinion | It Was the Economy, Not the War &nbsp;&nbsp; WSJ",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "8d3613ff7b3bae07",
@@ -3201,7 +3280,7 @@
   "origin": "rss",
   "source": "Saudi Gazette",
   "author": "",
-  "title_ar": "GCC railway to begin full operations by December 2030 as member states sign landmark agreement",
+  "title_ar": "السكك الحديدية لدول مجلس التعاون الخليجي ستبدأ عملياتها الكاملة بحلول ديسمبر 2030 مع توقيع الدول الأعضاء على اتفاقية تاريخية",
   "title_orig": "GCC railway to begin full operations by December 2030 as member states sign landmark agreement",
   "title_en": "GCC railway to begin full operations by December 2030 as member states sign landmark agreement",
   "summary_ar": [],
@@ -3214,7 +3293,8 @@
   "country": "SA",
   "pending": true,
   "desc": "GCC railway to begin full operations by December 2030 as member states sign landmark agreement &nbsp;&nbsp; Saudi Gazette",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "6ca8cf87bfd60a36",
@@ -4061,7 +4141,7 @@
   "origin": "rss",
   "source": "WSJ",
   "author": "",
-  "title_ar": "After a Tech Rout, Stock Funds Hold a 9.9% Gain for 2026",
+  "title_ar": "بعد التراجع التكنولوجي، حققت صناديق الأسهم مكاسب بنسبة 9.9٪ لعام 2026",
   "title_orig": "After a Tech Rout, Stock Funds Hold a 9.9% Gain for 2026",
   "title_en": "After a Tech Rout, Stock Funds Hold a 9.9% Gain for 2026",
   "summary_ar": [],
@@ -4074,7 +4154,8 @@
   "country": "US",
   "pending": true,
   "desc": "After a Tech Rout, Stock Funds Hold a 9.9% Gain for 2026 &nbsp;&nbsp; WSJ",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "63cafb12eb237381",
@@ -4165,7 +4246,7 @@
   "origin": "rss",
   "source": "France 24",
   "author": "",
-  "title_ar": "Veteran Neuer joins Bayern's long injury list",
+  "title_ar": "ينضم المخضرم نوير إلى قائمة الإصابات الطويلة في بايرن",
   "title_orig": "Veteran Neuer joins Bayern's long injury list",
   "title_en": "Veteran Neuer joins Bayern's long injury list",
   "summary_ar": [],
@@ -4178,7 +4259,8 @@
   "country": "FR",
   "pending": true,
   "desc": "Veteran Neuer joins Bayern's long injury list &nbsp;&nbsp; France 24",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "90b8c8e34bfbcaef",
@@ -4227,7 +4309,7 @@
   "origin": "rss",
   "source": "France 24",
   "author": "",
-  "title_ar": "Eisenkot warns of Israel crisis as he starts to form government to replace Netanyahu",
+  "title_ar": "آيزنكوت يحذر من أزمة في إسرائيل مع بدء تشكيل حكومة لتحل محل نتنياهو",
   "title_orig": "Eisenkot warns of Israel crisis as he starts to form government to replace Netanyahu",
   "title_en": "Eisenkot warns of Israel crisis as he starts to form government to replace Netanyahu",
   "summary_ar": [],
@@ -4240,7 +4322,8 @@
   "country": "FR",
   "pending": true,
   "desc": "Eisenkot warns of Israel crisis as he starts to form government to replace Netanyahu &nbsp;&nbsp; France 24",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "9ea5a34d942644ca",
@@ -4541,7 +4624,7 @@
   "origin": "rss",
   "source": "France 24",
   "author": "",
-  "title_ar": "Pope Leo urges men to respect wives amid Latin American femicide crisis",
+  "title_ar": "يحث البابا ليو الرجال على احترام زوجاتهم وسط أزمة قتل النساء في أمريكا اللاتينية",
   "title_orig": "Pope Leo urges men to respect wives amid Latin American femicide crisis",
   "title_en": "Pope Leo urges men to respect wives amid Latin American femicide crisis",
   "summary_ar": [],
@@ -4554,7 +4637,8 @@
   "country": "FR",
   "pending": true,
   "desc": "Pope Leo urges men to respect wives amid Latin American femicide crisis &nbsp;&nbsp; France 24",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "df1a06d6d9027aca",
@@ -5968,7 +6052,7 @@
   "origin": "rss",
   "source": "WSJ",
   "author": "",
-  "title_ar": "My Week With Apple’s Beach-Friendly iPad Mini and Amazon’s Upscale Alexa Tablet",
+  "title_ar": "أسبوعي مع جهاز iPad Mini الصديق للشاطئ من Apple وجهاز Alexa Tablet الراقي من Amazon",
   "title_orig": "My Week With Apple’s Beach-Friendly iPad Mini and Amazon’s Upscale Alexa Tablet",
   "title_en": "My Week With Apple’s Beach-Friendly iPad Mini and Amazon’s Upscale Alexa Tablet",
   "summary_ar": [],
@@ -5981,7 +6065,8 @@
   "country": "US",
   "pending": true,
   "desc": "My Week With Apple’s Beach-Friendly iPad Mini and Amazon’s Upscale Alexa Tablet &nbsp;&nbsp; WSJ",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "fda99a5175113777",
@@ -6009,7 +6094,7 @@
   "origin": "rss",
   "source": "WSJ",
   "author": "",
-  "title_ar": "Hakeem Jeffries Must Navigate a Democratic Party With Competing Priorities | The 10-Point for Nov. 8",
+  "title_ar": "يجب على حكيم جيفريز أن يدير حزباً ديمقراطياً بأولويات متنافسة | الـ 10 نقاط ليوم 8 نوفمبر",
   "title_orig": "Hakeem Jeffries Must Navigate a Democratic Party With Competing Priorities | The 10-Point for Nov. 8",
   "title_en": "Hakeem Jeffries Must Navigate a Democratic Party With Competing Priorities | The 10-Point for Nov. 8",
   "summary_ar": [],
@@ -6022,14 +6107,15 @@
   "country": "US",
   "pending": true,
   "desc": "Hakeem Jeffries Must Navigate a Democratic Party With Competing Priorities | The 10-Point for Nov. 8 &nbsp;&nbsp; WSJ",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "6d5edc11b712fe07",
   "origin": "rss",
   "source": "CNN",
   "author": "",
-  "title_ar": "Hiding in plain sight? Russell Brand’s conviction poses tough questions for UK entertainment industry",
+  "title_ar": "يختبئ على مرأى من الجميع؟ تطرح إدانة راسل براند أسئلة صعبة على صناعة الترفيه في المملكة المتحدة",
   "title_orig": "Hiding in plain sight? Russell Brand’s conviction poses tough questions for UK entertainment industry",
   "title_en": "Hiding in plain sight? Russell Brand’s conviction poses tough questions for UK entertainment industry",
   "summary_ar": [],
@@ -6042,7 +6128,8 @@
   "country": "US",
   "pending": true,
   "desc": "Hiding in plain sight? Russell Brand’s conviction poses tough questions for UK entertainment industry &nbsp;&nbsp; CNN",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "2ec32c32524c74b3",
@@ -6196,7 +6283,7 @@
   "origin": "rss",
   "source": "South China Morning Post",
   "author": "",
-  "title_ar": "Houthi attack damages Aramco building in Riyadh’s financial district",
+  "title_ar": "هجوم حوثي يلحق أضرارا بمبنى أرامكو في الحي المالي بالرياض",
   "title_orig": "Houthi attack damages Aramco building in Riyadh’s financial district",
   "title_en": "Houthi attack damages Aramco building in Riyadh’s financial district",
   "summary_ar": [],
@@ -6209,7 +6296,8 @@
   "country": "HK",
   "pending": true,
   "desc": "Houthi attack damages Aramco building in Riyadh’s financial district &nbsp;&nbsp; South China Morning Post",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "b87698467ce6e930",
@@ -6447,7 +6535,7 @@
   "origin": "rss",
   "source": "Le Monde.fr",
   "author": "",
-  "title_ar": "Sénégal : au moins 34 morts dans le naufrage d’une pirogue de migrants",
+  "title_ar": "السنغال: أقل من 34 قتيلاً في رحلة قارب المهاجرين",
   "title_orig": "Sénégal : au moins 34 morts dans le naufrage d’une pirogue de migrants",
   "title_en": "",
   "summary_ar": [],
@@ -6460,7 +6548,8 @@
   "country": "FR",
   "pending": true,
   "desc": "Sénégal : au moins 34 morts dans le naufrage d’une pirogue de migrants &nbsp;&nbsp; Le Monde.fr",
-  "lang": "fr"
+  "lang": "fr",
+  "mt": true
  },
  {
   "id": "934b69e3283a6225",
@@ -6908,7 +6997,7 @@
   "origin": "rss",
   "source": "WSJ",
   "author": "",
-  "title_ar": "DoorDash Shareholders Aren’t Convinced the Company Can Take On Amazon",
+  "title_ar": "مساهمو DoorDash غير مقتنعين بأن الشركة قادرة على الاستحواذ على أمازون",
   "title_orig": "DoorDash Shareholders Aren’t Convinced the Company Can Take On Amazon",
   "title_en": "DoorDash Shareholders Aren’t Convinced the Company Can Take On Amazon",
   "summary_ar": [],
@@ -6921,7 +7010,8 @@
   "country": "US",
   "pending": true,
   "desc": "DoorDash Shareholders Aren’t Convinced the Company Can Take On Amazon &nbsp;&nbsp; WSJ",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "fa84e27ff61a9eca",
@@ -7075,7 +7165,7 @@
   "origin": "rss",
   "source": "Yahoo",
   "author": "",
-  "title_ar": "Houthi missile debris smashes into Saudi skyscraper",
+  "title_ar": "حطام صاروخ حوثي يحطم ناطحة سحاب سعودية",
   "title_orig": "Houthi missile debris smashes into Saudi skyscraper",
   "title_en": "Houthi missile debris smashes into Saudi skyscraper",
   "summary_ar": [],
@@ -7088,7 +7178,8 @@
   "country": "",
   "pending": true,
   "desc": "Houthi missile debris smashes into Saudi skyscraper &nbsp;&nbsp; Yahoo",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "c7dc1ac58fd487a5",
@@ -7116,7 +7207,7 @@
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Philippines trailblazer Eala stunned by Liu in Hong Kong final",
+  "title_ar": "فاجأ الرائد الفلبيني إيالا أمام ليو في نهائي هونج كونج",
   "title_orig": "Philippines trailblazer Eala stunned by Liu in Hong Kong final",
   "title_en": "Philippines trailblazer Eala stunned by Liu in Hong Kong final",
   "summary_ar": [],
@@ -7129,7 +7220,8 @@
   "country": "SA",
   "pending": true,
   "desc": "Philippines trailblazer Eala stunned by Liu in Hong Kong final &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "c2f3a8b73d6f283b",
@@ -7199,7 +7291,7 @@
   "origin": "rss",
   "source": "ITVX",
   "author": "",
-  "title_ar": "Aramco building damaged in Riyadh after Saudi Arabia intercepts missiles | ITV News",
+  "title_ar": "تضرر مبنى أرامكو في الرياض بعد اعتراض السعودية صواريخ | أخبار اي تي في",
   "title_orig": "Aramco building damaged in Riyadh after Saudi Arabia intercepts missiles | ITV News",
   "title_en": "Aramco building damaged in Riyadh after Saudi Arabia intercepts missiles | ITV News",
   "summary_ar": [],
@@ -7212,7 +7304,8 @@
   "country": "",
   "pending": true,
   "desc": "Aramco building damaged in Riyadh after Saudi Arabia intercepts missiles | ITV News &nbsp;&nbsp; ITVX",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "cbf95ada5bfcac6b",
@@ -7324,7 +7417,7 @@
   "origin": "rss",
   "source": "WSJ",
   "author": "",
-  "title_ar": "Arts Calendar: Happenings for the Week of November 8",
+  "title_ar": "تقويم الفنون: أحداث أسبوع 8 نوفمبر",
   "title_orig": "Arts Calendar: Happenings for the Week of November 8",
   "title_en": "Arts Calendar: Happenings for the Week of November 8",
   "summary_ar": [],
@@ -7337,7 +7430,8 @@
   "country": "US",
   "pending": true,
   "desc": "Arts Calendar: Happenings for the Week of November 8 &nbsp;&nbsp; WSJ",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "5fcda50ac494d8de",
@@ -7512,7 +7606,7 @@
   "origin": "rss",
   "source": "France 24",
   "author": "",
-  "title_ar": "Israeli president officially tasks Eisenkot with forming government",
+  "title_ar": "الرئيس الإسرائيلي يكلف آيزنكوت رسميا بتشكيل الحكومة",
   "title_orig": "Israeli president officially tasks Eisenkot with forming government",
   "title_en": "Israeli president officially tasks Eisenkot with forming government",
   "summary_ar": [],
@@ -7525,7 +7619,8 @@
   "country": "FR",
   "pending": true,
   "desc": "Israeli president officially tasks Eisenkot with forming government &nbsp;&nbsp; France 24",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "1e4dfbd28c900fd8",
@@ -7553,7 +7648,7 @@
   "origin": "rss",
   "source": "CNN",
   "author": "",
-  "title_ar": "CNN Transcripts for November 08, 2026",
+  "title_ar": "نصوص سي إن إن ليوم 08 نوفمبر 2026",
   "title_orig": "CNN Transcripts for November 08, 2026",
   "title_en": "CNN Transcripts for November 08, 2026",
   "summary_ar": [],
@@ -7566,7 +7661,8 @@
   "country": "US",
   "pending": true,
   "desc": "CNN Transcripts for November 08, 2026 &nbsp;&nbsp; CNN",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "149a828e704b6f81",
@@ -7888,7 +7984,7 @@
   "origin": "rss",
   "source": "France 24",
   "author": "",
-  "title_ar": "Poland launches terrorism probe into mass shooting in Krakow",
+  "title_ar": "بولندا تبدأ تحقيقًا إرهابيًا في حادث إطلاق النار الجماعي في كراكوف",
   "title_orig": "Poland launches terrorism probe into mass shooting in Krakow",
   "title_en": "Poland launches terrorism probe into mass shooting in Krakow",
   "summary_ar": [],
@@ -7901,7 +7997,8 @@
   "country": "FR",
   "pending": true,
   "desc": "Poland launches terrorism probe into mass shooting in Krakow &nbsp;&nbsp; France 24",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "c9b78ad0ec483dc3",
