@@ -8041,16 +8041,16 @@
    }
   },
   "2026-11-09": {
-   "total": 333,
-   "news": 332,
+   "total": 336,
+   "news": 335,
    "articles": 1,
    "positive": 0,
-   "neutral": 333,
+   "neutral": 336,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 105,
-    "US": 120,
+    "GB": 106,
+    "US": 121,
     "FR": 16,
     "SA": 20,
     "HK": 3
@@ -8063,7 +8063,7 @@
     "CNN": 4,
     "France 24": 16,
     "Arab News": 23,
-    "The Washington Post": 3,
+    "The Washington Post": 4,
     "Al-Monitor": 13,
     "AP News": 3,
     "South China Morning Post": 3,
@@ -8076,7 +8076,7 @@
     "Daily Observer": 1,
     "The Business Standard": 1,
     "Nine.com.au": 1,
-    "Reuters": 40,
+    "Reuters": 41,
     "NDTV Sports": 1,
     "Bloomberg.com": 15,
     "UA.NEWS": 1,
@@ -8090,7 +8090,7 @@
     "Zawya": 2,
     "DD News": 1,
     "The Hindu": 1,
-    "Saudi Gazette": 2,
+    "Saudi Gazette": 3,
     "L'Orient Today": 1,
     "The National": 1,
     "Intelligent CISO": 1,
@@ -8164,7 +8164,7 @@
     ],
     "The Washington Post": [
      0,
-     3,
+     4,
      0
     ],
     "Al-Monitor": [
@@ -8229,7 +8229,7 @@
     ],
     "Reuters": [
      0,
-     40,
+     41,
      0
     ],
     "NDTV Sports": [
@@ -8299,7 +8299,7 @@
     ],
     "Saudi Gazette": [
      0,
-     2,
+     3,
      0
     ],
     "L'Orient Today": [
