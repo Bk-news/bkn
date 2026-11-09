@@ -8041,11 +8041,11 @@
    }
   },
   "2026-11-09": {
-   "total": 637,
-   "news": 633,
+   "total": 638,
+   "news": 634,
    "articles": 4,
    "positive": 0,
-   "neutral": 637,
+   "neutral": 638,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -8081,7 +8081,7 @@
     "Reuters": 98,
     "NDTV Sports": 1,
     "Bloomberg.com": 33,
-    "UA.NEWS": 2,
+    "UA.NEWS": 3,
     "BBC": 10,
     "The Guardian": 6,
     "Foreign Affairs": 1,
@@ -8303,7 +8303,7 @@
     ],
     "UA.NEWS": [
      0,
-     2,
+     3,
      0
     ],
     "BBC": [
