@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 607,
-   "news": 603,
+   "total": 608,
+   "news": 604,
    "articles": 4,
    "positive": 0,
-   "neutral": 607,
+   "neutral": 608,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -7095,7 +7095,7 @@
     "FR": 52,
     "HK": 9,
     "GB": 112,
-    "US": 127,
+    "US": 128,
     "DE": 2
    },
    "topics": {},
@@ -7171,7 +7171,7 @@
     "Bloomberg": 5,
     "NDTV Profit": 1,
     "Gulf Business": 1,
-    "CNN": 22,
+    "CNN": 23,
     "ynetnews": 1,
     "L'Orient Today": 1,
     "Arabian Business": 1,
@@ -7615,7 +7615,7 @@
     ],
     "CNN": [
      0,
-     22,
+     23,
      0
     ],
     "ynetnews": [
@@ -8041,31 +8041,32 @@
    }
   },
   "2026-11-09": {
-   "total": 349,
-   "news": 348,
-   "articles": 1,
+   "total": 388,
+   "news": 385,
+   "articles": 3,
    "positive": 0,
-   "neutral": 349,
+   "neutral": 388,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 109,
-    "US": 128,
-    "FR": 17,
-    "SA": 20,
-    "HK": 3
+    "GB": 118,
+    "US": 144,
+    "FR": 20,
+    "SA": 25,
+    "HK": 3,
+    "DE": 1
    },
    "topics": {},
    "sources": {
-    "Financial Times": 58,
-    "WSJ": 84,
+    "Financial Times": 60,
+    "WSJ": 87,
     "Heavy.com": 1,
-    "CNN": 4,
-    "France 24": 17,
-    "Arab News": 23,
-    "The Washington Post": 5,
-    "Al-Monitor": 13,
-    "AP News": 4,
+    "CNN": 5,
+    "France 24": 19,
+    "Arab News": 28,
+    "The Washington Post": 6,
+    "Al-Monitor": 17,
+    "AP News": 6,
     "South China Morning Post": 3,
     "The Times of India": 1,
     "news.sbs.co.kr": 1,
@@ -8076,21 +8077,21 @@
     "Daily Observer": 1,
     "The Business Standard": 1,
     "Nine.com.au": 1,
-    "Reuters": 43,
+    "Reuters": 46,
     "NDTV Sports": 1,
-    "Bloomberg.com": 17,
+    "Bloomberg.com": 19,
     "UA.NEWS": 1,
-    "BBC": 5,
-    "The Guardian": 3,
+    "BBC": 7,
+    "The Guardian": 5,
     "Foreign Affairs": 1,
-    "Le Monde.fr": 1,
+    "Le Monde.fr": 2,
     "The Week": 1,
     "Fast Company Middle East": 1,
     "FF News": 1,
     "Zawya": 2,
     "DD News": 1,
     "The Hindu": 1,
-    "Saudi Gazette": 3,
+    "Saudi Gazette": 5,
     "L'Orient Today": 1,
     "The National": 1,
     "Intelligent CISO": 1,
@@ -8100,7 +8101,7 @@
     "ET Government": 1,
     "www.nationpathindia.com": 1,
     "Arabian Business": 2,
-    "The Express Tribune": 1,
+    "The Express Tribune": 2,
     "Seoul Economic Daily": 1,
     "The Tribune": 1,
     "Condé Nast Traveller Middle East": 2,
@@ -8131,17 +8132,21 @@
     "Gulf Times": 1,
     "samaa tv": 1,
     "Bloomberg": 1,
-    "The Jerusalem Post": 1
+    "The Jerusalem Post": 1,
+    "Spiegel": 1,
+    "Atlantic Council": 2,
+    "The New York Times": 2,
+    "Hindustan Times": 1
    },
    "sourceTone": {
     "Financial Times": [
      0,
-     58,
+     60,
      0
     ],
     "WSJ": [
      0,
-     84,
+     87,
      0
     ],
     "Heavy.com": [
@@ -8151,32 +8156,32 @@
     ],
     "CNN": [
      0,
-     4,
+     5,
      0
     ],
     "France 24": [
      0,
-     17,
+     19,
      0
     ],
     "Arab News": [
      0,
-     23,
+     28,
      0
     ],
     "The Washington Post": [
      0,
-     5,
+     6,
      0
     ],
     "Al-Monitor": [
      0,
-     13,
+     17,
      0
     ],
     "AP News": [
      0,
-     4,
+     6,
      0
     ],
     "South China Morning Post": [
@@ -8231,7 +8236,7 @@
     ],
     "Reuters": [
      0,
-     43,
+     46,
      0
     ],
     "NDTV Sports": [
@@ -8241,7 +8246,7 @@
     ],
     "Bloomberg.com": [
      0,
-     17,
+     19,
      0
     ],
     "UA.NEWS": [
@@ -8251,12 +8256,12 @@
     ],
     "BBC": [
      0,
-     5,
+     7,
      0
     ],
     "The Guardian": [
      0,
-     3,
+     5,
      0
     ],
     "Foreign Affairs": [
@@ -8266,7 +8271,7 @@
     ],
     "Le Monde.fr": [
      0,
-     1,
+     2,
      0
     ],
     "The Week": [
@@ -8301,7 +8306,7 @@
     ],
     "Saudi Gazette": [
      0,
-     3,
+     5,
      0
     ],
     "L'Orient Today": [
@@ -8351,7 +8356,7 @@
     ],
     "The Express Tribune": [
      0,
-     1,
+     2,
      0
     ],
     "Seoul Economic Daily": [
@@ -8505,6 +8510,26 @@
      0
     ],
     "The Jerusalem Post": [
+     0,
+     1,
+     0
+    ],
+    "Spiegel": [
+     0,
+     1,
+     0
+    ],
+    "Atlantic Council": [
+     0,
+     2,
+     0
+    ],
+    "The New York Times": [
+     0,
+     2,
+     0
+    ],
+    "Hindustan Times": [
      0,
      1,
      0
