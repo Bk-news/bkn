@@ -1,26 +1,110 @@
 [
  {
-  "id": "bcb316e025940171",
+  "id": "2d2bd22796f69d99",
   "origin": "telegram",
   "source": "العربية عاجل",
   "country": "SA",
-  "title_ar": "الصين: تمديد تعليق الرسوم الجمركية البالغة 24% على الواردات الأميركية لشهرين",
+  "title_ar": "مصادر العربية: الاتحاد الوطني الكردستاني يطالب بغداد بتسليم إيرادات النفط للسليمانية",
   "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/152918",
-  "published": "2026-11-09T03:19:02.000Z",
+  "url": "https://t.me/alarabiyaBr/152933",
+  "published": "2026-11-09T10:11:01.000Z",
   "subject": "saudi",
-  "added": "2026-11-09T03:19:02.000Z"
+  "added": "2026-11-09T10:11:01.000Z"
  },
  {
-  "id": "f3b8d6072a2101cc",
-  "origin": "royal",
-  "source": "واس الملكية",
+  "id": "f223fdc614bc1b90",
+  "origin": "telegram",
+  "source": "العربية عاجل",
   "country": "SA",
-  "title_ar": "تحت رعاية خادم الحرمين الشريفين نائب أمير مكة المكرمة يفتتح مؤتمر ومعرض الحج في نسخته السادسة بجدة.",
+  "title_ar": "وثيقة استخباراتية عراقية: توصيات بمنع التجاوزات على أنابيب النفط",
   "summary_ar": [],
-  "url": "https://www.youtube.com/watch?v=fAbLLf99xWQ",
-  "published": "2026-11-09T00:49:55.000Z",
+  "url": "https://t.me/alarabiyaBr/152932",
+  "published": "2026-11-09T09:48:02.000Z",
   "subject": "saudi",
-  "added": "2026-11-09T03:14:06.625Z"
+  "added": "2026-11-09T09:48:02.000Z"
+ },
+ {
+  "id": "5854351458e09d5b",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "وثيقة استخباراتية عراقية: أحد مسارات تهريب النفط يمر عبر الطريق الدولي",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152931",
+  "published": "2026-11-09T09:46:02.000Z",
+  "subject": "saudi",
+  "added": "2026-11-09T09:46:02.000Z"
+ },
+ {
+  "id": "2ab8a2e5a91ebbf3",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "وثيقة استخباراتية عراقية: الفصائل تهرب النفط من \"المصفى\" باتجاه عامرية الفلوجة ثم بغداد",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152930",
+  "published": "2026-11-09T09:45:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-09T09:45:01.000Z"
+ },
+ {
+  "id": "758f8eab4f096738",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "وثيقة استخباراتية عراقية: رصد استخدام الفصائل صهاريج لنقل مشتقات النفط من جرف الصخر",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152929",
+  "published": "2026-11-09T09:41:02.000Z",
+  "subject": "saudi",
+  "added": "2026-11-09T09:41:02.000Z"
+ },
+ {
+  "id": "d731a3cb4539b5ab",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "مصادر العربية: الفصائل المسلحة بالعراق جنت ملايين الدولارات من تهريب النفط في جرف الصخر",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152928",
+  "published": "2026-11-09T09:39:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-09T09:39:01.000Z"
+ },
+ {
+  "id": "9bede3e84ed2eac5",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "وثيقة استخباراتية عراقية: عمليات تهريب النفط من جرف الصخر تتم منذ سنوات",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152927",
+  "published": "2026-11-09T09:38:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-09T09:38:01.000Z"
+ },
+ {
+  "id": "f516e8184f2ffa2f",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "العربية تكشف بالتفاصيل والخرائط تهريب فصائل مسلحة بالعراق للنفط من جرف الصخر",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152926",
+  "published": "2026-11-09T09:37:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-09T09:37:01.000Z"
+ },
+ {
+  "id": "453c775199d94fce",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "رئيس الحزب الديمقراطي الكردستاني: مستعدون للحوار مع الاتحاد الوطني لتجاوز الخلافات",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/152925",
+  "published": "2026-11-09T09:34:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-09T09:34:01.000Z"
  }
 ]

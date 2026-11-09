@@ -6342,17 +6342,17 @@
    }
   },
   "2026-11-07": {
-   "total": 490,
-   "news": 487,
+   "total": 492,
+   "news": 489,
    "articles": 3,
    "positive": 0,
-   "neutral": 490,
+   "neutral": 492,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 152,
     "SA": 60,
-    "US": 97,
+    "US": 99,
     "FR": 8,
     "HK": 1
    },
@@ -6372,7 +6372,7 @@
     "The Arab Weekly": 1,
     "The Guardian": 4,
     "The New York Times": 13,
-    "CNN": 28,
+    "CNN": 30,
     "The Economist": 3,
     "Daily Observer": 2,
     "سانا": 3,
@@ -6552,7 +6552,7 @@
     ],
     "CNN": [
      0,
-     28,
+     30,
      0
     ],
     "The Economist": [
@@ -7083,19 +7083,19 @@
    }
   },
   "2026-11-08": {
-   "total": 591,
-   "news": 587,
+   "total": 595,
+   "news": 591,
    "articles": 4,
    "positive": 0,
-   "neutral": 591,
+   "neutral": 595,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 75,
+    "SA": 78,
     "FR": 52,
     "HK": 9,
     "GB": 104,
-    "US": 125,
+    "US": 126,
     "DE": 2
    },
    "topics": {},
@@ -7179,8 +7179,8 @@
     "Defence.in": 1,
     "upi": 1,
     "Bloomberg.com": 5,
-    "Saudi Gazette": 14,
-    "The New York Times": 20,
+    "Saudi Gazette": 17,
+    "The New York Times": 21,
     "Spiegel": 2,
     "The Seattle Times": 1,
     "Middle East Eye": 2,
@@ -7655,12 +7655,12 @@
     ],
     "Saudi Gazette": [
      0,
-     14,
+     17,
      0
     ],
     "The New York Times": [
      0,
-     20,
+     21,
      0
     ],
     "Spiegel": [
@@ -8041,32 +8041,32 @@
    }
   },
   "2026-11-09": {
-   "total": 101,
-   "news": 101,
-   "articles": 0,
+   "total": 135,
+   "news": 134,
+   "articles": 1,
    "positive": 0,
-   "neutral": 101,
+   "neutral": 135,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 13,
-    "US": 58,
-    "FR": 14,
-    "SA": 3,
-    "HK": 2
+    "GB": 25,
+    "US": 71,
+    "FR": 15,
+    "SA": 7,
+    "HK": 3
    },
    "topics": {},
    "sources": {
-    "Financial Times": 12,
-    "WSJ": 48,
+    "Financial Times": 15,
+    "WSJ": 51,
     "Heavy.com": 1,
-    "CNN": 3,
+    "CNN": 4,
     "France 24": 14,
-    "Arab News": 3,
-    "The Washington Post": 2,
-    "Al-Monitor": 3,
-    "AP News": 2,
-    "South China Morning Post": 2,
+    "Arab News": 7,
+    "The Washington Post": 3,
+    "Al-Monitor": 6,
+    "AP News": 3,
+    "South China Morning Post": 3,
     "The Times of India": 1,
     "news.sbs.co.kr": 1,
     "Moomoo": 1,
@@ -8076,18 +8076,26 @@
     "Daily Observer": 1,
     "The Business Standard": 1,
     "Nine.com.au": 1,
-    "Reuters": 1,
-    "NDTV Sports": 1
+    "Reuters": 4,
+    "NDTV Sports": 1,
+    "Bloomberg.com": 3,
+    "UA.NEWS": 1,
+    "BBC": 3,
+    "The Guardian": 3,
+    "Foreign Affairs": 1,
+    "Le Monde.fr": 1,
+    "The Week": 1,
+    "Fast Company Middle East": 1
    },
    "sourceTone": {
     "Financial Times": [
      0,
-     12,
+     15,
      0
     ],
     "WSJ": [
      0,
-     48,
+     51,
      0
     ],
     "Heavy.com": [
@@ -8097,7 +8105,7 @@
     ],
     "CNN": [
      0,
-     3,
+     4,
      0
     ],
     "France 24": [
@@ -8107,27 +8115,27 @@
     ],
     "Arab News": [
      0,
-     3,
+     7,
      0
     ],
     "The Washington Post": [
      0,
-     2,
+     3,
      0
     ],
     "Al-Monitor": [
      0,
-     3,
+     6,
      0
     ],
     "AP News": [
      0,
-     2,
+     3,
      0
     ],
     "South China Morning Post": [
      0,
-     2,
+     3,
      0
     ],
     "The Times of India": [
@@ -8177,10 +8185,50 @@
     ],
     "Reuters": [
      0,
-     1,
+     4,
      0
     ],
     "NDTV Sports": [
+     0,
+     1,
+     0
+    ],
+    "Bloomberg.com": [
+     0,
+     3,
+     0
+    ],
+    "UA.NEWS": [
+     0,
+     1,
+     0
+    ],
+    "BBC": [
+     0,
+     3,
+     0
+    ],
+    "The Guardian": [
+     0,
+     3,
+     0
+    ],
+    "Foreign Affairs": [
+     0,
+     1,
+     0
+    ],
+    "Le Monde.fr": [
+     0,
+     1,
+     0
+    ],
+    "The Week": [
+     0,
+     1,
+     0
+    ],
+    "Fast Company Middle East": [
      0,
      1,
      0
