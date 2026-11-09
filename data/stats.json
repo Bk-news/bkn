@@ -8041,18 +8041,18 @@
    }
   },
   "2026-11-09": {
-   "total": 639,
-   "news": 635,
+   "total": 641,
+   "news": 637,
    "articles": 4,
    "positive": 0,
-   "neutral": 639,
+   "neutral": 641,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "GB": 183,
     "US": 219,
     "FR": 23,
-    "SA": 49,
+    "SA": 50,
     "HK": 3,
     "DE": 1,
     "JP": 1
@@ -8064,7 +8064,7 @@
     "Heavy.com": 1,
     "CNN": 5,
     "France 24": 22,
-    "Arab News": 54,
+    "Arab News": 55,
     "The Washington Post": 6,
     "Al-Monitor": 40,
     "AP News": 15,
@@ -8188,7 +8188,8 @@
     "کردپرس": 1,
     "The News Pakistan": 2,
     "Rudaw": 1,
-    "LBCI Lebanon": 1
+    "LBCI Lebanon": 1,
+    "CNBC": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -8218,7 +8219,7 @@
     ],
     "Arab News": [
      0,
-     54,
+     55,
      0
     ],
     "The Washington Post": [
@@ -8837,6 +8838,11 @@
      0
     ],
     "LBCI Lebanon": [
+     0,
+     1,
+     0
+    ],
+    "CNBC": [
      0,
      1,
      0
