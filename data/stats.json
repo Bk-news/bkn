@@ -8041,17 +8041,17 @@
    }
   },
   "2026-11-09": {
-   "total": 337,
-   "news": 336,
+   "total": 340,
+   "news": 339,
    "articles": 1,
    "positive": 0,
-   "neutral": 337,
+   "neutral": 340,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 107,
-    "US": 121,
-    "FR": 16,
+    "US": 123,
+    "FR": 17,
     "SA": 20,
     "HK": 3
    },
@@ -8061,7 +8061,7 @@
     "WSJ": 82,
     "Heavy.com": 1,
     "CNN": 4,
-    "France 24": 16,
+    "France 24": 17,
     "Arab News": 23,
     "The Washington Post": 4,
     "Al-Monitor": 13,
@@ -8078,7 +8078,7 @@
     "Nine.com.au": 1,
     "Reuters": 42,
     "NDTV Sports": 1,
-    "Bloomberg.com": 15,
+    "Bloomberg.com": 16,
     "UA.NEWS": 1,
     "BBC": 5,
     "The Guardian": 3,
@@ -8129,7 +8129,8 @@
     "Khaleej Times": 1,
     "Business Standard": 1,
     "Gulf Times": 1,
-    "samaa tv": 1
+    "samaa tv": 1,
+    "Bloomberg": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -8154,7 +8155,7 @@
     ],
     "France 24": [
      0,
-     16,
+     17,
      0
     ],
     "Arab News": [
@@ -8239,7 +8240,7 @@
     ],
     "Bloomberg.com": [
      0,
-     15,
+     16,
      0
     ],
     "UA.NEWS": [
@@ -8493,6 +8494,11 @@
      0
     ],
     "samaa tv": [
+     0,
+     1,
+     0
+    ],
+    "Bloomberg": [
      0,
      1,
      0
