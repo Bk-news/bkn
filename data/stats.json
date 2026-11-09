@@ -7083,15 +7083,15 @@
    }
   },
   "2026-11-08": {
-   "total": 597,
-   "news": 593,
+   "total": 598,
+   "news": 594,
    "articles": 4,
    "positive": 0,
-   "neutral": 597,
+   "neutral": 598,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 80,
+    "SA": 81,
     "FR": 52,
     "HK": 9,
     "GB": 104,
@@ -7100,7 +7100,7 @@
    },
    "topics": {},
    "sources": {
-    "Arab News": 82,
+    "Arab News": 83,
     "France 24": 48,
     "South China Morning Post": 9,
     "RTE.ie": 1,
@@ -7260,7 +7260,7 @@
    "sourceTone": {
     "Arab News": [
      0,
-     82,
+     83,
      0
     ],
     "France 24": [
@@ -8041,28 +8041,28 @@
    }
   },
   "2026-11-09": {
-   "total": 210,
-   "news": 209,
+   "total": 249,
+   "news": 248,
    "articles": 1,
    "positive": 0,
-   "neutral": 210,
+   "neutral": 249,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 50,
-    "US": 100,
+    "GB": 69,
+    "US": 110,
     "FR": 15,
     "SA": 16,
     "HK": 3
    },
    "topics": {},
    "sources": {
-    "Financial Times": 26,
-    "WSJ": 63,
+    "Financial Times": 35,
+    "WSJ": 73,
     "Heavy.com": 1,
     "CNN": 4,
     "France 24": 14,
-    "Arab News": 17,
+    "Arab News": 18,
     "The Washington Post": 3,
     "Al-Monitor": 13,
     "AP News": 3,
@@ -8076,7 +8076,7 @@
     "Daily Observer": 1,
     "The Business Standard": 1,
     "Nine.com.au": 1,
-    "Reuters": 16,
+    "Reuters": 26,
     "NDTV Sports": 1,
     "Bloomberg.com": 13,
     "UA.NEWS": 1,
@@ -8095,17 +8095,25 @@
     "The National": 1,
     "Intelligent CISO": 1,
     "Yeni Şafak English": 1,
-    "City AM": 1
+    "City AM": 1,
+    "Daily Maverick": 1,
+    "ET Government": 1,
+    "www.nationpathindia.com": 1,
+    "Arabian Business": 2,
+    "The Express Tribune": 1,
+    "Seoul Economic Daily": 1,
+    "The Tribune": 1,
+    "Condé Nast Traveller Middle East": 1
    },
    "sourceTone": {
     "Financial Times": [
      0,
-     26,
+     35,
      0
     ],
     "WSJ": [
      0,
-     63,
+     73,
      0
     ],
     "Heavy.com": [
@@ -8125,7 +8133,7 @@
     ],
     "Arab News": [
      0,
-     17,
+     18,
      0
     ],
     "The Washington Post": [
@@ -8195,7 +8203,7 @@
     ],
     "Reuters": [
      0,
-     16,
+     26,
      0
     ],
     "NDTV Sports": [
@@ -8289,6 +8297,46 @@
      0
     ],
     "City AM": [
+     0,
+     1,
+     0
+    ],
+    "Daily Maverick": [
+     0,
+     1,
+     0
+    ],
+    "ET Government": [
+     0,
+     1,
+     0
+    ],
+    "www.nationpathindia.com": [
+     0,
+     1,
+     0
+    ],
+    "Arabian Business": [
+     0,
+     2,
+     0
+    ],
+    "The Express Tribune": [
+     0,
+     1,
+     0
+    ],
+    "Seoul Economic Daily": [
+     0,
+     1,
+     0
+    ],
+    "The Tribune": [
+     0,
+     1,
+     0
+    ],
+    "Condé Nast Traveller Middle East": [
      0,
      1,
      0
