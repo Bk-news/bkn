@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 547,
-   "news": 543,
+   "total": 548,
+   "news": 544,
    "articles": 4,
    "positive": 0,
-   "neutral": 547,
+   "neutral": 548,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -7235,7 +7235,7 @@
     "The Economist": 4,
     "Nacionale": 3,
     "United News of Bangladesh": 2,
-    "Around Prague": 1,
+    "Around Prague": 2,
     "Bioengineer.org": 1,
     "ITVX": 2,
     "News On AIR": 1,
@@ -7932,7 +7932,7 @@
     ],
     "Around Prague": [
      0,
-     1,
+     2,
      0
     ],
     "Bioengineer.org": [
