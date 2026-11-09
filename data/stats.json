@@ -7083,18 +7083,18 @@
    }
   },
   "2026-11-08": {
-   "total": 589,
-   "news": 585,
+   "total": 590,
+   "news": 586,
    "articles": 4,
    "positive": 0,
-   "neutral": 589,
+   "neutral": 590,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 74,
     "FR": 52,
     "HK": 9,
-    "GB": 103,
+    "GB": 104,
     "US": 125,
     "DE": 2
    },
@@ -7122,7 +7122,7 @@
     "Al-Monitor": 19,
     "The Washington Post": 2,
     "BBC": 11,
-    "Financial Times": 42,
+    "Financial Times": 43,
     "The Guardian": 3,
     "Arab News PK": 3,
     "Khaama Press": 1,
@@ -7370,7 +7370,7 @@
     ],
     "Financial Times": [
      0,
-     42,
+     43,
      0
     ],
     "The Guardian": [
