@@ -8041,11 +8041,11 @@
    }
   },
   "2026-11-09": {
-   "total": 321,
-   "news": 320,
+   "total": 322,
+   "news": 321,
    "articles": 1,
    "positive": 0,
-   "neutral": 321,
+   "neutral": 322,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -8061,7 +8061,7 @@
     "WSJ": 79,
     "Heavy.com": 1,
     "CNN": 4,
-    "France 24": 14,
+    "France 24": 15,
     "Arab News": 22,
     "The Washington Post": 3,
     "Al-Monitor": 13,
@@ -8151,7 +8151,7 @@
     ],
     "France 24": [
      0,
-     14,
+     15,
      0
     ],
     "Arab News": [
