@@ -8041,16 +8041,16 @@
    }
   },
   "2026-11-09": {
-   "total": 324,
-   "news": 323,
+   "total": 325,
+   "news": 324,
    "articles": 1,
    "positive": 0,
-   "neutral": 324,
+   "neutral": 325,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 103,
-    "US": 117,
+    "US": 118,
     "FR": 15,
     "SA": 20,
     "HK": 3
@@ -8058,7 +8058,7 @@
    "topics": {},
    "sources": {
     "Financial Times": 55,
-    "WSJ": 79,
+    "WSJ": 80,
     "Heavy.com": 1,
     "CNN": 4,
     "France 24": 15,
@@ -8136,7 +8136,7 @@
     ],
     "WSJ": [
      0,
-     79,
+     80,
      0
     ],
     "Heavy.com": [
