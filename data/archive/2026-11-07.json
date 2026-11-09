@@ -713,6 +713,26 @@
    "mt": true
   },
   {
+   "id": "dcf70ccf9036c946",
+   "origin": "rss",
+   "source": "BBC",
+   "author": "",
+   "title_ar": "BBC Verify | Latest News & Updates | BBC News",
+   "title_orig": "BBC Verify | Latest News & Updates | BBC News",
+   "title_en": "BBC Verify | Latest News & Updates | BBC News",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9jZ3h1RkItMTVzaUFYaDRCcEtpcW4wOTFIenh5ZFFkYXNzTVB3VngzMVRQRUdXREZMUEpYSVhiVlFiTzI2RDFFSGJB?oc=5",
+   "published": "2026-11-07T21:27:34.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "BBC Verify | Latest News & Updates | BBC News &nbsp;&nbsp; BBC",
+   "lang": "en"
+  },
+  {
    "id": "ed79998f4a1ce851",
    "origin": "rss",
    "source": "DW.com",
