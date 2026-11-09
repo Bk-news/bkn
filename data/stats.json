@@ -8041,16 +8041,16 @@
    }
   },
   "2026-11-09": {
-   "total": 347,
-   "news": 346,
+   "total": 348,
+   "news": 347,
    "articles": 1,
    "positive": 0,
-   "neutral": 347,
+   "neutral": 348,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 108,
-    "US": 127,
+    "US": 128,
     "FR": 17,
     "SA": 20,
     "HK": 3
@@ -8063,7 +8063,7 @@
     "CNN": 4,
     "France 24": 17,
     "Arab News": 23,
-    "The Washington Post": 4,
+    "The Washington Post": 5,
     "Al-Monitor": 13,
     "AP News": 4,
     "South China Morning Post": 3,
@@ -8166,7 +8166,7 @@
     ],
     "The Washington Post": [
      0,
-     4,
+     5,
      0
     ],
     "Al-Monitor": [
