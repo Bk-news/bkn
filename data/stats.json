@@ -7083,18 +7083,18 @@
    }
   },
   "2026-11-08": {
-   "total": 613,
-   "news": 609,
+   "total": 614,
+   "news": 610,
    "articles": 4,
    "positive": 0,
-   "neutral": 613,
+   "neutral": 614,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 81,
     "FR": 52,
     "HK": 9,
-    "GB": 117,
+    "GB": 118,
     "US": 128,
     "DE": 2
    },
@@ -7122,7 +7122,7 @@
     "Al-Monitor": 20,
     "The Washington Post": 2,
     "BBC": 13,
-    "Financial Times": 47,
+    "Financial Times": 48,
     "The Guardian": 3,
     "Arab News PK": 3,
     "Khaama Press": 1,
@@ -7370,7 +7370,7 @@
     ],
     "Financial Times": [
      0,
-     47,
+     48,
      0
     ],
     "The Guardian": [
@@ -8041,32 +8041,33 @@
    }
   },
   "2026-11-09": {
-   "total": 463,
-   "news": 459,
+   "total": 502,
+   "news": 498,
    "articles": 4,
    "positive": 0,
-   "neutral": 463,
+   "neutral": 502,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 134,
-    "US": 179,
+    "GB": 145,
+    "US": 193,
     "FR": 23,
-    "SA": 35,
+    "SA": 42,
     "HK": 3,
-    "DE": 1
+    "DE": 1,
+    "JP": 1
    },
    "topics": {},
    "sources": {
-    "Financial Times": 64,
-    "WSJ": 95,
+    "Financial Times": 68,
+    "WSJ": 101,
     "Heavy.com": 1,
     "CNN": 5,
     "France 24": 22,
-    "Arab News": 36,
+    "Arab News": 43,
     "The Washington Post": 6,
-    "Al-Monitor": 25,
-    "AP News": 12,
+    "Al-Monitor": 31,
+    "AP News": 14,
     "South China Morning Post": 3,
     "The Times of India": 1,
     "news.sbs.co.kr": 1,
@@ -8077,7 +8078,7 @@
     "Daily Observer": 1,
     "The Business Standard": 1,
     "Nine.com.au": 1,
-    "Reuters": 55,
+    "Reuters": 62,
     "NDTV Sports": 1,
     "Bloomberg.com": 26,
     "UA.NEWS": 1,
@@ -8144,17 +8145,24 @@
     "World Israel News": 1,
     "DatamarNews": 1,
     "Central Oregon Daily": 1,
-    "Apa.az": 1
+    "Apa.az": 1,
+    "Firstpost": 1,
+    "Nikkei Asia": 1,
+    "Eurasia Review": 1,
+    "Upstream Online": 1,
+    "Arab News PK": 1,
+    "صوت الإمارات": 1,
+    "MMA Sucka": 1
    },
    "sourceTone": {
     "Financial Times": [
      0,
-     64,
+     68,
      0
     ],
     "WSJ": [
      0,
-     95,
+     101,
      0
     ],
     "Heavy.com": [
@@ -8174,7 +8182,7 @@
     ],
     "Arab News": [
      0,
-     36,
+     43,
      0
     ],
     "The Washington Post": [
@@ -8184,12 +8192,12 @@
     ],
     "Al-Monitor": [
      0,
-     25,
+     31,
      0
     ],
     "AP News": [
      0,
-     12,
+     14,
      0
     ],
     "South China Morning Post": [
@@ -8244,7 +8252,7 @@
     ],
     "Reuters": [
      0,
-     55,
+     62,
      0
     ],
     "NDTV Sports": [
@@ -8578,6 +8586,41 @@
      0
     ],
     "Apa.az": [
+     0,
+     1,
+     0
+    ],
+    "Firstpost": [
+     0,
+     1,
+     0
+    ],
+    "Nikkei Asia": [
+     0,
+     1,
+     0
+    ],
+    "Eurasia Review": [
+     0,
+     1,
+     0
+    ],
+    "Upstream Online": [
+     0,
+     1,
+     0
+    ],
+    "Arab News PK": [
+     0,
+     1,
+     0
+    ],
+    "صوت الإمارات": [
+     0,
+     1,
+     0
+    ],
+    "MMA Sucka": [
      0,
      1,
      0
