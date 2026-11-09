@@ -7083,18 +7083,18 @@
    }
   },
   "2026-11-08": {
-   "total": 588,
-   "news": 584,
+   "total": 589,
+   "news": 585,
    "articles": 4,
    "positive": 0,
-   "neutral": 588,
+   "neutral": 589,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 74,
     "FR": 52,
     "HK": 9,
-    "GB": 102,
+    "GB": 103,
     "US": 125,
     "DE": 2
    },
@@ -7113,7 +7113,7 @@
     "China Daily Global Edition": 1,
     "The Times of India": 3,
     "الخبر اليمني": 3,
-    "Reuters": 45,
+    "Reuters": 46,
     "Breakingthenews.net": 1,
     "WSJ": 45,
     "AP News": 12,
@@ -7325,7 +7325,7 @@
     ],
     "Reuters": [
      0,
-     45,
+     46,
      0
     ],
     "Breakingthenews.net": [
