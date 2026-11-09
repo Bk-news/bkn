@@ -6342,15 +6342,15 @@
    }
   },
   "2026-11-07": {
-   "total": 488,
-   "news": 485,
+   "total": 489,
+   "news": 486,
    "articles": 3,
    "positive": 0,
-   "neutral": 488,
+   "neutral": 489,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 150,
+    "GB": 151,
     "SA": 60,
     "US": 97,
     "FR": 8,
@@ -6368,7 +6368,7 @@
     "Nacionale": 1,
     "WSJ": 23,
     "وكالة الأنباء السعودية": 2,
-    "Financial Times": 72,
+    "Financial Times": 73,
     "The Arab Weekly": 1,
     "The Guardian": 4,
     "The New York Times": 13,
@@ -6532,7 +6532,7 @@
     ],
     "Financial Times": [
      0,
-     72,
+     73,
      0
     ],
     "The Arab Weekly": [
@@ -8041,16 +8041,16 @@
    }
   },
   "2026-11-09": {
-   "total": 93,
-   "news": 93,
+   "total": 95,
+   "news": 95,
    "articles": 0,
    "positive": 0,
-   "neutral": 93,
+   "neutral": 95,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 13,
-    "US": 52,
+    "US": 54,
     "FR": 14,
     "SA": 2,
     "HK": 2
@@ -8058,7 +8058,7 @@
    "topics": {},
    "sources": {
     "Financial Times": 12,
-    "WSJ": 42,
+    "WSJ": 44,
     "Heavy.com": 1,
     "CNN": 3,
     "France 24": 14,
@@ -8086,7 +8086,7 @@
     ],
     "WSJ": [
      0,
-     42,
+     44,
      0
     ],
     "Heavy.com": [
