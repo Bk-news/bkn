@@ -8041,17 +8041,17 @@
    }
   },
   "2026-11-09": {
-   "total": 332,
-   "news": 331,
+   "total": 333,
+   "news": 332,
    "articles": 1,
    "positive": 0,
-   "neutral": 332,
+   "neutral": 333,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 105,
     "US": 120,
-    "FR": 15,
+    "FR": 16,
     "SA": 20,
     "HK": 3
    },
@@ -8061,7 +8061,7 @@
     "WSJ": 82,
     "Heavy.com": 1,
     "CNN": 4,
-    "France 24": 15,
+    "France 24": 16,
     "Arab News": 23,
     "The Washington Post": 3,
     "Al-Monitor": 13,
@@ -8154,7 +8154,7 @@
     ],
     "France 24": [
      0,
-     15,
+     16,
      0
     ],
     "Arab News": [
