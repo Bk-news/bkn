@@ -7083,18 +7083,18 @@
    }
   },
   "2026-11-08": {
-   "total": 608,
-   "news": 604,
+   "total": 613,
+   "news": 609,
    "articles": 4,
    "positive": 0,
-   "neutral": 608,
+   "neutral": 613,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 81,
     "FR": 52,
     "HK": 9,
-    "GB": 112,
+    "GB": 117,
     "US": 128,
     "DE": 2
    },
@@ -7121,8 +7121,8 @@
     "Le Monde.fr": 6,
     "Al-Monitor": 20,
     "The Washington Post": 2,
-    "BBC": 11,
-    "Financial Times": 44,
+    "BBC": 13,
+    "Financial Times": 47,
     "The Guardian": 3,
     "Arab News PK": 3,
     "Khaama Press": 1,
@@ -7365,12 +7365,12 @@
     ],
     "BBC": [
      0,
-     11,
+     13,
      0
     ],
     "Financial Times": [
      0,
-     44,
+     47,
      0
     ],
     "The Guardian": [
@@ -8041,32 +8041,32 @@
    }
   },
   "2026-11-09": {
-   "total": 428,
-   "news": 424,
+   "total": 463,
+   "news": 459,
    "articles": 4,
    "positive": 0,
-   "neutral": 428,
+   "neutral": 463,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 128,
-    "US": 161,
+    "GB": 134,
+    "US": 179,
     "FR": 23,
-    "SA": 30,
+    "SA": 35,
     "HK": 3,
     "DE": 1
    },
    "topics": {},
    "sources": {
-    "Financial Times": 63,
-    "WSJ": 91,
+    "Financial Times": 64,
+    "WSJ": 95,
     "Heavy.com": 1,
     "CNN": 5,
     "France 24": 22,
-    "Arab News": 31,
+    "Arab News": 36,
     "The Washington Post": 6,
-    "Al-Monitor": 20,
-    "AP News": 9,
+    "Al-Monitor": 25,
+    "AP News": 12,
     "South China Morning Post": 3,
     "The Times of India": 1,
     "news.sbs.co.kr": 1,
@@ -8077,9 +8077,9 @@
     "Daily Observer": 1,
     "The Business Standard": 1,
     "Nine.com.au": 1,
-    "Reuters": 50,
+    "Reuters": 55,
     "NDTV Sports": 1,
-    "Bloomberg.com": 22,
+    "Bloomberg.com": 26,
     "UA.NEWS": 1,
     "BBC": 10,
     "The Guardian": 5,
@@ -8106,7 +8106,7 @@
     "The Tribune": 1,
     "Condé Nast Traveller Middle East": 2,
     "Khaama Press": 1,
-    "https://houseofsaud.com/": 1,
+    "https://houseofsaud.com/": 2,
     "Kurdistan24": 1,
     "سانا": 1,
     "Channels Television": 1,
@@ -8132,25 +8132,29 @@
     "Gulf Times": 1,
     "samaa tv": 1,
     "Bloomberg": 1,
-    "The Jerusalem Post": 1,
+    "The Jerusalem Post": 2,
     "Spiegel": 1,
     "Atlantic Council": 3,
-    "The New York Times": 5,
+    "The New York Times": 7,
     "Hindustan Times": 1,
     "The Straits Times": 1,
     "The Arab Weekly": 1,
     "Middle East Online": 1,
-    "The Times of Israel": 1
+    "The Times of Israel": 1,
+    "World Israel News": 1,
+    "DatamarNews": 1,
+    "Central Oregon Daily": 1,
+    "Apa.az": 1
    },
    "sourceTone": {
     "Financial Times": [
      0,
-     63,
+     64,
      0
     ],
     "WSJ": [
      0,
-     91,
+     95,
      0
     ],
     "Heavy.com": [
@@ -8170,7 +8174,7 @@
     ],
     "Arab News": [
      0,
-     31,
+     36,
      0
     ],
     "The Washington Post": [
@@ -8180,12 +8184,12 @@
     ],
     "Al-Monitor": [
      0,
-     20,
+     25,
      0
     ],
     "AP News": [
      0,
-     9,
+     12,
      0
     ],
     "South China Morning Post": [
@@ -8240,7 +8244,7 @@
     ],
     "Reuters": [
      0,
-     50,
+     55,
      0
     ],
     "NDTV Sports": [
@@ -8250,7 +8254,7 @@
     ],
     "Bloomberg.com": [
      0,
-     22,
+     26,
      0
     ],
     "UA.NEWS": [
@@ -8385,7 +8389,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     1,
+     2,
      0
     ],
     "Kurdistan24": [
@@ -8515,7 +8519,7 @@
     ],
     "The Jerusalem Post": [
      0,
-     1,
+     2,
      0
     ],
     "Spiegel": [
@@ -8530,7 +8534,7 @@
     ],
     "The New York Times": [
      0,
-     5,
+     7,
      0
     ],
     "Hindustan Times": [
@@ -8554,6 +8558,26 @@
      0
     ],
     "The Times of Israel": [
+     0,
+     1,
+     0
+    ],
+    "World Israel News": [
+     0,
+     1,
+     0
+    ],
+    "DatamarNews": [
+     0,
+     1,
+     0
+    ],
+    "Central Oregon Daily": [
+     0,
+     1,
+     0
+    ],
+    "Apa.az": [
      0,
      1,
      0
