@@ -8041,11 +8041,11 @@
    }
   },
   "2026-11-09": {
-   "total": 628,
-   "news": 624,
+   "total": 631,
+   "news": 627,
    "articles": 4,
    "positive": 0,
-   "neutral": 628,
+   "neutral": 631,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -8151,15 +8151,15 @@
     "Eurasia Review": 1,
     "Upstream Online": 1,
     "Arab News PK": 2,
-    "صوت الإمارات": 1,
+    "صوت الإمارات": 2,
     "MMA Sucka": 1,
-    "Al Arabiya English": 3,
+    "Al Arabiya English": 4,
     "شفق نيوز": 1,
     "Yemen Online": 1,
     "India Today": 1,
     "blue News": 1,
     "Audacy": 1,
-    "Crude Oil Prices Today | OilPrice.com": 1,
+    "Crude Oil Prices Today | OilPrice.com": 2,
     "Мілітарний": 1,
     "NDTV Profit": 1,
     "Anadolu Ajansı": 1,
@@ -8651,7 +8651,7 @@
     ],
     "صوت الإمارات": [
      0,
-     1,
+     2,
      0
     ],
     "MMA Sucka": [
@@ -8661,7 +8661,7 @@
     ],
     "Al Arabiya English": [
      0,
-     3,
+     4,
      0
     ],
     "شفق نيوز": [
@@ -8691,7 +8691,7 @@
     ],
     "Crude Oil Prices Today | OilPrice.com": [
      0,
-     1,
+     2,
      0
     ],
     "Мілітарний": [
