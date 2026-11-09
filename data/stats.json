@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 583,
-   "news": 579,
+   "total": 585,
+   "news": 581,
    "articles": 4,
    "positive": 0,
-   "neutral": 583,
+   "neutral": 585,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -7095,7 +7095,7 @@
     "FR": 52,
     "HK": 9,
     "GB": 102,
-    "US": 120,
+    "US": 122,
     "DE": 2
    },
    "topics": {},
@@ -7115,7 +7115,7 @@
     "الخبر اليمني": 3,
     "Reuters": 45,
     "Breakingthenews.net": 1,
-    "WSJ": 42,
+    "WSJ": 44,
     "AP News": 12,
     "Yemen Online": 2,
     "Le Monde.fr": 6,
@@ -7335,7 +7335,7 @@
     ],
     "WSJ": [
      0,
-     42,
+     44,
      0
     ],
     "AP News": [
@@ -8041,16 +8041,16 @@
    }
   },
   "2026-11-09": {
-   "total": 73,
-   "news": 73,
+   "total": 74,
+   "news": 74,
    "articles": 0,
    "positive": 0,
-   "neutral": 73,
+   "neutral": 74,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 11,
-    "US": 41,
+    "US": 42,
     "FR": 13,
     "SA": 2,
     "HK": 1
@@ -8058,7 +8058,7 @@
    "topics": {},
    "sources": {
     "Financial Times": 11,
-    "WSJ": 31,
+    "WSJ": 32,
     "Heavy.com": 1,
     "CNN": 3,
     "France 24": 13,
@@ -8080,7 +8080,7 @@
     ],
     "WSJ": [
      0,
-     31,
+     32,
      0
     ],
     "Heavy.com": [
