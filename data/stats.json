@@ -6342,23 +6342,23 @@
    }
   },
   "2026-11-07": {
-   "total": 472,
-   "news": 469,
+   "total": 475,
+   "news": 472,
    "articles": 3,
    "positive": 0,
-   "neutral": 472,
+   "neutral": 475,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 146,
+    "GB": 147,
     "SA": 60,
-    "US": 85,
+    "US": 87,
     "FR": 8,
     "HK": 1
    },
    "topics": {},
    "sources": {
-    "Reuters": 59,
+    "Reuters": 60,
     "OpenCritic": 1,
     "Arab News": 64,
     "AP News": 12,
@@ -6372,7 +6372,7 @@
     "The Arab Weekly": 1,
     "The Guardian": 4,
     "The New York Times": 13,
-    "CNN": 25,
+    "CNN": 27,
     "The Economist": 3,
     "Daily Observer": 2,
     "سانا": 3,
@@ -6482,7 +6482,7 @@
    "sourceTone": {
     "Reuters": [
      0,
-     59,
+     60,
      0
     ],
     "OpenCritic": [
@@ -6552,7 +6552,7 @@
     ],
     "CNN": [
      0,
-     25,
+     27,
      0
     ],
     "The Economist": [
@@ -7083,26 +7083,26 @@
    }
   },
   "2026-11-08": {
-   "total": 549,
-   "news": 545,
+   "total": 556,
+   "news": 552,
    "articles": 4,
    "positive": 0,
-   "neutral": 549,
+   "neutral": 556,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 73,
+    "SA": 74,
     "FR": 52,
-    "HK": 7,
-    "GB": 98,
+    "HK": 9,
+    "GB": 102,
     "US": 97,
     "DE": 2
    },
    "topics": {},
    "sources": {
-    "Arab News": 78,
+    "Arab News": 79,
     "France 24": 48,
-    "South China Morning Post": 7,
+    "South China Morning Post": 9,
     "RTE.ie": 1,
     "The Express Tribune": 2,
     "The Kathmandu Post": 1,
@@ -7113,7 +7113,7 @@
     "China Daily Global Edition": 1,
     "The Times of India": 3,
     "الخبر اليمني": 3,
-    "Reuters": 42,
+    "Reuters": 45,
     "Breakingthenews.net": 1,
     "WSJ": 20,
     "AP News": 12,
@@ -7121,7 +7121,7 @@
     "Le Monde.fr": 6,
     "Al-Monitor": 19,
     "The Washington Post": 2,
-    "BBC": 10,
+    "BBC": 11,
     "Financial Times": 42,
     "The Guardian": 3,
     "Arab News PK": 3,
@@ -7257,7 +7257,7 @@
    "sourceTone": {
     "Arab News": [
      0,
-     78,
+     79,
      0
     ],
     "France 24": [
@@ -7267,7 +7267,7 @@
     ],
     "South China Morning Post": [
      0,
-     7,
+     9,
      0
     ],
     "RTE.ie": [
@@ -7322,7 +7322,7 @@
     ],
     "Reuters": [
      0,
-     42,
+     45,
      0
     ],
     "Breakingthenews.net": [
@@ -7362,7 +7362,7 @@
     ],
     "BBC": [
      0,
-     10,
+     11,
      0
     ],
     "Financial Times": [
@@ -8023,22 +8023,104 @@
    }
   },
   "2026-11-09": {
-   "total": 1,
-   "news": 1,
+   "total": 31,
+   "news": 31,
    "articles": 0,
    "positive": 0,
-   "neutral": 1,
+   "neutral": 31,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 1
+    "GB": 5,
+    "US": 14,
+    "FR": 4,
+    "SA": 2,
+    "HK": 1
    },
    "topics": {},
    "sources": {
-    "Financial Times": 1
+    "Financial Times": 5,
+    "WSJ": 5,
+    "Heavy.com": 1,
+    "CNN": 3,
+    "France 24": 4,
+    "Arab News": 2,
+    "The Washington Post": 2,
+    "Al-Monitor": 3,
+    "AP News": 1,
+    "South China Morning Post": 1,
+    "The Times of India": 1,
+    "news.sbs.co.kr": 1,
+    "Moomoo": 1,
+    "Cageside Seats": 1
    },
    "sourceTone": {
     "Financial Times": [
+     0,
+     5,
+     0
+    ],
+    "WSJ": [
+     0,
+     5,
+     0
+    ],
+    "Heavy.com": [
+     0,
+     1,
+     0
+    ],
+    "CNN": [
+     0,
+     3,
+     0
+    ],
+    "France 24": [
+     0,
+     4,
+     0
+    ],
+    "Arab News": [
+     0,
+     2,
+     0
+    ],
+    "The Washington Post": [
+     0,
+     2,
+     0
+    ],
+    "Al-Monitor": [
+     0,
+     3,
+     0
+    ],
+    "AP News": [
+     0,
+     1,
+     0
+    ],
+    "South China Morning Post": [
+     0,
+     1,
+     0
+    ],
+    "The Times of India": [
+     0,
+     1,
+     0
+    ],
+    "news.sbs.co.kr": [
+     0,
+     1,
+     0
+    ],
+    "Moomoo": [
+     0,
+     1,
+     0
+    ],
+    "Cageside Seats": [
      0,
      1,
      0
