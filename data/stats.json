@@ -8041,16 +8041,16 @@
    }
   },
   "2026-11-09": {
-   "total": 617,
-   "news": 613,
+   "total": 619,
+   "news": 615,
    "articles": 4,
    "positive": 0,
-   "neutral": 617,
+   "neutral": 619,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 177,
-    "US": 214,
+    "GB": 178,
+    "US": 215,
     "FR": 23,
     "SA": 46,
     "HK": 3,
@@ -8067,7 +8067,7 @@
     "Arab News": 51,
     "The Washington Post": 6,
     "Al-Monitor": 39,
-    "AP News": 14,
+    "AP News": 15,
     "South China Morning Post": 5,
     "The Times of India": 1,
     "news.sbs.co.kr": 1,
@@ -8078,7 +8078,7 @@
     "Daily Observer": 1,
     "The Business Standard": 1,
     "Nine.com.au": 1,
-    "Reuters": 93,
+    "Reuters": 94,
     "NDTV Sports": 1,
     "Bloomberg.com": 31,
     "UA.NEWS": 2,
@@ -8231,7 +8231,7 @@
     ],
     "AP News": [
      0,
-     14,
+     15,
      0
     ],
     "South China Morning Post": [
@@ -8286,7 +8286,7 @@
     ],
     "Reuters": [
      0,
-     93,
+     94,
      0
     ],
     "NDTV Sports": [
