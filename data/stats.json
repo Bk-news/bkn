@@ -8041,11 +8041,11 @@
    }
   },
   "2026-11-09": {
-   "total": 633,
-   "news": 629,
+   "total": 634,
+   "news": 630,
    "articles": 4,
    "positive": 0,
-   "neutral": 633,
+   "neutral": 634,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -8187,7 +8187,8 @@
     "Scottish Financial News": 1,
     "کردپرس": 1,
     "The News Pakistan": 2,
-    "Rudaw": 1
+    "Rudaw": 1,
+    "LBCI Lebanon": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -8831,6 +8832,11 @@
      0
     ],
     "Rudaw": [
+     0,
+     1,
+     0
+    ],
+    "LBCI Lebanon": [
      0,
      1,
      0
