@@ -7083,15 +7083,15 @@
    }
   },
   "2026-11-08": {
-   "total": 595,
-   "news": 591,
+   "total": 597,
+   "news": 593,
    "articles": 4,
    "positive": 0,
-   "neutral": 595,
+   "neutral": 597,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 78,
+    "SA": 80,
     "FR": 52,
     "HK": 9,
     "GB": 104,
@@ -7100,7 +7100,7 @@
    },
    "topics": {},
    "sources": {
-    "Arab News": 80,
+    "Arab News": 82,
     "France 24": 48,
     "South China Morning Post": 9,
     "RTE.ie": 1,
@@ -7260,7 +7260,7 @@
    "sourceTone": {
     "Arab News": [
      0,
-     80,
+     82,
      0
     ],
     "France 24": [
@@ -8041,30 +8041,30 @@
    }
   },
   "2026-11-09": {
-   "total": 172,
-   "news": 171,
+   "total": 210,
+   "news": 209,
    "articles": 1,
    "positive": 0,
-   "neutral": 172,
+   "neutral": 210,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 37,
-    "US": 86,
+    "GB": 50,
+    "US": 100,
     "FR": 15,
-    "SA": 12,
+    "SA": 16,
     "HK": 3
    },
    "topics": {},
    "sources": {
-    "Financial Times": 20,
-    "WSJ": 56,
+    "Financial Times": 26,
+    "WSJ": 63,
     "Heavy.com": 1,
     "CNN": 4,
     "France 24": 14,
-    "Arab News": 13,
+    "Arab News": 17,
     "The Washington Post": 3,
-    "Al-Monitor": 11,
+    "Al-Monitor": 13,
     "AP News": 3,
     "South China Morning Post": 3,
     "The Times of India": 1,
@@ -8076,9 +8076,9 @@
     "Daily Observer": 1,
     "The Business Standard": 1,
     "Nine.com.au": 1,
-    "Reuters": 9,
+    "Reuters": 16,
     "NDTV Sports": 1,
-    "Bloomberg.com": 8,
+    "Bloomberg.com": 13,
     "UA.NEWS": 1,
     "BBC": 5,
     "The Guardian": 3,
@@ -8089,17 +8089,23 @@
     "FF News": 1,
     "Zawya": 1,
     "DD News": 1,
-    "The Hindu": 1
+    "The Hindu": 1,
+    "Saudi Gazette": 2,
+    "L'Orient Today": 1,
+    "The National": 1,
+    "Intelligent CISO": 1,
+    "Yeni Şafak English": 1,
+    "City AM": 1
    },
    "sourceTone": {
     "Financial Times": [
      0,
-     20,
+     26,
      0
     ],
     "WSJ": [
      0,
-     56,
+     63,
      0
     ],
     "Heavy.com": [
@@ -8119,7 +8125,7 @@
     ],
     "Arab News": [
      0,
-     13,
+     17,
      0
     ],
     "The Washington Post": [
@@ -8129,7 +8135,7 @@
     ],
     "Al-Monitor": [
      0,
-     11,
+     13,
      0
     ],
     "AP News": [
@@ -8189,7 +8195,7 @@
     ],
     "Reuters": [
      0,
-     9,
+     16,
      0
     ],
     "NDTV Sports": [
@@ -8199,7 +8205,7 @@
     ],
     "Bloomberg.com": [
      0,
-     8,
+     13,
      0
     ],
     "UA.NEWS": [
@@ -8253,6 +8259,36 @@
      0
     ],
     "The Hindu": [
+     0,
+     1,
+     0
+    ],
+    "Saudi Gazette": [
+     0,
+     2,
+     0
+    ],
+    "L'Orient Today": [
+     0,
+     1,
+     0
+    ],
+    "The National": [
+     0,
+     1,
+     0
+    ],
+    "Intelligent CISO": [
+     0,
+     1,
+     0
+    ],
+    "Yeni Şafak English": [
+     0,
+     1,
+     0
+    ],
+    "City AM": [
      0,
      1,
      0
