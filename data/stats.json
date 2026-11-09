@@ -6342,17 +6342,17 @@
    }
   },
   "2026-11-07": {
-   "total": 476,
-   "news": 473,
+   "total": 484,
+   "news": 481,
    "articles": 3,
    "positive": 0,
-   "neutral": 476,
+   "neutral": 484,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 148,
     "SA": 60,
-    "US": 87,
+    "US": 95,
     "FR": 8,
     "HK": 1
    },
@@ -6366,7 +6366,7 @@
     "Le Monde.fr": 6,
     "BBC": 13,
     "Nacionale": 1,
-    "WSJ": 14,
+    "WSJ": 22,
     "وكالة الأنباء السعودية": 2,
     "Financial Times": 71,
     "The Arab Weekly": 1,
@@ -6522,7 +6522,7 @@
     ],
     "WSJ": [
      0,
-     14,
+     22,
      0
     ],
     "وكالة الأنباء السعودية": [
@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 560,
-   "news": 556,
+   "total": 583,
+   "news": 579,
    "articles": 4,
    "positive": 0,
-   "neutral": 560,
+   "neutral": 583,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -7095,7 +7095,7 @@
     "FR": 52,
     "HK": 9,
     "GB": 102,
-    "US": 97,
+    "US": 120,
     "DE": 2
    },
    "topics": {},
@@ -7115,7 +7115,7 @@
     "الخبر اليمني": 3,
     "Reuters": 45,
     "Breakingthenews.net": 1,
-    "WSJ": 20,
+    "WSJ": 42,
     "AP News": 12,
     "Yemen Online": 2,
     "Le Monde.fr": 6,
@@ -7180,7 +7180,7 @@
     "upi": 1,
     "Bloomberg.com": 5,
     "Saudi Gazette": 14,
-    "The New York Times": 19,
+    "The New York Times": 20,
     "Spiegel": 2,
     "The Seattle Times": 1,
     "Middle East Eye": 2,
@@ -7335,7 +7335,7 @@
     ],
     "WSJ": [
      0,
-     20,
+     42,
      0
     ],
     "AP News": [
@@ -7660,7 +7660,7 @@
     ],
     "The New York Times": [
      0,
-     19,
+     20,
      0
     ],
     "Spiegel": [
@@ -8041,16 +8041,16 @@
    }
   },
   "2026-11-09": {
-   "total": 66,
-   "news": 66,
+   "total": 73,
+   "news": 73,
    "articles": 0,
    "positive": 0,
-   "neutral": 66,
+   "neutral": 73,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 11,
-    "US": 34,
+    "US": 41,
     "FR": 13,
     "SA": 2,
     "HK": 1
@@ -8058,14 +8058,14 @@
    "topics": {},
    "sources": {
     "Financial Times": 11,
-    "WSJ": 25,
+    "WSJ": 31,
     "Heavy.com": 1,
     "CNN": 3,
     "France 24": 13,
     "Arab News": 2,
     "The Washington Post": 2,
     "Al-Monitor": 3,
-    "AP News": 1,
+    "AP News": 2,
     "South China Morning Post": 1,
     "The Times of India": 1,
     "news.sbs.co.kr": 1,
@@ -8080,7 +8080,7 @@
     ],
     "WSJ": [
      0,
-     25,
+     31,
      0
     ],
     "Heavy.com": [
@@ -8115,7 +8115,7 @@
     ],
     "AP News": [
      0,
-     1,
+     2,
      0
     ],
     "South China Morning Post": [
