@@ -7083,18 +7083,18 @@
    }
   },
   "2026-11-08": {
-   "total": 604,
-   "news": 600,
+   "total": 606,
+   "news": 602,
    "articles": 4,
    "positive": 0,
-   "neutral": 604,
+   "neutral": 606,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 81,
     "FR": 52,
     "HK": 9,
-    "GB": 110,
+    "GB": 112,
     "US": 126,
     "DE": 2
    },
@@ -7113,7 +7113,7 @@
     "China Daily Global Edition": 1,
     "The Times of India": 3,
     "الخبر اليمني": 3,
-    "Reuters": 51,
+    "Reuters": 53,
     "Breakingthenews.net": 1,
     "WSJ": 45,
     "AP News": 12,
@@ -7325,7 +7325,7 @@
     ],
     "Reuters": [
      0,
-     51,
+     53,
      0
     ],
     "Breakingthenews.net": [
@@ -8041,28 +8041,28 @@
    }
   },
   "2026-11-09": {
-   "total": 310,
-   "news": 309,
+   "total": 321,
+   "news": 320,
    "articles": 1,
    "positive": 0,
-   "neutral": 310,
+   "neutral": 321,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 95,
+    "GB": 103,
     "US": 116,
     "FR": 15,
-    "SA": 17,
+    "SA": 19,
     "HK": 3
    },
    "topics": {},
    "sources": {
-    "Financial Times": 53,
+    "Financial Times": 55,
     "WSJ": 79,
     "Heavy.com": 1,
     "CNN": 4,
     "France 24": 14,
-    "Arab News": 20,
+    "Arab News": 22,
     "The Washington Post": 3,
     "Al-Monitor": 13,
     "AP News": 3,
@@ -8076,7 +8076,7 @@
     "Daily Observer": 1,
     "The Business Standard": 1,
     "Nine.com.au": 1,
-    "Reuters": 34,
+    "Reuters": 40,
     "NDTV Sports": 1,
     "Bloomberg.com": 14,
     "UA.NEWS": 1,
@@ -8125,12 +8125,13 @@
     "Table.Briefings": 1,
     "IDNFinancials": 1,
     "MEED": 1,
-    "ET EnergyWorld": 1
+    "ET EnergyWorld": 1,
+    "Khaleej Times": 1
    },
    "sourceTone": {
     "Financial Times": [
      0,
-     53,
+     55,
      0
     ],
     "WSJ": [
@@ -8155,7 +8156,7 @@
     ],
     "Arab News": [
      0,
-     20,
+     22,
      0
     ],
     "The Washington Post": [
@@ -8225,7 +8226,7 @@
     ],
     "Reuters": [
      0,
-     34,
+     40,
      0
     ],
     "NDTV Sports": [
@@ -8469,6 +8470,11 @@
      0
     ],
     "ET EnergyWorld": [
+     0,
+     1,
+     0
+    ],
+    "Khaleej Times": [
      0,
      1,
      0
