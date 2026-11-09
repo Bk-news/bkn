@@ -8041,15 +8041,15 @@
    }
   },
   "2026-11-09": {
-   "total": 611,
-   "news": 607,
+   "total": 616,
+   "news": 612,
    "articles": 4,
    "positive": 0,
-   "neutral": 611,
+   "neutral": 616,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 172,
+    "GB": 176,
     "US": 214,
     "FR": 23,
     "SA": 46,
@@ -8059,14 +8059,14 @@
    },
    "topics": {},
    "sources": {
-    "Financial Times": 69,
+    "Financial Times": 71,
     "WSJ": 111,
     "Heavy.com": 1,
     "CNN": 5,
     "France 24": 22,
     "Arab News": 51,
     "The Washington Post": 6,
-    "Al-Monitor": 38,
+    "Al-Monitor": 39,
     "AP News": 14,
     "South China Morning Post": 5,
     "The Times of India": 1,
@@ -8078,7 +8078,7 @@
     "Daily Observer": 1,
     "The Business Standard": 1,
     "Nine.com.au": 1,
-    "Reuters": 90,
+    "Reuters": 92,
     "NDTV Sports": 1,
     "Bloomberg.com": 31,
     "UA.NEWS": 2,
@@ -8191,7 +8191,7 @@
    "sourceTone": {
     "Financial Times": [
      0,
-     69,
+     71,
      0
     ],
     "WSJ": [
@@ -8226,7 +8226,7 @@
     ],
     "Al-Monitor": [
      0,
-     38,
+     39,
      0
     ],
     "AP News": [
@@ -8286,7 +8286,7 @@
     ],
     "Reuters": [
      0,
-     90,
+     92,
      0
     ],
     "NDTV Sports": [
