@@ -7083,18 +7083,18 @@
    }
   },
   "2026-11-08": {
-   "total": 616,
-   "news": 612,
+   "total": 618,
+   "news": 614,
    "articles": 4,
    "positive": 0,
-   "neutral": 616,
+   "neutral": 618,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 81,
     "FR": 52,
     "HK": 9,
-    "GB": 118,
+    "GB": 120,
     "US": 130,
     "DE": 2
    },
@@ -7113,7 +7113,7 @@
     "China Daily Global Edition": 1,
     "The Times of India": 3,
     "الخبر اليمني": 3,
-    "Reuters": 53,
+    "Reuters": 55,
     "Breakingthenews.net": 1,
     "WSJ": 46,
     "AP News": 12,
@@ -7325,7 +7325,7 @@
     ],
     "Reuters": [
      0,
-     53,
+     55,
      0
     ],
     "Breakingthenews.net": [
@@ -8041,16 +8041,16 @@
    }
   },
   "2026-11-09": {
-   "total": 540,
-   "news": 536,
+   "total": 578,
+   "news": 574,
    "articles": 4,
    "positive": 0,
-   "neutral": 540,
+   "neutral": 578,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 156,
-    "US": 206,
+    "GB": 170,
+    "US": 210,
     "FR": 23,
     "SA": 45,
     "HK": 3,
@@ -8060,15 +8060,15 @@
    "topics": {},
    "sources": {
     "Financial Times": 69,
-    "WSJ": 107,
+    "WSJ": 110,
     "Heavy.com": 1,
     "CNN": 5,
     "France 24": 22,
-    "Arab News": 46,
+    "Arab News": 47,
     "The Washington Post": 6,
     "Al-Monitor": 38,
     "AP News": 14,
-    "South China Morning Post": 3,
+    "South China Morning Post": 4,
     "The Times of India": 1,
     "news.sbs.co.kr": 1,
     "Moomoo": 1,
@@ -8078,12 +8078,12 @@
     "Daily Observer": 1,
     "The Business Standard": 1,
     "Nine.com.au": 1,
-    "Reuters": 74,
+    "Reuters": 88,
     "NDTV Sports": 1,
-    "Bloomberg.com": 26,
+    "Bloomberg.com": 27,
     "UA.NEWS": 1,
     "BBC": 10,
-    "The Guardian": 5,
+    "The Guardian": 6,
     "Foreign Affairs": 1,
     "Le Monde.fr": 2,
     "The Week": 1,
@@ -8111,7 +8111,7 @@
     "Kurdistan24": 1,
     "سانا": 1,
     "Channels Television": 1,
-    "marketscreener.com": 1,
+    "marketscreener.com": 2,
     "صحيفة سبق الإلكترونية": 1,
     "CounterPunch.org": 1,
     "EU Reporter": 1,
@@ -8133,7 +8133,7 @@
     "Gulf Times": 1,
     "samaa tv": 1,
     "Bloomberg": 1,
-    "The Jerusalem Post": 2,
+    "The Jerusalem Post": 3,
     "Spiegel": 1,
     "Atlantic Council": 3,
     "The New York Times": 7,
@@ -8146,21 +8146,31 @@
     "DatamarNews": 1,
     "Central Oregon Daily": 1,
     "Apa.az": 1,
-    "Firstpost": 1,
+    "Firstpost": 2,
     "Nikkei Asia": 1,
     "Eurasia Review": 1,
     "Upstream Online": 1,
-    "Arab News PK": 1,
+    "Arab News PK": 2,
     "صوت الإمارات": 1,
     "MMA Sucka": 1,
-    "Al Arabiya English": 1,
+    "Al Arabiya English": 3,
     "شفق نيوز": 1,
     "Yemen Online": 1,
     "India Today": 1,
     "blue News": 1,
     "Audacy": 1,
     "Crude Oil Prices Today | OilPrice.com": 1,
-    "Мілітарний": 1
+    "Мілітарний": 1,
+    "NDTV Profit": 1,
+    "Anadolu Ajansı": 1,
+    "Inspenet": 1,
+    "Türkiye Today": 2,
+    "A News": 1,
+    "The B1M": 1,
+    "MMA Mania": 1,
+    "Dawn": 1,
+    "IndexBox": 1,
+    "Ocean News & Technology": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -8170,7 +8180,7 @@
     ],
     "WSJ": [
      0,
-     107,
+     110,
      0
     ],
     "Heavy.com": [
@@ -8190,7 +8200,7 @@
     ],
     "Arab News": [
      0,
-     46,
+     47,
      0
     ],
     "The Washington Post": [
@@ -8210,7 +8220,7 @@
     ],
     "South China Morning Post": [
      0,
-     3,
+     4,
      0
     ],
     "The Times of India": [
@@ -8260,7 +8270,7 @@
     ],
     "Reuters": [
      0,
-     74,
+     88,
      0
     ],
     "NDTV Sports": [
@@ -8270,7 +8280,7 @@
     ],
     "Bloomberg.com": [
      0,
-     26,
+     27,
      0
     ],
     "UA.NEWS": [
@@ -8285,7 +8295,7 @@
     ],
     "The Guardian": [
      0,
-     5,
+     6,
      0
     ],
     "Foreign Affairs": [
@@ -8425,7 +8435,7 @@
     ],
     "marketscreener.com": [
      0,
-     1,
+     2,
      0
     ],
     "صحيفة سبق الإلكترونية": [
@@ -8535,7 +8545,7 @@
     ],
     "The Jerusalem Post": [
      0,
-     2,
+     3,
      0
     ],
     "Spiegel": [
@@ -8600,7 +8610,7 @@
     ],
     "Firstpost": [
      0,
-     1,
+     2,
      0
     ],
     "Nikkei Asia": [
@@ -8620,7 +8630,7 @@
     ],
     "Arab News PK": [
      0,
-     1,
+     2,
      0
     ],
     "صوت الإمارات": [
@@ -8635,7 +8645,7 @@
     ],
     "Al Arabiya English": [
      0,
-     1,
+     3,
      0
     ],
     "شفق نيوز": [
@@ -8669,6 +8679,56 @@
      0
     ],
     "Мілітарний": [
+     0,
+     1,
+     0
+    ],
+    "NDTV Profit": [
+     0,
+     1,
+     0
+    ],
+    "Anadolu Ajansı": [
+     0,
+     1,
+     0
+    ],
+    "Inspenet": [
+     0,
+     1,
+     0
+    ],
+    "Türkiye Today": [
+     0,
+     2,
+     0
+    ],
+    "A News": [
+     0,
+     1,
+     0
+    ],
+    "The B1M": [
+     0,
+     1,
+     0
+    ],
+    "MMA Mania": [
+     0,
+     1,
+     0
+    ],
+    "Dawn": [
+     0,
+     1,
+     0
+    ],
+    "IndexBox": [
+     0,
+     1,
+     0
+    ],
+    "Ocean News & Technology": [
      0,
      1,
      0
