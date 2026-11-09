@@ -6342,15 +6342,15 @@
    }
   },
   "2026-11-07": {
-   "total": 486,
-   "news": 483,
+   "total": 487,
+   "news": 484,
    "articles": 3,
    "positive": 0,
-   "neutral": 486,
+   "neutral": 487,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 148,
+    "GB": 149,
     "SA": 60,
     "US": 97,
     "FR": 8,
@@ -6368,7 +6368,7 @@
     "Nacionale": 1,
     "WSJ": 23,
     "وكالة الأنباء السعودية": 2,
-    "Financial Times": 71,
+    "Financial Times": 72,
     "The Arab Weekly": 1,
     "The Guardian": 4,
     "The New York Times": 13,
@@ -6532,7 +6532,7 @@
     ],
     "Financial Times": [
      0,
-     71,
+     72,
      0
     ],
     "The Arab Weekly": [
