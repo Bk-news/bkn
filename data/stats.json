@@ -8041,19 +8041,19 @@
    }
   },
   "2026-11-09": {
-   "total": 89,
-   "news": 89,
+   "total": 91,
+   "news": 91,
    "articles": 0,
    "positive": 0,
-   "neutral": 89,
+   "neutral": 91,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 12,
     "US": 51,
-    "FR": 13,
+    "FR": 14,
     "SA": 2,
-    "HK": 1
+    "HK": 2
    },
    "topics": {},
    "sources": {
@@ -8061,12 +8061,12 @@
     "WSJ": 41,
     "Heavy.com": 1,
     "CNN": 3,
-    "France 24": 13,
+    "France 24": 14,
     "Arab News": 2,
     "The Washington Post": 2,
     "Al-Monitor": 3,
     "AP News": 2,
-    "South China Morning Post": 1,
+    "South China Morning Post": 2,
     "The Times of India": 1,
     "news.sbs.co.kr": 1,
     "Moomoo": 1,
@@ -8100,7 +8100,7 @@
     ],
     "France 24": [
      0,
-     13,
+     14,
      0
     ],
     "Arab News": [
@@ -8125,7 +8125,7 @@
     ],
     "South China Morning Post": [
      0,
-     1,
+     2,
      0
     ],
     "The Times of India": [
