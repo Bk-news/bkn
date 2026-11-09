@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 587,
-   "news": 583,
+   "total": 588,
+   "news": 584,
    "articles": 4,
    "positive": 0,
-   "neutral": 587,
+   "neutral": 588,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -7095,7 +7095,7 @@
     "FR": 52,
     "HK": 9,
     "GB": 102,
-    "US": 124,
+    "US": 125,
     "DE": 2
    },
    "topics": {},
@@ -7171,7 +7171,7 @@
     "Bloomberg": 5,
     "NDTV Profit": 1,
     "Gulf Business": 1,
-    "CNN": 21,
+    "CNN": 22,
     "ynetnews": 1,
     "L'Orient Today": 1,
     "Arabian Business": 1,
@@ -7615,7 +7615,7 @@
     ],
     "CNN": [
      0,
-     21,
+     22,
      0
     ],
     "ynetnews": [
@@ -8041,16 +8041,16 @@
    }
   },
   "2026-11-09": {
-   "total": 91,
-   "news": 91,
+   "total": 93,
+   "news": 93,
    "articles": 0,
    "positive": 0,
-   "neutral": 91,
+   "neutral": 93,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 12,
-    "US": 51,
+    "GB": 13,
+    "US": 52,
     "FR": 14,
     "SA": 2,
     "HK": 2
@@ -8058,7 +8058,7 @@
    "topics": {},
    "sources": {
     "Financial Times": 12,
-    "WSJ": 41,
+    "WSJ": 42,
     "Heavy.com": 1,
     "CNN": 3,
     "France 24": 14,
@@ -8075,7 +8075,8 @@
     "chinadailyhk": 1,
     "Daily Observer": 1,
     "The Business Standard": 1,
-    "Nine.com.au": 1
+    "Nine.com.au": 1,
+    "Reuters": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -8085,7 +8086,7 @@
     ],
     "WSJ": [
      0,
-     41,
+     42,
      0
     ],
     "Heavy.com": [
@@ -8169,6 +8170,11 @@
      0
     ],
     "Nine.com.au": [
+     0,
+     1,
+     0
+    ],
+    "Reuters": [
      0,
      1,
      0
