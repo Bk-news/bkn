@@ -6342,15 +6342,15 @@
    }
   },
   "2026-11-07": {
-   "total": 492,
-   "news": 489,
+   "total": 495,
+   "news": 492,
    "articles": 3,
    "positive": 0,
-   "neutral": 492,
+   "neutral": 495,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 152,
+    "GB": 155,
     "SA": 60,
     "US": 99,
     "FR": 8,
@@ -6364,13 +6364,13 @@
     "AP News": 12,
     "Al-Monitor": 14,
     "Le Monde.fr": 6,
-    "BBC": 13,
+    "BBC": 15,
     "Nacionale": 1,
     "WSJ": 23,
     "وكالة الأنباء السعودية": 2,
     "Financial Times": 74,
     "The Arab Weekly": 1,
-    "The Guardian": 4,
+    "The Guardian": 5,
     "The New York Times": 13,
     "CNN": 30,
     "The Economist": 3,
@@ -6512,7 +6512,7 @@
     ],
     "BBC": [
      0,
-     13,
+     15,
      0
     ],
     "Nacionale": [
@@ -6542,7 +6542,7 @@
     ],
     "The Guardian": [
      0,
-     4,
+     5,
      0
     ],
     "The New York Times": [
@@ -8041,30 +8041,30 @@
    }
   },
   "2026-11-09": {
-   "total": 135,
-   "news": 134,
+   "total": 172,
+   "news": 171,
    "articles": 1,
    "positive": 0,
-   "neutral": 135,
+   "neutral": 172,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 25,
-    "US": 71,
+    "GB": 37,
+    "US": 86,
     "FR": 15,
-    "SA": 7,
+    "SA": 12,
     "HK": 3
    },
    "topics": {},
    "sources": {
-    "Financial Times": 15,
-    "WSJ": 51,
+    "Financial Times": 20,
+    "WSJ": 56,
     "Heavy.com": 1,
     "CNN": 4,
     "France 24": 14,
-    "Arab News": 7,
+    "Arab News": 13,
     "The Washington Post": 3,
-    "Al-Monitor": 6,
+    "Al-Monitor": 11,
     "AP News": 3,
     "South China Morning Post": 3,
     "The Times of India": 1,
@@ -8076,26 +8076,30 @@
     "Daily Observer": 1,
     "The Business Standard": 1,
     "Nine.com.au": 1,
-    "Reuters": 4,
+    "Reuters": 9,
     "NDTV Sports": 1,
-    "Bloomberg.com": 3,
+    "Bloomberg.com": 8,
     "UA.NEWS": 1,
-    "BBC": 3,
+    "BBC": 5,
     "The Guardian": 3,
     "Foreign Affairs": 1,
     "Le Monde.fr": 1,
     "The Week": 1,
-    "Fast Company Middle East": 1
+    "Fast Company Middle East": 1,
+    "FF News": 1,
+    "Zawya": 1,
+    "DD News": 1,
+    "The Hindu": 1
    },
    "sourceTone": {
     "Financial Times": [
      0,
-     15,
+     20,
      0
     ],
     "WSJ": [
      0,
-     51,
+     56,
      0
     ],
     "Heavy.com": [
@@ -8115,7 +8119,7 @@
     ],
     "Arab News": [
      0,
-     7,
+     13,
      0
     ],
     "The Washington Post": [
@@ -8125,7 +8129,7 @@
     ],
     "Al-Monitor": [
      0,
-     6,
+     11,
      0
     ],
     "AP News": [
@@ -8185,7 +8189,7 @@
     ],
     "Reuters": [
      0,
-     4,
+     9,
      0
     ],
     "NDTV Sports": [
@@ -8195,7 +8199,7 @@
     ],
     "Bloomberg.com": [
      0,
-     3,
+     8,
      0
     ],
     "UA.NEWS": [
@@ -8205,7 +8209,7 @@
     ],
     "BBC": [
      0,
-     3,
+     5,
      0
     ],
     "The Guardian": [
@@ -8229,6 +8233,26 @@
      0
     ],
     "Fast Company Middle East": [
+     0,
+     1,
+     0
+    ],
+    "FF News": [
+     0,
+     1,
+     0
+    ],
+    "Zawya": [
+     0,
+     1,
+     0
+    ],
+    "DD News": [
+     0,
+     1,
+     0
+    ],
+    "The Hindu": [
      0,
      1,
      0
