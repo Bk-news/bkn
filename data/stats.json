@@ -6342,15 +6342,15 @@
    }
   },
   "2026-11-07": {
-   "total": 475,
-   "news": 472,
+   "total": 476,
+   "news": 473,
    "articles": 3,
    "positive": 0,
-   "neutral": 475,
+   "neutral": 476,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 147,
+    "GB": 148,
     "SA": 60,
     "US": 87,
     "FR": 8,
@@ -6368,7 +6368,7 @@
     "Nacionale": 1,
     "WSJ": 14,
     "وكالة الأنباء السعودية": 2,
-    "Financial Times": 70,
+    "Financial Times": 71,
     "The Arab Weekly": 1,
     "The Guardian": 4,
     "The New York Times": 13,
@@ -6532,7 +6532,7 @@
     ],
     "Financial Times": [
      0,
-     70,
+     71,
      0
     ],
     "The Arab Weekly": [
@@ -7083,11 +7083,11 @@
    }
   },
   "2026-11-08": {
-   "total": 556,
-   "news": 552,
+   "total": 560,
+   "news": 556,
    "articles": 4,
    "positive": 0,
-   "neutral": 556,
+   "neutral": 560,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -7204,7 +7204,7 @@
     "www.nationpathindia.com": 1,
     "Ahram Online": 1,
     "Rediff": 1,
-    "The Jerusalem Post": 3,
+    "The Jerusalem Post": 4,
     "NewsCord": 1,
     "MMA Mania": 1,
     "BusinessLine": 1,
@@ -7252,7 +7252,10 @@
     "Qazinform": 1,
     "The Lufkin Daily News": 1,
     "Yahoo": 1,
-    "New York Post": 1
+    "New York Post": 1,
+    "The Nation (Pakistan )": 1,
+    "The Syrian Observer": 1,
+    "CNA": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -7777,7 +7780,7 @@
     ],
     "The Jerusalem Post": [
      0,
-     3,
+     4,
      0
     ],
     "NewsCord": [
@@ -8019,31 +8022,46 @@
      0,
      1,
      0
+    ],
+    "The Nation (Pakistan )": [
+     0,
+     1,
+     0
+    ],
+    "The Syrian Observer": [
+     0,
+     1,
+     0
+    ],
+    "CNA": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-09": {
-   "total": 31,
-   "news": 31,
+   "total": 66,
+   "news": 66,
    "articles": 0,
    "positive": 0,
-   "neutral": 31,
+   "neutral": 66,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 5,
-    "US": 14,
-    "FR": 4,
+    "GB": 11,
+    "US": 34,
+    "FR": 13,
     "SA": 2,
     "HK": 1
    },
    "topics": {},
    "sources": {
-    "Financial Times": 5,
-    "WSJ": 5,
+    "Financial Times": 11,
+    "WSJ": 25,
     "Heavy.com": 1,
     "CNN": 3,
-    "France 24": 4,
+    "France 24": 13,
     "Arab News": 2,
     "The Washington Post": 2,
     "Al-Monitor": 3,
@@ -8057,12 +8075,12 @@
    "sourceTone": {
     "Financial Times": [
      0,
-     5,
+     11,
      0
     ],
     "WSJ": [
      0,
-     5,
+     25,
      0
     ],
     "Heavy.com": [
@@ -8077,7 +8095,7 @@
     ],
     "France 24": [
      0,
-     4,
+     13,
      0
     ],
     "Arab News": [
