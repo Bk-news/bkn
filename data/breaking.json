@@ -1,5 +1,17 @@
 [
  {
+  "id": "19203c1f509ba9ab",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "الاتحاد الأوروبي: هجمات إيران السيبرانية تتطلب ردا قويا",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/153028",
+  "published": "2026-11-09T21:19:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-09T21:19:01.000Z"
+ },
+ {
   "id": "80545e6c368aee4b",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -94,17 +106,5 @@
   "published": "2026-11-09T20:21:02.000Z",
   "subject": "saudi",
   "added": "2026-11-09T20:21:02.000Z"
- },
- {
-  "id": "b728430c7151ea18",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "الذهب يواصل الارتفاع في المعاملات الفورية 2% إلى 4146.22 دولار للأونصة",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/153019",
-  "published": "2026-11-09T20:20:01.000Z",
-  "subject": "saudi",
-  "added": "2026-11-09T20:20:01.000Z"
  }
 ]
