@@ -8041,11 +8041,11 @@
    }
   },
   "2026-11-09": {
-   "total": 340,
-   "news": 339,
+   "total": 341,
+   "news": 340,
    "articles": 1,
    "positive": 0,
-   "neutral": 340,
+   "neutral": 341,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -8103,7 +8103,7 @@
     "The Express Tribune": 1,
     "Seoul Economic Daily": 1,
     "The Tribune": 1,
-    "Condé Nast Traveller Middle East": 1,
+    "Condé Nast Traveller Middle East": 2,
     "Khaama Press": 1,
     "https://houseofsaud.com/": 1,
     "Kurdistan24": 1,
@@ -8365,7 +8365,7 @@
     ],
     "Condé Nast Traveller Middle East": [
      0,
-     1,
+     2,
      0
     ],
     "Khaama Press": [
