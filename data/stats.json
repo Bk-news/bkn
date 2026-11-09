@@ -8041,18 +8041,18 @@
    }
   },
   "2026-11-09": {
-   "total": 601,
-   "news": 597,
+   "total": 607,
+   "news": 603,
    "articles": 4,
    "positive": 0,
-   "neutral": 601,
+   "neutral": 607,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 170,
-    "US": 210,
+    "GB": 172,
+    "US": 211,
     "FR": 23,
-    "SA": 45,
+    "SA": 46,
     "HK": 3,
     "DE": 1,
     "JP": 1
@@ -8064,11 +8064,11 @@
     "Heavy.com": 1,
     "CNN": 5,
     "France 24": 22,
-    "Arab News": 49,
+    "Arab News": 51,
     "The Washington Post": 6,
     "Al-Monitor": 38,
     "AP News": 14,
-    "South China Morning Post": 4,
+    "South China Morning Post": 5,
     "The Times of India": 1,
     "news.sbs.co.kr": 1,
     "Moomoo": 1,
@@ -8078,9 +8078,9 @@
     "Daily Observer": 1,
     "The Business Standard": 1,
     "Nine.com.au": 1,
-    "Reuters": 88,
+    "Reuters": 90,
     "NDTV Sports": 1,
-    "Bloomberg.com": 28,
+    "Bloomberg.com": 29,
     "UA.NEWS": 2,
     "BBC": 10,
     "The Guardian": 6,
@@ -8215,7 +8215,7 @@
     ],
     "Arab News": [
      0,
-     49,
+     51,
      0
     ],
     "The Washington Post": [
@@ -8235,7 +8235,7 @@
     ],
     "South China Morning Post": [
      0,
-     4,
+     5,
      0
     ],
     "The Times of India": [
@@ -8285,7 +8285,7 @@
     ],
     "Reuters": [
      0,
-     88,
+     90,
      0
     ],
     "NDTV Sports": [
@@ -8295,7 +8295,7 @@
     ],
     "Bloomberg.com": [
      0,
-     28,
+     29,
      0
     ],
     "UA.NEWS": [
