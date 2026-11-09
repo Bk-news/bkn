@@ -8041,24 +8041,24 @@
    }
   },
   "2026-11-09": {
-   "total": 326,
-   "news": 325,
+   "total": 331,
+   "news": 330,
    "articles": 1,
    "positive": 0,
-   "neutral": 326,
+   "neutral": 331,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 104,
-    "US": 118,
+    "GB": 105,
+    "US": 119,
     "FR": 15,
     "SA": 20,
     "HK": 3
    },
    "topics": {},
    "sources": {
-    "Financial Times": 56,
-    "WSJ": 80,
+    "Financial Times": 57,
+    "WSJ": 81,
     "Heavy.com": 1,
     "CNN": 4,
     "France 24": 15,
@@ -8126,17 +8126,20 @@
     "IDNFinancials": 1,
     "MEED": 1,
     "ET EnergyWorld": 1,
-    "Khaleej Times": 1
+    "Khaleej Times": 1,
+    "Business Standard": 1,
+    "Gulf Times": 1,
+    "samaa tv": 1
    },
    "sourceTone": {
     "Financial Times": [
      0,
-     56,
+     57,
      0
     ],
     "WSJ": [
      0,
-     80,
+     81,
      0
     ],
     "Heavy.com": [
@@ -8475,6 +8478,21 @@
      0
     ],
     "Khaleej Times": [
+     0,
+     1,
+     0
+    ],
+    "Business Standard": [
+     0,
+     1,
+     0
+    ],
+    "Gulf Times": [
+     0,
+     1,
+     0
+    ],
+    "samaa tv": [
      0,
      1,
      0
