@@ -6342,17 +6342,17 @@
    }
   },
   "2026-11-07": {
-   "total": 485,
-   "news": 482,
+   "total": 486,
+   "news": 483,
    "articles": 3,
    "positive": 0,
-   "neutral": 485,
+   "neutral": 486,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 148,
     "SA": 60,
-    "US": 96,
+    "US": 97,
     "FR": 8,
     "HK": 1
    },
@@ -6366,7 +6366,7 @@
     "Le Monde.fr": 6,
     "BBC": 13,
     "Nacionale": 1,
-    "WSJ": 22,
+    "WSJ": 23,
     "وكالة الأنباء السعودية": 2,
     "Financial Times": 71,
     "The Arab Weekly": 1,
@@ -6522,7 +6522,7 @@
     ],
     "WSJ": [
      0,
-     22,
+     23,
      0
     ],
     "وكالة الأنباء السعودية": [
@@ -8041,11 +8041,11 @@
    }
   },
   "2026-11-09": {
-   "total": 87,
-   "news": 87,
+   "total": 89,
+   "news": 89,
    "articles": 0,
    "positive": 0,
-   "neutral": 87,
+   "neutral": 89,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -8073,7 +8073,9 @@
     "Cageside Seats": 1,
     "Sherdog": 1,
     "chinadailyhk": 1,
-    "Daily Observer": 1
+    "Daily Observer": 1,
+    "The Business Standard": 1,
+    "Nine.com.au": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -8157,6 +8159,16 @@
      0
     ],
     "Daily Observer": [
+     0,
+     1,
+     0
+    ],
+    "The Business Standard": [
+     0,
+     1,
+     0
+    ],
+    "Nine.com.au": [
      0,
      1,
      0

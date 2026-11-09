@@ -9167,6 +9167,27 @@
    "mt": true
   },
   {
+   "id": "2fd7003776e613e2",
+   "origin": "rss",
+   "source": "WSJ",
+   "author": "",
+   "title_ar": "رأي | فلفل...وملح",
+   "title_orig": "Opinion | Pepper…and Salt",
+   "title_en": "Opinion | Pepper…and Salt",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fTFJRTzJmcVREekxBcTYtSzVPVUtQZFhzWXI5a0d1c3BlcERwTVZmVGNuQUxoOXFleFNxNHIwMWtUdkx0cXlYaEpLaVVIQ3gyVkh4N1UtM0VBVXhyYmhrMQ?oc=5",
+   "published": "2026-11-07T05:00:00.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "Opinion | Pepper…and Salt &nbsp;&nbsp; WSJ",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "216d5fb54f7be663",
    "origin": "rss",
    "source": "AP News",
