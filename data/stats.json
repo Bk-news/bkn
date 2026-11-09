@@ -8041,11 +8041,11 @@
    }
   },
   "2026-11-09": {
-   "total": 578,
-   "news": 574,
+   "total": 601,
+   "news": 597,
    "articles": 4,
    "positive": 0,
-   "neutral": 578,
+   "neutral": 601,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -8064,7 +8064,7 @@
     "Heavy.com": 1,
     "CNN": 5,
     "France 24": 22,
-    "Arab News": 47,
+    "Arab News": 49,
     "The Washington Post": 6,
     "Al-Monitor": 38,
     "AP News": 14,
@@ -8080,8 +8080,8 @@
     "Nine.com.au": 1,
     "Reuters": 88,
     "NDTV Sports": 1,
-    "Bloomberg.com": 27,
-    "UA.NEWS": 1,
+    "Bloomberg.com": 28,
+    "UA.NEWS": 2,
     "BBC": 10,
     "The Guardian": 6,
     "Foreign Affairs": 1,
@@ -8094,7 +8094,7 @@
     "The Hindu": 1,
     "Saudi Gazette": 7,
     "L'Orient Today": 1,
-    "The National": 1,
+    "The National": 2,
     "Intelligent CISO": 1,
     "Yeni Şafak English": 2,
     "City AM": 1,
@@ -8107,7 +8107,7 @@
     "The Tribune": 1,
     "Condé Nast Traveller Middle East": 2,
     "Khaama Press": 1,
-    "https://houseofsaud.com/": 2,
+    "https://houseofsaud.com/": 3,
     "Kurdistan24": 1,
     "سانا": 1,
     "Channels Television": 1,
@@ -8123,7 +8123,7 @@
     "Hotelier Middle East": 1,
     "FashionNetwork - The World's Fashion Business News": 1,
     "TechNode": 1,
-    "Gulf News": 2,
+    "Gulf News": 3,
     "Table.Briefings": 1,
     "IDNFinancials": 1,
     "MEED": 1,
@@ -8170,7 +8170,22 @@
     "MMA Mania": 1,
     "Dawn": 1,
     "IndexBox": 1,
-    "Ocean News & Technology": 1
+    "Ocean News & Technology": 1,
+    "Gulf Business": 1,
+    "Oz Arab Media": 1,
+    "Bloody Elbow": 1,
+    "PR Newswire": 1,
+    "Investing.com": 1,
+    "The Media Line": 1,
+    "Yahoo Sports": 1,
+    "Al Jazeera": 1,
+    "TechAfrica News": 2,
+    "The Globe and Mail": 1,
+    "HITC": 1,
+    "Business Insider Africa": 1,
+    "The New Arab": 1,
+    "Scottish Financial News": 1,
+    "کردپرس": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -8200,7 +8215,7 @@
     ],
     "Arab News": [
      0,
-     47,
+     49,
      0
     ],
     "The Washington Post": [
@@ -8280,12 +8295,12 @@
     ],
     "Bloomberg.com": [
      0,
-     27,
+     28,
      0
     ],
     "UA.NEWS": [
      0,
-     1,
+     2,
      0
     ],
     "BBC": [
@@ -8350,7 +8365,7 @@
     ],
     "The National": [
      0,
-     1,
+     2,
      0
     ],
     "Intelligent CISO": [
@@ -8415,7 +8430,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     2,
+     3,
      0
     ],
     "Kurdistan24": [
@@ -8495,7 +8510,7 @@
     ],
     "Gulf News": [
      0,
-     2,
+     3,
      0
     ],
     "Table.Briefings": [
@@ -8729,6 +8744,81 @@
      0
     ],
     "Ocean News & Technology": [
+     0,
+     1,
+     0
+    ],
+    "Gulf Business": [
+     0,
+     1,
+     0
+    ],
+    "Oz Arab Media": [
+     0,
+     1,
+     0
+    ],
+    "Bloody Elbow": [
+     0,
+     1,
+     0
+    ],
+    "PR Newswire": [
+     0,
+     1,
+     0
+    ],
+    "Investing.com": [
+     0,
+     1,
+     0
+    ],
+    "The Media Line": [
+     0,
+     1,
+     0
+    ],
+    "Yahoo Sports": [
+     0,
+     1,
+     0
+    ],
+    "Al Jazeera": [
+     0,
+     1,
+     0
+    ],
+    "TechAfrica News": [
+     0,
+     2,
+     0
+    ],
+    "The Globe and Mail": [
+     0,
+     1,
+     0
+    ],
+    "HITC": [
+     0,
+     1,
+     0
+    ],
+    "Business Insider Africa": [
+     0,
+     1,
+     0
+    ],
+    "The New Arab": [
+     0,
+     1,
+     0
+    ],
+    "Scottish Financial News": [
+     0,
+     1,
+     0
+    ],
+    "کردپرس": [
      0,
      1,
      0
