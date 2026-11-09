@@ -8041,11 +8041,11 @@
    }
   },
   "2026-11-09": {
-   "total": 100,
-   "news": 100,
+   "total": 101,
+   "news": 101,
    "articles": 0,
    "positive": 0,
-   "neutral": 100,
+   "neutral": 101,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -8076,7 +8076,8 @@
     "Daily Observer": 1,
     "The Business Standard": 1,
     "Nine.com.au": 1,
-    "Reuters": 1
+    "Reuters": 1,
+    "NDTV Sports": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -8175,6 +8176,11 @@
      0
     ],
     "Reuters": [
+     0,
+     1,
+     0
+    ],
+    "NDTV Sports": [
      0,
      1,
      0
