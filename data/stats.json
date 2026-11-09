@@ -8041,15 +8041,15 @@
    }
   },
   "2026-11-09": {
-   "total": 74,
-   "news": 74,
+   "total": 76,
+   "news": 76,
    "articles": 0,
    "positive": 0,
-   "neutral": 74,
+   "neutral": 76,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 11,
+    "GB": 12,
     "US": 42,
     "FR": 13,
     "SA": 2,
@@ -8057,7 +8057,7 @@
    },
    "topics": {},
    "sources": {
-    "Financial Times": 11,
+    "Financial Times": 12,
     "WSJ": 32,
     "Heavy.com": 1,
     "CNN": 3,
@@ -8070,12 +8070,13 @@
     "The Times of India": 1,
     "news.sbs.co.kr": 1,
     "Moomoo": 1,
-    "Cageside Seats": 1
+    "Cageside Seats": 1,
+    "Sherdog": 1
    },
    "sourceTone": {
     "Financial Times": [
      0,
-     11,
+     12,
      0
     ],
     "WSJ": [
@@ -8139,6 +8140,11 @@
      0
     ],
     "Cageside Seats": [
+     0,
+     1,
+     0
+    ],
+    "Sherdog": [
      0,
      1,
      0
