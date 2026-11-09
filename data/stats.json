@@ -8041,15 +8041,15 @@
    }
   },
   "2026-11-09": {
-   "total": 631,
-   "news": 627,
+   "total": 633,
+   "news": 629,
    "articles": 4,
    "positive": 0,
-   "neutral": 631,
+   "neutral": 633,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 181,
+    "GB": 182,
     "US": 217,
     "FR": 23,
     "SA": 48,
@@ -8078,7 +8078,7 @@
     "Daily Observer": 1,
     "The Business Standard": 1,
     "Nine.com.au": 1,
-    "Reuters": 97,
+    "Reuters": 98,
     "NDTV Sports": 1,
     "Bloomberg.com": 33,
     "UA.NEWS": 2,
@@ -8186,7 +8186,8 @@
     "The New Arab": 1,
     "Scottish Financial News": 1,
     "کردپرس": 1,
-    "The News Pakistan": 2
+    "The News Pakistan": 2,
+    "Rudaw": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -8286,7 +8287,7 @@
     ],
     "Reuters": [
      0,
-     97,
+     98,
      0
     ],
     "NDTV Sports": [
@@ -8827,6 +8828,11 @@
     "The News Pakistan": [
      0,
      2,
+     0
+    ],
+    "Rudaw": [
+     0,
+     1,
      0
     ]
    }
