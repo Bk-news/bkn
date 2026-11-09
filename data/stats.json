@@ -8041,11 +8041,11 @@
    }
   },
   "2026-11-09": {
-   "total": 626,
-   "news": 622,
+   "total": 627,
+   "news": 623,
    "articles": 4,
    "positive": 0,
-   "neutral": 626,
+   "neutral": 627,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -8186,7 +8186,7 @@
     "The New Arab": 1,
     "Scottish Financial News": 1,
     "کردپرس": 1,
-    "The News Pakistan": 1
+    "The News Pakistan": 2
    },
    "sourceTone": {
     "Financial Times": [
@@ -8826,7 +8826,7 @@
     ],
     "The News Pakistan": [
      0,
-     1,
+     2,
      0
     ]
    }
