@@ -8886,11 +8886,11 @@
    }
   },
   "2026-11-10": {
-   "total": 378,
-   "news": 374,
+   "total": 379,
+   "news": 375,
    "articles": 4,
    "positive": 0,
-   "neutral": 378,
+   "neutral": 379,
    "critical": 0,
    "mbs": 17,
    "countries": {
@@ -9004,7 +9004,8 @@
     "Funds Global MENA": 1,
     "Middle East Forum": 1,
     "ESPN": 1,
-    "Plataforma Media": 1
+    "Plataforma Media": 1,
+    "Jordan News": 1
    },
    "sourceTone": {
     "Amwaj.media": [
@@ -9513,6 +9514,11 @@
      0
     ],
     "Plataforma Media": [
+     0,
+     1,
+     0
+    ],
+    "Jordan News": [
      0,
      1,
      0
