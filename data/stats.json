@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 204,
-   "news": 203,
-   "articles": 1,
+   "total": 207,
+   "news": 205,
+   "articles": 2,
    "positive": 0,
-   "neutral": 204,
+   "neutral": 207,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "US": 69,
-    "GB": 35,
+    "US": 70,
+    "GB": 36,
     "HK": 1,
     "SA": 20,
     "FR": 2,
@@ -8929,7 +8929,7 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 1,
-    "Reuters": 24,
+    "Reuters": 25,
     "Gulf News": 2,
     "CGTN": 1,
     "Al Jazeera": 1,
@@ -8972,8 +8972,9 @@
     "EnterpriseAM": 1,
     "KRCG": 1,
     "Daily Nation": 1,
-    "Atlantic Council": 1,
-    "Fast Company Middle East": 1
+    "Atlantic Council": 2,
+    "Fast Company Middle East": 1,
+    "Morocco World News": 1
    },
    "sourceTone": {
     "Amwaj.media": [
@@ -9108,7 +9109,7 @@
     ],
     "Reuters": [
      0,
-     24,
+     25,
      0
     ],
     "Gulf News": [
@@ -9323,10 +9324,15 @@
     ],
     "Atlantic Council": [
      0,
-     1,
+     2,
      0
     ],
     "Fast Company Middle East": [
+     0,
+     1,
+     0
+    ],
+    "Morocco World News": [
      0,
      1,
      0
