@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 211,
-   "news": 209,
+   "total": 213,
+   "news": 211,
    "articles": 2,
    "positive": 0,
-   "neutral": 211,
+   "neutral": 213,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "US": 71,
-    "GB": 36,
+    "US": 72,
+    "GB": 37,
     "HK": 1,
     "SA": 21,
     "FR": 2,
@@ -8909,7 +8909,7 @@
     "Al-Monitor": 14,
     "WSJ": 14,
     "South China Morning Post": 1,
-    "Bloomberg.com": 24,
+    "Bloomberg.com": 25,
     "AP News": 7,
     "The New York Times": 9,
     "Arab News": 19,
@@ -8929,7 +8929,7 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 1,
-    "Reuters": 25,
+    "Reuters": 26,
     "Gulf News": 2,
     "CGTN": 1,
     "Al Jazeera": 1,
@@ -9011,7 +9011,7 @@
     ],
     "Bloomberg.com": [
      0,
-     24,
+     25,
      0
     ],
     "AP News": [
@@ -9111,7 +9111,7 @@
     ],
     "Reuters": [
      0,
-     25,
+     26,
      0
     ],
     "Gulf News": [
