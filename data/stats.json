@@ -7083,18 +7083,18 @@
    }
   },
   "2026-11-08": {
-   "total": 618,
-   "news": 614,
+   "total": 619,
+   "news": 615,
    "articles": 4,
    "positive": 0,
-   "neutral": 618,
+   "neutral": 619,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 81,
     "FR": 52,
     "HK": 9,
-    "GB": 120,
+    "GB": 121,
     "US": 130,
     "DE": 2
    },
@@ -7122,7 +7122,7 @@
     "Al-Monitor": 21,
     "The Washington Post": 2,
     "BBC": 13,
-    "Financial Times": 48,
+    "Financial Times": 49,
     "The Guardian": 3,
     "Arab News PK": 3,
     "Khaama Press": 1,
@@ -7370,7 +7370,7 @@
     ],
     "Financial Times": [
      0,
-     48,
+     49,
      0
     ],
     "The Guardian": [
@@ -8041,33 +8041,33 @@
    }
   },
   "2026-11-09": {
-   "total": 647,
-   "news": 643,
-   "articles": 4,
+   "total": 664,
+   "news": 659,
+   "articles": 5,
    "positive": 0,
-   "neutral": 647,
+   "neutral": 664,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 186,
-    "US": 219,
-    "FR": 23,
-    "SA": 52,
+    "GB": 191,
+    "US": 225,
+    "FR": 25,
+    "SA": 56,
     "HK": 3,
     "DE": 1,
     "JP": 1
    },
    "topics": {},
    "sources": {
-    "Financial Times": 72,
+    "Financial Times": 73,
     "WSJ": 112,
     "Heavy.com": 1,
-    "CNN": 5,
-    "France 24": 22,
-    "Arab News": 57,
-    "The Washington Post": 6,
-    "Al-Monitor": 40,
-    "AP News": 15,
+    "CNN": 6,
+    "France 24": 23,
+    "Arab News": 58,
+    "The Washington Post": 7,
+    "Al-Monitor": 41,
+    "AP News": 16,
     "South China Morning Post": 5,
     "The Times of India": 1,
     "news.sbs.co.kr": 1,
@@ -8078,21 +8078,21 @@
     "Daily Observer": 1,
     "The Business Standard": 1,
     "Nine.com.au": 1,
-    "Reuters": 101,
+    "Reuters": 104,
     "NDTV Sports": 1,
     "Bloomberg.com": 33,
     "UA.NEWS": 3,
     "BBC": 10,
-    "The Guardian": 6,
+    "The Guardian": 7,
     "Foreign Affairs": 1,
-    "Le Monde.fr": 2,
+    "Le Monde.fr": 3,
     "The Week": 1,
     "Fast Company Middle East": 1,
     "FF News": 1,
     "Zawya": 2,
     "DD News": 1,
     "The Hindu": 1,
-    "Saudi Gazette": 8,
+    "Saudi Gazette": 11,
     "L'Orient Today": 1,
     "The National": 2,
     "Intelligent CISO": 1,
@@ -8135,8 +8135,8 @@
     "Bloomberg": 1,
     "The Jerusalem Post": 3,
     "Spiegel": 1,
-    "Atlantic Council": 3,
-    "The New York Times": 7,
+    "Atlantic Council": 4,
+    "The New York Times": 8,
     "Hindustan Times": 1,
     "The Straits Times": 1,
     "The Arab Weekly": 1,
@@ -8194,7 +8194,7 @@
    "sourceTone": {
     "Financial Times": [
      0,
-     72,
+     73,
      0
     ],
     "WSJ": [
@@ -8209,32 +8209,32 @@
     ],
     "CNN": [
      0,
-     5,
+     6,
      0
     ],
     "France 24": [
      0,
-     22,
+     23,
      0
     ],
     "Arab News": [
      0,
-     57,
+     58,
      0
     ],
     "The Washington Post": [
      0,
-     6,
+     7,
      0
     ],
     "Al-Monitor": [
      0,
-     40,
+     41,
      0
     ],
     "AP News": [
      0,
-     15,
+     16,
      0
     ],
     "South China Morning Post": [
@@ -8289,7 +8289,7 @@
     ],
     "Reuters": [
      0,
-     101,
+     104,
      0
     ],
     "NDTV Sports": [
@@ -8314,7 +8314,7 @@
     ],
     "The Guardian": [
      0,
-     6,
+     7,
      0
     ],
     "Foreign Affairs": [
@@ -8324,7 +8324,7 @@
     ],
     "Le Monde.fr": [
      0,
-     2,
+     3,
      0
     ],
     "The Week": [
@@ -8359,7 +8359,7 @@
     ],
     "Saudi Gazette": [
      0,
-     8,
+     11,
      0
     ],
     "L'Orient Today": [
@@ -8574,12 +8574,12 @@
     ],
     "Atlantic Council": [
      0,
-     3,
+     4,
      0
     ],
     "The New York Times": [
      0,
-     7,
+     8,
      0
     ],
     "Hindustan Times": [
@@ -8843,6 +8843,104 @@
      0
     ],
     "CNBC": [
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "2026-11-10": {
+   "total": 22,
+   "news": 22,
+   "articles": 0,
+   "positive": 0,
+   "neutral": 22,
+   "critical": 0,
+   "mbs": 0,
+   "countries": {
+    "US": 14,
+    "GB": 1,
+    "HK": 1,
+    "SA": 2
+   },
+   "topics": {},
+   "sources": {
+    "Amwaj.media": 1,
+    "The Washington Post": 1,
+    "BBC": 1,
+    "Al-Monitor": 3,
+    "WSJ": 3,
+    "South China Morning Post": 1,
+    "Bloomberg.com": 3,
+    "AP News": 2,
+    "The New York Times": 2,
+    "Arab News": 2,
+    "UA.NEWS": 1,
+    "Investing.com": 1,
+    "The National": 1
+   },
+   "sourceTone": {
+    "Amwaj.media": [
+     0,
+     1,
+     0
+    ],
+    "The Washington Post": [
+     0,
+     1,
+     0
+    ],
+    "BBC": [
+     0,
+     1,
+     0
+    ],
+    "Al-Monitor": [
+     0,
+     3,
+     0
+    ],
+    "WSJ": [
+     0,
+     3,
+     0
+    ],
+    "South China Morning Post": [
+     0,
+     1,
+     0
+    ],
+    "Bloomberg.com": [
+     0,
+     3,
+     0
+    ],
+    "AP News": [
+     0,
+     2,
+     0
+    ],
+    "The New York Times": [
+     0,
+     2,
+     0
+    ],
+    "Arab News": [
+     0,
+     2,
+     0
+    ],
+    "UA.NEWS": [
+     0,
+     1,
+     0
+    ],
+    "Investing.com": [
+     0,
+     1,
+     0
+    ],
+    "The National": [
      0,
      1,
      0

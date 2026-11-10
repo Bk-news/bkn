@@ -1,110 +1,38 @@
 [
  {
-  "id": "70409603f8d71720",
+  "id": "16abc467d10c8ef6",
   "origin": "telegram",
   "source": "العربية عاجل",
   "country": "SA",
-  "title_ar": "ترمب: إيران تتحدث معنا بأدب شديد وهناك فرصة لإنهاء الأمر",
+  "title_ar": "لافروف: روسيا زودت أوروبا بموارد طاقة بقيمة 320 مليار دولار منذ 2022",
   "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/153032",
-  "published": "2026-11-09T21:48:02.000Z",
+  "url": "https://t.me/alarabiyaBr/153054",
+  "published": "2026-11-10T02:54:01.000Z",
   "subject": "saudi",
-  "added": "2026-11-09T21:48:02.000Z"
+  "added": "2026-11-10T02:54:01.000Z"
  },
  {
-  "id": "3550ce10edbcd877",
+  "id": "fcb62628b928a18f",
   "origin": "telegram",
   "source": "العربية عاجل",
   "country": "SA",
-  "title_ar": "ترمب: نشهد زخما نحو إنهاء الصراع مع إيران",
+  "title_ar": "لافروف: اتفاق الديزل مع أميركا يؤتي ثماره والأسعار تنخفض",
   "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/153031",
-  "published": "2026-11-09T21:47:01.000Z",
+  "url": "https://t.me/alarabiyaBr/153053",
+  "published": "2026-11-10T02:53:01.000Z",
   "subject": "saudi",
-  "added": "2026-11-09T21:47:01.000Z"
+  "added": "2026-11-10T02:53:01.000Z"
  },
  {
-  "id": "19c94980041fd2b7",
+  "id": "8328fd7a066f1991",
   "origin": "telegram",
   "source": "العربية عاجل",
   "country": "SA",
-  "title_ar": "ترمب عن إيران: العمل العسكري لا يبدو ضروريا",
+  "title_ar": "مايك جونسون: لن أسعى إلى قيادة الأقلية الجمهورية في مجلس النواب",
   "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/153030",
-  "published": "2026-11-09T21:46:01.000Z",
+  "url": "https://t.me/alarabiyaBr/153052",
+  "published": "2026-11-10T02:27:02.000Z",
   "subject": "saudi",
-  "added": "2026-11-09T21:46:01.000Z"
- },
- {
-  "id": "cc7eb291eac86ee4",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "ترمب: أجريت حوارا ممتازا مع رئيس وزراء قطر",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/153029",
-  "published": "2026-11-09T21:33:01.000Z",
-  "subject": "saudi",
-  "added": "2026-11-09T21:33:01.000Z"
- },
- {
-  "id": "19203c1f509ba9ab",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "الاتحاد الأوروبي: هجمات إيران السيبرانية تتطلب ردا قويا",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/153028",
-  "published": "2026-11-09T21:19:01.000Z",
-  "subject": "saudi",
-  "added": "2026-11-09T21:19:01.000Z"
- },
- {
-  "id": "80545e6c368aee4b",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "ترمب بشأن إيران: سنرى إلى أين ستؤول الأمور وأنا مستعد",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/153027",
-  "published": "2026-11-09T20:57:01.000Z",
-  "subject": "saudi",
-  "added": "2026-11-09T20:57:01.000Z"
- },
- {
-  "id": "ad5d210c01e19883",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "ترمب: لست في عجلة لاستئناف الضربات على إيران",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/153026",
-  "published": "2026-11-09T20:56:01.000Z",
-  "subject": "saudi",
-  "added": "2026-11-09T20:56:01.000Z"
- },
- {
-  "id": "583b32cc7372a5d9",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "رئيس وزراء كندا يؤكد تضامن بلاده مع السعودية في مواجهة كل ما يهدد أمنها",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/153025",
-  "published": "2026-11-09T20:51:01.000Z",
-  "subject": "saudi",
-  "added": "2026-11-09T20:51:01.000Z"
- },
- {
-  "id": "582c2671196680b6",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "رئيس وزراء كندا يعبر في اتصال هاتفي مع ولي العهد السعودي عن إدانة بلاده للاعتداءات الحوثية",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/153024",
-  "published": "2026-11-09T20:50:01.000Z",
-  "subject": "mbs",
-  "added": "2026-11-09T20:50:01.000Z"
+  "added": "2026-11-10T02:27:02.000Z"
  }
 ]
