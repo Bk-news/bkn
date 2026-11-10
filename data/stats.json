@@ -8041,16 +8041,16 @@
    }
   },
   "2026-11-09": {
-   "total": 708,
+   "total": 709,
    "news": 703,
-   "articles": 5,
+   "articles": 6,
    "positive": 0,
-   "neutral": 708,
+   "neutral": 709,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "GB": 205,
-    "US": 240,
+    "US": 241,
     "FR": 25,
     "SA": 61,
     "HK": 3,
@@ -8135,7 +8135,7 @@
     "Bloomberg": 1,
     "The Jerusalem Post": 3,
     "Spiegel": 1,
-    "Atlantic Council": 4,
+    "Atlantic Council": 5,
     "The New York Times": 9,
     "Hindustan Times": 1,
     "The Straits Times": 1,
@@ -8578,7 +8578,7 @@
     ],
     "Atlantic Council": [
      0,
-     4,
+     5,
      0
     ],
     "The New York Times": [
@@ -8874,31 +8874,33 @@
    }
   },
   "2026-11-10": {
-   "total": 54,
-   "news": 54,
+   "total": 93,
+   "news": 93,
    "articles": 0,
    "positive": 0,
-   "neutral": 54,
+   "neutral": 93,
    "critical": 0,
-   "mbs": 0,
+   "mbs": 2,
    "countries": {
-    "US": 22,
-    "GB": 7,
+    "US": 40,
+    "GB": 15,
     "HK": 1,
-    "SA": 2
+    "SA": 8,
+    "FR": 1,
+    "DE": 1
    },
    "topics": {},
    "sources": {
     "Amwaj.media": 1,
-    "The Washington Post": 1,
-    "BBC": 1,
-    "Al-Monitor": 4,
-    "WSJ": 6,
+    "The Washington Post": 3,
+    "BBC": 3,
+    "Al-Monitor": 7,
+    "WSJ": 9,
     "South China Morning Post": 1,
-    "Bloomberg.com": 7,
-    "AP News": 2,
-    "The New York Times": 2,
-    "Arab News": 2,
+    "Bloomberg.com": 10,
+    "AP News": 5,
+    "The New York Times": 5,
+    "Arab News": 5,
     "UA.NEWS": 1,
     "Investing.com": 1,
     "The National": 1,
@@ -8915,11 +8917,21 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 1,
-    "Reuters": 6,
+    "Reuters": 9,
     "Gulf News": 1,
     "CGTN": 1,
     "Al Jazeera": 1,
-    "TRT World": 1
+    "TRT World": 1,
+    "Asset Servicing Times": 1,
+    "Saudi Gazette": 3,
+    "Financial Times": 3,
+    "CNN": 1,
+    "France 24": 1,
+    "Fana News -": 1,
+    "Spiegel": 1,
+    "Al Arabiya English": 1,
+    "ASHARQ AL-AWSAT English": 1,
+    "Arabian Gulf Business Insight | AGBI": 1
    },
    "sourceTone": {
     "Amwaj.media": [
@@ -8929,22 +8941,22 @@
     ],
     "The Washington Post": [
      0,
-     1,
+     3,
      0
     ],
     "BBC": [
      0,
-     1,
+     3,
      0
     ],
     "Al-Monitor": [
      0,
-     4,
+     7,
      0
     ],
     "WSJ": [
      0,
-     6,
+     9,
      0
     ],
     "South China Morning Post": [
@@ -8954,22 +8966,22 @@
     ],
     "Bloomberg.com": [
      0,
-     7,
+     10,
      0
     ],
     "AP News": [
      0,
-     2,
+     5,
      0
     ],
     "The New York Times": [
      0,
-     2,
+     5,
      0
     ],
     "Arab News": [
      0,
-     2,
+     5,
      0
     ],
     "UA.NEWS": [
@@ -9054,7 +9066,7 @@
     ],
     "Reuters": [
      0,
-     6,
+     9,
      0
     ],
     "Gulf News": [
@@ -9073,6 +9085,56 @@
      0
     ],
     "TRT World": [
+     0,
+     1,
+     0
+    ],
+    "Asset Servicing Times": [
+     0,
+     1,
+     0
+    ],
+    "Saudi Gazette": [
+     0,
+     3,
+     0
+    ],
+    "Financial Times": [
+     0,
+     3,
+     0
+    ],
+    "CNN": [
+     0,
+     1,
+     0
+    ],
+    "France 24": [
+     0,
+     1,
+     0
+    ],
+    "Fana News -": [
+     0,
+     1,
+     0
+    ],
+    "Spiegel": [
+     0,
+     1,
+     0
+    ],
+    "Al Arabiya English": [
+     0,
+     1,
+     0
+    ],
+    "ASHARQ AL-AWSAT English": [
+     0,
+     1,
+     0
+    ],
+    "Arabian Gulf Business Insight | AGBI": [
      0,
      1,
      0
