@@ -8886,11 +8886,11 @@
    }
   },
   "2026-11-10": {
-   "total": 384,
-   "news": 379,
+   "total": 387,
+   "news": 382,
    "articles": 5,
    "positive": 0,
-   "neutral": 384,
+   "neutral": 387,
    "critical": 0,
    "mbs": 17,
    "countries": {
@@ -8922,7 +8922,7 @@
     "The Jerusalem Post": 1,
     "Sports Illustrated": 1,
     "The Business Standard": 1,
-    "https://houseofsaud.com/": 5,
+    "https://houseofsaud.com/": 6,
     "The Maritime Executive": 1,
     "Middle East Eye": 4,
     "The Times of Israel": 2,
@@ -8941,7 +8941,7 @@
     "France 24": 4,
     "Fana News -": 1,
     "Spiegel": 3,
-    "Al Arabiya English": 3,
+    "Al Arabiya English": 4,
     "ASHARQ AL-AWSAT English": 7,
     "Arabian Gulf Business Insight | AGBI": 1,
     "Yemen Online": 3,
@@ -9005,7 +9005,8 @@
     "Middle East Forum": 1,
     "ESPN": 1,
     "Plataforma Media": 1,
-    "Jordan News": 1
+    "Jordan News": 1,
+    "Мілітарний": 1
    },
    "sourceTone": {
     "Amwaj.media": [
@@ -9105,7 +9106,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     5,
+     6,
      0
     ],
     "The Maritime Executive": [
@@ -9200,7 +9201,7 @@
     ],
     "Al Arabiya English": [
      0,
-     3,
+     4,
      0
     ],
     "ASHARQ AL-AWSAT English": [
@@ -9519,6 +9520,11 @@
      0
     ],
     "Jordan News": [
+     0,
+     1,
+     0
+    ],
+    "Мілітарний": [
      0,
      1,
      0
