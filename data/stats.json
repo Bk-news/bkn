@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 531,
-   "news": 520,
+   "total": 532,
+   "news": 521,
    "articles": 11,
    "positive": 0,
-   "neutral": 531,
+   "neutral": 532,
    "critical": 0,
    "mbs": 21,
    "countries": {
     "US": 179,
-    "GB": 86,
+    "GB": 87,
     "HK": 1,
     "SA": 72,
     "FR": 4,
@@ -8929,7 +8929,7 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 2,
-    "Reuters": 57,
+    "Reuters": 58,
     "Gulf News": 4,
     "CGTN": 1,
     "Al Jazeera": 2,
@@ -9165,7 +9165,7 @@
     ],
     "Reuters": [
      0,
-     57,
+     58,
      0
     ],
     "Gulf News": [
