@@ -8041,18 +8041,18 @@
    }
   },
   "2026-11-09": {
-   "total": 709,
-   "news": 703,
+   "total": 711,
+   "news": 705,
    "articles": 6,
    "positive": 0,
-   "neutral": 709,
+   "neutral": 711,
    "critical": 0,
-   "mbs": 2,
+   "mbs": 3,
    "countries": {
     "GB": 205,
     "US": 241,
     "FR": 25,
-    "SA": 61,
+    "SA": 62,
     "HK": 3,
     "DE": 1,
     "JP": 1
@@ -8092,7 +8092,7 @@
     "Zawya": 2,
     "DD News": 1,
     "The Hindu": 1,
-    "Saudi Gazette": 12,
+    "Saudi Gazette": 13,
     "L'Orient Today": 1,
     "The National": 2,
     "Intelligent CISO": 1,
@@ -8193,7 +8193,8 @@
     "Barron's": 1,
     "Bioengineer.org": 1,
     "Electric Vehicles": 1,
-    "India Tribune - Chicago": 1
+    "India Tribune - Chicago": 1,
+    "Awani International": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -8363,7 +8364,7 @@
     ],
     "Saudi Gazette": [
      0,
-     12,
+     13,
      0
     ],
     "L'Orient Today": [
@@ -8870,22 +8871,27 @@
      0,
      1,
      0
+    ],
+    "Awani International": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-10": {
-   "total": 93,
-   "news": 93,
+   "total": 131,
+   "news": 131,
    "articles": 0,
    "positive": 0,
-   "neutral": 93,
+   "neutral": 131,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "US": 40,
-    "GB": 15,
+    "US": 57,
+    "GB": 25,
     "HK": 1,
-    "SA": 8,
+    "SA": 14,
     "FR": 1,
     "DE": 1
    },
@@ -8894,13 +8900,13 @@
     "Amwaj.media": 1,
     "The Washington Post": 3,
     "BBC": 3,
-    "Al-Monitor": 7,
-    "WSJ": 9,
+    "Al-Monitor": 12,
+    "WSJ": 13,
     "South China Morning Post": 1,
-    "Bloomberg.com": 10,
-    "AP News": 5,
-    "The New York Times": 5,
-    "Arab News": 5,
+    "Bloomberg.com": 15,
+    "AP News": 7,
+    "The New York Times": 6,
+    "Arab News": 11,
     "UA.NEWS": 1,
     "Investing.com": 1,
     "The National": 1,
@@ -8917,21 +8923,24 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 1,
-    "Reuters": 9,
+    "Reuters": 15,
     "Gulf News": 1,
     "CGTN": 1,
     "Al Jazeera": 1,
     "TRT World": 1,
     "Asset Servicing Times": 1,
-    "Saudi Gazette": 3,
-    "Financial Times": 3,
+    "Saudi Gazette": 4,
+    "Financial Times": 8,
     "CNN": 1,
     "France 24": 1,
     "Fana News -": 1,
     "Spiegel": 1,
     "Al Arabiya English": 1,
     "ASHARQ AL-AWSAT English": 1,
-    "Arabian Gulf Business Insight | AGBI": 1
+    "Arabian Gulf Business Insight | AGBI": 1,
+    "Yemen Online": 1,
+    "Global Custodian": 1,
+    "Finimize": 1
    },
    "sourceTone": {
     "Amwaj.media": [
@@ -8951,12 +8960,12 @@
     ],
     "Al-Monitor": [
      0,
-     7,
+     12,
      0
     ],
     "WSJ": [
      0,
-     9,
+     13,
      0
     ],
     "South China Morning Post": [
@@ -8966,22 +8975,22 @@
     ],
     "Bloomberg.com": [
      0,
-     10,
+     15,
      0
     ],
     "AP News": [
      0,
-     5,
+     7,
      0
     ],
     "The New York Times": [
      0,
-     5,
+     6,
      0
     ],
     "Arab News": [
      0,
-     5,
+     11,
      0
     ],
     "UA.NEWS": [
@@ -9066,7 +9075,7 @@
     ],
     "Reuters": [
      0,
-     9,
+     15,
      0
     ],
     "Gulf News": [
@@ -9096,12 +9105,12 @@
     ],
     "Saudi Gazette": [
      0,
-     3,
+     4,
      0
     ],
     "Financial Times": [
      0,
-     3,
+     8,
      0
     ],
     "CNN": [
@@ -9135,6 +9144,21 @@
      0
     ],
     "Arabian Gulf Business Insight | AGBI": [
+     0,
+     1,
+     0
+    ],
+    "Yemen Online": [
+     0,
+     1,
+     0
+    ],
+    "Global Custodian": [
+     0,
+     1,
+     0
+    ],
+    "Finimize": [
      0,
      1,
      0
