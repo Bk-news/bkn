@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 527,
-   "news": 516,
+   "total": 531,
+   "news": 520,
    "articles": 11,
    "positive": 0,
-   "neutral": 527,
+   "neutral": 531,
    "critical": 0,
    "mbs": 21,
    "countries": {
     "US": 179,
-    "GB": 83,
+    "GB": 86,
     "HK": 1,
     "SA": 72,
     "FR": 4,
@@ -8936,7 +8936,7 @@
     "TRT World": 1,
     "Asset Servicing Times": 1,
     "Saudi Gazette": 14,
-    "Financial Times": 12,
+    "Financial Times": 15,
     "CNN": 2,
     "France 24": 4,
     "Fana News -": 1,
@@ -9029,7 +9029,8 @@
     "Palestine Chronicle": 1,
     "وكالة خبر للأنباء": 1,
     "Yahoo Finance": 1,
-    "The Arab Weekly": 1
+    "The Arab Weekly": 1,
+    "IGN": 1
    },
    "sourceTone": {
     "Amwaj.media": [
@@ -9199,7 +9200,7 @@
     ],
     "Financial Times": [
      0,
-     12,
+     15,
      0
     ],
     "CNN": [
@@ -9663,6 +9664,11 @@
      0
     ],
     "The Arab Weekly": [
+     0,
+     1,
+     0
+    ],
+    "IGN": [
      0,
      1,
      0
