@@ -2,6 +2,27 @@
  "day": "2026-11-10",
  "items": [
   {
+   "id": "dc195ea86ae91932",
+   "origin": "rss",
+   "source": "TRT World",
+   "author": "",
+   "title_ar": "التحالف يقول إن ميليشيا الحوثي تستهدف السعودية بثلاثة صواريخ اثنان منها يستهدف العاصمة",
+   "title_orig": "Houthi militia target Saudi Arabia with three missiles, two aimed at capital, coalition says",
+   "title_en": "Houthi militia target Saudi Arabia with three missiles, two aimed at capital, coalition says",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWOGtzd0tEalNyWWo0dXFRc2pnLWJ2bHBUSHJGN3daYy1nek5FS2RsbGRpaHQ5cmVHRUNJc1FhQU5qRUtTTG9OLUJLWkhsUWN0ell2M0ZtajE?oc=5",
+   "published": "2026-11-10T03:33:52.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "",
+   "pending": true,
+   "desc": "Houthi militia target Saudi Arabia with three missiles, two aimed at capital, coalition says &nbsp;&nbsp; TRT World",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "7dc59b30e27fb4e2",
    "origin": "rss",
    "source": "Al Jazeera",

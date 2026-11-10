@@ -8874,11 +8874,11 @@
    }
   },
   "2026-11-10": {
-   "total": 51,
-   "news": 51,
+   "total": 52,
+   "news": 52,
    "articles": 0,
    "positive": 0,
-   "neutral": 51,
+   "neutral": 52,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -8918,7 +8918,8 @@
     "Reuters": 4,
     "Gulf News": 1,
     "CGTN": 1,
-    "Al Jazeera": 1
+    "Al Jazeera": 1,
+    "TRT World": 1
    },
    "sourceTone": {
     "Amwaj.media": [
@@ -9067,6 +9068,11 @@
      0
     ],
     "Al Jazeera": [
+     0,
+     1,
+     0
+    ],
+    "TRT World": [
      0,
      1,
      0
