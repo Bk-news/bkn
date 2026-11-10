@@ -8886,15 +8886,15 @@
    }
   },
   "2026-11-10": {
-   "total": 208,
-   "news": 206,
+   "total": 210,
+   "news": 208,
    "articles": 2,
    "positive": 0,
-   "neutral": 208,
+   "neutral": 210,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "US": 70,
+    "US": 71,
     "GB": 36,
     "HK": 1,
     "SA": 20,
@@ -8911,7 +8911,7 @@
     "South China Morning Post": 1,
     "Bloomberg.com": 24,
     "AP News": 7,
-    "The New York Times": 8,
+    "The New York Times": 9,
     "Arab News": 18,
     "UA.NEWS": 2,
     "Investing.com": 1,
@@ -8975,7 +8975,8 @@
     "Atlantic Council": 2,
     "Fast Company Middle East": 1,
     "Morocco World News": 1,
-    "talkSPORT": 1
+    "talkSPORT": 1,
+    "Crude Oil Prices Today | OilPrice.com": 1
    },
    "sourceTone": {
     "Amwaj.media": [
@@ -9020,7 +9021,7 @@
     ],
     "The New York Times": [
      0,
-     8,
+     9,
      0
     ],
     "Arab News": [
@@ -9339,6 +9340,11 @@
      0
     ],
     "talkSPORT": [
+     0,
+     1,
+     0
+    ],
+    "Crude Oil Prices Today | OilPrice.com": [
      0,
      1,
      0
