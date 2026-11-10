@@ -8886,11 +8886,11 @@
    }
   },
   "2026-11-10": {
-   "total": 207,
-   "news": 205,
+   "total": 208,
+   "news": 206,
    "articles": 2,
    "positive": 0,
-   "neutral": 207,
+   "neutral": 208,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -8974,7 +8974,8 @@
     "Daily Nation": 1,
     "Atlantic Council": 2,
     "Fast Company Middle East": 1,
-    "Morocco World News": 1
+    "Morocco World News": 1,
+    "talkSPORT": 1
    },
    "sourceTone": {
     "Amwaj.media": [
@@ -9333,6 +9334,11 @@
      0
     ],
     "Morocco World News": [
+     0,
+     1,
+     0
+    ],
+    "talkSPORT": [
      0,
      1,
      0
