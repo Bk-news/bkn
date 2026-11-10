@@ -8886,15 +8886,15 @@
    }
   },
   "2026-11-10": {
-   "total": 189,
-   "news": 189,
-   "articles": 0,
+   "total": 193,
+   "news": 192,
+   "articles": 1,
    "positive": 0,
-   "neutral": 189,
+   "neutral": 193,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "US": 64,
+    "US": 66,
     "GB": 33,
     "HK": 1,
     "SA": 18,
@@ -8907,7 +8907,7 @@
     "The Washington Post": 3,
     "BBC": 3,
     "Al-Monitor": 14,
-    "WSJ": 13,
+    "WSJ": 14,
     "South China Morning Post": 1,
     "Bloomberg.com": 21,
     "AP News": 7,
@@ -8949,7 +8949,7 @@
     "Finimize": 1,
     "Telecompaper": 1,
     "Yabiladi.com": 1,
-    "Zawya": 1,
+    "Zawya": 2,
     "سانا": 1,
     "www.nationpathindia.com": 1,
     "MEED": 1,
@@ -8971,7 +8971,9 @@
     "Modern Diplomacy": 2,
     "EnterpriseAM": 1,
     "KRCG": 1,
-    "Daily Nation": 1
+    "Daily Nation": 1,
+    "Atlantic Council": 1,
+    "Fast Company Middle East": 1
    },
    "sourceTone": {
     "Amwaj.media": [
@@ -8996,7 +8998,7 @@
     ],
     "WSJ": [
      0,
-     13,
+     14,
      0
     ],
     "South China Morning Post": [
@@ -9206,7 +9208,7 @@
     ],
     "Zawya": [
      0,
-     1,
+     2,
      0
     ],
     "سانا": [
@@ -9315,6 +9317,16 @@
      0
     ],
     "Daily Nation": [
+     0,
+     1,
+     0
+    ],
+    "Atlantic Council": [
+     0,
+     1,
+     0
+    ],
+    "Fast Company Middle East": [
      0,
      1,
      0
