@@ -8886,18 +8886,18 @@
    }
   },
   "2026-11-10": {
-   "total": 393,
-   "news": 388,
+   "total": 395,
+   "news": 390,
    "articles": 5,
    "positive": 0,
-   "neutral": 393,
+   "neutral": 395,
    "critical": 0,
    "mbs": 18,
    "countries": {
     "US": 134,
     "GB": 68,
     "HK": 1,
-    "SA": 40,
+    "SA": 41,
     "FR": 4,
     "DE": 3
    },
@@ -8912,7 +8912,7 @@
     "Bloomberg.com": 36,
     "AP News": 13,
     "The New York Times": 17,
-    "Arab News": 40,
+    "Arab News": 41,
     "UA.NEWS": 2,
     "Investing.com": 2,
     "The National": 3,
@@ -9006,7 +9006,8 @@
     "ESPN": 1,
     "Plataforma Media": 1,
     "Jordan News": 1,
-    "Мілітарний": 1
+    "Мілітарний": 1,
+    "صحيفة مال": 1
    },
    "sourceTone": {
     "Amwaj.media": [
@@ -9056,7 +9057,7 @@
     ],
     "Arab News": [
      0,
-     40,
+     41,
      0
     ],
     "UA.NEWS": [
@@ -9525,6 +9526,11 @@
      0
     ],
     "Мілітарний": [
+     0,
+     1,
+     0
+    ],
+    "صحيفة مال": [
      0,
      1,
      0
