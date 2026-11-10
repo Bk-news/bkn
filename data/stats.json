@@ -8886,15 +8886,15 @@
    }
   },
   "2026-11-10": {
-   "total": 404,
-   "news": 398,
+   "total": 408,
+   "news": 402,
    "articles": 6,
    "positive": 0,
-   "neutral": 404,
+   "neutral": 408,
    "critical": 0,
-   "mbs": 18,
+   "mbs": 20,
    "countries": {
-    "US": 139,
+    "US": 140,
     "GB": 69,
     "HK": 1,
     "SA": 42,
@@ -8907,7 +8907,7 @@
     "The Washington Post": 6,
     "BBC": 9,
     "Al-Monitor": 39,
-    "WSJ": 26,
+    "WSJ": 27,
     "South China Morning Post": 1,
     "Bloomberg.com": 37,
     "AP News": 13,
@@ -9008,7 +9008,10 @@
     "Jordan News": 1,
     "Мілітарний": 1,
     "صحيفة مال": 1,
-    "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1
+    "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
+    "Qatar news agency": 1,
+    "A News": 1,
+    "News On AIR": 1
    },
    "sourceTone": {
     "Amwaj.media": [
@@ -9033,7 +9036,7 @@
     ],
     "WSJ": [
      0,
-     26,
+     27,
      0
     ],
     "South China Morning Post": [
@@ -9537,6 +9540,21 @@
      0
     ],
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
+     0,
+     1,
+     0
+    ],
+    "Qatar news agency": [
+     0,
+     1,
+     0
+    ],
+    "A News": [
+     0,
+     1,
+     0
+    ],
+    "News On AIR": [
      0,
      1,
      0
