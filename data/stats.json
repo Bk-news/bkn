@@ -8886,15 +8886,15 @@
    }
   },
   "2026-11-10": {
-   "total": 533,
-   "news": 522,
+   "total": 535,
+   "news": 524,
    "articles": 11,
    "positive": 0,
-   "neutral": 533,
+   "neutral": 535,
    "critical": 0,
    "mbs": 21,
    "countries": {
-    "US": 180,
+    "US": 181,
     "GB": 87,
     "HK": 1,
     "SA": 72,
@@ -8909,7 +8909,7 @@
     "Al-Monitor": 46,
     "WSJ": 35,
     "South China Morning Post": 1,
-    "Bloomberg.com": 47,
+    "Bloomberg.com": 48,
     "AP News": 15,
     "The New York Times": 22,
     "Arab News": 70,
@@ -9030,7 +9030,8 @@
     "وكالة خبر للأنباء": 1,
     "Yahoo Finance": 1,
     "The Arab Weekly": 1,
-    "IGN": 1
+    "IGN": 1,
+    "NewsCord": 1
    },
    "sourceTone": {
     "Amwaj.media": [
@@ -9065,7 +9066,7 @@
     ],
     "Bloomberg.com": [
      0,
-     47,
+     48,
      0
     ],
     "AP News": [
@@ -9669,6 +9670,11 @@
      0
     ],
     "IGN": [
+     0,
+     1,
+     0
+    ],
+    "NewsCord": [
      0,
      1,
      0
