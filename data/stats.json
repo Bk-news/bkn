@@ -8886,15 +8886,15 @@
    }
   },
   "2026-11-10": {
-   "total": 383,
+   "total": 384,
    "news": 379,
-   "articles": 4,
+   "articles": 5,
    "positive": 0,
-   "neutral": 383,
+   "neutral": 384,
    "critical": 0,
    "mbs": 17,
    "countries": {
-    "US": 132,
+    "US": 133,
     "GB": 65,
     "HK": 1,
     "SA": 39,
@@ -8972,7 +8972,7 @@
     "EnterpriseAM": 1,
     "KRCG": 1,
     "Daily Nation": 1,
-    "Atlantic Council": 3,
+    "Atlantic Council": 4,
     "Fast Company Middle East": 1,
     "Morocco World News": 1,
     "talkSPORT": 1,
@@ -9355,7 +9355,7 @@
     ],
     "Atlantic Council": [
      0,
-     3,
+     4,
      0
     ],
     "Fast Company Middle East": [
