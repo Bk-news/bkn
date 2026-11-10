@@ -8041,15 +8041,15 @@
    }
   },
   "2026-11-09": {
-   "total": 702,
-   "news": 697,
+   "total": 703,
+   "news": 698,
    "articles": 5,
    "positive": 0,
-   "neutral": 702,
+   "neutral": 703,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "GB": 204,
+    "GB": 205,
     "US": 239,
     "FR": 25,
     "SA": 58,
@@ -8078,7 +8078,7 @@
     "Daily Observer": 1,
     "The Business Standard": 1,
     "Nine.com.au": 1,
-    "Reuters": 116,
+    "Reuters": 117,
     "NDTV Sports": 1,
     "Bloomberg.com": 40,
     "UA.NEWS": 3,
@@ -8293,7 +8293,7 @@
     ],
     "Reuters": [
      0,
-     116,
+     117,
      0
     ],
     "NDTV Sports": [
@@ -8874,16 +8874,16 @@
    }
   },
   "2026-11-10": {
-   "total": 46,
-   "news": 46,
+   "total": 48,
+   "news": 48,
    "articles": 0,
    "positive": 0,
-   "neutral": 46,
+   "neutral": 48,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 21,
-    "GB": 3,
+    "GB": 5,
     "HK": 1,
     "SA": 2
    },
@@ -8915,7 +8915,7 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 1,
-    "Reuters": 2,
+    "Reuters": 4,
     "Gulf News": 1
    },
    "sourceTone": {
@@ -9051,7 +9051,7 @@
     ],
     "Reuters": [
      0,
-     2,
+     4,
      0
     ],
     "Gulf News": [
