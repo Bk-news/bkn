@@ -8041,17 +8041,17 @@
    }
   },
   "2026-11-09": {
-   "total": 734,
-   "news": 728,
+   "total": 736,
+   "news": 730,
    "articles": 6,
    "positive": 0,
-   "neutral": 734,
+   "neutral": 736,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "GB": 215,
     "US": 245,
-    "FR": 26,
+    "FR": 28,
     "SA": 70,
     "HK": 3,
     "DE": 1,
@@ -8085,7 +8085,7 @@
     "BBC": 10,
     "The Guardian": 7,
     "Foreign Affairs": 1,
-    "Le Monde.fr": 4,
+    "Le Monde.fr": 6,
     "The Week": 1,
     "Fast Company Middle East": 1,
     "FF News": 1,
@@ -8330,7 +8330,7 @@
     ],
     "Le Monde.fr": [
      0,
-     4,
+     6,
      0
     ],
     "The Week": [
@@ -8886,33 +8886,33 @@
    }
   },
   "2026-11-10": {
-   "total": 224,
-   "news": 222,
-   "articles": 2,
+   "total": 262,
+   "news": 258,
+   "articles": 4,
    "positive": 0,
-   "neutral": 224,
+   "neutral": 262,
    "critical": 0,
-   "mbs": 2,
+   "mbs": 5,
    "countries": {
-    "US": 77,
-    "GB": 39,
+    "US": 93,
+    "GB": 47,
     "HK": 1,
-    "SA": 23,
-    "FR": 2,
-    "DE": 1
+    "SA": 27,
+    "FR": 4,
+    "DE": 3
    },
    "topics": {},
    "sources": {
     "Amwaj.media": 1,
-    "The Washington Post": 3,
-    "BBC": 5,
-    "Al-Monitor": 17,
-    "WSJ": 14,
+    "The Washington Post": 6,
+    "BBC": 7,
+    "Al-Monitor": 19,
+    "WSJ": 17,
     "South China Morning Post": 1,
-    "Bloomberg.com": 26,
-    "AP News": 7,
-    "The New York Times": 10,
-    "Arab News": 21,
+    "Bloomberg.com": 28,
+    "AP News": 9,
+    "The New York Times": 12,
+    "Arab News": 23,
     "UA.NEWS": 2,
     "Investing.com": 1,
     "The National": 1,
@@ -8929,20 +8929,20 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 1,
-    "Reuters": 26,
-    "Gulf News": 2,
+    "Reuters": 28,
+    "Gulf News": 3,
     "CGTN": 1,
     "Al Jazeera": 1,
     "TRT World": 1,
     "Asset Servicing Times": 1,
-    "Saudi Gazette": 5,
-    "Financial Times": 9,
+    "Saudi Gazette": 7,
+    "Financial Times": 11,
     "CNN": 1,
-    "France 24": 2,
+    "France 24": 4,
     "Fana News -": 1,
-    "Spiegel": 1,
-    "Al Arabiya English": 1,
-    "ASHARQ AL-AWSAT English": 3,
+    "Spiegel": 3,
+    "Al Arabiya English": 2,
+    "ASHARQ AL-AWSAT English": 4,
     "Arabian Gulf Business Insight | AGBI": 1,
     "Yemen Online": 1,
     "Global Custodian": 1,
@@ -8972,12 +8972,17 @@
     "EnterpriseAM": 1,
     "KRCG": 1,
     "Daily Nation": 1,
-    "Atlantic Council": 2,
+    "Atlantic Council": 3,
     "Fast Company Middle East": 1,
     "Morocco World News": 1,
     "talkSPORT": 1,
     "Crude Oil Prices Today | OilPrice.com": 1,
-    "Forbes Middle East": 1
+    "Forbes Middle East": 1,
+    "TV7 Israel News": 1,
+    "News of Bahrain": 1,
+    "The Guardian": 2,
+    "Foreign Policy": 1,
+    "صحيفة سبق الإلكترونية": 1
    },
    "sourceTone": {
     "Amwaj.media": [
@@ -8987,22 +8992,22 @@
     ],
     "The Washington Post": [
      0,
-     3,
+     6,
      0
     ],
     "BBC": [
      0,
-     5,
+     7,
      0
     ],
     "Al-Monitor": [
      0,
-     17,
+     19,
      0
     ],
     "WSJ": [
      0,
-     14,
+     17,
      0
     ],
     "South China Morning Post": [
@@ -9012,22 +9017,22 @@
     ],
     "Bloomberg.com": [
      0,
-     26,
+     28,
      0
     ],
     "AP News": [
      0,
-     7,
+     9,
      0
     ],
     "The New York Times": [
      0,
-     10,
+     12,
      0
     ],
     "Arab News": [
      0,
-     21,
+     23,
      0
     ],
     "UA.NEWS": [
@@ -9112,12 +9117,12 @@
     ],
     "Reuters": [
      0,
-     26,
+     28,
      0
     ],
     "Gulf News": [
      0,
-     2,
+     3,
      0
     ],
     "CGTN": [
@@ -9142,12 +9147,12 @@
     ],
     "Saudi Gazette": [
      0,
-     5,
+     7,
      0
     ],
     "Financial Times": [
      0,
-     9,
+     11,
      0
     ],
     "CNN": [
@@ -9157,7 +9162,7 @@
     ],
     "France 24": [
      0,
-     2,
+     4,
      0
     ],
     "Fana News -": [
@@ -9167,17 +9172,17 @@
     ],
     "Spiegel": [
      0,
-     1,
+     3,
      0
     ],
     "Al Arabiya English": [
      0,
-     1,
+     2,
      0
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     3,
+     4,
      0
     ],
     "Arabian Gulf Business Insight | AGBI": [
@@ -9327,7 +9332,7 @@
     ],
     "Atlantic Council": [
      0,
-     2,
+     3,
      0
     ],
     "Fast Company Middle East": [
@@ -9351,6 +9356,31 @@
      0
     ],
     "Forbes Middle East": [
+     0,
+     1,
+     0
+    ],
+    "TV7 Israel News": [
+     0,
+     1,
+     0
+    ],
+    "News of Bahrain": [
+     0,
+     1,
+     0
+    ],
+    "The Guardian": [
+     0,
+     2,
+     0
+    ],
+    "Foreign Policy": [
+     0,
+     1,
+     0
+    ],
+    "صحيفة سبق الإلكترونية": [
      0,
      1,
      0
