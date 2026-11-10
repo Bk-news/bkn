@@ -2,6 +2,27 @@
  "day": "2026-11-10",
  "items": [
   {
+   "id": "90d79a6692beee2c",
+   "origin": "rss",
+   "source": "Gulf News",
+   "author": "",
+   "title_ar": "توقعات بعواصف رعدية شديدة وسيول في أنحاء المملكة العربية السعودية حتى يوم السبت",
+   "title_orig": "Heavy thunderstorms, flash floods forecast across Saudi Arabia until Saturday",
+   "title_en": "Heavy thunderstorms, flash floods forecast across Saudi Arabia until Saturday",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVTR6bjBHaHhwSzUzV3NhODc5UzNDcU5iOXN3ZzhIeTkyMGFCTUpqWkFPYTZqVjdkWF94Z3FxdmtUN3dzTkZvNi1vSjN6d1FmMl9UMDR2ZXc0ck42Nms2bUtZelBPTGtFUHJRM3FOd2ZwTkYwRXdLaTVIVi1TYURWSWE1enM2eU01Z0VicWhmdkVnQkVNdU1paW9Lck5JS1FEUk40SXV5d3AxVXFBbHZScmFoZXMwMW5DN2J6T2FBR25XX21s0gHaAUFVX3lxTFBGb1ljMi0yZk05MmtwWi1iZXpQc2JnOTJxcDFVT2JWdXdnejlkR0J5VkJMelR4WGJEQkZycXdhWVNEaHJyNndMOWJGU1V3dkZDcmpKRVdNOG5zS2VDMkFtZ0tTLUZEQzhUZW84YnkwV3VGNXMwcVloT0NHdUNoRzhUbTNDVmxwb2cyS21VeUdnUkNlZkNUX29La3VvUzl5Zms4WF9PSW9STF9CUk9kX0RaWllmb2VfcVBMeGw4UlRKZVJaN1hkblYteXcySnEwdV9rTmlTb1FUZ0RB?oc=5",
+   "published": "2026-11-10T03:08:02.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "",
+   "pending": true,
+   "desc": "Heavy thunderstorms, flash floods forecast across Saudi Arabia until Saturday &nbsp;&nbsp; Gulf News",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "6ec530813b8dee14",
    "origin": "rss",
    "source": "WSJ",

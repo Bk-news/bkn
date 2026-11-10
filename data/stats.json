@@ -8874,11 +8874,11 @@
    }
   },
   "2026-11-10": {
-   "total": 43,
-   "news": 43,
+   "total": 44,
+   "news": 44,
    "articles": 0,
    "positive": 0,
-   "neutral": 43,
+   "neutral": 44,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -8915,7 +8915,8 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 1,
-    "Reuters": 1
+    "Reuters": 1,
+    "Gulf News": 1
    },
    "sourceTone": {
     "Amwaj.media": [
@@ -9049,6 +9050,11 @@
      0
     ],
     "Reuters": [
+     0,
+     1,
+     0
+    ],
+    "Gulf News": [
      0,
      1,
      0
