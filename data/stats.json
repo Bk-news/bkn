@@ -8041,32 +8041,32 @@
    }
   },
   "2026-11-09": {
-   "total": 711,
-   "news": 705,
+   "total": 723,
+   "news": 717,
    "articles": 6,
    "positive": 0,
-   "neutral": 711,
+   "neutral": 723,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 205,
-    "US": 241,
+    "GB": 208,
+    "US": 245,
     "FR": 25,
-    "SA": 62,
+    "SA": 67,
     "HK": 3,
     "DE": 1,
     "JP": 1
    },
    "topics": {},
    "sources": {
-    "Financial Times": 74,
-    "WSJ": 114,
+    "Financial Times": 75,
+    "WSJ": 117,
     "Heavy.com": 1,
     "CNN": 6,
     "France 24": 23,
-    "Arab News": 63,
+    "Arab News": 68,
     "The Washington Post": 7,
-    "Al-Monitor": 46,
+    "Al-Monitor": 47,
     "AP News": 17,
     "South China Morning Post": 5,
     "The Times of India": 1,
@@ -8078,7 +8078,7 @@
     "Daily Observer": 1,
     "The Business Standard": 1,
     "Nine.com.au": 1,
-    "Reuters": 117,
+    "Reuters": 118,
     "NDTV Sports": 1,
     "Bloomberg.com": 40,
     "UA.NEWS": 3,
@@ -8194,17 +8194,18 @@
     "Bioengineer.org": 1,
     "Electric Vehicles": 1,
     "India Tribune - Chicago": 1,
-    "Awani International": 1
+    "Awani International": 1,
+    "BBC Shop": 1
    },
    "sourceTone": {
     "Financial Times": [
      0,
-     74,
+     75,
      0
     ],
     "WSJ": [
      0,
-     114,
+     117,
      0
     ],
     "Heavy.com": [
@@ -8224,7 +8225,7 @@
     ],
     "Arab News": [
      0,
-     63,
+     68,
      0
     ],
     "The Washington Post": [
@@ -8234,7 +8235,7 @@
     ],
     "Al-Monitor": [
      0,
-     46,
+     47,
      0
     ],
     "AP News": [
@@ -8294,7 +8295,7 @@
     ],
     "Reuters": [
      0,
-     117,
+     118,
      0
     ],
     "NDTV Sports": [
@@ -8876,22 +8877,27 @@
      0,
      1,
      0
+    ],
+    "BBC Shop": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-10": {
-   "total": 131,
-   "news": 131,
+   "total": 159,
+   "news": 159,
    "articles": 0,
    "positive": 0,
-   "neutral": 131,
+   "neutral": 159,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "US": 57,
-    "GB": 25,
+    "US": 64,
+    "GB": 33,
     "HK": 1,
-    "SA": 14,
+    "SA": 18,
     "FR": 1,
     "DE": 1
    },
@@ -8900,13 +8906,13 @@
     "Amwaj.media": 1,
     "The Washington Post": 3,
     "BBC": 3,
-    "Al-Monitor": 12,
+    "Al-Monitor": 13,
     "WSJ": 13,
     "South China Morning Post": 1,
-    "Bloomberg.com": 15,
+    "Bloomberg.com": 20,
     "AP News": 7,
-    "The New York Times": 6,
-    "Arab News": 11,
+    "The New York Times": 7,
+    "Arab News": 16,
     "UA.NEWS": 1,
     "Investing.com": 1,
     "The National": 1,
@@ -8918,19 +8924,19 @@
     "The Business Standard": 1,
     "https://houseofsaud.com/": 1,
     "The Maritime Executive": 1,
-    "Middle East Eye": 2,
+    "Middle East Eye": 3,
     "The Times of Israel": 1,
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 1,
-    "Reuters": 15,
+    "Reuters": 22,
     "Gulf News": 1,
     "CGTN": 1,
     "Al Jazeera": 1,
     "TRT World": 1,
     "Asset Servicing Times": 1,
-    "Saudi Gazette": 4,
-    "Financial Times": 8,
+    "Saudi Gazette": 5,
+    "Financial Times": 9,
     "CNN": 1,
     "France 24": 1,
     "Fana News -": 1,
@@ -8940,7 +8946,13 @@
     "Arabian Gulf Business Insight | AGBI": 1,
     "Yemen Online": 1,
     "Global Custodian": 1,
-    "Finimize": 1
+    "Finimize": 1,
+    "Telecompaper": 1,
+    "Yabiladi.com": 1,
+    "Zawya": 1,
+    "سانا": 1,
+    "www.nationpathindia.com": 1,
+    "MEED": 1
    },
    "sourceTone": {
     "Amwaj.media": [
@@ -8960,7 +8972,7 @@
     ],
     "Al-Monitor": [
      0,
-     12,
+     13,
      0
     ],
     "WSJ": [
@@ -8975,7 +8987,7 @@
     ],
     "Bloomberg.com": [
      0,
-     15,
+     20,
      0
     ],
     "AP News": [
@@ -8985,12 +8997,12 @@
     ],
     "The New York Times": [
      0,
-     6,
+     7,
      0
     ],
     "Arab News": [
      0,
-     11,
+     16,
      0
     ],
     "UA.NEWS": [
@@ -9050,7 +9062,7 @@
     ],
     "Middle East Eye": [
      0,
-     2,
+     3,
      0
     ],
     "The Times of Israel": [
@@ -9075,7 +9087,7 @@
     ],
     "Reuters": [
      0,
-     15,
+     22,
      0
     ],
     "Gulf News": [
@@ -9105,12 +9117,12 @@
     ],
     "Saudi Gazette": [
      0,
-     4,
+     5,
      0
     ],
     "Financial Times": [
      0,
-     8,
+     9,
      0
     ],
     "CNN": [
@@ -9159,6 +9171,36 @@
      0
     ],
     "Finimize": [
+     0,
+     1,
+     0
+    ],
+    "Telecompaper": [
+     0,
+     1,
+     0
+    ],
+    "Yabiladi.com": [
+     0,
+     1,
+     0
+    ],
+    "Zawya": [
+     0,
+     1,
+     0
+    ],
+    "سانا": [
+     0,
+     1,
+     0
+    ],
+    "www.nationpathindia.com": [
+     0,
+     1,
+     0
+    ],
+    "MEED": [
      0,
      1,
      0
