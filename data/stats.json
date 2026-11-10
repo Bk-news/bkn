@@ -8041,15 +8041,15 @@
    }
   },
   "2026-11-09": {
-   "total": 701,
-   "news": 696,
+   "total": 702,
+   "news": 697,
    "articles": 5,
    "positive": 0,
-   "neutral": 701,
+   "neutral": 702,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "GB": 203,
+    "GB": 204,
     "US": 239,
     "FR": 25,
     "SA": 58,
@@ -8059,7 +8059,7 @@
    },
    "topics": {},
    "sources": {
-    "Financial Times": 73,
+    "Financial Times": 74,
     "WSJ": 114,
     "Heavy.com": 1,
     "CNN": 6,
@@ -8198,7 +8198,7 @@
    "sourceTone": {
     "Financial Times": [
      0,
-     73,
+     74,
      0
     ],
     "WSJ": [
@@ -8874,16 +8874,16 @@
    }
   },
   "2026-11-10": {
-   "total": 44,
-   "news": 44,
+   "total": 46,
+   "news": 46,
    "articles": 0,
    "positive": 0,
-   "neutral": 44,
+   "neutral": 46,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "US": 20,
-    "GB": 2,
+    "US": 21,
+    "GB": 3,
     "HK": 1,
     "SA": 2
    },
@@ -8895,7 +8895,7 @@
     "Al-Monitor": 3,
     "WSJ": 6,
     "South China Morning Post": 1,
-    "Bloomberg.com": 6,
+    "Bloomberg.com": 7,
     "AP News": 2,
     "The New York Times": 2,
     "Arab News": 2,
@@ -8915,7 +8915,7 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 1,
-    "Reuters": 1,
+    "Reuters": 2,
     "Gulf News": 1
    },
    "sourceTone": {
@@ -8951,7 +8951,7 @@
     ],
     "Bloomberg.com": [
      0,
-     6,
+     7,
      0
     ],
     "AP News": [
@@ -9051,7 +9051,7 @@
     ],
     "Reuters": [
      0,
-     1,
+     2,
      0
     ],
     "Gulf News": [
