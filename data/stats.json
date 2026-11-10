@@ -8041,18 +8041,18 @@
    }
   },
   "2026-11-09": {
-   "total": 730,
-   "news": 724,
+   "total": 731,
+   "news": 725,
    "articles": 6,
    "positive": 0,
-   "neutral": 730,
+   "neutral": 731,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "GB": 213,
     "US": 245,
     "FR": 26,
-    "SA": 68,
+    "SA": 69,
     "HK": 3,
     "DE": 1,
     "JP": 1
@@ -8064,7 +8064,7 @@
     "Heavy.com": 1,
     "CNN": 6,
     "France 24": 23,
-    "Arab News": 69,
+    "Arab News": 70,
     "The Washington Post": 7,
     "Al-Monitor": 47,
     "AP News": 17,
@@ -8225,7 +8225,7 @@
     ],
     "Arab News": [
      0,
-     69,
+     70,
      0
     ],
     "The Washington Post": [
@@ -8886,11 +8886,11 @@
    }
   },
   "2026-11-10": {
-   "total": 195,
-   "news": 194,
+   "total": 196,
+   "news": 195,
    "articles": 1,
    "positive": 0,
-   "neutral": 195,
+   "neutral": 196,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -8925,7 +8925,7 @@
     "https://houseofsaud.com/": 2,
     "The Maritime Executive": 1,
     "Middle East Eye": 3,
-    "The Times of Israel": 1,
+    "The Times of Israel": 2,
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 1,
@@ -9088,7 +9088,7 @@
     ],
     "The Times of Israel": [
      0,
-     1,
+     2,
      0
     ],
     "The Business Journals": [
