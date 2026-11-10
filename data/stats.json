@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 218,
-   "news": 216,
+   "total": 223,
+   "news": 221,
    "articles": 2,
    "positive": 0,
-   "neutral": 218,
+   "neutral": 223,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "US": 74,
-    "GB": 37,
+    "US": 76,
+    "GB": 39,
     "HK": 1,
     "SA": 23,
     "FR": 2,
@@ -8905,8 +8905,8 @@
    "sources": {
     "Amwaj.media": 1,
     "The Washington Post": 3,
-    "BBC": 3,
-    "Al-Monitor": 14,
+    "BBC": 5,
+    "Al-Monitor": 16,
     "WSJ": 14,
     "South China Morning Post": 1,
     "Bloomberg.com": 26,
@@ -8949,7 +8949,7 @@
     "Finimize": 1,
     "Telecompaper": 1,
     "Yabiladi.com": 1,
-    "Zawya": 2,
+    "Zawya": 3,
     "سانا": 1,
     "www.nationpathindia.com": 1,
     "MEED": 1,
@@ -8992,12 +8992,12 @@
     ],
     "BBC": [
      0,
-     3,
+     5,
      0
     ],
     "Al-Monitor": [
      0,
-     14,
+     16,
      0
     ],
     "WSJ": [
@@ -9212,7 +9212,7 @@
     ],
     "Zawya": [
      0,
-     2,
+     3,
      0
     ],
     "سانا": [
