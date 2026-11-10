@@ -7083,18 +7083,18 @@
    }
   },
   "2026-11-08": {
-   "total": 622,
-   "news": 618,
+   "total": 623,
+   "news": 619,
    "articles": 4,
    "positive": 0,
-   "neutral": 622,
+   "neutral": 623,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 82,
     "FR": 52,
     "HK": 9,
-    "GB": 121,
+    "GB": 122,
     "US": 132,
     "DE": 2
    },
@@ -7113,7 +7113,7 @@
     "China Daily Global Edition": 1,
     "The Times of India": 3,
     "الخبر اليمني": 3,
-    "Reuters": 55,
+    "Reuters": 56,
     "Breakingthenews.net": 1,
     "WSJ": 47,
     "AP News": 12,
@@ -7325,7 +7325,7 @@
     ],
     "Reuters": [
      0,
-     55,
+     56,
      0
     ],
     "Breakingthenews.net": [
@@ -8041,15 +8041,15 @@
    }
   },
   "2026-11-09": {
-   "total": 689,
-   "news": 684,
+   "total": 700,
+   "news": 695,
    "articles": 5,
    "positive": 0,
-   "neutral": 689,
+   "neutral": 700,
    "critical": 0,
-   "mbs": 1,
+   "mbs": 2,
    "countries": {
-    "GB": 201,
+    "GB": 203,
     "US": 238,
     "FR": 25,
     "SA": 58,
@@ -8066,7 +8066,7 @@
     "France 24": 23,
     "Arab News": 60,
     "The Washington Post": 7,
-    "Al-Monitor": 45,
+    "Al-Monitor": 46,
     "AP News": 16,
     "South China Morning Post": 5,
     "The Times of India": 1,
@@ -8078,7 +8078,7 @@
     "Daily Observer": 1,
     "The Business Standard": 1,
     "Nine.com.au": 1,
-    "Reuters": 114,
+    "Reuters": 116,
     "NDTV Sports": 1,
     "Bloomberg.com": 40,
     "UA.NEWS": 3,
@@ -8092,7 +8092,7 @@
     "Zawya": 2,
     "DD News": 1,
     "The Hindu": 1,
-    "Saudi Gazette": 11,
+    "Saudi Gazette": 12,
     "L'Orient Today": 1,
     "The National": 2,
     "Intelligent CISO": 1,
@@ -8107,7 +8107,7 @@
     "The Tribune": 1,
     "Condé Nast Traveller Middle East": 2,
     "Khaama Press": 1,
-    "https://houseofsaud.com/": 3,
+    "https://houseofsaud.com/": 4,
     "Kurdistan24": 1,
     "سانا": 1,
     "Channels Television": 1,
@@ -8178,18 +8178,22 @@
     "Investing.com": 1,
     "The Media Line": 1,
     "Yahoo Sports": 2,
-    "Al Jazeera": 1,
+    "Al Jazeera": 2,
     "TechAfrica News": 2,
     "The Globe and Mail": 1,
     "HITC": 1,
-    "Business Insider Africa": 1,
+    "Business Insider Africa": 2,
     "The New Arab": 1,
     "Scottish Financial News": 1,
     "کردپرس": 1,
     "The News Pakistan": 2,
     "Rudaw": 1,
     "LBCI Lebanon": 1,
-    "CNBC": 1
+    "CNBC": 1,
+    "Barron's": 1,
+    "Bioengineer.org": 1,
+    "Electric Vehicles": 1,
+    "India Tribune - Chicago": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -8229,7 +8233,7 @@
     ],
     "Al-Monitor": [
      0,
-     45,
+     46,
      0
     ],
     "AP News": [
@@ -8289,7 +8293,7 @@
     ],
     "Reuters": [
      0,
-     114,
+     116,
      0
     ],
     "NDTV Sports": [
@@ -8359,7 +8363,7 @@
     ],
     "Saudi Gazette": [
      0,
-     11,
+     12,
      0
     ],
     "L'Orient Today": [
@@ -8434,7 +8438,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     3,
+     4,
      0
     ],
     "Kurdistan24": [
@@ -8789,7 +8793,7 @@
     ],
     "Al Jazeera": [
      0,
-     1,
+     2,
      0
     ],
     "TechAfrica News": [
@@ -8809,7 +8813,7 @@
     ],
     "Business Insider Africa": [
      0,
-     1,
+     2,
      0
     ],
     "The New Arab": [
@@ -8846,15 +8850,35 @@
      0,
      1,
      0
+    ],
+    "Barron's": [
+     0,
+     1,
+     0
+    ],
+    "Bioengineer.org": [
+     0,
+     1,
+     0
+    ],
+    "Electric Vehicles": [
+     0,
+     1,
+     0
+    ],
+    "India Tribune - Chicago": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-10": {
-   "total": 34,
-   "news": 34,
+   "total": 38,
+   "news": 38,
    "articles": 0,
    "positive": 0,
-   "neutral": 34,
+   "neutral": 38,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -8886,8 +8910,11 @@
     "The Business Standard": 1,
     "https://houseofsaud.com/": 1,
     "The Maritime Executive": 1,
-    "Middle East Eye": 1,
-    "The Times of Israel": 1
+    "Middle East Eye": 2,
+    "The Times of Israel": 1,
+    "The Business Journals": 1,
+    "Puck": 1,
+    "Heavy.com": 1
    },
    "sourceTone": {
     "Amwaj.media": [
@@ -8997,10 +9024,25 @@
     ],
     "Middle East Eye": [
      0,
-     1,
+     2,
      0
     ],
     "The Times of Israel": [
+     0,
+     1,
+     0
+    ],
+    "The Business Journals": [
+     0,
+     1,
+     0
+    ],
+    "Puck": [
+     0,
+     1,
+     0
+    ],
+    "Heavy.com": [
      0,
      1,
      0
