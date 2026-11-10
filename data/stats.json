@@ -8886,39 +8886,39 @@
    }
   },
   "2026-11-10": {
-   "total": 408,
-   "news": 402,
-   "articles": 6,
+   "total": 448,
+   "news": 439,
+   "articles": 9,
    "positive": 0,
-   "neutral": 408,
+   "neutral": 448,
    "critical": 0,
    "mbs": 20,
    "countries": {
-    "US": 140,
-    "GB": 69,
+    "US": 162,
+    "GB": 74,
     "HK": 1,
-    "SA": 42,
+    "SA": 49,
     "FR": 4,
-    "DE": 3
+    "DE": 4
    },
    "topics": {},
    "sources": {
     "Amwaj.media": 1,
-    "The Washington Post": 6,
-    "BBC": 9,
-    "Al-Monitor": 39,
-    "WSJ": 27,
+    "The Washington Post": 8,
+    "BBC": 10,
+    "Al-Monitor": 42,
+    "WSJ": 30,
     "South China Morning Post": 1,
-    "Bloomberg.com": 37,
-    "AP News": 13,
-    "The New York Times": 17,
-    "Arab News": 42,
+    "Bloomberg.com": 41,
+    "AP News": 15,
+    "The New York Times": 21,
+    "Arab News": 46,
     "UA.NEWS": 2,
     "Investing.com": 2,
     "The National": 3,
     "Anadolu Ajansı": 1,
     "The Economic Times": 2,
-    "Türkiye Today": 2,
+    "Türkiye Today": 3,
     "The Jerusalem Post": 1,
     "Sports Illustrated": 1,
     "The Business Standard": 1,
@@ -8929,18 +8929,18 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 2,
-    "Reuters": 45,
+    "Reuters": 49,
     "Gulf News": 4,
     "CGTN": 1,
     "Al Jazeera": 2,
     "TRT World": 1,
     "Asset Servicing Times": 1,
-    "Saudi Gazette": 9,
+    "Saudi Gazette": 12,
     "Financial Times": 12,
-    "CNN": 1,
+    "CNN": 2,
     "France 24": 4,
     "Fana News -": 1,
-    "Spiegel": 3,
+    "Spiegel": 4,
     "Al Arabiya English": 5,
     "ASHARQ AL-AWSAT English": 7,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -8972,7 +8972,7 @@
     "EnterpriseAM": 1,
     "KRCG": 1,
     "Daily Nation": 1,
-    "Atlantic Council": 4,
+    "Atlantic Council": 7,
     "Fast Company Middle East": 1,
     "Morocco World News": 1,
     "talkSPORT": 1,
@@ -9011,7 +9011,11 @@
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
     "Qatar news agency": 1,
     "A News": 1,
-    "News On AIR": 1
+    "News On AIR": 1,
+    "Cageside Seats": 1,
+    "The Express Tribune": 1,
+    "Yahoo Sports": 1,
+    "RMU Sentry Media": 1
    },
    "sourceTone": {
     "Amwaj.media": [
@@ -9021,22 +9025,22 @@
     ],
     "The Washington Post": [
      0,
-     6,
+     8,
      0
     ],
     "BBC": [
      0,
-     9,
+     10,
      0
     ],
     "Al-Monitor": [
      0,
-     39,
+     42,
      0
     ],
     "WSJ": [
      0,
-     27,
+     30,
      0
     ],
     "South China Morning Post": [
@@ -9046,22 +9050,22 @@
     ],
     "Bloomberg.com": [
      0,
-     37,
+     41,
      0
     ],
     "AP News": [
      0,
-     13,
+     15,
      0
     ],
     "The New York Times": [
      0,
-     17,
+     21,
      0
     ],
     "Arab News": [
      0,
-     42,
+     46,
      0
     ],
     "UA.NEWS": [
@@ -9091,7 +9095,7 @@
     ],
     "Türkiye Today": [
      0,
-     2,
+     3,
      0
     ],
     "The Jerusalem Post": [
@@ -9146,7 +9150,7 @@
     ],
     "Reuters": [
      0,
-     45,
+     49,
      0
     ],
     "Gulf News": [
@@ -9176,7 +9180,7 @@
     ],
     "Saudi Gazette": [
      0,
-     9,
+     12,
      0
     ],
     "Financial Times": [
@@ -9186,7 +9190,7 @@
     ],
     "CNN": [
      0,
-     1,
+     2,
      0
     ],
     "France 24": [
@@ -9201,7 +9205,7 @@
     ],
     "Spiegel": [
      0,
-     3,
+     4,
      0
     ],
     "Al Arabiya English": [
@@ -9361,7 +9365,7 @@
     ],
     "Atlantic Council": [
      0,
-     4,
+     7,
      0
     ],
     "Fast Company Middle East": [
@@ -9555,6 +9559,26 @@
      0
     ],
     "News On AIR": [
+     0,
+     1,
+     0
+    ],
+    "Cageside Seats": [
+     0,
+     1,
+     0
+    ],
+    "The Express Tribune": [
+     0,
+     1,
+     0
+    ],
+    "Yahoo Sports": [
+     0,
+     1,
+     0
+    ],
+    "RMU Sentry Media": [
      0,
      1,
      0
