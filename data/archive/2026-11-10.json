@@ -2,6 +2,27 @@
  "day": "2026-11-10",
  "items": [
   {
+   "id": "ce41403f842552d8",
+   "origin": "rss",
+   "source": "Arab News",
+   "author": "",
+   "title_ar": "أرباح السعودية للطاقة في 9 أشهر ترتفع 4.3% إلى 3.2 مليار دولار",
+   "title_orig": "Saudi Energy’s 9-month profit rises 4.3% to $3.2bn",
+   "title_en": "Saudi Energy’s 9-month profit rises 4.3% to $3.2bn",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWkdfSjdzV3NIbTRMNVU4T3J3MFV0Ym4tNFFObTBvekxHUDZlTk5QcjcwZGU4Mm9xdS1Qby1xTW9fckVqZTZaSmhLS3MwNWh0a3BRMFFiX29kWXYtMTB3clZoU2x1Y0lTaWFiNnAzQzlrM1hzR250SzJDX0ZqaC1reFRyWFFLcHR5VWcxX0l3?oc=5",
+   "published": "2026-11-10T11:37:51.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "SA",
+   "pending": true,
+   "desc": "Saudi Energy’s 9-month profit rises 4.3% to $3.2bn &nbsp;&nbsp; Arab News",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "101cd25c5d2e7b32",
    "origin": "rss",
    "source": "Crude Oil Prices Today | OilPrice.com",
