@@ -7083,18 +7083,18 @@
    }
   },
   "2026-11-08": {
-   "total": 624,
-   "news": 620,
+   "total": 626,
+   "news": 622,
    "articles": 4,
    "positive": 0,
-   "neutral": 624,
+   "neutral": 626,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 82,
     "FR": 52,
     "HK": 9,
-    "GB": 123,
+    "GB": 125,
     "US": 132,
     "DE": 2
    },
@@ -7113,7 +7113,7 @@
     "China Daily Global Edition": 1,
     "The Times of India": 3,
     "الخبر اليمني": 3,
-    "Reuters": 56,
+    "Reuters": 58,
     "Breakingthenews.net": 1,
     "WSJ": 47,
     "AP News": 12,
@@ -7325,7 +7325,7 @@
     ],
     "Reuters": [
      0,
-     56,
+     58,
      0
     ],
     "Breakingthenews.net": [
@@ -8041,18 +8041,18 @@
    }
   },
   "2026-11-09": {
-   "total": 723,
-   "news": 717,
+   "total": 729,
+   "news": 723,
    "articles": 6,
    "positive": 0,
-   "neutral": 723,
+   "neutral": 729,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 208,
+    "GB": 213,
     "US": 245,
     "FR": 25,
-    "SA": 67,
+    "SA": 68,
     "HK": 3,
     "DE": 1,
     "JP": 1
@@ -8064,7 +8064,7 @@
     "Heavy.com": 1,
     "CNN": 6,
     "France 24": 23,
-    "Arab News": 68,
+    "Arab News": 69,
     "The Washington Post": 7,
     "Al-Monitor": 47,
     "AP News": 17,
@@ -8078,7 +8078,7 @@
     "Daily Observer": 1,
     "The Business Standard": 1,
     "Nine.com.au": 1,
-    "Reuters": 118,
+    "Reuters": 123,
     "NDTV Sports": 1,
     "Bloomberg.com": 40,
     "UA.NEWS": 3,
@@ -8225,7 +8225,7 @@
     ],
     "Arab News": [
      0,
-     68,
+     69,
      0
     ],
     "The Washington Post": [
@@ -8295,7 +8295,7 @@
     ],
     "Reuters": [
      0,
-     118,
+     123,
      0
     ],
     "NDTV Sports": [
@@ -8886,11 +8886,11 @@
    }
   },
   "2026-11-10": {
-   "total": 159,
-   "news": 159,
+   "total": 189,
+   "news": 189,
    "articles": 0,
    "positive": 0,
-   "neutral": 159,
+   "neutral": 189,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -8906,14 +8906,14 @@
     "Amwaj.media": 1,
     "The Washington Post": 3,
     "BBC": 3,
-    "Al-Monitor": 13,
+    "Al-Monitor": 14,
     "WSJ": 13,
     "South China Morning Post": 1,
-    "Bloomberg.com": 20,
+    "Bloomberg.com": 21,
     "AP News": 7,
-    "The New York Times": 7,
+    "The New York Times": 8,
     "Arab News": 16,
-    "UA.NEWS": 1,
+    "UA.NEWS": 2,
     "Investing.com": 1,
     "The National": 1,
     "Anadolu Ajansı": 1,
@@ -8922,7 +8922,7 @@
     "The Jerusalem Post": 1,
     "Sports Illustrated": 1,
     "The Business Standard": 1,
-    "https://houseofsaud.com/": 1,
+    "https://houseofsaud.com/": 2,
     "The Maritime Executive": 1,
     "Middle East Eye": 3,
     "The Times of Israel": 1,
@@ -8942,7 +8942,7 @@
     "Fana News -": 1,
     "Spiegel": 1,
     "Al Arabiya English": 1,
-    "ASHARQ AL-AWSAT English": 1,
+    "ASHARQ AL-AWSAT English": 3,
     "Arabian Gulf Business Insight | AGBI": 1,
     "Yemen Online": 1,
     "Global Custodian": 1,
@@ -8952,7 +8952,26 @@
     "Zawya": 1,
     "سانا": 1,
     "www.nationpathindia.com": 1,
-    "MEED": 1
+    "MEED": 1,
+    "صوت الإمارات": 3,
+    "Khaama Press": 1,
+    "Rudaw": 1,
+    "Yonhap News Agency": 1,
+    "شفق نيوز": 1,
+    "Israel Defense": 1,
+    "Egypt Oil & Gas": 1,
+    "Pajhwok Afghan News": 1,
+    "New Age BD": 2,
+    "Gulf Business": 1,
+    "8AM Media": 1,
+    "Africa Intelligence": 1,
+    "Hotelier Middle East": 1,
+    "جريدة القدس": 1,
+    "تسنیم": 1,
+    "Modern Diplomacy": 2,
+    "EnterpriseAM": 1,
+    "KRCG": 1,
+    "Daily Nation": 1
    },
    "sourceTone": {
     "Amwaj.media": [
@@ -8972,7 +8991,7 @@
     ],
     "Al-Monitor": [
      0,
-     13,
+     14,
      0
     ],
     "WSJ": [
@@ -8987,7 +9006,7 @@
     ],
     "Bloomberg.com": [
      0,
-     20,
+     21,
      0
     ],
     "AP News": [
@@ -8997,7 +9016,7 @@
     ],
     "The New York Times": [
      0,
-     7,
+     8,
      0
     ],
     "Arab News": [
@@ -9007,7 +9026,7 @@
     ],
     "UA.NEWS": [
      0,
-     1,
+     2,
      0
     ],
     "Investing.com": [
@@ -9052,7 +9071,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     1,
+     2,
      0
     ],
     "The Maritime Executive": [
@@ -9152,7 +9171,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     1,
+     3,
      0
     ],
     "Arabian Gulf Business Insight | AGBI": [
@@ -9201,6 +9220,101 @@
      0
     ],
     "MEED": [
+     0,
+     1,
+     0
+    ],
+    "صوت الإمارات": [
+     0,
+     3,
+     0
+    ],
+    "Khaama Press": [
+     0,
+     1,
+     0
+    ],
+    "Rudaw": [
+     0,
+     1,
+     0
+    ],
+    "Yonhap News Agency": [
+     0,
+     1,
+     0
+    ],
+    "شفق نيوز": [
+     0,
+     1,
+     0
+    ],
+    "Israel Defense": [
+     0,
+     1,
+     0
+    ],
+    "Egypt Oil & Gas": [
+     0,
+     1,
+     0
+    ],
+    "Pajhwok Afghan News": [
+     0,
+     1,
+     0
+    ],
+    "New Age BD": [
+     0,
+     2,
+     0
+    ],
+    "Gulf Business": [
+     0,
+     1,
+     0
+    ],
+    "8AM Media": [
+     0,
+     1,
+     0
+    ],
+    "Africa Intelligence": [
+     0,
+     1,
+     0
+    ],
+    "Hotelier Middle East": [
+     0,
+     1,
+     0
+    ],
+    "جريدة القدس": [
+     0,
+     1,
+     0
+    ],
+    "تسنیم": [
+     0,
+     1,
+     0
+    ],
+    "Modern Diplomacy": [
+     0,
+     2,
+     0
+    ],
+    "EnterpriseAM": [
+     0,
+     1,
+     0
+    ],
+    "KRCG": [
+     0,
+     1,
+     0
+    ],
+    "Daily Nation": [
      0,
      1,
      0
