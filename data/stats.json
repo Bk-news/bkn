@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 391,
-   "news": 386,
+   "total": 393,
+   "news": 388,
    "articles": 5,
    "positive": 0,
-   "neutral": 391,
+   "neutral": 393,
    "critical": 0,
-   "mbs": 17,
+   "mbs": 18,
    "countries": {
     "US": 134,
-    "GB": 67,
+    "GB": 68,
     "HK": 1,
     "SA": 40,
     "FR": 4,
@@ -8929,13 +8929,13 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 2,
-    "Reuters": 43,
+    "Reuters": 44,
     "Gulf News": 4,
     "CGTN": 1,
     "Al Jazeera": 2,
     "TRT World": 1,
     "Asset Servicing Times": 1,
-    "Saudi Gazette": 8,
+    "Saudi Gazette": 9,
     "Financial Times": 12,
     "CNN": 1,
     "France 24": 4,
@@ -9141,7 +9141,7 @@
     ],
     "Reuters": [
      0,
-     43,
+     44,
      0
     ],
     "Gulf News": [
@@ -9171,7 +9171,7 @@
     ],
     "Saudi Gazette": [
      0,
-     8,
+     9,
      0
     ],
     "Financial Times": [
