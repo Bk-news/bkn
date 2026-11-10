@@ -8886,15 +8886,15 @@
    }
   },
   "2026-11-10": {
-   "total": 535,
-   "news": 524,
+   "total": 536,
+   "news": 525,
    "articles": 11,
    "positive": 0,
-   "neutral": 535,
+   "neutral": 536,
    "critical": 0,
    "mbs": 21,
    "countries": {
-    "US": 181,
+    "US": 182,
     "GB": 87,
     "HK": 1,
     "SA": 72,
@@ -8907,7 +8907,7 @@
     "The Washington Post": 8,
     "BBC": 11,
     "Al-Monitor": 46,
-    "WSJ": 35,
+    "WSJ": 36,
     "South China Morning Post": 1,
     "Bloomberg.com": 48,
     "AP News": 15,
@@ -9056,7 +9056,7 @@
     ],
     "WSJ": [
      0,
-     35,
+     36,
      0
     ],
     "South China Morning Post": [
