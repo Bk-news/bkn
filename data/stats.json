@@ -8886,15 +8886,15 @@
    }
   },
   "2026-11-10": {
-   "total": 373,
-   "news": 369,
+   "total": 378,
+   "news": 374,
    "articles": 4,
    "positive": 0,
-   "neutral": 373,
+   "neutral": 378,
    "critical": 0,
    "mbs": 17,
    "countries": {
-    "US": 127,
+    "US": 128,
     "GB": 65,
     "HK": 1,
     "SA": 39,
@@ -8907,7 +8907,7 @@
     "The Washington Post": 6,
     "BBC": 8,
     "Al-Monitor": 36,
-    "WSJ": 23,
+    "WSJ": 24,
     "South China Morning Post": 1,
     "Bloomberg.com": 36,
     "AP News": 11,
@@ -8915,7 +8915,7 @@
     "Arab News": 39,
     "UA.NEWS": 2,
     "Investing.com": 2,
-    "The National": 2,
+    "The National": 3,
     "Anadolu Ajansı": 1,
     "The Economic Times": 2,
     "Türkiye Today": 2,
@@ -8930,7 +8930,7 @@
     "Puck": 1,
     "Heavy.com": 2,
     "Reuters": 42,
-    "Gulf News": 3,
+    "Gulf News": 4,
     "CGTN": 1,
     "Al Jazeera": 2,
     "TRT World": 1,
@@ -8994,7 +8994,7 @@
     "Construction Review": 1,
     "Bioengineer.org": 1,
     "POST Wrestling": 1,
-    "Business Insider Africa": 1,
+    "Business Insider Africa": 2,
     "Peoples Gazette Nigeria": 1,
     "Goal.com": 1,
     "Automotive News": 1,
@@ -9003,7 +9003,8 @@
     "Hortidaily": 1,
     "Funds Global MENA": 1,
     "Middle East Forum": 1,
-    "ESPN": 1
+    "ESPN": 1,
+    "Plataforma Media": 1
    },
    "sourceTone": {
     "Amwaj.media": [
@@ -9028,7 +9029,7 @@
     ],
     "WSJ": [
      0,
-     23,
+     24,
      0
     ],
     "South China Morning Post": [
@@ -9068,7 +9069,7 @@
     ],
     "The National": [
      0,
-     2,
+     3,
      0
     ],
     "Anadolu Ajansı": [
@@ -9143,7 +9144,7 @@
     ],
     "Gulf News": [
      0,
-     3,
+     4,
      0
     ],
     "CGTN": [
@@ -9463,7 +9464,7 @@
     ],
     "Business Insider Africa": [
      0,
-     1,
+     2,
      0
     ],
     "Peoples Gazette Nigeria": [
@@ -9507,6 +9508,11 @@
      0
     ],
     "ESPN": [
+     0,
+     1,
+     0
+    ],
+    "Plataforma Media": [
      0,
      1,
      0
