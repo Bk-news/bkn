@@ -8886,15 +8886,15 @@
    }
   },
   "2026-11-10": {
-   "total": 200,
-   "news": 199,
+   "total": 202,
+   "news": 201,
    "articles": 1,
    "positive": 0,
-   "neutral": 200,
+   "neutral": 202,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "US": 68,
+    "US": 69,
     "GB": 35,
     "HK": 1,
     "SA": 19,
@@ -8909,7 +8909,7 @@
     "Al-Monitor": 14,
     "WSJ": 14,
     "South China Morning Post": 1,
-    "Bloomberg.com": 23,
+    "Bloomberg.com": 24,
     "AP News": 7,
     "The New York Times": 8,
     "Arab News": 17,
@@ -8922,7 +8922,7 @@
     "The Jerusalem Post": 1,
     "Sports Illustrated": 1,
     "The Business Standard": 1,
-    "https://houseofsaud.com/": 2,
+    "https://houseofsaud.com/": 3,
     "The Maritime Executive": 1,
     "Middle East Eye": 3,
     "The Times of Israel": 2,
@@ -9008,7 +9008,7 @@
     ],
     "Bloomberg.com": [
      0,
-     23,
+     24,
      0
     ],
     "AP News": [
@@ -9073,7 +9073,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     2,
+     3,
      0
     ],
     "The Maritime Executive": [
