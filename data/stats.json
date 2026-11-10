@@ -8886,18 +8886,18 @@
    }
   },
   "2026-11-10": {
-   "total": 297,
-   "news": 293,
+   "total": 337,
+   "news": 333,
    "articles": 4,
    "positive": 0,
-   "neutral": 297,
+   "neutral": 337,
    "critical": 0,
-   "mbs": 11,
+   "mbs": 15,
    "countries": {
-    "US": 109,
-    "GB": 54,
+    "US": 122,
+    "GB": 63,
     "HK": 1,
-    "SA": 31,
+    "SA": 38,
     "FR": 4,
     "DE": 3
    },
@@ -8906,16 +8906,16 @@
     "Amwaj.media": 1,
     "The Washington Post": 6,
     "BBC": 8,
-    "Al-Monitor": 23,
-    "WSJ": 20,
+    "Al-Monitor": 31,
+    "WSJ": 23,
     "South China Morning Post": 1,
-    "Bloomberg.com": 32,
+    "Bloomberg.com": 36,
     "AP News": 11,
-    "The New York Times": 15,
-    "Arab News": 27,
+    "The New York Times": 16,
+    "Arab News": 34,
     "UA.NEWS": 2,
     "Investing.com": 1,
-    "The National": 1,
+    "The National": 2,
     "Anadolu Ajansı": 1,
     "The Economic Times": 1,
     "Türkiye Today": 1,
@@ -8929,20 +8929,20 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 1,
-    "Reuters": 32,
+    "Reuters": 40,
     "Gulf News": 3,
     "CGTN": 1,
     "Al Jazeera": 1,
     "TRT World": 1,
     "Asset Servicing Times": 1,
-    "Saudi Gazette": 7,
+    "Saudi Gazette": 8,
     "Financial Times": 12,
     "CNN": 1,
     "France 24": 4,
     "Fana News -": 1,
     "Spiegel": 3,
     "Al Arabiya English": 3,
-    "ASHARQ AL-AWSAT English": 5,
+    "ASHARQ AL-AWSAT English": 6,
     "Arabian Gulf Business Insight | AGBI": 1,
     "Yemen Online": 1,
     "Global Custodian": 1,
@@ -8950,7 +8950,7 @@
     "Telecompaper": 1,
     "Yabiladi.com": 1,
     "Zawya": 3,
-    "سانا": 1,
+    "سانا": 2,
     "www.nationpathindia.com": 1,
     "MEED": 1,
     "صوت الإمارات": 3,
@@ -8980,14 +8980,18 @@
     "Forbes Middle East": 1,
     "TV7 Israel News": 1,
     "News of Bahrain": 1,
-    "The Guardian": 3,
+    "The Guardian": 4,
     "Foreign Policy": 1,
     "صحيفة سبق الإلكترونية": 1,
     "thetruthaboutcars.com": 1,
     "MTV Lebanon": 1,
     "Arab News PK": 2,
     "شبكة تواصل الإخبارية": 1,
-    "MMA Mania": 1
+    "MMA Mania": 1,
+    "The Defense Post": 1,
+    "YSscores": 1,
+    "WION": 1,
+    "Construction Review": 1
    },
    "sourceTone": {
     "Amwaj.media": [
@@ -9007,12 +9011,12 @@
     ],
     "Al-Monitor": [
      0,
-     23,
+     31,
      0
     ],
     "WSJ": [
      0,
-     20,
+     23,
      0
     ],
     "South China Morning Post": [
@@ -9022,7 +9026,7 @@
     ],
     "Bloomberg.com": [
      0,
-     32,
+     36,
      0
     ],
     "AP News": [
@@ -9032,12 +9036,12 @@
     ],
     "The New York Times": [
      0,
-     15,
+     16,
      0
     ],
     "Arab News": [
      0,
-     27,
+     34,
      0
     ],
     "UA.NEWS": [
@@ -9052,7 +9056,7 @@
     ],
     "The National": [
      0,
-     1,
+     2,
      0
     ],
     "Anadolu Ajansı": [
@@ -9122,7 +9126,7 @@
     ],
     "Reuters": [
      0,
-     32,
+     40,
      0
     ],
     "Gulf News": [
@@ -9152,7 +9156,7 @@
     ],
     "Saudi Gazette": [
      0,
-     7,
+     8,
      0
     ],
     "Financial Times": [
@@ -9187,7 +9191,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     5,
+     6,
      0
     ],
     "Arabian Gulf Business Insight | AGBI": [
@@ -9227,7 +9231,7 @@
     ],
     "سانا": [
      0,
-     1,
+     2,
      0
     ],
     "www.nationpathindia.com": [
@@ -9377,7 +9381,7 @@
     ],
     "The Guardian": [
      0,
-     3,
+     4,
      0
     ],
     "Foreign Policy": [
@@ -9411,6 +9415,26 @@
      0
     ],
     "MMA Mania": [
+     0,
+     1,
+     0
+    ],
+    "The Defense Post": [
+     0,
+     1,
+     0
+    ],
+    "YSscores": [
+     0,
+     1,
+     0
+    ],
+    "WION": [
+     0,
+     1,
+     0
+    ],
+    "Construction Review": [
      0,
      1,
      0
