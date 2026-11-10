@@ -8886,13 +8886,13 @@
    }
   },
   "2026-11-10": {
-   "total": 523,
-   "news": 512,
+   "total": 527,
+   "news": 516,
    "articles": 11,
    "positive": 0,
-   "neutral": 523,
+   "neutral": 527,
    "critical": 0,
-   "mbs": 20,
+   "mbs": 21,
    "countries": {
     "US": 179,
     "GB": 83,
@@ -8950,7 +8950,7 @@
     "Telecompaper": 1,
     "Yabiladi.com": 1,
     "Zawya": 3,
-    "سانا": 2,
+    "سانا": 3,
     "www.nationpathindia.com": 1,
     "MEED": 1,
     "صوت الإمارات": 4,
@@ -9026,7 +9026,10 @@
     "Chosunbiz": 1,
     "Yardbarker": 1,
     "Ministère de l'Europe et des Affaires étrangères": 2,
-    "Palestine Chronicle": 1
+    "Palestine Chronicle": 1,
+    "وكالة خبر للأنباء": 1,
+    "Yahoo Finance": 1,
+    "The Arab Weekly": 1
    },
    "sourceTone": {
     "Amwaj.media": [
@@ -9266,7 +9269,7 @@
     ],
     "سانا": [
      0,
-     2,
+     3,
      0
     ],
     "www.nationpathindia.com": [
@@ -9645,6 +9648,21 @@
      0
     ],
     "Palestine Chronicle": [
+     0,
+     1,
+     0
+    ],
+    "وكالة خبر للأنباء": [
+     0,
+     1,
+     0
+    ],
+    "Yahoo Finance": [
+     0,
+     1,
+     0
+    ],
+    "The Arab Weekly": [
      0,
      1,
      0
