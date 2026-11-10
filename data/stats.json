@@ -8041,16 +8041,16 @@
    }
   },
   "2026-11-09": {
-   "total": 700,
-   "news": 695,
+   "total": 701,
+   "news": 696,
    "articles": 5,
    "positive": 0,
-   "neutral": 700,
+   "neutral": 701,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "GB": 203,
-    "US": 238,
+    "US": 239,
     "FR": 25,
     "SA": 58,
     "HK": 3,
@@ -8060,7 +8060,7 @@
    "topics": {},
    "sources": {
     "Financial Times": 73,
-    "WSJ": 113,
+    "WSJ": 114,
     "Heavy.com": 1,
     "CNN": 6,
     "France 24": 23,
@@ -8203,7 +8203,7 @@
     ],
     "WSJ": [
      0,
-     113,
+     114,
      0
     ],
     "Heavy.com": [
@@ -8874,15 +8874,15 @@
    }
   },
   "2026-11-10": {
-   "total": 42,
-   "news": 42,
+   "total": 43,
+   "news": 43,
    "articles": 0,
    "positive": 0,
-   "neutral": 42,
+   "neutral": 43,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "US": 19,
+    "US": 20,
     "GB": 2,
     "HK": 1,
     "SA": 2
@@ -8893,7 +8893,7 @@
     "The Washington Post": 1,
     "BBC": 1,
     "Al-Monitor": 3,
-    "WSJ": 5,
+    "WSJ": 6,
     "South China Morning Post": 1,
     "Bloomberg.com": 6,
     "AP News": 2,
@@ -8940,7 +8940,7 @@
     ],
     "WSJ": [
      0,
-     5,
+     6,
      0
     ],
     "South China Morning Post": [

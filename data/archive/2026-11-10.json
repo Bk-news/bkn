@@ -191,6 +191,27 @@
    "mt": true
   },
   {
+   "id": "99d8c7ab05e7292e",
+   "origin": "rss",
+   "source": "WSJ",
+   "author": "",
+   "title_ar": "يستمر نشاط المصانع الأمريكية في التوسع",
+   "title_orig": "U.S. Factory Activity Continues to Expand",
+   "title_en": "U.S. Factory Activity Continues to Expand",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNnJzY2FKN3FNNEMtYW01eWxMd0QxX3BDOTZ2V2gwajBJZ3l2ZmJWOV9SajdwaVkzWW12X2VuWTNhdFJoX0VzR2IyY1ViejFTZTg1YWR6eGl6Um5pSFU3bnZLcHdOSGJPVmpxTG1NU3cxYU1tZl9hclcyRFFJVXI1MjRfeEhobU1EN3hyUndaaw?oc=5",
+   "published": "2026-11-10T02:11:15.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "U.S. Factory Activity Continues to Expand &nbsp;&nbsp; WSJ",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "6ba70b9f32310a8a",
    "origin": "rss",
    "source": "Bloomberg.com",
