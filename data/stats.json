@@ -8041,16 +8041,16 @@
    }
   },
   "2026-11-09": {
-   "total": 704,
-   "news": 699,
+   "total": 706,
+   "news": 701,
    "articles": 5,
    "positive": 0,
-   "neutral": 704,
+   "neutral": 706,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "GB": 205,
-    "US": 239,
+    "US": 240,
     "FR": 25,
     "SA": 59,
     "HK": 3,
@@ -8067,7 +8067,7 @@
     "Arab News": 61,
     "The Washington Post": 7,
     "Al-Monitor": 46,
-    "AP News": 16,
+    "AP News": 17,
     "South China Morning Post": 5,
     "The Times of India": 1,
     "news.sbs.co.kr": 1,
@@ -8101,7 +8101,7 @@
     "Daily Maverick": 1,
     "ET Government": 1,
     "www.nationpathindia.com": 1,
-    "Arabian Business": 3,
+    "Arabian Business": 4,
     "The Express Tribune": 2,
     "Seoul Economic Daily": 1,
     "The Tribune": 1,
@@ -8238,7 +8238,7 @@
     ],
     "AP News": [
      0,
-     16,
+     17,
      0
     ],
     "South China Morning Post": [
@@ -8408,7 +8408,7 @@
     ],
     "Arabian Business": [
      0,
-     3,
+     4,
      0
     ],
     "The Express Tribune": [
@@ -8874,15 +8874,15 @@
    }
   },
   "2026-11-10": {
-   "total": 50,
-   "news": 50,
+   "total": 51,
+   "news": 51,
    "articles": 0,
    "positive": 0,
-   "neutral": 50,
+   "neutral": 51,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "US": 21,
+    "US": 22,
     "GB": 5,
     "HK": 1,
     "SA": 2
@@ -8892,7 +8892,7 @@
     "Amwaj.media": 1,
     "The Washington Post": 1,
     "BBC": 1,
-    "Al-Monitor": 3,
+    "Al-Monitor": 4,
     "WSJ": 6,
     "South China Morning Post": 1,
     "Bloomberg.com": 7,
@@ -8938,7 +8938,7 @@
     ],
     "Al-Monitor": [
      0,
-     3,
+     4,
      0
     ],
     "WSJ": [
