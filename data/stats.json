@@ -8886,11 +8886,11 @@
    }
   },
   "2026-11-10": {
-   "total": 203,
-   "news": 202,
+   "total": 204,
+   "news": 203,
    "articles": 1,
    "positive": 0,
-   "neutral": 203,
+   "neutral": 204,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -8898,7 +8898,7 @@
     "GB": 35,
     "HK": 1,
     "SA": 20,
-    "FR": 1,
+    "FR": 2,
     "DE": 1
    },
    "topics": {},
@@ -8938,7 +8938,7 @@
     "Saudi Gazette": 5,
     "Financial Times": 9,
     "CNN": 1,
-    "France 24": 1,
+    "France 24": 2,
     "Fana News -": 1,
     "Spiegel": 1,
     "Al Arabiya English": 1,
@@ -9153,7 +9153,7 @@
     ],
     "France 24": [
      0,
-     1,
+     2,
      0
     ],
     "Fana News -": [
