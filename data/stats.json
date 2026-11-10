@@ -8886,15 +8886,15 @@
    }
   },
   "2026-11-10": {
-   "total": 395,
-   "news": 390,
+   "total": 397,
+   "news": 392,
    "articles": 5,
    "positive": 0,
-   "neutral": 395,
+   "neutral": 397,
    "critical": 0,
    "mbs": 18,
    "countries": {
-    "US": 134,
+    "US": 135,
     "GB": 68,
     "HK": 1,
     "SA": 41,
@@ -8906,7 +8906,7 @@
     "Amwaj.media": 1,
     "The Washington Post": 6,
     "BBC": 9,
-    "Al-Monitor": 37,
+    "Al-Monitor": 38,
     "WSJ": 25,
     "South China Morning Post": 1,
     "Bloomberg.com": 36,
@@ -8941,7 +8941,7 @@
     "France 24": 4,
     "Fana News -": 1,
     "Spiegel": 3,
-    "Al Arabiya English": 4,
+    "Al Arabiya English": 5,
     "ASHARQ AL-AWSAT English": 7,
     "Arabian Gulf Business Insight | AGBI": 1,
     "Yemen Online": 3,
@@ -9027,7 +9027,7 @@
     ],
     "Al-Monitor": [
      0,
-     37,
+     38,
      0
     ],
     "WSJ": [
@@ -9202,7 +9202,7 @@
     ],
     "Al Arabiya English": [
      0,
-     4,
+     5,
      0
     ],
     "ASHARQ AL-AWSAT English": [
