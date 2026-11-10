@@ -8041,17 +8041,17 @@
    }
   },
   "2026-11-09": {
-   "total": 729,
-   "news": 723,
+   "total": 730,
+   "news": 724,
    "articles": 6,
    "positive": 0,
-   "neutral": 729,
+   "neutral": 730,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "GB": 213,
     "US": 245,
-    "FR": 25,
+    "FR": 26,
     "SA": 68,
     "HK": 3,
     "DE": 1,
@@ -8085,7 +8085,7 @@
     "BBC": 10,
     "The Guardian": 7,
     "Foreign Affairs": 1,
-    "Le Monde.fr": 3,
+    "Le Monde.fr": 4,
     "The Week": 1,
     "Fast Company Middle East": 1,
     "FF News": 1,
@@ -8330,7 +8330,7 @@
     ],
     "Le Monde.fr": [
      0,
-     3,
+     4,
      0
     ],
     "The Week": [
