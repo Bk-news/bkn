@@ -8041,16 +8041,16 @@
    }
   },
   "2026-11-09": {
-   "total": 750,
-   "news": 744,
+   "total": 751,
+   "news": 745,
    "articles": 6,
    "positive": 0,
-   "neutral": 750,
+   "neutral": 751,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "GB": 219,
-    "US": 253,
+    "US": 254,
     "FR": 28,
     "SA": 72,
     "HK": 3,
@@ -8065,7 +8065,7 @@
     "CNN": 7,
     "France 24": 23,
     "Arab News": 71,
-    "The Washington Post": 7,
+    "The Washington Post": 8,
     "Al-Monitor": 47,
     "AP News": 19,
     "South China Morning Post": 5,
@@ -8230,7 +8230,7 @@
     ],
     "The Washington Post": [
      0,
-     7,
+     8,
      0
     ],
     "Al-Monitor": [
@@ -8886,18 +8886,18 @@
    }
   },
   "2026-11-10": {
-   "total": 484,
-   "news": 473,
+   "total": 523,
+   "news": 512,
    "articles": 11,
    "positive": 0,
-   "neutral": 484,
+   "neutral": 523,
    "critical": 0,
    "mbs": 20,
    "countries": {
-    "US": 178,
-    "GB": 80,
+    "US": 179,
+    "GB": 83,
     "HK": 1,
-    "SA": 57,
+    "SA": 72,
     "FR": 4,
     "DE": 4
    },
@@ -8905,14 +8905,14 @@
    "sources": {
     "Amwaj.media": 1,
     "The Washington Post": 8,
-    "BBC": 10,
+    "BBC": 11,
     "Al-Monitor": 46,
     "WSJ": 35,
     "South China Morning Post": 1,
-    "Bloomberg.com": 46,
+    "Bloomberg.com": 47,
     "AP News": 15,
     "The New York Times": 21,
-    "Arab News": 52,
+    "Arab News": 70,
     "UA.NEWS": 2,
     "Investing.com": 2,
     "The National": 3,
@@ -8920,7 +8920,7 @@
     "The Economic Times": 2,
     "Türkiye Today": 3,
     "The Jerusalem Post": 1,
-    "Sports Illustrated": 1,
+    "Sports Illustrated": 2,
     "The Business Standard": 1,
     "https://houseofsaud.com/": 7,
     "The Maritime Executive": 1,
@@ -8929,7 +8929,7 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 2,
-    "Reuters": 55,
+    "Reuters": 57,
     "Gulf News": 4,
     "CGTN": 1,
     "Al Jazeera": 2,
@@ -8976,8 +8976,8 @@
     "Fast Company Middle East": 1,
     "Morocco World News": 1,
     "talkSPORT": 1,
-    "Crude Oil Prices Today | OilPrice.com": 1,
-    "Forbes Middle East": 1,
+    "Crude Oil Prices Today | OilPrice.com": 2,
+    "Forbes Middle East": 2,
     "TV7 Israel News": 1,
     "News of Bahrain": 1,
     "The Guardian": 4,
@@ -8993,10 +8993,10 @@
     "WION": 1,
     "Construction Review": 1,
     "Bioengineer.org": 1,
-    "POST Wrestling": 1,
+    "POST Wrestling": 3,
     "Business Insider Africa": 2,
     "Peoples Gazette Nigeria": 1,
-    "Goal.com": 3,
+    "Goal.com": 4,
     "Automotive News": 1,
     "thenationalnews.com": 1,
     "Campaign Middle East": 1,
@@ -9014,10 +9014,19 @@
     "News On AIR": 1,
     "Cageside Seats": 1,
     "The Express Tribune": 1,
-    "Yahoo Sports": 1,
+    "Yahoo Sports": 2,
     "RMU Sentry Media": 1,
     "The National Interest": 1,
-    "Pro Wrestling Dot Net": 1
+    "Pro Wrestling Dot Net": 1,
+    "Middle East Online": 1,
+    "NDTV": 1,
+    "Wrestling Inc.": 1,
+    "Arabian Business": 1,
+    "Transport Topics": 1,
+    "Chosunbiz": 1,
+    "Yardbarker": 1,
+    "Ministère de l'Europe et des Affaires étrangères": 2,
+    "Palestine Chronicle": 1
    },
    "sourceTone": {
     "Amwaj.media": [
@@ -9032,7 +9041,7 @@
     ],
     "BBC": [
      0,
-     10,
+     11,
      0
     ],
     "Al-Monitor": [
@@ -9052,7 +9061,7 @@
     ],
     "Bloomberg.com": [
      0,
-     46,
+     47,
      0
     ],
     "AP News": [
@@ -9067,7 +9076,7 @@
     ],
     "Arab News": [
      0,
-     52,
+     70,
      0
     ],
     "UA.NEWS": [
@@ -9107,7 +9116,7 @@
     ],
     "Sports Illustrated": [
      0,
-     1,
+     2,
      0
     ],
     "The Business Standard": [
@@ -9152,7 +9161,7 @@
     ],
     "Reuters": [
      0,
-     55,
+     57,
      0
     ],
     "Gulf News": [
@@ -9387,12 +9396,12 @@
     ],
     "Crude Oil Prices Today | OilPrice.com": [
      0,
-     1,
+     2,
      0
     ],
     "Forbes Middle East": [
      0,
-     1,
+     2,
      0
     ],
     "TV7 Israel News": [
@@ -9472,7 +9481,7 @@
     ],
     "POST Wrestling": [
      0,
-     1,
+     3,
      0
     ],
     "Business Insider Africa": [
@@ -9487,7 +9496,7 @@
     ],
     "Goal.com": [
      0,
-     3,
+     4,
      0
     ],
     "Automotive News": [
@@ -9577,7 +9586,7 @@
     ],
     "Yahoo Sports": [
      0,
-     1,
+     2,
      0
     ],
     "RMU Sentry Media": [
@@ -9591,6 +9600,51 @@
      0
     ],
     "Pro Wrestling Dot Net": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Online": [
+     0,
+     1,
+     0
+    ],
+    "NDTV": [
+     0,
+     1,
+     0
+    ],
+    "Wrestling Inc.": [
+     0,
+     1,
+     0
+    ],
+    "Arabian Business": [
+     0,
+     1,
+     0
+    ],
+    "Transport Topics": [
+     0,
+     1,
+     0
+    ],
+    "Chosunbiz": [
+     0,
+     1,
+     0
+    ],
+    "Yardbarker": [
+     0,
+     1,
+     0
+    ],
+    "Ministère de l'Europe et des Affaires étrangères": [
+     0,
+     2,
+     0
+    ],
+    "Palestine Chronicle": [
      0,
      1,
      0
