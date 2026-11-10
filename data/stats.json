@@ -8041,18 +8041,18 @@
    }
   },
   "2026-11-09": {
-   "total": 736,
-   "news": 730,
+   "total": 741,
+   "news": 735,
    "articles": 6,
    "positive": 0,
-   "neutral": 736,
+   "neutral": 741,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "GB": 215,
-    "US": 245,
+    "US": 248,
     "FR": 28,
-    "SA": 70,
+    "SA": 72,
     "HK": 3,
     "DE": 1,
     "JP": 1
@@ -8067,7 +8067,7 @@
     "Arab News": 71,
     "The Washington Post": 7,
     "Al-Monitor": 47,
-    "AP News": 17,
+    "AP News": 19,
     "South China Morning Post": 5,
     "The Times of India": 1,
     "news.sbs.co.kr": 1,
@@ -8092,7 +8092,7 @@
     "Zawya": 2,
     "DD News": 1,
     "The Hindu": 1,
-    "Saudi Gazette": 13,
+    "Saudi Gazette": 15,
     "L'Orient Today": 1,
     "The National": 2,
     "Intelligent CISO": 1,
@@ -8136,7 +8136,7 @@
     "The Jerusalem Post": 3,
     "Spiegel": 1,
     "Atlantic Council": 5,
-    "The New York Times": 9,
+    "The New York Times": 10,
     "Hindustan Times": 1,
     "The Straits Times": 1,
     "The Arab Weekly": 1,
@@ -8240,7 +8240,7 @@
     ],
     "AP News": [
      0,
-     17,
+     19,
      0
     ],
     "South China Morning Post": [
@@ -8365,7 +8365,7 @@
     ],
     "Saudi Gazette": [
      0,
-     13,
+     15,
      0
     ],
     "L'Orient Today": [
@@ -8585,7 +8585,7 @@
     ],
     "The New York Times": [
      0,
-     9,
+     10,
      0
     ],
     "Hindustan Times": [
@@ -8886,18 +8886,18 @@
    }
   },
   "2026-11-10": {
-   "total": 262,
-   "news": 258,
+   "total": 297,
+   "news": 293,
    "articles": 4,
    "positive": 0,
-   "neutral": 262,
+   "neutral": 297,
    "critical": 0,
-   "mbs": 5,
+   "mbs": 11,
    "countries": {
-    "US": 93,
-    "GB": 47,
+    "US": 109,
+    "GB": 54,
     "HK": 1,
-    "SA": 27,
+    "SA": 31,
     "FR": 4,
     "DE": 3
    },
@@ -8905,14 +8905,14 @@
    "sources": {
     "Amwaj.media": 1,
     "The Washington Post": 6,
-    "BBC": 7,
-    "Al-Monitor": 19,
-    "WSJ": 17,
+    "BBC": 8,
+    "Al-Monitor": 23,
+    "WSJ": 20,
     "South China Morning Post": 1,
-    "Bloomberg.com": 28,
-    "AP News": 9,
-    "The New York Times": 12,
-    "Arab News": 23,
+    "Bloomberg.com": 32,
+    "AP News": 11,
+    "The New York Times": 15,
+    "Arab News": 27,
     "UA.NEWS": 2,
     "Investing.com": 1,
     "The National": 1,
@@ -8929,20 +8929,20 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 1,
-    "Reuters": 28,
+    "Reuters": 32,
     "Gulf News": 3,
     "CGTN": 1,
     "Al Jazeera": 1,
     "TRT World": 1,
     "Asset Servicing Times": 1,
     "Saudi Gazette": 7,
-    "Financial Times": 11,
+    "Financial Times": 12,
     "CNN": 1,
     "France 24": 4,
     "Fana News -": 1,
     "Spiegel": 3,
-    "Al Arabiya English": 2,
-    "ASHARQ AL-AWSAT English": 4,
+    "Al Arabiya English": 3,
+    "ASHARQ AL-AWSAT English": 5,
     "Arabian Gulf Business Insight | AGBI": 1,
     "Yemen Online": 1,
     "Global Custodian": 1,
@@ -8980,9 +8980,14 @@
     "Forbes Middle East": 1,
     "TV7 Israel News": 1,
     "News of Bahrain": 1,
-    "The Guardian": 2,
+    "The Guardian": 3,
     "Foreign Policy": 1,
-    "صحيفة سبق الإلكترونية": 1
+    "صحيفة سبق الإلكترونية": 1,
+    "thetruthaboutcars.com": 1,
+    "MTV Lebanon": 1,
+    "Arab News PK": 2,
+    "شبكة تواصل الإخبارية": 1,
+    "MMA Mania": 1
    },
    "sourceTone": {
     "Amwaj.media": [
@@ -8997,17 +9002,17 @@
     ],
     "BBC": [
      0,
-     7,
+     8,
      0
     ],
     "Al-Monitor": [
      0,
-     19,
+     23,
      0
     ],
     "WSJ": [
      0,
-     17,
+     20,
      0
     ],
     "South China Morning Post": [
@@ -9017,22 +9022,22 @@
     ],
     "Bloomberg.com": [
      0,
-     28,
+     32,
      0
     ],
     "AP News": [
      0,
-     9,
+     11,
      0
     ],
     "The New York Times": [
      0,
-     12,
+     15,
      0
     ],
     "Arab News": [
      0,
-     23,
+     27,
      0
     ],
     "UA.NEWS": [
@@ -9117,7 +9122,7 @@
     ],
     "Reuters": [
      0,
-     28,
+     32,
      0
     ],
     "Gulf News": [
@@ -9152,7 +9157,7 @@
     ],
     "Financial Times": [
      0,
-     11,
+     12,
      0
     ],
     "CNN": [
@@ -9177,12 +9182,12 @@
     ],
     "Al Arabiya English": [
      0,
-     2,
+     3,
      0
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     4,
+     5,
      0
     ],
     "Arabian Gulf Business Insight | AGBI": [
@@ -9372,7 +9377,7 @@
     ],
     "The Guardian": [
      0,
-     2,
+     3,
      0
     ],
     "Foreign Policy": [
@@ -9381,6 +9386,31 @@
      0
     ],
     "صحيفة سبق الإلكترونية": [
+     0,
+     1,
+     0
+    ],
+    "thetruthaboutcars.com": [
+     0,
+     1,
+     0
+    ],
+    "MTV Lebanon": [
+     0,
+     1,
+     0
+    ],
+    "Arab News PK": [
+     0,
+     2,
+     0
+    ],
+    "شبكة تواصل الإخبارية": [
+     0,
+     1,
+     0
+    ],
+    "MMA Mania": [
      0,
      1,
      0
