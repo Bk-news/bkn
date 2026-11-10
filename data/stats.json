@@ -7083,18 +7083,18 @@
    }
   },
   "2026-11-08": {
-   "total": 623,
-   "news": 619,
+   "total": 624,
+   "news": 620,
    "articles": 4,
    "positive": 0,
-   "neutral": 623,
+   "neutral": 624,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 82,
     "FR": 52,
     "HK": 9,
-    "GB": 122,
+    "GB": 123,
     "US": 132,
     "DE": 2
    },
@@ -7121,7 +7121,7 @@
     "Le Monde.fr": 6,
     "Al-Monitor": 21,
     "The Washington Post": 2,
-    "BBC": 13,
+    "BBC": 14,
     "Financial Times": 49,
     "The Guardian": 3,
     "Arab News PK": 3,
@@ -7365,7 +7365,7 @@
     ],
     "BBC": [
      0,
-     13,
+     14,
      0
     ],
     "Financial Times": [
@@ -8874,16 +8874,16 @@
    }
   },
   "2026-11-10": {
-   "total": 38,
-   "news": 38,
+   "total": 40,
+   "news": 40,
    "articles": 0,
    "positive": 0,
-   "neutral": 38,
+   "neutral": 40,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "US": 16,
-    "GB": 1,
+    "US": 17,
+    "GB": 2,
     "HK": 1,
     "SA": 2
    },
@@ -8893,7 +8893,7 @@
     "The Washington Post": 1,
     "BBC": 1,
     "Al-Monitor": 3,
-    "WSJ": 3,
+    "WSJ": 4,
     "South China Morning Post": 1,
     "Bloomberg.com": 5,
     "AP News": 2,
@@ -8914,7 +8914,8 @@
     "The Times of Israel": 1,
     "The Business Journals": 1,
     "Puck": 1,
-    "Heavy.com": 1
+    "Heavy.com": 1,
+    "Reuters": 1
    },
    "sourceTone": {
     "Amwaj.media": [
@@ -8939,7 +8940,7 @@
     ],
     "WSJ": [
      0,
-     3,
+     4,
      0
     ],
     "South China Morning Post": [
@@ -9043,6 +9044,11 @@
      0
     ],
     "Heavy.com": [
+     0,
+     1,
+     0
+    ],
+    "Reuters": [
      0,
      1,
      0
