@@ -8874,11 +8874,11 @@
    }
   },
   "2026-11-10": {
-   "total": 48,
-   "news": 48,
+   "total": 49,
+   "news": 49,
    "articles": 0,
    "positive": 0,
-   "neutral": 48,
+   "neutral": 49,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -8916,7 +8916,8 @@
     "Puck": 1,
     "Heavy.com": 1,
     "Reuters": 4,
-    "Gulf News": 1
+    "Gulf News": 1,
+    "CGTN": 1
    },
    "sourceTone": {
     "Amwaj.media": [
@@ -9055,6 +9056,11 @@
      0
     ],
     "Gulf News": [
+     0,
+     1,
+     0
+    ],
+    "CGTN": [
      0,
      1,
      0
