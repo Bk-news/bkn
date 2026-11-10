@@ -8886,15 +8886,15 @@
    }
   },
   "2026-11-10": {
-   "total": 223,
-   "news": 221,
+   "total": 224,
+   "news": 222,
    "articles": 2,
    "positive": 0,
-   "neutral": 223,
+   "neutral": 224,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "US": 76,
+    "US": 77,
     "GB": 39,
     "HK": 1,
     "SA": 23,
@@ -8906,7 +8906,7 @@
     "Amwaj.media": 1,
     "The Washington Post": 3,
     "BBC": 5,
-    "Al-Monitor": 16,
+    "Al-Monitor": 17,
     "WSJ": 14,
     "South China Morning Post": 1,
     "Bloomberg.com": 26,
@@ -8997,7 +8997,7 @@
     ],
     "Al-Monitor": [
      0,
-     16,
+     17,
      0
     ],
     "WSJ": [
