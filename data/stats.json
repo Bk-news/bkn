@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 753,
-   "news": 741,
+   "total": 754,
+   "news": 742,
    "articles": 12,
    "positive": 0,
-   "neutral": 753,
+   "neutral": 754,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 204,
-    "GB": 250,
+    "GB": 251,
     "HK": 1,
     "SA": 97,
     "FR": 6,
@@ -8980,7 +8980,7 @@
     "Forbes Middle East": 2,
     "TV7 Israel News": 1,
     "News of Bahrain": 1,
-    "The Guardian": 111,
+    "The Guardian": 112,
     "Foreign Policy": 2,
     "صحيفة سبق الإلكترونية": 1,
     "thetruthaboutcars.com": 1,
@@ -9426,7 +9426,7 @@
     ],
     "The Guardian": [
      0,
-     111,
+     112,
      0
     ],
     "Foreign Policy": [
@@ -9712,20 +9712,20 @@
    }
   },
   "2026-11-11": {
-   "total": 427,
-   "news": 424,
+   "total": 430,
+   "news": 427,
    "articles": 3,
    "positive": 0,
-   "neutral": 427,
+   "neutral": 430,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "US": 109,
     "SA": 44,
-    "GB": 127,
+    "GB": 129,
     "JP": 1,
     "HK": 4,
-    "FR": 1
+    "FR": 2
    },
    "topics": {},
    "sources": {
@@ -9737,8 +9737,8 @@
     "Al-Monitor": 27,
     "The Washington Post": 13,
     "AP News": 9,
-    "Reuters": 40,
-    "The Guardian": 66,
+    "Reuters": 41,
+    "The Guardian": 67,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 1,
@@ -9759,7 +9759,7 @@
     "Saudi Gazette": 4,
     "Bloomberg.com": 30,
     "South China Morning Post": 4,
-    "Le Monde.fr": 1,
+    "Le Monde.fr": 2,
     "Mining.com.au": 1,
     "The Week": 1,
     "Construction Review": 2,
@@ -9887,12 +9887,12 @@
     ],
     "Reuters": [
      0,
-     40,
+     41,
      0
     ],
     "The Guardian": [
      0,
-     66,
+     67,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -9997,7 +9997,7 @@
     ],
     "Le Monde.fr": [
      0,
-     1,
+     2,
      0
     ],
     "Mining.com.au": [
