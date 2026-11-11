@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 450,
-   "news": 447,
+   "total": 454,
+   "news": 451,
    "articles": 3,
    "positive": 0,
-   "neutral": 450,
+   "neutral": 454,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "US": 114,
     "SA": 46,
-    "GB": 139,
+    "GB": 142,
     "JP": 1,
     "HK": 4,
     "FR": 2
@@ -9737,8 +9737,8 @@
     "Al-Monitor": 29,
     "The Washington Post": 13,
     "AP News": 9,
-    "Reuters": 44,
-    "The Guardian": 72,
+    "Reuters": 45,
+    "The Guardian": 74,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 1,
@@ -9844,7 +9844,8 @@
     "https://internationalfinance.com/": 1,
     "Best Selling Cars Blog": 1,
     "وكالة الأنباء السعودية": 1,
-    "marketscreener.com": 1
+    "marketscreener.com": 1,
+    "Metro.co.uk": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -9889,12 +9890,12 @@
     ],
     "Reuters": [
      0,
-     44,
+     45,
      0
     ],
     "The Guardian": [
      0,
-     72,
+     74,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -10423,6 +10424,11 @@
      0
     ],
     "marketscreener.com": [
+     0,
+     1,
+     0
+    ],
+    "Metro.co.uk": [
      0,
      1,
      0
