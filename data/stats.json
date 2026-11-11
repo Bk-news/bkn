@@ -8041,16 +8041,16 @@
    }
   },
   "2026-11-09": {
-   "total": 757,
-   "news": 751,
+   "total": 761,
+   "news": 755,
    "articles": 6,
    "positive": 0,
-   "neutral": 757,
+   "neutral": 761,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 220,
-    "US": 259,
+    "GB": 223,
+    "US": 260,
     "FR": 28,
     "SA": 72,
     "HK": 3,
@@ -8065,7 +8065,7 @@
     "CNN": 7,
     "France 24": 23,
     "Arab News": 71,
-    "The Washington Post": 9,
+    "The Washington Post": 10,
     "Al-Monitor": 47,
     "AP News": 20,
     "South China Morning Post": 5,
@@ -8078,7 +8078,7 @@
     "Daily Observer": 1,
     "The Business Standard": 1,
     "Nine.com.au": 1,
-    "Reuters": 129,
+    "Reuters": 132,
     "NDTV Sports": 1,
     "Bloomberg.com": 44,
     "UA.NEWS": 3,
@@ -8230,7 +8230,7 @@
     ],
     "The Washington Post": [
      0,
-     9,
+     10,
      0
     ],
     "Al-Monitor": [
@@ -8295,7 +8295,7 @@
     ],
     "Reuters": [
      0,
-     129,
+     132,
      0
     ],
     "NDTV Sports": [
@@ -8886,18 +8886,18 @@
    }
   },
   "2026-11-10": {
-   "total": 588,
-   "news": 576,
+   "total": 601,
+   "news": 589,
    "articles": 12,
    "positive": 0,
-   "neutral": 588,
+   "neutral": 601,
    "critical": 0,
    "mbs": 22,
    "countries": {
-    "US": 195,
-    "GB": 100,
+    "US": 200,
+    "GB": 106,
     "HK": 1,
-    "SA": 94,
+    "SA": 96,
     "FR": 4,
     "DE": 4
    },
@@ -8906,13 +8906,13 @@
     "Amwaj.media": 1,
     "The Washington Post": 8,
     "BBC": 11,
-    "Al-Monitor": 50,
+    "Al-Monitor": 51,
     "WSJ": 38,
     "South China Morning Post": 1,
-    "Bloomberg.com": 48,
+    "Bloomberg.com": 50,
     "AP News": 17,
-    "The New York Times": 24,
-    "Arab News": 91,
+    "The New York Times": 26,
+    "Arab News": 93,
     "UA.NEWS": 2,
     "Investing.com": 2,
     "The National": 3,
@@ -8929,7 +8929,7 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 2,
-    "Reuters": 68,
+    "Reuters": 74,
     "Gulf News": 4,
     "CGTN": 1,
     "Al Jazeera": 2,
@@ -9054,7 +9054,7 @@
     ],
     "Al-Monitor": [
      0,
-     50,
+     51,
      0
     ],
     "WSJ": [
@@ -9069,7 +9069,7 @@
     ],
     "Bloomberg.com": [
      0,
-     48,
+     50,
      0
     ],
     "AP News": [
@@ -9079,12 +9079,12 @@
     ],
     "The New York Times": [
      0,
-     24,
+     26,
      0
     ],
     "Arab News": [
      0,
-     91,
+     93,
      0
     ],
     "UA.NEWS": [
@@ -9169,7 +9169,7 @@
     ],
     "Reuters": [
      0,
-     68,
+     74,
      0
     ],
     "Gulf News": [
@@ -9700,17 +9700,17 @@
    }
   },
   "2026-11-11": {
-   "total": 114,
-   "news": 114,
+   "total": 137,
+   "news": 137,
    "articles": 0,
    "positive": 0,
-   "neutral": 114,
+   "neutral": 137,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "US": 45,
+    "US": 50,
     "SA": 13,
-    "GB": 27,
+    "GB": 36,
     "JP": 1,
     "HK": 1,
     "FR": 1
@@ -9723,10 +9723,10 @@
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
     "Al-Monitor": 8,
-    "The Washington Post": 10,
+    "The Washington Post": 12,
     "AP News": 4,
     "Reuters": 7,
-    "The Guardian": 10,
+    "The Guardian": 19,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 1,
@@ -9734,7 +9734,7 @@
     "Billionaires.Africa": 1,
     "Bleeding Cool News": 1,
     "BBC": 5,
-    "Chosunbiz": 1,
+    "Chosunbiz": 2,
     "Dawn": 1,
     "The Australian": 1,
     "The Express Tribune": 1,
@@ -9745,7 +9745,7 @@
     "Financial Times": 5,
     "Cyprus Shipping News": 1,
     "Saudi Gazette": 3,
-    "Bloomberg.com": 8,
+    "Bloomberg.com": 11,
     "South China Morning Post": 1,
     "Le Monde.fr": 1,
     "Mining.com.au": 1,
@@ -9755,7 +9755,15 @@
     "Utilities Middle East": 1,
     "People Daily": 2,
     "ASHARQ AL-AWSAT English": 1,
-    "Atalayar": 1
+    "Atalayar": 1,
+    "UA.NEWS": 1,
+    "thenationalnews.com": 1,
+    "The New Arab": 1,
+    "WION": 1,
+    "Daily Sabah": 1,
+    "Crude Oil Prices Today | OilPrice.com": 1,
+    "Informat.ro": 1,
+    "WhatCulture.com": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -9790,7 +9798,7 @@
     ],
     "The Washington Post": [
      0,
-     10,
+     12,
      0
     ],
     "AP News": [
@@ -9805,7 +9813,7 @@
     ],
     "The Guardian": [
      0,
-     10,
+     19,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -9845,7 +9853,7 @@
     ],
     "Chosunbiz": [
      0,
-     1,
+     2,
      0
     ],
     "Dawn": [
@@ -9900,7 +9908,7 @@
     ],
     "Bloomberg.com": [
      0,
-     8,
+     11,
      0
     ],
     "South China Morning Post": [
@@ -9949,6 +9957,46 @@
      0
     ],
     "Atalayar": [
+     0,
+     1,
+     0
+    ],
+    "UA.NEWS": [
+     0,
+     1,
+     0
+    ],
+    "thenationalnews.com": [
+     0,
+     1,
+     0
+    ],
+    "The New Arab": [
+     0,
+     1,
+     0
+    ],
+    "WION": [
+     0,
+     1,
+     0
+    ],
+    "Daily Sabah": [
+     0,
+     1,
+     0
+    ],
+    "Crude Oil Prices Today | OilPrice.com": [
+     0,
+     1,
+     0
+    ],
+    "Informat.ro": [
+     0,
+     1,
+     0
+    ],
+    "WhatCulture.com": [
      0,
      1,
      0
