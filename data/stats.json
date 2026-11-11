@@ -8886,18 +8886,18 @@
    }
   },
   "2026-11-10": {
-   "total": 580,
-   "news": 568,
+   "total": 588,
+   "news": 576,
    "articles": 12,
    "positive": 0,
-   "neutral": 580,
+   "neutral": 588,
    "critical": 0,
    "mbs": 22,
    "countries": {
-    "US": 191,
-    "GB": 98,
+    "US": 195,
+    "GB": 100,
     "HK": 1,
-    "SA": 92,
+    "SA": 94,
     "FR": 4,
     "DE": 4
    },
@@ -8906,13 +8906,13 @@
     "Amwaj.media": 1,
     "The Washington Post": 8,
     "BBC": 11,
-    "Al-Monitor": 46,
+    "Al-Monitor": 50,
     "WSJ": 38,
     "South China Morning Post": 1,
     "Bloomberg.com": 48,
     "AP News": 17,
     "The New York Times": 24,
-    "Arab News": 89,
+    "Arab News": 91,
     "UA.NEWS": 2,
     "Investing.com": 2,
     "The National": 3,
@@ -8929,7 +8929,7 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 2,
-    "Reuters": 66,
+    "Reuters": 68,
     "Gulf News": 4,
     "CGTN": 1,
     "Al Jazeera": 2,
@@ -9054,7 +9054,7 @@
     ],
     "Al-Monitor": [
      0,
-     46,
+     50,
      0
     ],
     "WSJ": [
@@ -9084,7 +9084,7 @@
     ],
     "Arab News": [
      0,
-     89,
+     91,
      0
     ],
     "UA.NEWS": [
@@ -9169,7 +9169,7 @@
     ],
     "Reuters": [
      0,
-     66,
+     68,
      0
     ],
     "Gulf News": [
@@ -9700,33 +9700,33 @@
    }
   },
   "2026-11-11": {
-   "total": 82,
-   "news": 82,
+   "total": 114,
+   "news": 114,
    "articles": 0,
    "positive": 0,
-   "neutral": 82,
+   "neutral": 114,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "US": 31,
-    "SA": 10,
-    "GB": 18,
+    "US": 45,
+    "SA": 13,
+    "GB": 27,
     "JP": 1,
     "HK": 1,
     "FR": 1
    },
    "topics": {},
    "sources": {
-    "WSJ": 7,
-    "The New York Times": 6,
-    "Arab News": 8,
+    "WSJ": 8,
+    "The New York Times": 7,
+    "Arab News": 11,
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
-    "Al-Monitor": 7,
-    "The Washington Post": 4,
+    "Al-Monitor": 8,
+    "The Washington Post": 10,
     "AP News": 4,
-    "Reuters": 4,
-    "The Guardian": 5,
+    "Reuters": 7,
+    "The Guardian": 10,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 1,
@@ -9742,30 +9742,35 @@
     "https://houseofsaud.com/": 1,
     "Arab News PK": 1,
     "The Economic Times": 1,
-    "Financial Times": 4,
+    "Financial Times": 5,
     "Cyprus Shipping News": 1,
     "Saudi Gazette": 3,
-    "Bloomberg.com": 3,
+    "Bloomberg.com": 8,
     "South China Morning Post": 1,
     "Le Monde.fr": 1,
     "Mining.com.au": 1,
     "The Week": 1,
-    "Construction Review": 1
+    "Construction Review": 1,
+    "Zawya": 1,
+    "Utilities Middle East": 1,
+    "People Daily": 2,
+    "ASHARQ AL-AWSAT English": 1,
+    "Atalayar": 1
    },
    "sourceTone": {
     "WSJ": [
      0,
-     7,
+     8,
      0
     ],
     "The New York Times": [
      0,
-     6,
+     7,
      0
     ],
     "Arab News": [
      0,
-     8,
+     11,
      0
     ],
     "www.thenewworld.co.uk": [
@@ -9780,12 +9785,12 @@
     ],
     "Al-Monitor": [
      0,
-     7,
+     8,
      0
     ],
     "The Washington Post": [
      0,
-     4,
+     10,
      0
     ],
     "AP News": [
@@ -9795,12 +9800,12 @@
     ],
     "Reuters": [
      0,
-     4,
+     7,
      0
     ],
     "The Guardian": [
      0,
-     5,
+     10,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -9880,7 +9885,7 @@
     ],
     "Financial Times": [
      0,
-     4,
+     5,
      0
     ],
     "Cyprus Shipping News": [
@@ -9895,7 +9900,7 @@
     ],
     "Bloomberg.com": [
      0,
-     3,
+     8,
      0
     ],
     "South China Morning Post": [
@@ -9919,6 +9924,31 @@
      0
     ],
     "Construction Review": [
+     0,
+     1,
+     0
+    ],
+    "Zawya": [
+     0,
+     1,
+     0
+    ],
+    "Utilities Middle East": [
+     0,
+     1,
+     0
+    ],
+    "People Daily": [
+     0,
+     2,
+     0
+    ],
+    "ASHARQ AL-AWSAT English": [
+     0,
+     1,
+     0
+    ],
+    "Atalayar": [
      0,
      1,
      0
