@@ -2,6 +2,26 @@
  "day": "2026-11-11",
  "items": [
   {
+   "id": "1dd1bd12a18b53b6",
+   "origin": "rss",
+   "source": "Arab News",
+   "author": "",
+   "title_ar": "US Republicans derail bid to impeach Pentagon chief",
+   "title_orig": "US Republicans derail bid to impeach Pentagon chief",
+   "title_en": "US Republicans derail bid to impeach Pentagon chief",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMXl3eUNTVS1qNThSd19BRGtqczVicVQzdXdJZVdWcjhZd3pfUlpCTG41NjJOWW1saEJDLUJ6UGZBREtSWFNJRHpSQWVkdHdqTDRGZnd3T01MRDdtWVhwVnJlZlluVm9TWkUxUWo2eTFfODhpVEJEUk1SSHJLTjRqUmFDUHNnaEVncGpyNmdkb05DNmct?oc=5",
+   "published": "2026-11-11T00:11:15.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "SA",
+   "pending": true,
+   "desc": "US Republicans derail bid to impeach Pentagon chief &nbsp;&nbsp; Arab News",
+   "lang": "en"
+  },
+  {
    "id": "0aa9e14b81a7a190",
    "origin": "rss",
    "source": "The New York Times",

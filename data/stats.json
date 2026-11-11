@@ -9694,20 +9694,22 @@
    }
   },
   "2026-11-11": {
-   "total": 3,
-   "news": 3,
+   "total": 4,
+   "news": 4,
    "articles": 0,
    "positive": 0,
-   "neutral": 3,
+   "neutral": 4,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "US": 3
+    "US": 3,
+    "SA": 1
    },
    "topics": {},
    "sources": {
     "WSJ": 1,
-    "The New York Times": 2
+    "The New York Times": 2,
+    "Arab News": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -9718,6 +9720,11 @@
     "The New York Times": [
      0,
      2,
+     0
+    ],
+    "Arab News": [
+     0,
+     1,
      0
     ]
    }

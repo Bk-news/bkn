@@ -1,5 +1,25 @@
 [
  {
+  "id": "1dd1bd12a18b53b6",
+  "origin": "rss",
+  "source": "Arab News",
+  "author": "",
+  "title_ar": "US Republicans derail bid to impeach Pentagon chief",
+  "title_orig": "US Republicans derail bid to impeach Pentagon chief",
+  "title_en": "US Republicans derail bid to impeach Pentagon chief",
+  "summary_ar": [],
+  "summary_en": [],
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMXl3eUNTVS1qNThSd19BRGtqczVicVQzdXdJZVdWcjhZd3pfUlpCTG41NjJOWW1saEJDLUJ6UGZBREtSWFNJRHpSQWVkdHdqTDRGZnd3T01MRDdtWVhwVnJlZlluVm9TWkUxUWo2eTFfODhpVEJEUk1SSHJLTjRqUmFDUHNnaEVncGpyNmdkb05DNmct?oc=5",
+  "published": "2026-11-11T00:11:15.000Z",
+  "subject": "saudi",
+  "tone": "neutral",
+  "topic": "",
+  "country": "SA",
+  "pending": true,
+  "desc": "US Republicans derail bid to impeach Pentagon chief &nbsp;&nbsp; Arab News",
+  "lang": "en"
+ },
+ {
   "id": "0aa9e14b81a7a190",
   "origin": "rss",
   "source": "The New York Times",
@@ -10339,27 +10359,6 @@
   "country": "",
   "pending": true,
   "desc": "Mecca defense pact could anchor Lebanon’s security, experts say &nbsp;&nbsp; Türkiye Today",
-  "lang": "en",
-  "mt": true
- },
- {
-  "id": "6a56ffbe8814a8ad",
-  "origin": "rss",
-  "source": "WSJ",
-  "author": "",
-  "title_ar": "النفط يتراجع مع تراجع مخاطر الصراع بين الولايات المتحدة وإيران",
-  "title_orig": "Oil Falls as U.S.-Iran Conflict Risks Ease",
-  "title_en": "Oil Falls as U.S.-Iran Conflict Risks Ease",
-  "summary_ar": [],
-  "summary_en": [],
-  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZGtQeENiZTdiN1dPVDFNWjY0SGlydGRDM0tVLWdUN1U3SzBjc3I1NWlseXhZQXRXbXNYcFJ0Y0lTSGctWUxiMXdUSDJTLVFjOEhJcU9USVhWVjlURUpaWndnRnFCYnNYdHJ6ZDlWTTFvSlNHVm1wdWJ6U2l1bDZVakdObE1yUUE1dUNLd3JWclpHTWhPRTZWSW1DWk9FTGs?oc=5",
-  "published": "2026-11-10T02:04:00.000Z",
-  "subject": "saudi",
-  "tone": "neutral",
-  "topic": "",
-  "country": "US",
-  "pending": true,
-  "desc": "Oil Falls as U.S.-Iran Conflict Risks Ease &nbsp;&nbsp; WSJ",
   "lang": "en",
   "mt": true
  }
