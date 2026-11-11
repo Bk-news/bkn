@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 752,
-   "news": 740,
+   "total": 753,
+   "news": 741,
    "articles": 12,
    "positive": 0,
-   "neutral": 752,
+   "neutral": 753,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 204,
-    "GB": 249,
+    "GB": 250,
     "HK": 1,
     "SA": 97,
     "FR": 6,
@@ -8929,7 +8929,7 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 2,
-    "Reuters": 108,
+    "Reuters": 109,
     "Gulf News": 4,
     "CGTN": 1,
     "Al Jazeera": 2,
@@ -9171,7 +9171,7 @@
     ],
     "Reuters": [
      0,
-     108,
+     109,
      0
     ],
     "Gulf News": [
@@ -9712,31 +9712,31 @@
    }
   },
   "2026-11-11": {
-   "total": 421,
-   "news": 418,
+   "total": 426,
+   "news": 423,
    "articles": 3,
    "positive": 0,
-   "neutral": 421,
+   "neutral": 426,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "US": 105,
+    "US": 108,
     "SA": 44,
-    "GB": 125,
+    "GB": 127,
     "JP": 1,
     "HK": 4,
     "FR": 1
    },
    "topics": {},
    "sources": {
-    "WSJ": 16,
+    "WSJ": 18,
     "The New York Times": 10,
     "Arab News": 47,
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
     "Al-Monitor": 27,
     "The Washington Post": 13,
-    "AP News": 8,
+    "AP News": 9,
     "Reuters": 40,
     "The Guardian": 66,
     "Tavern of the Taeguk Warriors": 1,
@@ -9754,7 +9754,7 @@
     "https://houseofsaud.com/": 2,
     "Arab News PK": 2,
     "The Economic Times": 1,
-    "Financial Times": 14,
+    "Financial Times": 16,
     "Cyprus Shipping News": 1,
     "Saudi Gazette": 4,
     "Bloomberg.com": 30,
@@ -9847,7 +9847,7 @@
    "sourceTone": {
     "WSJ": [
      0,
-     16,
+     18,
      0
     ],
     "The New York Times": [
@@ -9882,7 +9882,7 @@
     ],
     "AP News": [
      0,
-     8,
+     9,
      0
     ],
     "Reuters": [
@@ -9972,7 +9972,7 @@
     ],
     "Financial Times": [
      0,
-     14,
+     16,
      0
     ],
     "Cyprus Shipping News": [
