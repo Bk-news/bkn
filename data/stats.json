@@ -9692,6 +9692,29 @@
      0
     ]
    }
+  },
+  "2026-11-11": {
+   "total": 1,
+   "news": 1,
+   "articles": 0,
+   "positive": 0,
+   "neutral": 1,
+   "critical": 0,
+   "mbs": 0,
+   "countries": {
+    "US": 1
+   },
+   "topics": {},
+   "sources": {
+    "WSJ": 1
+   },
+   "sourceTone": {
+    "WSJ": [
+     0,
+     1,
+     0
+    ]
+   }
   }
  }
 }

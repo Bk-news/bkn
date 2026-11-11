@@ -1,5 +1,25 @@
 [
  {
+  "id": "28bae3f37fa59368",
+  "origin": "rss",
+  "source": "WSJ",
+  "author": "",
+  "title_ar": "Barrick Moves Toward Listing North American Gold Assets With SEC Filing",
+  "title_orig": "Barrick Moves Toward Listing North American Gold Assets With SEC Filing",
+  "title_en": "Barrick Moves Toward Listing North American Gold Assets With SEC Filing",
+  "summary_ar": [],
+  "summary_en": [],
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaFVDNXJxU3FIanFKdF9EZ2NqNEo2WThvcHRTRFg4ZFktQjI3QWhseXdub2tMRlZqZlZRRGI2Tk13SjVGc0h0WXBDb2xwMTNsQkZhSGNHMDN6eEc3NTZKTXVpTzFTNEk3OV9aMGZiV2ZKQlJKVGV4eGhVbnNSOGIxR09vMW9EZmxyb3N2MUhtcXVBdmNsMjZyZGJ2Vmd6NUdib0V4T29EeldsMmZ2MHc?oc=5",
+  "published": "2026-11-11T00:06:00.000Z",
+  "subject": "saudi",
+  "tone": "neutral",
+  "topic": "",
+  "country": "US",
+  "pending": true,
+  "desc": "Barrick Moves Toward Listing North American Gold Assets With SEC Filing &nbsp;&nbsp; WSJ",
+  "lang": "en"
+ },
+ {
   "id": "e94c7b03bbfd3441",
   "origin": "rss",
   "source": "Bloomberg.com",
@@ -10350,27 +10370,6 @@
   "country": "GB",
   "pending": true,
   "desc": "China seeks high-tech upper hand in industry carrying 80% of global trade &nbsp;&nbsp; Reuters",
-  "lang": "en",
-  "mt": true
- },
- {
-  "id": "3e9714780543b4b3",
-  "origin": "rss",
-  "source": "The Business Standard",
-  "author": "",
-  "title_ar": "تعرض خط أنابيب النفط السعودي الشرقي والغربي لهجوم جديد في منطقة المدينة المنورة",
-  "title_orig": "Saudi East-West oil pipeline hit by new attack in Medina region",
-  "title_en": "Saudi East-West oil pipeline hit by new attack in Medina region",
-  "summary_ar": [],
-  "summary_en": [],
-  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYWljU1RuUkI5SFh3YlR0NFdfZE84N3dKSUEtSFdIaUZYTDd1Uy1CU2xaNXVSOUdHeERjRmN1V0FtbXNjOFRULTUwcWp0eXdCejhYUFRmQkszYUg3dTN0MkFIbjM0SHA5endrbXdtalRneWlOcFJJSzBod1hOVWFQemV3aVRBZEMtMmxsV21tczBUeGhJRzVOUzFsc0hkcE1nSDhDT2FNcmpoZURPTnpF?oc=5",
-  "published": "2026-11-10T01:48:20.000Z",
-  "subject": "saudi",
-  "tone": "neutral",
-  "topic": "",
-  "country": "",
-  "pending": true,
-  "desc": "Saudi East-West oil pipeline hit by new attack in Medina region &nbsp;&nbsp; The Business Standard",
   "lang": "en",
   "mt": true
  }
