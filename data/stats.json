@@ -9700,11 +9700,11 @@
    }
   },
   "2026-11-11": {
-   "total": 28,
-   "news": 28,
+   "total": 29,
+   "news": 29,
    "articles": 0,
    "positive": 0,
-   "neutral": 28,
+   "neutral": 29,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -9733,7 +9733,8 @@
     "BBC": 1,
     "Chosunbiz": 1,
     "Dawn": 1,
-    "The Australian": 1
+    "The Australian": 1,
+    "The Express Tribune": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -9832,6 +9833,11 @@
      0
     ],
     "The Australian": [
+     0,
+     1,
+     0
+    ],
+    "The Express Tribune": [
      0,
      1,
      0
