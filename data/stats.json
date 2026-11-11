@@ -9700,11 +9700,11 @@
    }
   },
   "2026-11-11": {
-   "total": 25,
-   "news": 25,
+   "total": 28,
+   "news": 28,
    "articles": 0,
    "positive": 0,
-   "neutral": 25,
+   "neutral": 28,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -9730,7 +9730,10 @@
     "Bioengineer.org": 1,
     "Billionaires.Africa": 1,
     "Bleeding Cool News": 1,
-    "BBC": 1
+    "BBC": 1,
+    "Chosunbiz": 1,
+    "Dawn": 1,
+    "The Australian": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -9814,6 +9817,21 @@
      0
     ],
     "BBC": [
+     0,
+     1,
+     0
+    ],
+    "Chosunbiz": [
+     0,
+     1,
+     0
+    ],
+    "Dawn": [
+     0,
+     1,
+     0
+    ],
+    "The Australian": [
      0,
      1,
      0
