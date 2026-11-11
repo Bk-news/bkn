@@ -8041,15 +8041,15 @@
    }
   },
   "2026-11-09": {
-   "total": 796,
-   "news": 790,
+   "total": 797,
+   "news": 791,
    "articles": 6,
    "positive": 0,
-   "neutral": 796,
+   "neutral": 797,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 257,
+    "GB": 258,
     "US": 261,
     "FR": 28,
     "SA": 72,
@@ -8078,7 +8078,7 @@
     "Daily Observer": 1,
     "The Business Standard": 1,
     "Nine.com.au": 1,
-    "Reuters": 133,
+    "Reuters": 134,
     "NDTV Sports": 1,
     "Bloomberg.com": 44,
     "UA.NEWS": 3,
@@ -8295,7 +8295,7 @@
     ],
     "Reuters": [
      0,
-     133,
+     134,
      0
     ],
     "NDTV Sports": [
