@@ -8886,18 +8886,18 @@
    }
   },
   "2026-11-10": {
-   "total": 539,
-   "news": 528,
+   "total": 547,
+   "news": 536,
    "articles": 11,
    "positive": 0,
-   "neutral": 539,
+   "neutral": 547,
    "critical": 0,
    "mbs": 21,
    "countries": {
     "US": 183,
     "GB": 87,
     "HK": 1,
-    "SA": 72,
+    "SA": 80,
     "FR": 4,
     "DE": 4
    },
@@ -8912,7 +8912,7 @@
     "Bloomberg.com": 48,
     "AP News": 15,
     "The New York Times": 23,
-    "Arab News": 70,
+    "Arab News": 78,
     "UA.NEWS": 2,
     "Investing.com": 2,
     "The National": 3,
@@ -9083,7 +9083,7 @@
     ],
     "Arab News": [
      0,
-     70,
+     78,
      0
     ],
     "UA.NEWS": [
@@ -9694,24 +9694,30 @@
    }
   },
   "2026-11-11": {
-   "total": 1,
-   "news": 1,
+   "total": 3,
+   "news": 3,
    "articles": 0,
    "positive": 0,
-   "neutral": 1,
+   "neutral": 3,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "US": 1
+    "US": 3
    },
    "topics": {},
    "sources": {
-    "WSJ": 1
+    "WSJ": 1,
+    "The New York Times": 2
    },
    "sourceTone": {
     "WSJ": [
      0,
      1,
+     0
+    ],
+    "The New York Times": [
+     0,
+     2,
      0
     ]
    }
