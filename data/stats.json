@@ -8041,16 +8041,16 @@
    }
   },
   "2026-11-09": {
-   "total": 789,
-   "news": 783,
+   "total": 790,
+   "news": 784,
    "articles": 6,
    "positive": 0,
-   "neutral": 789,
+   "neutral": 790,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "GB": 251,
-    "US": 260,
+    "US": 261,
     "FR": 28,
     "SA": 72,
     "HK": 3,
@@ -8136,7 +8136,7 @@
     "The Jerusalem Post": 3,
     "Spiegel": 1,
     "Atlantic Council": 5,
-    "The New York Times": 12,
+    "The New York Times": 13,
     "Hindustan Times": 1,
     "The Straits Times": 1,
     "The Arab Weekly": 1,
@@ -8585,7 +8585,7 @@
     ],
     "The New York Times": [
      0,
-     12,
+     13,
      0
     ],
     "Hindustan Times": [
