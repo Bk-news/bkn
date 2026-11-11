@@ -8886,15 +8886,15 @@
    }
   },
   "2026-11-10": {
-   "total": 774,
-   "news": 762,
+   "total": 776,
+   "news": 764,
    "articles": 12,
    "positive": 0,
-   "neutral": 774,
+   "neutral": 776,
    "critical": 0,
    "mbs": 22,
    "countries": {
-    "US": 208,
+    "US": 210,
     "GB": 267,
     "HK": 1,
     "SA": 97,
@@ -8910,8 +8910,8 @@
     "WSJ": 41,
     "South China Morning Post": 1,
     "Bloomberg.com": 50,
-    "AP News": 20,
-    "The New York Times": 27,
+    "AP News": 21,
+    "The New York Times": 28,
     "Arab News": 94,
     "UA.NEWS": 2,
     "Investing.com": 2,
@@ -9076,12 +9076,12 @@
     ],
     "AP News": [
      0,
-     20,
+     21,
      0
     ],
     "The New York Times": [
      0,
-     27,
+     28,
      0
     ],
     "Arab News": [
@@ -9712,33 +9712,33 @@
    }
   },
   "2026-11-11": {
-   "total": 470,
-   "news": 467,
-   "articles": 3,
+   "total": 508,
+   "news": 504,
+   "articles": 4,
    "positive": 0,
-   "neutral": 470,
+   "neutral": 508,
    "critical": 0,
-   "mbs": 2,
+   "mbs": 3,
    "countries": {
-    "US": 116,
-    "SA": 49,
-    "GB": 150,
+    "US": 129,
+    "SA": 55,
+    "GB": 160,
     "JP": 1,
     "HK": 4,
-    "FR": 2
+    "FR": 4
    },
    "topics": {},
    "sources": {
-    "WSJ": 22,
-    "The New York Times": 10,
-    "Arab News": 50,
+    "WSJ": 25,
+    "The New York Times": 11,
+    "Arab News": 53,
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
-    "Al-Monitor": 30,
+    "Al-Monitor": 33,
     "The Washington Post": 13,
     "AP News": 9,
-    "Reuters": 47,
-    "The Guardian": 78,
+    "Reuters": 51,
+    "The Guardian": 81,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 2,
@@ -9754,10 +9754,10 @@
     "https://houseofsaud.com/": 3,
     "Arab News PK": 2,
     "The Economic Times": 1,
-    "Financial Times": 20,
+    "Financial Times": 23,
     "Cyprus Shipping News": 1,
-    "Saudi Gazette": 6,
-    "Bloomberg.com": 31,
+    "Saudi Gazette": 9,
+    "Bloomberg.com": 32,
     "South China Morning Post": 4,
     "Le Monde.fr": 2,
     "Mining.com.au": 1,
@@ -9782,7 +9782,7 @@
     "Egypt Oil & Gas": 2,
     "Archiproducts": 1,
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Middle East Eye": 4,
+    "Middle East Eye": 5,
     "Türkiye Today": 1,
     "Condé Nast Traveller Middle East": 1,
     "MEED": 1,
@@ -9799,13 +9799,13 @@
     "CairoScene": 1,
     "The Economist": 1,
     "Middle East Online": 2,
-    "CNN": 1,
+    "CNN": 2,
     "DW.com": 1,
     "アラブニュース": 2,
     "Foreign Policy": 2,
     "Anadolu Ajansı": 1,
     "شبكة تواصل الإخبارية": 1,
-    "Atlantic Council": 1,
+    "Atlantic Council": 2,
     "lovin.co": 1,
     "Pinsent Masons": 1,
     "Rediff": 1,
@@ -9845,22 +9845,30 @@
     "Best Selling Cars Blog": 1,
     "وكالة الأنباء السعودية": 1,
     "marketscreener.com": 1,
-    "Metro.co.uk": 1
+    "Metro.co.uk": 1,
+    "The Times of Israel": 1,
+    "Bloomberg": 3,
+    "France 24": 2,
+    "شفق نيوز": 1,
+    "Autoblog": 1,
+    "The Siasat Daily": 1,
+    "SBS 뉴스": 1,
+    "سانا": 1
    },
    "sourceTone": {
     "WSJ": [
      0,
-     22,
+     25,
      0
     ],
     "The New York Times": [
      0,
-     10,
+     11,
      0
     ],
     "Arab News": [
      0,
-     50,
+     53,
      0
     ],
     "www.thenewworld.co.uk": [
@@ -9875,7 +9883,7 @@
     ],
     "Al-Monitor": [
      0,
-     30,
+     33,
      0
     ],
     "The Washington Post": [
@@ -9890,12 +9898,12 @@
     ],
     "Reuters": [
      0,
-     47,
+     51,
      0
     ],
     "The Guardian": [
      0,
-     78,
+     81,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -9975,7 +9983,7 @@
     ],
     "Financial Times": [
      0,
-     20,
+     23,
      0
     ],
     "Cyprus Shipping News": [
@@ -9985,12 +9993,12 @@
     ],
     "Saudi Gazette": [
      0,
-     6,
+     9,
      0
     ],
     "Bloomberg.com": [
      0,
-     31,
+     32,
      0
     ],
     "South China Morning Post": [
@@ -10115,7 +10123,7 @@
     ],
     "Middle East Eye": [
      0,
-     4,
+     5,
      0
     ],
     "Türkiye Today": [
@@ -10200,7 +10208,7 @@
     ],
     "CNN": [
      0,
-     1,
+     2,
      0
     ],
     "DW.com": [
@@ -10230,7 +10238,7 @@
     ],
     "Atlantic Council": [
      0,
-     1,
+     2,
      0
     ],
     "lovin.co": [
@@ -10429,6 +10437,46 @@
      0
     ],
     "Metro.co.uk": [
+     0,
+     1,
+     0
+    ],
+    "The Times of Israel": [
+     0,
+     1,
+     0
+    ],
+    "Bloomberg": [
+     0,
+     3,
+     0
+    ],
+    "France 24": [
+     0,
+     2,
+     0
+    ],
+    "شفق نيوز": [
+     0,
+     1,
+     0
+    ],
+    "Autoblog": [
+     0,
+     1,
+     0
+    ],
+    "The Siasat Daily": [
+     0,
+     1,
+     0
+    ],
+    "SBS 뉴스": [
+     0,
+     1,
+     0
+    ],
+    "سانا": [
      0,
      1,
      0
