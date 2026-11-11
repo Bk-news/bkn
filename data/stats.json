@@ -8041,16 +8041,16 @@
    }
   },
   "2026-11-09": {
-   "total": 754,
-   "news": 748,
+   "total": 756,
+   "news": 750,
    "articles": 6,
    "positive": 0,
-   "neutral": 754,
+   "neutral": 756,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "GB": 219,
-    "US": 257,
+    "US": 259,
     "FR": 28,
     "SA": 72,
     "HK": 3,
@@ -8080,7 +8080,7 @@
     "Nine.com.au": 1,
     "Reuters": 128,
     "NDTV Sports": 1,
-    "Bloomberg.com": 43,
+    "Bloomberg.com": 44,
     "UA.NEWS": 3,
     "BBC": 10,
     "The Guardian": 7,
@@ -8136,7 +8136,7 @@
     "The Jerusalem Post": 3,
     "Spiegel": 1,
     "Atlantic Council": 5,
-    "The New York Times": 11,
+    "The New York Times": 12,
     "Hindustan Times": 1,
     "The Straits Times": 1,
     "The Arab Weekly": 1,
@@ -8305,7 +8305,7 @@
     ],
     "Bloomberg.com": [
      0,
-     43,
+     44,
      0
     ],
     "UA.NEWS": [
@@ -8585,7 +8585,7 @@
     ],
     "The New York Times": [
      0,
-     11,
+     12,
      0
     ],
     "Hindustan Times": [
@@ -9700,22 +9700,22 @@
    }
   },
   "2026-11-11": {
-   "total": 23,
-   "news": 23,
+   "total": 24,
+   "news": 24,
    "articles": 0,
    "positive": 0,
-   "neutral": 23,
+   "neutral": 24,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "US": 11,
+    "US": 12,
     "SA": 2,
     "GB": 2
    },
    "topics": {},
    "sources": {
     "WSJ": 3,
-    "The New York Times": 2,
+    "The New York Times": 3,
     "Arab News": 2,
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
@@ -9739,7 +9739,7 @@
     ],
     "The New York Times": [
      0,
-     2,
+     3,
      0
     ],
     "Arab News": [
