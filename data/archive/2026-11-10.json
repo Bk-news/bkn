@@ -1903,6 +1903,26 @@
    "mt": true
   },
   {
+   "id": "b4ca4637c0340f81",
+   "origin": "rss",
+   "source": "Reuters",
+   "author": "",
+   "title_ar": "'Surprise' inflation rise could lead to steeper rate hike from Fed",
+   "title_orig": "'Surprise' inflation rise could lead to steeper rate hike from Fed",
+   "title_en": "'Surprise' inflation rise could lead to steeper rate hike from Fed",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyejZJU0lYMTl3cDlRbkgxS1RvNElSWUdBcVc0RnRqaUxFMFN0RFRpQ2VLUmp3MjhGc3l5TEJ1amVlQzQ1Tjh4T3k0M3BfX1NIZjhSaktIdloyWGViYTlfdHFuSmhCdjQ?oc=5",
+   "published": "2026-11-10T19:29:54.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "'Surprise' inflation rise could lead to steeper rate hike from Fed &nbsp;&nbsp; Reuters",
+   "lang": "en"
+  },
+  {
    "id": "b2989448db20aa6b",
    "origin": "rss",
    "source": "Reuters",
@@ -10887,6 +10907,26 @@
    "desc": "Sabalenka, Andreeva make winning starts at WTA Finals &nbsp;&nbsp; Arab News",
    "lang": "en",
    "mt": true
+  },
+  {
+   "id": "b074fcba766782cb",
+   "origin": "rss",
+   "source": "Reuters",
+   "author": "",
+   "title_ar": "Trump backs Nvidia's CEO as ties to a Chinese businesswoman draw scrutiny",
+   "title_orig": "Trump backs Nvidia's CEO as ties to a Chinese businesswoman draw scrutiny",
+   "title_en": "Trump backs Nvidia's CEO as ties to a Chinese businesswoman draw scrutiny",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83ejZsX0dfamVSZF9TVGdTM0g3ZmhJbm1ydzBYM09Yc00zZHV5MmlxNVdnUElIVVNMQ1RQMTFBM2REZGZlaFh4SlFaYzhIVlJuS0lIcjlaeEQ1dm5abFc0c2Z4bVpGWDQ?oc=5",
+   "published": "2026-11-10T01:13:23.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "Trump backs Nvidia's CEO as ties to a Chinese businesswoman draw scrutiny &nbsp;&nbsp; Reuters",
+   "lang": "en"
   },
   {
    "id": "abbe881a300c1ea2",

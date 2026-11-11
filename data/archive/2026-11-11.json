@@ -2,6 +2,26 @@
  "day": "2026-11-11",
  "items": [
   {
+   "id": "f3fd88edb6a5831f",
+   "origin": "rss",
+   "source": "Arab News",
+   "author": "",
+   "title_ar": "Saudi environmental security forces arrest citizen for illegal hunting at wildlife reserve",
+   "title_orig": "Saudi environmental security forces arrest citizen for illegal hunting at wildlife reserve",
+   "title_en": "Saudi environmental security forces arrest citizen for illegal hunting at wildlife reserve",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbWpMYmVOZ3NqVkNwUkZoNjJKRm5qaFZEcG1qWThtcFFTVVNYSzRMdE12LUZVeTFwSndHMzB3anBzd3FYbHI2LUNmcTNQMlh5cFJfYUQ5MmVTYjlaQnF5bjRGYW1UUEJEMXlvdEhfS2tFNXk5QlY1bkFsV1dVR3c1VlBJTTFnN2Foc0o2ZnBZNzQyVVpBRlVzdnZIZlZ4UFRwTGFDNGhKdjc2RmFrY1NSZmNua0l1cEM4dzU3NmNTUlFaNmFHWUVHZ3lBWWZhaElvaGc?oc=5",
+   "published": "2026-11-11T00:20:01.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "SA",
+   "pending": true,
+   "desc": "Saudi environmental security forces arrest citizen for illegal hunting at wildlife reserve &nbsp;&nbsp; Arab News",
+   "lang": "en"
+  },
+  {
    "id": "1dd1bd12a18b53b6",
    "origin": "rss",
    "source": "Arab News",
