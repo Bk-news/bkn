@@ -8886,15 +8886,15 @@
    }
   },
   "2026-11-10": {
-   "total": 771,
-   "news": 759,
+   "total": 772,
+   "news": 760,
    "articles": 12,
    "positive": 0,
-   "neutral": 771,
+   "neutral": 772,
    "critical": 0,
    "mbs": 22,
    "countries": {
-    "US": 207,
+    "US": 208,
     "GB": 265,
     "HK": 1,
     "SA": 97,
@@ -8907,7 +8907,7 @@
     "The Washington Post": 8,
     "BBC": 12,
     "Al-Monitor": 52,
-    "WSJ": 40,
+    "WSJ": 41,
     "South China Morning Post": 1,
     "Bloomberg.com": 50,
     "AP News": 20,
@@ -9061,7 +9061,7 @@
     ],
     "WSJ": [
      0,
-     40,
+     41,
      0
     ],
     "South China Morning Post": [
@@ -9712,16 +9712,16 @@
    }
   },
   "2026-11-11": {
-   "total": 461,
-   "news": 458,
+   "total": 462,
+   "news": 459,
    "articles": 3,
    "positive": 0,
-   "neutral": 461,
+   "neutral": 462,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "US": 115,
-    "SA": 47,
+    "SA": 48,
     "GB": 146,
     "JP": 1,
     "HK": 4,
@@ -9756,7 +9756,7 @@
     "The Economic Times": 1,
     "Financial Times": 18,
     "Cyprus Shipping News": 1,
-    "Saudi Gazette": 5,
+    "Saudi Gazette": 6,
     "Bloomberg.com": 31,
     "South China Morning Post": 4,
     "Le Monde.fr": 2,
@@ -9985,7 +9985,7 @@
     ],
     "Saudi Gazette": [
      0,
-     5,
+     6,
      0
     ],
     "Bloomberg.com": [
