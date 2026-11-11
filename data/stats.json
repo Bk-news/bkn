@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 680,
-   "news": 668,
+   "total": 681,
+   "news": 669,
    "articles": 12,
    "positive": 0,
-   "neutral": 680,
+   "neutral": 681,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 200,
-    "GB": 184,
+    "GB": 185,
     "HK": 1,
     "SA": 96,
     "FR": 4,
@@ -8980,7 +8980,7 @@
     "Forbes Middle East": 2,
     "TV7 Israel News": 1,
     "News of Bahrain": 1,
-    "The Guardian": 79,
+    "The Guardian": 80,
     "Foreign Policy": 2,
     "صحيفة سبق الإلكترونية": 1,
     "thetruthaboutcars.com": 1,
@@ -9425,7 +9425,7 @@
     ],
     "The Guardian": [
      0,
-     79,
+     80,
      0
     ],
     "Foreign Policy": [
