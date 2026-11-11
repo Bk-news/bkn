@@ -8041,15 +8041,15 @@
    }
   },
   "2026-11-09": {
-   "total": 797,
-   "news": 791,
+   "total": 798,
+   "news": 792,
    "articles": 6,
    "positive": 0,
-   "neutral": 797,
+   "neutral": 798,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 258,
+    "GB": 259,
     "US": 261,
     "FR": 28,
     "SA": 72,
@@ -8083,7 +8083,7 @@
     "Bloomberg.com": 44,
     "UA.NEWS": 3,
     "BBC": 10,
-    "The Guardian": 40,
+    "The Guardian": 41,
     "Foreign Affairs": 1,
     "Le Monde.fr": 6,
     "The Week": 1,
@@ -8320,7 +8320,7 @@
     ],
     "The Guardian": [
      0,
-     40,
+     41,
      0
     ],
     "Foreign Affairs": [
@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 689,
-   "news": 677,
+   "total": 692,
+   "news": 680,
    "articles": 12,
    "positive": 0,
-   "neutral": 689,
+   "neutral": 692,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 200,
-    "GB": 193,
+    "GB": 196,
     "HK": 1,
     "SA": 96,
     "FR": 4,
@@ -8980,7 +8980,7 @@
     "Forbes Middle East": 2,
     "TV7 Israel News": 1,
     "News of Bahrain": 1,
-    "The Guardian": 88,
+    "The Guardian": 91,
     "Foreign Policy": 2,
     "صحيفة سبق الإلكترونية": 1,
     "thetruthaboutcars.com": 1,
@@ -9425,7 +9425,7 @@
     ],
     "The Guardian": [
      0,
-     88,
+     91,
      0
     ],
     "Foreign Policy": [
