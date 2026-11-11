@@ -9700,11 +9700,11 @@
    }
   },
   "2026-11-11": {
-   "total": 41,
-   "news": 41,
+   "total": 42,
+   "news": 42,
    "articles": 0,
    "positive": 0,
-   "neutral": 41,
+   "neutral": 42,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -9740,7 +9740,8 @@
     "https://houseofsaud.com/": 1,
     "Arab News PK": 1,
     "The Economic Times": 1,
-    "Financial Times": 1
+    "Financial Times": 1,
+    "Cyprus Shipping News": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -9869,6 +9870,11 @@
      0
     ],
     "Financial Times": [
+     0,
+     1,
+     0
+    ],
+    "Cyprus Shipping News": [
      0,
      1,
      0
