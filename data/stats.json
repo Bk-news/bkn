@@ -8886,15 +8886,15 @@
    }
   },
   "2026-11-10": {
-   "total": 776,
-   "news": 764,
+   "total": 779,
+   "news": 767,
    "articles": 12,
    "positive": 0,
-   "neutral": 776,
+   "neutral": 779,
    "critical": 0,
    "mbs": 22,
    "countries": {
-    "US": 210,
+    "US": 213,
     "GB": 267,
     "HK": 1,
     "SA": 97,
@@ -8906,10 +8906,10 @@
     "Amwaj.media": 1,
     "The Washington Post": 8,
     "BBC": 12,
-    "Al-Monitor": 52,
+    "Al-Monitor": 54,
     "WSJ": 41,
     "South China Morning Post": 1,
-    "Bloomberg.com": 50,
+    "Bloomberg.com": 51,
     "AP News": 21,
     "The New York Times": 28,
     "Arab News": 94,
@@ -9056,7 +9056,7 @@
     ],
     "Al-Monitor": [
      0,
-     52,
+     54,
      0
     ],
     "WSJ": [
@@ -9071,7 +9071,7 @@
     ],
     "Bloomberg.com": [
      0,
-     50,
+     51,
      0
     ],
     "AP News": [
@@ -9712,33 +9712,33 @@
    }
   },
   "2026-11-11": {
-   "total": 508,
-   "news": 504,
+   "total": 545,
+   "news": 541,
    "articles": 4,
    "positive": 0,
-   "neutral": 508,
+   "neutral": 545,
    "critical": 0,
-   "mbs": 3,
+   "mbs": 4,
    "countries": {
-    "US": 129,
-    "SA": 55,
-    "GB": 160,
+    "US": 137,
+    "SA": 64,
+    "GB": 173,
     "JP": 1,
     "HK": 4,
     "FR": 4
    },
    "topics": {},
    "sources": {
-    "WSJ": 25,
+    "WSJ": 28,
     "The New York Times": 11,
-    "Arab News": 53,
+    "Arab News": 59,
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
-    "Al-Monitor": 33,
+    "Al-Monitor": 37,
     "The Washington Post": 13,
     "AP News": 9,
-    "Reuters": 51,
-    "The Guardian": 81,
+    "Reuters": 59,
+    "The Guardian": 87,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 2,
@@ -9751,13 +9751,13 @@
     "The Australian": 1,
     "The Express Tribune": 1,
     "Nikkei Asia": 1,
-    "https://houseofsaud.com/": 3,
+    "https://houseofsaud.com/": 4,
     "Arab News PK": 2,
     "The Economic Times": 1,
     "Financial Times": 23,
     "Cyprus Shipping News": 1,
-    "Saudi Gazette": 9,
-    "Bloomberg.com": 32,
+    "Saudi Gazette": 12,
+    "Bloomberg.com": 33,
     "South China Morning Post": 4,
     "Le Monde.fr": 2,
     "Mining.com.au": 1,
@@ -9840,7 +9840,7 @@
     "Al Arabiya English": 1,
     "ABC News - Breaking News, Latest News and Videos": 1,
     "Yardbarker": 1,
-    "Goal.com": 1,
+    "Goal.com": 2,
     "https://internationalfinance.com/": 1,
     "Best Selling Cars Blog": 1,
     "وكالة الأنباء السعودية": 1,
@@ -9853,12 +9853,16 @@
     "Autoblog": 1,
     "The Siasat Daily": 1,
     "SBS 뉴스": 1,
-    "سانا": 1
+    "سانا": 1,
+    "Haberler.com": 1,
+    "Al Jazeera": 1,
+    "NDTV": 1,
+    "Ynetnews": 1
    },
    "sourceTone": {
     "WSJ": [
      0,
-     25,
+     28,
      0
     ],
     "The New York Times": [
@@ -9868,7 +9872,7 @@
     ],
     "Arab News": [
      0,
-     53,
+     59,
      0
     ],
     "www.thenewworld.co.uk": [
@@ -9883,7 +9887,7 @@
     ],
     "Al-Monitor": [
      0,
-     33,
+     37,
      0
     ],
     "The Washington Post": [
@@ -9898,12 +9902,12 @@
     ],
     "Reuters": [
      0,
-     51,
+     59,
      0
     ],
     "The Guardian": [
      0,
-     81,
+     87,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -9968,7 +9972,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     3,
+     4,
      0
     ],
     "Arab News PK": [
@@ -9993,12 +9997,12 @@
     ],
     "Saudi Gazette": [
      0,
-     9,
+     12,
      0
     ],
     "Bloomberg.com": [
      0,
-     32,
+     33,
      0
     ],
     "South China Morning Post": [
@@ -10413,7 +10417,7 @@
     ],
     "Goal.com": [
      0,
-     1,
+     2,
      0
     ],
     "https://internationalfinance.com/": [
@@ -10477,6 +10481,26 @@
      0
     ],
     "سانا": [
+     0,
+     1,
+     0
+    ],
+    "Haberler.com": [
+     0,
+     1,
+     0
+    ],
+    "Al Jazeera": [
+     0,
+     1,
+     0
+    ],
+    "NDTV": [
+     0,
+     1,
+     0
+    ],
+    "Ynetnews": [
      0,
      1,
      0
