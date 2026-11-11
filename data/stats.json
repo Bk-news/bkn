@@ -9712,11 +9712,11 @@
    }
   },
   "2026-11-11": {
-   "total": 463,
-   "news": 460,
+   "total": 465,
+   "news": 462,
    "articles": 3,
    "positive": 0,
-   "neutral": 463,
+   "neutral": 465,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -9741,7 +9741,7 @@
     "The Guardian": 78,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
-    "Yahoo Sports": 1,
+    "Yahoo Sports": 2,
     "Bioengineer.org": 3,
     "Billionaires.Africa": 1,
     "Bleeding Cool News": 1,
@@ -9768,7 +9768,7 @@
     "People Daily": 2,
     "ASHARQ AL-AWSAT English": 3,
     "Atalayar": 1,
-    "UA.NEWS": 4,
+    "UA.NEWS": 5,
     "thenationalnews.com": 1,
     "The New Arab": 1,
     "WION": 1,
@@ -9910,7 +9910,7 @@
     ],
     "Yahoo Sports": [
      0,
-     1,
+     2,
      0
     ],
     "Bioengineer.org": [
@@ -10045,7 +10045,7 @@
     ],
     "UA.NEWS": [
      0,
-     4,
+     5,
      0
     ],
     "thenationalnews.com": [
