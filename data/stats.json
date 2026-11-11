@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 783,
-   "news": 771,
+   "total": 800,
+   "news": 788,
    "articles": 12,
    "positive": 0,
-   "neutral": 783,
+   "neutral": 800,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 213,
-    "GB": 270,
+    "GB": 287,
     "HK": 1,
     "SA": 97,
     "FR": 7,
@@ -8929,7 +8929,7 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 2,
-    "Reuters": 122,
+    "Reuters": 135,
     "Gulf News": 4,
     "CGTN": 1,
     "Al Jazeera": 2,
@@ -8980,7 +8980,7 @@
     "Forbes Middle East": 2,
     "TV7 Israel News": 1,
     "News of Bahrain": 1,
-    "The Guardian": 118,
+    "The Guardian": 122,
     "Foreign Policy": 2,
     "صحيفة سبق الإلكترونية": 1,
     "thetruthaboutcars.com": 1,
@@ -9171,7 +9171,7 @@
     ],
     "Reuters": [
      0,
-     122,
+     135,
      0
     ],
     "Gulf News": [
@@ -9426,7 +9426,7 @@
     ],
     "The Guardian": [
      0,
-     118,
+     122,
      0
     ],
     "Foreign Policy": [
@@ -9712,33 +9712,33 @@
    }
   },
   "2026-11-11": {
-   "total": 581,
-   "news": 577,
+   "total": 594,
+   "news": 590,
    "articles": 4,
    "positive": 0,
-   "neutral": 581,
+   "neutral": 594,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "US": 138,
+    "US": 139,
     "SA": 65,
-    "GB": 195,
+    "GB": 204,
     "JP": 1,
     "HK": 4,
     "FR": 4
    },
    "topics": {},
    "sources": {
-    "WSJ": 29,
+    "WSJ": 30,
     "The New York Times": 11,
-    "Arab News": 60,
+    "Arab News": 61,
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
     "Al-Monitor": 37,
     "The Washington Post": 13,
     "AP News": 9,
     "Reuters": 68,
-    "The Guardian": 99,
+    "The Guardian": 108,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 2,
@@ -9862,12 +9862,14 @@
     "Benzinga": 1,
     "Business Insider Africa": 1,
     "Yahoo Finance Singapore": 1,
-    "BigGo Finance": 1
+    "BigGo Finance": 1,
+    "www.inss.org.il": 1,
+    "Inspenet": 1
    },
    "sourceTone": {
     "WSJ": [
      0,
-     29,
+     30,
      0
     ],
     "The New York Times": [
@@ -9877,7 +9879,7 @@
     ],
     "Arab News": [
      0,
-     60,
+     61,
      0
     ],
     "www.thenewworld.co.uk": [
@@ -9912,7 +9914,7 @@
     ],
     "The Guardian": [
      0,
-     99,
+     108,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -10531,6 +10533,16 @@
      0
     ],
     "BigGo Finance": [
+     0,
+     1,
+     0
+    ],
+    "www.inss.org.il": [
+     0,
+     1,
+     0
+    ],
+    "Inspenet": [
      0,
      1,
      0
