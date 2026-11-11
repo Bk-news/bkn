@@ -9576,6 +9576,27 @@
   "mt": true
  },
  {
+  "id": "2999a8263fd0e6dd",
+  "origin": "rss",
+  "source": "The New York Times",
+  "author": "",
+  "title_ar": "جيمس ماكمانجان - الصفحة 10",
+  "title_orig": "James McManagan - Page 10",
+  "title_en": "James McManagan - Page 10",
+  "summary_ar": [],
+  "summary_en": [],
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OQnN6RHJ5eE4yVWsza1FiUFE4QmN5eWkxRUlVelktU2t3U2FoS2J6ejh5Vkc1dlpXNzI5ZERCcUpoenNGR29jTWdpS3FjMFZCZUw2MDNvSERwYnRNY2w0?oc=5",
+  "published": "2026-11-10T07:56:11.000Z",
+  "subject": "saudi",
+  "tone": "neutral",
+  "topic": "",
+  "country": "US",
+  "pending": true,
+  "desc": "James McManagan - Page 10 &nbsp;&nbsp; The New York Times",
+  "lang": "en",
+  "mt": true
+ },
+ {
   "id": "fb402a747db3e033",
   "origin": "rss",
   "source": "Saudi Gazette",
@@ -10476,27 +10497,6 @@
   "pending": true,
   "desc": "Sudan • Saudi Arabia's four-men taskforce reshaping the Sudanese question &nbsp;&nbsp; Africa Intelligence",
   "lang": "en",
-  "mt": true
- },
- {
-  "id": "23ad9235040f0adb",
-  "origin": "rss",
-  "source": "Spiegel",
-  "author": "",
-  "title_ar": "إيران تحيي دونالد ترامب «الفعال» – طهران تنتقد «الأخبار الكاذبة»",
-  "title_orig": "Irankrieg laut Donald Trump »effektiv vorüber« – Teheran spricht von »Fake News«",
-  "title_en": "",
-  "summary_ar": [],
-  "summary_en": [],
-  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSnktY3NueXZPWDUyZTJRMmMzZWJHN01vcHhON1VRckdCcUFuMDE3QmozSW0zeHhTT0hPWUxIWUZBSERCYmdnMzV3WG1jUWpZdTktWmZqSjhnOFZMYWpnRmZFTUEzN1ZkVml1SktqaXdqSE55c1RZTm9OZm5naVU2T3ZMeVhTNXd0UWlTUWUyZzNEdEVzamFvd2VrM1M5eW5raGNoZkdXRE1ScFAyT3dxN1V1ZlloeGpCZDJPaDB5X2duWl9sVXJhMm10azFZc2x6OFN5ckFPN0t2MVVEQkE?oc=5",
-  "published": "2026-11-10T05:41:00.000Z",
-  "subject": "saudi",
-  "tone": "neutral",
-  "topic": "",
-  "country": "DE",
-  "pending": true,
-  "desc": "Irankrieg laut Donald Trump »effektiv vorüber« – Teheran spricht von »Fake News« &nbsp;&nbsp; Spiegel",
-  "lang": "de",
   "mt": true
  }
 ]
