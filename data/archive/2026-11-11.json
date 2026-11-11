@@ -2,6 +2,27 @@
  "day": "2026-11-11",
  "items": [
   {
+   "id": "3b6df1e2164599d8",
+   "origin": "rss",
+   "source": "Reuters",
+   "author": "",
+   "title_ar": "تشير الرسوم البيانية إلى أن عمليات بيع الذكاء الاصطناعي قد لا تعرقل ارتفاع الأسهم على نطاق أوسع",
+   "title_orig": "Charts suggest AI selloff may not derail broader stock rally",
+   "title_en": "Charts suggest AI selloff may not derail broader stock rally",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4ycm9TOTZQLUxxYmh4OTQwdzU4U1BmWEY4TFQ5V0I4cHBIcFJGS3VWYmVubnBqVjQyR3Nyc1lTc0tCTkFISXNQdGktNFgzR0QtZzdSNHBkYWNXSmYzOWtwRjJPRk9DalE?oc=5",
+   "published": "2026-11-11T11:10:14.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "Charts suggest AI selloff may not derail broader stock rally &nbsp;&nbsp; Reuters",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "e674277247fdb16b",
    "origin": "rss",
    "source": "Bloomberg.com",
