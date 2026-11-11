@@ -9706,11 +9706,11 @@
    }
   },
   "2026-11-11": {
-   "total": 198,
-   "news": 198,
+   "total": 199,
+   "news": 199,
    "articles": 0,
    "positive": 0,
-   "neutral": 198,
+   "neutral": 199,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -9791,7 +9791,8 @@
     "Shanghai Metals Market": 1,
     "FTL Somalia": 1,
     "CairoScene": 1,
-    "The Economist": 1
+    "The Economist": 1,
+    "Middle East Online": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -10135,6 +10136,11 @@
      0
     ],
     "The Economist": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Online": [
      0,
      1,
      0
