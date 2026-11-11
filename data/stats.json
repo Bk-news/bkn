@@ -8886,19 +8886,19 @@
    }
   },
   "2026-11-10": {
-   "total": 779,
-   "news": 767,
+   "total": 783,
+   "news": 771,
    "articles": 12,
    "positive": 0,
-   "neutral": 779,
+   "neutral": 783,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 213,
-    "GB": 267,
+    "GB": 270,
     "HK": 1,
     "SA": 97,
-    "FR": 6,
+    "FR": 7,
     "DE": 4
    },
    "topics": {},
@@ -8929,7 +8929,7 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 2,
-    "Reuters": 119,
+    "Reuters": 122,
     "Gulf News": 4,
     "CGTN": 1,
     "Al Jazeera": 2,
@@ -9036,7 +9036,7 @@
     "Seeking Alpha": 1,
     "tovima.com": 1,
     "Religion News Service": 1,
-    "Le Monde.fr": 2
+    "Le Monde.fr": 3
    },
    "sourceTone": {
     "Amwaj.media": [
@@ -9171,7 +9171,7 @@
     ],
     "Reuters": [
      0,
-     119,
+     122,
      0
     ],
     "Gulf News": [
@@ -9706,43 +9706,43 @@
     ],
     "Le Monde.fr": [
      0,
-     2,
+     3,
      0
     ]
    }
   },
   "2026-11-11": {
-   "total": 545,
-   "news": 541,
+   "total": 581,
+   "news": 577,
    "articles": 4,
    "positive": 0,
-   "neutral": 545,
+   "neutral": 581,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "US": 137,
-    "SA": 64,
-    "GB": 173,
+    "US": 138,
+    "SA": 65,
+    "GB": 195,
     "JP": 1,
     "HK": 4,
     "FR": 4
    },
    "topics": {},
    "sources": {
-    "WSJ": 28,
+    "WSJ": 29,
     "The New York Times": 11,
-    "Arab News": 59,
+    "Arab News": 60,
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
     "Al-Monitor": 37,
     "The Washington Post": 13,
     "AP News": 9,
-    "Reuters": 59,
-    "The Guardian": 87,
+    "Reuters": 68,
+    "The Guardian": 99,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 2,
-    "Bioengineer.org": 3,
+    "Bioengineer.org": 4,
     "Billionaires.Africa": 1,
     "Bleeding Cool News": 1,
     "BBC": 9,
@@ -9751,10 +9751,10 @@
     "The Australian": 1,
     "The Express Tribune": 1,
     "Nikkei Asia": 1,
-    "https://houseofsaud.com/": 4,
+    "https://houseofsaud.com/": 5,
     "Arab News PK": 2,
     "The Economic Times": 1,
-    "Financial Times": 23,
+    "Financial Times": 24,
     "Cyprus Shipping News": 1,
     "Saudi Gazette": 12,
     "Bloomberg.com": 33,
@@ -9782,7 +9782,7 @@
     "Egypt Oil & Gas": 2,
     "Archiproducts": 1,
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Middle East Eye": 5,
+    "Middle East Eye": 8,
     "Türkiye Today": 1,
     "Condé Nast Traveller Middle East": 1,
     "MEED": 1,
@@ -9803,7 +9803,7 @@
     "DW.com": 1,
     "アラブニュース": 2,
     "Foreign Policy": 2,
-    "Anadolu Ajansı": 1,
+    "Anadolu Ajansı": 2,
     "شبكة تواصل الإخبارية": 1,
     "Atlantic Council": 2,
     "lovin.co": 1,
@@ -9848,7 +9848,7 @@
     "Metro.co.uk": 1,
     "The Times of Israel": 1,
     "Bloomberg": 3,
-    "France 24": 2,
+    "France 24": 3,
     "شفق نيوز": 1,
     "Autoblog": 1,
     "The Siasat Daily": 1,
@@ -9857,12 +9857,17 @@
     "Haberler.com": 1,
     "Al Jazeera": 1,
     "NDTV": 1,
-    "Ynetnews": 1
+    "Ynetnews": 1,
+    "Awful Announcing": 1,
+    "Benzinga": 1,
+    "Business Insider Africa": 1,
+    "Yahoo Finance Singapore": 1,
+    "BigGo Finance": 1
    },
    "sourceTone": {
     "WSJ": [
      0,
-     28,
+     29,
      0
     ],
     "The New York Times": [
@@ -9872,7 +9877,7 @@
     ],
     "Arab News": [
      0,
-     59,
+     60,
      0
     ],
     "www.thenewworld.co.uk": [
@@ -9902,12 +9907,12 @@
     ],
     "Reuters": [
      0,
-     59,
+     68,
      0
     ],
     "The Guardian": [
      0,
-     87,
+     99,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -9927,7 +9932,7 @@
     ],
     "Bioengineer.org": [
      0,
-     3,
+     4,
      0
     ],
     "Billionaires.Africa": [
@@ -9972,7 +9977,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     4,
+     5,
      0
     ],
     "Arab News PK": [
@@ -9987,7 +9992,7 @@
     ],
     "Financial Times": [
      0,
-     23,
+     24,
      0
     ],
     "Cyprus Shipping News": [
@@ -10127,7 +10132,7 @@
     ],
     "Middle East Eye": [
      0,
-     5,
+     8,
      0
     ],
     "Türkiye Today": [
@@ -10232,7 +10237,7 @@
     ],
     "Anadolu Ajansı": [
      0,
-     1,
+     2,
      0
     ],
     "شبكة تواصل الإخبارية": [
@@ -10457,7 +10462,7 @@
     ],
     "France 24": [
      0,
-     2,
+     3,
      0
     ],
     "شفق نيوز": [
@@ -10501,6 +10506,31 @@
      0
     ],
     "Ynetnews": [
+     0,
+     1,
+     0
+    ],
+    "Awful Announcing": [
+     0,
+     1,
+     0
+    ],
+    "Benzinga": [
+     0,
+     1,
+     0
+    ],
+    "Business Insider Africa": [
+     0,
+     1,
+     0
+    ],
+    "Yahoo Finance Singapore": [
+     0,
+     1,
+     0
+    ],
+    "BigGo Finance": [
      0,
      1,
      0
