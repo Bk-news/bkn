@@ -9700,11 +9700,11 @@
    }
   },
   "2026-11-11": {
-   "total": 37,
-   "news": 37,
+   "total": 40,
+   "news": 40,
    "articles": 0,
    "positive": 0,
-   "neutral": 37,
+   "neutral": 40,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -9736,7 +9736,10 @@
     "Dawn": 1,
     "The Australian": 1,
     "The Express Tribune": 1,
-    "Nikkei Asia": 1
+    "Nikkei Asia": 1,
+    "https://houseofsaud.com/": 1,
+    "Arab News PK": 1,
+    "The Economic Times": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -9845,6 +9848,21 @@
      0
     ],
     "Nikkei Asia": [
+     0,
+     1,
+     0
+    ],
+    "https://houseofsaud.com/": [
+     0,
+     1,
+     0
+    ],
+    "Arab News PK": [
+     0,
+     1,
+     0
+    ],
+    "The Economic Times": [
      0,
      1,
      0
