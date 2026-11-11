@@ -8041,16 +8041,16 @@
    }
   },
   "2026-11-09": {
-   "total": 801,
-   "news": 795,
+   "total": 810,
+   "news": 804,
    "articles": 6,
    "positive": 0,
-   "neutral": 801,
+   "neutral": 810,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 262,
-    "US": 261,
+    "GB": 270,
+    "US": 262,
     "FR": 28,
     "SA": 72,
     "HK": 3,
@@ -8060,7 +8060,7 @@
    "topics": {},
    "sources": {
     "Financial Times": 76,
-    "WSJ": 118,
+    "WSJ": 119,
     "Heavy.com": 1,
     "CNN": 7,
     "France 24": 23,
@@ -8083,7 +8083,7 @@
     "Bloomberg.com": 44,
     "UA.NEWS": 3,
     "BBC": 10,
-    "The Guardian": 44,
+    "The Guardian": 52,
     "Foreign Affairs": 1,
     "Le Monde.fr": 6,
     "The Week": 1,
@@ -8205,7 +8205,7 @@
     ],
     "WSJ": [
      0,
-     118,
+     119,
      0
     ],
     "Heavy.com": [
@@ -8320,7 +8320,7 @@
     ],
     "The Guardian": [
      0,
-     44,
+     52,
      0
     ],
     "Foreign Affairs": [
@@ -8886,19 +8886,19 @@
    }
   },
   "2026-11-10": {
-   "total": 728,
-   "news": 716,
+   "total": 741,
+   "news": 729,
    "articles": 12,
    "positive": 0,
-   "neutral": 728,
+   "neutral": 741,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 204,
-    "GB": 226,
+    "GB": 238,
     "HK": 1,
     "SA": 97,
-    "FR": 5,
+    "FR": 6,
     "DE": 4
    },
    "topics": {},
@@ -8929,7 +8929,7 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 2,
-    "Reuters": 85,
+    "Reuters": 97,
     "Gulf News": 4,
     "CGTN": 1,
     "Al Jazeera": 2,
@@ -9036,7 +9036,7 @@
     "Seeking Alpha": 1,
     "tovima.com": 1,
     "Religion News Service": 1,
-    "Le Monde.fr": 1
+    "Le Monde.fr": 2
    },
    "sourceTone": {
     "Amwaj.media": [
@@ -9171,7 +9171,7 @@
     ],
     "Reuters": [
      0,
-     85,
+     97,
      0
     ],
     "Gulf News": [
@@ -9706,23 +9706,23 @@
     ],
     "Le Monde.fr": [
      0,
-     1,
+     2,
      0
     ]
    }
   },
   "2026-11-11": {
-   "total": 388,
-   "news": 385,
+   "total": 406,
+   "news": 403,
    "articles": 3,
    "positive": 0,
-   "neutral": 388,
+   "neutral": 406,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "US": 103,
-    "SA": 42,
-    "GB": 123,
+    "US": 104,
+    "SA": 44,
+    "GB": 125,
     "JP": 1,
     "HK": 4,
     "FR": 1
@@ -9731,14 +9731,14 @@
    "sources": {
     "WSJ": 15,
     "The New York Times": 10,
-    "Arab News": 45,
+    "Arab News": 47,
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
     "Al-Monitor": 27,
     "The Washington Post": 13,
     "AP News": 8,
-    "Reuters": 39,
-    "The Guardian": 65,
+    "Reuters": 40,
+    "The Guardian": 66,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 1,
@@ -9754,10 +9754,10 @@
     "https://houseofsaud.com/": 2,
     "Arab News PK": 2,
     "The Economic Times": 1,
-    "Financial Times": 13,
+    "Financial Times": 14,
     "Cyprus Shipping News": 1,
     "Saudi Gazette": 4,
-    "Bloomberg.com": 29,
+    "Bloomberg.com": 30,
     "South China Morning Post": 4,
     "Le Monde.fr": 1,
     "Mining.com.au": 1,
@@ -9776,20 +9776,20 @@
     "Crude Oil Prices Today | OilPrice.com": 2,
     "Informat.ro": 1,
     "WhatCulture.com": 1,
-    "Renewables Now": 1,
+    "Renewables Now": 2,
     "صحيفة مال": 3,
     "LiveScore": 1,
     "Egypt Oil & Gas": 2,
     "Archiproducts": 1,
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Middle East Eye": 3,
+    "Middle East Eye": 4,
     "Türkiye Today": 1,
     "Condé Nast Traveller Middle East": 1,
     "MEED": 1,
     "www.daily-sun.com": 1,
     "Trend News Agency": 1,
     "Báo VietNamNet": 1,
-    "NDTV Sports": 1,
+    "NDTV Sports": 2,
     "The National": 2,
     "The Korea Herald": 1,
     "Arabian Business": 1,
@@ -9801,7 +9801,7 @@
     "Middle East Online": 2,
     "CNN": 1,
     "DW.com": 1,
-    "アラブニュース": 1,
+    "アラブニュース": 2,
     "Foreign Policy": 2,
     "Anadolu Ajansı": 1,
     "شبكة تواصل الإخبارية": 1,
@@ -9823,7 +9823,14 @@
     "Deccan Herald": 1,
     "Wamda": 1,
     "GuruFocus": 1,
-    "houseofsaud.com": 1
+    "houseofsaud.com": 1,
+    "TradingView": 1,
+    "Investing.com": 2,
+    "Turkish Minute": 1,
+    "The Independent": 1,
+    "Shabelle Media Network": 1,
+    "Egypt Independent": 1,
+    "巴士的報": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -9838,7 +9845,7 @@
     ],
     "Arab News": [
      0,
-     45,
+     47,
      0
     ],
     "www.thenewworld.co.uk": [
@@ -9868,12 +9875,12 @@
     ],
     "Reuters": [
      0,
-     39,
+     40,
      0
     ],
     "The Guardian": [
      0,
-     65,
+     66,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -9953,7 +9960,7 @@
     ],
     "Financial Times": [
      0,
-     13,
+     14,
      0
     ],
     "Cyprus Shipping News": [
@@ -9968,7 +9975,7 @@
     ],
     "Bloomberg.com": [
      0,
-     29,
+     30,
      0
     ],
     "South China Morning Post": [
@@ -10063,7 +10070,7 @@
     ],
     "Renewables Now": [
      0,
-     1,
+     2,
      0
     ],
     "صحيفة مال": [
@@ -10093,7 +10100,7 @@
     ],
     "Middle East Eye": [
      0,
-     3,
+     4,
      0
     ],
     "Türkiye Today": [
@@ -10128,7 +10135,7 @@
     ],
     "NDTV Sports": [
      0,
-     1,
+     2,
      0
     ],
     "The National": [
@@ -10188,7 +10195,7 @@
     ],
     "アラブニュース": [
      0,
-     1,
+     2,
      0
     ],
     "Foreign Policy": [
@@ -10297,6 +10304,41 @@
      0
     ],
     "houseofsaud.com": [
+     0,
+     1,
+     0
+    ],
+    "TradingView": [
+     0,
+     1,
+     0
+    ],
+    "Investing.com": [
+     0,
+     2,
+     0
+    ],
+    "Turkish Minute": [
+     0,
+     1,
+     0
+    ],
+    "The Independent": [
+     0,
+     1,
+     0
+    ],
+    "Shabelle Media Network": [
+     0,
+     1,
+     0
+    ],
+    "Egypt Independent": [
+     0,
+     1,
+     0
+    ],
+    "巴士的報": [
      0,
      1,
      0
