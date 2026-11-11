@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 614,
-   "news": 602,
+   "total": 641,
+   "news": 629,
    "articles": 12,
    "positive": 0,
-   "neutral": 614,
+   "neutral": 641,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 200,
-    "GB": 119,
+    "GB": 145,
     "HK": 1,
     "SA": 96,
     "FR": 4,
@@ -8980,7 +8980,7 @@
     "Forbes Middle East": 2,
     "TV7 Israel News": 1,
     "News of Bahrain": 1,
-    "The Guardian": 15,
+    "The Guardian": 41,
     "Foreign Policy": 2,
     "صحيفة سبق الإلكترونية": 1,
     "thetruthaboutcars.com": 1,
@@ -9034,7 +9034,8 @@
     "NewsCord": 1,
     "Eurasia Review": 1,
     "Seeking Alpha": 1,
-    "tovima.com": 1
+    "tovima.com": 1,
+    "Religion News Service": 1
    },
    "sourceTone": {
     "Amwaj.media": [
@@ -9424,7 +9425,7 @@
     ],
     "The Guardian": [
      0,
-     15,
+     41,
      0
     ],
     "Foreign Policy": [
@@ -9696,15 +9697,20 @@
      0,
      1,
      0
+    ],
+    "Religion News Service": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-11": {
-   "total": 163,
-   "news": 163,
+   "total": 176,
+   "news": 176,
    "articles": 0,
    "positive": 0,
-   "neutral": 163,
+   "neutral": 176,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -9750,13 +9756,13 @@
     "Le Monde.fr": 1,
     "Mining.com.au": 1,
     "The Week": 1,
-    "Construction Review": 1,
-    "Zawya": 1,
+    "Construction Review": 2,
+    "Zawya": 2,
     "Utilities Middle East": 1,
     "People Daily": 2,
     "ASHARQ AL-AWSAT English": 2,
     "Atalayar": 1,
-    "UA.NEWS": 2,
+    "UA.NEWS": 3,
     "thenationalnews.com": 1,
     "The New Arab": 1,
     "WION": 1,
@@ -9769,11 +9775,20 @@
     "LiveScore": 1,
     "Egypt Oil & Gas": 1,
     "Archiproducts": 1,
-    "Arabian Gulf Business Insight | AGBI": 1,
+    "Arabian Gulf Business Insight | AGBI": 2,
     "Middle East Eye": 1,
     "Türkiye Today": 1,
     "Condé Nast Traveller Middle East": 1,
-    "MEED": 1
+    "MEED": 1,
+    "www.daily-sun.com": 1,
+    "Trend News Agency": 1,
+    "Báo VietNamNet": 1,
+    "NDTV Sports": 1,
+    "The National": 1,
+    "The Korea Herald": 1,
+    "Arabian Business": 1,
+    "PWTorch": 1,
+    "Shanghai Metals Market": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -9943,12 +9958,12 @@
     ],
     "Construction Review": [
      0,
-     1,
+     2,
      0
     ],
     "Zawya": [
      0,
-     1,
+     2,
      0
     ],
     "Utilities Middle East": [
@@ -9973,7 +9988,7 @@
     ],
     "UA.NEWS": [
      0,
-     2,
+     3,
      0
     ],
     "thenationalnews.com": [
@@ -10038,7 +10053,7 @@
     ],
     "Arabian Gulf Business Insight | AGBI": [
      0,
-     1,
+     2,
      0
     ],
     "Middle East Eye": [
@@ -10057,6 +10072,51 @@
      0
     ],
     "MEED": [
+     0,
+     1,
+     0
+    ],
+    "www.daily-sun.com": [
+     0,
+     1,
+     0
+    ],
+    "Trend News Agency": [
+     0,
+     1,
+     0
+    ],
+    "Báo VietNamNet": [
+     0,
+     1,
+     0
+    ],
+    "NDTV Sports": [
+     0,
+     1,
+     0
+    ],
+    "The National": [
+     0,
+     1,
+     0
+    ],
+    "The Korea Herald": [
+     0,
+     1,
+     0
+    ],
+    "Arabian Business": [
+     0,
+     1,
+     0
+    ],
+    "PWTorch": [
+     0,
+     1,
+     0
+    ],
+    "Shanghai Metals Market": [
      0,
      1,
      0
