@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 579,
-   "news": 567,
+   "total": 580,
+   "news": 568,
    "articles": 12,
    "positive": 0,
-   "neutral": 579,
+   "neutral": 580,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 191,
-    "GB": 97,
+    "GB": 98,
     "HK": 1,
     "SA": 92,
     "FR": 4,
@@ -8936,7 +8936,7 @@
     "TRT World": 1,
     "Asset Servicing Times": 1,
     "Saudi Gazette": 16,
-    "Financial Times": 17,
+    "Financial Times": 18,
     "CNN": 4,
     "France 24": 4,
     "Fana News -": 1,
@@ -9204,7 +9204,7 @@
     ],
     "Financial Times": [
      0,
-     17,
+     18,
      0
     ],
     "CNN": [
@@ -9700,17 +9700,17 @@
    }
   },
   "2026-11-11": {
-   "total": 40,
-   "news": 40,
+   "total": 41,
+   "news": 41,
    "articles": 0,
    "positive": 0,
-   "neutral": 40,
+   "neutral": 41,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 14,
     "SA": 5,
-    "GB": 5,
+    "GB": 6,
     "JP": 1
    },
    "topics": {},
@@ -9739,7 +9739,8 @@
     "Nikkei Asia": 1,
     "https://houseofsaud.com/": 1,
     "Arab News PK": 1,
-    "The Economic Times": 1
+    "The Economic Times": 1,
+    "Financial Times": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -9863,6 +9864,11 @@
      0
     ],
     "The Economic Times": [
+     0,
+     1,
+     0
+    ],
+    "Financial Times": [
      0,
      1,
      0
