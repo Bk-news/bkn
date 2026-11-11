@@ -9712,11 +9712,11 @@
    }
   },
   "2026-11-11": {
-   "total": 460,
-   "news": 457,
+   "total": 461,
+   "news": 458,
    "articles": 3,
    "positive": 0,
-   "neutral": 460,
+   "neutral": 461,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -9778,7 +9778,7 @@
     "WhatCulture.com": 1,
     "Renewables Now": 2,
     "صحيفة مال": 3,
-    "LiveScore": 1,
+    "LiveScore": 2,
     "Egypt Oil & Gas": 2,
     "Archiproducts": 1,
     "Arabian Gulf Business Insight | AGBI": 3,
@@ -10095,7 +10095,7 @@
     ],
     "LiveScore": [
      0,
-     1,
+     2,
      0
     ],
     "Egypt Oil & Gas": [
