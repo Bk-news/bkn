@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 757,
-   "news": 745,
+   "total": 758,
+   "news": 746,
    "articles": 12,
    "positive": 0,
-   "neutral": 757,
+   "neutral": 758,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 204,
-    "GB": 254,
+    "GB": 255,
     "HK": 1,
     "SA": 97,
     "FR": 6,
@@ -8929,7 +8929,7 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 2,
-    "Reuters": 111,
+    "Reuters": 112,
     "Gulf News": 4,
     "CGTN": 1,
     "Al Jazeera": 2,
@@ -9171,7 +9171,7 @@
     ],
     "Reuters": [
      0,
-     111,
+     112,
      0
     ],
     "Gulf News": [
@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 439,
-   "news": 436,
+   "total": 444,
+   "news": 441,
    "articles": 3,
    "positive": 0,
-   "neutral": 439,
+   "neutral": 444,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "US": 112,
-    "SA": 44,
-    "GB": 133,
+    "US": 113,
+    "SA": 45,
+    "GB": 136,
     "JP": 1,
     "HK": 4,
     "FR": 2
@@ -9731,14 +9731,14 @@
    "sources": {
     "WSJ": 21,
     "The New York Times": 10,
-    "Arab News": 47,
+    "Arab News": 48,
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
-    "Al-Monitor": 28,
+    "Al-Monitor": 29,
     "The Washington Post": 13,
     "AP News": 9,
-    "Reuters": 41,
-    "The Guardian": 70,
+    "Reuters": 42,
+    "The Guardian": 71,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 1,
@@ -9754,7 +9754,7 @@
     "https://houseofsaud.com/": 3,
     "Arab News PK": 2,
     "The Economic Times": 1,
-    "Financial Times": 17,
+    "Financial Times": 18,
     "Cyprus Shipping News": 1,
     "Saudi Gazette": 4,
     "Bloomberg.com": 30,
@@ -9858,7 +9858,7 @@
     ],
     "Arab News": [
      0,
-     47,
+     48,
      0
     ],
     "www.thenewworld.co.uk": [
@@ -9873,7 +9873,7 @@
     ],
     "Al-Monitor": [
      0,
-     28,
+     29,
      0
     ],
     "The Washington Post": [
@@ -9888,12 +9888,12 @@
     ],
     "Reuters": [
      0,
-     41,
+     42,
      0
     ],
     "The Guardian": [
      0,
-     70,
+     71,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -9973,7 +9973,7 @@
     ],
     "Financial Times": [
      0,
-     17,
+     18,
      0
     ],
     "Cyprus Shipping News": [
