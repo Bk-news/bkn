@@ -23,6 +23,27 @@
    "mt": true
   },
   {
+   "id": "5a8bec4181e12e0e",
+   "origin": "rss",
+   "source": "Nikkei Asia",
+   "author": "",
+   "title_ar": "نيكي آسيا - أخبار وتحليلات الأعمال والسياسة والاقتصاد والتكنولوجيا",
+   "title_orig": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
+   "title_en": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
+   "published": "2026-11-11T02:51:54.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "JP",
+   "pending": true,
+   "desc": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis &nbsp;&nbsp; Nikkei Asia",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "b16f8b144281da2e",
    "origin": "rss",
    "source": "Al-Monitor",
