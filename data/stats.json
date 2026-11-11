@@ -8041,15 +8041,15 @@
    }
   },
   "2026-11-09": {
-   "total": 761,
-   "news": 755,
+   "total": 762,
+   "news": 756,
    "articles": 6,
    "positive": 0,
-   "neutral": 761,
+   "neutral": 762,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 223,
+    "GB": 224,
     "US": 260,
     "FR": 28,
     "SA": 72,
@@ -8078,7 +8078,7 @@
     "Daily Observer": 1,
     "The Business Standard": 1,
     "Nine.com.au": 1,
-    "Reuters": 132,
+    "Reuters": 133,
     "NDTV Sports": 1,
     "Bloomberg.com": 44,
     "UA.NEWS": 3,
@@ -8295,7 +8295,7 @@
     ],
     "Reuters": [
      0,
-     132,
+     133,
      0
     ],
     "NDTV Sports": [
@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 601,
-   "news": 589,
+   "total": 614,
+   "news": 602,
    "articles": 12,
    "positive": 0,
-   "neutral": 601,
+   "neutral": 614,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 200,
-    "GB": 106,
+    "GB": 119,
     "HK": 1,
     "SA": 96,
     "FR": 4,
@@ -8929,14 +8929,14 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 2,
-    "Reuters": 74,
+    "Reuters": 75,
     "Gulf News": 4,
     "CGTN": 1,
     "Al Jazeera": 2,
     "TRT World": 1,
     "Asset Servicing Times": 1,
     "Saudi Gazette": 16,
-    "Financial Times": 18,
+    "Financial Times": 19,
     "CNN": 4,
     "France 24": 4,
     "Fana News -": 1,
@@ -8980,7 +8980,7 @@
     "Forbes Middle East": 2,
     "TV7 Israel News": 1,
     "News of Bahrain": 1,
-    "The Guardian": 4,
+    "The Guardian": 15,
     "Foreign Policy": 2,
     "صحيفة سبق الإلكترونية": 1,
     "thetruthaboutcars.com": 1,
@@ -9169,7 +9169,7 @@
     ],
     "Reuters": [
      0,
-     74,
+     75,
      0
     ],
     "Gulf News": [
@@ -9204,7 +9204,7 @@
     ],
     "Financial Times": [
      0,
-     18,
+     19,
      0
     ],
     "CNN": [
@@ -9424,7 +9424,7 @@
     ],
     "The Guardian": [
      0,
-     4,
+     15,
      0
     ],
     "Foreign Policy": [
@@ -9700,17 +9700,17 @@
    }
   },
   "2026-11-11": {
-   "total": 137,
-   "news": 137,
+   "total": 163,
+   "news": 163,
    "articles": 0,
    "positive": 0,
-   "neutral": 137,
+   "neutral": 163,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 50,
-    "SA": 13,
-    "GB": 36,
+    "SA": 14,
+    "GB": 44,
     "JP": 1,
     "HK": 1,
     "FR": 1
@@ -9719,18 +9719,18 @@
    "sources": {
     "WSJ": 8,
     "The New York Times": 7,
-    "Arab News": 11,
+    "Arab News": 13,
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
     "Al-Monitor": 8,
     "The Washington Post": 12,
     "AP News": 4,
-    "Reuters": 7,
-    "The Guardian": 19,
+    "Reuters": 9,
+    "The Guardian": 26,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 1,
-    "Bioengineer.org": 1,
+    "Bioengineer.org": 3,
     "Billionaires.Africa": 1,
     "Bleeding Cool News": 1,
     "BBC": 5,
@@ -9742,7 +9742,7 @@
     "https://houseofsaud.com/": 1,
     "Arab News PK": 1,
     "The Economic Times": 1,
-    "Financial Times": 5,
+    "Financial Times": 6,
     "Cyprus Shipping News": 1,
     "Saudi Gazette": 3,
     "Bloomberg.com": 11,
@@ -9754,16 +9754,26 @@
     "Zawya": 1,
     "Utilities Middle East": 1,
     "People Daily": 2,
-    "ASHARQ AL-AWSAT English": 1,
+    "ASHARQ AL-AWSAT English": 2,
     "Atalayar": 1,
-    "UA.NEWS": 1,
+    "UA.NEWS": 2,
     "thenationalnews.com": 1,
     "The New Arab": 1,
     "WION": 1,
     "Daily Sabah": 1,
     "Crude Oil Prices Today | OilPrice.com": 1,
     "Informat.ro": 1,
-    "WhatCulture.com": 1
+    "WhatCulture.com": 1,
+    "Renewables Now": 1,
+    "صحيفة مال": 1,
+    "LiveScore": 1,
+    "Egypt Oil & Gas": 1,
+    "Archiproducts": 1,
+    "Arabian Gulf Business Insight | AGBI": 1,
+    "Middle East Eye": 1,
+    "Türkiye Today": 1,
+    "Condé Nast Traveller Middle East": 1,
+    "MEED": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -9778,7 +9788,7 @@
     ],
     "Arab News": [
      0,
-     11,
+     13,
      0
     ],
     "www.thenewworld.co.uk": [
@@ -9808,12 +9818,12 @@
     ],
     "Reuters": [
      0,
-     7,
+     9,
      0
     ],
     "The Guardian": [
      0,
-     19,
+     26,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -9833,7 +9843,7 @@
     ],
     "Bioengineer.org": [
      0,
-     1,
+     3,
      0
     ],
     "Billionaires.Africa": [
@@ -9893,7 +9903,7 @@
     ],
     "Financial Times": [
      0,
-     5,
+     6,
      0
     ],
     "Cyprus Shipping News": [
@@ -9953,7 +9963,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     1,
+     2,
      0
     ],
     "Atalayar": [
@@ -9963,7 +9973,7 @@
     ],
     "UA.NEWS": [
      0,
-     1,
+     2,
      0
     ],
     "thenationalnews.com": [
@@ -9997,6 +10007,56 @@
      0
     ],
     "WhatCulture.com": [
+     0,
+     1,
+     0
+    ],
+    "Renewables Now": [
+     0,
+     1,
+     0
+    ],
+    "صحيفة مال": [
+     0,
+     1,
+     0
+    ],
+    "LiveScore": [
+     0,
+     1,
+     0
+    ],
+    "Egypt Oil & Gas": [
+     0,
+     1,
+     0
+    ],
+    "Archiproducts": [
+     0,
+     1,
+     0
+    ],
+    "Arabian Gulf Business Insight | AGBI": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Eye": [
+     0,
+     1,
+     0
+    ],
+    "Türkiye Today": [
+     0,
+     1,
+     0
+    ],
+    "Condé Nast Traveller Middle East": [
+     0,
+     1,
+     0
+    ],
+    "MEED": [
      0,
      1,
      0
