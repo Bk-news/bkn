@@ -8041,15 +8041,15 @@
    }
   },
   "2026-11-09": {
-   "total": 791,
-   "news": 785,
+   "total": 793,
+   "news": 787,
    "articles": 6,
    "positive": 0,
-   "neutral": 791,
+   "neutral": 793,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 252,
+    "GB": 254,
     "US": 261,
     "FR": 28,
     "SA": 72,
@@ -8083,7 +8083,7 @@
     "Bloomberg.com": 44,
     "UA.NEWS": 3,
     "BBC": 10,
-    "The Guardian": 35,
+    "The Guardian": 37,
     "Foreign Affairs": 1,
     "Le Monde.fr": 6,
     "The Week": 1,
@@ -8320,7 +8320,7 @@
     ],
     "The Guardian": [
      0,
-     35,
+     37,
      0
     ],
     "Foreign Affairs": [
@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 681,
-   "news": 669,
+   "total": 682,
+   "news": 670,
    "articles": 12,
    "positive": 0,
-   "neutral": 681,
+   "neutral": 682,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 200,
-    "GB": 185,
+    "GB": 186,
     "HK": 1,
     "SA": 96,
     "FR": 4,
@@ -8980,7 +8980,7 @@
     "Forbes Middle East": 2,
     "TV7 Israel News": 1,
     "News of Bahrain": 1,
-    "The Guardian": 80,
+    "The Guardian": 81,
     "Foreign Policy": 2,
     "صحيفة سبق الإلكترونية": 1,
     "thetruthaboutcars.com": 1,
@@ -9425,7 +9425,7 @@
     ],
     "The Guardian": [
      0,
-     80,
+     81,
      0
     ],
     "Foreign Policy": [
@@ -9706,17 +9706,17 @@
    }
   },
   "2026-11-11": {
-   "total": 194,
-   "news": 194,
+   "total": 198,
+   "news": 198,
    "articles": 0,
    "positive": 0,
-   "neutral": 194,
+   "neutral": 198,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "US": 51,
+    "US": 52,
     "SA": 20,
-    "GB": 50,
+    "GB": 53,
     "JP": 1,
     "HK": 1,
     "FR": 1
@@ -9729,10 +9729,10 @@
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
     "Al-Monitor": 8,
-    "The Washington Post": 12,
+    "The Washington Post": 13,
     "AP News": 4,
     "Reuters": 9,
-    "The Guardian": 32,
+    "The Guardian": 35,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 1,
@@ -9826,7 +9826,7 @@
     ],
     "The Washington Post": [
      0,
-     12,
+     13,
      0
     ],
     "AP News": [
@@ -9841,7 +9841,7 @@
     ],
     "The Guardian": [
      0,
-     32,
+     35,
      0
     ],
     "Tavern of the Taeguk Warriors": [
