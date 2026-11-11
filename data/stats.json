@@ -8041,15 +8041,15 @@
    }
   },
   "2026-11-09": {
-   "total": 784,
-   "news": 778,
+   "total": 787,
+   "news": 781,
    "articles": 6,
    "positive": 0,
-   "neutral": 784,
+   "neutral": 787,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 246,
+    "GB": 249,
     "US": 260,
     "FR": 28,
     "SA": 72,
@@ -8083,7 +8083,7 @@
     "Bloomberg.com": 44,
     "UA.NEWS": 3,
     "BBC": 10,
-    "The Guardian": 29,
+    "The Guardian": 32,
     "Foreign Affairs": 1,
     "Le Monde.fr": 6,
     "The Week": 1,
@@ -8320,7 +8320,7 @@
     ],
     "The Guardian": [
      0,
-     29,
+     32,
      0
     ],
     "Foreign Affairs": [
@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 659,
-   "news": 647,
+   "total": 670,
+   "news": 658,
    "articles": 12,
    "positive": 0,
-   "neutral": 659,
+   "neutral": 670,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 200,
-    "GB": 163,
+    "GB": 174,
     "HK": 1,
     "SA": 96,
     "FR": 4,
@@ -8980,7 +8980,7 @@
     "Forbes Middle East": 2,
     "TV7 Israel News": 1,
     "News of Bahrain": 1,
-    "The Guardian": 58,
+    "The Guardian": 69,
     "Foreign Policy": 2,
     "صحيفة سبق الإلكترونية": 1,
     "thetruthaboutcars.com": 1,
@@ -9425,7 +9425,7 @@
     ],
     "The Guardian": [
      0,
-     58,
+     69,
      0
     ],
     "Foreign Policy": [
@@ -9706,17 +9706,17 @@
    }
   },
   "2026-11-11": {
-   "total": 180,
-   "news": 180,
+   "total": 184,
+   "news": 184,
    "articles": 0,
    "positive": 0,
-   "neutral": 180,
+   "neutral": 184,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 51,
     "SA": 15,
-    "GB": 45,
+    "GB": 49,
     "JP": 1,
     "HK": 1,
     "FR": 1
@@ -9732,7 +9732,7 @@
     "The Washington Post": 12,
     "AP News": 4,
     "Reuters": 9,
-    "The Guardian": 27,
+    "The Guardian": 31,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 1,
@@ -9838,7 +9838,7 @@
     ],
     "The Guardian": [
      0,
-     27,
+     31,
      0
     ],
     "Tavern of the Taeguk Warriors": [
