@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 772,
-   "news": 760,
+   "total": 773,
+   "news": 761,
    "articles": 12,
    "positive": 0,
-   "neutral": 772,
+   "neutral": 773,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 208,
-    "GB": 265,
+    "GB": 266,
     "HK": 1,
     "SA": 97,
     "FR": 6,
@@ -8929,7 +8929,7 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 2,
-    "Reuters": 118,
+    "Reuters": 119,
     "Gulf News": 4,
     "CGTN": 1,
     "Al Jazeera": 2,
@@ -9171,7 +9171,7 @@
     ],
     "Reuters": [
      0,
-     118,
+     119,
      0
     ],
     "Gulf News": [
@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 462,
-   "news": 459,
+   "total": 463,
+   "news": 460,
    "articles": 3,
    "positive": 0,
-   "neutral": 462,
+   "neutral": 463,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "US": 115,
     "SA": 48,
-    "GB": 146,
+    "GB": 147,
     "JP": 1,
     "HK": 4,
     "FR": 2
@@ -9738,7 +9738,7 @@
     "The Washington Post": 13,
     "AP News": 9,
     "Reuters": 46,
-    "The Guardian": 77,
+    "The Guardian": 78,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 1,
@@ -9895,7 +9895,7 @@
     ],
     "The Guardian": [
      0,
-     77,
+     78,
      0
     ],
     "Tavern of the Taeguk Warriors": [
