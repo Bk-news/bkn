@@ -9712,24 +9712,24 @@
    }
   },
   "2026-11-11": {
-   "total": 435,
-   "news": 432,
+   "total": 439,
+   "news": 436,
    "articles": 3,
    "positive": 0,
-   "neutral": 435,
+   "neutral": 439,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "US": 111,
+    "US": 112,
     "SA": 44,
-    "GB": 131,
+    "GB": 133,
     "JP": 1,
     "HK": 4,
     "FR": 2
    },
    "topics": {},
    "sources": {
-    "WSJ": 20,
+    "WSJ": 21,
     "The New York Times": 10,
     "Arab News": 47,
     "www.thenewworld.co.uk": 1,
@@ -9738,7 +9738,7 @@
     "The Washington Post": 13,
     "AP News": 9,
     "Reuters": 41,
-    "The Guardian": 68,
+    "The Guardian": 70,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 1,
@@ -9842,12 +9842,13 @@
     "Yardbarker": 1,
     "Goal.com": 1,
     "https://internationalfinance.com/": 1,
-    "Best Selling Cars Blog": 1
+    "Best Selling Cars Blog": 1,
+    "وكالة الأنباء السعودية": 1
    },
    "sourceTone": {
     "WSJ": [
      0,
-     20,
+     21,
      0
     ],
     "The New York Times": [
@@ -9892,7 +9893,7 @@
     ],
     "The Guardian": [
      0,
-     68,
+     70,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -10411,6 +10412,11 @@
      0
     ],
     "Best Selling Cars Blog": [
+     0,
+     1,
+     0
+    ],
+    "وكالة الأنباء السعودية": [
      0,
      1,
      0
