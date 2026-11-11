@@ -8886,11 +8886,11 @@
    }
   },
   "2026-11-10": {
-   "total": 536,
-   "news": 525,
+   "total": 538,
+   "news": 527,
    "articles": 11,
    "positive": 0,
-   "neutral": 536,
+   "neutral": 538,
    "critical": 0,
    "mbs": 21,
    "countries": {
@@ -9031,7 +9031,9 @@
     "Yahoo Finance": 1,
     "The Arab Weekly": 1,
     "IGN": 1,
-    "NewsCord": 1
+    "NewsCord": 1,
+    "Eurasia Review": 1,
+    "Seeking Alpha": 1
    },
    "sourceTone": {
     "Amwaj.media": [
@@ -9675,6 +9677,16 @@
      0
     ],
     "NewsCord": [
+     0,
+     1,
+     0
+    ],
+    "Eurasia Review": [
+     0,
+     1,
+     0
+    ],
+    "Seeking Alpha": [
      0,
      1,
      0
