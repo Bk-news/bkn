@@ -8041,15 +8041,15 @@
    }
   },
   "2026-11-09": {
-   "total": 787,
-   "news": 781,
+   "total": 788,
+   "news": 782,
    "articles": 6,
    "positive": 0,
-   "neutral": 787,
+   "neutral": 788,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 249,
+    "GB": 250,
     "US": 260,
     "FR": 28,
     "SA": 72,
@@ -8083,7 +8083,7 @@
     "Bloomberg.com": 44,
     "UA.NEWS": 3,
     "BBC": 10,
-    "The Guardian": 32,
+    "The Guardian": 33,
     "Foreign Affairs": 1,
     "Le Monde.fr": 6,
     "The Week": 1,
@@ -8320,7 +8320,7 @@
     ],
     "The Guardian": [
      0,
-     32,
+     33,
      0
     ],
     "Foreign Affairs": [
@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 670,
-   "news": 658,
+   "total": 671,
+   "news": 659,
    "articles": 12,
    "positive": 0,
-   "neutral": 670,
+   "neutral": 671,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 200,
-    "GB": 174,
+    "GB": 175,
     "HK": 1,
     "SA": 96,
     "FR": 4,
@@ -8980,7 +8980,7 @@
     "Forbes Middle East": 2,
     "TV7 Israel News": 1,
     "News of Bahrain": 1,
-    "The Guardian": 69,
+    "The Guardian": 70,
     "Foreign Policy": 2,
     "صحيفة سبق الإلكترونية": 1,
     "thetruthaboutcars.com": 1,
@@ -9425,7 +9425,7 @@
     ],
     "The Guardian": [
      0,
-     69,
+     70,
      0
     ],
     "Foreign Policy": [
@@ -9706,11 +9706,11 @@
    }
   },
   "2026-11-11": {
-   "total": 184,
-   "news": 184,
+   "total": 186,
+   "news": 186,
    "articles": 0,
    "positive": 0,
-   "neutral": 184,
+   "neutral": 186,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -9784,11 +9784,12 @@
     "Trend News Agency": 1,
     "Báo VietNamNet": 1,
     "NDTV Sports": 1,
-    "The National": 1,
+    "The National": 2,
     "The Korea Herald": 1,
     "Arabian Business": 1,
     "PWTorch": 1,
-    "Shanghai Metals Market": 1
+    "Shanghai Metals Market": 1,
+    "FTL Somalia": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -10098,7 +10099,7 @@
     ],
     "The National": [
      0,
-     1,
+     2,
      0
     ],
     "The Korea Herald": [
@@ -10117,6 +10118,11 @@
      0
     ],
     "Shanghai Metals Market": [
+     0,
+     1,
+     0
+    ],
+    "FTL Somalia": [
      0,
      1,
      0
