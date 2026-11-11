@@ -8886,18 +8886,18 @@
    }
   },
   "2026-11-10": {
-   "total": 549,
-   "news": 538,
-   "articles": 11,
+   "total": 554,
+   "news": 542,
+   "articles": 12,
    "positive": 0,
-   "neutral": 549,
+   "neutral": 554,
    "critical": 0,
    "mbs": 21,
    "countries": {
-    "US": 183,
+    "US": 184,
     "GB": 89,
     "HK": 1,
-    "SA": 80,
+    "SA": 84,
     "FR": 4,
     "DE": 4
    },
@@ -8912,7 +8912,7 @@
     "Bloomberg.com": 48,
     "AP News": 15,
     "The New York Times": 23,
-    "Arab News": 78,
+    "Arab News": 82,
     "UA.NEWS": 2,
     "Investing.com": 2,
     "The National": 3,
@@ -8972,7 +8972,7 @@
     "EnterpriseAM": 1,
     "KRCG": 1,
     "Daily Nation": 1,
-    "Atlantic Council": 9,
+    "Atlantic Council": 10,
     "Fast Company Middle East": 1,
     "Morocco World News": 1,
     "talkSPORT": 1,
@@ -9083,7 +9083,7 @@
     ],
     "Arab News": [
      0,
-     78,
+     82,
      0
     ],
     "UA.NEWS": [
@@ -9383,7 +9383,7 @@
     ],
     "Atlantic Council": [
      0,
-     9,
+     10,
      0
     ],
     "Fast Company Middle East": [
@@ -9694,11 +9694,11 @@
    }
   },
   "2026-11-11": {
-   "total": 5,
-   "news": 5,
+   "total": 6,
+   "news": 6,
    "articles": 0,
    "positive": 0,
-   "neutral": 5,
+   "neutral": 6,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -9709,7 +9709,8 @@
    "sources": {
     "WSJ": 1,
     "The New York Times": 2,
-    "Arab News": 2
+    "Arab News": 2,
+    "www.thenewworld.co.uk": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -9725,6 +9726,11 @@
     "Arab News": [
      0,
      2,
+     0
+    ],
+    "www.thenewworld.co.uk": [
+     0,
+     1,
      0
     ]
    }
