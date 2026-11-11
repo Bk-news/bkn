@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 764,
-   "news": 752,
+   "total": 769,
+   "news": 757,
    "articles": 12,
    "positive": 0,
-   "neutral": 764,
+   "neutral": 769,
    "critical": 0,
    "mbs": 22,
    "countries": {
-    "US": 205,
-    "GB": 260,
+    "US": 206,
+    "GB": 264,
     "HK": 1,
     "SA": 97,
     "FR": 6,
@@ -8911,7 +8911,7 @@
     "South China Morning Post": 1,
     "Bloomberg.com": 50,
     "AP News": 19,
-    "The New York Times": 26,
+    "The New York Times": 27,
     "Arab News": 94,
     "UA.NEWS": 2,
     "Investing.com": 2,
@@ -8929,7 +8929,7 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 2,
-    "Reuters": 115,
+    "Reuters": 118,
     "Gulf News": 4,
     "CGTN": 1,
     "Al Jazeera": 2,
@@ -8980,7 +8980,7 @@
     "Forbes Middle East": 2,
     "TV7 Israel News": 1,
     "News of Bahrain": 1,
-    "The Guardian": 115,
+    "The Guardian": 116,
     "Foreign Policy": 2,
     "صحيفة سبق الإلكترونية": 1,
     "thetruthaboutcars.com": 1,
@@ -9081,7 +9081,7 @@
     ],
     "The New York Times": [
      0,
-     26,
+     27,
      0
     ],
     "Arab News": [
@@ -9171,7 +9171,7 @@
     ],
     "Reuters": [
      0,
-     115,
+     118,
      0
     ],
     "Gulf News": [
@@ -9426,7 +9426,7 @@
     ],
     "The Guardian": [
      0,
-     115,
+     116,
      0
     ],
     "Foreign Policy": [
@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 449,
-   "news": 446,
+   "total": 450,
+   "news": 447,
    "articles": 3,
    "positive": 0,
-   "neutral": 449,
+   "neutral": 450,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "US": 114,
     "SA": 46,
-    "GB": 138,
+    "GB": 139,
     "JP": 1,
     "HK": 4,
     "FR": 2
@@ -9737,7 +9737,7 @@
     "Al-Monitor": 29,
     "The Washington Post": 13,
     "AP News": 9,
-    "Reuters": 43,
+    "Reuters": 44,
     "The Guardian": 72,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
@@ -9889,7 +9889,7 @@
     ],
     "Reuters": [
      0,
-     43,
+     44,
      0
     ],
     "The Guardian": [
