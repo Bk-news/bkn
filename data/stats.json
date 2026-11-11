@@ -9712,15 +9712,15 @@
    }
   },
   "2026-11-11": {
-   "total": 434,
-   "news": 431,
+   "total": 435,
+   "news": 432,
    "articles": 3,
    "positive": 0,
-   "neutral": 434,
+   "neutral": 435,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "US": 110,
+    "US": 111,
     "SA": 44,
     "GB": 131,
     "JP": 1,
@@ -9729,7 +9729,7 @@
    },
    "topics": {},
    "sources": {
-    "WSJ": 19,
+    "WSJ": 20,
     "The New York Times": 10,
     "Arab News": 47,
     "www.thenewworld.co.uk": 1,
@@ -9847,7 +9847,7 @@
    "sourceTone": {
     "WSJ": [
      0,
-     19,
+     20,
      0
     ],
     "The New York Times": [
