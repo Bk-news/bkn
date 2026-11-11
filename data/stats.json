@@ -8041,16 +8041,16 @@
    }
   },
   "2026-11-09": {
-   "total": 812,
-   "news": 806,
+   "total": 813,
+   "news": 807,
    "articles": 6,
    "positive": 0,
-   "neutral": 812,
+   "neutral": 813,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "GB": 272,
-    "US": 262,
+    "US": 263,
     "FR": 28,
     "SA": 72,
     "HK": 3,
@@ -8080,7 +8080,7 @@
     "Nine.com.au": 1,
     "Reuters": 136,
     "NDTV Sports": 1,
-    "Bloomberg.com": 44,
+    "Bloomberg.com": 45,
     "UA.NEWS": 3,
     "BBC": 10,
     "The Guardian": 52,
@@ -8305,7 +8305,7 @@
     ],
     "Bloomberg.com": [
      0,
-     44,
+     45,
      0
     ],
     "UA.NEWS": [
