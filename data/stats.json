@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 555,
-   "news": 543,
+   "total": 556,
+   "news": 544,
    "articles": 12,
    "positive": 0,
-   "neutral": 555,
+   "neutral": 556,
    "critical": 0,
    "mbs": 21,
    "countries": {
     "US": 185,
-    "GB": 89,
+    "GB": 90,
     "HK": 1,
     "SA": 84,
     "FR": 4,
@@ -8936,7 +8936,7 @@
     "TRT World": 1,
     "Asset Servicing Times": 1,
     "Saudi Gazette": 14,
-    "Financial Times": 15,
+    "Financial Times": 16,
     "CNN": 2,
     "France 24": 4,
     "Fana News -": 1,
@@ -9203,7 +9203,7 @@
     ],
     "Financial Times": [
      0,
-     15,
+     16,
      0
     ],
     "CNN": [
