@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 760,
-   "news": 748,
+   "total": 762,
+   "news": 750,
    "articles": 12,
    "positive": 0,
-   "neutral": 760,
+   "neutral": 762,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 205,
-    "GB": 256,
+    "GB": 258,
     "HK": 1,
     "SA": 97,
     "FR": 6,
@@ -8929,7 +8929,7 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 2,
-    "Reuters": 113,
+    "Reuters": 114,
     "Gulf News": 4,
     "CGTN": 1,
     "Al Jazeera": 2,
@@ -8980,7 +8980,7 @@
     "Forbes Middle East": 2,
     "TV7 Israel News": 1,
     "News of Bahrain": 1,
-    "The Guardian": 113,
+    "The Guardian": 114,
     "Foreign Policy": 2,
     "صحيفة سبق الإلكترونية": 1,
     "thetruthaboutcars.com": 1,
@@ -9171,7 +9171,7 @@
     ],
     "Reuters": [
      0,
-     113,
+     114,
      0
     ],
     "Gulf News": [
@@ -9426,7 +9426,7 @@
     ],
     "The Guardian": [
      0,
-     113,
+     114,
      0
     ],
     "Foreign Policy": [
