@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 594,
-   "news": 590,
+   "total": 596,
+   "news": 592,
    "articles": 4,
    "positive": 0,
-   "neutral": 594,
+   "neutral": 596,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "US": 139,
     "SA": 65,
-    "GB": 204,
+    "GB": 205,
     "JP": 1,
     "HK": 4,
     "FR": 4
@@ -9754,7 +9754,7 @@
     "https://houseofsaud.com/": 5,
     "Arab News PK": 2,
     "The Economic Times": 1,
-    "Financial Times": 24,
+    "Financial Times": 25,
     "Cyprus Shipping News": 1,
     "Saudi Gazette": 12,
     "Bloomberg.com": 33,
@@ -9864,7 +9864,8 @@
     "Yahoo Finance Singapore": 1,
     "BigGo Finance": 1,
     "www.inss.org.il": 1,
-    "Inspenet": 1
+    "Inspenet": 1,
+    "Oman Observer": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -9994,7 +9995,7 @@
     ],
     "Financial Times": [
      0,
-     24,
+     25,
      0
     ],
     "Cyprus Shipping News": [
@@ -10543,6 +10544,11 @@
      0
     ],
     "Inspenet": [
+     0,
+     1,
+     0
+    ],
+    "Oman Observer": [
      0,
      1,
      0
