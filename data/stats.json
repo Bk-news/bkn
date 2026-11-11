@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 706,
-   "news": 694,
+   "total": 728,
+   "news": 716,
    "articles": 12,
    "positive": 0,
-   "neutral": 706,
+   "neutral": 728,
    "critical": 0,
    "mbs": 22,
    "countries": {
-    "US": 203,
-    "GB": 205,
+    "US": 204,
+    "GB": 226,
     "HK": 1,
     "SA": 97,
     "FR": 5,
@@ -8905,9 +8905,9 @@
    "sources": {
     "Amwaj.media": 1,
     "The Washington Post": 8,
-    "BBC": 11,
+    "BBC": 12,
     "Al-Monitor": 51,
-    "WSJ": 39,
+    "WSJ": 40,
     "South China Morning Post": 1,
     "Bloomberg.com": 50,
     "AP News": 19,
@@ -8929,7 +8929,7 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 2,
-    "Reuters": 77,
+    "Reuters": 85,
     "Gulf News": 4,
     "CGTN": 1,
     "Al Jazeera": 2,
@@ -8980,7 +8980,7 @@
     "Forbes Middle East": 2,
     "TV7 Israel News": 1,
     "News of Bahrain": 1,
-    "The Guardian": 99,
+    "The Guardian": 111,
     "Foreign Policy": 2,
     "صحيفة سبق الإلكترونية": 1,
     "thetruthaboutcars.com": 1,
@@ -9051,7 +9051,7 @@
     ],
     "BBC": [
      0,
-     11,
+     12,
      0
     ],
     "Al-Monitor": [
@@ -9061,7 +9061,7 @@
     ],
     "WSJ": [
      0,
-     39,
+     40,
      0
     ],
     "South China Morning Post": [
@@ -9171,7 +9171,7 @@
     ],
     "Reuters": [
      0,
-     77,
+     85,
      0
     ],
     "Gulf News": [
@@ -9426,7 +9426,7 @@
     ],
     "The Guardian": [
      0,
-     99,
+     111,
      0
     ],
     "Foreign Policy": [
@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 370,
-   "news": 367,
+   "total": 388,
+   "news": 385,
    "articles": 3,
    "positive": 0,
-   "neutral": 370,
+   "neutral": 388,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "US": 103,
     "SA": 42,
-    "GB": 118,
+    "GB": 123,
     "JP": 1,
     "HK": 4,
     "FR": 1
@@ -9731,13 +9731,13 @@
    "sources": {
     "WSJ": 15,
     "The New York Times": 10,
-    "Arab News": 42,
+    "Arab News": 45,
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
     "Al-Monitor": 27,
     "The Washington Post": 13,
     "AP News": 8,
-    "Reuters": 33,
+    "Reuters": 39,
     "The Guardian": 65,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
@@ -9782,7 +9782,7 @@
     "Egypt Oil & Gas": 2,
     "Archiproducts": 1,
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Middle East Eye": 2,
+    "Middle East Eye": 3,
     "Türkiye Today": 1,
     "Condé Nast Traveller Middle East": 1,
     "MEED": 1,
@@ -9815,8 +9815,15 @@
     "Forbes Middle East": 1,
     "Moomoo": 1,
     "Morgan Lewis": 1,
-    "Quartz": 1,
-    "FDD's Long War Journal": 1
+    "Quartz": 2,
+    "FDD's Long War Journal": 1,
+    "SaudiGulf Projects": 1,
+    "Seeking Alpha": 1,
+    "Global Trade Review (GTR)": 1,
+    "Deccan Herald": 1,
+    "Wamda": 1,
+    "GuruFocus": 1,
+    "houseofsaud.com": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -9831,7 +9838,7 @@
     ],
     "Arab News": [
      0,
-     42,
+     45,
      0
     ],
     "www.thenewworld.co.uk": [
@@ -9861,7 +9868,7 @@
     ],
     "Reuters": [
      0,
-     33,
+     39,
      0
     ],
     "The Guardian": [
@@ -10086,7 +10093,7 @@
     ],
     "Middle East Eye": [
      0,
-     2,
+     3,
      0
     ],
     "Türkiye Today": [
@@ -10251,10 +10258,45 @@
     ],
     "Quartz": [
      0,
-     1,
+     2,
      0
     ],
     "FDD's Long War Journal": [
+     0,
+     1,
+     0
+    ],
+    "SaudiGulf Projects": [
+     0,
+     1,
+     0
+    ],
+    "Seeking Alpha": [
+     0,
+     1,
+     0
+    ],
+    "Global Trade Review (GTR)": [
+     0,
+     1,
+     0
+    ],
+    "Deccan Herald": [
+     0,
+     1,
+     0
+    ],
+    "Wamda": [
+     0,
+     1,
+     0
+    ],
+    "GuruFocus": [
+     0,
+     1,
+     0
+    ],
+    "houseofsaud.com": [
      0,
      1,
      0
