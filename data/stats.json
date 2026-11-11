@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 454,
-   "news": 451,
+   "total": 458,
+   "news": 455,
    "articles": 3,
    "positive": 0,
-   "neutral": 454,
+   "neutral": 458,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "US": 114,
-    "SA": 46,
-    "GB": 142,
+    "SA": 47,
+    "GB": 145,
     "JP": 1,
     "HK": 4,
     "FR": 2
@@ -9731,14 +9731,14 @@
    "sources": {
     "WSJ": 21,
     "The New York Times": 10,
-    "Arab News": 48,
+    "Arab News": 49,
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
     "Al-Monitor": 29,
     "The Washington Post": 13,
     "AP News": 9,
-    "Reuters": 45,
-    "The Guardian": 74,
+    "Reuters": 46,
+    "The Guardian": 76,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 1,
@@ -9860,7 +9860,7 @@
     ],
     "Arab News": [
      0,
-     48,
+     49,
      0
     ],
     "www.thenewworld.co.uk": [
@@ -9890,12 +9890,12 @@
     ],
     "Reuters": [
      0,
-     45,
+     46,
      0
     ],
     "The Guardian": [
      0,
-     74,
+     76,
      0
     ],
     "Tavern of the Taeguk Warriors": [
