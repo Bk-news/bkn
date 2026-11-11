@@ -8041,15 +8041,15 @@
    }
   },
   "2026-11-09": {
-   "total": 793,
-   "news": 787,
+   "total": 794,
+   "news": 788,
    "articles": 6,
    "positive": 0,
-   "neutral": 793,
+   "neutral": 794,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 254,
+    "GB": 255,
     "US": 261,
     "FR": 28,
     "SA": 72,
@@ -8083,7 +8083,7 @@
     "Bloomberg.com": 44,
     "UA.NEWS": 3,
     "BBC": 10,
-    "The Guardian": 37,
+    "The Guardian": 38,
     "Foreign Affairs": 1,
     "Le Monde.fr": 6,
     "The Week": 1,
@@ -8320,7 +8320,7 @@
     ],
     "The Guardian": [
      0,
-     37,
+     38,
      0
     ],
     "Foreign Affairs": [
@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 684,
-   "news": 672,
+   "total": 687,
+   "news": 675,
    "articles": 12,
    "positive": 0,
-   "neutral": 684,
+   "neutral": 687,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 200,
-    "GB": 188,
+    "GB": 191,
     "HK": 1,
     "SA": 96,
     "FR": 4,
@@ -8980,7 +8980,7 @@
     "Forbes Middle East": 2,
     "TV7 Israel News": 1,
     "News of Bahrain": 1,
-    "The Guardian": 83,
+    "The Guardian": 86,
     "Foreign Policy": 2,
     "صحيفة سبق الإلكترونية": 1,
     "thetruthaboutcars.com": 1,
@@ -9425,7 +9425,7 @@
     ],
     "The Guardian": [
      0,
-     83,
+     86,
      0
     ],
     "Foreign Policy": [
@@ -9706,17 +9706,17 @@
    }
   },
   "2026-11-11": {
-   "total": 199,
-   "news": 199,
+   "total": 201,
+   "news": 201,
    "articles": 0,
    "positive": 0,
-   "neutral": 199,
+   "neutral": 201,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "US": 52,
+    "US": 53,
     "SA": 20,
-    "GB": 53,
+    "GB": 54,
     "JP": 1,
     "HK": 1,
     "FR": 1
@@ -9732,7 +9732,7 @@
     "The Washington Post": 13,
     "AP News": 4,
     "Reuters": 9,
-    "The Guardian": 35,
+    "The Guardian": 36,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 1,
@@ -9751,7 +9751,7 @@
     "Financial Times": 6,
     "Cyprus Shipping News": 1,
     "Saudi Gazette": 3,
-    "Bloomberg.com": 11,
+    "Bloomberg.com": 12,
     "South China Morning Post": 1,
     "Le Monde.fr": 1,
     "Mining.com.au": 1,
@@ -9842,7 +9842,7 @@
     ],
     "The Guardian": [
      0,
-     35,
+     36,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -9937,7 +9937,7 @@
     ],
     "Bloomberg.com": [
      0,
-     11,
+     12,
      0
     ],
     "South China Morning Post": [
