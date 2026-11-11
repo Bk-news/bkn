@@ -3719,6 +3719,27 @@
    "mt": true
   },
   {
+   "id": "396e760a91bd3dce",
+   "origin": "rss",
+   "source": "WSJ",
+   "author": "",
+   "title_ar": "طبعة مطبوعة | وول ستريت جورنال",
+   "title_orig": "Print Edition | Wall Street Journal",
+   "title_en": "Print Edition | Wall Street Journal",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tZ1haZE4tWUt2aXIwODk2czN1ZmhaLXFKOFFTVDQxMlNpTjhtcnNCdDRyUE5zS29jaF95Q2ZtdFJ1UThsOWhOYk1HSGhkdzVEU2ZuQmYzV24yWFVVY1hQOEVB?oc=5",
+   "published": "2026-11-11T11:29:36.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "Print Edition | Wall Street Journal &nbsp;&nbsp; WSJ",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "9110350e7e6d34ad",
    "origin": "rss",
    "source": "Reuters",
