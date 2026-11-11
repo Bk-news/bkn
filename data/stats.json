@@ -8886,18 +8886,18 @@
    }
   },
   "2026-11-10": {
-   "total": 575,
-   "news": 563,
+   "total": 578,
+   "news": 566,
    "articles": 12,
    "positive": 0,
-   "neutral": 575,
+   "neutral": 578,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 190,
     "GB": 97,
     "HK": 1,
-    "SA": 89,
+    "SA": 92,
     "FR": 4,
     "DE": 4
    },
@@ -8912,7 +8912,7 @@
     "Bloomberg.com": 48,
     "AP News": 17,
     "The New York Times": 23,
-    "Arab News": 86,
+    "Arab News": 89,
     "UA.NEWS": 2,
     "Investing.com": 2,
     "The National": 3,
@@ -9084,7 +9084,7 @@
     ],
     "Arab News": [
      0,
-     86,
+     89,
      0
     ],
     "UA.NEWS": [
@@ -9700,16 +9700,16 @@
    }
   },
   "2026-11-11": {
-   "total": 30,
-   "news": 30,
+   "total": 32,
+   "news": 32,
    "articles": 0,
    "positive": 0,
-   "neutral": 30,
+   "neutral": 32,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 12,
-    "SA": 2,
+    "SA": 4,
     "GB": 3,
     "JP": 1
    },
@@ -9717,7 +9717,7 @@
    "sources": {
     "WSJ": 3,
     "The New York Times": 3,
-    "Arab News": 2,
+    "Arab News": 4,
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
     "Al-Monitor": 3,
@@ -9751,7 +9751,7 @@
     ],
     "Arab News": [
      0,
-     2,
+     4,
      0
     ],
     "www.thenewworld.co.uk": [
