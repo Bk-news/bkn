@@ -8041,16 +8041,16 @@
    }
   },
   "2026-11-09": {
-   "total": 752,
-   "news": 746,
+   "total": 754,
+   "news": 748,
    "articles": 6,
    "positive": 0,
-   "neutral": 752,
+   "neutral": 754,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "GB": 219,
-    "US": 255,
+    "US": 257,
     "FR": 28,
     "SA": 72,
     "HK": 3,
@@ -8065,9 +8065,9 @@
     "CNN": 7,
     "France 24": 23,
     "Arab News": 71,
-    "The Washington Post": 8,
+    "The Washington Post": 9,
     "Al-Monitor": 47,
-    "AP News": 19,
+    "AP News": 20,
     "South China Morning Post": 5,
     "The Times of India": 1,
     "news.sbs.co.kr": 1,
@@ -8230,7 +8230,7 @@
     ],
     "The Washington Post": [
      0,
-     8,
+     9,
      0
     ],
     "Al-Monitor": [
@@ -8240,7 +8240,7 @@
     ],
     "AP News": [
      0,
-     19,
+     20,
      0
     ],
     "South China Morning Post": [
@@ -9700,15 +9700,15 @@
    }
   },
   "2026-11-11": {
-   "total": 22,
-   "news": 22,
+   "total": 23,
+   "news": 23,
    "articles": 0,
    "positive": 0,
-   "neutral": 22,
+   "neutral": 23,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "US": 10,
+    "US": 11,
     "SA": 2,
     "GB": 2
    },
@@ -9721,7 +9721,7 @@
     "Yieh Corp.": 1,
     "Al-Monitor": 3,
     "The Washington Post": 1,
-    "AP News": 1,
+    "AP News": 2,
     "Reuters": 1,
     "The Guardian": 1,
     "Tavern of the Taeguk Warriors": 1,
@@ -9769,7 +9769,7 @@
     ],
     "AP News": [
      0,
-     1,
+     2,
      0
     ],
     "Reuters": [

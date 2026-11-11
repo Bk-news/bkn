@@ -4,7 +4,7 @@
   "origin": "rss",
   "source": "Atlantic Council",
   "author": "",
-  "title_ar": "Tomorrow’s fleet: Revitalizing US shipbuilding and the maritime industrial base",
+  "title_ar": "أسطول الغد: تنشيط بناء السفن الأمريكية والقاعدة الصناعية البحرية",
   "title_orig": "Tomorrow’s fleet: Revitalizing US shipbuilding and the maritime industrial base",
   "title_en": "Tomorrow’s fleet: Revitalizing US shipbuilding and the maritime industrial base",
   "summary_ar": [],
@@ -17,14 +17,15 @@
   "country": "US",
   "pending": true,
   "desc": "Tomorrow’s fleet: Revitalizing US shipbuilding and the maritime industrial base &nbsp;&nbsp; Atlantic Council",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "4c32f8d22ceecd32",
   "origin": "rss",
   "source": "Atlantic Council",
   "author": "",
-  "title_ar": "Ukraine’s new drone blitz cuts Russian oil refining capacity by 30 percent",
+  "title_ar": "الغارة الجوية الأوكرانية الجديدة بطائرات بدون طيار تقلص قدرة روسيا على تكرير النفط بنسبة 30%",
   "title_orig": "Ukraine’s new drone blitz cuts Russian oil refining capacity by 30 percent",
   "title_en": "Ukraine’s new drone blitz cuts Russian oil refining capacity by 30 percent",
   "summary_ar": [],
@@ -37,14 +38,15 @@
   "country": "US",
   "pending": true,
   "desc": "Ukraine’s new drone blitz cuts Russian oil refining capacity by 30 percent &nbsp;&nbsp; Atlantic Council",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "67a218ce8a336e73",
   "origin": "rss",
   "source": "Atlantic Council",
   "author": "",
-  "title_ar": "Europe sees surge in suspected Russian hybrid warfare incidents",
+  "title_ar": "أوروبا تشهد تصاعدًا في حوادث الحرب الهجين الروسية المشتبه بها",
   "title_orig": "Europe sees surge in suspected Russian hybrid warfare incidents",
   "title_en": "Europe sees surge in suspected Russian hybrid warfare incidents",
   "summary_ar": [],
@@ -57,14 +59,15 @@
   "country": "US",
   "pending": true,
   "desc": "Europe sees surge in suspected Russian hybrid warfare incidents &nbsp;&nbsp; Atlantic Council",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "dc3b0dd9e71eec3f",
   "origin": "rss",
   "source": "Atlantic Council",
   "author": "",
-  "title_ar": "The risk of ignoring the Horn of Africa’s humanitarian crises",
+  "title_ar": "خطر تجاهل الأزمات الإنسانية في القرن الأفريقي",
   "title_orig": "The risk of ignoring the Horn of Africa’s humanitarian crises",
   "title_en": "The risk of ignoring the Horn of Africa’s humanitarian crises",
   "summary_ar": [],
@@ -77,7 +80,8 @@
   "country": "US",
   "pending": true,
   "desc": "The risk of ignoring the Horn of Africa’s humanitarian crises &nbsp;&nbsp; Atlantic Council",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "f4c9e65c8c51951d",
@@ -105,7 +109,7 @@
   "origin": "rss",
   "source": "Atlantic Council",
   "author": "",
-  "title_ar": "Nick Clegg on Trump, Silicon Valley, and Big Tech’s political shift",
+  "title_ar": "نيك كليج يتحدث عن ترامب ووادي السيليكون والتحول السياسي لشركات التكنولوجيا الكبرى",
   "title_orig": "Nick Clegg on Trump, Silicon Valley, and Big Tech’s political shift",
   "title_en": "Nick Clegg on Trump, Silicon Valley, and Big Tech’s political shift",
   "summary_ar": [],
@@ -118,7 +122,8 @@
   "country": "US",
   "pending": true,
   "desc": "Nick Clegg on Trump, Silicon Valley, and Big Tech’s political shift &nbsp;&nbsp; Atlantic Council",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "d3dc3300f346e449",
@@ -188,7 +193,7 @@
   "origin": "rss",
   "source": "Atlantic Council",
   "author": "",
-  "title_ar": "ASEAN-Canada AI Connect: Building AI cooperation in Southeast Asia",
+  "title_ar": "الاتصال بين الآسيان وكندا في مجال الذكاء الاصطناعي: بناء التعاون في مجال الذكاء الاصطناعي في جنوب شرق آسيا",
   "title_orig": "ASEAN-Canada AI Connect: Building AI cooperation in Southeast Asia",
   "title_en": "ASEAN-Canada AI Connect: Building AI cooperation in Southeast Asia",
   "summary_ar": [],
@@ -201,7 +206,8 @@
   "country": "US",
   "pending": true,
   "desc": "ASEAN-Canada AI Connect: Building AI cooperation in Southeast Asia &nbsp;&nbsp; Atlantic Council",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "43d807f220f3115b",

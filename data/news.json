@@ -231,6 +231,27 @@
   "mt": true
  },
  {
+  "id": "dd877df50011b2bd",
+  "origin": "rss",
+  "source": "AP News",
+  "author": "",
+  "title_ar": "من الحبر إلى النص المقدس، يمزج صانعو القرآن الكريم في ماليزيا بين الحرفية والإيمان",
+  "title_orig": "From ink to sacred text, Malaysia’s Quran makers blend craft and faith",
+  "title_en": "From ink to sacred text, Malaysia’s Quran makers blend craft and faith",
+  "summary_ar": [],
+  "summary_en": [],
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWHIyWGZsRVowRlB5Mm5TX3d4T3pvVVUySmV5U2F1VG5rNDZTWmdlRFVXdEZBcGhrU0Z0aERMbGloUzhtak9xcENuak55eHNCbl9LMG9NZThuWGJGLVF5b2VNNVRGTERjdnh4ZXgzbWVzTmlTMUJRR09EWjN2aTNlNFdTZ3h0TEhELWF6ejU3YlNNSHVHcGRuNHZKUDZkcTdxanBJ?oc=5",
+  "published": "2026-11-11T01:13:00.000Z",
+  "subject": "saudi",
+  "tone": "neutral",
+  "topic": "",
+  "country": "US",
+  "pending": true,
+  "desc": "From ink to sacred text, Malaysia’s Quran makers blend craft and faith &nbsp;&nbsp; AP News",
+  "lang": "en",
+  "mt": true
+ },
+ {
   "id": "ef9c2da1de4bdc99",
   "origin": "rss",
   "source": "Bioengineer.org",
@@ -1936,7 +1957,7 @@
   "origin": "rss",
   "source": "Transport Topics",
   "author": "",
-  "title_ar": "Lucid secures added liquidity from Saudi investor",
+  "title_ar": "لوسِد تؤمن سيولة إضافية من مستثمر سعودي",
   "title_orig": "Lucid secures added liquidity from Saudi investor",
   "title_en": "Lucid secures added liquidity from Saudi investor",
   "summary_ar": [],
@@ -1949,14 +1970,15 @@
   "country": "",
   "pending": true,
   "desc": "Lucid secures added liquidity from Saudi investor &nbsp;&nbsp; Transport Topics",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "c58d32be12a840f8",
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "French students keep up pressure with blockades, protests",
+  "title_ar": "يواصل الطلاب الفرنسيون الضغط من خلال الحصار والاحتجاجات",
   "title_orig": "French students keep up pressure with blockades, protests",
   "title_en": "French students keep up pressure with blockades, protests",
   "summary_ar": [],
@@ -1969,14 +1991,15 @@
   "country": "SA",
   "pending": true,
   "desc": "French students keep up pressure with blockades, protests &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "392e58d1822667db",
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Thomas Markle, father of Meghan, cut off his ankle monitor, DOJ says",
+  "title_ar": "تقول وزارة العدل إن توماس ماركل، والد ميغان، قطع جهاز مراقبة كاحله",
   "title_orig": "Thomas Markle, father of Meghan, cut off his ankle monitor, DOJ says",
   "title_en": "Thomas Markle, father of Meghan, cut off his ankle monitor, DOJ says",
   "summary_ar": [],
@@ -1989,14 +2012,15 @@
   "country": "SA",
   "pending": true,
   "desc": "Thomas Markle, father of Meghan, cut off his ankle monitor, DOJ says &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "5730df63cc8a5961",
   "origin": "rss",
   "source": "Chosunbiz",
   "author": "",
-  "title_ar": "Japan faces Brazil while South Korea prepares for Asian Cup against Saudi Arabia",
+  "title_ar": "تواجه اليابان البرازيل بينما تستعد كوريا الجنوبية لكأس آسيا أمام السعودية",
   "title_orig": "Japan faces Brazil while South Korea prepares for Asian Cup against Saudi Arabia",
   "title_en": "Japan faces Brazil while South Korea prepares for Asian Cup against Saudi Arabia",
   "summary_ar": [],
@@ -2009,14 +2033,15 @@
   "country": "",
   "pending": true,
   "desc": "Japan faces Brazil while South Korea prepares for Asian Cup against Saudi Arabia &nbsp;&nbsp; Chosunbiz",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "e204548cdd75ab4c",
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "UN peacekeepers say came under fire in southern Lebanon",
+  "title_ar": "وتقول قوات حفظ السلام التابعة للأمم المتحدة إنها تعرضت لإطلاق نار في جنوب لبنان",
   "title_orig": "UN peacekeepers say came under fire in southern Lebanon",
   "title_en": "UN peacekeepers say came under fire in southern Lebanon",
   "summary_ar": [],
@@ -2029,14 +2054,15 @@
   "country": "SA",
   "pending": true,
   "desc": "UN peacekeepers say came under fire in southern Lebanon &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "27564e0b06ea6c4e",
   "origin": "rss",
   "source": "Eurasia Review",
   "author": "",
-  "title_ar": "Sudan’s Burhan Leaves Saudi Arabia Alone On The Yemen Front – OpEd",
+  "title_ar": "البرهان السوداني يترك السعودية وحدها على الجبهة اليمنية – مقالة افتتاحية",
   "title_orig": "Sudan’s Burhan Leaves Saudi Arabia Alone On The Yemen Front – OpEd",
   "title_en": "Sudan’s Burhan Leaves Saudi Arabia Alone On The Yemen Front – OpEd",
   "summary_ar": [],
@@ -2049,14 +2075,15 @@
   "country": "",
   "pending": true,
   "desc": "Sudan’s Burhan Leaves Saudi Arabia Alone On The Yemen Front – OpEd &nbsp;&nbsp; Eurasia Review",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "7045be5f96d26b92",
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "What We Are Reading Today: ‘Blue’ by Michel Pastoureau",
+  "title_ar": "ما نقرأه اليوم: \"الأزرق\" لميشيل باستورو",
   "title_orig": "What We Are Reading Today: ‘Blue’ by Michel Pastoureau",
   "title_en": "What We Are Reading Today: ‘Blue’ by Michel Pastoureau",
   "summary_ar": [],
@@ -2069,14 +2096,15 @@
   "country": "SA",
   "pending": true,
   "desc": "What We Are Reading Today: ‘Blue’ by Michel Pastoureau &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "5253ebd023ab0026",
   "origin": "rss",
   "source": "Yardbarker",
   "author": "",
-  "title_ar": "Bronson Reed Still in Saudi Arabia After Injury",
+  "title_ar": "برونسون ريد لا يزال في السعودية بعد إصابته",
   "title_orig": "Bronson Reed Still in Saudi Arabia After Injury",
   "title_en": "Bronson Reed Still in Saudi Arabia After Injury",
   "summary_ar": [],
@@ -2089,14 +2117,15 @@
   "country": "",
   "pending": true,
   "desc": "Bronson Reed Still in Saudi Arabia After Injury &nbsp;&nbsp; Yardbarker",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "7d657fafd423933e",
   "origin": "rss",
   "source": "Goal.com",
   "author": "",
-  "title_ar": "With Saud Abdulhamid present: the Saudi national team loses the top scorer of Gulf Cup 27 again",
+  "title_ar": "بحضور سعود عبدالحميد: المنتخب السعودي يخسر هداف خليجي 27 من جديد",
   "title_orig": "With Saud Abdulhamid present: the Saudi national team loses the top scorer of Gulf Cup 27 again",
   "title_en": "With Saud Abdulhamid present: the Saudi national team loses the top scorer of Gulf Cup 27 again",
   "summary_ar": [],
@@ -2109,14 +2138,15 @@
   "country": "",
   "pending": true,
   "desc": "With Saud Abdulhamid present: the Saudi national team loses the top scorer of Gulf Cup 27 again &nbsp;&nbsp; Goal.com",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "c7bf5d4dbf3513b9",
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Cartoon by Amjad Rasmi. (Courtesy of Asharq Al-Awsat)",
+  "title_ar": "كاريكاتير لأمجد رسمي. (نقلا عن الشرق الأوسط)",
   "title_orig": "Cartoon by Amjad Rasmi. (Courtesy of Asharq Al-Awsat)",
   "title_en": "Cartoon by Amjad Rasmi. (Courtesy of Asharq Al-Awsat)",
   "summary_ar": [],
@@ -2129,7 +2159,8 @@
   "country": "SA",
   "pending": true,
   "desc": "Cartoon by Amjad Rasmi. (Courtesy of Asharq Al-Awsat) &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "a91281836628e9bb",
@@ -2157,7 +2188,7 @@
   "origin": "rss",
   "source": "The New York Times",
   "author": "",
-  "title_ar": "Aruni Soni - Page 5",
+  "title_ar": "أروني سوني - الصفحة 5",
   "title_orig": "Aruni Soni - Page 5",
   "title_en": "Aruni Soni - Page 5",
   "summary_ar": [],
@@ -2170,14 +2201,15 @@
   "country": "US",
   "pending": true,
   "desc": "Aruni Soni - Page 5 &nbsp;&nbsp; The New York Times",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "312edf7ac6a60d9b",
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Syrian Airlines resumes flights to Germany after 14-year break",
+  "title_ar": "الخطوط الجوية السورية تستأنف رحلاتها إلى ألمانيا بعد توقف دام 14 عاماً",
   "title_orig": "Syrian Airlines resumes flights to Germany after 14-year break",
   "title_en": "Syrian Airlines resumes flights to Germany after 14-year break",
   "summary_ar": [],
@@ -2190,14 +2222,15 @@
   "country": "SA",
   "pending": true,
   "desc": "Syrian Airlines resumes flights to Germany after 14-year break &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "76ac0066b83e6a56",
   "origin": "rss",
   "source": "Ministère de l'Europe et des Affaires étrangères",
   "author": "",
-  "title_ar": "Middle East – Working meeting with Qatar’s Prime Minister and Minister of Foreign Affairs and with the Foreign Ministers of Saudi Arabia, the United Kingdom, Germany and Italy | France Diplomatie",
+  "title_ar": "الشرق الأوسط – اجتماع عمل مع رئيس الوزراء ووزير الخارجية القطري ومع وزراء خارجية المملكة العربية السعودية والمملكة المتحدة وألمانيا وإيطاليا | دبلوماسية فرنسا",
   "title_orig": "Middle East – Working meeting with Qatar’s Prime Minister and Minister of Foreign Affairs and with the Foreign Ministers of Saudi Arabia, the United Kingdom, Germany and Italy | France Diplomatie",
   "title_en": "Middle East – Working meeting with Qatar’s Prime Minister and Minister of Foreign Affairs and with the Foreign Ministers of Saudi Arabia, the United Kingdom, Germany and Italy | France Diplomatie",
   "summary_ar": [],
@@ -2210,14 +2243,15 @@
   "country": "",
   "pending": true,
   "desc": "Middle East – Working meeting with Qatar’s Prime Minister and Minister of Foreign Affairs and with the Foreign Ministers of Saudi Arabia, the United Kingdom, Germany and Italy | France Diplomatie &nbsp;&nbsp; Ministère de l'Europe et des Affaires étrangères",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "7df0fcb5ffc9384c",
   "origin": "rss",
   "source": "Ministère de l'Europe et des Affaires étrangères",
   "author": "",
-  "title_ar": "G7 Foreign Ministers' Meeting - The Minister's meeting with his Highness Prince Faisal bin Farhan Al Saud, Minister of Foreign Affairs of the Kingdom of Saudi Arabia | France Diplomatie",
+  "title_ar": "اجتماع وزراء خارجية مجموعة السبع - لقاء الوزير مع صاحب السمو الأمير فيصل بن فرحان آل سعود وزير خارجية المملكة العربية السعودية | دبلوماسية فرنسا",
   "title_orig": "G7 Foreign Ministers' Meeting - The Minister's meeting with his Highness Prince Faisal bin Farhan Al Saud, Minister of Foreign Affairs of the Kingdom of Saudi Arabia | France Diplomatie",
   "title_en": "G7 Foreign Ministers' Meeting - The Minister's meeting with his Highness Prince Faisal bin Farhan Al Saud, Minister of Foreign Affairs of the Kingdom of Saudi Arabia | France Diplomatie",
   "summary_ar": [],
@@ -2230,14 +2264,15 @@
   "country": "",
   "pending": true,
   "desc": "G7 Foreign Ministers' Meeting - The Minister's meeting with his Highness Prince Faisal bin Farhan Al Saud, Minister of Foreign Affairs of the Kingdom of Saudi Arabia | France Diplomatie &nbsp;&nbsp; Ministère de l'Europe et des Affaires étrangères",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "e2f7c5b1af310527",
   "origin": "rss",
   "source": "Sports Illustrated",
   "author": "",
-  "title_ar": "Top WWE Star Hospitalized in Saudi Arabia After Crown Jewel Injury",
+  "title_ar": "أحد نجوم WWE يدخل المستشفى في المملكة العربية السعودية بعد إصابته في Crown Jewel",
   "title_orig": "Top WWE Star Hospitalized in Saudi Arabia After Crown Jewel Injury",
   "title_en": "Top WWE Star Hospitalized in Saudi Arabia After Crown Jewel Injury",
   "summary_ar": [],
@@ -2250,14 +2285,15 @@
   "country": "",
   "pending": true,
   "desc": "Top WWE Star Hospitalized in Saudi Arabia After Crown Jewel Injury &nbsp;&nbsp; Sports Illustrated",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "b32b84c24d4ef8a4",
   "origin": "rss",
   "source": "Bloomberg.com",
   "author": "",
-  "title_ar": "IHeart’s Debt Collapses, Shares Sink 67% After Big Earnings Miss",
+  "title_ar": "انهيار ديون شركة آي هارت، وهبوط الأسهم بنسبة 67% بعد خسارة أرباح كبيرة",
   "title_orig": "IHeart’s Debt Collapses, Shares Sink 67% After Big Earnings Miss",
   "title_en": "IHeart’s Debt Collapses, Shares Sink 67% After Big Earnings Miss",
   "summary_ar": [],
@@ -2270,14 +2306,15 @@
   "country": "US",
   "pending": true,
   "desc": "IHeart’s Debt Collapses, Shares Sink 67% After Big Earnings Miss &nbsp;&nbsp; Bloomberg.com",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "bc5bffd47e9fd500",
   "origin": "rss",
   "source": "Forbes Middle East",
   "author": "",
-  "title_ar": "COP31: Saudi Arabia, Türkiye Sign Electricity Cooperation Deal",
+  "title_ar": "COP31: المملكة العربية السعودية وتركيا توقعان اتفاقية تعاون في مجال الكهرباء",
   "title_orig": "COP31: Saudi Arabia, Türkiye Sign Electricity Cooperation Deal",
   "title_en": "COP31: Saudi Arabia, Türkiye Sign Electricity Cooperation Deal",
   "summary_ar": [],
@@ -2290,14 +2327,15 @@
   "country": "",
   "pending": true,
   "desc": "COP31: Saudi Arabia, Türkiye Sign Electricity Cooperation Deal &nbsp;&nbsp; Forbes Middle East",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "e2d331853a708cf4",
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Recovering Kompany returns to Bayern training center",
+  "title_ar": "عودة كومباني إلى مركز تدريب بايرن",
   "title_orig": "Recovering Kompany returns to Bayern training center",
   "title_en": "Recovering Kompany returns to Bayern training center",
   "summary_ar": [],
@@ -2310,14 +2348,15 @@
   "country": "SA",
   "pending": true,
   "desc": "Recovering Kompany returns to Bayern training center &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "c6ad79a63f293d78",
   "origin": "rss",
   "source": "Al-Monitor",
   "author": "",
-  "title_ar": "France supermarket hack marks new phase in Iran's shadow war",
+  "title_ar": "يمثل اختراق السوبر ماركت الفرنسي مرحلة جديدة في حرب الظل الإيرانية",
   "title_orig": "France supermarket hack marks new phase in Iran's shadow war",
   "title_en": "France supermarket hack marks new phase in Iran's shadow war",
   "summary_ar": [],
@@ -2330,14 +2369,15 @@
   "country": "US",
   "pending": true,
   "desc": "France supermarket hack marks new phase in Iran's shadow war &nbsp;&nbsp; Al-Monitor",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "a8af53ff8ed39e0a",
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "King Abdulaziz’s legacy in an age of global uncertainty",
+  "title_ar": "إرث الملك عبد العزيز في عصر عدم اليقين العالمي",
   "title_orig": "King Abdulaziz’s legacy in an age of global uncertainty",
   "title_en": "King Abdulaziz’s legacy in an age of global uncertainty",
   "summary_ar": [],
@@ -2350,14 +2390,15 @@
   "country": "",
   "pending": true,
   "desc": "King Abdulaziz’s legacy in an age of global uncertainty &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "8f01eadfc4b4aa63",
   "origin": "rss",
   "source": "Yahoo Sports",
   "author": "",
-  "title_ar": "Liverpool make decision on star’s future amid Saudi Arabia links",
+  "title_ar": "ليفربول يتخذ قرارًا بشأن مستقبل النجم وسط ارتباطات السعودية",
   "title_orig": "Liverpool make decision on star’s future amid Saudi Arabia links",
   "title_en": "Liverpool make decision on star’s future amid Saudi Arabia links",
   "summary_ar": [],
@@ -2370,14 +2411,15 @@
   "country": "",
   "pending": true,
   "desc": "Liverpool make decision on star’s future amid Saudi Arabia links &nbsp;&nbsp; Yahoo Sports",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "9db540fac503f6a4",
   "origin": "rss",
   "source": "WSJ",
   "author": "",
-  "title_ar": "Member of U.S. Army Arrested in U.K. Over Allegations of Spying for Russia",
+  "title_ar": "اعتقال عضو في الجيش الأمريكي في المملكة المتحدة بسبب مزاعم التجسس لصالح روسيا",
   "title_orig": "Member of U.S. Army Arrested in U.K. Over Allegations of Spying for Russia",
   "title_en": "Member of U.S. Army Arrested in U.K. Over Allegations of Spying for Russia",
   "summary_ar": [],
@@ -2390,14 +2432,15 @@
   "country": "US",
   "pending": true,
   "desc": "Member of U.S. Army Arrested in U.K. Over Allegations of Spying for Russia &nbsp;&nbsp; WSJ",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "05eff34d5aae90f3",
   "origin": "rss",
   "source": "Palestine Chronicle",
   "author": "",
-  "title_ar": "Yemen: Ansarallah Announces Strikes on Aramco, Riyadh Airport after Saudi Raids",
+  "title_ar": "اليمن: أنصار الله يعلن عن غارات على أرامكو ومطار الرياض بعد غارات سعودية",
   "title_orig": "Yemen: Ansarallah Announces Strikes on Aramco, Riyadh Airport after Saudi Raids",
   "title_en": "Yemen: Ansarallah Announces Strikes on Aramco, Riyadh Airport after Saudi Raids",
   "summary_ar": [],
@@ -2410,14 +2453,15 @@
   "country": "",
   "pending": true,
   "desc": "Yemen: Ansarallah Announces Strikes on Aramco, Riyadh Airport after Saudi Raids &nbsp;&nbsp; Palestine Chronicle",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "b7c9cbce8d95a421",
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Saudi Cabinet approves consumer protection system, customs exemptions for electric public transport vehicles",
+  "title_ar": "مجلس الوزراء السعودي يوافق على نظام حماية المستهلك والإعفاءات الجمركية لمركبات النقل العام الكهربائية",
   "title_orig": "Saudi Cabinet approves consumer protection system, customs exemptions for electric public transport vehicles",
   "title_en": "Saudi Cabinet approves consumer protection system, customs exemptions for electric public transport vehicles",
   "summary_ar": [],
@@ -2430,14 +2474,15 @@
   "country": "",
   "pending": true,
   "desc": "Saudi Cabinet approves consumer protection system, customs exemptions for electric public transport vehicles &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "1160ff2c7ee96e15",
   "origin": "rss",
   "source": "سانا",
   "author": "",
-  "title_ar": "Saudi crown prince, Bahrain’s king discuss regional security in Riyadh",
+  "title_ar": "ولي العهد السعودي وملك البحرين يناقشان الأمن الإقليمي في الرياض",
   "title_orig": "Saudi crown prince, Bahrain’s king discuss regional security in Riyadh",
   "title_en": "Saudi crown prince, Bahrain’s king discuss regional security in Riyadh",
   "summary_ar": [],
@@ -2450,14 +2495,15 @@
   "country": "",
   "pending": true,
   "desc": "Saudi crown prince, Bahrain’s king discuss regional security in Riyadh &nbsp;&nbsp; سانا",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "62558214e072c462",
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Paid recruits tied to banned group behind 3-day crude bomb attacks in Bangladesh, police say",
+  "title_ar": "تقول الشرطة إن المجندين الذين يتقاضون رواتبهم مرتبطون بجماعة محظورة تقف وراء هجمات بالقنابل الأولية استمرت ثلاثة أيام في بنجلاديش",
   "title_orig": "Paid recruits tied to banned group behind 3-day crude bomb attacks in Bangladesh, police say",
   "title_en": "Paid recruits tied to banned group behind 3-day crude bomb attacks in Bangladesh, police say",
   "summary_ar": [],
@@ -2470,14 +2516,15 @@
   "country": "SA",
   "pending": true,
   "desc": "Paid recruits tied to banned group behind 3-day crude bomb attacks in Bangladesh, police say &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "495ed3a3626e5e99",
   "origin": "rss",
   "source": "Seeking Alpha",
   "author": "",
-  "title_ar": "Syria considers Saudi pact troop deployment to guard border from Houthis - report (ITA:BATS)",
+  "title_ar": "سوريا تدرس نشر قوات سعودية لحراسة الحدود من الحوثيين – تقرير (ITA:BATS)",
   "title_orig": "Syria considers Saudi pact troop deployment to guard border from Houthis - report (ITA:BATS)",
   "title_en": "Syria considers Saudi pact troop deployment to guard border from Houthis - report (ITA:BATS)",
   "summary_ar": [],
@@ -2490,14 +2537,15 @@
   "country": "",
   "pending": true,
   "desc": "Syria considers Saudi pact troop deployment to guard border from Houthis - report (ITA:BATS) &nbsp;&nbsp; Seeking Alpha",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "ee29010bb50d8335",
   "origin": "rss",
   "source": "وكالة خبر للأنباء",
   "author": "",
-  "title_ar": "Yemen and Saudi Arabia Sign Hajj Arrangements Agreement for 1448 AH",
+  "title_ar": "اليمن والسعودية توقعان اتفاقية ترتيبات الحج لعام 1448هـ",
   "title_orig": "Yemen and Saudi Arabia Sign Hajj Arrangements Agreement for 1448 AH",
   "title_en": "Yemen and Saudi Arabia Sign Hajj Arrangements Agreement for 1448 AH",
   "summary_ar": [],
@@ -2510,14 +2558,15 @@
   "country": "",
   "pending": true,
   "desc": "Yemen and Saudi Arabia Sign Hajj Arrangements Agreement for 1448 AH &nbsp;&nbsp; وكالة خبر للأنباء",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "6e6ab8dc559592b6",
   "origin": "rss",
   "source": "WSJ",
   "author": "",
-  "title_ar": "Mercer International Files for Bankruptcy to Hand Control to Creditors",
+  "title_ar": "شركة Mercer International تعلن إفلاسها لتسليم السيطرة إلى الدائنين",
   "title_orig": "Mercer International Files for Bankruptcy to Hand Control to Creditors",
   "title_en": "Mercer International Files for Bankruptcy to Hand Control to Creditors",
   "summary_ar": [],
@@ -2530,7 +2579,8 @@
   "country": "US",
   "pending": true,
   "desc": "Mercer International Files for Bankruptcy to Hand Control to Creditors &nbsp;&nbsp; WSJ",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "d39b72790132f944",
@@ -2558,7 +2608,7 @@
   "origin": "rss",
   "source": "Reuters",
   "author": "",
-  "title_ar": "'Surprise' inflation rise could lead to steeper rate hike from Fed",
+  "title_ar": "قد يؤدي ارتفاع التضخم \"المفاجئ\" إلى رفع أسعار الفائدة بشكل حاد من بنك الاحتياطي الفيدرالي",
   "title_orig": "'Surprise' inflation rise could lead to steeper rate hike from Fed",
   "title_en": "'Surprise' inflation rise could lead to steeper rate hike from Fed",
   "summary_ar": [],
@@ -2571,14 +2621,15 @@
   "country": "GB",
   "pending": true,
   "desc": "'Surprise' inflation rise could lead to steeper rate hike from Fed &nbsp;&nbsp; Reuters",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "b2989448db20aa6b",
   "origin": "rss",
   "source": "Reuters",
   "author": "",
-  "title_ar": "Ghana discovers hydrocarbons in new type of offshore reservoir",
+  "title_ar": "غانا تكتشف الهيدروكربونات في نوع جديد من الخزانات البحرية",
   "title_orig": "Ghana discovers hydrocarbons in new type of offshore reservoir",
   "title_en": "Ghana discovers hydrocarbons in new type of offshore reservoir",
   "summary_ar": [],
@@ -2591,7 +2642,8 @@
   "country": "GB",
   "pending": true,
   "desc": "Ghana discovers hydrocarbons in new type of offshore reservoir &nbsp;&nbsp; Reuters",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "0892f79b0fbc262d",
@@ -2724,7 +2776,7 @@
   "origin": "rss",
   "source": "Reuters",
   "author": "",
-  "title_ar": "How one 27-year-old is climbing out of nearly $30,000 in debt",
+  "title_ar": "كيف يتخلص شاب يبلغ من العمر 27 عامًا من ديون تبلغ حوالي 30 ألف دولار",
   "title_orig": "How one 27-year-old is climbing out of nearly $30,000 in debt",
   "title_en": "How one 27-year-old is climbing out of nearly $30,000 in debt",
   "summary_ar": [],
@@ -2737,7 +2789,8 @@
   "country": "GB",
   "pending": true,
   "desc": "How one 27-year-old is climbing out of nearly $30,000 in debt &nbsp;&nbsp; Reuters",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "f967ce2fa0f2da2c",
@@ -2828,7 +2881,7 @@
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Rwandan genocide suspect deported by the US to face charges",
+  "title_ar": "ترحيل المشتبه به في جرائم الإبادة الجماعية في رواندا من قبل الولايات المتحدة لمواجهة الاتهامات",
   "title_orig": "Rwandan genocide suspect deported by the US to face charges",
   "title_en": "Rwandan genocide suspect deported by the US to face charges",
   "summary_ar": [],
@@ -2841,7 +2894,8 @@
   "country": "SA",
   "pending": true,
   "desc": "Rwandan genocide suspect deported by the US to face charges &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "7f5e201a39e24c77",
@@ -2932,7 +2986,7 @@
   "origin": "rss",
   "source": "Yahoo Finance",
   "author": "",
-  "title_ar": "Saudi Arabia Just Gave Lucid Another $1.75 Billion to Reach Its Cheaper SUV",
+  "title_ar": "المملكة العربية السعودية منحت شركة لوسِد للتو 1.75 مليار دولار أخرى للوصول إلى سيارات الدفع الرباعي الأرخص",
   "title_orig": "Saudi Arabia Just Gave Lucid Another $1.75 Billion to Reach Its Cheaper SUV",
   "title_en": "Saudi Arabia Just Gave Lucid Another $1.75 Billion to Reach Its Cheaper SUV",
   "summary_ar": [],
@@ -2945,7 +2999,8 @@
   "country": "",
   "pending": true,
   "desc": "Saudi Arabia Just Gave Lucid Another $1.75 Billion to Reach Its Cheaper SUV &nbsp;&nbsp; Yahoo Finance",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "277e4115c86be2ff",
@@ -2973,7 +3028,7 @@
   "origin": "rss",
   "source": "Bloomberg.com",
   "author": "",
-  "title_ar": "US Raises Forecasts for 2027 Gasoline and Diesel Prices",
+  "title_ar": "الولايات المتحدة ترفع توقعاتها لأسعار البنزين والديزل لعام 2027",
   "title_orig": "US Raises Forecasts for 2027 Gasoline and Diesel Prices",
   "title_en": "US Raises Forecasts for 2027 Gasoline and Diesel Prices",
   "summary_ar": [],
@@ -2986,7 +3041,8 @@
   "country": "US",
   "pending": true,
   "desc": "US Raises Forecasts for 2027 Gasoline and Diesel Prices &nbsp;&nbsp; Bloomberg.com",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "5db3add5c51d5a04",
@@ -3014,7 +3070,7 @@
   "origin": "rss",
   "source": "Financial Times",
   "author": "",
-  "title_ar": "c1 CME RANDOM LENGTH LUMBER FUTURES price information - FT.com",
+  "title_ar": "C1 CME RANDOM LENGTH LUMBER FUTURES معلومات الأسعار - FT.com",
   "title_orig": "c1 CME RANDOM LENGTH LUMBER FUTURES price information - FT.com",
   "title_en": "c1 CME RANDOM LENGTH LUMBER FUTURES price information - FT.com",
   "summary_ar": [],
@@ -3027,7 +3083,8 @@
   "country": "GB",
   "pending": true,
   "desc": "c1 CME RANDOM LENGTH LUMBER FUTURES price information - FT.com &nbsp;&nbsp; Financial Times",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "35fb9d3bb2655303",
@@ -3076,7 +3133,7 @@
   "origin": "rss",
   "source": "IGN",
   "author": "",
-  "title_ar": "GTA 6 'Preload Now' Trailer Includes Nearly 30 Seconds of New Footage — SWAT Team, Nightclub Dancing, and More",
+  "title_ar": "يتضمن العرض الترويجي للعبة GTA 6 \"التحميل المسبق الآن\" ما يقرب من 30 ثانية من اللقطات الجديدة - فريق SWAT، والرقص في ملهى ليلي، والمزيد",
   "title_orig": "GTA 6 'Preload Now' Trailer Includes Nearly 30 Seconds of New Footage — SWAT Team, Nightclub Dancing, and More",
   "title_en": "GTA 6 'Preload Now' Trailer Includes Nearly 30 Seconds of New Footage — SWAT Team, Nightclub Dancing, and More",
   "summary_ar": [],
@@ -3089,7 +3146,8 @@
   "country": "",
   "pending": true,
   "desc": "GTA 6 'Preload Now' Trailer Includes Nearly 30 Seconds of New Footage — SWAT Team, Nightclub Dancing, and More &nbsp;&nbsp; IGN",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "17f162cab3232f19",
@@ -3243,7 +3301,7 @@
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Six held over deadly Turkiye steel blast that killed 17",
+  "title_ar": "تم احتجاز ستة أشخاص بسبب انفجار فولاذي مميت في تركيا أدى إلى مقتل 17 شخصًا",
   "title_orig": "Six held over deadly Turkiye steel blast that killed 17",
   "title_en": "Six held over deadly Turkiye steel blast that killed 17",
   "summary_ar": [],
@@ -3256,7 +3314,8 @@
   "country": "SA",
   "pending": true,
   "desc": "Six held over deadly Turkiye steel blast that killed 17 &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "4055723d970d289e",
@@ -3326,7 +3385,7 @@
   "origin": "rss",
   "source": "Bloomberg.com",
   "author": "",
-  "title_ar": "Shihab Al-Moais, Arabian Drilling Co: Profile and Biography",
+  "title_ar": "شهاب المعيس، شركة الحفر العربية: الملف الشخصي والسيرة الذاتية",
   "title_orig": "Shihab Al-Moais, Arabian Drilling Co: Profile and Biography",
   "title_en": "Shihab Al-Moais, Arabian Drilling Co: Profile and Biography",
   "summary_ar": [],
@@ -3339,7 +3398,8 @@
   "country": "US",
   "pending": true,
   "desc": "Shihab Al-Moais, Arabian Drilling Co: Profile and Biography &nbsp;&nbsp; Bloomberg.com",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "d9a13bfae1624d90",
@@ -3409,7 +3469,7 @@
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Muslim Panto returns with a roaring new take on classic tale, The Lion Sheikh",
+  "title_ar": "يعود مسلم بانتو بنسخة جديدة ومذهلة من الحكاية الكلاسيكية، \"الأسد الشيخ\".",
   "title_orig": "Muslim Panto returns with a roaring new take on classic tale, The Lion Sheikh",
   "title_en": "Muslim Panto returns with a roaring new take on classic tale, The Lion Sheikh",
   "summary_ar": [],
@@ -3422,7 +3482,8 @@
   "country": "SA",
   "pending": true,
   "desc": "Muslim Panto returns with a roaring new take on classic tale, The Lion Sheikh &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "0e6ffab5bce574b8",
@@ -3492,7 +3553,7 @@
   "origin": "rss",
   "source": "AP News",
   "author": "",
-  "title_ar": "Photos of a new military training center for women in Iran",
+  "title_ar": "صور لمركز تدريب عسكري جديد للنساء في إيران",
   "title_orig": "Photos of a new military training center for women in Iran",
   "title_en": "Photos of a new military training center for women in Iran",
   "summary_ar": [],
@@ -3505,7 +3566,8 @@
   "country": "US",
   "pending": true,
   "desc": "Photos of a new military training center for women in Iran &nbsp;&nbsp; AP News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "fa87817ec7fe0e03",
@@ -3701,7 +3763,7 @@
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Awdah Hathaleen’s legacy lives on as brother visits UK to warn of Israeli settlers’ violence",
+  "title_ar": "إن إرث عودة هذالين لا يزال حياً بينما يزور شقيقه المملكة المتحدة للتحذير من عنف المستوطنين الإسرائيليين",
   "title_orig": "Awdah Hathaleen’s legacy lives on as brother visits UK to warn of Israeli settlers’ violence",
   "title_en": "Awdah Hathaleen’s legacy lives on as brother visits UK to warn of Israeli settlers’ violence",
   "summary_ar": [],
@@ -3714,7 +3776,8 @@
   "country": "SA",
   "pending": true,
   "desc": "Awdah Hathaleen’s legacy lives on as brother visits UK to warn of Israeli settlers’ violence &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "b00e0b48bf8bc99b",
@@ -4225,7 +4288,7 @@
   "origin": "rss",
   "source": "Bloomberg.com",
   "author": "",
-  "title_ar": "Tele Columbus Lenders Near €350 Million Financing in Debt Rework",
+  "title_ar": "مقرضي Tele Columbus يقتربون من 350 مليون يورو لتمويل إعادة صياغة الديون",
   "title_orig": "Tele Columbus Lenders Near €350 Million Financing in Debt Rework",
   "title_en": "Tele Columbus Lenders Near €350 Million Financing in Debt Rework",
   "summary_ar": [],
@@ -4238,7 +4301,8 @@
   "country": "US",
   "pending": true,
   "desc": "Tele Columbus Lenders Near €350 Million Financing in Debt Rework &nbsp;&nbsp; Bloomberg.com",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "16cc5c5814ea3249",
@@ -4476,7 +4540,7 @@
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "G7 agrees on need to avoid ‘security void’ in Lebanon after UN force mandate ends: Paris",
+  "title_ar": "مجموعة السبع تتفق على ضرورة تجنب \"الفراغ الأمني\" في لبنان بعد انتهاء تفويض قوة الأمم المتحدة: باريس",
   "title_orig": "G7 agrees on need to avoid ‘security void’ in Lebanon after UN force mandate ends: Paris",
   "title_en": "G7 agrees on need to avoid ‘security void’ in Lebanon after UN force mandate ends: Paris",
   "summary_ar": [],
@@ -4489,7 +4553,8 @@
   "country": "SA",
   "pending": true,
   "desc": "G7 agrees on need to avoid ‘security void’ in Lebanon after UN force mandate ends: Paris &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "95028d5362f26d04",
@@ -4517,7 +4582,7 @@
   "origin": "rss",
   "source": "Reuters",
   "author": "",
-  "title_ar": "US inflation ‘journey is far from over’ | Market Talk",
+  "title_ar": "رحلة التضخم في الولايات المتحدة لم تنته بعد | حديث السوق",
   "title_orig": "US inflation ‘journey is far from over’ | Market Talk",
   "title_en": "US inflation ‘journey is far from over’ | Market Talk",
   "summary_ar": [],
@@ -4530,7 +4595,8 @@
   "country": "GB",
   "pending": true,
   "desc": "US inflation ‘journey is far from over’ | Market Talk &nbsp;&nbsp; Reuters",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "c733d7cfd0337d14",
@@ -4642,7 +4708,7 @@
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Iran says three oil tankers on fire in Hormuz",
+  "title_ar": "إيران تقول إن ثلاث ناقلات نفط اشتعلت فيها النيران في هرمز",
   "title_orig": "Iran says three oil tankers on fire in Hormuz",
   "title_en": "Iran says three oil tankers on fire in Hormuz",
   "summary_ar": [],
@@ -4655,7 +4721,8 @@
   "country": "SA",
   "pending": true,
   "desc": "Iran says three oil tankers on fire in Hormuz &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "b2f83d173dfbad48",
@@ -4746,7 +4813,7 @@
   "origin": "rss",
   "source": "Saudi Gazette",
   "author": "",
-  "title_ar": "Saudi, Ukrainian foreign ministers discuss joint efforts for achieving peace",
+  "title_ar": "وزيرا خارجية السعودية وأوكرانيا يبحثان الجهود المشتركة لتحقيق السلام",
   "title_orig": "Saudi, Ukrainian foreign ministers discuss joint efforts for achieving peace",
   "title_en": "Saudi, Ukrainian foreign ministers discuss joint efforts for achieving peace",
   "summary_ar": [],
@@ -4759,7 +4826,8 @@
   "country": "SA",
   "pending": true,
   "desc": "Saudi, Ukrainian foreign ministers discuss joint efforts for achieving peace &nbsp;&nbsp; Saudi Gazette",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "0c6373c48e8c4a07",
@@ -4850,7 +4918,7 @@
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Sportswear brand On is ‘listening and learning’ in China after Mbappe’s misstep",
+  "title_ar": "العلامة التجارية للملابس الرياضية On \"تستمع وتتعلم\" في الصين بعد خطأ مبابي",
   "title_orig": "Sportswear brand On is ‘listening and learning’ in China after Mbappe’s misstep",
   "title_en": "Sportswear brand On is ‘listening and learning’ in China after Mbappe’s misstep",
   "summary_ar": [],
@@ -4863,7 +4931,8 @@
   "country": "SA",
   "pending": true,
   "desc": "Sportswear brand On is ‘listening and learning’ in China after Mbappe’s misstep &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "4c3857af61317808",
@@ -4975,7 +5044,7 @@
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Yemen army claims 874 attacks on Houthi targets, says 190 fighters killed or wounded",
+  "title_ar": "الجيش اليمني يعلن مسؤوليته عن 874 هجوماً على أهداف للحوثيين، ويقول إن 190 مقاتلاً قتلوا أو جرحوا",
   "title_orig": "Yemen army claims 874 attacks on Houthi targets, says 190 fighters killed or wounded",
   "title_en": "Yemen army claims 874 attacks on Houthi targets, says 190 fighters killed or wounded",
   "summary_ar": [],
@@ -4988,14 +5057,15 @@
   "country": "SA",
   "pending": true,
   "desc": "Yemen army claims 874 attacks on Houthi targets, says 190 fighters killed or wounded &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "671919a9644c0975",
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Dozens of foreigners’ deaths go undetected in Greece, Oxford University researchers say",
+  "title_ar": "يقول باحثون من جامعة أكسفورد إن عشرات الوفيات بين الأجانب لم يتم اكتشافها في اليونان",
   "title_orig": "Dozens of foreigners’ deaths go undetected in Greece, Oxford University researchers say",
   "title_en": "Dozens of foreigners’ deaths go undetected in Greece, Oxford University researchers say",
   "summary_ar": [],
@@ -5008,7 +5078,8 @@
   "country": "SA",
   "pending": true,
   "desc": "Dozens of foreigners’ deaths go undetected in Greece, Oxford University researchers say &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "baaf2e43cd311f84",
@@ -5225,7 +5296,7 @@
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Lewis Hamilton arrives in Egypt to visit Gaza humanitarian aid facilities",
+  "title_ar": "لويس هاميلتون يصل إلى مصر لزيارة مرافق المساعدات الإنسانية في غزة",
   "title_orig": "Lewis Hamilton arrives in Egypt to visit Gaza humanitarian aid facilities",
   "title_en": "Lewis Hamilton arrives in Egypt to visit Gaza humanitarian aid facilities",
   "summary_ar": [],
@@ -5238,7 +5309,8 @@
   "country": "SA",
   "pending": true,
   "desc": "Lewis Hamilton arrives in Egypt to visit Gaza humanitarian aid facilities &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "f7dc21e7be336460",
@@ -5539,7 +5611,7 @@
   "origin": "rss",
   "source": "Financial Times",
   "author": "",
-  "title_ar": "Banco Santander Chile, BSANTANDER:SGO summary - FT.com",
+  "title_ar": "بانكو سانتاندر تشيلي، BSANTANDER: ملخص SGO - FT.com",
   "title_orig": "Banco Santander Chile, BSANTANDER:SGO summary - FT.com",
   "title_en": "Banco Santander Chile, BSANTANDER:SGO summary - FT.com",
   "summary_ar": [],
@@ -5552,14 +5624,15 @@
   "country": "GB",
   "pending": true,
   "desc": "Banco Santander Chile, BSANTANDER:SGO summary - FT.com &nbsp;&nbsp; Financial Times",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "c049db4eb3546ebc",
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Italy sees planned F-35 fighter jet spending rise by €7.3 billion",
+  "title_ar": "وتشهد إيطاليا زيادة في الإنفاق على الطائرات المقاتلة من طراز F-35 بمقدار 7.3 مليار يورو",
   "title_orig": "Italy sees planned F-35 fighter jet spending rise by €7.3 billion",
   "title_en": "Italy sees planned F-35 fighter jet spending rise by €7.3 billion",
   "summary_ar": [],
@@ -5572,7 +5645,8 @@
   "country": "SA",
   "pending": true,
   "desc": "Italy sees planned F-35 fighter jet spending rise by €7.3 billion &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "58aff507511140b8",
@@ -5600,7 +5674,7 @@
   "origin": "rss",
   "source": "Saudi Gazette",
   "author": "",
-  "title_ar": "US evacuates aircraft from British military base over Iran threat",
+  "title_ar": "الولايات المتحدة تجلي طائرات من قاعدة عسكرية بريطانية بسبب التهديد الإيراني",
   "title_orig": "US evacuates aircraft from British military base over Iran threat",
   "title_en": "US evacuates aircraft from British military base over Iran threat",
   "summary_ar": [],
@@ -5613,14 +5687,15 @@
   "country": "SA",
   "pending": true,
   "desc": "US evacuates aircraft from British military base over Iran threat &nbsp;&nbsp; Saudi Gazette",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "303a07c132675935",
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Diary of Al Sharq",
+  "title_ar": "يوميات الشرق",
   "title_orig": "Diary of Al Sharq",
   "title_en": "Diary of Al Sharq",
   "summary_ar": [],
@@ -5633,7 +5708,8 @@
   "country": "SA",
   "pending": true,
   "desc": "Diary of Al Sharq &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "373c037f3b719d19",
@@ -5808,7 +5884,7 @@
   "origin": "rss",
   "source": "Reuters",
   "author": "",
-  "title_ar": "Investing in the AI hype cycle",
+  "title_ar": "الاستثمار في دورة الضجيج للذكاء الاصطناعي",
   "title_orig": "Investing in the AI hype cycle",
   "title_en": "Investing in the AI hype cycle",
   "summary_ar": [],
@@ -5821,7 +5897,8 @@
   "country": "GB",
   "pending": true,
   "desc": "Investing in the AI hype cycle &nbsp;&nbsp; Reuters",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "d5d9e223a9af5bed",
@@ -5849,7 +5926,7 @@
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Recent Ukrainian attacks have reduced Russia’s oil processing capacity by 30 percent, sources say",
+  "title_ar": "وتقول المصادر إن الهجمات الأوكرانية الأخيرة أدت إلى خفض قدرة معالجة النفط في روسيا بنسبة 30 بالمائة",
   "title_orig": "Recent Ukrainian attacks have reduced Russia’s oil processing capacity by 30 percent, sources say",
   "title_en": "Recent Ukrainian attacks have reduced Russia’s oil processing capacity by 30 percent, sources say",
   "summary_ar": [],
@@ -5862,7 +5939,8 @@
   "country": "SA",
   "pending": true,
   "desc": "Recent Ukrainian attacks have reduced Russia’s oil processing capacity by 30 percent, sources say &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "1d2dac728d3e8ff5",
@@ -5995,7 +6073,7 @@
   "origin": "rss",
   "source": "Reuters",
   "author": "",
-  "title_ar": "Breakingviews - COMMENTARY: Oil's peace trade risks a rude awakening",
+  "title_ar": "وجهات نظر عاجلة - تعليق: تجارة النفط السلمية تخاطر بصحوة قاسية",
   "title_orig": "Breakingviews - COMMENTARY: Oil's peace trade risks a rude awakening",
   "title_en": "Breakingviews - COMMENTARY: Oil's peace trade risks a rude awakening",
   "summary_ar": [],
@@ -6008,7 +6086,8 @@
   "country": "GB",
   "pending": true,
   "desc": "Breakingviews - COMMENTARY: Oil's peace trade risks a rude awakening &nbsp;&nbsp; Reuters",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "e9fc90bbbc11f309",
@@ -6414,7 +6493,7 @@
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Put the ocean at the center of COP31",
+  "title_ar": "ضع المحيط في مركز مؤتمر الأطراف 31",
   "title_orig": "Put the ocean at the center of COP31",
   "title_en": "Put the ocean at the center of COP31",
   "summary_ar": [],
@@ -6427,7 +6506,8 @@
   "country": "SA",
   "pending": true,
   "desc": "Put the ocean at the center of COP31 &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "d4e4e067a87d6358",
@@ -6686,7 +6766,7 @@
   "origin": "rss",
   "source": "Bloomberg.com",
   "author": "",
-  "title_ar": "Abdullah Alsaadi, Taker Inc: Profile and Biography",
+  "title_ar": "عبد الله السعدي، شركة Taker: الملف الشخصي والسيرة الذاتية",
   "title_orig": "Abdullah Alsaadi, Taker Inc: Profile and Biography",
   "title_en": "Abdullah Alsaadi, Taker Inc: Profile and Biography",
   "summary_ar": [],
@@ -6699,7 +6779,8 @@
   "country": "US",
   "pending": true,
   "desc": "Abdullah Alsaadi, Taker Inc: Profile and Biography &nbsp;&nbsp; Bloomberg.com",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "0f1cb90112c4730a",
@@ -6916,7 +6997,7 @@
   "origin": "rss",
   "source": "Saudi Gazette",
   "author": "",
-  "title_ar": "Police officer dies, another injured after backpack explosion in Spanish city",
+  "title_ar": "مقتل ضابط شرطة وإصابة آخر بعد انفجار حقيبة ظهر في مدينة إسبانية",
   "title_orig": "Police officer dies, another injured after backpack explosion in Spanish city",
   "title_en": "Police officer dies, another injured after backpack explosion in Spanish city",
   "summary_ar": [],
@@ -6929,7 +7010,8 @@
   "country": "SA",
   "pending": true,
   "desc": "Police officer dies, another injured after backpack explosion in Spanish city &nbsp;&nbsp; Saudi Gazette",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "601a16da3ea469ba",
@@ -7272,7 +7354,7 @@
   "origin": "rss",
   "source": "WSJ",
   "author": "",
-  "title_ar": "Risk and Compliance Journal",
+  "title_ar": "مجلة المخاطر والامتثال",
   "title_orig": "Risk and Compliance Journal",
   "title_en": "Risk and Compliance Journal",
   "summary_ar": [],
@@ -7285,7 +7367,8 @@
   "country": "US",
   "pending": true,
   "desc": "Risk and Compliance Journal &nbsp;&nbsp; WSJ",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "4c8d72a4d1b45f51",
@@ -7376,7 +7459,7 @@
   "origin": "rss",
   "source": "The New York Times",
   "author": "",
-  "title_ar": "Inflation Continues to Challenge U.S. Economy",
+  "title_ar": "لا يزال التضخم يشكل تحديًا للاقتصاد الأمريكي",
   "title_orig": "Inflation Continues to Challenge U.S. Economy",
   "title_en": "Inflation Continues to Challenge U.S. Economy",
   "summary_ar": [],
@@ -7389,7 +7472,8 @@
   "country": "US",
   "pending": true,
   "desc": "Inflation Continues to Challenge U.S. Economy &nbsp;&nbsp; The New York Times",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "e9b6925f7e5fa2a4",
@@ -7459,7 +7543,7 @@
   "origin": "rss",
   "source": "Reuters",
   "author": "",
-  "title_ar": "Prince Harry and Meghan push child online safety at EU Parliament",
+  "title_ar": "الأمير هاري وميغان يدافعان عن سلامة الأطفال عبر الإنترنت في برلمان الاتحاد الأوروبي",
   "title_orig": "Prince Harry and Meghan push child online safety at EU Parliament",
   "title_en": "Prince Harry and Meghan push child online safety at EU Parliament",
   "summary_ar": [],
@@ -7472,7 +7556,8 @@
   "country": "GB",
   "pending": true,
   "desc": "Prince Harry and Meghan push child online safety at EU Parliament &nbsp;&nbsp; Reuters",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "8f69687062a600ec",
@@ -7626,7 +7711,7 @@
   "origin": "rss",
   "source": "The Arab Weekly",
   "author": "",
-  "title_ar": "Houthi escalation brings fresh missile threat to Saudi Arabia",
+  "title_ar": "التصعيد الحوثي يجلب تهديدًا صاروخيًا جديدًا للمملكة العربية السعودية",
   "title_orig": "Houthi escalation brings fresh missile threat to Saudi Arabia",
   "title_en": "Houthi escalation brings fresh missile threat to Saudi Arabia",
   "summary_ar": [],
@@ -7639,7 +7724,8 @@
   "country": "",
   "pending": true,
   "desc": "Houthi escalation brings fresh missile threat to Saudi Arabia &nbsp;&nbsp; The Arab Weekly",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "46cc656f40c1ebdd",
@@ -8276,7 +8362,7 @@
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Eisenkot quickly targets Netanyahu’s legacy in new Israeli parliament",
+  "title_ar": "يستهدف آيزنكوت بسرعة إرث نتنياهو في البرلمان الإسرائيلي الجديد",
   "title_orig": "Eisenkot quickly targets Netanyahu’s legacy in new Israeli parliament",
   "title_en": "Eisenkot quickly targets Netanyahu’s legacy in new Israeli parliament",
   "summary_ar": [],
@@ -8289,7 +8375,8 @@
   "country": "SA",
   "pending": true,
   "desc": "Eisenkot quickly targets Netanyahu’s legacy in new Israeli parliament &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "da5ee8ab2cd35557",
@@ -8611,7 +8698,7 @@
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Erdogan hails new oil find ahead of COP31 speech",
+  "title_ar": "أردوغان يشيد بالاكتشاف النفطي الجديد قبل خطاب COP31",
   "title_orig": "Erdogan hails new oil find ahead of COP31 speech",
   "title_en": "Erdogan hails new oil find ahead of COP31 speech",
   "summary_ar": [],
@@ -8624,7 +8711,8 @@
   "country": "SA",
   "pending": true,
   "desc": "Erdogan hails new oil find ahead of COP31 speech &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "7981b9d72a2d5b09",
@@ -8652,7 +8740,7 @@
   "origin": "rss",
   "source": "Arab News",
   "author": "",
-  "title_ar": "Chimaev to face former champion Weidman at crossover title in Abu Dhabi",
+  "title_ar": "تشيمايف سيواجه البطل السابق ويدمان في لقب الكروس أوفر في أبو ظبي",
   "title_orig": "Chimaev to face former champion Weidman at crossover title in Abu Dhabi",
   "title_en": "Chimaev to face former champion Weidman at crossover title in Abu Dhabi",
   "summary_ar": [],
@@ -8665,7 +8753,8 @@
   "country": "SA",
   "pending": true,
   "desc": "Chimaev to face former champion Weidman at crossover title in Abu Dhabi &nbsp;&nbsp; Arab News",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "4b3fa4a7c4cf13f4",
@@ -9575,7 +9664,7 @@
   "origin": "rss",
   "source": "Saudi Gazette",
   "author": "",
-  "title_ar": "Climate crisis now a health emergency of pandemic scale, UN climate chief says",
+  "title_ar": "يقول مسؤول المناخ التابع للأمم المتحدة إن أزمة المناخ أصبحت الآن حالة طوارئ صحية بحجم وبائي",
   "title_orig": "Climate crisis now a health emergency of pandemic scale, UN climate chief says",
   "title_en": "Climate crisis now a health emergency of pandemic scale, UN climate chief says",
   "summary_ar": [],
@@ -9588,7 +9677,8 @@
   "country": "SA",
   "pending": true,
   "desc": "Climate crisis now a health emergency of pandemic scale, UN climate chief says &nbsp;&nbsp; Saudi Gazette",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "c28b28b01e78cbf0",
@@ -9616,7 +9706,7 @@
   "origin": "rss",
   "source": "Saudi Gazette",
   "author": "",
-  "title_ar": "Air defenses intercept Houthi cruise and ballistic missiles targeting Riyadh",
+  "title_ar": "الدفاعات الجوية تعترض صواريخ كروز وباليستية حوثية تستهدف الرياض",
   "title_orig": "Air defenses intercept Houthi cruise and ballistic missiles targeting Riyadh",
   "title_en": "Air defenses intercept Houthi cruise and ballistic missiles targeting Riyadh",
   "summary_ar": [],
@@ -9629,14 +9719,15 @@
   "country": "SA",
   "pending": true,
   "desc": "Air defenses intercept Houthi cruise and ballistic missiles targeting Riyadh &nbsp;&nbsp; Saudi Gazette",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "2f11dcf79ce27d0a",
   "origin": "rss",
   "source": "Financial Times",
   "author": "",
-  "title_ar": "UK Defence Secretary Wes Streeting on the challenges and threats Britain faces | FT Interview",
+  "title_ar": "وزير الدفاع البريطاني ويس ستريتنج يتحدث عن التحديات والتهديدات التي تواجهها بريطانيا | مقابلة مع FT",
   "title_orig": "UK Defence Secretary Wes Streeting on the challenges and threats Britain faces | FT Interview",
   "title_en": "UK Defence Secretary Wes Streeting on the challenges and threats Britain faces | FT Interview",
   "summary_ar": [],
@@ -9649,7 +9740,8 @@
   "country": "GB",
   "pending": true,
   "desc": "UK Defence Secretary Wes Streeting on the challenges and threats Britain faces | FT Interview &nbsp;&nbsp; Financial Times",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "5d26f7af2f929628",
@@ -9677,7 +9769,7 @@
   "origin": "rss",
   "source": "BBC",
   "author": "",
-  "title_ar": "India | Latest News & Updates",
+  "title_ar": "الهند | آخر الأخبار والمستجدات",
   "title_orig": "India | Latest News & Updates",
   "title_en": "India | Latest News & Updates",
   "summary_ar": [],
@@ -9690,7 +9782,8 @@
   "country": "GB",
   "pending": true,
   "desc": "India | Latest News & Updates &nbsp;&nbsp; BBC",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "358fc49573593576",
@@ -10180,7 +10273,7 @@
   "origin": "rss",
   "source": "Reuters",
   "author": "",
-  "title_ar": "Half of Republicans want Congress to end Trump’s Iran war, poll finds",
+  "title_ar": "أظهر الاستطلاع أن نصف الجمهوريين يريدون من الكونجرس إنهاء حرب ترامب على إيران",
   "title_orig": "Half of Republicans want Congress to end Trump’s Iran war, poll finds",
   "title_en": "Half of Republicans want Congress to end Trump’s Iran war, poll finds",
   "summary_ar": [],
@@ -10193,7 +10286,8 @@
   "country": "GB",
   "pending": true,
   "desc": "Half of Republicans want Congress to end Trump’s Iran war, poll finds &nbsp;&nbsp; Reuters",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "08b1013f8d89e6e0",
@@ -10305,7 +10399,7 @@
   "origin": "rss",
   "source": "WSJ",
   "author": "",
-  "title_ar": "Healthcare Stocks Fall as Market Rout Spreads",
+  "title_ar": "انخفاض أسهم الرعاية الصحية مع انتشار هزيمة السوق",
   "title_orig": "Healthcare Stocks Fall as Market Rout Spreads",
   "title_en": "Healthcare Stocks Fall as Market Rout Spreads",
   "summary_ar": [],
@@ -10318,7 +10412,8 @@
   "country": "US",
   "pending": true,
   "desc": "Healthcare Stocks Fall as Market Rout Spreads &nbsp;&nbsp; WSJ",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "b08e7ec0cc93d43a",
@@ -10401,27 +10496,6 @@
   "country": "US",
   "pending": true,
   "desc": "Rashid Bin Suleiman Bin Rashid Al Rashid, Naseej International Trading Co: Profile and Biography &nbsp;&nbsp; Bloomberg.com",
-  "lang": "en",
-  "mt": true
- },
- {
-  "id": "2b649ed74cb081ba",
-  "origin": "rss",
-  "source": "Reuters",
-  "author": "",
-  "title_ar": "“جندي القدم”: تمثال العاصمة يسخر من تأجيل مشروع ترامب",
-  "title_orig": "'The Foot Soldier': DC statue mocks Trump's draft deferment",
-  "title_en": "'The Foot Soldier': DC statue mocks Trump's draft deferment",
-  "summary_ar": [],
-  "summary_en": [],
-  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvYWlRX3BhZVM4NnlXRnUtYTd5cFlDMU5TSmJOTVltMDZSa2ZwOHFTMk93Y2E1THE3RlBpR3BNenYyWG96dWZzd3hreklMLW5icWt6LWJEbXhLWmwxWW8tTnZEWmdRbVE?oc=5",
-  "published": "2026-11-10T03:46:18.000Z",
-  "subject": "saudi",
-  "tone": "neutral",
-  "topic": "",
-  "country": "GB",
-  "pending": true,
-  "desc": "'The Foot Soldier': DC statue mocks Trump's draft deferment &nbsp;&nbsp; Reuters",
   "lang": "en",
   "mt": true
  }
