@@ -4868,6 +4868,27 @@
    "mt": true
   },
   {
+   "id": "abf09a52162e65db",
+   "origin": "rss",
+   "source": "AP News",
+   "author": "",
+   "title_ar": "الجولف | آخر الأخبار والإحصائيات والمزيد",
+   "title_orig": "Golf | Latest News, Stats, and More",
+   "title_en": "Golf | Latest News, Stats, and More",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9RUlJ6amlDc3NsdWNwM2ZpeU1OQnBiMWxWbGhWMUVHWmZSY0taVTZsRnNyWC00ZTQxd3RjcS15SzQ?oc=5",
+   "published": "2026-11-10T17:35:04.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "Golf | Latest News, Stats, and More &nbsp;&nbsp; AP News",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "1fc3e8d0e87f35d4",
    "origin": "rss",
    "source": "Reuters",
