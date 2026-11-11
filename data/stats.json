@@ -8041,15 +8041,15 @@
    }
   },
   "2026-11-09": {
-   "total": 790,
-   "news": 784,
+   "total": 791,
+   "news": 785,
    "articles": 6,
    "positive": 0,
-   "neutral": 790,
+   "neutral": 791,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 251,
+    "GB": 252,
     "US": 261,
     "FR": 28,
     "SA": 72,
@@ -8083,7 +8083,7 @@
     "Bloomberg.com": 44,
     "UA.NEWS": 3,
     "BBC": 10,
-    "The Guardian": 34,
+    "The Guardian": 35,
     "Foreign Affairs": 1,
     "Le Monde.fr": 6,
     "The Week": 1,
@@ -8320,7 +8320,7 @@
     ],
     "The Guardian": [
      0,
-     34,
+     35,
      0
     ],
     "Foreign Affairs": [
@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 678,
-   "news": 666,
+   "total": 680,
+   "news": 668,
    "articles": 12,
    "positive": 0,
-   "neutral": 678,
+   "neutral": 680,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 200,
-    "GB": 182,
+    "GB": 184,
     "HK": 1,
     "SA": 96,
     "FR": 4,
@@ -8980,7 +8980,7 @@
     "Forbes Middle East": 2,
     "TV7 Israel News": 1,
     "News of Bahrain": 1,
-    "The Guardian": 77,
+    "The Guardian": 79,
     "Foreign Policy": 2,
     "صحيفة سبق الإلكترونية": 1,
     "thetruthaboutcars.com": 1,
@@ -9425,7 +9425,7 @@
     ],
     "The Guardian": [
      0,
-     77,
+     79,
      0
     ],
     "Foreign Policy": [
@@ -9706,16 +9706,16 @@
    }
   },
   "2026-11-11": {
-   "total": 189,
-   "news": 189,
+   "total": 194,
+   "news": 194,
    "articles": 0,
    "positive": 0,
-   "neutral": 189,
+   "neutral": 194,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 51,
-    "SA": 15,
+    "SA": 20,
     "GB": 50,
     "JP": 1,
     "HK": 1,
@@ -9725,7 +9725,7 @@
    "sources": {
     "WSJ": 9,
     "The New York Times": 7,
-    "Arab News": 14,
+    "Arab News": 19,
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
     "Al-Monitor": 8,
@@ -9806,7 +9806,7 @@
     ],
     "Arab News": [
      0,
-     14,
+     19,
      0
     ],
     "www.thenewworld.co.uk": [
