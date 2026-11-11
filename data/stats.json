@@ -8041,15 +8041,15 @@
    }
   },
   "2026-11-09": {
-   "total": 798,
-   "news": 792,
+   "total": 799,
+   "news": 793,
    "articles": 6,
    "positive": 0,
-   "neutral": 798,
+   "neutral": 799,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 259,
+    "GB": 260,
     "US": 261,
     "FR": 28,
     "SA": 72,
@@ -8083,7 +8083,7 @@
     "Bloomberg.com": 44,
     "UA.NEWS": 3,
     "BBC": 10,
-    "The Guardian": 41,
+    "The Guardian": 42,
     "Foreign Affairs": 1,
     "Le Monde.fr": 6,
     "The Week": 1,
@@ -8320,7 +8320,7 @@
     ],
     "The Guardian": [
      0,
-     41,
+     42,
      0
     ],
     "Foreign Affairs": [
@@ -9706,17 +9706,17 @@
    }
   },
   "2026-11-11": {
-   "total": 203,
-   "news": 203,
+   "total": 207,
+   "news": 207,
    "articles": 0,
    "positive": 0,
-   "neutral": 203,
+   "neutral": 207,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "US": 55,
+    "US": 56,
     "SA": 20,
-    "GB": 54,
+    "GB": 55,
     "JP": 1,
     "HK": 1,
     "FR": 1
@@ -9732,7 +9732,7 @@
     "The Washington Post": 13,
     "AP News": 4,
     "Reuters": 9,
-    "The Guardian": 36,
+    "The Guardian": 37,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 1,
@@ -9773,7 +9773,7 @@
     "Renewables Now": 1,
     "صحيفة مال": 2,
     "LiveScore": 1,
-    "Egypt Oil & Gas": 1,
+    "Egypt Oil & Gas": 2,
     "Archiproducts": 1,
     "Arabian Gulf Business Insight | AGBI": 2,
     "Middle East Eye": 1,
@@ -9792,7 +9792,9 @@
     "FTL Somalia": 1,
     "CairoScene": 1,
     "The Economist": 1,
-    "Middle East Online": 1
+    "Middle East Online": 1,
+    "CNN": 1,
+    "DW.com": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -9842,7 +9844,7 @@
     ],
     "The Guardian": [
      0,
-     36,
+     37,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -10047,7 +10049,7 @@
     ],
     "Egypt Oil & Gas": [
      0,
-     1,
+     2,
      0
     ],
     "Archiproducts": [
@@ -10141,6 +10143,16 @@
      0
     ],
     "Middle East Online": [
+     0,
+     1,
+     0
+    ],
+    "CNN": [
+     0,
+     1,
+     0
+    ],
+    "DW.com": [
      0,
      1,
      0
