@@ -8886,18 +8886,18 @@
    }
   },
   "2026-11-10": {
-   "total": 570,
-   "news": 558,
+   "total": 573,
+   "news": 561,
    "articles": 12,
    "positive": 0,
-   "neutral": 570,
+   "neutral": 573,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 190,
     "GB": 95,
     "HK": 1,
-    "SA": 86,
+    "SA": 89,
     "FR": 4,
     "DE": 4
    },
@@ -8912,7 +8912,7 @@
     "Bloomberg.com": 48,
     "AP News": 17,
     "The New York Times": 23,
-    "Arab News": 83,
+    "Arab News": 86,
     "UA.NEWS": 2,
     "Investing.com": 2,
     "The National": 3,
@@ -9084,7 +9084,7 @@
     ],
     "Arab News": [
      0,
-     83,
+     86,
      0
     ],
     "UA.NEWS": [
