@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 762,
-   "news": 750,
+   "total": 764,
+   "news": 752,
    "articles": 12,
    "positive": 0,
-   "neutral": 762,
+   "neutral": 764,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 205,
-    "GB": 258,
+    "GB": 260,
     "HK": 1,
     "SA": 97,
     "FR": 6,
@@ -8929,7 +8929,7 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 2,
-    "Reuters": 114,
+    "Reuters": 115,
     "Gulf News": 4,
     "CGTN": 1,
     "Al Jazeera": 2,
@@ -8980,7 +8980,7 @@
     "Forbes Middle East": 2,
     "TV7 Israel News": 1,
     "News of Bahrain": 1,
-    "The Guardian": 114,
+    "The Guardian": 115,
     "Foreign Policy": 2,
     "صحيفة سبق الإلكترونية": 1,
     "thetruthaboutcars.com": 1,
@@ -9171,7 +9171,7 @@
     ],
     "Reuters": [
      0,
-     114,
+     115,
      0
     ],
     "Gulf News": [
@@ -9426,7 +9426,7 @@
     ],
     "The Guardian": [
      0,
-     114,
+     115,
      0
     ],
     "Foreign Policy": [
@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 448,
-   "news": 445,
+   "total": 449,
+   "news": 446,
    "articles": 3,
    "positive": 0,
-   "neutral": 448,
+   "neutral": 449,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "US": 114,
     "SA": 46,
-    "GB": 137,
+    "GB": 138,
     "JP": 1,
     "HK": 4,
     "FR": 2
@@ -9737,7 +9737,7 @@
     "Al-Monitor": 29,
     "The Washington Post": 13,
     "AP News": 9,
-    "Reuters": 42,
+    "Reuters": 43,
     "The Guardian": 72,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
@@ -9889,7 +9889,7 @@
     ],
     "Reuters": [
      0,
-     42,
+     43,
      0
     ],
     "The Guardian": [
