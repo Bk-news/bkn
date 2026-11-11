@@ -8041,16 +8041,16 @@
    }
   },
   "2026-11-09": {
-   "total": 751,
-   "news": 745,
+   "total": 752,
+   "news": 746,
    "articles": 6,
    "positive": 0,
-   "neutral": 751,
+   "neutral": 752,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "GB": 219,
-    "US": 254,
+    "US": 255,
     "FR": 28,
     "SA": 72,
     "HK": 3,
@@ -8080,7 +8080,7 @@
     "Nine.com.au": 1,
     "Reuters": 128,
     "NDTV Sports": 1,
-    "Bloomberg.com": 42,
+    "Bloomberg.com": 43,
     "UA.NEWS": 3,
     "BBC": 10,
     "The Guardian": 7,
@@ -8305,7 +8305,7 @@
     ],
     "Bloomberg.com": [
      0,
-     42,
+     43,
      0
     ],
     "UA.NEWS": [
@@ -8886,18 +8886,18 @@
    }
   },
   "2026-11-10": {
-   "total": 556,
-   "news": 544,
+   "total": 567,
+   "news": 555,
    "articles": 12,
    "positive": 0,
-   "neutral": 556,
+   "neutral": 567,
    "critical": 0,
-   "mbs": 21,
+   "mbs": 22,
    "countries": {
-    "US": 185,
-    "GB": 90,
+    "US": 190,
+    "GB": 92,
     "HK": 1,
-    "SA": 84,
+    "SA": 86,
     "FR": 4,
     "DE": 4
    },
@@ -8907,12 +8907,12 @@
     "The Washington Post": 8,
     "BBC": 11,
     "Al-Monitor": 46,
-    "WSJ": 37,
+    "WSJ": 38,
     "South China Morning Post": 1,
     "Bloomberg.com": 48,
-    "AP News": 15,
+    "AP News": 17,
     "The New York Times": 23,
-    "Arab News": 82,
+    "Arab News": 83,
     "UA.NEWS": 2,
     "Investing.com": 2,
     "The National": 3,
@@ -8929,15 +8929,15 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 2,
-    "Reuters": 60,
+    "Reuters": 62,
     "Gulf News": 4,
     "CGTN": 1,
     "Al Jazeera": 2,
     "TRT World": 1,
     "Asset Servicing Times": 1,
-    "Saudi Gazette": 14,
+    "Saudi Gazette": 16,
     "Financial Times": 16,
-    "CNN": 2,
+    "CNN": 4,
     "France 24": 4,
     "Fana News -": 1,
     "Spiegel": 4,
@@ -9033,7 +9033,8 @@
     "IGN": 1,
     "NewsCord": 1,
     "Eurasia Review": 1,
-    "Seeking Alpha": 1
+    "Seeking Alpha": 1,
+    "tovima.com": 1
    },
    "sourceTone": {
     "Amwaj.media": [
@@ -9058,7 +9059,7 @@
     ],
     "WSJ": [
      0,
-     37,
+     38,
      0
     ],
     "South China Morning Post": [
@@ -9073,7 +9074,7 @@
     ],
     "AP News": [
      0,
-     15,
+     17,
      0
     ],
     "The New York Times": [
@@ -9083,7 +9084,7 @@
     ],
     "Arab News": [
      0,
-     82,
+     83,
      0
     ],
     "UA.NEWS": [
@@ -9168,7 +9169,7 @@
     ],
     "Reuters": [
      0,
-     60,
+     62,
      0
     ],
     "Gulf News": [
@@ -9198,7 +9199,7 @@
     ],
     "Saudi Gazette": [
      0,
-     14,
+     16,
      0
     ],
     "Financial Times": [
@@ -9208,7 +9209,7 @@
     ],
     "CNN": [
      0,
-     2,
+     4,
      0
     ],
     "France 24": [
@@ -9690,32 +9691,50 @@
      0,
      1,
      0
+    ],
+    "tovima.com": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-11": {
-   "total": 6,
-   "news": 6,
+   "total": 22,
+   "news": 22,
    "articles": 0,
    "positive": 0,
-   "neutral": 6,
+   "neutral": 22,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "US": 3,
-    "SA": 2
+    "US": 10,
+    "SA": 2,
+    "GB": 2
    },
    "topics": {},
    "sources": {
-    "WSJ": 1,
+    "WSJ": 3,
     "The New York Times": 2,
     "Arab News": 2,
-    "www.thenewworld.co.uk": 1
+    "www.thenewworld.co.uk": 1,
+    "Yieh Corp.": 1,
+    "Al-Monitor": 3,
+    "The Washington Post": 1,
+    "AP News": 1,
+    "Reuters": 1,
+    "The Guardian": 1,
+    "Tavern of the Taeguk Warriors": 1,
+    "ANHA": 1,
+    "Yahoo Sports": 1,
+    "Bioengineer.org": 1,
+    "Billionaires.Africa": 1,
+    "Bleeding Cool News": 1
    },
    "sourceTone": {
     "WSJ": [
      0,
-     1,
+     3,
      0
     ],
     "The New York Times": [
@@ -9729,6 +9748,66 @@
      0
     ],
     "www.thenewworld.co.uk": [
+     0,
+     1,
+     0
+    ],
+    "Yieh Corp.": [
+     0,
+     1,
+     0
+    ],
+    "Al-Monitor": [
+     0,
+     3,
+     0
+    ],
+    "The Washington Post": [
+     0,
+     1,
+     0
+    ],
+    "AP News": [
+     0,
+     1,
+     0
+    ],
+    "Reuters": [
+     0,
+     1,
+     0
+    ],
+    "The Guardian": [
+     0,
+     1,
+     0
+    ],
+    "Tavern of the Taeguk Warriors": [
+     0,
+     1,
+     0
+    ],
+    "ANHA": [
+     0,
+     1,
+     0
+    ],
+    "Yahoo Sports": [
+     0,
+     1,
+     0
+    ],
+    "Bioengineer.org": [
+     0,
+     1,
+     0
+    ],
+    "Billionaires.Africa": [
+     0,
+     1,
+     0
+    ],
+    "Bleeding Cool News": [
      0,
      1,
      0
