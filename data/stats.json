@@ -8886,15 +8886,15 @@
    }
   },
   "2026-11-10": {
-   "total": 702,
-   "news": 690,
+   "total": 705,
+   "news": 693,
    "articles": 12,
    "positive": 0,
-   "neutral": 702,
+   "neutral": 705,
    "critical": 0,
    "mbs": 22,
    "countries": {
-    "US": 200,
+    "US": 203,
     "GB": 205,
     "HK": 1,
     "SA": 96,
@@ -8907,10 +8907,10 @@
     "The Washington Post": 8,
     "BBC": 11,
     "Al-Monitor": 51,
-    "WSJ": 38,
+    "WSJ": 39,
     "South China Morning Post": 1,
     "Bloomberg.com": 50,
-    "AP News": 17,
+    "AP News": 19,
     "The New York Times": 26,
     "Arab News": 93,
     "UA.NEWS": 2,
@@ -9061,7 +9061,7 @@
     ],
     "WSJ": [
      0,
-     38,
+     39,
      0
     ],
     "South China Morning Post": [
@@ -9076,7 +9076,7 @@
     ],
     "AP News": [
      0,
-     17,
+     19,
      0
     ],
     "The New York Times": [
@@ -9712,52 +9712,52 @@
    }
   },
   "2026-11-11": {
-   "total": 254,
-   "news": 251,
+   "total": 291,
+   "news": 288,
    "articles": 3,
    "positive": 0,
-   "neutral": 254,
+   "neutral": 291,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "US": 75,
-    "SA": 24,
-    "GB": 70,
+    "US": 87,
+    "SA": 29,
+    "GB": 85,
     "JP": 1,
     "HK": 4,
     "FR": 1
    },
    "topics": {},
    "sources": {
-    "WSJ": 12,
+    "WSJ": 13,
     "The New York Times": 10,
-    "Arab News": 23,
+    "Arab News": 28,
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
-    "Al-Monitor": 13,
+    "Al-Monitor": 18,
     "The Washington Post": 13,
-    "AP News": 7,
-    "Reuters": 14,
-    "The Guardian": 43,
+    "AP News": 8,
+    "Reuters": 18,
+    "The Guardian": 48,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 1,
     "Bioengineer.org": 3,
     "Billionaires.Africa": 1,
     "Bleeding Cool News": 1,
-    "BBC": 7,
+    "BBC": 9,
     "Chosunbiz": 2,
     "Dawn": 1,
     "The Australian": 1,
     "The Express Tribune": 1,
     "Nikkei Asia": 1,
     "https://houseofsaud.com/": 1,
-    "Arab News PK": 1,
+    "Arab News PK": 2,
     "The Economic Times": 1,
-    "Financial Times": 8,
+    "Financial Times": 12,
     "Cyprus Shipping News": 1,
     "Saudi Gazette": 4,
-    "Bloomberg.com": 16,
+    "Bloomberg.com": 21,
     "South China Morning Post": 4,
     "Le Monde.fr": 1,
     "Mining.com.au": 1,
@@ -9766,7 +9766,7 @@
     "Zawya": 2,
     "Utilities Middle East": 1,
     "People Daily": 2,
-    "ASHARQ AL-AWSAT English": 2,
+    "ASHARQ AL-AWSAT English": 3,
     "Atalayar": 1,
     "UA.NEWS": 3,
     "thenationalnews.com": 1,
@@ -9806,12 +9806,15 @@
     "Anadolu Ajansı": 1,
     "شبكة تواصل الإخبارية": 1,
     "Atlantic Council": 1,
-    "lovin.co": 1
+    "lovin.co": 1,
+    "Pinsent Masons": 1,
+    "Rediff": 1,
+    "News24": 1
    },
    "sourceTone": {
     "WSJ": [
      0,
-     12,
+     13,
      0
     ],
     "The New York Times": [
@@ -9821,7 +9824,7 @@
     ],
     "Arab News": [
      0,
-     23,
+     28,
      0
     ],
     "www.thenewworld.co.uk": [
@@ -9836,7 +9839,7 @@
     ],
     "Al-Monitor": [
      0,
-     13,
+     18,
      0
     ],
     "The Washington Post": [
@@ -9846,17 +9849,17 @@
     ],
     "AP News": [
      0,
-     7,
+     8,
      0
     ],
     "Reuters": [
      0,
-     14,
+     18,
      0
     ],
     "The Guardian": [
      0,
-     43,
+     48,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -9891,7 +9894,7 @@
     ],
     "BBC": [
      0,
-     7,
+     9,
      0
     ],
     "Chosunbiz": [
@@ -9926,7 +9929,7 @@
     ],
     "Arab News PK": [
      0,
-     1,
+     2,
      0
     ],
     "The Economic Times": [
@@ -9936,7 +9939,7 @@
     ],
     "Financial Times": [
      0,
-     8,
+     12,
      0
     ],
     "Cyprus Shipping News": [
@@ -9951,7 +9954,7 @@
     ],
     "Bloomberg.com": [
      0,
-     16,
+     21,
      0
     ],
     "South China Morning Post": [
@@ -9996,7 +9999,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     2,
+     3,
      0
     ],
     "Atalayar": [
@@ -10195,6 +10198,21 @@
      0
     ],
     "lovin.co": [
+     0,
+     1,
+     0
+    ],
+    "Pinsent Masons": [
+     0,
+     1,
+     0
+    ],
+    "Rediff": [
+     0,
+     1,
+     0
+    ],
+    "News24": [
      0,
      1,
      0
