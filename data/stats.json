@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 699,
-   "news": 687,
+   "total": 701,
+   "news": 689,
    "articles": 12,
    "positive": 0,
-   "neutral": 699,
+   "neutral": 701,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 200,
-    "GB": 203,
+    "GB": 205,
     "HK": 1,
     "SA": 96,
     "FR": 4,
@@ -8929,7 +8929,7 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 2,
-    "Reuters": 76,
+    "Reuters": 77,
     "Gulf News": 4,
     "CGTN": 1,
     "Al Jazeera": 2,
@@ -8980,7 +8980,7 @@
     "Forbes Middle East": 2,
     "TV7 Israel News": 1,
     "News of Bahrain": 1,
-    "The Guardian": 98,
+    "The Guardian": 99,
     "Foreign Policy": 2,
     "صحيفة سبق الإلكترونية": 1,
     "thetruthaboutcars.com": 1,
@@ -9170,7 +9170,7 @@
     ],
     "Reuters": [
      0,
-     76,
+     77,
      0
     ],
     "Gulf News": [
@@ -9425,7 +9425,7 @@
     ],
     "The Guardian": [
      0,
-     98,
+     99,
      0
     ],
     "Foreign Policy": [
@@ -9706,17 +9706,17 @@
    }
   },
   "2026-11-11": {
-   "total": 211,
-   "news": 211,
+   "total": 215,
+   "news": 215,
    "articles": 0,
    "positive": 0,
-   "neutral": 211,
+   "neutral": 215,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 57,
     "SA": 20,
-    "GB": 57,
+    "GB": 60,
     "JP": 1,
     "HK": 2,
     "FR": 1
@@ -9731,8 +9731,8 @@
     "Al-Monitor": 10,
     "The Washington Post": 13,
     "AP News": 4,
-    "Reuters": 10,
-    "The Guardian": 38,
+    "Reuters": 11,
+    "The Guardian": 40,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 1,
@@ -9794,7 +9794,8 @@
     "The Economist": 1,
     "Middle East Online": 1,
     "CNN": 1,
-    "DW.com": 1
+    "DW.com": 1,
+    "アラブニュース": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -9839,12 +9840,12 @@
     ],
     "Reuters": [
      0,
-     10,
+     11,
      0
     ],
     "The Guardian": [
      0,
-     38,
+     40,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -10153,6 +10154,11 @@
      0
     ],
     "DW.com": [
+     0,
+     1,
+     0
+    ],
+    "アラブニュース": [
      0,
      1,
      0
