@@ -9706,19 +9706,19 @@
    }
   },
   "2026-11-11": {
-   "total": 208,
-   "news": 208,
+   "total": 210,
+   "news": 210,
    "articles": 0,
    "positive": 0,
-   "neutral": 208,
+   "neutral": 210,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "US": 56,
+    "US": 57,
     "SA": 20,
     "GB": 56,
     "JP": 1,
-    "HK": 1,
+    "HK": 2,
     "FR": 1
    },
    "topics": {},
@@ -9751,8 +9751,8 @@
     "Financial Times": 6,
     "Cyprus Shipping News": 1,
     "Saudi Gazette": 3,
-    "Bloomberg.com": 12,
-    "South China Morning Post": 1,
+    "Bloomberg.com": 13,
+    "South China Morning Post": 2,
     "Le Monde.fr": 1,
     "Mining.com.au": 1,
     "The Week": 1,
@@ -9939,12 +9939,12 @@
     ],
     "Bloomberg.com": [
      0,
-     12,
+     13,
      0
     ],
     "South China Morning Post": [
      0,
-     1,
+     2,
      0
     ],
     "Le Monde.fr": [
