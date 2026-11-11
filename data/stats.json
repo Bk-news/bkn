@@ -8041,15 +8041,15 @@
    }
   },
   "2026-11-09": {
-   "total": 810,
-   "news": 804,
+   "total": 811,
+   "news": 805,
    "articles": 6,
    "positive": 0,
-   "neutral": 810,
+   "neutral": 811,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 270,
+    "GB": 271,
     "US": 262,
     "FR": 28,
     "SA": 72,
@@ -8078,7 +8078,7 @@
     "Daily Observer": 1,
     "The Business Standard": 1,
     "Nine.com.au": 1,
-    "Reuters": 134,
+    "Reuters": 135,
     "NDTV Sports": 1,
     "Bloomberg.com": 44,
     "UA.NEWS": 3,
@@ -8295,7 +8295,7 @@
     ],
     "Reuters": [
      0,
-     134,
+     135,
      0
     ],
     "NDTV Sports": [
@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 741,
-   "news": 729,
+   "total": 752,
+   "news": 740,
    "articles": 12,
    "positive": 0,
-   "neutral": 741,
+   "neutral": 752,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 204,
-    "GB": 238,
+    "GB": 249,
     "HK": 1,
     "SA": 97,
     "FR": 6,
@@ -8929,7 +8929,7 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 2,
-    "Reuters": 97,
+    "Reuters": 108,
     "Gulf News": 4,
     "CGTN": 1,
     "Al Jazeera": 2,
@@ -9171,7 +9171,7 @@
     ],
     "Reuters": [
      0,
-     97,
+     108,
      0
     ],
     "Gulf News": [
@@ -9712,15 +9712,15 @@
    }
   },
   "2026-11-11": {
-   "total": 406,
-   "news": 403,
+   "total": 421,
+   "news": 418,
    "articles": 3,
    "positive": 0,
-   "neutral": 406,
+   "neutral": 421,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "US": 104,
+    "US": 105,
     "SA": 44,
     "GB": 125,
     "JP": 1,
@@ -9729,7 +9729,7 @@
    },
    "topics": {},
    "sources": {
-    "WSJ": 15,
+    "WSJ": 16,
     "The New York Times": 10,
     "Arab News": 47,
     "www.thenewworld.co.uk": 1,
@@ -9781,7 +9781,7 @@
     "LiveScore": 1,
     "Egypt Oil & Gas": 2,
     "Archiproducts": 1,
-    "Arabian Gulf Business Insight | AGBI": 2,
+    "Arabian Gulf Business Insight | AGBI": 3,
     "Middle East Eye": 4,
     "Türkiye Today": 1,
     "Condé Nast Traveller Middle East": 1,
@@ -9827,15 +9827,27 @@
     "TradingView": 1,
     "Investing.com": 2,
     "Turkish Minute": 1,
-    "The Independent": 1,
+    "The Independent": 2,
     "Shabelle Media Network": 1,
     "Egypt Independent": 1,
-    "巴士的報": 1
+    "巴士的報": 1,
+    "The Jerusalem Post": 1,
+    "Latest news from Azerbaijan": 1,
+    "Middle East Monitor": 1,
+    "تسنیم": 1,
+    "Pipeline Technology Journal": 1,
+    "صوت الإمارات": 1,
+    "Al Arabiya English": 1,
+    "ABC News - Breaking News, Latest News and Videos": 1,
+    "Yardbarker": 1,
+    "Goal.com": 1,
+    "https://internationalfinance.com/": 1,
+    "Best Selling Cars Blog": 1
    },
    "sourceTone": {
     "WSJ": [
      0,
-     15,
+     16,
      0
     ],
     "The New York Times": [
@@ -10095,7 +10107,7 @@
     ],
     "Arabian Gulf Business Insight | AGBI": [
      0,
-     2,
+     3,
      0
     ],
     "Middle East Eye": [
@@ -10325,7 +10337,7 @@
     ],
     "The Independent": [
      0,
-     1,
+     2,
      0
     ],
     "Shabelle Media Network": [
@@ -10339,6 +10351,66 @@
      0
     ],
     "巴士的報": [
+     0,
+     1,
+     0
+    ],
+    "The Jerusalem Post": [
+     0,
+     1,
+     0
+    ],
+    "Latest news from Azerbaijan": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Monitor": [
+     0,
+     1,
+     0
+    ],
+    "تسنیم": [
+     0,
+     1,
+     0
+    ],
+    "Pipeline Technology Journal": [
+     0,
+     1,
+     0
+    ],
+    "صوت الإمارات": [
+     0,
+     1,
+     0
+    ],
+    "Al Arabiya English": [
+     0,
+     1,
+     0
+    ],
+    "ABC News - Breaking News, Latest News and Videos": [
+     0,
+     1,
+     0
+    ],
+    "Yardbarker": [
+     0,
+     1,
+     0
+    ],
+    "Goal.com": [
+     0,
+     1,
+     0
+    ],
+    "https://internationalfinance.com/": [
+     0,
+     1,
+     0
+    ],
+    "Best Selling Cars Blog": [
      0,
      1,
      0
