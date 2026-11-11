@@ -9700,38 +9700,40 @@
    }
   },
   "2026-11-11": {
-   "total": 42,
-   "news": 42,
+   "total": 82,
+   "news": 82,
    "articles": 0,
    "positive": 0,
-   "neutral": 42,
+   "neutral": 82,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "US": 14,
-    "SA": 5,
-    "GB": 6,
-    "JP": 1
+    "US": 31,
+    "SA": 10,
+    "GB": 18,
+    "JP": 1,
+    "HK": 1,
+    "FR": 1
    },
    "topics": {},
    "sources": {
-    "WSJ": 4,
-    "The New York Times": 3,
-    "Arab News": 5,
+    "WSJ": 7,
+    "The New York Times": 6,
+    "Arab News": 8,
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
-    "Al-Monitor": 4,
-    "The Washington Post": 1,
-    "AP News": 2,
-    "Reuters": 1,
-    "The Guardian": 2,
+    "Al-Monitor": 7,
+    "The Washington Post": 4,
+    "AP News": 4,
+    "Reuters": 4,
+    "The Guardian": 5,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 1,
     "Bioengineer.org": 1,
     "Billionaires.Africa": 1,
     "Bleeding Cool News": 1,
-    "BBC": 2,
+    "BBC": 5,
     "Chosunbiz": 1,
     "Dawn": 1,
     "The Australian": 1,
@@ -9740,23 +9742,30 @@
     "https://houseofsaud.com/": 1,
     "Arab News PK": 1,
     "The Economic Times": 1,
-    "Financial Times": 1,
-    "Cyprus Shipping News": 1
+    "Financial Times": 4,
+    "Cyprus Shipping News": 1,
+    "Saudi Gazette": 3,
+    "Bloomberg.com": 3,
+    "South China Morning Post": 1,
+    "Le Monde.fr": 1,
+    "Mining.com.au": 1,
+    "The Week": 1,
+    "Construction Review": 1
    },
    "sourceTone": {
     "WSJ": [
      0,
-     4,
+     7,
      0
     ],
     "The New York Times": [
      0,
-     3,
+     6,
      0
     ],
     "Arab News": [
      0,
-     5,
+     8,
      0
     ],
     "www.thenewworld.co.uk": [
@@ -9771,27 +9780,27 @@
     ],
     "Al-Monitor": [
      0,
-     4,
+     7,
      0
     ],
     "The Washington Post": [
      0,
-     1,
+     4,
      0
     ],
     "AP News": [
      0,
-     2,
+     4,
      0
     ],
     "Reuters": [
      0,
-     1,
+     4,
      0
     ],
     "The Guardian": [
      0,
-     2,
+     5,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -9826,7 +9835,7 @@
     ],
     "BBC": [
      0,
-     2,
+     5,
      0
     ],
     "Chosunbiz": [
@@ -9871,10 +9880,45 @@
     ],
     "Financial Times": [
      0,
-     1,
+     4,
      0
     ],
     "Cyprus Shipping News": [
+     0,
+     1,
+     0
+    ],
+    "Saudi Gazette": [
+     0,
+     3,
+     0
+    ],
+    "Bloomberg.com": [
+     0,
+     3,
+     0
+    ],
+    "South China Morning Post": [
+     0,
+     1,
+     0
+    ],
+    "Le Monde.fr": [
+     0,
+     1,
+     0
+    ],
+    "Mining.com.au": [
+     0,
+     1,
+     0
+    ],
+    "The Week": [
+     0,
+     1,
+     0
+    ],
+    "Construction Review": [
      0,
      1,
      0
