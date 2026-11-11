@@ -1,5 +1,5 @@
 {
- "run": "2026-11-11T03:28:49.296Z",
+ "run": "2026-11-11T03:29:49.206Z",
  "key": true,
  "model": "claude-haiku-5-5",
  "feedsOk": 24,
@@ -9,7 +9,7 @@
  "world": 0,
  "analyzed": 0,
  "analyzeErrors": 0,
- "lastError": "Anthropic 401: {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CgvRyLbcT9ZgDDJixEExk\"}",
+ "lastError": "Anthropic 401: {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CgvS3m87YCr8artZJrj2i\"}",
  "telegram": 20,
  "royal": 0,
  "keyRejected": true,
