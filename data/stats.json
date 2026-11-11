@@ -8041,15 +8041,15 @@
    }
   },
   "2026-11-09": {
-   "total": 788,
-   "news": 782,
+   "total": 789,
+   "news": 783,
    "articles": 6,
    "positive": 0,
-   "neutral": 788,
+   "neutral": 789,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 250,
+    "GB": 251,
     "US": 260,
     "FR": 28,
     "SA": 72,
@@ -8083,7 +8083,7 @@
     "Bloomberg.com": 44,
     "UA.NEWS": 3,
     "BBC": 10,
-    "The Guardian": 33,
+    "The Guardian": 34,
     "Foreign Affairs": 1,
     "Le Monde.fr": 6,
     "The Week": 1,
@@ -8320,7 +8320,7 @@
     ],
     "The Guardian": [
      0,
-     33,
+     34,
      0
     ],
     "Foreign Affairs": [
@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 671,
-   "news": 659,
+   "total": 677,
+   "news": 665,
    "articles": 12,
    "positive": 0,
-   "neutral": 671,
+   "neutral": 677,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 200,
-    "GB": 175,
+    "GB": 181,
     "HK": 1,
     "SA": 96,
     "FR": 4,
@@ -8980,7 +8980,7 @@
     "Forbes Middle East": 2,
     "TV7 Israel News": 1,
     "News of Bahrain": 1,
-    "The Guardian": 70,
+    "The Guardian": 76,
     "Foreign Policy": 2,
     "صحيفة سبق الإلكترونية": 1,
     "thetruthaboutcars.com": 1,
@@ -9425,7 +9425,7 @@
     ],
     "The Guardian": [
      0,
-     70,
+     76,
      0
     ],
     "Foreign Policy": [
@@ -9706,17 +9706,17 @@
    }
   },
   "2026-11-11": {
-   "total": 186,
-   "news": 186,
+   "total": 189,
+   "news": 189,
    "articles": 0,
    "positive": 0,
-   "neutral": 186,
+   "neutral": 189,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 51,
     "SA": 15,
-    "GB": 49,
+    "GB": 50,
     "JP": 1,
     "HK": 1,
     "FR": 1
@@ -9732,7 +9732,7 @@
     "The Washington Post": 12,
     "AP News": 4,
     "Reuters": 9,
-    "The Guardian": 31,
+    "The Guardian": 32,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 1,
@@ -9789,7 +9789,9 @@
     "Arabian Business": 1,
     "PWTorch": 1,
     "Shanghai Metals Market": 1,
-    "FTL Somalia": 1
+    "FTL Somalia": 1,
+    "CairoScene": 1,
+    "The Economist": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -9839,7 +9841,7 @@
     ],
     "The Guardian": [
      0,
-     31,
+     32,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -10123,6 +10125,16 @@
      0
     ],
     "FTL Somalia": [
+     0,
+     1,
+     0
+    ],
+    "CairoScene": [
+     0,
+     1,
+     0
+    ],
+    "The Economist": [
      0,
      1,
      0
