@@ -8041,15 +8041,15 @@
    }
   },
   "2026-11-09": {
-   "total": 762,
-   "news": 756,
+   "total": 784,
+   "news": 778,
    "articles": 6,
    "positive": 0,
-   "neutral": 762,
+   "neutral": 784,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 224,
+    "GB": 246,
     "US": 260,
     "FR": 28,
     "SA": 72,
@@ -8083,7 +8083,7 @@
     "Bloomberg.com": 44,
     "UA.NEWS": 3,
     "BBC": 10,
-    "The Guardian": 7,
+    "The Guardian": 29,
     "Foreign Affairs": 1,
     "Le Monde.fr": 6,
     "The Week": 1,
@@ -8320,7 +8320,7 @@
     ],
     "The Guardian": [
      0,
-     7,
+     29,
      0
     ],
     "Foreign Affairs": [
@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 641,
-   "news": 629,
+   "total": 655,
+   "news": 643,
    "articles": 12,
    "positive": 0,
-   "neutral": 641,
+   "neutral": 655,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 200,
-    "GB": 145,
+    "GB": 159,
     "HK": 1,
     "SA": 96,
     "FR": 4,
@@ -8980,7 +8980,7 @@
     "Forbes Middle East": 2,
     "TV7 Israel News": 1,
     "News of Bahrain": 1,
-    "The Guardian": 41,
+    "The Guardian": 55,
     "Foreign Policy": 2,
     "صحيفة سبق الإلكترونية": 1,
     "thetruthaboutcars.com": 1,
@@ -9425,7 +9425,7 @@
     ],
     "The Guardian": [
      0,
-     41,
+     55,
      0
     ],
     "Foreign Policy": [
@@ -9706,16 +9706,16 @@
    }
   },
   "2026-11-11": {
-   "total": 176,
-   "news": 176,
+   "total": 178,
+   "news": 178,
    "articles": 0,
    "positive": 0,
-   "neutral": 176,
+   "neutral": 178,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 50,
-    "SA": 14,
+    "SA": 15,
     "GB": 44,
     "JP": 1,
     "HK": 1,
@@ -9725,7 +9725,7 @@
    "sources": {
     "WSJ": 8,
     "The New York Times": 7,
-    "Arab News": 13,
+    "Arab News": 14,
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
     "Al-Monitor": 8,
@@ -9771,7 +9771,7 @@
     "Informat.ro": 1,
     "WhatCulture.com": 1,
     "Renewables Now": 1,
-    "صحيفة مال": 1,
+    "صحيفة مال": 2,
     "LiveScore": 1,
     "Egypt Oil & Gas": 1,
     "Archiproducts": 1,
@@ -9803,7 +9803,7 @@
     ],
     "Arab News": [
      0,
-     13,
+     14,
      0
     ],
     "www.thenewworld.co.uk": [
@@ -10033,7 +10033,7 @@
     ],
     "صحيفة مال": [
      0,
-     1,
+     2,
      0
     ],
     "LiveScore": [
