@@ -1,5 +1,17 @@
 [
  {
+  "id": "5a0b4e2c67d74af3",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "ترمب: لسنا في حاجة لاتفاق مع إيران",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/153296",
+  "published": "2026-11-12T13:15:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-12T13:15:01.000Z"
+ },
+ {
   "id": "887344bb83c114c4",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -154,17 +166,5 @@
   "published": "2026-11-12T12:17:01.000Z",
   "subject": "saudi",
   "added": "2026-11-12T12:17:01.000Z"
- },
- {
-  "id": "571c602c8b09c9fb",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "هيئة بحرية بريطانية: إصابات بين أفراد طاقم السفينة التي تعرضت لمقذوف في الخليج",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/153282",
-  "published": "2026-11-12T12:15:02.000Z",
-  "subject": "saudi",
-  "added": "2026-11-12T12:15:02.000Z"
  }
 ]
