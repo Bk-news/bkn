@@ -8886,15 +8886,15 @@
    }
   },
   "2026-11-10": {
-   "total": 899,
-   "news": 887,
+   "total": 900,
+   "news": 888,
    "articles": 12,
    "positive": 0,
-   "neutral": 899,
+   "neutral": 900,
    "critical": 0,
    "mbs": 22,
    "countries": {
-    "US": 226,
+    "US": 227,
     "GB": 371,
     "HK": 1,
     "SA": 99,
@@ -8910,7 +8910,7 @@
     "WSJ": 44,
     "South China Morning Post": 1,
     "Bloomberg.com": 51,
-    "AP News": 23,
+    "AP News": 24,
     "The New York Times": 31,
     "Arab News": 96,
     "UA.NEWS": 2,
@@ -9076,7 +9076,7 @@
     ],
     "AP News": [
      0,
-     23,
+     24,
      0
     ],
     "The New York Times": [
@@ -10592,15 +10592,15 @@
    }
   },
   "2026-11-12": {
-   "total": 273,
-   "news": 271,
+   "total": 274,
+   "news": 272,
    "articles": 2,
    "positive": 0,
-   "neutral": 273,
+   "neutral": 274,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 104,
+    "GB": 105,
     "US": 43,
     "FR": 1,
     "SA": 20,
@@ -10621,7 +10621,7 @@
     "Saudi Gazette": 6,
     "Al-Monitor": 9,
     "The New York Times": 8,
-    "Reuters": 31,
+    "Reuters": 32,
     "AP News": 1,
     "Arab News": 19,
     "South China Morning Post": 5,
@@ -10773,7 +10773,7 @@
     ],
     "Reuters": [
      0,
-     31,
+     32,
      0
     ],
     "AP News": [

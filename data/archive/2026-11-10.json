@@ -1193,6 +1193,27 @@
    "mt": true
   },
   {
+   "id": "9ad94982686158d2",
+   "origin": "rss",
+   "source": "AP News",
+   "author": "",
+   "title_ar": "أهم أخبار AP 10 نوفمبر",
+   "title_orig": "AP Top Stories November 10",
+   "title_en": "AP Top Stories November 10",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZi1KTTNGRzBVUU10LXkyUWJPaTloWnhOOHlSdlFnVkZwZ2xwRGdqdVNlSllncWpoc21YV0NoMDN6MHloTldqUHNMTGs5bUt6WVVDeXFQdlMyZEVPS2FzLVNzd3M4ckRnR0c3Skw5QTc2YzZGS19rNDR6dmkzUnZGNlZ2RUdGM1Q5NEpsQg?oc=5",
+   "published": "2026-11-10T22:04:00.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "AP Top Stories November 10 &nbsp;&nbsp; AP News",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "14fdfed5726963c0",
    "origin": "rss",
    "source": "ASHARQ AL-AWSAT English",
