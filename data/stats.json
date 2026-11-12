@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 806,
-   "news": 794,
+   "total": 808,
+   "news": 796,
    "articles": 12,
    "positive": 0,
-   "neutral": 806,
+   "neutral": 808,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 213,
-    "GB": 293,
+    "GB": 295,
     "HK": 1,
     "SA": 97,
     "FR": 7,
@@ -8936,7 +8936,7 @@
     "TRT World": 1,
     "Asset Servicing Times": 1,
     "Saudi Gazette": 16,
-    "Financial Times": 22,
+    "Financial Times": 23,
     "CNN": 4,
     "France 24": 4,
     "Fana News -": 1,
@@ -8980,7 +8980,7 @@
     "Forbes Middle East": 2,
     "TV7 Israel News": 1,
     "News of Bahrain": 1,
-    "The Guardian": 125,
+    "The Guardian": 126,
     "Foreign Policy": 2,
     "صحيفة سبق الإلكترونية": 1,
     "thetruthaboutcars.com": 1,
@@ -9206,7 +9206,7 @@
     ],
     "Financial Times": [
      0,
-     22,
+     23,
      0
     ],
     "CNN": [
@@ -9426,7 +9426,7 @@
     ],
     "The Guardian": [
      0,
-     125,
+     126,
      0
     ],
     "Foreign Policy": [
@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 616,
-   "news": 611,
+   "total": 632,
+   "news": 627,
    "articles": 5,
    "positive": 0,
-   "neutral": 616,
+   "neutral": 632,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "US": 142,
-    "SA": 67,
-    "GB": 219,
+    "US": 143,
+    "SA": 77,
+    "GB": 224,
     "JP": 1,
     "HK": 4,
     "FR": 4
@@ -9731,14 +9731,14 @@
    "sources": {
     "WSJ": 30,
     "The New York Times": 12,
-    "Arab News": 63,
+    "Arab News": 73,
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
     "Al-Monitor": 37,
     "The Washington Post": 13,
     "AP News": 10,
-    "Reuters": 69,
-    "The Guardian": 114,
+    "Reuters": 70,
+    "The Guardian": 117,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 2,
@@ -9754,7 +9754,7 @@
     "https://houseofsaud.com/": 5,
     "Arab News PK": 2,
     "The Economic Times": 1,
-    "Financial Times": 31,
+    "Financial Times": 32,
     "Cyprus Shipping News": 1,
     "Saudi Gazette": 12,
     "Bloomberg.com": 33,
@@ -9847,7 +9847,7 @@
     "marketscreener.com": 1,
     "Metro.co.uk": 1,
     "The Times of Israel": 1,
-    "Bloomberg": 4,
+    "Bloomberg": 5,
     "France 24": 3,
     "شفق نيوز": 1,
     "Autoblog": 1,
@@ -9880,7 +9880,7 @@
     ],
     "Arab News": [
      0,
-     63,
+     73,
      0
     ],
     "www.thenewworld.co.uk": [
@@ -9910,12 +9910,12 @@
     ],
     "Reuters": [
      0,
-     69,
+     70,
      0
     ],
     "The Guardian": [
      0,
-     114,
+     117,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -9995,7 +9995,7 @@
     ],
     "Financial Times": [
      0,
-     31,
+     32,
      0
     ],
     "Cyprus Shipping News": [
@@ -10460,7 +10460,7 @@
     ],
     "Bloomberg": [
      0,
-     4,
+     5,
      0
     ],
     "France 24": [
@@ -10556,24 +10556,24 @@
    }
   },
   "2026-11-12": {
-   "total": 2,
-   "news": 2,
+   "total": 3,
+   "news": 3,
    "articles": 0,
    "positive": 0,
-   "neutral": 2,
+   "neutral": 3,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 2
+    "GB": 3
    },
    "topics": {},
    "sources": {
-    "Financial Times": 2
+    "Financial Times": 3
    },
    "sourceTone": {
     "Financial Times": [
      0,
-     2,
+     3,
      0
     ]
    }

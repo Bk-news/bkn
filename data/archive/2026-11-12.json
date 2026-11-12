@@ -2,6 +2,27 @@
  "day": "2026-11-12",
  "items": [
   {
+   "id": "b23d1b5038ddb227",
+   "origin": "rss",
+   "source": "Financial Times",
+   "author": "",
+   "title_ar": "هل تستطيع الهند تنظيف الضباب الدخاني القاتل في دلهي؟",
+   "title_orig": "Can India clean up Delhi’s deadly smog?",
+   "title_en": "Can India clean up Delhi’s deadly smog?",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTmZVSGNaSUFPRXo3TldabkdsYlZDeEdQZF9NZWEzTUFBN3NWZlhrT3diSWc4T2ZiU2hNaG0zYldNVmRyNzBJX3J4MWRSSWNYTXAzZFFBakkxNHE4NFRtYkxTSmFzb2I1WGJIenpOZUZzcEhoS0QzTTJvS3VpcTBoT0FFZWE?oc=5",
+   "published": "2026-11-12T00:09:39.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "Can India clean up Delhi’s deadly smog? &nbsp;&nbsp; Financial Times",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "5849da81c4eba634",
    "origin": "rss",
    "source": "Financial Times",
