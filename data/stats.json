@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 898,
-   "news": 886,
+   "total": 899,
+   "news": 887,
    "articles": 12,
    "positive": 0,
-   "neutral": 898,
+   "neutral": 899,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 226,
-    "GB": 370,
+    "GB": 371,
     "HK": 1,
     "SA": 99,
     "FR": 7,
@@ -8929,7 +8929,7 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 2,
-    "Reuters": 148,
+    "Reuters": 149,
     "Gulf News": 4,
     "CGTN": 1,
     "Al Jazeera": 2,
@@ -9171,7 +9171,7 @@
     ],
     "Reuters": [
      0,
-     148,
+     149,
      0
     ],
     "Gulf News": [
@@ -10592,15 +10592,15 @@
    }
   },
   "2026-11-12": {
-   "total": 263,
-   "news": 261,
+   "total": 264,
+   "news": 262,
    "articles": 2,
    "positive": 0,
-   "neutral": 263,
+   "neutral": 264,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 99,
+    "GB": 100,
     "US": 43,
     "FR": 1,
     "SA": 20,
@@ -10609,7 +10609,7 @@
    "topics": {},
    "sources": {
     "Financial Times": 20,
-    "The Guardian": 33,
+    "The Guardian": 34,
     "StreetInsider": 1,
     "Bloomberg": 1,
     "India Narrative": 1,
@@ -10711,7 +10711,7 @@
     ],
     "The Guardian": [
      0,
-     33,
+     34,
      0
     ],
     "StreetInsider": [
