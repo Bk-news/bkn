@@ -9712,15 +9712,15 @@
    }
   },
   "2026-11-11": {
-   "total": 694,
-   "news": 689,
+   "total": 696,
+   "news": 691,
    "articles": 5,
    "positive": 0,
-   "neutral": 694,
+   "neutral": 696,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "US": 144,
+    "US": 146,
     "SA": 85,
     "GB": 275,
     "JP": 1,
@@ -9730,7 +9730,7 @@
    "topics": {},
    "sources": {
     "WSJ": 30,
-    "The New York Times": 12,
+    "The New York Times": 13,
     "Arab News": 81,
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
@@ -9847,7 +9847,7 @@
     "marketscreener.com": 1,
     "Metro.co.uk": 1,
     "The Times of Israel": 1,
-    "Bloomberg": 5,
+    "Bloomberg": 6,
     "France 24": 3,
     "شفق نيوز": 1,
     "Autoblog": 1,
@@ -9875,7 +9875,7 @@
     ],
     "The New York Times": [
      0,
-     12,
+     13,
      0
     ],
     "Arab News": [
@@ -10460,7 +10460,7 @@
     ],
     "Bloomberg": [
      0,
-     5,
+     6,
      0
     ],
     "France 24": [
