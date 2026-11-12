@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 842,
-   "news": 837,
+   "total": 853,
+   "news": 848,
    "articles": 5,
    "positive": 0,
-   "neutral": 842,
+   "neutral": 853,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "US": 158,
     "SA": 91,
-    "GB": 391,
+    "GB": 402,
     "JP": 1,
     "HK": 4,
     "FR": 7
@@ -9737,8 +9737,8 @@
     "Al-Monitor": 39,
     "The Washington Post": 14,
     "AP News": 11,
-    "Reuters": 100,
-    "The Guardian": 168,
+    "Reuters": 106,
+    "The Guardian": 173,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 2,
@@ -9916,12 +9916,12 @@
     ],
     "Reuters": [
      0,
-     100,
+     106,
      0
     ],
     "The Guardian": [
      0,
-     168,
+     173,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -10592,15 +10592,15 @@
    }
   },
   "2026-11-12": {
-   "total": 427,
-   "news": 413,
+   "total": 453,
+   "news": 439,
    "articles": 14,
    "positive": 0,
-   "neutral": 427,
+   "neutral": 453,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 165,
+    "GB": 172,
     "US": 82,
     "FR": 2,
     "SA": 45,
@@ -10620,11 +10620,11 @@
     "France 24": 2,
     "Bloomberg.com": 18,
     "Saudi Gazette": 9,
-    "Al-Monitor": 23,
+    "Al-Monitor": 24,
     "The New York Times": 12,
-    "Reuters": 54,
+    "Reuters": 61,
     "AP News": 8,
-    "Arab News": 43,
+    "Arab News": 45,
     "South China Morning Post": 5,
     "Dealroom": 1,
     "Dubai Eye 103.8": 1,
@@ -10634,14 +10634,14 @@
     "The Korea Times": 1,
     "RG.org": 1,
     "Eurasia Review": 2,
-    "https://houseofsaud.com/": 5,
+    "https://houseofsaud.com/": 6,
     "Yahoo Sports": 1,
     "The Jerusalem Post": 1,
-    "Anadolu Ajansı": 2,
+    "Anadolu Ajansı": 3,
     "Middle East Eye": 2,
     "www.thenationalnews.com": 1,
     "Al Jazeera": 1,
-    "Arab News PK": 2,
+    "Arab News PK": 3,
     "Healthcare Asia Magazine": 1,
     "i24NEWS": 1,
     "The Soufan Center": 1,
@@ -10663,7 +10663,7 @@
     "USA Today": 1,
     "وكالة الأنباء السعودية": 1,
     "A News": 1,
-    "ASHARQ AL-AWSAT English": 3,
+    "ASHARQ AL-AWSAT English": 4,
     "PV Tech": 1,
     "GPblog": 1,
     "Grande Prêmio": 1,
@@ -10671,12 +10671,12 @@
     "وكالة الانباء الاردنية": 1,
     "Egyptian Gazette": 1,
     "Rus Tourism News": 1,
-    "The National": 2,
+    "The National": 3,
     "Egypt Independent": 1,
     "ITP.net": 1,
     "Sportstar": 1,
     "The Diplomatic Insight": 2,
-    "Middle East Online": 2,
+    "Middle East Online": 3,
     "LiveScore": 2,
     "Fast Company Middle East": 2,
     "Military Africa": 1,
@@ -10703,7 +10703,7 @@
     "The Express Tribune": 2,
     "Campaign Middle East": 1,
     "Travel Daily News International": 1,
-    "Goal.com": 1,
+    "Goal.com": 2,
     "Travel & Tourism News Middle East": 1,
     "Daily Sabah": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -10720,7 +10720,16 @@
     "The Times of Israel": 1,
     "Howl.Link": 1,
     "United Nations Sustainable Development Group": 1,
-    "Latin Times": 1
+    "Latin Times": 1,
+    "NewsCord": 1,
+    "The New Indian Express": 1,
+    "NL Times": 1,
+    "Smart Water Magazine": 1,
+    "Crypto Briefing": 1,
+    "IGN": 1,
+    "The Times": 1,
+    "RACER - Racing News": 1,
+    "IndexBox": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -10780,7 +10789,7 @@
     ],
     "Al-Monitor": [
      0,
-     23,
+     24,
      0
     ],
     "The New York Times": [
@@ -10790,7 +10799,7 @@
     ],
     "Reuters": [
      0,
-     54,
+     61,
      0
     ],
     "AP News": [
@@ -10800,7 +10809,7 @@
     ],
     "Arab News": [
      0,
-     43,
+     45,
      0
     ],
     "South China Morning Post": [
@@ -10850,7 +10859,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     5,
+     6,
      0
     ],
     "Yahoo Sports": [
@@ -10865,7 +10874,7 @@
     ],
     "Anadolu Ajansı": [
      0,
-     2,
+     3,
      0
     ],
     "Middle East Eye": [
@@ -10885,7 +10894,7 @@
     ],
     "Arab News PK": [
      0,
-     2,
+     3,
      0
     ],
     "Healthcare Asia Magazine": [
@@ -10995,7 +11004,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     3,
+     4,
      0
     ],
     "PV Tech": [
@@ -11035,7 +11044,7 @@
     ],
     "The National": [
      0,
-     2,
+     3,
      0
     ],
     "Egypt Independent": [
@@ -11060,7 +11069,7 @@
     ],
     "Middle East Online": [
      0,
-     2,
+     3,
      0
     ],
     "LiveScore": [
@@ -11195,7 +11204,7 @@
     ],
     "Goal.com": [
      0,
-     1,
+     2,
      0
     ],
     "Travel & Tourism News Middle East": [
@@ -11279,6 +11288,51 @@
      0
     ],
     "Latin Times": [
+     0,
+     1,
+     0
+    ],
+    "NewsCord": [
+     0,
+     1,
+     0
+    ],
+    "The New Indian Express": [
+     0,
+     1,
+     0
+    ],
+    "NL Times": [
+     0,
+     1,
+     0
+    ],
+    "Smart Water Magazine": [
+     0,
+     1,
+     0
+    ],
+    "Crypto Briefing": [
+     0,
+     1,
+     0
+    ],
+    "IGN": [
+     0,
+     1,
+     0
+    ],
+    "The Times": [
+     0,
+     1,
+     0
+    ],
+    "RACER - Racing News": [
+     0,
+     1,
+     0
+    ],
+    "IndexBox": [
      0,
      1,
      0
