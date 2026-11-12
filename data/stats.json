@@ -10592,18 +10592,18 @@
    }
   },
   "2026-11-12": {
-   "total": 503,
-   "news": 488,
-   "articles": 15,
+   "total": 505,
+   "news": 489,
+   "articles": 16,
    "positive": 0,
-   "neutral": 503,
+   "neutral": 505,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "GB": 199,
-    "US": 88,
+    "US": 89,
     "FR": 3,
-    "SA": 52,
+    "SA": 53,
     "HK": 3,
     "JP": 1
    },
@@ -10624,7 +10624,7 @@
     "The New York Times": 14,
     "Reuters": 69,
     "AP News": 8,
-    "Arab News": 51,
+    "Arab News": 52,
     "South China Morning Post": 5,
     "Dealroom": 1,
     "Dubai Eye 103.8": 1,
@@ -10708,7 +10708,7 @@
     "Daily Sabah": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
     "Cyprus Mail": 1,
-    "Atlantic Council": 2,
+    "Atlantic Council": 3,
     "Nikkei Asia": 1,
     "Arbiterz": 1,
     "Apa.az": 1,
@@ -10812,7 +10812,7 @@
     ],
     "Arab News": [
      0,
-     51,
+     52,
      0
     ],
     "South China Morning Post": [
@@ -11232,7 +11232,7 @@
     ],
     "Atlantic Council": [
      0,
-     2,
+     3,
      0
     ],
     "Nikkei Asia": [
