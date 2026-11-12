@@ -10592,11 +10592,11 @@
    }
   },
   "2026-11-12": {
-   "total": 499,
-   "news": 484,
+   "total": 500,
+   "news": 485,
    "articles": 15,
    "positive": 0,
-   "neutral": 499,
+   "neutral": 500,
    "critical": 0,
    "mbs": 4,
    "countries": {
@@ -10663,7 +10663,7 @@
     "USA Today": 1,
     "وكالة الأنباء السعودية": 1,
     "A News": 1,
-    "ASHARQ AL-AWSAT English": 5,
+    "ASHARQ AL-AWSAT English": 6,
     "PV Tech": 1,
     "GPblog": 1,
     "Grande Prêmio": 1,
@@ -11007,7 +11007,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     5,
+     6,
      0
     ],
     "PV Tech": [
