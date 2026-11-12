@@ -10592,18 +10592,18 @@
    }
   },
   "2026-11-12": {
-   "total": 458,
-   "news": 444,
+   "total": 460,
+   "news": 446,
    "articles": 14,
    "positive": 0,
-   "neutral": 458,
+   "neutral": 460,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "GB": 177,
-    "US": 82,
+    "US": 83,
     "FR": 2,
-    "SA": 45,
+    "SA": 46,
     "HK": 3,
     "JP": 1
    },
@@ -10618,8 +10618,8 @@
     "Oil & Gas Middle East": 1,
     "WSJ": 13,
     "France 24": 2,
-    "Bloomberg.com": 18,
-    "Saudi Gazette": 9,
+    "Bloomberg.com": 19,
+    "Saudi Gazette": 10,
     "Al-Monitor": 24,
     "The New York Times": 12,
     "Reuters": 64,
@@ -10779,12 +10779,12 @@
     ],
     "Bloomberg.com": [
      0,
-     18,
+     19,
      0
     ],
     "Saudi Gazette": [
      0,
-     9,
+     10,
      0
     ],
     "Al-Monitor": [
