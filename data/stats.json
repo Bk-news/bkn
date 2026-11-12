@@ -10592,15 +10592,15 @@
    }
   },
   "2026-11-12": {
-   "total": 232,
-   "news": 230,
+   "total": 234,
+   "news": 232,
    "articles": 2,
    "positive": 0,
-   "neutral": 232,
+   "neutral": 234,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 88,
+    "GB": 89,
     "US": 40,
     "FR": 1,
     "SA": 15,
@@ -10621,7 +10621,7 @@
     "Saudi Gazette": 5,
     "Al-Monitor": 9,
     "The New York Times": 8,
-    "Reuters": 24,
+    "Reuters": 25,
     "AP News": 1,
     "Arab News": 14,
     "South China Morning Post": 5,
@@ -10692,7 +10692,8 @@
     "Philippine Canadian Inquirer": 1,
     "The New Voice of Ukraine": 1,
     "조선일보": 1,
-    "Kurdistan24": 1
+    "Kurdistan24": 1,
+    "Zawya": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -10762,7 +10763,7 @@
     ],
     "Reuters": [
      0,
-     24,
+     25,
      0
     ],
     "AP News": [
@@ -11116,6 +11117,11 @@
      0
     ],
     "Kurdistan24": [
+     0,
+     1,
+     0
+    ],
+    "Zawya": [
      0,
      1,
      0
