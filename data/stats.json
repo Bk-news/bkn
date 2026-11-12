@@ -10592,15 +10592,15 @@
    }
   },
   "2026-11-12": {
-   "total": 481,
-   "news": 466,
+   "total": 482,
+   "news": 467,
    "articles": 15,
    "positive": 0,
-   "neutral": 481,
+   "neutral": 482,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "GB": 191,
+    "GB": 192,
     "US": 84,
     "FR": 2,
     "SA": 47,
@@ -10610,7 +10610,7 @@
    "topics": {},
    "sources": {
     "Financial Times": 32,
-    "The Guardian": 58,
+    "The Guardian": 59,
     "StreetInsider": 1,
     "Bloomberg": 1,
     "India Narrative": 1,
@@ -10741,7 +10741,7 @@
     ],
     "The Guardian": [
      0,
-     58,
+     59,
      0
     ],
     "StreetInsider": [
