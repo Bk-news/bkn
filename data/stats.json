@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 804,
-   "news": 792,
+   "total": 806,
+   "news": 794,
    "articles": 12,
    "positive": 0,
-   "neutral": 804,
+   "neutral": 806,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 213,
-    "GB": 291,
+    "GB": 293,
     "HK": 1,
     "SA": 97,
     "FR": 7,
@@ -8936,7 +8936,7 @@
     "TRT World": 1,
     "Asset Servicing Times": 1,
     "Saudi Gazette": 16,
-    "Financial Times": 20,
+    "Financial Times": 22,
     "CNN": 4,
     "France 24": 4,
     "Fana News -": 1,
@@ -9206,7 +9206,7 @@
     ],
     "Financial Times": [
      0,
-     20,
+     22,
      0
     ],
     "CNN": [
@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 614,
-   "news": 609,
+   "total": 616,
+   "news": 611,
    "articles": 5,
    "positive": 0,
-   "neutral": 614,
+   "neutral": 616,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "US": 142,
     "SA": 67,
-    "GB": 217,
+    "GB": 219,
     "JP": 1,
     "HK": 4,
     "FR": 4
@@ -9754,7 +9754,7 @@
     "https://houseofsaud.com/": 5,
     "Arab News PK": 2,
     "The Economic Times": 1,
-    "Financial Times": 29,
+    "Financial Times": 31,
     "Cyprus Shipping News": 1,
     "Saudi Gazette": 12,
     "Bloomberg.com": 33,
@@ -9995,7 +9995,7 @@
     ],
     "Financial Times": [
      0,
-     29,
+     31,
      0
     ],
     "Cyprus Shipping News": [
@@ -10556,24 +10556,24 @@
    }
   },
   "2026-11-12": {
-   "total": 1,
-   "news": 1,
+   "total": 2,
+   "news": 2,
    "articles": 0,
    "positive": 0,
-   "neutral": 1,
+   "neutral": 2,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 1
+    "GB": 2
    },
    "topics": {},
    "sources": {
-    "Financial Times": 1
+    "Financial Times": 2
    },
    "sourceTone": {
     "Financial Times": [
      0,
-     1,
+     2,
      0
     ]
    }

@@ -2,6 +2,27 @@
  "day": "2026-11-12",
  "items": [
   {
+   "id": "5849da81c4eba634",
+   "origin": "rss",
+   "source": "Financial Times",
+   "author": "",
+   "title_ar": "تعاني المملكة المتحدة من انخفاض أكبر في عدد طلاب الدراسات العليا الدوليين مقارنة بالولايات المتحدة",
+   "title_orig": "UK suffers bigger fall in international postgraduate students than the US",
+   "title_en": "UK suffers bigger fall in international postgraduate students than the US",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWXFrYnhXR3czUnNYSF9xOS02Umw2Q1lnYWkwREtXZ1JmQzNfVW1sQVlEZGpjT2pSWVgwTTJJRjhMQWFoMFB0THBZTGU4STQ3dEI1dkJzUHJkOXA4b08tS1hncGFBWkhialJEYktLRi1sNTgyVEViLVFUMVV2VEdWYTh4OVY?oc=5",
+   "published": "2026-11-12T00:01:10.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "UK suffers bigger fall in international postgraduate students than the US &nbsp;&nbsp; Financial Times",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "111e0fdbfea3dff8",
    "origin": "rss",
    "source": "Financial Times",
