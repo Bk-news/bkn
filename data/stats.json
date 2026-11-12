@@ -10592,15 +10592,15 @@
    }
   },
   "2026-11-12": {
-   "total": 472,
-   "news": 458,
+   "total": 473,
+   "news": 459,
    "articles": 14,
    "positive": 0,
-   "neutral": 472,
+   "neutral": 473,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 184,
+    "GB": 185,
     "US": 84,
     "FR": 2,
     "SA": 47,
@@ -10622,7 +10622,7 @@
     "Saudi Gazette": 10,
     "Al-Monitor": 24,
     "The New York Times": 12,
-    "Reuters": 65,
+    "Reuters": 66,
     "AP News": 8,
     "Arab News": 46,
     "South China Morning Post": 5,
@@ -10801,7 +10801,7 @@
     ],
     "Reuters": [
      0,
-     65,
+     66,
      0
     ],
     "AP News": [
