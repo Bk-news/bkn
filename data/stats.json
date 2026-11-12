@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 813,
-   "news": 801,
+   "total": 816,
+   "news": 804,
    "articles": 12,
    "positive": 0,
-   "neutral": 813,
+   "neutral": 816,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 213,
-    "GB": 299,
+    "GB": 302,
     "HK": 1,
     "SA": 98,
     "FR": 7,
@@ -8936,7 +8936,7 @@
     "TRT World": 1,
     "Asset Servicing Times": 1,
     "Saudi Gazette": 16,
-    "Financial Times": 26,
+    "Financial Times": 29,
     "CNN": 4,
     "France 24": 4,
     "Fana News -": 1,
@@ -9206,7 +9206,7 @@
     ],
     "Financial Times": [
      0,
-     26,
+     29,
      0
     ],
     "CNN": [
@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 639,
-   "news": 634,
+   "total": 642,
+   "news": 637,
    "articles": 5,
    "positive": 0,
-   "neutral": 639,
+   "neutral": 642,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "US": 143,
+    "US": 144,
     "SA": 78,
-    "GB": 230,
+    "GB": 231,
     "JP": 1,
     "HK": 4,
     "FR": 4
@@ -9734,7 +9734,7 @@
     "Arab News": 74,
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
-    "Al-Monitor": 37,
+    "Al-Monitor": 38,
     "The Washington Post": 13,
     "AP News": 10,
     "Reuters": 70,
@@ -9754,7 +9754,7 @@
     "https://houseofsaud.com/": 5,
     "Arab News PK": 2,
     "The Economic Times": 1,
-    "Financial Times": 38,
+    "Financial Times": 39,
     "Cyprus Shipping News": 1,
     "Saudi Gazette": 12,
     "Bloomberg.com": 33,
@@ -9840,7 +9840,7 @@
     "Al Arabiya English": 1,
     "ABC News - Breaking News, Latest News and Videos": 1,
     "Yardbarker": 1,
-    "Goal.com": 2,
+    "Goal.com": 3,
     "https://internationalfinance.com/": 1,
     "Best Selling Cars Blog": 1,
     "وكالة الأنباء السعودية": 1,
@@ -9895,7 +9895,7 @@
     ],
     "Al-Monitor": [
      0,
-     37,
+     38,
      0
     ],
     "The Washington Post": [
@@ -9995,7 +9995,7 @@
     ],
     "Financial Times": [
      0,
-     38,
+     39,
      0
     ],
     "Cyprus Shipping News": [
@@ -10425,7 +10425,7 @@
     ],
     "Goal.com": [
      0,
-     2,
+     3,
      0
     ],
     "https://internationalfinance.com/": [
