@@ -10592,16 +10592,16 @@
    }
   },
   "2026-11-12": {
-   "total": 460,
-   "news": 446,
+   "total": 464,
+   "news": 450,
    "articles": 14,
    "positive": 0,
-   "neutral": 460,
+   "neutral": 464,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 177,
-    "US": 83,
+    "GB": 180,
+    "US": 84,
     "FR": 2,
     "SA": 46,
     "HK": 3,
@@ -10610,13 +10610,13 @@
    "topics": {},
    "sources": {
     "Financial Times": 29,
-    "The Guardian": 53,
+    "The Guardian": 56,
     "StreetInsider": 1,
     "Bloomberg": 1,
     "India Narrative": 1,
     "BBC": 11,
     "Oil & Gas Middle East": 1,
-    "WSJ": 13,
+    "WSJ": 14,
     "France 24": 2,
     "Bloomberg.com": 19,
     "Saudi Gazette": 10,
@@ -10739,7 +10739,7 @@
     ],
     "The Guardian": [
      0,
-     53,
+     56,
      0
     ],
     "StreetInsider": [
@@ -10769,7 +10769,7 @@
     ],
     "WSJ": [
      0,
-     13,
+     14,
      0
     ],
     "France 24": [
