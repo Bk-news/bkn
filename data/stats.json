@@ -10592,11 +10592,11 @@
    }
   },
   "2026-11-12": {
-   "total": 247,
-   "news": 245,
+   "total": 249,
+   "news": 247,
    "articles": 2,
    "positive": 0,
-   "neutral": 247,
+   "neutral": 249,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -10687,7 +10687,7 @@
     "CMB News": 1,
     "Yeni Safak English": 1,
     "HackerNoon": 1,
-    "Al Arabiya English": 1,
+    "Al Arabiya English": 2,
     "Forbes Middle East": 1,
     "Philippine Canadian Inquirer": 1,
     "The New Voice of Ukraine": 1,
@@ -10697,7 +10697,8 @@
     "The New Arab": 1,
     "blue News": 1,
     "TRT World": 1,
-    "Semafor": 1
+    "Semafor": 1,
+    "www.calcalistech.com": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -11097,7 +11098,7 @@
     ],
     "Al Arabiya English": [
      0,
-     1,
+     2,
      0
     ],
     "Forbes Middle East": [
@@ -11146,6 +11147,11 @@
      0
     ],
     "Semafor": [
+     0,
+     1,
+     0
+    ],
+    "www.calcalistech.com": [
      0,
      1,
      0
