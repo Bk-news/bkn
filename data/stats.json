@@ -8886,15 +8886,15 @@
    }
   },
   "2026-11-10": {
-   "total": 838,
-   "news": 826,
+   "total": 840,
+   "news": 828,
    "articles": 12,
    "positive": 0,
-   "neutral": 838,
+   "neutral": 840,
    "critical": 0,
    "mbs": 22,
    "countries": {
-    "US": 213,
+    "US": 215,
     "GB": 324,
     "HK": 1,
     "SA": 98,
@@ -8904,14 +8904,14 @@
    "topics": {},
    "sources": {
     "Amwaj.media": 1,
-    "The Washington Post": 8,
+    "The Washington Post": 9,
     "BBC": 12,
     "Al-Monitor": 54,
     "WSJ": 41,
     "South China Morning Post": 1,
     "Bloomberg.com": 51,
     "AP News": 21,
-    "The New York Times": 28,
+    "The New York Times": 29,
     "Arab News": 95,
     "UA.NEWS": 2,
     "Investing.com": 2,
@@ -9046,7 +9046,7 @@
     ],
     "The Washington Post": [
      0,
-     8,
+     9,
      0
     ],
     "BBC": [
@@ -9081,7 +9081,7 @@
     ],
     "The New York Times": [
      0,
-     28,
+     29,
      0
     ],
     "Arab News": [
