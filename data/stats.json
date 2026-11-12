@@ -10592,11 +10592,11 @@
    }
   },
   "2026-11-12": {
-   "total": 470,
-   "news": 456,
+   "total": 472,
+   "news": 458,
    "articles": 14,
    "positive": 0,
-   "neutral": 470,
+   "neutral": 472,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -10681,7 +10681,7 @@
     "Fast Company Middle East": 2,
     "Military Africa": 1,
     "ThinkChina": 1,
-    "Egypt Today": 1,
+    "Egypt Today": 2,
     "Employee Happiness Daily": 1,
     "The Times of India": 1,
     "Business Insider Africa": 2,
@@ -10730,7 +10730,8 @@
     "The Times": 1,
     "RACER - Racing News": 1,
     "IndexBox": 1,
-    "Ahram Online": 1
+    "Ahram Online": 1,
+    "Jewish Post and News": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -11095,7 +11096,7 @@
     ],
     "Egypt Today": [
      0,
-     1,
+     2,
      0
     ],
     "Employee Happiness Daily": [
@@ -11339,6 +11340,11 @@
      0
     ],
     "Ahram Online": [
+     0,
+     1,
+     0
+    ],
+    "Jewish Post and News": [
      0,
      1,
      0
