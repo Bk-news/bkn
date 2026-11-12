@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 834,
-   "news": 829,
+   "total": 842,
+   "news": 837,
    "articles": 5,
    "positive": 0,
-   "neutral": 834,
+   "neutral": 842,
    "critical": 0,
    "mbs": 6,
    "countries": {
-    "US": 157,
+    "US": 158,
     "SA": 91,
-    "GB": 384,
+    "GB": 391,
     "JP": 1,
     "HK": 4,
     "FR": 7
@@ -9730,7 +9730,7 @@
    "topics": {},
    "sources": {
     "WSJ": 33,
-    "The New York Times": 13,
+    "The New York Times": 14,
     "Arab News": 86,
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
@@ -9738,7 +9738,7 @@
     "The Washington Post": 14,
     "AP News": 11,
     "Reuters": 100,
-    "The Guardian": 161,
+    "The Guardian": 168,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 2,
@@ -9881,7 +9881,7 @@
     ],
     "The New York Times": [
      0,
-     13,
+     14,
      0
     ],
     "Arab News": [
@@ -9921,7 +9921,7 @@
     ],
     "The Guardian": [
      0,
-     161,
+     168,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -10592,24 +10592,24 @@
    }
   },
   "2026-11-12": {
-   "total": 395,
-   "news": 381,
+   "total": 427,
+   "news": 413,
    "articles": 14,
    "positive": 0,
-   "neutral": 395,
+   "neutral": 427,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 150,
-    "US": 81,
+    "GB": 165,
+    "US": 82,
     "FR": 2,
-    "SA": 37,
+    "SA": 45,
     "HK": 3,
     "JP": 1
    },
    "topics": {},
    "sources": {
-    "Financial Times": 25,
+    "Financial Times": 29,
     "The Guardian": 51,
     "StreetInsider": 1,
     "Bloomberg": 1,
@@ -10622,19 +10622,19 @@
     "Saudi Gazette": 9,
     "Al-Monitor": 23,
     "The New York Times": 12,
-    "Reuters": 45,
-    "AP News": 7,
-    "Arab News": 35,
+    "Reuters": 54,
+    "AP News": 8,
+    "Arab News": 43,
     "South China Morning Post": 5,
     "Dealroom": 1,
     "Dubai Eye 103.8": 1,
-    "Gulf News": 2,
+    "Gulf News": 3,
     "www.transfermarkt.us": 1,
     "UA.NEWS": 3,
     "The Korea Times": 1,
     "RG.org": 1,
-    "Eurasia Review": 1,
-    "https://houseofsaud.com/": 4,
+    "Eurasia Review": 2,
+    "https://houseofsaud.com/": 5,
     "Yahoo Sports": 1,
     "The Jerusalem Post": 1,
     "Anadolu Ajansı": 2,
@@ -10656,7 +10656,7 @@
     "Investing.com UK": 1,
     "TheWire.in": 1,
     "Cranes Today": 1,
-    "FT Markets Data": 7,
+    "FT Markets Data": 10,
     "sanad.uk": 1,
     "Envanter Medya": 2,
     "Middle East Monitor": 2,
@@ -10716,12 +10716,16 @@
     "The Conversation": 1,
     "Phys.org": 1,
     "Haaretz": 1,
-    "Live Science": 1
+    "Live Science": 1,
+    "The Times of Israel": 1,
+    "Howl.Link": 1,
+    "United Nations Sustainable Development Group": 1,
+    "Latin Times": 1
    },
    "sourceTone": {
     "Financial Times": [
      0,
-     25,
+     29,
      0
     ],
     "The Guardian": [
@@ -10786,17 +10790,17 @@
     ],
     "Reuters": [
      0,
-     45,
+     54,
      0
     ],
     "AP News": [
      0,
-     7,
+     8,
      0
     ],
     "Arab News": [
      0,
-     35,
+     43,
      0
     ],
     "South China Morning Post": [
@@ -10816,7 +10820,7 @@
     ],
     "Gulf News": [
      0,
-     2,
+     3,
      0
     ],
     "www.transfermarkt.us": [
@@ -10841,12 +10845,12 @@
     ],
     "Eurasia Review": [
      0,
-     1,
+     2,
      0
     ],
     "https://houseofsaud.com/": [
      0,
-     4,
+     5,
      0
     ],
     "Yahoo Sports": [
@@ -10956,7 +10960,7 @@
     ],
     "FT Markets Data": [
      0,
-     7,
+     10,
      0
     ],
     "sanad.uk": [
@@ -11255,6 +11259,26 @@
      0
     ],
     "Live Science": [
+     0,
+     1,
+     0
+    ],
+    "The Times of Israel": [
+     0,
+     1,
+     0
+    ],
+    "Howl.Link": [
+     0,
+     1,
+     0
+    ],
+    "United Nations Sustainable Development Group": [
+     0,
+     1,
+     0
+    ],
+    "Latin Times": [
      0,
      1,
      0
