@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 877,
-   "news": 865,
+   "total": 878,
+   "news": 866,
    "articles": 12,
    "positive": 0,
-   "neutral": 877,
+   "neutral": 878,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 219,
-    "GB": 357,
+    "GB": 358,
     "HK": 1,
     "SA": 98,
     "FR": 7,
@@ -8905,7 +8905,7 @@
    "sources": {
     "Amwaj.media": 1,
     "The Washington Post": 9,
-    "BBC": 13,
+    "BBC": 14,
     "Al-Monitor": 55,
     "WSJ": 42,
     "South China Morning Post": 1,
@@ -9051,7 +9051,7 @@
     ],
     "BBC": [
      0,
-     13,
+     14,
      0
     ],
     "Al-Monitor": [
@@ -9712,16 +9712,16 @@
    }
   },
   "2026-11-11": {
-   "total": 793,
-   "news": 788,
+   "total": 794,
+   "news": 789,
    "articles": 5,
    "positive": 0,
-   "neutral": 793,
+   "neutral": 794,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "US": 153,
-    "SA": 88,
+    "SA": 89,
     "GB": 352,
     "JP": 1,
     "HK": 4,
@@ -9756,7 +9756,7 @@
     "The Economic Times": 1,
     "Financial Times": 108,
     "Cyprus Shipping News": 1,
-    "Saudi Gazette": 12,
+    "Saudi Gazette": 13,
     "Bloomberg.com": 36,
     "South China Morning Post": 4,
     "Le Monde.fr": 4,
@@ -10010,7 +10010,7 @@
     ],
     "Saudi Gazette": [
      0,
-     12,
+     13,
      0
     ],
     "Bloomberg.com": [
@@ -10586,11 +10586,11 @@
    }
   },
   "2026-11-12": {
-   "total": 78,
-   "news": 78,
+   "total": 79,
+   "news": 79,
    "articles": 0,
    "positive": 0,
-   "neutral": 78,
+   "neutral": 79,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -10638,7 +10638,8 @@
     "i24NEWS": 1,
     "The Soufan Center": 1,
     "houseofsaud.com": 1,
-    "Digital Watch Observatory": 1
+    "Digital Watch Observatory": 1,
+    "SolarQuarter": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -10827,6 +10828,11 @@
      0
     ],
     "Digital Watch Observatory": [
+     0,
+     1,
+     0
+    ],
+    "SolarQuarter": [
      0,
      1,
      0
