@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 874,
-   "news": 862,
+   "total": 875,
+   "news": 863,
    "articles": 12,
    "positive": 0,
-   "neutral": 874,
+   "neutral": 875,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 219,
-    "GB": 354,
+    "GB": 355,
     "HK": 1,
     "SA": 98,
     "FR": 7,
@@ -8929,7 +8929,7 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 2,
-    "Reuters": 142,
+    "Reuters": 143,
     "Gulf News": 4,
     "CGTN": 1,
     "Al Jazeera": 2,
@@ -9171,7 +9171,7 @@
     ],
     "Reuters": [
      0,
-     142,
+     143,
      0
     ],
     "Gulf News": [
@@ -10580,22 +10580,22 @@
    }
   },
   "2026-11-12": {
-   "total": 64,
-   "news": 64,
+   "total": 68,
+   "news": 68,
    "articles": 0,
    "positive": 0,
-   "neutral": 64,
+   "neutral": 68,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 29,
+    "GB": 30,
     "US": 11,
     "FR": 1,
     "SA": 4
    },
    "topics": {},
    "sources": {
-    "Financial Times": 10,
+    "Financial Times": 11,
     "The Guardian": 11,
     "StreetInsider": 1,
     "Bloomberg": 1,
@@ -10624,12 +10624,15 @@
     "Yahoo Sports": 1,
     "The Jerusalem Post": 1,
     "Anadolu Ajansı": 1,
-    "Middle East Eye": 1
+    "Middle East Eye": 1,
+    "www.thenationalnews.com": 1,
+    "Al Jazeera": 1,
+    "Arab News PK": 1
    },
    "sourceTone": {
     "Financial Times": [
      0,
-     10,
+     11,
      0
     ],
     "The Guardian": [
@@ -10773,6 +10776,21 @@
      0
     ],
     "Middle East Eye": [
+     0,
+     1,
+     0
+    ],
+    "www.thenationalnews.com": [
+     0,
+     1,
+     0
+    ],
+    "Al Jazeera": [
+     0,
+     1,
+     0
+    ],
+    "Arab News PK": [
      0,
      1,
      0
