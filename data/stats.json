@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 784,
-   "news": 779,
+   "total": 786,
+   "news": 781,
    "articles": 5,
    "positive": 0,
-   "neutral": 784,
+   "neutral": 786,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "US": 153,
     "SA": 87,
-    "GB": 345,
+    "GB": 347,
     "JP": 1,
     "HK": 4,
     "FR": 6
@@ -9738,7 +9738,7 @@
     "The Washington Post": 14,
     "AP News": 11,
     "Reuters": 87,
-    "The Guardian": 145,
+    "The Guardian": 147,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 2,
@@ -9919,7 +9919,7 @@
     ],
     "The Guardian": [
      0,
-     145,
+     147,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -10580,16 +10580,16 @@
    }
   },
   "2026-11-12": {
-   "total": 68,
-   "news": 68,
+   "total": 69,
+   "news": 69,
    "articles": 0,
    "positive": 0,
-   "neutral": 68,
+   "neutral": 69,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 30,
-    "US": 11,
+    "US": 12,
     "FR": 1,
     "SA": 4
    },
@@ -10602,7 +10602,7 @@
     "India Narrative": 1,
     "BBC": 3,
     "Oil & Gas Middle East": 1,
-    "WSJ": 4,
+    "WSJ": 5,
     "France 24": 1,
     "Bloomberg.com": 1,
     "Saudi Gazette": 1,
@@ -10667,7 +10667,7 @@
     ],
     "WSJ": [
      0,
-     4,
+     5,
      0
     ],
     "France 24": [
