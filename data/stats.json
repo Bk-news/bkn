@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 846,
-   "news": 834,
+   "total": 849,
+   "news": 837,
    "articles": 12,
    "positive": 0,
-   "neutral": 846,
+   "neutral": 849,
    "critical": 0,
    "mbs": 22,
    "countries": {
-    "US": 218,
-    "GB": 327,
+    "US": 219,
+    "GB": 329,
     "HK": 1,
     "SA": 98,
     "FR": 7,
@@ -8905,13 +8905,13 @@
    "sources": {
     "Amwaj.media": 1,
     "The Washington Post": 9,
-    "BBC": 12,
+    "BBC": 13,
     "Al-Monitor": 55,
     "WSJ": 42,
     "South China Morning Post": 1,
     "Bloomberg.com": 51,
     "AP News": 21,
-    "The New York Times": 30,
+    "The New York Times": 31,
     "Arab News": 95,
     "UA.NEWS": 2,
     "Investing.com": 2,
@@ -8929,7 +8929,7 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 2,
-    "Reuters": 136,
+    "Reuters": 137,
     "Gulf News": 4,
     "CGTN": 1,
     "Al Jazeera": 2,
@@ -9051,7 +9051,7 @@
     ],
     "BBC": [
      0,
-     12,
+     13,
      0
     ],
     "Al-Monitor": [
@@ -9081,7 +9081,7 @@
     ],
     "The New York Times": [
      0,
-     30,
+     31,
      0
     ],
     "Arab News": [
@@ -9171,7 +9171,7 @@
     ],
     "Reuters": [
      0,
-     136,
+     137,
      0
     ],
     "Gulf News": [
@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 736,
-   "news": 731,
+   "total": 761,
+   "news": 756,
    "articles": 5,
    "positive": 0,
-   "neutral": 736,
+   "neutral": 761,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "US": 151,
     "SA": 87,
-    "GB": 302,
+    "GB": 326,
     "JP": 1,
     "HK": 4,
     "FR": 6
@@ -9737,8 +9737,8 @@
     "Al-Monitor": 38,
     "The Washington Post": 14,
     "AP News": 11,
-    "Reuters": 78,
-    "The Guardian": 126,
+    "Reuters": 86,
+    "The Guardian": 133,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 2,
@@ -9754,7 +9754,7 @@
     "https://houseofsaud.com/": 5,
     "Arab News PK": 2,
     "The Economic Times": 1,
-    "Financial Times": 93,
+    "Financial Times": 102,
     "Cyprus Shipping News": 1,
     "Saudi Gazette": 12,
     "Bloomberg.com": 35,
@@ -9867,7 +9867,8 @@
     "Inspenet": 1,
     "Oman Observer": 1,
     "A News": 1,
-    "Briefs Finance": 1
+    "Briefs Finance": 1,
+    "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -9912,12 +9913,12 @@
     ],
     "Reuters": [
      0,
-     78,
+     86,
      0
     ],
     "The Guardian": [
      0,
-     126,
+     133,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -9997,7 +9998,7 @@
     ],
     "Financial Times": [
      0,
-     93,
+     102,
      0
     ],
     "Cyprus Shipping News": [
@@ -10564,33 +10565,38 @@
      0,
      1,
      0
+    ],
+    "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-12": {
-   "total": 38,
-   "news": 38,
+   "total": 50,
+   "news": 50,
    "articles": 0,
    "positive": 0,
-   "neutral": 38,
+   "neutral": 50,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 20,
-    "US": 9,
+    "GB": 22,
+    "US": 10,
     "FR": 1,
     "SA": 2
    },
    "topics": {},
    "sources": {
     "Financial Times": 9,
-    "The Guardian": 6,
+    "The Guardian": 8,
     "StreetInsider": 1,
     "Bloomberg": 1,
     "India Narrative": 1,
     "BBC": 3,
     "Oil & Gas Middle East": 1,
-    "WSJ": 2,
+    "WSJ": 3,
     "France 24": 1,
     "Bloomberg.com": 1,
     "Saudi Gazette": 1,
@@ -10598,9 +10604,17 @@
     "The New York Times": 3,
     "Reuters": 2,
     "AP News": 1,
-    "Arab News": 1,
+    "Arab News": 2,
     "South China Morning Post": 2,
-    "Dealroom": 1
+    "Dealroom": 1,
+    "Dubai Eye 103.8": 1,
+    "Gulf News": 1,
+    "www.transfermarkt.us": 1,
+    "UA.NEWS": 1,
+    "The Korea Times": 1,
+    "RG.org": 1,
+    "Eurasia Review": 1,
+    "https://houseofsaud.com/": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -10610,7 +10624,7 @@
     ],
     "The Guardian": [
      0,
-     6,
+     8,
      0
     ],
     "StreetInsider": [
@@ -10640,7 +10654,7 @@
     ],
     "WSJ": [
      0,
-     2,
+     3,
      0
     ],
     "France 24": [
@@ -10680,7 +10694,7 @@
     ],
     "Arab News": [
      0,
-     1,
+     2,
      0
     ],
     "South China Morning Post": [
@@ -10689,6 +10703,46 @@
      0
     ],
     "Dealroom": [
+     0,
+     1,
+     0
+    ],
+    "Dubai Eye 103.8": [
+     0,
+     1,
+     0
+    ],
+    "Gulf News": [
+     0,
+     1,
+     0
+    ],
+    "www.transfermarkt.us": [
+     0,
+     1,
+     0
+    ],
+    "UA.NEWS": [
+     0,
+     1,
+     0
+    ],
+    "The Korea Times": [
+     0,
+     1,
+     0
+    ],
+    "RG.org": [
+     0,
+     1,
+     0
+    ],
+    "Eurasia Review": [
+     0,
+     1,
+     0
+    ],
+    "https://houseofsaud.com/": [
      0,
      1,
      0
