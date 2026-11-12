@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 879,
-   "news": 867,
+   "total": 889,
+   "news": 877,
    "articles": 12,
    "positive": 0,
-   "neutral": 879,
+   "neutral": 889,
    "critical": 0,
    "mbs": 22,
    "countries": {
-    "US": 220,
-    "GB": 358,
+    "US": 221,
+    "GB": 367,
     "HK": 1,
     "SA": 98,
     "FR": 7,
@@ -8910,7 +8910,7 @@
     "WSJ": 43,
     "South China Morning Post": 1,
     "Bloomberg.com": 51,
-    "AP News": 21,
+    "AP News": 22,
     "The New York Times": 31,
     "Arab News": 95,
     "UA.NEWS": 2,
@@ -8929,14 +8929,14 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 2,
-    "Reuters": 143,
+    "Reuters": 147,
     "Gulf News": 4,
     "CGTN": 1,
     "Al Jazeera": 2,
     "TRT World": 1,
     "Asset Servicing Times": 1,
     "Saudi Gazette": 16,
-    "Financial Times": 61,
+    "Financial Times": 63,
     "CNN": 4,
     "France 24": 4,
     "Fana News -": 1,
@@ -8980,7 +8980,7 @@
     "Forbes Middle East": 2,
     "TV7 Israel News": 1,
     "News of Bahrain": 1,
-    "The Guardian": 141,
+    "The Guardian": 144,
     "Foreign Policy": 2,
     "صحيفة سبق الإلكترونية": 1,
     "thetruthaboutcars.com": 1,
@@ -9076,7 +9076,7 @@
     ],
     "AP News": [
      0,
-     21,
+     22,
      0
     ],
     "The New York Times": [
@@ -9171,7 +9171,7 @@
     ],
     "Reuters": [
      0,
-     143,
+     147,
      0
     ],
     "Gulf News": [
@@ -9206,7 +9206,7 @@
     ],
     "Financial Times": [
      0,
-     61,
+     63,
      0
     ],
     "CNN": [
@@ -9426,7 +9426,7 @@
     ],
     "The Guardian": [
      0,
-     141,
+     144,
      0
     ],
     "Foreign Policy": [
@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 807,
-   "news": 802,
+   "total": 815,
+   "news": 810,
    "articles": 5,
    "positive": 0,
-   "neutral": 807,
+   "neutral": 815,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "US": 155,
     "SA": 90,
-    "GB": 362,
+    "GB": 370,
     "JP": 1,
     "HK": 4,
     "FR": 6
@@ -9737,8 +9737,8 @@
     "Al-Monitor": 38,
     "The Washington Post": 14,
     "AP News": 11,
-    "Reuters": 87,
-    "The Guardian": 156,
+    "Reuters": 94,
+    "The Guardian": 157,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 2,
@@ -9915,12 +9915,12 @@
     ],
     "Reuters": [
      0,
-     87,
+     94,
      0
     ],
     "The Guardian": [
      0,
-     156,
+     157,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -10586,24 +10586,24 @@
    }
   },
   "2026-11-12": {
-   "total": 185,
-   "news": 183,
+   "total": 207,
+   "news": 205,
    "articles": 2,
    "positive": 0,
-   "neutral": 185,
+   "neutral": 207,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 79,
+    "GB": 82,
     "US": 39,
     "FR": 1,
-    "SA": 14,
+    "SA": 15,
     "HK": 3
    },
    "topics": {},
    "sources": {
     "Financial Times": 19,
-    "The Guardian": 26,
+    "The Guardian": 28,
     "StreetInsider": 1,
     "Bloomberg": 1,
     "India Narrative": 1,
@@ -10611,13 +10611,13 @@
     "Oil & Gas Middle East": 1,
     "WSJ": 8,
     "France 24": 1,
-    "Bloomberg.com": 10,
+    "Bloomberg.com": 11,
     "Saudi Gazette": 5,
     "Al-Monitor": 9,
     "The New York Times": 8,
-    "Reuters": 22,
+    "Reuters": 23,
     "AP News": 1,
-    "Arab News": 11,
+    "Arab News": 13,
     "South China Morning Post": 5,
     "Dealroom": 1,
     "Dubai Eye 103.8": 1,
@@ -10627,7 +10627,7 @@
     "The Korea Times": 1,
     "RG.org": 1,
     "Eurasia Review": 1,
-    "https://houseofsaud.com/": 2,
+    "https://houseofsaud.com/": 3,
     "Yahoo Sports": 1,
     "The Jerusalem Post": 1,
     "Anadolu Ajansı": 1,
@@ -10652,7 +10652,7 @@
     "FT Markets Data": 2,
     "sanad.uk": 1,
     "Envanter Medya": 2,
-    "Middle East Monitor": 1,
+    "Middle East Monitor": 2,
     "USA Today": 1,
     "وكالة الأنباء السعودية": 1,
     "A News": 1,
@@ -10661,7 +10661,20 @@
     "GPblog": 1,
     "Grande Prêmio": 1,
     "Arabian Business": 1,
-    "وكالة الانباء الاردنية": 1
+    "وكالة الانباء الاردنية": 1,
+    "Egyptian Gazette": 1,
+    "Rus Tourism News": 1,
+    "The National": 2,
+    "Egypt Independent": 1,
+    "ITP.net": 1,
+    "Sportstar": 1,
+    "The Diplomatic Insight": 1,
+    "Middle East Online": 1,
+    "LiveScore": 1,
+    "Fast Company Middle East": 1,
+    "Military Africa": 1,
+    "ThinkChina": 1,
+    "Egypt Today": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -10671,7 +10684,7 @@
     ],
     "The Guardian": [
      0,
-     26,
+     28,
      0
     ],
     "StreetInsider": [
@@ -10711,7 +10724,7 @@
     ],
     "Bloomberg.com": [
      0,
-     10,
+     11,
      0
     ],
     "Saudi Gazette": [
@@ -10731,7 +10744,7 @@
     ],
     "Reuters": [
      0,
-     22,
+     23,
      0
     ],
     "AP News": [
@@ -10741,7 +10754,7 @@
     ],
     "Arab News": [
      0,
-     11,
+     13,
      0
     ],
     "South China Morning Post": [
@@ -10791,7 +10804,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     2,
+     3,
      0
     ],
     "Yahoo Sports": [
@@ -10916,7 +10929,7 @@
     ],
     "Middle East Monitor": [
      0,
-     1,
+     2,
      0
     ],
     "USA Today": [
@@ -10960,6 +10973,71 @@
      0
     ],
     "وكالة الانباء الاردنية": [
+     0,
+     1,
+     0
+    ],
+    "Egyptian Gazette": [
+     0,
+     1,
+     0
+    ],
+    "Rus Tourism News": [
+     0,
+     1,
+     0
+    ],
+    "The National": [
+     0,
+     2,
+     0
+    ],
+    "Egypt Independent": [
+     0,
+     1,
+     0
+    ],
+    "ITP.net": [
+     0,
+     1,
+     0
+    ],
+    "Sportstar": [
+     0,
+     1,
+     0
+    ],
+    "The Diplomatic Insight": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Online": [
+     0,
+     1,
+     0
+    ],
+    "LiveScore": [
+     0,
+     1,
+     0
+    ],
+    "Fast Company Middle East": [
+     0,
+     1,
+     0
+    ],
+    "Military Africa": [
+     0,
+     1,
+     0
+    ],
+    "ThinkChina": [
+     0,
+     1,
+     0
+    ],
+    "Egypt Today": [
      0,
      1,
      0
