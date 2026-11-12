@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 642,
-   "news": 637,
+   "total": 644,
+   "news": 639,
    "articles": 5,
    "positive": 0,
-   "neutral": 642,
+   "neutral": 644,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "US": 144,
     "SA": 78,
-    "GB": 231,
+    "GB": 233,
     "JP": 1,
     "HK": 4,
     "FR": 4
@@ -9754,7 +9754,7 @@
     "https://houseofsaud.com/": 5,
     "Arab News PK": 2,
     "The Economic Times": 1,
-    "Financial Times": 39,
+    "Financial Times": 41,
     "Cyprus Shipping News": 1,
     "Saudi Gazette": 12,
     "Bloomberg.com": 33,
@@ -9995,7 +9995,7 @@
     ],
     "Financial Times": [
      0,
-     39,
+     41,
      0
     ],
     "Cyprus Shipping News": [
