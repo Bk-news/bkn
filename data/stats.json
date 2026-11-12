@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 822,
-   "news": 817,
+   "total": 823,
+   "news": 818,
    "articles": 5,
    "positive": 0,
-   "neutral": 822,
+   "neutral": 823,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "US": 156,
     "SA": 90,
-    "GB": 375,
+    "GB": 376,
     "JP": 1,
     "HK": 4,
     "FR": 6
@@ -9737,7 +9737,7 @@
     "Al-Monitor": 38,
     "The Washington Post": 14,
     "AP News": 11,
-    "Reuters": 96,
+    "Reuters": 97,
     "The Guardian": 158,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
@@ -9916,7 +9916,7 @@
     ],
     "Reuters": [
      0,
-     96,
+     97,
      0
     ],
     "The Guardian": [
@@ -10592,16 +10592,16 @@
    }
   },
   "2026-11-12": {
-   "total": 244,
-   "news": 242,
+   "total": 247,
+   "news": 245,
    "articles": 2,
    "positive": 0,
-   "neutral": 244,
+   "neutral": 247,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "GB": 96,
-    "US": 41,
+    "US": 42,
     "FR": 1,
     "SA": 15,
     "HK": 3
@@ -10617,7 +10617,7 @@
     "Oil & Gas Middle East": 1,
     "WSJ": 9,
     "France 24": 1,
-    "Bloomberg.com": 12,
+    "Bloomberg.com": 13,
     "Saudi Gazette": 5,
     "Al-Monitor": 9,
     "The New York Times": 8,
@@ -10695,7 +10695,9 @@
     "Kurdistan24": 1,
     "Zawya": 1,
     "The New Arab": 1,
-    "blue News": 1
+    "blue News": 1,
+    "TRT World": 1,
+    "Semafor": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -10745,7 +10747,7 @@
     ],
     "Bloomberg.com": [
      0,
-     12,
+     13,
      0
     ],
     "Saudi Gazette": [
@@ -11134,6 +11136,16 @@
      0
     ],
     "blue News": [
+     0,
+     1,
+     0
+    ],
+    "TRT World": [
+     0,
+     1,
+     0
+    ],
+    "Semafor": [
      0,
      1,
      0
