@@ -10580,11 +10580,11 @@
    }
   },
   "2026-11-12": {
-   "total": 69,
-   "news": 69,
+   "total": 71,
+   "news": 71,
    "articles": 0,
    "positive": 0,
-   "neutral": 69,
+   "neutral": 71,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -10627,7 +10627,9 @@
     "Middle East Eye": 1,
     "www.thenationalnews.com": 1,
     "Al Jazeera": 1,
-    "Arab News PK": 1
+    "Arab News PK": 1,
+    "Healthcare Asia Magazine": 1,
+    "i24NEWS": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -10791,6 +10793,16 @@
      0
     ],
     "Arab News PK": [
+     0,
+     1,
+     0
+    ],
+    "Healthcare Asia Magazine": [
+     0,
+     1,
+     0
+    ],
+    "i24NEWS": [
      0,
      1,
      0
