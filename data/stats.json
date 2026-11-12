@@ -8886,15 +8886,15 @@
    }
   },
   "2026-11-10": {
-   "total": 844,
-   "news": 832,
+   "total": 846,
+   "news": 834,
    "articles": 12,
    "positive": 0,
-   "neutral": 844,
+   "neutral": 846,
    "critical": 0,
    "mbs": 22,
    "countries": {
-    "US": 216,
+    "US": 218,
     "GB": 327,
     "HK": 1,
     "SA": 98,
@@ -8906,8 +8906,8 @@
     "Amwaj.media": 1,
     "The Washington Post": 9,
     "BBC": 12,
-    "Al-Monitor": 54,
-    "WSJ": 41,
+    "Al-Monitor": 55,
+    "WSJ": 42,
     "South China Morning Post": 1,
     "Bloomberg.com": 51,
     "AP News": 21,
@@ -9056,12 +9056,12 @@
     ],
     "Al-Monitor": [
      0,
-     54,
+     55,
      0
     ],
     "WSJ": [
      0,
-     41,
+     42,
      0
     ],
     "South China Morning Post": [
@@ -9712,32 +9712,32 @@
    }
   },
   "2026-11-11": {
-   "total": 724,
-   "news": 719,
+   "total": 736,
+   "news": 731,
    "articles": 5,
    "positive": 0,
-   "neutral": 724,
+   "neutral": 736,
    "critical": 0,
-   "mbs": 4,
+   "mbs": 6,
    "countries": {
-    "US": 146,
-    "SA": 85,
-    "GB": 301,
+    "US": 151,
+    "SA": 87,
+    "GB": 302,
     "JP": 1,
     "HK": 4,
-    "FR": 5
+    "FR": 6
    },
    "topics": {},
    "sources": {
-    "WSJ": 30,
+    "WSJ": 31,
     "The New York Times": 13,
-    "Arab News": 81,
+    "Arab News": 83,
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
     "Al-Monitor": 38,
-    "The Washington Post": 13,
-    "AP News": 10,
-    "Reuters": 77,
+    "The Washington Post": 14,
+    "AP News": 11,
+    "Reuters": 78,
     "The Guardian": 126,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
@@ -9757,9 +9757,9 @@
     "Financial Times": 93,
     "Cyprus Shipping News": 1,
     "Saudi Gazette": 12,
-    "Bloomberg.com": 33,
+    "Bloomberg.com": 35,
     "South China Morning Post": 4,
-    "Le Monde.fr": 3,
+    "Le Monde.fr": 4,
     "Mining.com.au": 1,
     "The Week": 1,
     "Construction Review": 2,
@@ -9843,7 +9843,7 @@
     "Goal.com": 3,
     "https://internationalfinance.com/": 1,
     "Best Selling Cars Blog": 1,
-    "وكالة الأنباء السعودية": 1,
+    "وكالة الأنباء السعودية": 4,
     "marketscreener.com": 1,
     "Metro.co.uk": 1,
     "The Times of Israel": 1,
@@ -9872,7 +9872,7 @@
    "sourceTone": {
     "WSJ": [
      0,
-     30,
+     31,
      0
     ],
     "The New York Times": [
@@ -9882,7 +9882,7 @@
     ],
     "Arab News": [
      0,
-     81,
+     83,
      0
     ],
     "www.thenewworld.co.uk": [
@@ -9902,17 +9902,17 @@
     ],
     "The Washington Post": [
      0,
-     13,
+     14,
      0
     ],
     "AP News": [
      0,
-     10,
+     11,
      0
     ],
     "Reuters": [
      0,
-     77,
+     78,
      0
     ],
     "The Guardian": [
@@ -10012,7 +10012,7 @@
     ],
     "Bloomberg.com": [
      0,
-     33,
+     35,
      0
     ],
     "South China Morning Post": [
@@ -10022,7 +10022,7 @@
     ],
     "Le Monde.fr": [
      0,
-     3,
+     4,
      0
     ],
     "Mining.com.au": [
@@ -10442,7 +10442,7 @@
     ],
     "وكالة الأنباء السعودية": [
      0,
-     1,
+     4,
      0
     ],
     "marketscreener.com": [
@@ -10568,35 +10568,49 @@
    }
   },
   "2026-11-12": {
-   "total": 12,
-   "news": 12,
+   "total": 38,
+   "news": 38,
    "articles": 0,
    "positive": 0,
-   "neutral": 12,
+   "neutral": 38,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 9,
-    "US": 1
+    "GB": 20,
+    "US": 9,
+    "FR": 1,
+    "SA": 2
    },
    "topics": {},
    "sources": {
-    "Financial Times": 6,
-    "The Guardian": 2,
+    "Financial Times": 9,
+    "The Guardian": 6,
     "StreetInsider": 1,
     "Bloomberg": 1,
     "India Narrative": 1,
-    "BBC": 1
+    "BBC": 3,
+    "Oil & Gas Middle East": 1,
+    "WSJ": 2,
+    "France 24": 1,
+    "Bloomberg.com": 1,
+    "Saudi Gazette": 1,
+    "Al-Monitor": 1,
+    "The New York Times": 3,
+    "Reuters": 2,
+    "AP News": 1,
+    "Arab News": 1,
+    "South China Morning Post": 2,
+    "Dealroom": 1
    },
    "sourceTone": {
     "Financial Times": [
      0,
-     6,
+     9,
      0
     ],
     "The Guardian": [
      0,
-     2,
+     6,
      0
     ],
     "StreetInsider": [
@@ -10615,6 +10629,66 @@
      0
     ],
     "BBC": [
+     0,
+     3,
+     0
+    ],
+    "Oil & Gas Middle East": [
+     0,
+     1,
+     0
+    ],
+    "WSJ": [
+     0,
+     2,
+     0
+    ],
+    "France 24": [
+     0,
+     1,
+     0
+    ],
+    "Bloomberg.com": [
+     0,
+     1,
+     0
+    ],
+    "Saudi Gazette": [
+     0,
+     1,
+     0
+    ],
+    "Al-Monitor": [
+     0,
+     1,
+     0
+    ],
+    "The New York Times": [
+     0,
+     3,
+     0
+    ],
+    "Reuters": [
+     0,
+     2,
+     0
+    ],
+    "AP News": [
+     0,
+     1,
+     0
+    ],
+    "Arab News": [
+     0,
+     1,
+     0
+    ],
+    "South China Morning Post": [
+     0,
+     2,
+     0
+    ],
+    "Dealroom": [
      0,
      1,
      0
