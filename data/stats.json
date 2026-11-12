@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 823,
-   "news": 818,
+   "total": 824,
+   "news": 819,
    "articles": 5,
    "positive": 0,
-   "neutral": 823,
+   "neutral": 824,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "US": 156,
     "SA": 90,
-    "GB": 376,
+    "GB": 377,
     "JP": 1,
     "HK": 4,
     "FR": 6
@@ -9737,7 +9737,7 @@
     "Al-Monitor": 38,
     "The Washington Post": 14,
     "AP News": 11,
-    "Reuters": 97,
+    "Reuters": 98,
     "The Guardian": 158,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
@@ -9916,7 +9916,7 @@
     ],
     "Reuters": [
      0,
-     97,
+     98,
      0
     ],
     "The Guardian": [
@@ -10592,24 +10592,24 @@
    }
   },
   "2026-11-12": {
-   "total": 249,
-   "news": 247,
+   "total": 259,
+   "news": 257,
    "articles": 2,
    "positive": 0,
-   "neutral": 249,
+   "neutral": 259,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 96,
-    "US": 42,
+    "GB": 97,
+    "US": 43,
     "FR": 1,
-    "SA": 15,
+    "SA": 18,
     "HK": 3
    },
    "topics": {},
    "sources": {
     "Financial Times": 20,
-    "The Guardian": 31,
+    "The Guardian": 32,
     "StreetInsider": 1,
     "Bloomberg": 1,
     "India Narrative": 1,
@@ -10617,13 +10617,13 @@
     "Oil & Gas Middle East": 1,
     "WSJ": 9,
     "France 24": 1,
-    "Bloomberg.com": 13,
+    "Bloomberg.com": 14,
     "Saudi Gazette": 5,
     "Al-Monitor": 9,
     "The New York Times": 8,
     "Reuters": 30,
     "AP News": 1,
-    "Arab News": 14,
+    "Arab News": 18,
     "South China Morning Post": 5,
     "Dealroom": 1,
     "Dubai Eye 103.8": 1,
@@ -10698,7 +10698,10 @@
     "blue News": 1,
     "TRT World": 1,
     "Semafor": 1,
-    "www.calcalistech.com": 1
+    "www.calcalistech.com": 1,
+    "The Express Tribune": 2,
+    "Campaign Middle East": 1,
+    "Travel Daily News International": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -10708,7 +10711,7 @@
     ],
     "The Guardian": [
      0,
-     31,
+     32,
      0
     ],
     "StreetInsider": [
@@ -10748,7 +10751,7 @@
     ],
     "Bloomberg.com": [
      0,
-     13,
+     14,
      0
     ],
     "Saudi Gazette": [
@@ -10778,7 +10781,7 @@
     ],
     "Arab News": [
      0,
-     14,
+     18,
      0
     ],
     "South China Morning Post": [
@@ -11152,6 +11155,21 @@
      0
     ],
     "www.calcalistech.com": [
+     0,
+     1,
+     0
+    ],
+    "The Express Tribune": [
+     0,
+     2,
+     0
+    ],
+    "Campaign Middle East": [
+     0,
+     1,
+     0
+    ],
+    "Travel Daily News International": [
      0,
      1,
      0
