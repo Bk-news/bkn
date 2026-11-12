@@ -10592,15 +10592,15 @@
    }
   },
   "2026-11-12": {
-   "total": 267,
-   "news": 265,
+   "total": 272,
+   "news": 270,
    "articles": 2,
    "positive": 0,
-   "neutral": 267,
+   "neutral": 272,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 102,
+    "GB": 104,
     "US": 43,
     "FR": 1,
     "SA": 20,
@@ -10609,7 +10609,7 @@
    "topics": {},
    "sources": {
     "Financial Times": 21,
-    "The Guardian": 35,
+    "The Guardian": 36,
     "StreetInsider": 1,
     "Bloomberg": 1,
     "India Narrative": 1,
@@ -10627,7 +10627,7 @@
     "South China Morning Post": 5,
     "Dealroom": 1,
     "Dubai Eye 103.8": 1,
-    "Gulf News": 1,
+    "Gulf News": 2,
     "www.transfermarkt.us": 1,
     "UA.NEWS": 1,
     "The Korea Times": 1,
@@ -10655,7 +10655,7 @@
     "Investing.com UK": 1,
     "TheWire.in": 1,
     "Cranes Today": 1,
-    "FT Markets Data": 6,
+    "FT Markets Data": 7,
     "sanad.uk": 1,
     "Envanter Medya": 2,
     "Middle East Monitor": 2,
@@ -10701,7 +10701,9 @@
     "www.calcalistech.com": 1,
     "The Express Tribune": 2,
     "Campaign Middle East": 1,
-    "Travel Daily News International": 1
+    "Travel Daily News International": 1,
+    "Goal.com": 1,
+    "Travel & Tourism News Middle East": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -10711,7 +10713,7 @@
     ],
     "The Guardian": [
      0,
-     35,
+     36,
      0
     ],
     "StreetInsider": [
@@ -10801,7 +10803,7 @@
     ],
     "Gulf News": [
      0,
-     1,
+     2,
      0
     ],
     "www.transfermarkt.us": [
@@ -10941,7 +10943,7 @@
     ],
     "FT Markets Data": [
      0,
-     6,
+     7,
      0
     ],
     "sanad.uk": [
@@ -11170,6 +11172,16 @@
      0
     ],
     "Travel Daily News International": [
+     0,
+     1,
+     0
+    ],
+    "Goal.com": [
+     0,
+     1,
+     0
+    ],
+    "Travel & Tourism News Middle East": [
      0,
      1,
      0
