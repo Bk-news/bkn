@@ -1304,6 +1304,27 @@
    "mt": true
   },
   {
+   "id": "335e30cbfdf8e0f2",
+   "origin": "rss",
+   "source": "Reuters",
+   "author": "",
+   "title_ar": "يقول السيناتور إن الديمقراطيين قد يحتاجون إلى إبرام اتفاق مع ترامب بشأن الهجرة",
+   "title_orig": "Democrats may need to cut deal with Trump on immigration, says senator",
+   "title_en": "Democrats may need to cut deal with Trump on immigration, says senator",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5INUxUWnRxbXkyQ1pFYVdsdmVORkR5cXhSbm9rQ21yZ1lCbEpmVG5xZThZU3M0b1ZBaEtvdkREZ2pqbndPa005NUhTdnNWM2FYM3Rva2RXMHZ3WUtrRmVaSVViU3hLY0E?oc=5",
+   "published": "2026-11-11T21:08:58.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "Democrats may need to cut deal with Trump on immigration, says senator &nbsp;&nbsp; Reuters",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "9c431e3a214a19cf",
    "origin": "rss",
    "source": "Financial Times",
