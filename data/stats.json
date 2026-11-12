@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 860,
-   "news": 855,
+   "total": 861,
+   "news": 856,
    "articles": 5,
    "positive": 0,
-   "neutral": 860,
+   "neutral": 861,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "US": 161,
     "SA": 91,
-    "GB": 405,
+    "GB": 406,
     "JP": 1,
     "HK": 5,
     "FR": 7
@@ -9738,7 +9738,7 @@
     "The Washington Post": 15,
     "AP News": 12,
     "Reuters": 106,
-    "The Guardian": 176,
+    "The Guardian": 177,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 2,
@@ -9921,7 +9921,7 @@
     ],
     "The Guardian": [
      0,
-     176,
+     177,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -10592,18 +10592,18 @@
    }
   },
   "2026-11-12": {
-   "total": 483,
-   "news": 468,
+   "total": 485,
+   "news": 470,
    "articles": 15,
    "positive": 0,
-   "neutral": 483,
+   "neutral": 485,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "GB": 192,
-    "US": 85,
+    "US": 86,
     "FR": 2,
-    "SA": 47,
+    "SA": 48,
     "HK": 3,
     "JP": 1
    },
@@ -10624,7 +10624,7 @@
     "The New York Times": 13,
     "Reuters": 69,
     "AP News": 8,
-    "Arab News": 46,
+    "Arab News": 47,
     "South China Morning Post": 5,
     "Dealroom": 1,
     "Dubai Eye 103.8": 1,
@@ -10649,7 +10649,7 @@
     "Digital Watch Observatory": 1,
     "SolarQuarter": 1,
     "Investing.com": 1,
-    "The Washington Post": 2,
+    "The Washington Post": 3,
     "The Economist": 13,
     "Time Magazine": 1,
     "CNN": 4,
@@ -10811,7 +10811,7 @@
     ],
     "Arab News": [
      0,
-     46,
+     47,
      0
     ],
     "South China Morning Post": [
@@ -10936,7 +10936,7 @@
     ],
     "The Washington Post": [
      0,
-     2,
+     3,
      0
     ],
     "The Economist": [
