@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 869,
-   "news": 857,
+   "total": 871,
+   "news": 859,
    "articles": 12,
    "positive": 0,
-   "neutral": 869,
+   "neutral": 871,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 219,
-    "GB": 349,
+    "GB": 351,
     "HK": 1,
     "SA": 98,
     "FR": 7,
@@ -8929,7 +8929,7 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 2,
-    "Reuters": 141,
+    "Reuters": 142,
     "Gulf News": 4,
     "CGTN": 1,
     "Al Jazeera": 2,
@@ -8980,7 +8980,7 @@
     "Forbes Middle East": 2,
     "TV7 Israel News": 1,
     "News of Bahrain": 1,
-    "The Guardian": 136,
+    "The Guardian": 137,
     "Foreign Policy": 2,
     "صحيفة سبق الإلكترونية": 1,
     "thetruthaboutcars.com": 1,
@@ -9171,7 +9171,7 @@
     ],
     "Reuters": [
      0,
-     141,
+     142,
      0
     ],
     "Gulf News": [
@@ -9426,7 +9426,7 @@
     ],
     "The Guardian": [
      0,
-     136,
+     137,
      0
     ],
     "Foreign Policy": [
@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 777,
-   "news": 772,
+   "total": 780,
+   "news": 775,
    "articles": 5,
    "positive": 0,
-   "neutral": 777,
+   "neutral": 780,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "US": 152,
     "SA": 87,
-    "GB": 339,
+    "GB": 342,
     "JP": 1,
     "HK": 4,
     "FR": 6
@@ -9738,7 +9738,7 @@
     "The Washington Post": 14,
     "AP News": 11,
     "Reuters": 86,
-    "The Guardian": 140,
+    "The Guardian": 143,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 2,
@@ -9919,7 +9919,7 @@
     ],
     "The Guardian": [
      0,
-     140,
+     143,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -10580,15 +10580,15 @@
    }
   },
   "2026-11-12": {
-   "total": 56,
-   "news": 56,
+   "total": 57,
+   "news": 57,
    "articles": 0,
    "positive": 0,
-   "neutral": 56,
+   "neutral": 57,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 24,
+    "GB": 25,
     "US": 10,
     "FR": 1,
     "SA": 2
@@ -10596,7 +10596,7 @@
    "topics": {},
    "sources": {
     "Financial Times": 9,
-    "The Guardian": 9,
+    "The Guardian": 10,
     "StreetInsider": 1,
     "Bloomberg": 1,
     "India Narrative": 1,
@@ -10634,7 +10634,7 @@
     ],
     "The Guardian": [
      0,
-     9,
+     10,
      0
     ],
     "StreetInsider": [
