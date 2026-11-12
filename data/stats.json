@@ -9712,19 +9712,19 @@
    }
   },
   "2026-11-11": {
-   "total": 858,
-   "news": 853,
+   "total": 860,
+   "news": 855,
    "articles": 5,
    "positive": 0,
-   "neutral": 858,
+   "neutral": 860,
    "critical": 0,
    "mbs": 6,
    "countries": {
-    "US": 160,
+    "US": 161,
     "SA": 91,
     "GB": 405,
     "JP": 1,
-    "HK": 4,
+    "HK": 5,
     "FR": 7
    },
    "topics": {},
@@ -9736,7 +9736,7 @@
     "Yieh Corp.": 1,
     "Al-Monitor": 39,
     "The Washington Post": 15,
-    "AP News": 11,
+    "AP News": 12,
     "Reuters": 106,
     "The Guardian": 176,
     "Tavern of the Taeguk Warriors": 1,
@@ -9758,7 +9758,7 @@
     "Cyprus Shipping News": 1,
     "Saudi Gazette": 13,
     "Bloomberg.com": 38,
-    "South China Morning Post": 4,
+    "South China Morning Post": 5,
     "Le Monde.fr": 5,
     "Mining.com.au": 1,
     "The Week": 1,
@@ -9911,7 +9911,7 @@
     ],
     "AP News": [
      0,
-     11,
+     12,
      0
     ],
     "Reuters": [
@@ -10021,7 +10021,7 @@
     ],
     "South China Morning Post": [
      0,
-     4,
+     5,
      0
     ],
     "Le Monde.fr": [
@@ -10592,15 +10592,15 @@
    }
   },
   "2026-11-12": {
-   "total": 479,
-   "news": 464,
+   "total": 481,
+   "news": 466,
    "articles": 15,
    "positive": 0,
-   "neutral": 479,
+   "neutral": 481,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "GB": 190,
+    "GB": 191,
     "US": 84,
     "FR": 2,
     "SA": 47,
@@ -10622,7 +10622,7 @@
     "Saudi Gazette": 10,
     "Al-Monitor": 24,
     "The New York Times": 12,
-    "Reuters": 68,
+    "Reuters": 69,
     "AP News": 8,
     "Arab News": 46,
     "South China Morning Post": 5,
@@ -10667,7 +10667,7 @@
     "PV Tech": 1,
     "GPblog": 1,
     "Grande Prêmio": 1,
-    "Arabian Business": 2,
+    "Arabian Business": 3,
     "وكالة الانباء الاردنية": 1,
     "Egyptian Gazette": 1,
     "Rus Tourism News": 1,
@@ -10801,7 +10801,7 @@
     ],
     "Reuters": [
      0,
-     68,
+     69,
      0
     ],
     "AP News": [
@@ -11026,7 +11026,7 @@
     ],
     "Arabian Business": [
      0,
-     2,
+     3,
      0
     ],
     "وكالة الانباء الاردنية": [
