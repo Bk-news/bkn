@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 849,
-   "news": 837,
+   "total": 869,
+   "news": 857,
    "articles": 12,
    "positive": 0,
-   "neutral": 849,
+   "neutral": 869,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 219,
-    "GB": 329,
+    "GB": 349,
     "HK": 1,
     "SA": 98,
     "FR": 7,
@@ -8929,14 +8929,14 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 2,
-    "Reuters": 137,
+    "Reuters": 141,
     "Gulf News": 4,
     "CGTN": 1,
     "Al Jazeera": 2,
     "TRT World": 1,
     "Asset Servicing Times": 1,
     "Saudi Gazette": 16,
-    "Financial Times": 51,
+    "Financial Times": 60,
     "CNN": 4,
     "France 24": 4,
     "Fana News -": 1,
@@ -8980,7 +8980,7 @@
     "Forbes Middle East": 2,
     "TV7 Israel News": 1,
     "News of Bahrain": 1,
-    "The Guardian": 129,
+    "The Guardian": 136,
     "Foreign Policy": 2,
     "صحيفة سبق الإلكترونية": 1,
     "thetruthaboutcars.com": 1,
@@ -9171,7 +9171,7 @@
     ],
     "Reuters": [
      0,
-     137,
+     141,
      0
     ],
     "Gulf News": [
@@ -9206,7 +9206,7 @@
     ],
     "Financial Times": [
      0,
-     51,
+     60,
      0
     ],
     "CNN": [
@@ -9426,7 +9426,7 @@
     ],
     "The Guardian": [
      0,
-     129,
+     136,
      0
     ],
     "Foreign Policy": [
@@ -9712,24 +9712,24 @@
    }
   },
   "2026-11-11": {
-   "total": 761,
-   "news": 756,
+   "total": 774,
+   "news": 769,
    "articles": 5,
    "positive": 0,
-   "neutral": 761,
+   "neutral": 774,
    "critical": 0,
    "mbs": 6,
    "countries": {
-    "US": 151,
+    "US": 152,
     "SA": 87,
-    "GB": 326,
+    "GB": 336,
     "JP": 1,
     "HK": 4,
     "FR": 6
    },
    "topics": {},
    "sources": {
-    "WSJ": 31,
+    "WSJ": 32,
     "The New York Times": 13,
     "Arab News": 83,
     "www.thenewworld.co.uk": 1,
@@ -9738,7 +9738,7 @@
     "The Washington Post": 14,
     "AP News": 11,
     "Reuters": 86,
-    "The Guardian": 133,
+    "The Guardian": 137,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 2,
@@ -9754,7 +9754,7 @@
     "https://houseofsaud.com/": 5,
     "Arab News PK": 2,
     "The Economic Times": 1,
-    "Financial Times": 102,
+    "Financial Times": 108,
     "Cyprus Shipping News": 1,
     "Saudi Gazette": 12,
     "Bloomberg.com": 35,
@@ -9867,13 +9867,14 @@
     "Inspenet": 1,
     "Oman Observer": 1,
     "A News": 1,
-    "Briefs Finance": 1,
-    "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1
+    "Briefs Finance": 2,
+    "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1,
+    "Cyprus Mail": 1
    },
    "sourceTone": {
     "WSJ": [
      0,
-     31,
+     32,
      0
     ],
     "The New York Times": [
@@ -9918,7 +9919,7 @@
     ],
     "The Guardian": [
      0,
-     133,
+     137,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -9998,7 +9999,7 @@
     ],
     "Financial Times": [
      0,
-     102,
+     108,
      0
     ],
     "Cyprus Shipping News": [
@@ -10563,10 +10564,15 @@
     ],
     "Briefs Finance": [
      0,
-     1,
+     2,
      0
     ],
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": [
+     0,
+     1,
+     0
+    ],
+    "Cyprus Mail": [
      0,
      1,
      0
@@ -10574,11 +10580,11 @@
    }
   },
   "2026-11-12": {
-   "total": 50,
-   "news": 50,
+   "total": 54,
+   "news": 54,
    "articles": 0,
    "positive": 0,
-   "neutral": 50,
+   "neutral": 54,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -10614,7 +10620,11 @@
     "The Korea Times": 1,
     "RG.org": 1,
     "Eurasia Review": 1,
-    "https://houseofsaud.com/": 1
+    "https://houseofsaud.com/": 1,
+    "Yahoo Sports": 1,
+    "The Jerusalem Post": 1,
+    "Anadolu Ajansı": 1,
+    "Middle East Eye": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -10743,6 +10753,26 @@
      0
     ],
     "https://houseofsaud.com/": [
+     0,
+     1,
+     0
+    ],
+    "Yahoo Sports": [
+     0,
+     1,
+     0
+    ],
+    "The Jerusalem Post": [
+     0,
+     1,
+     0
+    ],
+    "Anadolu Ajansı": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Eye": [
      0,
      1,
      0
