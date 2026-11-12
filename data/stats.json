@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 828,
-   "news": 823,
+   "total": 830,
+   "news": 825,
    "articles": 5,
    "positive": 0,
-   "neutral": 828,
+   "neutral": 830,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "US": 156,
     "SA": 90,
-    "GB": 381,
+    "GB": 383,
     "JP": 1,
     "HK": 4,
     "FR": 6
@@ -9737,8 +9737,8 @@
     "Al-Monitor": 38,
     "The Washington Post": 14,
     "AP News": 11,
-    "Reuters": 99,
-    "The Guardian": 160,
+    "Reuters": 100,
+    "The Guardian": 161,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 2,
@@ -9916,12 +9916,12 @@
     ],
     "Reuters": [
      0,
-     99,
+     100,
      0
     ],
     "The Guardian": [
      0,
-     160,
+     161,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -10592,15 +10592,15 @@
    }
   },
   "2026-11-12": {
-   "total": 265,
-   "news": 263,
+   "total": 267,
+   "news": 265,
    "articles": 2,
    "positive": 0,
-   "neutral": 265,
+   "neutral": 267,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 101,
+    "GB": 102,
     "US": 43,
     "FR": 1,
     "SA": 20,
@@ -10608,7 +10608,7 @@
    },
    "topics": {},
    "sources": {
-    "Financial Times": 20,
+    "Financial Times": 21,
     "The Guardian": 35,
     "StreetInsider": 1,
     "Bloomberg": 1,
@@ -10683,7 +10683,7 @@
     "Egypt Today": 1,
     "Employee Happiness Daily": 1,
     "The Times of India": 1,
-    "Business Insider Africa": 1,
+    "Business Insider Africa": 2,
     "CMB News": 1,
     "Yeni Safak English": 1,
     "HackerNoon": 1,
@@ -10706,7 +10706,7 @@
    "sourceTone": {
     "Financial Times": [
      0,
-     20,
+     21,
      0
     ],
     "The Guardian": [
@@ -11081,7 +11081,7 @@
     ],
     "Business Insider Africa": [
      0,
-     1,
+     2,
      0
     ],
     "CMB News": [
