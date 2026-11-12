@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 820,
-   "news": 815,
+   "total": 822,
+   "news": 817,
    "articles": 5,
    "positive": 0,
-   "neutral": 820,
+   "neutral": 822,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "US": 156,
     "SA": 90,
-    "GB": 373,
+    "GB": 375,
     "JP": 1,
     "HK": 4,
     "FR": 6
@@ -9737,7 +9737,7 @@
     "Al-Monitor": 38,
     "The Washington Post": 14,
     "AP News": 11,
-    "Reuters": 94,
+    "Reuters": 96,
     "The Guardian": 158,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
@@ -9916,7 +9916,7 @@
     ],
     "Reuters": [
      0,
-     94,
+     96,
      0
     ],
     "The Guardian": [
