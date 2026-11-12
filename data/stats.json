@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 774,
-   "news": 769,
+   "total": 777,
+   "news": 772,
    "articles": 5,
    "positive": 0,
-   "neutral": 774,
+   "neutral": 777,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "US": 152,
     "SA": 87,
-    "GB": 336,
+    "GB": 339,
     "JP": 1,
     "HK": 4,
     "FR": 6
@@ -9738,7 +9738,7 @@
     "The Washington Post": 14,
     "AP News": 11,
     "Reuters": 86,
-    "The Guardian": 137,
+    "The Guardian": 140,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 2,
@@ -9919,7 +9919,7 @@
     ],
     "The Guardian": [
      0,
-     137,
+     140,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -10580,15 +10580,15 @@
    }
   },
   "2026-11-12": {
-   "total": 54,
-   "news": 54,
+   "total": 56,
+   "news": 56,
    "articles": 0,
    "positive": 0,
-   "neutral": 54,
+   "neutral": 56,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 22,
+    "GB": 24,
     "US": 10,
     "FR": 1,
     "SA": 2
@@ -10596,7 +10596,7 @@
    "topics": {},
    "sources": {
     "Financial Times": 9,
-    "The Guardian": 8,
+    "The Guardian": 9,
     "StreetInsider": 1,
     "Bloomberg": 1,
     "India Narrative": 1,
@@ -10608,7 +10608,7 @@
     "Saudi Gazette": 1,
     "Al-Monitor": 1,
     "The New York Times": 3,
-    "Reuters": 2,
+    "Reuters": 3,
     "AP News": 1,
     "Arab News": 2,
     "South China Morning Post": 2,
@@ -10634,7 +10634,7 @@
     ],
     "The Guardian": [
      0,
-     8,
+     9,
      0
     ],
     "StreetInsider": [
@@ -10694,7 +10694,7 @@
     ],
     "Reuters": [
      0,
-     2,
+     3,
      0
     ],
     "AP News": [
