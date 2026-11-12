@@ -10592,11 +10592,11 @@
    }
   },
   "2026-11-12": {
-   "total": 234,
-   "news": 232,
+   "total": 235,
+   "news": 233,
    "articles": 2,
    "positive": 0,
-   "neutral": 234,
+   "neutral": 235,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -10693,7 +10693,8 @@
     "The New Voice of Ukraine": 1,
     "조선일보": 1,
     "Kurdistan24": 1,
-    "Zawya": 1
+    "Zawya": 1,
+    "The New Arab": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -11122,6 +11123,11 @@
      0
     ],
     "Zawya": [
+     0,
+     1,
+     0
+    ],
+    "The New Arab": [
      0,
      1,
      0
