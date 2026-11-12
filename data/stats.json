@@ -10592,16 +10592,16 @@
    }
   },
   "2026-11-12": {
-   "total": 274,
-   "news": 272,
+   "total": 277,
+   "news": 275,
    "articles": 2,
    "positive": 0,
-   "neutral": 274,
+   "neutral": 277,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "GB": 105,
-    "US": 43,
+    "US": 45,
     "FR": 1,
     "SA": 20,
     "HK": 3
@@ -10619,7 +10619,7 @@
     "France 24": 1,
     "Bloomberg.com": 14,
     "Saudi Gazette": 6,
-    "Al-Monitor": 9,
+    "Al-Monitor": 11,
     "The New York Times": 8,
     "Reuters": 32,
     "AP News": 1,
@@ -10703,7 +10703,8 @@
     "Campaign Middle East": 1,
     "Travel Daily News International": 1,
     "Goal.com": 1,
-    "Travel & Tourism News Middle East": 1
+    "Travel & Tourism News Middle East": 1,
+    "Daily Sabah": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -10763,7 +10764,7 @@
     ],
     "Al-Monitor": [
      0,
-     9,
+     11,
      0
     ],
     "The New York Times": [
@@ -11182,6 +11183,11 @@
      0
     ],
     "Travel & Tourism News Middle East": [
+     0,
+     1,
+     0
+    ],
+    "Daily Sabah": [
      0,
      1,
      0
