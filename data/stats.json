@@ -10592,38 +10592,39 @@
    }
   },
   "2026-11-12": {
-   "total": 278,
-   "news": 276,
-   "articles": 2,
+   "total": 318,
+   "news": 312,
+   "articles": 6,
    "positive": 0,
-   "neutral": 278,
+   "neutral": 318,
    "critical": 0,
-   "mbs": 1,
+   "mbs": 3,
    "countries": {
-    "GB": 105,
-    "US": 45,
-    "FR": 1,
-    "SA": 20,
-    "HK": 3
+    "GB": 116,
+    "US": 62,
+    "FR": 2,
+    "SA": 25,
+    "HK": 3,
+    "JP": 1
    },
    "topics": {},
    "sources": {
-    "Financial Times": 21,
-    "The Guardian": 36,
+    "Financial Times": 23,
+    "The Guardian": 39,
     "StreetInsider": 1,
     "Bloomberg": 1,
     "India Narrative": 1,
-    "BBC": 8,
+    "BBC": 10,
     "Oil & Gas Middle East": 1,
-    "WSJ": 9,
-    "France 24": 1,
-    "Bloomberg.com": 14,
-    "Saudi Gazette": 6,
-    "Al-Monitor": 11,
-    "The New York Times": 8,
-    "Reuters": 32,
-    "AP News": 1,
-    "Arab News": 19,
+    "WSJ": 11,
+    "France 24": 2,
+    "Bloomberg.com": 16,
+    "Saudi Gazette": 9,
+    "Al-Monitor": 14,
+    "The New York Times": 10,
+    "Reuters": 34,
+    "AP News": 4,
+    "Arab News": 23,
     "South China Morning Post": 5,
     "Dealroom": 1,
     "Dubai Eye 103.8": 1,
@@ -10648,10 +10649,10 @@
     "Digital Watch Observatory": 1,
     "SolarQuarter": 1,
     "Investing.com": 1,
-    "The Washington Post": 1,
-    "The Economist": 2,
+    "The Washington Post": 2,
+    "The Economist": 4,
     "Time Magazine": 1,
-    "CNN": 1,
+    "CNN": 3,
     "Investing.com UK": 1,
     "TheWire.in": 1,
     "Cranes Today": 1,
@@ -10705,17 +10706,22 @@
     "Goal.com": 1,
     "Travel & Tourism News Middle East": 1,
     "Daily Sabah": 1,
-    "Arabian Gulf Business Insight | AGBI": 1
+    "Arabian Gulf Business Insight | AGBI": 1,
+    "Cyprus Mail": 1,
+    "Atlantic Council": 2,
+    "Nikkei Asia": 1,
+    "Arbiterz": 1,
+    "Apa.az": 1
    },
    "sourceTone": {
     "Financial Times": [
      0,
-     21,
+     23,
      0
     ],
     "The Guardian": [
      0,
-     36,
+     39,
      0
     ],
     "StreetInsider": [
@@ -10735,7 +10741,7 @@
     ],
     "BBC": [
      0,
-     8,
+     10,
      0
     ],
     "Oil & Gas Middle East": [
@@ -10745,47 +10751,47 @@
     ],
     "WSJ": [
      0,
-     9,
+     11,
      0
     ],
     "France 24": [
      0,
-     1,
+     2,
      0
     ],
     "Bloomberg.com": [
      0,
-     14,
+     16,
      0
     ],
     "Saudi Gazette": [
      0,
-     6,
+     9,
      0
     ],
     "Al-Monitor": [
      0,
-     11,
+     14,
      0
     ],
     "The New York Times": [
      0,
-     8,
+     10,
      0
     ],
     "Reuters": [
      0,
-     32,
+     34,
      0
     ],
     "AP News": [
      0,
-     1,
+     4,
      0
     ],
     "Arab News": [
      0,
-     19,
+     23,
      0
     ],
     "South China Morning Post": [
@@ -10910,12 +10916,12 @@
     ],
     "The Washington Post": [
      0,
-     1,
+     2,
      0
     ],
     "The Economist": [
      0,
-     2,
+     4,
      0
     ],
     "Time Magazine": [
@@ -10925,7 +10931,7 @@
     ],
     "CNN": [
      0,
-     1,
+     3,
      0
     ],
     "Investing.com UK": [
@@ -11194,6 +11200,31 @@
      0
     ],
     "Arabian Gulf Business Insight | AGBI": [
+     0,
+     1,
+     0
+    ],
+    "Cyprus Mail": [
+     0,
+     1,
+     0
+    ],
+    "Atlantic Council": [
+     0,
+     2,
+     0
+    ],
+    "Nikkei Asia": [
+     0,
+     1,
+     0
+    ],
+    "Arbiterz": [
+     0,
+     1,
+     0
+    ],
+    "Apa.az": [
      0,
      1,
      0
