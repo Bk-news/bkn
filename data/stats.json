@@ -8886,15 +8886,15 @@
    }
   },
   "2026-11-10": {
-   "total": 893,
-   "news": 881,
+   "total": 894,
+   "news": 882,
    "articles": 12,
    "positive": 0,
-   "neutral": 893,
+   "neutral": 894,
    "critical": 0,
    "mbs": 22,
    "countries": {
-    "US": 222,
+    "US": 223,
     "GB": 370,
     "HK": 1,
     "SA": 98,
@@ -8904,7 +8904,7 @@
    "topics": {},
    "sources": {
     "Amwaj.media": 1,
-    "The Washington Post": 9,
+    "The Washington Post": 10,
     "BBC": 14,
     "Al-Monitor": 55,
     "WSJ": 44,
@@ -9046,7 +9046,7 @@
     ],
     "The Washington Post": [
      0,
-     9,
+     10,
      0
     ],
     "BBC": [
