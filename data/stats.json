@@ -10592,39 +10592,39 @@
    }
   },
   "2026-11-12": {
-   "total": 318,
-   "news": 312,
-   "articles": 6,
+   "total": 358,
+   "news": 348,
+   "articles": 10,
    "positive": 0,
-   "neutral": 318,
+   "neutral": 358,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 116,
-    "US": 62,
+    "GB": 132,
+    "US": 76,
     "FR": 2,
-    "SA": 25,
+    "SA": 30,
     "HK": 3,
     "JP": 1
    },
    "topics": {},
    "sources": {
-    "Financial Times": 23,
-    "The Guardian": 39,
+    "Financial Times": 25,
+    "The Guardian": 44,
     "StreetInsider": 1,
     "Bloomberg": 1,
     "India Narrative": 1,
-    "BBC": 10,
+    "BBC": 11,
     "Oil & Gas Middle East": 1,
-    "WSJ": 11,
+    "WSJ": 12,
     "France 24": 2,
-    "Bloomberg.com": 16,
+    "Bloomberg.com": 18,
     "Saudi Gazette": 9,
-    "Al-Monitor": 14,
-    "The New York Times": 10,
-    "Reuters": 34,
-    "AP News": 4,
-    "Arab News": 23,
+    "Al-Monitor": 19,
+    "The New York Times": 12,
+    "Reuters": 38,
+    "AP News": 7,
+    "Arab News": 28,
     "South China Morning Post": 5,
     "Dealroom": 1,
     "Dubai Eye 103.8": 1,
@@ -10634,14 +10634,14 @@
     "The Korea Times": 1,
     "RG.org": 1,
     "Eurasia Review": 1,
-    "https://houseofsaud.com/": 3,
+    "https://houseofsaud.com/": 4,
     "Yahoo Sports": 1,
     "The Jerusalem Post": 1,
-    "Anadolu Ajansı": 1,
+    "Anadolu Ajansı": 2,
     "Middle East Eye": 2,
     "www.thenationalnews.com": 1,
     "Al Jazeera": 1,
-    "Arab News PK": 1,
+    "Arab News PK": 2,
     "Healthcare Asia Magazine": 1,
     "i24NEWS": 1,
     "The Soufan Center": 1,
@@ -10650,9 +10650,9 @@
     "SolarQuarter": 1,
     "Investing.com": 1,
     "The Washington Post": 2,
-    "The Economist": 4,
+    "The Economist": 8,
     "Time Magazine": 1,
-    "CNN": 3,
+    "CNN": 4,
     "Investing.com UK": 1,
     "TheWire.in": 1,
     "Cranes Today": 1,
@@ -10677,7 +10677,7 @@
     "Sportstar": 1,
     "The Diplomatic Insight": 2,
     "Middle East Online": 2,
-    "LiveScore": 1,
+    "LiveScore": 2,
     "Fast Company Middle East": 2,
     "Military Africa": 1,
     "ThinkChina": 1,
@@ -10711,17 +10711,18 @@
     "Atlantic Council": 2,
     "Nikkei Asia": 1,
     "Arbiterz": 1,
-    "Apa.az": 1
+    "Apa.az": 1,
+    "NewscastStudio": 1
    },
    "sourceTone": {
     "Financial Times": [
      0,
-     23,
+     25,
      0
     ],
     "The Guardian": [
      0,
-     39,
+     44,
      0
     ],
     "StreetInsider": [
@@ -10741,7 +10742,7 @@
     ],
     "BBC": [
      0,
-     10,
+     11,
      0
     ],
     "Oil & Gas Middle East": [
@@ -10751,7 +10752,7 @@
     ],
     "WSJ": [
      0,
-     11,
+     12,
      0
     ],
     "France 24": [
@@ -10761,7 +10762,7 @@
     ],
     "Bloomberg.com": [
      0,
-     16,
+     18,
      0
     ],
     "Saudi Gazette": [
@@ -10771,27 +10772,27 @@
     ],
     "Al-Monitor": [
      0,
-     14,
+     19,
      0
     ],
     "The New York Times": [
      0,
-     10,
+     12,
      0
     ],
     "Reuters": [
      0,
-     34,
+     38,
      0
     ],
     "AP News": [
      0,
-     4,
+     7,
      0
     ],
     "Arab News": [
      0,
-     23,
+     28,
      0
     ],
     "South China Morning Post": [
@@ -10841,7 +10842,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     3,
+     4,
      0
     ],
     "Yahoo Sports": [
@@ -10856,7 +10857,7 @@
     ],
     "Anadolu Ajansı": [
      0,
-     1,
+     2,
      0
     ],
     "Middle East Eye": [
@@ -10876,7 +10877,7 @@
     ],
     "Arab News PK": [
      0,
-     1,
+     2,
      0
     ],
     "Healthcare Asia Magazine": [
@@ -10921,7 +10922,7 @@
     ],
     "The Economist": [
      0,
-     4,
+     8,
      0
     ],
     "Time Magazine": [
@@ -10931,7 +10932,7 @@
     ],
     "CNN": [
      0,
-     3,
+     4,
      0
     ],
     "Investing.com UK": [
@@ -11056,7 +11057,7 @@
     ],
     "LiveScore": [
      0,
-     1,
+     2,
      0
     ],
     "Fast Company Middle East": [
@@ -11225,6 +11226,11 @@
      0
     ],
     "Apa.az": [
+     0,
+     1,
+     0
+    ],
+    "NewscastStudio": [
      0,
      1,
      0
