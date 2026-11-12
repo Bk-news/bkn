@@ -10592,15 +10592,15 @@
    }
   },
   "2026-11-12": {
-   "total": 474,
-   "news": 459,
+   "total": 478,
+   "news": 463,
    "articles": 15,
    "positive": 0,
-   "neutral": 474,
+   "neutral": 478,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 186,
+    "GB": 190,
     "US": 84,
     "FR": 2,
     "SA": 47,
@@ -10610,7 +10610,7 @@
    "topics": {},
    "sources": {
     "Financial Times": 32,
-    "The Guardian": 56,
+    "The Guardian": 58,
     "StreetInsider": 1,
     "Bloomberg": 1,
     "India Narrative": 1,
@@ -10622,7 +10622,7 @@
     "Saudi Gazette": 10,
     "Al-Monitor": 24,
     "The New York Times": 12,
-    "Reuters": 66,
+    "Reuters": 68,
     "AP News": 8,
     "Arab News": 46,
     "South China Morning Post": 5,
@@ -10741,7 +10741,7 @@
     ],
     "The Guardian": [
      0,
-     56,
+     58,
      0
     ],
     "StreetInsider": [
@@ -10801,7 +10801,7 @@
     ],
     "Reuters": [
      0,
-     66,
+     68,
      0
     ],
     "AP News": [
