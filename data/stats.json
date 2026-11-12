@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 790,
-   "news": 785,
+   "total": 792,
+   "news": 787,
    "articles": 5,
    "positive": 0,
-   "neutral": 790,
+   "neutral": 792,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "US": 153,
     "SA": 88,
-    "GB": 350,
+    "GB": 351,
     "JP": 1,
     "HK": 4,
     "FR": 6
@@ -9738,7 +9738,7 @@
     "The Washington Post": 14,
     "AP News": 11,
     "Reuters": 87,
-    "The Guardian": 150,
+    "The Guardian": 151,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 2,
@@ -9869,7 +9869,8 @@
     "A News": 1,
     "Briefs Finance": 2,
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1,
-    "Cyprus Mail": 1
+    "Cyprus Mail": 1,
+    "London Daily News": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -9919,7 +9920,7 @@
     ],
     "The Guardian": [
      0,
-     150,
+     151,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -10576,20 +10577,25 @@
      0,
      1,
      0
+    ],
+    "London Daily News": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-12": {
-   "total": 72,
-   "news": 72,
+   "total": 75,
+   "news": 75,
    "articles": 0,
    "positive": 0,
-   "neutral": 72,
+   "neutral": 75,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 30,
-    "US": 13,
+    "US": 15,
     "FR": 1,
     "SA": 4
    },
@@ -10602,9 +10608,9 @@
     "India Narrative": 1,
     "BBC": 3,
     "Oil & Gas Middle East": 1,
-    "WSJ": 5,
+    "WSJ": 6,
     "France 24": 1,
-    "Bloomberg.com": 2,
+    "Bloomberg.com": 3,
     "Saudi Gazette": 1,
     "Al-Monitor": 1,
     "The New York Times": 3,
@@ -10629,7 +10635,8 @@
     "Al Jazeera": 1,
     "Arab News PK": 1,
     "Healthcare Asia Magazine": 1,
-    "i24NEWS": 1
+    "i24NEWS": 1,
+    "The Soufan Center": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -10669,7 +10676,7 @@
     ],
     "WSJ": [
      0,
-     5,
+     6,
      0
     ],
     "France 24": [
@@ -10679,7 +10686,7 @@
     ],
     "Bloomberg.com": [
      0,
-     2,
+     3,
      0
     ],
     "Saudi Gazette": [
@@ -10803,6 +10810,11 @@
      0
     ],
     "i24NEWS": [
+     0,
+     1,
+     0
+    ],
+    "The Soufan Center": [
      0,
      1,
      0
