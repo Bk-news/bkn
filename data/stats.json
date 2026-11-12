@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 819,
-   "news": 807,
+   "total": 821,
+   "news": 809,
    "articles": 12,
    "positive": 0,
-   "neutral": 819,
+   "neutral": 821,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 213,
-    "GB": 305,
+    "GB": 307,
     "HK": 1,
     "SA": 98,
     "FR": 7,
@@ -8936,7 +8936,7 @@
     "TRT World": 1,
     "Asset Servicing Times": 1,
     "Saudi Gazette": 16,
-    "Financial Times": 31,
+    "Financial Times": 33,
     "CNN": 4,
     "France 24": 4,
     "Fana News -": 1,
@@ -9206,7 +9206,7 @@
     ],
     "Financial Times": [
      0,
-     31,
+     33,
      0
     ],
     "CNN": [
@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 655,
-   "news": 650,
+   "total": 659,
+   "news": 654,
    "articles": 5,
    "positive": 0,
-   "neutral": 655,
+   "neutral": 659,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "US": 144,
     "SA": 78,
-    "GB": 243,
+    "GB": 247,
     "JP": 1,
     "HK": 4,
     "FR": 5
@@ -9737,8 +9737,8 @@
     "Al-Monitor": 38,
     "The Washington Post": 13,
     "AP News": 10,
-    "Reuters": 70,
-    "The Guardian": 119,
+    "Reuters": 71,
+    "The Guardian": 120,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 2,
@@ -9754,7 +9754,7 @@
     "https://houseofsaud.com/": 5,
     "Arab News PK": 2,
     "The Economic Times": 1,
-    "Financial Times": 49,
+    "Financial Times": 51,
     "Cyprus Shipping News": 1,
     "Saudi Gazette": 12,
     "Bloomberg.com": 33,
@@ -9910,12 +9910,12 @@
     ],
     "Reuters": [
      0,
-     70,
+     71,
      0
     ],
     "The Guardian": [
      0,
-     119,
+     120,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -9995,7 +9995,7 @@
     ],
     "Financial Times": [
      0,
-     49,
+     51,
      0
     ],
     "Cyprus Shipping News": [
