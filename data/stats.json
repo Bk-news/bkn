@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 875,
-   "news": 863,
+   "total": 876,
+   "news": 864,
    "articles": 12,
    "positive": 0,
-   "neutral": 875,
+   "neutral": 876,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 219,
-    "GB": 355,
+    "GB": 356,
     "HK": 1,
     "SA": 98,
     "FR": 7,
@@ -8936,7 +8936,7 @@
     "TRT World": 1,
     "Asset Servicing Times": 1,
     "Saudi Gazette": 16,
-    "Financial Times": 60,
+    "Financial Times": 61,
     "CNN": 4,
     "France 24": 4,
     "Fana News -": 1,
@@ -9206,7 +9206,7 @@
     ],
     "Financial Times": [
      0,
-     60,
+     61,
      0
     ],
     "CNN": [
@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 787,
-   "news": 782,
+   "total": 788,
+   "news": 783,
    "articles": 5,
    "positive": 0,
-   "neutral": 787,
+   "neutral": 788,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "US": 153,
     "SA": 88,
-    "GB": 347,
+    "GB": 348,
     "JP": 1,
     "HK": 4,
     "FR": 6
@@ -9738,7 +9738,7 @@
     "The Washington Post": 14,
     "AP News": 11,
     "Reuters": 87,
-    "The Guardian": 147,
+    "The Guardian": 148,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 2,
@@ -9919,7 +9919,7 @@
     ],
     "The Guardian": [
      0,
-     147,
+     148,
      0
     ],
     "Tavern of the Taeguk Warriors": [
