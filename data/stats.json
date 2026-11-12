@@ -9712,15 +9712,15 @@
    }
   },
   "2026-11-11": {
-   "total": 861,
-   "news": 856,
+   "total": 863,
+   "news": 858,
    "articles": 5,
    "positive": 0,
-   "neutral": 861,
+   "neutral": 863,
    "critical": 0,
-   "mbs": 6,
+   "mbs": 7,
    "countries": {
-    "US": 161,
+    "US": 163,
     "SA": 91,
     "GB": 406,
     "JP": 1,
@@ -9734,7 +9734,7 @@
     "Arab News": 86,
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
-    "Al-Monitor": 39,
+    "Al-Monitor": 40,
     "The Washington Post": 15,
     "AP News": 12,
     "Reuters": 106,
@@ -9757,7 +9757,7 @@
     "Financial Times": 118,
     "Cyprus Shipping News": 1,
     "Saudi Gazette": 13,
-    "Bloomberg.com": 38,
+    "Bloomberg.com": 39,
     "South China Morning Post": 5,
     "Le Monde.fr": 5,
     "Mining.com.au": 1,
@@ -9901,7 +9901,7 @@
     ],
     "Al-Monitor": [
      0,
-     39,
+     40,
      0
     ],
     "The Washington Post": [
@@ -10016,7 +10016,7 @@
     ],
     "Bloomberg.com": [
      0,
-     38,
+     39,
      0
     ],
     "South China Morning Post": [
@@ -10592,11 +10592,11 @@
    }
   },
   "2026-11-12": {
-   "total": 497,
-   "news": 482,
+   "total": 498,
+   "news": 483,
    "articles": 15,
    "positive": 0,
-   "neutral": 497,
+   "neutral": 498,
    "critical": 0,
    "mbs": 4,
    "countries": {
@@ -10731,7 +10731,8 @@
     "RACER - Racing News": 1,
     "IndexBox": 1,
     "Ahram Online": 1,
-    "Jewish Post and News": 1
+    "Jewish Post and News": 1,
+    "The Hindu": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -11345,6 +11346,11 @@
      0
     ],
     "Jewish Post and News": [
+     0,
+     1,
+     0
+    ],
+    "The Hindu": [
      0,
      1,
      0
