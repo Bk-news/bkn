@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 803,
-   "news": 791,
+   "total": 804,
+   "news": 792,
    "articles": 12,
    "positive": 0,
-   "neutral": 803,
+   "neutral": 804,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 213,
-    "GB": 290,
+    "GB": 291,
     "HK": 1,
     "SA": 97,
     "FR": 7,
@@ -8980,7 +8980,7 @@
     "Forbes Middle East": 2,
     "TV7 Israel News": 1,
     "News of Bahrain": 1,
-    "The Guardian": 124,
+    "The Guardian": 125,
     "Foreign Policy": 2,
     "صحيفة سبق الإلكترونية": 1,
     "thetruthaboutcars.com": 1,
@@ -9426,7 +9426,7 @@
     ],
     "The Guardian": [
      0,
-     124,
+     125,
      0
     ],
     "Foreign Policy": [
@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 604,
-   "news": 599,
+   "total": 614,
+   "news": 609,
    "articles": 5,
    "positive": 0,
-   "neutral": 604,
+   "neutral": 614,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "US": 141,
-    "SA": 66,
-    "GB": 209,
+    "US": 142,
+    "SA": 67,
+    "GB": 217,
     "JP": 1,
     "HK": 4,
     "FR": 4
@@ -9731,14 +9731,14 @@
    "sources": {
     "WSJ": 30,
     "The New York Times": 12,
-    "Arab News": 62,
+    "Arab News": 63,
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
     "Al-Monitor": 37,
     "The Washington Post": 13,
     "AP News": 10,
-    "Reuters": 68,
-    "The Guardian": 111,
+    "Reuters": 69,
+    "The Guardian": 114,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 2,
@@ -9754,7 +9754,7 @@
     "https://houseofsaud.com/": 5,
     "Arab News PK": 2,
     "The Economic Times": 1,
-    "Financial Times": 25,
+    "Financial Times": 29,
     "Cyprus Shipping News": 1,
     "Saudi Gazette": 12,
     "Bloomberg.com": 33,
@@ -9847,7 +9847,7 @@
     "marketscreener.com": 1,
     "Metro.co.uk": 1,
     "The Times of Israel": 1,
-    "Bloomberg": 3,
+    "Bloomberg": 4,
     "France 24": 3,
     "شفق نيوز": 1,
     "Autoblog": 1,
@@ -9880,7 +9880,7 @@
     ],
     "Arab News": [
      0,
-     62,
+     63,
      0
     ],
     "www.thenewworld.co.uk": [
@@ -9910,12 +9910,12 @@
     ],
     "Reuters": [
      0,
-     68,
+     69,
      0
     ],
     "The Guardian": [
      0,
-     111,
+     114,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -9995,7 +9995,7 @@
     ],
     "Financial Times": [
      0,
-     25,
+     29,
      0
     ],
     "Cyprus Shipping News": [
@@ -10460,7 +10460,7 @@
     ],
     "Bloomberg": [
      0,
-     3,
+     4,
      0
     ],
     "France 24": [
@@ -10549,6 +10549,29 @@
      0
     ],
     "Oman Observer": [
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "2026-11-12": {
+   "total": 1,
+   "news": 1,
+   "articles": 0,
+   "positive": 0,
+   "neutral": 1,
+   "critical": 0,
+   "mbs": 0,
+   "countries": {
+    "GB": 1
+   },
+   "topics": {},
+   "sources": {
+    "Financial Times": 1
+   },
+   "sourceTone": {
+    "Financial Times": [
      0,
      1,
      0
