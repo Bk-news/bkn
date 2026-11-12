@@ -10592,11 +10592,11 @@
    }
   },
   "2026-11-12": {
-   "total": 485,
-   "news": 470,
+   "total": 487,
+   "news": 472,
    "articles": 15,
    "positive": 0,
-   "neutral": 485,
+   "neutral": 487,
    "critical": 0,
    "mbs": 4,
    "countries": {
@@ -10677,7 +10677,7 @@
     "Sportstar": 1,
     "The Diplomatic Insight": 2,
     "Middle East Online": 3,
-    "LiveScore": 2,
+    "LiveScore": 3,
     "Fast Company Middle East": 2,
     "Military Africa": 1,
     "ThinkChina": 1,
@@ -10718,7 +10718,7 @@
     "Haaretz": 1,
     "Live Science": 1,
     "The Times of Israel": 1,
-    "Howl.Link": 1,
+    "Howl.Link": 2,
     "United Nations Sustainable Development Group": 1,
     "Latin Times": 1,
     "NewsCord": 1,
@@ -11076,7 +11076,7 @@
     ],
     "LiveScore": [
      0,
-     2,
+     3,
      0
     ],
     "Fast Company Middle East": [
@@ -11281,7 +11281,7 @@
     ],
     "Howl.Link": [
      0,
-     1,
+     2,
      0
     ],
     "United Nations Sustainable Development Group": [
