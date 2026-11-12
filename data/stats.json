@@ -8886,18 +8886,18 @@
    }
   },
   "2026-11-10": {
-   "total": 808,
-   "news": 796,
+   "total": 811,
+   "news": 799,
    "articles": 12,
    "positive": 0,
-   "neutral": 808,
+   "neutral": 811,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 213,
-    "GB": 295,
+    "GB": 297,
     "HK": 1,
-    "SA": 97,
+    "SA": 98,
     "FR": 7,
     "DE": 4
    },
@@ -8912,7 +8912,7 @@
     "Bloomberg.com": 51,
     "AP News": 21,
     "The New York Times": 28,
-    "Arab News": 94,
+    "Arab News": 95,
     "UA.NEWS": 2,
     "Investing.com": 2,
     "The National": 3,
@@ -8936,7 +8936,7 @@
     "TRT World": 1,
     "Asset Servicing Times": 1,
     "Saudi Gazette": 16,
-    "Financial Times": 23,
+    "Financial Times": 24,
     "CNN": 4,
     "France 24": 4,
     "Fana News -": 1,
@@ -8980,7 +8980,7 @@
     "Forbes Middle East": 2,
     "TV7 Israel News": 1,
     "News of Bahrain": 1,
-    "The Guardian": 126,
+    "The Guardian": 127,
     "Foreign Policy": 2,
     "صحيفة سبق الإلكترونية": 1,
     "thetruthaboutcars.com": 1,
@@ -9086,7 +9086,7 @@
     ],
     "Arab News": [
      0,
-     94,
+     95,
      0
     ],
     "UA.NEWS": [
@@ -9206,7 +9206,7 @@
     ],
     "Financial Times": [
      0,
-     23,
+     24,
      0
     ],
     "CNN": [
@@ -9426,7 +9426,7 @@
     ],
     "The Guardian": [
      0,
-     126,
+     127,
      0
     ],
     "Foreign Policy": [
@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 634,
-   "news": 629,
+   "total": 635,
+   "news": 630,
    "articles": 5,
    "positive": 0,
-   "neutral": 634,
+   "neutral": 635,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "US": 143,
     "SA": 77,
-    "GB": 226,
+    "GB": 227,
     "JP": 1,
     "HK": 4,
     "FR": 4
@@ -9754,7 +9754,7 @@
     "https://houseofsaud.com/": 5,
     "Arab News PK": 2,
     "The Economic Times": 1,
-    "Financial Times": 34,
+    "Financial Times": 35,
     "Cyprus Shipping News": 1,
     "Saudi Gazette": 12,
     "Bloomberg.com": 33,
@@ -9995,7 +9995,7 @@
     ],
     "Financial Times": [
      0,
-     34,
+     35,
      0
     ],
     "Cyprus Shipping News": [
