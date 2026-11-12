@@ -8886,18 +8886,18 @@
    }
   },
   "2026-11-10": {
-   "total": 902,
-   "news": 890,
+   "total": 903,
+   "news": 891,
    "articles": 12,
    "positive": 0,
-   "neutral": 902,
+   "neutral": 903,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 229,
     "GB": 371,
     "HK": 1,
-    "SA": 99,
+    "SA": 100,
     "FR": 7,
     "DE": 4
    },
@@ -8912,7 +8912,7 @@
     "Bloomberg.com": 51,
     "AP News": 24,
     "The New York Times": 31,
-    "Arab News": 96,
+    "Arab News": 97,
     "UA.NEWS": 2,
     "Investing.com": 2,
     "The National": 3,
@@ -9086,7 +9086,7 @@
     ],
     "Arab News": [
      0,
-     96,
+     97,
      0
     ],
     "UA.NEWS": [
@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 855,
-   "news": 850,
+   "total": 856,
+   "news": 851,
    "articles": 5,
    "positive": 0,
-   "neutral": 855,
+   "neutral": 856,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "US": 159,
     "SA": 91,
-    "GB": 403,
+    "GB": 404,
     "JP": 1,
     "HK": 4,
     "FR": 7
@@ -9738,7 +9738,7 @@
     "The Washington Post": 15,
     "AP News": 11,
     "Reuters": 106,
-    "The Guardian": 174,
+    "The Guardian": 175,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 2,
@@ -9921,7 +9921,7 @@
     ],
     "The Guardian": [
      0,
-     174,
+     175,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -10592,15 +10592,15 @@
    }
   },
   "2026-11-12": {
-   "total": 464,
-   "news": 450,
+   "total": 465,
+   "news": 451,
    "articles": 14,
    "positive": 0,
-   "neutral": 464,
+   "neutral": 465,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 180,
+    "GB": 181,
     "US": 84,
     "FR": 2,
     "SA": 46,
@@ -10609,7 +10609,7 @@
    },
    "topics": {},
    "sources": {
-    "Financial Times": 29,
+    "Financial Times": 30,
     "The Guardian": 56,
     "StreetInsider": 1,
     "Bloomberg": 1,
@@ -10734,7 +10734,7 @@
    "sourceTone": {
     "Financial Times": [
      0,
-     29,
+     30,
      0
     ],
     "The Guardian": [
