@@ -10586,11 +10586,11 @@
    }
   },
   "2026-11-12": {
-   "total": 75,
-   "news": 75,
+   "total": 76,
+   "news": 76,
    "articles": 0,
    "positive": 0,
-   "neutral": 75,
+   "neutral": 76,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -10636,7 +10636,8 @@
     "Arab News PK": 1,
     "Healthcare Asia Magazine": 1,
     "i24NEWS": 1,
-    "The Soufan Center": 1
+    "The Soufan Center": 1,
+    "houseofsaud.com": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -10815,6 +10816,11 @@
      0
     ],
     "The Soufan Center": [
+     0,
+     1,
+     0
+    ],
+    "houseofsaud.com": [
      0,
      1,
      0
