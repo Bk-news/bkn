@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 871,
-   "news": 859,
+   "total": 873,
+   "news": 861,
    "articles": 12,
    "positive": 0,
-   "neutral": 871,
+   "neutral": 873,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 219,
-    "GB": 351,
+    "GB": 353,
     "HK": 1,
     "SA": 98,
     "FR": 7,
@@ -8980,7 +8980,7 @@
     "Forbes Middle East": 2,
     "TV7 Israel News": 1,
     "News of Bahrain": 1,
-    "The Guardian": 137,
+    "The Guardian": 139,
     "Foreign Policy": 2,
     "صحيفة سبق الإلكترونية": 1,
     "thetruthaboutcars.com": 1,
@@ -9426,7 +9426,7 @@
     ],
     "The Guardian": [
      0,
-     137,
+     139,
      0
     ],
     "Foreign Policy": [
@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 780,
-   "news": 775,
+   "total": 783,
+   "news": 778,
    "articles": 5,
    "positive": 0,
-   "neutral": 780,
+   "neutral": 783,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "US": 152,
     "SA": 87,
-    "GB": 342,
+    "GB": 345,
     "JP": 1,
     "HK": 4,
     "FR": 6
@@ -9737,8 +9737,8 @@
     "Al-Monitor": 38,
     "The Washington Post": 14,
     "AP News": 11,
-    "Reuters": 86,
-    "The Guardian": 143,
+    "Reuters": 87,
+    "The Guardian": 145,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 2,
@@ -9914,12 +9914,12 @@
     ],
     "Reuters": [
      0,
-     86,
+     87,
      0
     ],
     "The Guardian": [
      0,
-     143,
+     145,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -10580,16 +10580,16 @@
    }
   },
   "2026-11-12": {
-   "total": 57,
-   "news": 57,
+   "total": 60,
+   "news": 60,
    "articles": 0,
    "positive": 0,
-   "neutral": 57,
+   "neutral": 60,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 25,
-    "US": 10,
+    "GB": 27,
+    "US": 11,
     "FR": 1,
     "SA": 2
    },
@@ -10602,13 +10602,13 @@
     "India Narrative": 1,
     "BBC": 3,
     "Oil & Gas Middle East": 1,
-    "WSJ": 3,
+    "WSJ": 4,
     "France 24": 1,
     "Bloomberg.com": 1,
     "Saudi Gazette": 1,
     "Al-Monitor": 1,
     "The New York Times": 3,
-    "Reuters": 3,
+    "Reuters": 5,
     "AP News": 1,
     "Arab News": 2,
     "South China Morning Post": 2,
@@ -10664,7 +10664,7 @@
     ],
     "WSJ": [
      0,
-     3,
+     4,
      0
     ],
     "France 24": [
@@ -10694,7 +10694,7 @@
     ],
     "Reuters": [
      0,
-     3,
+     5,
      0
     ],
     "AP News": [
