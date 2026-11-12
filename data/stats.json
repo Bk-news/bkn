@@ -8886,15 +8886,15 @@
    }
   },
   "2026-11-10": {
-   "total": 901,
-   "news": 889,
+   "total": 902,
+   "news": 890,
    "articles": 12,
    "positive": 0,
-   "neutral": 901,
+   "neutral": 902,
    "critical": 0,
    "mbs": 22,
    "countries": {
-    "US": 228,
+    "US": 229,
     "GB": 371,
     "HK": 1,
     "SA": 99,
@@ -8904,7 +8904,7 @@
    "topics": {},
    "sources": {
     "Amwaj.media": 1,
-    "The Washington Post": 11,
+    "The Washington Post": 12,
     "BBC": 14,
     "Al-Monitor": 57,
     "WSJ": 44,
@@ -9046,7 +9046,7 @@
     ],
     "The Washington Post": [
      0,
-     11,
+     12,
      0
     ],
     "BBC": [
@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 853,
-   "news": 848,
+   "total": 855,
+   "news": 850,
    "articles": 5,
    "positive": 0,
-   "neutral": 853,
+   "neutral": 855,
    "critical": 0,
    "mbs": 6,
    "countries": {
-    "US": 158,
+    "US": 159,
     "SA": 91,
-    "GB": 402,
+    "GB": 403,
     "JP": 1,
     "HK": 4,
     "FR": 7
@@ -9735,10 +9735,10 @@
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
     "Al-Monitor": 39,
-    "The Washington Post": 14,
+    "The Washington Post": 15,
     "AP News": 11,
     "Reuters": 106,
-    "The Guardian": 173,
+    "The Guardian": 174,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 2,
@@ -9906,7 +9906,7 @@
     ],
     "The Washington Post": [
      0,
-     14,
+     15,
      0
     ],
     "AP News": [
@@ -9921,7 +9921,7 @@
     ],
     "The Guardian": [
      0,
-     173,
+     174,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -10592,15 +10592,15 @@
    }
   },
   "2026-11-12": {
-   "total": 453,
-   "news": 439,
+   "total": 458,
+   "news": 444,
    "articles": 14,
    "positive": 0,
-   "neutral": 453,
+   "neutral": 458,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 172,
+    "GB": 177,
     "US": 82,
     "FR": 2,
     "SA": 45,
@@ -10610,7 +10610,7 @@
    "topics": {},
    "sources": {
     "Financial Times": 29,
-    "The Guardian": 51,
+    "The Guardian": 53,
     "StreetInsider": 1,
     "Bloomberg": 1,
     "India Narrative": 1,
@@ -10622,7 +10622,7 @@
     "Saudi Gazette": 9,
     "Al-Monitor": 24,
     "The New York Times": 12,
-    "Reuters": 61,
+    "Reuters": 64,
     "AP News": 8,
     "Arab News": 45,
     "South China Morning Post": 5,
@@ -10739,7 +10739,7 @@
     ],
     "The Guardian": [
      0,
-     51,
+     53,
      0
     ],
     "StreetInsider": [
@@ -10799,7 +10799,7 @@
     ],
     "Reuters": [
      0,
-     61,
+     64,
      0
     ],
     "AP News": [
