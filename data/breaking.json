@@ -1,26 +1,110 @@
 [
  {
-  "id": "3f36f204560102f3",
+  "id": "6397b0d85942f7ae",
   "origin": "telegram",
   "source": "العربية عاجل",
   "country": "SA",
-  "title_ar": "وصول المبعوثين الأميركيين ستيف ويتكوف وجاريد كوشنر إلى موسكو للقاء بوتين",
+  "title_ar": "وزير الشرق الأوسط البريطاني: استمرار الحصار الحوثي يعرقل حركة الناس والمساعدات",
   "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/153250",
-  "published": "2026-11-12T05:16:01.000Z",
+  "url": "https://t.me/alarabiyaBr/153289",
+  "published": "2026-11-12T12:57:02.000Z",
   "subject": "saudi",
-  "added": "2026-11-12T05:16:01.000Z"
+  "added": "2026-11-12T12:57:02.000Z"
  },
  {
-  "id": "d9ad4c561712eb24",
-  "origin": "royal",
-  "source": "واس الملكية",
+  "id": "80c25700a6081fc4",
+  "origin": "telegram",
+  "source": "العربية عاجل",
   "country": "SA",
-  "title_ar": "خادم الحرمين الشريفين يرأس جلسة مجلس الوزراء في الرياض",
+  "title_ar": "وزير الشرق الأوسط البريطاني: الوضع عصيب في تعز بسبب الحصار الحوثي",
   "summary_ar": [],
-  "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5pWGJ4VzhtNDJxaVRWenhuOHFESHJ0RUxrQlh3dnN4M0VDYUpiYmNQLWZiTEtUNkZ3QnNRbS13QV9iMEtIbGFCOEtB?oc=5",
-  "published": "2026-11-12T02:48:16.000Z",
+  "url": "https://t.me/alarabiyaBr/153288",
+  "published": "2026-11-12T12:56:01.000Z",
   "subject": "saudi",
-  "added": "2026-11-12T04:26:11.872Z"
+  "added": "2026-11-12T12:56:01.000Z"
+ },
+ {
+  "id": "2e655e058b1893e6",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "بوتين: وجود القوات الأجنبية في أوكرانيا غير مقبول وهي هدف لقواتنا",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/153287",
+  "published": "2026-11-12T12:36:02.000Z",
+  "subject": "saudi",
+  "added": "2026-11-12T12:36:02.000Z"
+ },
+ {
+  "id": "317ab2eea0f3b48a",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "كوشنر: نلاحظ رغبة أوروبا في المشاركة بمفاوضات روسيا وأوكرانيا لإنهاء الصراع",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/153286",
+  "published": "2026-11-12T12:30:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-12T12:30:01.000Z"
+ },
+ {
+  "id": "f6c805dafc5972a9",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "ويتكوف: عملية تبادل الأسرى بين روسيا وأوكرانيا تشير لإحراز تقدم نحو تسوية",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/153285",
+  "published": "2026-11-12T12:22:02.000Z",
+  "subject": "saudi",
+  "added": "2026-11-12T12:22:02.000Z"
+ },
+ {
+  "id": "8b5bf63a4ba37acd",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "ويتكوف: الأوروبيون لم يشاركوا في مفاوضات روسيا وأوكرانيا لكنهم اطلعوا عليها",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/153284",
+  "published": "2026-11-12T12:21:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-12T12:21:01.000Z"
+ },
+ {
+  "id": "7a4e87212f55d5f0",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "ويتكوف: مفاوضات روسيا وأوكرانيا جرت في أجواء إيجابية",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/153283",
+  "published": "2026-11-12T12:17:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-12T12:17:01.000Z"
+ },
+ {
+  "id": "571c602c8b09c9fb",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "هيئة بحرية بريطانية: إصابات بين أفراد طاقم السفينة التي تعرضت لمقذوف في الخليج",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/153282",
+  "published": "2026-11-12T12:15:02.000Z",
+  "subject": "saudi",
+  "added": "2026-11-12T12:15:02.000Z"
+ },
+ {
+  "id": "13f0a564877a98af",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "هيئة بحرية بريطانية: ناقلة تعرضت لمقذوف مجهول أثناء إبحارها شرقا في الخليج",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/153281",
+  "published": "2026-11-12T12:14:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-12T12:14:01.000Z"
  }
 ]
