@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 836,
-   "news": 824,
+   "total": 838,
+   "news": 826,
    "articles": 12,
    "positive": 0,
-   "neutral": 836,
+   "neutral": 838,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 213,
-    "GB": 322,
+    "GB": 324,
     "HK": 1,
     "SA": 98,
     "FR": 7,
@@ -8936,7 +8936,7 @@
     "TRT World": 1,
     "Asset Servicing Times": 1,
     "Saudi Gazette": 16,
-    "Financial Times": 48,
+    "Financial Times": 50,
     "CNN": 4,
     "France 24": 4,
     "Fana News -": 1,
@@ -9206,7 +9206,7 @@
     ],
     "Financial Times": [
      0,
-     48,
+     50,
      0
     ],
     "CNN": [
@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 702,
-   "news": 697,
+   "total": 708,
+   "news": 703,
    "articles": 5,
    "positive": 0,
-   "neutral": 702,
+   "neutral": 708,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "US": 146,
     "SA": 85,
-    "GB": 280,
+    "GB": 285,
     "JP": 1,
     "HK": 4,
     "FR": 5
@@ -9737,8 +9737,8 @@
     "Al-Monitor": 38,
     "The Washington Post": 13,
     "AP News": 10,
-    "Reuters": 72,
-    "The Guardian": 122,
+    "Reuters": 74,
+    "The Guardian": 123,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 2,
@@ -9754,7 +9754,7 @@
     "https://houseofsaud.com/": 5,
     "Arab News PK": 2,
     "The Economic Times": 1,
-    "Financial Times": 81,
+    "Financial Times": 83,
     "Cyprus Shipping News": 1,
     "Saudi Gazette": 12,
     "Bloomberg.com": 33,
@@ -9866,7 +9866,8 @@
     "www.inss.org.il": 1,
     "Inspenet": 1,
     "Oman Observer": 1,
-    "A News": 1
+    "A News": 1,
+    "Briefs Finance": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -9911,12 +9912,12 @@
     ],
     "Reuters": [
      0,
-     72,
+     74,
      0
     ],
     "The Guardian": [
      0,
-     122,
+     123,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -9996,7 +9997,7 @@
     ],
     "Financial Times": [
      0,
-     81,
+     83,
      0
     ],
     "Cyprus Shipping News": [
@@ -10558,27 +10559,33 @@
      0,
      1,
      0
+    ],
+    "Briefs Finance": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-12": {
-   "total": 9,
-   "news": 9,
+   "total": 11,
+   "news": 11,
    "articles": 0,
    "positive": 0,
-   "neutral": 9,
+   "neutral": 11,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 7,
+    "GB": 8,
     "US": 1
    },
    "topics": {},
    "sources": {
     "Financial Times": 6,
-    "The Guardian": 1,
+    "The Guardian": 2,
     "StreetInsider": 1,
-    "Bloomberg": 1
+    "Bloomberg": 1,
+    "India Narrative": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -10588,7 +10595,7 @@
     ],
     "The Guardian": [
      0,
-     1,
+     2,
      0
     ],
     "StreetInsider": [
@@ -10597,6 +10604,11 @@
      0
     ],
     "Bloomberg": [
+     0,
+     1,
+     0
+    ],
+    "India Narrative": [
      0,
      1,
      0
