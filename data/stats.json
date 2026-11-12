@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 876,
-   "news": 864,
+   "total": 877,
+   "news": 865,
    "articles": 12,
    "positive": 0,
-   "neutral": 876,
+   "neutral": 877,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 219,
-    "GB": 356,
+    "GB": 357,
     "HK": 1,
     "SA": 98,
     "FR": 7,
@@ -8980,7 +8980,7 @@
     "Forbes Middle East": 2,
     "TV7 Israel News": 1,
     "News of Bahrain": 1,
-    "The Guardian": 140,
+    "The Guardian": 141,
     "Foreign Policy": 2,
     "صحيفة سبق الإلكترونية": 1,
     "thetruthaboutcars.com": 1,
@@ -9426,7 +9426,7 @@
     ],
     "The Guardian": [
      0,
-     140,
+     141,
      0
     ],
     "Foreign Policy": [
@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 788,
-   "news": 783,
+   "total": 790,
+   "news": 785,
    "articles": 5,
    "positive": 0,
-   "neutral": 788,
+   "neutral": 790,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "US": 153,
     "SA": 88,
-    "GB": 348,
+    "GB": 350,
     "JP": 1,
     "HK": 4,
     "FR": 6
@@ -9738,7 +9738,7 @@
     "The Washington Post": 14,
     "AP News": 11,
     "Reuters": 87,
-    "The Guardian": 148,
+    "The Guardian": 150,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 2,
@@ -9919,7 +9919,7 @@
     ],
     "The Guardian": [
      0,
-     148,
+     150,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -10580,16 +10580,16 @@
    }
   },
   "2026-11-12": {
-   "total": 71,
-   "news": 71,
+   "total": 72,
+   "news": 72,
    "articles": 0,
    "positive": 0,
-   "neutral": 71,
+   "neutral": 72,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 30,
-    "US": 12,
+    "US": 13,
     "FR": 1,
     "SA": 4
    },
@@ -10604,7 +10604,7 @@
     "Oil & Gas Middle East": 1,
     "WSJ": 5,
     "France 24": 1,
-    "Bloomberg.com": 1,
+    "Bloomberg.com": 2,
     "Saudi Gazette": 1,
     "Al-Monitor": 1,
     "The New York Times": 3,
@@ -10679,7 +10679,7 @@
     ],
     "Bloomberg.com": [
      0,
-     1,
+     2,
      0
     ],
     "Saudi Gazette": [
