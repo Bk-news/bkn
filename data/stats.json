@@ -10592,15 +10592,15 @@
    }
   },
   "2026-11-12": {
-   "total": 473,
+   "total": 474,
    "news": 459,
-   "articles": 14,
+   "articles": 15,
    "positive": 0,
-   "neutral": 473,
+   "neutral": 474,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 185,
+    "GB": 186,
     "US": 84,
     "FR": 2,
     "SA": 47,
@@ -10650,7 +10650,7 @@
     "SolarQuarter": 1,
     "Investing.com": 1,
     "The Washington Post": 2,
-    "The Economist": 12,
+    "The Economist": 13,
     "Time Magazine": 1,
     "CNN": 4,
     "Investing.com UK": 1,
@@ -10941,7 +10941,7 @@
     ],
     "The Economist": [
      0,
-     12,
+     13,
      0
     ],
     "Time Magazine": [
