@@ -10592,11 +10592,11 @@
    }
   },
   "2026-11-12": {
-   "total": 277,
-   "news": 275,
+   "total": 278,
+   "news": 276,
    "articles": 2,
    "positive": 0,
-   "neutral": 277,
+   "neutral": 278,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -10704,7 +10704,8 @@
     "Travel Daily News International": 1,
     "Goal.com": 1,
     "Travel & Tourism News Middle East": 1,
-    "Daily Sabah": 1
+    "Daily Sabah": 1,
+    "Arabian Gulf Business Insight | AGBI": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -11188,6 +11189,11 @@
      0
     ],
     "Daily Sabah": [
+     0,
+     1,
+     0
+    ],
+    "Arabian Gulf Business Insight | AGBI": [
      0,
      1,
      0
