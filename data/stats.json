@@ -10592,15 +10592,15 @@
    }
   },
   "2026-11-12": {
-   "total": 465,
-   "news": 451,
+   "total": 469,
+   "news": 455,
    "articles": 14,
    "positive": 0,
-   "neutral": 465,
+   "neutral": 469,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 181,
+    "GB": 184,
     "US": 84,
     "FR": 2,
     "SA": 46,
@@ -10609,7 +10609,7 @@
    },
    "topics": {},
    "sources": {
-    "Financial Times": 30,
+    "Financial Times": 32,
     "The Guardian": 56,
     "StreetInsider": 1,
     "Bloomberg": 1,
@@ -10622,7 +10622,7 @@
     "Saudi Gazette": 10,
     "Al-Monitor": 24,
     "The New York Times": 12,
-    "Reuters": 64,
+    "Reuters": 65,
     "AP News": 8,
     "Arab News": 45,
     "South China Morning Post": 5,
@@ -10729,12 +10729,13 @@
     "IGN": 1,
     "The Times": 1,
     "RACER - Racing News": 1,
-    "IndexBox": 1
+    "IndexBox": 1,
+    "Ahram Online": 1
    },
    "sourceTone": {
     "Financial Times": [
      0,
-     30,
+     32,
      0
     ],
     "The Guardian": [
@@ -10799,7 +10800,7 @@
     ],
     "Reuters": [
      0,
-     64,
+     65,
      0
     ],
     "AP News": [
@@ -11333,6 +11334,11 @@
      0
     ],
     "IndexBox": [
+     0,
+     1,
+     0
+    ],
+    "Ahram Online": [
      0,
      1,
      0
