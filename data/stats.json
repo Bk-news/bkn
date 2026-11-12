@@ -9712,16 +9712,16 @@
    }
   },
   "2026-11-11": {
-   "total": 786,
-   "news": 781,
+   "total": 787,
+   "news": 782,
    "articles": 5,
    "positive": 0,
-   "neutral": 786,
+   "neutral": 787,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "US": 153,
-    "SA": 87,
+    "SA": 88,
     "GB": 347,
     "JP": 1,
     "HK": 4,
@@ -9731,7 +9731,7 @@
    "sources": {
     "WSJ": 32,
     "The New York Times": 13,
-    "Arab News": 83,
+    "Arab News": 84,
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
     "Al-Monitor": 38,
@@ -9884,7 +9884,7 @@
     ],
     "Arab News": [
      0,
-     83,
+     84,
      0
     ],
     "www.thenewworld.co.uk": [
