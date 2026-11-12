@@ -8886,15 +8886,15 @@
    }
   },
   "2026-11-10": {
-   "total": 878,
-   "news": 866,
+   "total": 879,
+   "news": 867,
    "articles": 12,
    "positive": 0,
-   "neutral": 878,
+   "neutral": 879,
    "critical": 0,
    "mbs": 22,
    "countries": {
-    "US": 219,
+    "US": 220,
     "GB": 358,
     "HK": 1,
     "SA": 98,
@@ -8907,7 +8907,7 @@
     "The Washington Post": 9,
     "BBC": 14,
     "Al-Monitor": 55,
-    "WSJ": 42,
+    "WSJ": 43,
     "South China Morning Post": 1,
     "Bloomberg.com": 51,
     "AP News": 21,
@@ -9061,7 +9061,7 @@
     ],
     "WSJ": [
      0,
-     42,
+     43,
      0
     ],
     "South China Morning Post": [
@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 796,
-   "news": 791,
+   "total": 807,
+   "news": 802,
    "articles": 5,
    "positive": 0,
-   "neutral": 796,
+   "neutral": 807,
    "critical": 0,
    "mbs": 6,
    "countries": {
-    "US": 154,
+    "US": 155,
     "SA": 90,
-    "GB": 352,
+    "GB": 362,
     "JP": 1,
     "HK": 4,
     "FR": 6
@@ -9738,7 +9738,7 @@
     "The Washington Post": 14,
     "AP News": 11,
     "Reuters": 87,
-    "The Guardian": 152,
+    "The Guardian": 156,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 2,
@@ -9754,10 +9754,10 @@
     "https://houseofsaud.com/": 5,
     "Arab News PK": 2,
     "The Economic Times": 1,
-    "Financial Times": 108,
+    "Financial Times": 114,
     "Cyprus Shipping News": 1,
     "Saudi Gazette": 13,
-    "Bloomberg.com": 37,
+    "Bloomberg.com": 38,
     "South China Morning Post": 4,
     "Le Monde.fr": 4,
     "Mining.com.au": 1,
@@ -9920,7 +9920,7 @@
     ],
     "The Guardian": [
      0,
-     152,
+     156,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -10000,7 +10000,7 @@
     ],
     "Financial Times": [
      0,
-     108,
+     114,
      0
     ],
     "Cyprus Shipping News": [
@@ -10015,7 +10015,7 @@
     ],
     "Bloomberg.com": [
      0,
-     37,
+     38,
      0
     ],
     "South China Morning Post": [
@@ -10586,15 +10586,15 @@
    }
   },
   "2026-11-12": {
-   "total": 157,
-   "news": 155,
+   "total": 185,
+   "news": 183,
    "articles": 2,
    "positive": 0,
-   "neutral": 157,
+   "neutral": 185,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 61,
+    "GB": 79,
     "US": 39,
     "FR": 1,
     "SA": 14,
@@ -10602,8 +10602,8 @@
    },
    "topics": {},
    "sources": {
-    "Financial Times": 17,
-    "The Guardian": 20,
+    "Financial Times": 19,
+    "The Guardian": 26,
     "StreetInsider": 1,
     "Bloomberg": 1,
     "India Narrative": 1,
@@ -10615,9 +10615,9 @@
     "Saudi Gazette": 5,
     "Al-Monitor": 9,
     "The New York Times": 8,
-    "Reuters": 13,
+    "Reuters": 22,
     "AP News": 1,
-    "Arab News": 10,
+    "Arab News": 11,
     "South China Morning Post": 5,
     "Dealroom": 1,
     "Dubai Eye 103.8": 1,
@@ -10649,21 +10649,29 @@
     "Investing.com UK": 1,
     "TheWire.in": 1,
     "Cranes Today": 1,
-    "FT Markets Data": 1,
+    "FT Markets Data": 2,
     "sanad.uk": 1,
     "Envanter Medya": 2,
     "Middle East Monitor": 1,
-    "USA Today": 1
+    "USA Today": 1,
+    "وكالة الأنباء السعودية": 1,
+    "A News": 1,
+    "ASHARQ AL-AWSAT English": 2,
+    "PV Tech": 1,
+    "GPblog": 1,
+    "Grande Prêmio": 1,
+    "Arabian Business": 1,
+    "وكالة الانباء الاردنية": 1
    },
    "sourceTone": {
     "Financial Times": [
      0,
-     17,
+     19,
      0
     ],
     "The Guardian": [
      0,
-     20,
+     26,
      0
     ],
     "StreetInsider": [
@@ -10723,7 +10731,7 @@
     ],
     "Reuters": [
      0,
-     13,
+     22,
      0
     ],
     "AP News": [
@@ -10733,7 +10741,7 @@
     ],
     "Arab News": [
      0,
-     10,
+     11,
      0
     ],
     "South China Morning Post": [
@@ -10893,7 +10901,7 @@
     ],
     "FT Markets Data": [
      0,
-     1,
+     2,
      0
     ],
     "sanad.uk": [
@@ -10912,6 +10920,46 @@
      0
     ],
     "USA Today": [
+     0,
+     1,
+     0
+    ],
+    "وكالة الأنباء السعودية": [
+     0,
+     1,
+     0
+    ],
+    "A News": [
+     0,
+     1,
+     0
+    ],
+    "ASHARQ AL-AWSAT English": [
+     0,
+     2,
+     0
+    ],
+    "PV Tech": [
+     0,
+     1,
+     0
+    ],
+    "GPblog": [
+     0,
+     1,
+     0
+    ],
+    "Grande Prêmio": [
+     0,
+     1,
+     0
+    ],
+    "Arabian Business": [
+     0,
+     1,
+     0
+    ],
+    "وكالة الانباء الاردنية": [
      0,
      1,
      0
