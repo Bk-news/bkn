@@ -1,5 +1,17 @@
 [
  {
+  "id": "da72677394e89ca9",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "الذهب يهبط بنحو 2% إلى 3908.03 دولار للأونصة",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/153300",
+  "published": "2026-11-12T13:35:02.000Z",
+  "subject": "saudi",
+  "added": "2026-11-12T13:35:02.000Z"
+ },
+ {
   "id": "09e2b6e077b330f5",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -142,17 +154,5 @@
   "published": "2026-11-12T12:56:01.000Z",
   "subject": "saudi",
   "added": "2026-11-12T12:56:01.000Z"
- },
- {
-  "id": "2e655e058b1893e6",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "بوتين: وجود القوات الأجنبية في أوكرانيا غير مقبول وهي هدف لقواتنا",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/153287",
-  "published": "2026-11-12T12:36:02.000Z",
-  "subject": "saudi",
-  "added": "2026-11-12T12:36:02.000Z"
  }
 ]
