@@ -1,5 +1,17 @@
 [
  {
+  "id": "28871466427d2c9d",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "ترمب: لدينا مئات مليارات الدولارات من أموال إيران",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/153297",
+  "published": "2026-11-12T13:17:02.000Z",
+  "subject": "saudi",
+  "added": "2026-11-12T13:17:02.000Z"
+ },
+ {
   "id": "5a0b4e2c67d74af3",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -154,17 +166,5 @@
   "published": "2026-11-12T12:21:01.000Z",
   "subject": "saudi",
   "added": "2026-11-12T12:21:01.000Z"
- },
- {
-  "id": "7a4e87212f55d5f0",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "ويتكوف: مفاوضات روسيا وأوكرانيا جرت في أجواء إيجابية",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/153283",
-  "published": "2026-11-12T12:17:01.000Z",
-  "subject": "saudi",
-  "added": "2026-11-12T12:17:01.000Z"
  }
 ]

@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 892,
-   "news": 880,
+   "total": 893,
+   "news": 881,
    "articles": 12,
    "positive": 0,
-   "neutral": 892,
+   "neutral": 893,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 222,
-    "GB": 369,
+    "GB": 370,
     "HK": 1,
     "SA": 98,
     "FR": 7,
@@ -8980,7 +8980,7 @@
     "Forbes Middle East": 2,
     "TV7 Israel News": 1,
     "News of Bahrain": 1,
-    "The Guardian": 144,
+    "The Guardian": 145,
     "Foreign Policy": 2,
     "صحيفة سبق الإلكترونية": 1,
     "thetruthaboutcars.com": 1,
@@ -9426,7 +9426,7 @@
     ],
     "The Guardian": [
      0,
-     144,
+     145,
      0
     ],
     "Foreign Policy": [
@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 819,
-   "news": 814,
+   "total": 820,
+   "news": 815,
    "articles": 5,
    "positive": 0,
-   "neutral": 819,
+   "neutral": 820,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "US": 156,
     "SA": 90,
-    "GB": 372,
+    "GB": 373,
     "JP": 1,
     "HK": 4,
     "FR": 6
@@ -9738,7 +9738,7 @@
     "The Washington Post": 14,
     "AP News": 11,
     "Reuters": 94,
-    "The Guardian": 157,
+    "The Guardian": 158,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 2,
@@ -9921,7 +9921,7 @@
     ],
     "The Guardian": [
      0,
-     157,
+     158,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -10592,15 +10592,15 @@
    }
   },
   "2026-11-12": {
-   "total": 240,
-   "news": 238,
+   "total": 244,
+   "news": 242,
    "articles": 2,
    "positive": 0,
-   "neutral": 240,
+   "neutral": 244,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 93,
+    "GB": 96,
     "US": 41,
     "FR": 1,
     "SA": 15,
@@ -10621,7 +10621,7 @@
     "Saudi Gazette": 5,
     "Al-Monitor": 9,
     "The New York Times": 8,
-    "Reuters": 27,
+    "Reuters": 30,
     "AP News": 1,
     "Arab News": 14,
     "South China Morning Post": 5,
@@ -10694,7 +10694,8 @@
     "조선일보": 1,
     "Kurdistan24": 1,
     "Zawya": 1,
-    "The New Arab": 1
+    "The New Arab": 1,
+    "blue News": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -10764,7 +10765,7 @@
     ],
     "Reuters": [
      0,
-     27,
+     30,
      0
     ],
     "AP News": [
@@ -11128,6 +11129,11 @@
      0
     ],
     "The New Arab": [
+     0,
+     1,
+     0
+    ],
+    "blue News": [
      0,
      1,
      0
