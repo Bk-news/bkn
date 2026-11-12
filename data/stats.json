@@ -10592,11 +10592,11 @@
    }
   },
   "2026-11-12": {
-   "total": 272,
-   "news": 270,
+   "total": 273,
+   "news": 271,
    "articles": 2,
    "positive": 0,
-   "neutral": 272,
+   "neutral": 273,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -10675,7 +10675,7 @@
     "ITP.net": 1,
     "Sportstar": 1,
     "The Diplomatic Insight": 2,
-    "Middle East Online": 1,
+    "Middle East Online": 2,
     "LiveScore": 1,
     "Fast Company Middle East": 2,
     "Military Africa": 1,
@@ -11043,7 +11043,7 @@
     ],
     "Middle East Online": [
      0,
-     1,
+     2,
      0
     ],
     "LiveScore": [
