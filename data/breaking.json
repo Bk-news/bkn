@@ -1,5 +1,17 @@
 [
  {
+  "id": "887344bb83c114c4",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "مصادر العربية: الزيدي أمر جميع القطاعات العسكرية بفرض السيطرة على الأراضي العراقية",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/153295",
+  "published": "2026-11-12T13:14:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-12T13:14:01.000Z"
+ },
+ {
   "id": "c8d9261c4863e5e2",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -154,17 +166,5 @@
   "published": "2026-11-12T12:15:02.000Z",
   "subject": "saudi",
   "added": "2026-11-12T12:15:02.000Z"
- },
- {
-  "id": "13f0a564877a98af",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "هيئة بحرية بريطانية: ناقلة تعرضت لمقذوف مجهول أثناء إبحارها شرقا في الخليج",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/153281",
-  "published": "2026-11-12T12:14:01.000Z",
-  "subject": "saudi",
-  "added": "2026-11-12T12:14:01.000Z"
  }
 ]

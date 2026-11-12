@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 891,
-   "news": 879,
+   "total": 892,
+   "news": 880,
    "articles": 12,
    "positive": 0,
-   "neutral": 891,
+   "neutral": 892,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 222,
-    "GB": 368,
+    "GB": 369,
     "HK": 1,
     "SA": 98,
     "FR": 7,
@@ -8929,7 +8929,7 @@
     "The Business Journals": 1,
     "Puck": 1,
     "Heavy.com": 2,
-    "Reuters": 147,
+    "Reuters": 148,
     "Gulf News": 4,
     "CGTN": 1,
     "Al Jazeera": 2,
@@ -9171,7 +9171,7 @@
     ],
     "Reuters": [
      0,
-     147,
+     148,
      0
     ],
     "Gulf News": [
@@ -10592,16 +10592,16 @@
    }
   },
   "2026-11-12": {
-   "total": 237,
-   "news": 235,
+   "total": 240,
+   "news": 238,
    "articles": 2,
    "positive": 0,
-   "neutral": 237,
+   "neutral": 240,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 91,
-    "US": 40,
+    "GB": 93,
+    "US": 41,
     "FR": 1,
     "SA": 15,
     "HK": 3
@@ -10609,7 +10609,7 @@
    "topics": {},
    "sources": {
     "Financial Times": 20,
-    "The Guardian": 30,
+    "The Guardian": 31,
     "StreetInsider": 1,
     "Bloomberg": 1,
     "India Narrative": 1,
@@ -10617,11 +10617,11 @@
     "Oil & Gas Middle East": 1,
     "WSJ": 9,
     "France 24": 1,
-    "Bloomberg.com": 11,
+    "Bloomberg.com": 12,
     "Saudi Gazette": 5,
     "Al-Monitor": 9,
     "The New York Times": 8,
-    "Reuters": 26,
+    "Reuters": 27,
     "AP News": 1,
     "Arab News": 14,
     "South China Morning Post": 5,
@@ -10704,7 +10704,7 @@
     ],
     "The Guardian": [
      0,
-     30,
+     31,
      0
     ],
     "StreetInsider": [
@@ -10744,7 +10744,7 @@
     ],
     "Bloomberg.com": [
      0,
-     11,
+     12,
      0
     ],
     "Saudi Gazette": [
@@ -10764,7 +10764,7 @@
     ],
     "Reuters": [
      0,
-     26,
+     27,
      0
     ],
     "AP News": [
