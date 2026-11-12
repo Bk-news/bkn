@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 834,
-   "news": 822,
+   "total": 836,
+   "news": 824,
    "articles": 12,
    "positive": 0,
-   "neutral": 834,
+   "neutral": 836,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 213,
-    "GB": 320,
+    "GB": 322,
     "HK": 1,
     "SA": 98,
     "FR": 7,
@@ -8936,7 +8936,7 @@
     "TRT World": 1,
     "Asset Servicing Times": 1,
     "Saudi Gazette": 16,
-    "Financial Times": 46,
+    "Financial Times": 48,
     "CNN": 4,
     "France 24": 4,
     "Fana News -": 1,
@@ -9206,7 +9206,7 @@
     ],
     "Financial Times": [
      0,
-     46,
+     48,
      0
     ],
     "CNN": [
@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 696,
-   "news": 691,
+   "total": 702,
+   "news": 697,
    "articles": 5,
    "positive": 0,
-   "neutral": 696,
+   "neutral": 702,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "US": 146,
     "SA": 85,
-    "GB": 275,
+    "GB": 280,
     "JP": 1,
     "HK": 4,
     "FR": 5
@@ -9754,7 +9754,7 @@
     "https://houseofsaud.com/": 5,
     "Arab News PK": 2,
     "The Economic Times": 1,
-    "Financial Times": 76,
+    "Financial Times": 81,
     "Cyprus Shipping News": 1,
     "Saudi Gazette": 12,
     "Bloomberg.com": 33,
@@ -9865,7 +9865,8 @@
     "BigGo Finance": 1,
     "www.inss.org.il": 1,
     "Inspenet": 1,
-    "Oman Observer": 1
+    "Oman Observer": 1,
+    "A News": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -9995,7 +9996,7 @@
     ],
     "Financial Times": [
      0,
-     76,
+     81,
      0
     ],
     "Cyprus Shipping News": [
@@ -10552,30 +10553,37 @@
      0,
      1,
      0
+    ],
+    "A News": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-12": {
-   "total": 7,
-   "news": 7,
+   "total": 9,
+   "news": 9,
    "articles": 0,
    "positive": 0,
-   "neutral": 7,
+   "neutral": 9,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 6
+    "GB": 7,
+    "US": 1
    },
    "topics": {},
    "sources": {
-    "Financial Times": 5,
+    "Financial Times": 6,
     "The Guardian": 1,
-    "StreetInsider": 1
+    "StreetInsider": 1,
+    "Bloomberg": 1
    },
    "sourceTone": {
     "Financial Times": [
      0,
-     5,
+     6,
      0
     ],
     "The Guardian": [
@@ -10584,6 +10592,11 @@
      0
     ],
     "StreetInsider": [
+     0,
+     1,
+     0
+    ],
+    "Bloomberg": [
      0,
      1,
      0
