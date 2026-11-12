@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 889,
-   "news": 877,
+   "total": 890,
+   "news": 878,
    "articles": 12,
    "positive": 0,
-   "neutral": 889,
+   "neutral": 890,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 221,
-    "GB": 367,
+    "GB": 368,
     "HK": 1,
     "SA": 98,
     "FR": 7,
@@ -8936,7 +8936,7 @@
     "TRT World": 1,
     "Asset Servicing Times": 1,
     "Saudi Gazette": 16,
-    "Financial Times": 63,
+    "Financial Times": 64,
     "CNN": 4,
     "France 24": 4,
     "Fana News -": 1,
@@ -9206,7 +9206,7 @@
     ],
     "Financial Times": [
      0,
-     63,
+     64,
      0
     ],
     "CNN": [
@@ -9712,24 +9712,24 @@
    }
   },
   "2026-11-11": {
-   "total": 815,
-   "news": 810,
+   "total": 819,
+   "news": 814,
    "articles": 5,
    "positive": 0,
-   "neutral": 815,
+   "neutral": 819,
    "critical": 0,
    "mbs": 6,
    "countries": {
-    "US": 155,
+    "US": 156,
     "SA": 90,
-    "GB": 370,
+    "GB": 372,
     "JP": 1,
     "HK": 4,
     "FR": 6
    },
    "topics": {},
    "sources": {
-    "WSJ": 32,
+    "WSJ": 33,
     "The New York Times": 13,
     "Arab News": 85,
     "www.thenewworld.co.uk": 1,
@@ -9754,7 +9754,7 @@
     "https://houseofsaud.com/": 5,
     "Arab News PK": 2,
     "The Economic Times": 1,
-    "Financial Times": 114,
+    "Financial Times": 116,
     "Cyprus Shipping News": 1,
     "Saudi Gazette": 13,
     "Bloomberg.com": 38,
@@ -9870,12 +9870,13 @@
     "Briefs Finance": 2,
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1,
     "Cyprus Mail": 1,
-    "London Daily News": 1
+    "London Daily News": 1,
+    "EnergyNow.com": 1
    },
    "sourceTone": {
     "WSJ": [
      0,
-     32,
+     33,
      0
     ],
     "The New York Times": [
@@ -10000,7 +10001,7 @@
     ],
     "Financial Times": [
      0,
-     114,
+     116,
      0
     ],
     "Cyprus Shipping News": [
@@ -10582,42 +10583,47 @@
      0,
      1,
      0
+    ],
+    "EnergyNow.com": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-12": {
-   "total": 207,
-   "news": 205,
+   "total": 232,
+   "news": 230,
    "articles": 2,
    "positive": 0,
-   "neutral": 207,
+   "neutral": 232,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 82,
-    "US": 39,
+    "GB": 88,
+    "US": 40,
     "FR": 1,
     "SA": 15,
     "HK": 3
    },
    "topics": {},
    "sources": {
-    "Financial Times": 19,
-    "The Guardian": 28,
+    "Financial Times": 20,
+    "The Guardian": 29,
     "StreetInsider": 1,
     "Bloomberg": 1,
     "India Narrative": 1,
     "BBC": 8,
     "Oil & Gas Middle East": 1,
-    "WSJ": 8,
+    "WSJ": 9,
     "France 24": 1,
     "Bloomberg.com": 11,
     "Saudi Gazette": 5,
     "Al-Monitor": 9,
     "The New York Times": 8,
-    "Reuters": 23,
+    "Reuters": 24,
     "AP News": 1,
-    "Arab News": 13,
+    "Arab News": 14,
     "South China Morning Post": 5,
     "Dealroom": 1,
     "Dubai Eye 103.8": 1,
@@ -10631,7 +10637,7 @@
     "Yahoo Sports": 1,
     "The Jerusalem Post": 1,
     "Anadolu Ajansı": 1,
-    "Middle East Eye": 1,
+    "Middle East Eye": 2,
     "www.thenationalnews.com": 1,
     "Al Jazeera": 1,
     "Arab News PK": 1,
@@ -10649,14 +10655,14 @@
     "Investing.com UK": 1,
     "TheWire.in": 1,
     "Cranes Today": 1,
-    "FT Markets Data": 2,
+    "FT Markets Data": 6,
     "sanad.uk": 1,
     "Envanter Medya": 2,
     "Middle East Monitor": 2,
     "USA Today": 1,
     "وكالة الأنباء السعودية": 1,
     "A News": 1,
-    "ASHARQ AL-AWSAT English": 2,
+    "ASHARQ AL-AWSAT English": 3,
     "PV Tech": 1,
     "GPblog": 1,
     "Grande Prêmio": 1,
@@ -10668,23 +10674,35 @@
     "Egypt Independent": 1,
     "ITP.net": 1,
     "Sportstar": 1,
-    "The Diplomatic Insight": 1,
+    "The Diplomatic Insight": 2,
     "Middle East Online": 1,
     "LiveScore": 1,
-    "Fast Company Middle East": 1,
+    "Fast Company Middle East": 2,
     "Military Africa": 1,
     "ThinkChina": 1,
-    "Egypt Today": 1
+    "Egypt Today": 1,
+    "Employee Happiness Daily": 1,
+    "The Times of India": 1,
+    "Business Insider Africa": 1,
+    "CMB News": 1,
+    "Yeni Safak English": 1,
+    "HackerNoon": 1,
+    "Al Arabiya English": 1,
+    "Forbes Middle East": 1,
+    "Philippine Canadian Inquirer": 1,
+    "The New Voice of Ukraine": 1,
+    "조선일보": 1,
+    "Kurdistan24": 1
    },
    "sourceTone": {
     "Financial Times": [
      0,
-     19,
+     20,
      0
     ],
     "The Guardian": [
      0,
-     28,
+     29,
      0
     ],
     "StreetInsider": [
@@ -10714,7 +10732,7 @@
     ],
     "WSJ": [
      0,
-     8,
+     9,
      0
     ],
     "France 24": [
@@ -10744,7 +10762,7 @@
     ],
     "Reuters": [
      0,
-     23,
+     24,
      0
     ],
     "AP News": [
@@ -10754,7 +10772,7 @@
     ],
     "Arab News": [
      0,
-     13,
+     14,
      0
     ],
     "South China Morning Post": [
@@ -10824,7 +10842,7 @@
     ],
     "Middle East Eye": [
      0,
-     1,
+     2,
      0
     ],
     "www.thenationalnews.com": [
@@ -10914,7 +10932,7 @@
     ],
     "FT Markets Data": [
      0,
-     2,
+     6,
      0
     ],
     "sanad.uk": [
@@ -10949,7 +10967,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     2,
+     3,
      0
     ],
     "PV Tech": [
@@ -11009,7 +11027,7 @@
     ],
     "The Diplomatic Insight": [
      0,
-     1,
+     2,
      0
     ],
     "Middle East Online": [
@@ -11024,7 +11042,7 @@
     ],
     "Fast Company Middle East": [
      0,
-     1,
+     2,
      0
     ],
     "Military Africa": [
@@ -11038,6 +11056,66 @@
      0
     ],
     "Egypt Today": [
+     0,
+     1,
+     0
+    ],
+    "Employee Happiness Daily": [
+     0,
+     1,
+     0
+    ],
+    "The Times of India": [
+     0,
+     1,
+     0
+    ],
+    "Business Insider Africa": [
+     0,
+     1,
+     0
+    ],
+    "CMB News": [
+     0,
+     1,
+     0
+    ],
+    "Yeni Safak English": [
+     0,
+     1,
+     0
+    ],
+    "HackerNoon": [
+     0,
+     1,
+     0
+    ],
+    "Al Arabiya English": [
+     0,
+     1,
+     0
+    ],
+    "Forbes Middle East": [
+     0,
+     1,
+     0
+    ],
+    "Philippine Canadian Inquirer": [
+     0,
+     1,
+     0
+    ],
+    "The New Voice of Ukraine": [
+     0,
+     1,
+     0
+    ],
+    "조선일보": [
+     0,
+     1,
+     0
+    ],
+    "Kurdistan24": [
      0,
      1,
      0
