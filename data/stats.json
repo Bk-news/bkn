@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 801,
-   "news": 789,
+   "total": 803,
+   "news": 791,
    "articles": 12,
    "positive": 0,
-   "neutral": 801,
+   "neutral": 803,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 213,
-    "GB": 288,
+    "GB": 290,
     "HK": 1,
     "SA": 97,
     "FR": 7,
@@ -8936,7 +8936,7 @@
     "TRT World": 1,
     "Asset Servicing Times": 1,
     "Saudi Gazette": 16,
-    "Financial Times": 19,
+    "Financial Times": 20,
     "CNN": 4,
     "France 24": 4,
     "Fana News -": 1,
@@ -8980,7 +8980,7 @@
     "Forbes Middle East": 2,
     "TV7 Israel News": 1,
     "News of Bahrain": 1,
-    "The Guardian": 123,
+    "The Guardian": 124,
     "Foreign Policy": 2,
     "صحيفة سبق الإلكترونية": 1,
     "thetruthaboutcars.com": 1,
@@ -9206,7 +9206,7 @@
     ],
     "Financial Times": [
      0,
-     19,
+     20,
      0
     ],
     "CNN": [
@@ -9426,7 +9426,7 @@
     ],
     "The Guardian": [
      0,
-     123,
+     124,
      0
     ],
     "Foreign Policy": [
@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 600,
-   "news": 596,
-   "articles": 4,
+   "total": 604,
+   "news": 599,
+   "articles": 5,
    "positive": 0,
-   "neutral": 600,
+   "neutral": 604,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "US": 141,
-    "SA": 65,
-    "GB": 206,
+    "SA": 66,
+    "GB": 209,
     "JP": 1,
     "HK": 4,
     "FR": 4
@@ -9731,14 +9731,14 @@
    "sources": {
     "WSJ": 30,
     "The New York Times": 12,
-    "Arab News": 61,
+    "Arab News": 62,
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
     "Al-Monitor": 37,
     "The Washington Post": 13,
     "AP News": 10,
     "Reuters": 68,
-    "The Guardian": 109,
+    "The Guardian": 111,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 2,
@@ -9797,7 +9797,7 @@
     "Shanghai Metals Market": 1,
     "FTL Somalia": 1,
     "CairoScene": 1,
-    "The Economist": 1,
+    "The Economist": 2,
     "Middle East Online": 2,
     "CNN": 2,
     "DW.com": 1,
@@ -9880,7 +9880,7 @@
     ],
     "Arab News": [
      0,
-     61,
+     62,
      0
     ],
     "www.thenewworld.co.uk": [
@@ -9915,7 +9915,7 @@
     ],
     "The Guardian": [
      0,
-     109,
+     111,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -10210,7 +10210,7 @@
     ],
     "The Economist": [
      0,
-     1,
+     2,
      0
     ],
     "Middle East Online": [
