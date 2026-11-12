@@ -10586,11 +10586,11 @@
    }
   },
   "2026-11-12": {
-   "total": 77,
-   "news": 77,
+   "total": 78,
+   "news": 78,
    "articles": 0,
    "positive": 0,
-   "neutral": 77,
+   "neutral": 78,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -10637,7 +10637,8 @@
     "Healthcare Asia Magazine": 1,
     "i24NEWS": 1,
     "The Soufan Center": 1,
-    "houseofsaud.com": 1
+    "houseofsaud.com": 1,
+    "Digital Watch Observatory": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -10821,6 +10822,11 @@
      0
     ],
     "houseofsaud.com": [
+     0,
+     1,
+     0
+    ],
+    "Digital Watch Observatory": [
      0,
      1,
      0
