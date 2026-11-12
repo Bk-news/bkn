@@ -8886,16 +8886,16 @@
    }
   },
   "2026-11-10": {
-   "total": 873,
-   "news": 861,
+   "total": 874,
+   "news": 862,
    "articles": 12,
    "positive": 0,
-   "neutral": 873,
+   "neutral": 874,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "US": 219,
-    "GB": 353,
+    "GB": 354,
     "HK": 1,
     "SA": 98,
     "FR": 7,
@@ -8980,7 +8980,7 @@
     "Forbes Middle East": 2,
     "TV7 Israel News": 1,
     "News of Bahrain": 1,
-    "The Guardian": 139,
+    "The Guardian": 140,
     "Foreign Policy": 2,
     "صحيفة سبق الإلكترونية": 1,
     "thetruthaboutcars.com": 1,
@@ -9426,7 +9426,7 @@
     ],
     "The Guardian": [
      0,
-     139,
+     140,
      0
     ],
     "Foreign Policy": [
@@ -9712,15 +9712,15 @@
    }
   },
   "2026-11-11": {
-   "total": 783,
-   "news": 778,
+   "total": 784,
+   "news": 779,
    "articles": 5,
    "positive": 0,
-   "neutral": 783,
+   "neutral": 784,
    "critical": 0,
    "mbs": 6,
    "countries": {
-    "US": 152,
+    "US": 153,
     "SA": 87,
     "GB": 345,
     "JP": 1,
@@ -9757,7 +9757,7 @@
     "Financial Times": 108,
     "Cyprus Shipping News": 1,
     "Saudi Gazette": 12,
-    "Bloomberg.com": 35,
+    "Bloomberg.com": 36,
     "South China Morning Post": 4,
     "Le Monde.fr": 4,
     "Mining.com.au": 1,
@@ -10014,7 +10014,7 @@
     ],
     "Bloomberg.com": [
      0,
-     35,
+     36,
      0
     ],
     "South China Morning Post": [
@@ -10580,22 +10580,22 @@
    }
   },
   "2026-11-12": {
-   "total": 60,
-   "news": 60,
+   "total": 61,
+   "news": 61,
    "articles": 0,
    "positive": 0,
-   "neutral": 60,
+   "neutral": 61,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 27,
+    "GB": 28,
     "US": 11,
     "FR": 1,
     "SA": 2
    },
    "topics": {},
    "sources": {
-    "Financial Times": 9,
+    "Financial Times": 10,
     "The Guardian": 10,
     "StreetInsider": 1,
     "Bloomberg": 1,
@@ -10629,7 +10629,7 @@
    "sourceTone": {
     "Financial Times": [
      0,
-     9,
+     10,
      0
     ],
     "The Guardian": [
