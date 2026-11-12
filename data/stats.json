@@ -10580,18 +10580,18 @@
    }
   },
   "2026-11-12": {
-   "total": 61,
-   "news": 61,
+   "total": 62,
+   "news": 62,
    "articles": 0,
    "positive": 0,
-   "neutral": 61,
+   "neutral": 62,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 28,
     "US": 11,
     "FR": 1,
-    "SA": 2
+    "SA": 3
    },
    "topics": {},
    "sources": {
@@ -10610,7 +10610,7 @@
     "The New York Times": 3,
     "Reuters": 5,
     "AP News": 1,
-    "Arab News": 2,
+    "Arab News": 3,
     "South China Morning Post": 2,
     "Dealroom": 1,
     "Dubai Eye 103.8": 1,
@@ -10704,7 +10704,7 @@
     ],
     "Arab News": [
      0,
-     2,
+     3,
      0
     ],
     "South China Morning Post": [
