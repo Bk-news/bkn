@@ -10592,16 +10592,16 @@
    }
   },
   "2026-11-12": {
-   "total": 684,
-   "news": 661,
+   "total": 685,
+   "news": 662,
    "articles": 23,
    "positive": 0,
-   "neutral": 684,
+   "neutral": 685,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "GB": 299,
-    "US": 117,
+    "US": 118,
     "FR": 5,
     "SA": 78,
     "HK": 4,
@@ -10650,7 +10650,7 @@
     "Digital Watch Observatory": 1,
     "SolarQuarter": 1,
     "Investing.com": 1,
-    "The Washington Post": 3,
+    "The Washington Post": 4,
     "The Economist": 13,
     "Time Magazine": 1,
     "CNN": 6,
@@ -10954,7 +10954,7 @@
     ],
     "The Washington Post": [
      0,
-     3,
+     4,
      0
     ],
     "The Economist": [
