@@ -10592,16 +10592,16 @@
    }
   },
   "2026-11-12": {
-   "total": 671,
-   "news": 648,
+   "total": 673,
+   "news": 650,
    "articles": 23,
    "positive": 0,
-   "neutral": 671,
+   "neutral": 673,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "GB": 291,
-    "US": 114,
+    "GB": 292,
+    "US": 115,
     "FR": 5,
     "SA": 77,
     "HK": 4,
@@ -10611,7 +10611,7 @@
    "topics": {},
    "sources": {
     "Financial Times": 61,
-    "The Guardian": 78,
+    "The Guardian": 79,
     "StreetInsider": 1,
     "Bloomberg": 1,
     "India Narrative": 1,
@@ -10622,7 +10622,7 @@
     "Bloomberg.com": 22,
     "Saudi Gazette": 15,
     "Al-Monitor": 26,
-    "The New York Times": 19,
+    "The New York Times": 20,
     "Reuters": 120,
     "AP News": 10,
     "Arab News": 72,
@@ -10758,7 +10758,7 @@
     ],
     "The Guardian": [
      0,
-     78,
+     79,
      0
     ],
     "StreetInsider": [
@@ -10813,7 +10813,7 @@
     ],
     "The New York Times": [
      0,
-     19,
+     20,
      0
     ],
     "Reuters": [
@@ -11449,11 +11449,11 @@
    }
   },
   "2026-11-13": {
-   "total": 345,
-   "news": 340,
+   "total": 347,
+   "news": 342,
    "articles": 5,
    "positive": 0,
-   "neutral": 345,
+   "neutral": 347,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -11479,7 +11479,7 @@
     "Arabian Business": 1,
     "UA.NEWS": 1,
     "Arab News PK": 2,
-    "조선일보": 7,
+    "조선일보": 8,
     "https://houseofsaud.com/": 3,
     "Shipping Telegraph": 1,
     "The Guardian": 21,
@@ -11528,7 +11528,7 @@
     "Chosunbiz": 5,
     "الحرة": 1,
     "Newsquawk": 2,
-    "日本取引所グループ": 56,
+    "日本取引所グループ": 57,
     "Business Insider Africa": 3,
     "The Korea Times": 1,
     "Investing.com": 1,
@@ -11610,7 +11610,7 @@
     ],
     "조선일보": [
      0,
-     7,
+     8,
      0
     ],
     "https://houseofsaud.com/": [
@@ -11855,7 +11855,7 @@
     ],
     "日本取引所グループ": [
      0,
-     56,
+     57,
      0
     ],
     "Business Insider Africa": [
