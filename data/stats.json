@@ -11449,16 +11449,16 @@
    }
   },
   "2026-11-13": {
-   "total": 326,
-   "news": 323,
-   "articles": 3,
+   "total": 329,
+   "news": 325,
+   "articles": 4,
    "positive": 0,
-   "neutral": 326,
+   "neutral": 329,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 93,
-    "US": 49,
+    "US": 51,
     "SA": 33,
     "DE": 7,
     "JP": 1,
@@ -11488,7 +11488,7 @@
     "BBC": 16,
     "Al Jazeera": 1,
     "Bloomberg.com": 14,
-    "Al-Monitor": 11,
+    "Al-Monitor": 12,
     "AP News": 3,
     "TRT World": 2,
     "fundsforNGOs - Grants and Resources for Sustainability": 1,
@@ -11517,13 +11517,13 @@
     "Muslim Network TV": 1,
     "Nikkei Asia": 1,
     "Capital FM Africa": 1,
-    "Atlantic Council": 2,
+    "Atlantic Council": 3,
     "France 24": 3,
     "Le Monde.fr": 2,
     "CNN": 2,
     "The Economist": 1,
     "ASHARQ AL-AWSAT English": 2,
-    "Yonhap News Agency": 1,
+    "Yonhap News Agency": 2,
     "The Hindu": 1,
     "Chosunbiz": 4,
     "الحرة": 1,
@@ -11654,7 +11654,7 @@
     ],
     "Al-Monitor": [
      0,
-     11,
+     12,
      0
     ],
     "AP News": [
@@ -11799,7 +11799,7 @@
     ],
     "Atlantic Council": [
      0,
-     2,
+     3,
      0
     ],
     "France 24": [
@@ -11829,7 +11829,7 @@
     ],
     "Yonhap News Agency": [
      0,
-     1,
+     2,
      0
     ],
     "The Hindu": [
