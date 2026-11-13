@@ -10592,15 +10592,15 @@
    }
   },
   "2026-11-12": {
-   "total": 583,
-   "news": 562,
+   "total": 584,
+   "news": 563,
    "articles": 21,
    "positive": 0,
-   "neutral": 583,
+   "neutral": 584,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "GB": 236,
+    "GB": 237,
     "US": 104,
     "FR": 3,
     "SA": 61,
@@ -10610,7 +10610,7 @@
    "topics": {},
    "sources": {
     "Financial Times": 54,
-    "The Guardian": 68,
+    "The Guardian": 69,
     "StreetInsider": 1,
     "Bloomberg": 1,
     "India Narrative": 1,
@@ -10753,7 +10753,7 @@
     ],
     "The Guardian": [
      0,
-     68,
+     69,
      0
     ],
     "StreetInsider": [
@@ -11424,15 +11424,15 @@
    }
   },
   "2026-11-13": {
-   "total": 23,
-   "news": 23,
+   "total": 24,
+   "news": 24,
    "articles": 0,
    "positive": 0,
-   "neutral": 23,
+   "neutral": 24,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 4,
+    "GB": 5,
     "US": 7,
     "SA": 1
    },
@@ -11454,7 +11454,7 @@
     "조선일보": 1,
     "https://houseofsaud.com/": 1,
     "Shipping Telegraph": 1,
-    "The Guardian": 1
+    "The Guardian": 2
    },
    "sourceTone": {
     "Financial Times": [
@@ -11539,7 +11539,7 @@
     ],
     "The Guardian": [
      0,
-     1,
+     2,
      0
     ]
    }
