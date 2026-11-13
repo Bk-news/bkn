@@ -1,5 +1,17 @@
 [
  {
+  "id": "92a9b52c54e70108",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "بلومبرغ: FBI لا يعتقد أن مشكلة الاتصالات بالمطارات بسبب هجوم سيبراني",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/153503",
+  "published": "2026-11-13T22:18:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-13T22:18:01.000Z"
+ },
+ {
   "id": "b108f5a7daea375d",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -214,17 +226,5 @@
   "published": "2026-11-13T21:20:22.000Z",
   "subject": "saudi",
   "added": "2026-11-13T21:20:22.000Z"
- },
- {
-  "id": "9dcc8ee281f05d03",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "إدارة الطيران الفدرالية الأميركية: وقف جميع الرحلات المغادرة حتى إشعار آخر",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/153484",
-  "published": "2026-11-13T21:19:02.000Z",
-  "subject": "saudi",
-  "added": "2026-11-13T21:19:02.000Z"
  }
 ]
