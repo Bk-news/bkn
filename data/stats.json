@@ -11455,11 +11455,11 @@
    }
   },
   "2026-11-13": {
-   "total": 455,
-   "news": 448,
+   "total": 456,
+   "news": 449,
    "articles": 7,
    "positive": 0,
-   "neutral": 455,
+   "neutral": 456,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -11555,7 +11555,8 @@
     "Yahoo": 1,
     "UFC.com": 1,
     "Goal.com": 1,
-    "Tampa Bay 28": 1
+    "Tampa Bay 28": 1,
+    "U.S. Senate (.gov)": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -11974,6 +11975,11 @@
      0
     ],
     "Tampa Bay 28": [
+     0,
+     1,
+     0
+    ],
+    "U.S. Senate (.gov)": [
      0,
      1,
      0
