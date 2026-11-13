@@ -10592,15 +10592,15 @@
    }
   },
   "2026-11-12": {
-   "total": 685,
-   "news": 662,
+   "total": 686,
+   "news": 663,
    "articles": 23,
    "positive": 0,
-   "neutral": 685,
+   "neutral": 686,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "GB": 299,
+    "GB": 300,
     "US": 118,
     "FR": 5,
     "SA": 78,
@@ -10611,7 +10611,7 @@
    "topics": {},
    "sources": {
     "Financial Times": 61,
-    "The Guardian": 82,
+    "The Guardian": 83,
     "StreetInsider": 1,
     "Bloomberg": 1,
     "India Narrative": 1,
@@ -10759,7 +10759,7 @@
     ],
     "The Guardian": [
      0,
-     82,
+     83,
      0
     ],
     "StreetInsider": [
@@ -11455,15 +11455,15 @@
    }
   },
   "2026-11-13": {
-   "total": 474,
-   "news": 467,
+   "total": 477,
+   "news": 470,
    "articles": 7,
    "positive": 0,
-   "neutral": 474,
+   "neutral": 477,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 147,
+    "GB": 148,
     "US": 82,
     "SA": 51,
     "DE": 7,
@@ -11472,7 +11472,7 @@
    },
    "topics": {},
    "sources": {
-    "Financial Times": 31,
+    "Financial Times": 32,
     "WSJ": 14,
     "The New York Times": 14,
     "Nation Thailand": 1,
@@ -11483,7 +11483,7 @@
     "The New Arab": 1,
     "The Guam Daily Post": 1,
     "Arabian Business": 1,
-    "UA.NEWS": 1,
+    "UA.NEWS": 2,
     "Arab News PK": 2,
     "조선일보": 12,
     "https://houseofsaud.com/": 4,
@@ -11558,12 +11558,13 @@
     "Tampa Bay 28": 1,
     "U.S. Senate (.gov)": 1,
     "Howl.Link": 1,
-    "X": 1
+    "X": 1,
+    "The Jerusalem Post": 1
    },
    "sourceTone": {
     "Financial Times": [
      0,
-     31,
+     32,
      0
     ],
     "WSJ": [
@@ -11618,7 +11619,7 @@
     ],
     "UA.NEWS": [
      0,
-     1,
+     2,
      0
     ],
     "Arab News PK": [
@@ -11992,6 +11993,11 @@
      0
     ],
     "X": [
+     0,
+     1,
+     0
+    ],
+    "The Jerusalem Post": [
      0,
      1,
      0

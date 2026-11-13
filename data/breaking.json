@@ -1,5 +1,17 @@
 [
  {
+  "id": "2dcc3df9d4c4de02",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "مراسل العربية من مطار دالاس يرصد تداعيات قرار وقف جميع الرحلات الجوية في أميركا",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/153510",
+  "published": "2026-11-13T22:44:30.000Z",
+  "subject": "saudi",
+  "added": "2026-11-13T22:44:30.000Z"
+ },
+ {
   "id": "15a0130dd25032e2",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -202,17 +214,5 @@
   "published": "2026-11-13T22:00:22.000Z",
   "subject": "saudi",
   "added": "2026-11-13T22:00:22.000Z"
- },
- {
-  "id": "ec01ffbf5cd790c2",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "CNN: تقارير أولية لسلطات إنفاذ القانون تشير لعدم وجود هجوم إلكتروني على نظام الملاحة الجوية",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/153492",
-  "published": "2026-11-13T21:45:22.000Z",
-  "subject": "saudi",
-  "added": "2026-11-13T21:45:22.000Z"
  }
 ]
