@@ -9712,15 +9712,15 @@
    }
   },
   "2026-11-11": {
-   "total": 863,
-   "news": 858,
+   "total": 864,
+   "news": 859,
    "articles": 5,
    "positive": 0,
-   "neutral": 863,
+   "neutral": 864,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 163,
+    "US": 164,
     "SA": 91,
     "GB": 406,
     "JP": 1,
@@ -9757,7 +9757,7 @@
     "Financial Times": 118,
     "Cyprus Shipping News": 1,
     "Saudi Gazette": 13,
-    "Bloomberg.com": 39,
+    "Bloomberg.com": 40,
     "South China Morning Post": 5,
     "Le Monde.fr": 5,
     "Mining.com.au": 1,
@@ -10016,7 +10016,7 @@
     ],
     "Bloomberg.com": [
      0,
-     39,
+     40,
      0
     ],
     "South China Morning Post": [
@@ -10592,40 +10592,40 @@
    }
   },
   "2026-11-12": {
-   "total": 505,
-   "news": 489,
-   "articles": 16,
+   "total": 530,
+   "news": 511,
+   "articles": 19,
    "positive": 0,
-   "neutral": 505,
+   "neutral": 530,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "GB": 199,
-    "US": 89,
+    "GB": 207,
+    "US": 100,
     "FR": 3,
-    "SA": 53,
-    "HK": 3,
+    "SA": 57,
+    "HK": 4,
     "JP": 1
    },
    "topics": {},
    "sources": {
-    "Financial Times": 37,
-    "The Guardian": 61,
+    "Financial Times": 38,
+    "The Guardian": 65,
     "StreetInsider": 1,
     "Bloomberg": 1,
     "India Narrative": 1,
     "BBC": 11,
     "Oil & Gas Middle East": 1,
-    "WSJ": 15,
+    "WSJ": 16,
     "France 24": 3,
-    "Bloomberg.com": 19,
-    "Saudi Gazette": 10,
-    "Al-Monitor": 24,
-    "The New York Times": 14,
-    "Reuters": 69,
-    "AP News": 8,
-    "Arab News": 52,
-    "South China Morning Post": 5,
+    "Bloomberg.com": 21,
+    "Saudi Gazette": 11,
+    "Al-Monitor": 25,
+    "The New York Times": 16,
+    "Reuters": 72,
+    "AP News": 9,
+    "Arab News": 55,
+    "South China Morning Post": 6,
     "Dealroom": 1,
     "Dubai Eye 103.8": 1,
     "Gulf News": 3,
@@ -10652,7 +10652,7 @@
     "The Washington Post": 3,
     "The Economist": 13,
     "Time Magazine": 1,
-    "CNN": 4,
+    "CNN": 5,
     "Investing.com UK": 1,
     "TheWire.in": 1,
     "Cranes Today": 1,
@@ -10708,7 +10708,7 @@
     "Daily Sabah": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
     "Cyprus Mail": 1,
-    "Atlantic Council": 3,
+    "Atlantic Council": 6,
     "Nikkei Asia": 1,
     "Arbiterz": 1,
     "Apa.az": 1,
@@ -10732,17 +10732,18 @@
     "IndexBox": 1,
     "Ahram Online": 1,
     "Jewish Post and News": 1,
-    "The Hindu": 1
+    "The Hindu": 1,
+    "WhoWhatWhy": 1
    },
    "sourceTone": {
     "Financial Times": [
      0,
-     37,
+     38,
      0
     ],
     "The Guardian": [
      0,
-     61,
+     65,
      0
     ],
     "StreetInsider": [
@@ -10772,7 +10773,7 @@
     ],
     "WSJ": [
      0,
-     15,
+     16,
      0
     ],
     "France 24": [
@@ -10782,42 +10783,42 @@
     ],
     "Bloomberg.com": [
      0,
-     19,
+     21,
      0
     ],
     "Saudi Gazette": [
      0,
-     10,
+     11,
      0
     ],
     "Al-Monitor": [
      0,
-     24,
+     25,
      0
     ],
     "The New York Times": [
      0,
-     14,
+     16,
      0
     ],
     "Reuters": [
      0,
-     69,
+     72,
      0
     ],
     "AP News": [
      0,
-     8,
+     9,
      0
     ],
     "Arab News": [
      0,
-     52,
+     55,
      0
     ],
     "South China Morning Post": [
      0,
-     5,
+     6,
      0
     ],
     "Dealroom": [
@@ -10952,7 +10953,7 @@
     ],
     "CNN": [
      0,
-     4,
+     5,
      0
     ],
     "Investing.com UK": [
@@ -11232,7 +11233,7 @@
     ],
     "Atlantic Council": [
      0,
-     3,
+     6,
      0
     ],
     "Nikkei Asia": [
@@ -11351,6 +11352,90 @@
      0
     ],
     "The Hindu": [
+     0,
+     1,
+     0
+    ],
+    "WhoWhatWhy": [
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "2026-11-13": {
+   "total": 14,
+   "news": 14,
+   "articles": 0,
+   "positive": 0,
+   "neutral": 14,
+   "critical": 0,
+   "mbs": 0,
+   "countries": {
+    "GB": 3,
+    "US": 6,
+    "SA": 1
+   },
+   "topics": {},
+   "sources": {
+    "Financial Times": 2,
+    "WSJ": 3,
+    "The New York Times": 2,
+    "Nation Thailand": 1,
+    "Arab News": 1,
+    "The Washington Post": 1,
+    "Reuters": 1,
+    "Free Malaysia Today": 1,
+    "The New Arab": 1,
+    "The Guam Daily Post": 1
+   },
+   "sourceTone": {
+    "Financial Times": [
+     0,
+     2,
+     0
+    ],
+    "WSJ": [
+     0,
+     3,
+     0
+    ],
+    "The New York Times": [
+     0,
+     2,
+     0
+    ],
+    "Nation Thailand": [
+     0,
+     1,
+     0
+    ],
+    "Arab News": [
+     0,
+     1,
+     0
+    ],
+    "The Washington Post": [
+     0,
+     1,
+     0
+    ],
+    "Reuters": [
+     0,
+     1,
+     0
+    ],
+    "Free Malaysia Today": [
+     0,
+     1,
+     0
+    ],
+    "The New Arab": [
+     0,
+     1,
+     0
+    ],
+    "The Guam Daily Post": [
      0,
      1,
      0
