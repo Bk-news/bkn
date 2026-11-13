@@ -10592,16 +10592,16 @@
    }
   },
   "2026-11-12": {
-   "total": 629,
-   "news": 607,
-   "articles": 22,
+   "total": 631,
+   "news": 608,
+   "articles": 23,
    "positive": 0,
-   "neutral": 629,
+   "neutral": 631,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "GB": 263,
-    "US": 107,
+    "US": 109,
     "FR": 4,
     "SA": 72,
     "HK": 4,
@@ -10618,7 +10618,7 @@
     "Oil & Gas Middle East": 1,
     "WSJ": 18,
     "France 24": 4,
-    "Bloomberg.com": 21,
+    "Bloomberg.com": 22,
     "Saudi Gazette": 13,
     "Al-Monitor": 25,
     "The New York Times": 18,
@@ -10708,7 +10708,7 @@
     "Daily Sabah": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
     "Cyprus Mail": 1,
-    "Atlantic Council": 9,
+    "Atlantic Council": 10,
     "Nikkei Asia": 1,
     "Arbiterz": 1,
     "Apa.az": 1,
@@ -10795,7 +10795,7 @@
     ],
     "Bloomberg.com": [
      0,
-     21,
+     22,
      0
     ],
     "Saudi Gazette": [
@@ -11245,7 +11245,7 @@
     ],
     "Atlantic Council": [
      0,
-     9,
+     10,
      0
     ],
     "Nikkei Asia": [
