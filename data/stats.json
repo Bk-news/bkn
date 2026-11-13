@@ -11455,15 +11455,15 @@
    }
   },
   "2026-11-13": {
-   "total": 470,
-   "news": 463,
+   "total": 473,
+   "news": 466,
    "articles": 7,
    "positive": 0,
-   "neutral": 470,
+   "neutral": 473,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 146,
+    "GB": 147,
     "US": 81,
     "SA": 51,
     "DE": 7,
@@ -11472,7 +11472,7 @@
    },
    "topics": {},
    "sources": {
-    "Financial Times": 30,
+    "Financial Times": 31,
     "WSJ": 14,
     "The New York Times": 14,
     "Nation Thailand": 1,
@@ -11554,15 +11554,16 @@
     "Aviation International News": 1,
     "Yahoo": 1,
     "UFC.com": 1,
-    "Goal.com": 1,
+    "Goal.com": 2,
     "Tampa Bay 28": 1,
     "U.S. Senate (.gov)": 1,
-    "Howl.Link": 1
+    "Howl.Link": 1,
+    "X": 1
    },
    "sourceTone": {
     "Financial Times": [
      0,
-     30,
+     31,
      0
     ],
     "WSJ": [
@@ -11972,7 +11973,7 @@
     ],
     "Goal.com": [
      0,
-     1,
+     2,
      0
     ],
     "Tampa Bay 28": [
@@ -11986,6 +11987,11 @@
      0
     ],
     "Howl.Link": [
+     0,
+     1,
+     0
+    ],
+    "X": [
      0,
      1,
      0
