@@ -11449,11 +11449,11 @@
    }
   },
   "2026-11-13": {
-   "total": 355,
-   "news": 350,
+   "total": 356,
+   "news": 351,
    "articles": 5,
    "positive": 0,
-   "neutral": 355,
+   "neutral": 356,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -11479,7 +11479,7 @@
     "Arabian Business": 1,
     "UA.NEWS": 1,
     "Arab News PK": 2,
-    "조선일보": 8,
+    "조선일보": 9,
     "https://houseofsaud.com/": 3,
     "Shipping Telegraph": 1,
     "The Guardian": 22,
@@ -11610,7 +11610,7 @@
     ],
     "조선일보": [
      0,
-     8,
+     9,
      0
     ],
     "https://houseofsaud.com/": [
