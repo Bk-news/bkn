@@ -11449,17 +11449,17 @@
    }
   },
   "2026-11-13": {
-   "total": 350,
-   "news": 345,
+   "total": 355,
+   "news": 350,
    "articles": 5,
    "positive": 0,
-   "neutral": 350,
+   "neutral": 355,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 103,
-    "US": 53,
-    "SA": 34,
+    "GB": 105,
+    "US": 55,
+    "SA": 35,
     "DE": 7,
     "JP": 1,
     "FR": 5
@@ -11467,12 +11467,12 @@
    "topics": {},
    "sources": {
     "Financial Times": 24,
-    "WSJ": 6,
+    "WSJ": 7,
     "The New York Times": 9,
     "Nation Thailand": 1,
-    "Arab News": 37,
+    "Arab News": 38,
     "The Washington Post": 2,
-    "Reuters": 41,
+    "Reuters": 43,
     "Free Malaysia Today": 1,
     "The New Arab": 1,
     "The Guam Daily Post": 1,
@@ -11487,7 +11487,7 @@
     "Spiegel": 7,
     "BBC": 16,
     "Al Jazeera": 1,
-    "Bloomberg.com": 14,
+    "Bloomberg.com": 15,
     "Al-Monitor": 13,
     "AP News": 3,
     "TRT World": 2,
@@ -11550,7 +11550,7 @@
     ],
     "WSJ": [
      0,
-     6,
+     7,
      0
     ],
     "The New York Times": [
@@ -11565,7 +11565,7 @@
     ],
     "Arab News": [
      0,
-     37,
+     38,
      0
     ],
     "The Washington Post": [
@@ -11575,7 +11575,7 @@
     ],
     "Reuters": [
      0,
-     41,
+     43,
      0
     ],
     "Free Malaysia Today": [
@@ -11650,7 +11650,7 @@
     ],
     "Bloomberg.com": [
      0,
-     14,
+     15,
      0
     ],
     "Al-Monitor": [
