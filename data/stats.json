@@ -9712,16 +9712,16 @@
    }
   },
   "2026-11-11": {
-   "total": 883,
-   "news": 877,
+   "total": 884,
+   "news": 878,
    "articles": 6,
    "positive": 0,
-   "neutral": 883,
+   "neutral": 884,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 173,
-    "SA": 95,
+    "SA": 96,
     "GB": 412,
     "JP": 1,
     "HK": 5,
@@ -9731,7 +9731,7 @@
    "sources": {
     "WSJ": 34,
     "The New York Times": 16,
-    "Arab News": 90,
+    "Arab News": 91,
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
     "Al-Monitor": 41,
@@ -9886,7 +9886,7 @@
     ],
     "Arab News": [
      0,
-     90,
+     91,
      0
     ],
     "www.thenewworld.co.uk": [
@@ -10592,18 +10592,18 @@
    }
   },
   "2026-11-12": {
-   "total": 624,
-   "news": 602,
+   "total": 629,
+   "news": 607,
    "articles": 22,
    "positive": 0,
-   "neutral": 624,
+   "neutral": 629,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "GB": 263,
     "US": 107,
     "FR": 4,
-    "SA": 67,
+    "SA": 72,
     "HK": 4,
     "JP": 1
    },
@@ -10624,7 +10624,7 @@
     "The New York Times": 18,
     "Reuters": 98,
     "AP News": 9,
-    "Arab News": 64,
+    "Arab News": 69,
     "South China Morning Post": 6,
     "Dealroom": 1,
     "Dubai Eye 103.8": 1,
@@ -10825,7 +10825,7 @@
     ],
     "Arab News": [
      0,
-     64,
+     69,
      0
     ],
     "South China Morning Post": [
