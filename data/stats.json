@@ -10592,18 +10592,18 @@
    }
   },
   "2026-11-12": {
-   "total": 674,
-   "news": 651,
+   "total": 675,
+   "news": 652,
    "articles": 23,
    "positive": 0,
-   "neutral": 674,
+   "neutral": 675,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "GB": 293,
     "US": 115,
     "FR": 5,
-    "SA": 77,
+    "SA": 78,
     "HK": 4,
     "JP": 1,
     "DE": 1
@@ -10620,7 +10620,7 @@
     "WSJ": 19,
     "France 24": 4,
     "Bloomberg.com": 22,
-    "Saudi Gazette": 15,
+    "Saudi Gazette": 16,
     "Al-Monitor": 26,
     "The New York Times": 20,
     "Reuters": 120,
@@ -10803,7 +10803,7 @@
     ],
     "Saudi Gazette": [
      0,
-     15,
+     16,
      0
     ],
     "Al-Monitor": [
@@ -11449,30 +11449,30 @@
    }
   },
   "2026-11-13": {
-   "total": 368,
-   "news": 363,
-   "articles": 5,
+   "total": 407,
+   "news": 401,
+   "articles": 6,
    "positive": 0,
-   "neutral": 368,
+   "neutral": 407,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 106,
-    "US": 59,
-    "SA": 37,
+    "GB": 115,
+    "US": 76,
+    "SA": 41,
     "DE": 7,
-    "JP": 1,
-    "FR": 5
+    "JP": 2,
+    "FR": 8
    },
    "topics": {},
    "sources": {
-    "Financial Times": 24,
-    "WSJ": 10,
-    "The New York Times": 9,
+    "Financial Times": 25,
+    "WSJ": 13,
+    "The New York Times": 13,
     "Nation Thailand": 1,
-    "Arab News": 40,
-    "The Washington Post": 2,
-    "Reuters": 43,
+    "Arab News": 45,
+    "The Washington Post": 3,
+    "Reuters": 47,
     "Free Malaysia Today": 1,
     "The New Arab": 1,
     "The Guam Daily Post": 1,
@@ -11480,16 +11480,16 @@
     "UA.NEWS": 1,
     "Arab News PK": 2,
     "조선일보": 10,
-    "https://houseofsaud.com/": 3,
+    "https://houseofsaud.com/": 4,
     "Shipping Telegraph": 1,
-    "The Guardian": 23,
+    "The Guardian": 27,
     "Middle East Online": 3,
     "Spiegel": 7,
     "BBC": 16,
     "Al Jazeera": 1,
-    "Bloomberg.com": 15,
-    "Al-Monitor": 14,
-    "AP News": 3,
+    "Bloomberg.com": 17,
+    "Al-Monitor": 18,
+    "AP News": 5,
     "TRT World": 2,
     "fundsforNGOs - Grants and Resources for Sustainability": 1,
     "Arabian Gulf Business Insight | AGBI": 4,
@@ -11515,17 +11515,17 @@
     "Daily Nation": 1,
     "Barron's": 1,
     "Muslim Network TV": 1,
-    "Nikkei Asia": 1,
+    "Nikkei Asia": 2,
     "Capital FM Africa": 1,
-    "Atlantic Council": 4,
-    "France 24": 3,
-    "Le Monde.fr": 2,
+    "Atlantic Council": 5,
+    "France 24": 5,
+    "Le Monde.fr": 3,
     "CNN": 2,
     "The Economist": 1,
     "ASHARQ AL-AWSAT English": 2,
     "Yonhap News Agency": 3,
     "The Hindu": 1,
-    "Chosunbiz": 5,
+    "Chosunbiz": 6,
     "الحرة": 1,
     "Newsquawk": 2,
     "日本取引所グループ": 57,
@@ -11542,22 +11542,23 @@
     "Institute for the Study of War": 1,
     "Yahoo Sports": 1,
     "شفق نيوز": 1,
-    "Middle East Eye": 1
+    "Middle East Eye": 2,
+    "Internazionale": 1
    },
    "sourceTone": {
     "Financial Times": [
      0,
-     24,
+     25,
      0
     ],
     "WSJ": [
      0,
-     10,
+     13,
      0
     ],
     "The New York Times": [
      0,
-     9,
+     13,
      0
     ],
     "Nation Thailand": [
@@ -11567,17 +11568,17 @@
     ],
     "Arab News": [
      0,
-     40,
+     45,
      0
     ],
     "The Washington Post": [
      0,
-     2,
+     3,
      0
     ],
     "Reuters": [
      0,
-     43,
+     47,
      0
     ],
     "Free Malaysia Today": [
@@ -11617,7 +11618,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     3,
+     4,
      0
     ],
     "Shipping Telegraph": [
@@ -11627,7 +11628,7 @@
     ],
     "The Guardian": [
      0,
-     23,
+     27,
      0
     ],
     "Middle East Online": [
@@ -11652,17 +11653,17 @@
     ],
     "Bloomberg.com": [
      0,
-     15,
+     17,
      0
     ],
     "Al-Monitor": [
      0,
-     14,
+     18,
      0
     ],
     "AP News": [
      0,
-     3,
+     5,
      0
     ],
     "TRT World": [
@@ -11792,7 +11793,7 @@
     ],
     "Nikkei Asia": [
      0,
-     1,
+     2,
      0
     ],
     "Capital FM Africa": [
@@ -11802,17 +11803,17 @@
     ],
     "Atlantic Council": [
      0,
-     4,
+     5,
      0
     ],
     "France 24": [
      0,
-     3,
+     5,
      0
     ],
     "Le Monde.fr": [
      0,
-     2,
+     3,
      0
     ],
     "CNN": [
@@ -11842,7 +11843,7 @@
     ],
     "Chosunbiz": [
      0,
-     5,
+     6,
      0
     ],
     "الحرة": [
@@ -11926,6 +11927,11 @@
      0
     ],
     "Middle East Eye": [
+     0,
+     2,
+     0
+    ],
+    "Internazionale": [
      0,
      1,
      0
