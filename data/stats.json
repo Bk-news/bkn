@@ -9712,32 +9712,32 @@
    }
   },
   "2026-11-11": {
-   "total": 873,
-   "news": 867,
+   "total": 878,
+   "news": 872,
    "articles": 6,
    "positive": 0,
-   "neutral": 873,
+   "neutral": 878,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 169,
+    "US": 172,
     "SA": 91,
-    "GB": 410,
+    "GB": 412,
     "JP": 1,
     "HK": 5,
     "FR": 7
    },
    "topics": {},
    "sources": {
-    "WSJ": 33,
-    "The New York Times": 15,
+    "WSJ": 34,
+    "The New York Times": 16,
     "Arab News": 86,
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
     "Al-Monitor": 41,
     "The Washington Post": 16,
-    "AP News": 13,
-    "Reuters": 109,
+    "AP News": 14,
+    "Reuters": 111,
     "The Guardian": 178,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
@@ -9876,12 +9876,12 @@
    "sourceTone": {
     "WSJ": [
      0,
-     33,
+     34,
      0
     ],
     "The New York Times": [
      0,
-     15,
+     16,
      0
     ],
     "Arab News": [
@@ -9911,12 +9911,12 @@
     ],
     "AP News": [
      0,
-     13,
+     14,
      0
     ],
     "Reuters": [
      0,
-     109,
+     111,
      0
     ],
     "The Guardian": [
@@ -10592,25 +10592,25 @@
    }
   },
   "2026-11-12": {
-   "total": 591,
-   "news": 570,
-   "articles": 21,
+   "total": 609,
+   "news": 587,
+   "articles": 22,
    "positive": 0,
-   "neutral": 591,
+   "neutral": 609,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "GB": 241,
-    "US": 104,
+    "GB": 256,
+    "US": 106,
     "FR": 4,
-    "SA": 62,
+    "SA": 63,
     "HK": 4,
     "JP": 1
    },
    "topics": {},
    "sources": {
     "Financial Times": 54,
-    "The Guardian": 71,
+    "The Guardian": 75,
     "StreetInsider": 1,
     "Bloomberg": 1,
     "India Narrative": 1,
@@ -10621,10 +10621,10 @@
     "Bloomberg.com": 21,
     "Saudi Gazette": 13,
     "Al-Monitor": 25,
-    "The New York Times": 17,
-    "Reuters": 84,
+    "The New York Times": 18,
+    "Reuters": 95,
     "AP News": 9,
-    "Arab News": 59,
+    "Arab News": 60,
     "South China Morning Post": 6,
     "Dealroom": 1,
     "Dubai Eye 103.8": 1,
@@ -10708,7 +10708,7 @@
     "Daily Sabah": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
     "Cyprus Mail": 1,
-    "Atlantic Council": 8,
+    "Atlantic Council": 9,
     "Nikkei Asia": 1,
     "Arbiterz": 1,
     "Apa.az": 1,
@@ -10754,7 +10754,7 @@
     ],
     "The Guardian": [
      0,
-     71,
+     75,
      0
     ],
     "StreetInsider": [
@@ -10809,12 +10809,12 @@
     ],
     "The New York Times": [
      0,
-     17,
+     18,
      0
     ],
     "Reuters": [
      0,
-     84,
+     95,
      0
     ],
     "AP News": [
@@ -10824,7 +10824,7 @@
     ],
     "Arab News": [
      0,
-     59,
+     60,
      0
     ],
     "South China Morning Post": [
@@ -11244,7 +11244,7 @@
     ],
     "Atlantic Council": [
      0,
-     8,
+     9,
      0
     ],
     "Nikkei Asia": [
@@ -11430,17 +11430,17 @@
    }
   },
   "2026-11-13": {
-   "total": 61,
-   "news": 61,
+   "total": 78,
+   "news": 78,
    "articles": 0,
    "positive": 0,
-   "neutral": 61,
+   "neutral": 78,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 18,
+    "GB": 19,
     "US": 18,
-    "SA": 7,
+    "SA": 9,
     "DE": 2
    },
    "topics": {},
@@ -11449,15 +11449,15 @@
     "WSJ": 5,
     "The New York Times": 6,
     "Nation Thailand": 1,
-    "Arab News": 8,
+    "Arab News": 11,
     "The Washington Post": 1,
-    "Reuters": 5,
+    "Reuters": 6,
     "Free Malaysia Today": 1,
     "The New Arab": 1,
     "The Guam Daily Post": 1,
     "Arabian Business": 1,
     "UA.NEWS": 1,
-    "Arab News PK": 1,
+    "Arab News PK": 2,
     "조선일보": 1,
     "https://houseofsaud.com/": 2,
     "Shipping Telegraph": 1,
@@ -11470,7 +11470,17 @@
     "Al-Monitor": 2,
     "AP News": 1,
     "TRT World": 1,
-    "fundsforNGOs - Grants and Resources for Sustainability": 1
+    "fundsforNGOs - Grants and Resources for Sustainability": 1,
+    "Arabian Gulf Business Insight | AGBI": 3,
+    "سانا": 1,
+    "Pulse Kenya": 1,
+    "CGTN": 1,
+    "Anadolu Ajansı": 1,
+    "The Diplomatic Insight": 1,
+    "MEED": 1,
+    "Saudi Gazette": 1,
+    "Gulf News": 1,
+    "Bioengineer.org": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -11495,7 +11505,7 @@
     ],
     "Arab News": [
      0,
-     8,
+     11,
      0
     ],
     "The Washington Post": [
@@ -11505,7 +11515,7 @@
     ],
     "Reuters": [
      0,
-     5,
+     6,
      0
     ],
     "Free Malaysia Today": [
@@ -11535,7 +11545,7 @@
     ],
     "Arab News PK": [
      0,
-     1,
+     2,
      0
     ],
     "조선일보": [
@@ -11599,6 +11609,56 @@
      0
     ],
     "fundsforNGOs - Grants and Resources for Sustainability": [
+     0,
+     1,
+     0
+    ],
+    "Arabian Gulf Business Insight | AGBI": [
+     0,
+     3,
+     0
+    ],
+    "سانا": [
+     0,
+     1,
+     0
+    ],
+    "Pulse Kenya": [
+     0,
+     1,
+     0
+    ],
+    "CGTN": [
+     0,
+     1,
+     0
+    ],
+    "Anadolu Ajansı": [
+     0,
+     1,
+     0
+    ],
+    "The Diplomatic Insight": [
+     0,
+     1,
+     0
+    ],
+    "MEED": [
+     0,
+     1,
+     0
+    ],
+    "Saudi Gazette": [
+     0,
+     1,
+     0
+    ],
+    "Gulf News": [
+     0,
+     1,
+     0
+    ],
+    "Bioengineer.org": [
      0,
      1,
      0
