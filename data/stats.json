@@ -9712,15 +9712,15 @@
    }
   },
   "2026-11-11": {
-   "total": 872,
-   "news": 866,
+   "total": 873,
+   "news": 867,
    "articles": 6,
    "positive": 0,
-   "neutral": 872,
+   "neutral": 873,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 168,
+    "US": 169,
     "SA": 91,
     "GB": 410,
     "JP": 1,
@@ -9735,7 +9735,7 @@
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
     "Al-Monitor": 41,
-    "The Washington Post": 15,
+    "The Washington Post": 16,
     "AP News": 13,
     "Reuters": 109,
     "The Guardian": 178,
@@ -9906,7 +9906,7 @@
     ],
     "The Washington Post": [
      0,
-     15,
+     16,
      0
     ],
     "AP News": [
