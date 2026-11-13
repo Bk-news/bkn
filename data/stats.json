@@ -9712,16 +9712,16 @@
    }
   },
   "2026-11-11": {
-   "total": 880,
-   "news": 874,
+   "total": 883,
+   "news": 877,
    "articles": 6,
    "positive": 0,
-   "neutral": 880,
+   "neutral": 883,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 173,
-    "SA": 92,
+    "SA": 95,
     "GB": 412,
     "JP": 1,
     "HK": 5,
@@ -9731,7 +9731,7 @@
    "sources": {
     "WSJ": 34,
     "The New York Times": 16,
-    "Arab News": 87,
+    "Arab News": 90,
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
     "Al-Monitor": 41,
@@ -9886,7 +9886,7 @@
     ],
     "Arab News": [
      0,
-     87,
+     90,
      0
     ],
     "www.thenewworld.co.uk": [
@@ -10592,18 +10592,18 @@
    }
   },
   "2026-11-12": {
-   "total": 615,
-   "news": 593,
+   "total": 622,
+   "news": 600,
    "articles": 22,
    "positive": 0,
-   "neutral": 615,
+   "neutral": 622,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "GB": 259,
+    "GB": 262,
     "US": 106,
     "FR": 4,
-    "SA": 63,
+    "SA": 67,
     "HK": 4,
     "JP": 1
    },
@@ -10622,9 +10622,9 @@
     "Saudi Gazette": 13,
     "Al-Monitor": 25,
     "The New York Times": 18,
-    "Reuters": 95,
+    "Reuters": 98,
     "AP News": 9,
-    "Arab News": 60,
+    "Arab News": 64,
     "South China Morning Post": 6,
     "Dealroom": 1,
     "Dubai Eye 103.8": 1,
@@ -10815,7 +10815,7 @@
     ],
     "Reuters": [
      0,
-     95,
+     98,
      0
     ],
     "AP News": [
@@ -10825,7 +10825,7 @@
     ],
     "Arab News": [
      0,
-     60,
+     64,
      0
     ],
     "South China Morning Post": [
@@ -11436,15 +11436,15 @@
    }
   },
   "2026-11-13": {
-   "total": 85,
-   "news": 85,
+   "total": 89,
+   "news": 89,
    "articles": 0,
    "positive": 0,
-   "neutral": 85,
+   "neutral": 89,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 20,
+    "GB": 22,
     "US": 18,
     "SA": 9,
     "DE": 2
@@ -11457,7 +11457,7 @@
     "Nation Thailand": 1,
     "Arab News": 11,
     "The Washington Post": 1,
-    "Reuters": 6,
+    "Reuters": 8,
     "Free Malaysia Today": 1,
     "The New Arab": 1,
     "The Guam Daily Post": 1,
@@ -11492,7 +11492,9 @@
     "Dawn": 1,
     "Ednews.net": 1,
     "China Daily": 1,
-    "POST Wrestling": 1
+    "POST Wrestling": 1,
+    "All about feed": 1,
+    "The Week": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -11527,7 +11529,7 @@
     ],
     "Reuters": [
      0,
-     6,
+     8,
      0
     ],
     "Free Malaysia Today": [
@@ -11701,6 +11703,16 @@
      0
     ],
     "POST Wrestling": [
+     0,
+     1,
+     0
+    ],
+    "All about feed": [
+     0,
+     1,
+     0
+    ],
+    "The Week": [
      0,
      1,
      0
