@@ -11436,11 +11436,11 @@
    }
   },
   "2026-11-13": {
-   "total": 111,
-   "news": 111,
+   "total": 112,
+   "news": 112,
    "articles": 0,
    "positive": 0,
-   "neutral": 111,
+   "neutral": 112,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -11469,7 +11469,7 @@
     "https://houseofsaud.com/": 2,
     "Shipping Telegraph": 1,
     "The Guardian": 8,
-    "Middle East Online": 1,
+    "Middle East Online": 2,
     "Spiegel": 2,
     "BBC": 4,
     "Al Jazeera": 1,
@@ -11591,7 +11591,7 @@
     ],
     "Middle East Online": [
      0,
-     1,
+     2,
      0
     ],
     "Spiegel": [
