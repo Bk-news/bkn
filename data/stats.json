@@ -11436,18 +11436,19 @@
    }
   },
   "2026-11-13": {
-   "total": 110,
-   "news": 110,
+   "total": 111,
+   "news": 111,
    "articles": 0,
    "positive": 0,
-   "neutral": 110,
+   "neutral": 111,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 31,
     "US": 23,
     "SA": 9,
-    "DE": 2
+    "DE": 2,
+    "JP": 1
    },
    "topics": {},
    "sources": {
@@ -11499,7 +11500,8 @@
     "South China Morning Post": 1,
     "Daily Nation": 1,
     "Barron's": 1,
-    "Muslim Network TV": 1
+    "Muslim Network TV": 1,
+    "Nikkei Asia": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -11743,6 +11745,11 @@
      0
     ],
     "Muslim Network TV": [
+     0,
+     1,
+     0
+    ],
+    "Nikkei Asia": [
      0,
      1,
      0
