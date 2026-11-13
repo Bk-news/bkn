@@ -11436,11 +11436,11 @@
    }
   },
   "2026-11-13": {
-   "total": 92,
-   "news": 92,
+   "total": 93,
+   "news": 93,
    "articles": 0,
    "positive": 0,
-   "neutral": 92,
+   "neutral": 93,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -11495,7 +11495,8 @@
     "POST Wrestling": 1,
     "All about feed": 1,
     "The Week": 1,
-    "Condé Nast Traveller Middle East": 1
+    "Condé Nast Traveller Middle East": 1,
+    "South China Morning Post": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -11719,6 +11720,11 @@
      0
     ],
     "Condé Nast Traveller Middle East": [
+     0,
+     1,
+     0
+    ],
+    "South China Morning Post": [
      0,
      1,
      0
