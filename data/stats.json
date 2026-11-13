@@ -10592,15 +10592,15 @@
    }
   },
   "2026-11-12": {
-   "total": 580,
-   "news": 559,
+   "total": 581,
+   "news": 560,
    "articles": 21,
    "positive": 0,
-   "neutral": 580,
+   "neutral": 581,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "GB": 233,
+    "GB": 234,
     "US": 104,
     "FR": 3,
     "SA": 61,
@@ -10609,7 +10609,7 @@
    },
    "topics": {},
    "sources": {
-    "Financial Times": 53,
+    "Financial Times": 54,
     "The Guardian": 66,
     "StreetInsider": 1,
     "Bloomberg": 1,
@@ -10748,7 +10748,7 @@
    "sourceTone": {
     "Financial Times": [
      0,
-     53,
+     54,
      0
     ],
     "The Guardian": [
