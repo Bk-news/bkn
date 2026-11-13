@@ -11449,17 +11449,17 @@
    }
   },
   "2026-11-13": {
-   "total": 363,
-   "news": 358,
+   "total": 365,
+   "news": 360,
    "articles": 5,
    "positive": 0,
-   "neutral": 363,
+   "neutral": 365,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 106,
     "US": 57,
-    "SA": 35,
+    "SA": 36,
     "DE": 7,
     "JP": 1,
     "FR": 5
@@ -11470,7 +11470,7 @@
     "WSJ": 8,
     "The New York Times": 9,
     "Nation Thailand": 1,
-    "Arab News": 38,
+    "Arab News": 39,
     "The Washington Post": 2,
     "Reuters": 43,
     "Free Malaysia Today": 1,
@@ -11541,7 +11541,8 @@
     "ArchDaily": 1,
     "Institute for the Study of War": 1,
     "Yahoo Sports": 1,
-    "شفق نيوز": 1
+    "شفق نيوز": 1,
+    "Middle East Eye": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -11566,7 +11567,7 @@
     ],
     "Arab News": [
      0,
-     38,
+     39,
      0
     ],
     "The Washington Post": [
@@ -11920,6 +11921,11 @@
      0
     ],
     "شفق نيوز": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Eye": [
      0,
      1,
      0
