@@ -11449,15 +11449,15 @@
    }
   },
   "2026-11-13": {
-   "total": 338,
-   "news": 333,
+   "total": 340,
+   "news": 335,
    "articles": 5,
    "positive": 0,
-   "neutral": 338,
+   "neutral": 340,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 99,
+    "GB": 100,
     "US": 52,
     "SA": 34,
     "DE": 7,
@@ -11472,7 +11472,7 @@
     "Nation Thailand": 1,
     "Arab News": 36,
     "The Washington Post": 2,
-    "Reuters": 40,
+    "Reuters": 41,
     "Free Malaysia Today": 1,
     "The New Arab": 1,
     "The Guam Daily Post": 1,
@@ -11528,7 +11528,7 @@
     "Chosunbiz": 4,
     "الحرة": 1,
     "Newsquawk": 2,
-    "日本取引所グループ": 54,
+    "日本取引所グループ": 55,
     "Business Insider Africa": 3,
     "The Korea Times": 1,
     "Investing.com": 1,
@@ -11575,7 +11575,7 @@
     ],
     "Reuters": [
      0,
-     40,
+     41,
      0
     ],
     "Free Malaysia Today": [
@@ -11855,7 +11855,7 @@
     ],
     "日本取引所グループ": [
      0,
-     54,
+     55,
      0
     ],
     "Business Insider Africa": [
