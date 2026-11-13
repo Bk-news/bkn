@@ -11455,15 +11455,15 @@
    }
   },
   "2026-11-13": {
-   "total": 488,
-   "news": 481,
+   "total": 490,
+   "news": 483,
    "articles": 7,
    "positive": 0,
-   "neutral": 488,
+   "neutral": 490,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 157,
+    "GB": 159,
     "US": 82,
     "SA": 52,
     "DE": 7,
@@ -11472,13 +11472,13 @@
    },
    "topics": {},
    "sources": {
-    "Financial Times": 32,
+    "Financial Times": 33,
     "WSJ": 14,
     "The New York Times": 14,
     "Nation Thailand": 1,
     "Arab News": 52,
     "The Washington Post": 3,
-    "Reuters": 68,
+    "Reuters": 69,
     "Free Malaysia Today": 1,
     "The New Arab": 1,
     "The Guam Daily Post": 1,
@@ -11565,7 +11565,7 @@
    "sourceTone": {
     "Financial Times": [
      0,
-     32,
+     33,
      0
     ],
     "WSJ": [
@@ -11595,7 +11595,7 @@
     ],
     "Reuters": [
      0,
-     68,
+     69,
      0
     ],
     "Free Malaysia Today": [
