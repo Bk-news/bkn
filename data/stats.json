@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 886,
-   "news": 880,
+   "total": 888,
+   "news": 882,
    "articles": 6,
    "positive": 0,
-   "neutral": 886,
+   "neutral": 888,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 175,
-    "SA": 96,
-    "GB": 412,
+    "SA": 97,
+    "GB": 413,
     "JP": 1,
     "HK": 5,
     "FR": 7
@@ -9731,7 +9731,7 @@
    "sources": {
     "WSJ": 35,
     "The New York Times": 16,
-    "Arab News": 91,
+    "Arab News": 92,
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
     "Al-Monitor": 41,
@@ -9745,7 +9745,7 @@
     "Bioengineer.org": 4,
     "Billionaires.Africa": 1,
     "Bleeding Cool News": 1,
-    "BBC": 9,
+    "BBC": 10,
     "Chosunbiz": 3,
     "Dawn": 1,
     "The Australian": 1,
@@ -9886,7 +9886,7 @@
     ],
     "Arab News": [
      0,
-     91,
+     92,
      0
     ],
     "www.thenewworld.co.uk": [
@@ -9956,7 +9956,7 @@
     ],
     "BBC": [
      0,
-     9,
+     10,
      0
     ],
     "Chosunbiz": [
@@ -10592,24 +10592,24 @@
    }
   },
   "2026-11-12": {
-   "total": 642,
-   "news": 619,
+   "total": 648,
+   "news": 625,
    "articles": 23,
    "positive": 0,
-   "neutral": 642,
+   "neutral": 648,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "GB": 267,
-    "US": 112,
+    "GB": 269,
+    "US": 114,
     "FR": 5,
-    "SA": 75,
+    "SA": 77,
     "HK": 4,
     "JP": 1
    },
    "topics": {},
    "sources": {
-    "Financial Times": 59,
+    "Financial Times": 61,
     "The Guardian": 78,
     "StreetInsider": 1,
     "Bloomberg": 1,
@@ -10620,11 +10620,11 @@
     "France 24": 4,
     "Bloomberg.com": 22,
     "Saudi Gazette": 15,
-    "Al-Monitor": 25,
-    "The New York Times": 18,
+    "Al-Monitor": 26,
+    "The New York Times": 19,
     "Reuters": 98,
     "AP News": 10,
-    "Arab News": 70,
+    "Arab News": 72,
     "South China Morning Post": 6,
     "Dealroom": 1,
     "Dubai Eye 103.8": 1,
@@ -10751,7 +10751,7 @@
    "sourceTone": {
     "Financial Times": [
      0,
-     59,
+     61,
      0
     ],
     "The Guardian": [
@@ -10806,12 +10806,12 @@
     ],
     "Al-Monitor": [
      0,
-     25,
+     26,
      0
     ],
     "The New York Times": [
      0,
-     18,
+     19,
      0
     ],
     "Reuters": [
@@ -10826,7 +10826,7 @@
     ],
     "Arab News": [
      0,
-     70,
+     72,
      0
     ],
     "South China Morning Post": [
@@ -11442,37 +11442,37 @@
    }
   },
   "2026-11-13": {
-   "total": 226,
-   "news": 223,
+   "total": 258,
+   "news": 255,
    "articles": 3,
    "positive": 0,
-   "neutral": 226,
+   "neutral": 258,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 75,
+    "GB": 90,
     "US": 48,
-    "SA": 27,
+    "SA": 32,
     "DE": 7,
     "JP": 1,
-    "FR": 4
+    "FR": 5
    },
    "topics": {},
    "sources": {
-    "Financial Times": 16,
+    "Financial Times": 22,
     "WSJ": 6,
     "The New York Times": 8,
     "Nation Thailand": 1,
-    "Arab News": 29,
+    "Arab News": 34,
     "The Washington Post": 2,
-    "Reuters": 24,
+    "Reuters": 33,
     "Free Malaysia Today": 1,
     "The New Arab": 1,
     "The Guam Daily Post": 1,
     "Arabian Business": 1,
     "UA.NEWS": 1,
     "Arab News PK": 2,
-    "조선일보": 5,
+    "조선일보": 6,
     "https://houseofsaud.com/": 2,
     "Shipping Telegraph": 1,
     "The Guardian": 18,
@@ -11512,21 +11512,23 @@
     "Capital FM Africa": 1,
     "Atlantic Council": 2,
     "France 24": 3,
-    "Le Monde.fr": 1,
+    "Le Monde.fr": 2,
     "CNN": 2,
     "The Economist": 1,
     "ASHARQ AL-AWSAT English": 2,
     "Yonhap News Agency": 1,
     "The Hindu": 1,
-    "Chosunbiz": 3,
+    "Chosunbiz": 4,
     "الحرة": 1,
     "Newsquawk": 1,
-    "日本取引所グループ": 1
+    "日本取引所グループ": 8,
+    "Business Insider Africa": 1,
+    "The Korea Times": 1
    },
    "sourceTone": {
     "Financial Times": [
      0,
-     16,
+     22,
      0
     ],
     "WSJ": [
@@ -11546,7 +11548,7 @@
     ],
     "Arab News": [
      0,
-     29,
+     34,
      0
     ],
     "The Washington Post": [
@@ -11556,7 +11558,7 @@
     ],
     "Reuters": [
      0,
-     24,
+     33,
      0
     ],
     "Free Malaysia Today": [
@@ -11591,7 +11593,7 @@
     ],
     "조선일보": [
      0,
-     5,
+     6,
      0
     ],
     "https://houseofsaud.com/": [
@@ -11791,7 +11793,7 @@
     ],
     "Le Monde.fr": [
      0,
-     1,
+     2,
      0
     ],
     "CNN": [
@@ -11821,7 +11823,7 @@
     ],
     "Chosunbiz": [
      0,
-     3,
+     4,
      0
     ],
     "الحرة": [
@@ -11835,6 +11837,16 @@
      0
     ],
     "日本取引所グループ": [
+     0,
+     8,
+     0
+    ],
+    "Business Insider Africa": [
+     0,
+     1,
+     0
+    ],
+    "The Korea Times": [
      0,
      1,
      0
