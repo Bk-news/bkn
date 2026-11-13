@@ -11455,17 +11455,17 @@
    }
   },
   "2026-11-13": {
-   "total": 456,
-   "news": 449,
+   "total": 457,
+   "news": 450,
    "articles": 7,
    "positive": 0,
-   "neutral": 456,
+   "neutral": 457,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 141,
     "US": 79,
-    "SA": 48,
+    "SA": 49,
     "DE": 7,
     "JP": 2,
     "FR": 8
@@ -11505,7 +11505,7 @@
     "Anadolu Ajansı": 2,
     "The Diplomatic Insight": 1,
     "MEED": 1,
-    "Saudi Gazette": 3,
+    "Saudi Gazette": 4,
     "Gulf News": 2,
     "Bioengineer.org": 2,
     "The National": 1,
@@ -11726,7 +11726,7 @@
     ],
     "Saudi Gazette": [
      0,
-     3,
+     4,
      0
     ],
     "Gulf News": [
