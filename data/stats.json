@@ -11455,17 +11455,17 @@
    }
   },
   "2026-11-13": {
-   "total": 465,
-   "news": 458,
+   "total": 467,
+   "news": 460,
    "articles": 7,
    "positive": 0,
-   "neutral": 465,
+   "neutral": 467,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 144,
-    "US": 80,
-    "SA": 50,
+    "US": 81,
+    "SA": 51,
     "DE": 7,
     "JP": 2,
     "FR": 8
@@ -11473,7 +11473,7 @@
    "topics": {},
    "sources": {
     "Financial Times": 30,
-    "WSJ": 13,
+    "WSJ": 14,
     "The New York Times": 14,
     "Nation Thailand": 1,
     "Arab News": 51,
@@ -11505,7 +11505,7 @@
     "Anadolu Ajansı": 3,
     "The Diplomatic Insight": 1,
     "MEED": 1,
-    "Saudi Gazette": 5,
+    "Saudi Gazette": 6,
     "Gulf News": 2,
     "Bioengineer.org": 2,
     "The National": 1,
@@ -11566,7 +11566,7 @@
     ],
     "WSJ": [
      0,
-     13,
+     14,
      0
     ],
     "The New York Times": [
@@ -11726,7 +11726,7 @@
     ],
     "Saudi Gazette": [
      0,
-     5,
+     6,
      0
     ],
     "Gulf News": [
