@@ -10592,18 +10592,18 @@
    }
   },
   "2026-11-12": {
-   "total": 638,
-   "news": 615,
+   "total": 640,
+   "news": 617,
    "articles": 23,
    "positive": 0,
-   "neutral": 638,
+   "neutral": 640,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "GB": 266,
-    "US": 110,
+    "US": 111,
     "FR": 5,
-    "SA": 74,
+    "SA": 75,
     "HK": 4,
     "JP": 1
    },
@@ -10619,7 +10619,7 @@
     "WSJ": 19,
     "France 24": 4,
     "Bloomberg.com": 22,
-    "Saudi Gazette": 14,
+    "Saudi Gazette": 15,
     "Al-Monitor": 25,
     "The New York Times": 18,
     "Reuters": 98,
@@ -10652,7 +10652,7 @@
     "The Washington Post": 3,
     "The Economist": 13,
     "Time Magazine": 1,
-    "CNN": 5,
+    "CNN": 6,
     "Investing.com UK": 1,
     "TheWire.in": 1,
     "Cranes Today": 1,
@@ -10801,7 +10801,7 @@
     ],
     "Saudi Gazette": [
      0,
-     14,
+     15,
      0
     ],
     "Al-Monitor": [
@@ -10966,7 +10966,7 @@
     ],
     "CNN": [
      0,
-     5,
+     6,
      0
     ],
     "Investing.com UK": [
@@ -11442,30 +11442,30 @@
    }
   },
   "2026-11-13": {
-   "total": 151,
-   "news": 148,
+   "total": 189,
+   "news": 186,
    "articles": 3,
    "positive": 0,
-   "neutral": 151,
+   "neutral": 189,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 44,
-    "US": 35,
-    "SA": 13,
-    "DE": 4,
+    "GB": 60,
+    "US": 44,
+    "SA": 18,
+    "DE": 7,
     "JP": 1,
     "FR": 4
    },
    "topics": {},
    "sources": {
-    "Financial Times": 14,
+    "Financial Times": 16,
     "WSJ": 6,
     "The New York Times": 8,
     "Nation Thailand": 1,
-    "Arab News": 14,
+    "Arab News": 19,
     "The Washington Post": 2,
-    "Reuters": 11,
+    "Reuters": 16,
     "Free Malaysia Today": 1,
     "The New Arab": 1,
     "The Guam Daily Post": 1,
@@ -11475,13 +11475,13 @@
     "조선일보": 2,
     "https://houseofsaud.com/": 2,
     "Shipping Telegraph": 1,
-    "The Guardian": 11,
+    "The Guardian": 16,
     "Middle East Online": 2,
-    "Spiegel": 4,
-    "BBC": 7,
+    "Spiegel": 7,
+    "BBC": 11,
     "Al Jazeera": 1,
-    "Bloomberg.com": 8,
-    "Al-Monitor": 4,
+    "Bloomberg.com": 12,
+    "Al-Monitor": 9,
     "AP News": 3,
     "TRT World": 1,
     "fundsforNGOs - Grants and Resources for Sustainability": 1,
@@ -11515,13 +11515,16 @@
     "Le Monde.fr": 1,
     "CNN": 2,
     "The Economist": 1,
-    "ASHARQ AL-AWSAT English": 1,
-    "Yonhap News Agency": 1
+    "ASHARQ AL-AWSAT English": 2,
+    "Yonhap News Agency": 1,
+    "The Hindu": 1,
+    "Chosunbiz": 2,
+    "الحرة": 1
    },
    "sourceTone": {
     "Financial Times": [
      0,
-     14,
+     16,
      0
     ],
     "WSJ": [
@@ -11541,7 +11544,7 @@
     ],
     "Arab News": [
      0,
-     14,
+     19,
      0
     ],
     "The Washington Post": [
@@ -11551,7 +11554,7 @@
     ],
     "Reuters": [
      0,
-     11,
+     16,
      0
     ],
     "Free Malaysia Today": [
@@ -11601,7 +11604,7 @@
     ],
     "The Guardian": [
      0,
-     11,
+     16,
      0
     ],
     "Middle East Online": [
@@ -11611,12 +11614,12 @@
     ],
     "Spiegel": [
      0,
-     4,
+     7,
      0
     ],
     "BBC": [
      0,
-     7,
+     11,
      0
     ],
     "Al Jazeera": [
@@ -11626,12 +11629,12 @@
     ],
     "Bloomberg.com": [
      0,
-     8,
+     12,
      0
     ],
     "Al-Monitor": [
      0,
-     4,
+     9,
      0
     ],
     "AP News": [
@@ -11801,10 +11804,25 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     1,
+     2,
      0
     ],
     "Yonhap News Agency": [
+     0,
+     1,
+     0
+    ],
+    "The Hindu": [
+     0,
+     1,
+     0
+    ],
+    "Chosunbiz": [
+     0,
+     2,
+     0
+    ],
+    "الحرة": [
      0,
      1,
      0
