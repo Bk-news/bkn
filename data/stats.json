@@ -9712,15 +9712,15 @@
    }
   },
   "2026-11-11": {
-   "total": 885,
-   "news": 879,
+   "total": 886,
+   "news": 880,
    "articles": 6,
    "positive": 0,
-   "neutral": 885,
+   "neutral": 886,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 174,
+    "US": 175,
     "SA": 96,
     "GB": 412,
     "JP": 1,
@@ -9735,7 +9735,7 @@
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
     "Al-Monitor": 41,
-    "The Washington Post": 16,
+    "The Washington Post": 17,
     "AP News": 14,
     "Reuters": 111,
     "The Guardian": 178,
@@ -9906,7 +9906,7 @@
     ],
     "The Washington Post": [
      0,
-     16,
+     17,
      0
     ],
     "AP News": [
@@ -10592,16 +10592,16 @@
    }
   },
   "2026-11-12": {
-   "total": 640,
-   "news": 617,
+   "total": 642,
+   "news": 619,
    "articles": 23,
    "positive": 0,
-   "neutral": 640,
+   "neutral": 642,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "GB": 266,
-    "US": 111,
+    "GB": 267,
+    "US": 112,
     "FR": 5,
     "SA": 75,
     "HK": 4,
@@ -10610,7 +10610,7 @@
    "topics": {},
    "sources": {
     "Financial Times": 59,
-    "The Guardian": 77,
+    "The Guardian": 78,
     "StreetInsider": 1,
     "Bloomberg": 1,
     "India Narrative": 1,
@@ -10623,7 +10623,7 @@
     "Al-Monitor": 25,
     "The New York Times": 18,
     "Reuters": 98,
-    "AP News": 9,
+    "AP News": 10,
     "Arab News": 70,
     "South China Morning Post": 6,
     "Dealroom": 1,
@@ -10756,7 +10756,7 @@
     ],
     "The Guardian": [
      0,
-     77,
+     78,
      0
     ],
     "StreetInsider": [
@@ -10821,7 +10821,7 @@
     ],
     "AP News": [
      0,
-     9,
+     10,
      0
     ],
     "Arab News": [
@@ -11442,17 +11442,17 @@
    }
   },
   "2026-11-13": {
-   "total": 189,
-   "news": 186,
+   "total": 226,
+   "news": 223,
    "articles": 3,
    "positive": 0,
-   "neutral": 189,
+   "neutral": 226,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 60,
-    "US": 44,
-    "SA": 18,
+    "GB": 75,
+    "US": 48,
+    "SA": 27,
     "DE": 7,
     "JP": 1,
     "FR": 4
@@ -11463,25 +11463,25 @@
     "WSJ": 6,
     "The New York Times": 8,
     "Nation Thailand": 1,
-    "Arab News": 19,
+    "Arab News": 29,
     "The Washington Post": 2,
-    "Reuters": 16,
+    "Reuters": 24,
     "Free Malaysia Today": 1,
     "The New Arab": 1,
     "The Guam Daily Post": 1,
     "Arabian Business": 1,
     "UA.NEWS": 1,
     "Arab News PK": 2,
-    "조선일보": 2,
+    "조선일보": 5,
     "https://houseofsaud.com/": 2,
     "Shipping Telegraph": 1,
-    "The Guardian": 16,
+    "The Guardian": 18,
     "Middle East Online": 2,
     "Spiegel": 7,
-    "BBC": 11,
+    "BBC": 16,
     "Al Jazeera": 1,
-    "Bloomberg.com": 12,
-    "Al-Monitor": 9,
+    "Bloomberg.com": 14,
+    "Al-Monitor": 11,
     "AP News": 3,
     "TRT World": 1,
     "fundsforNGOs - Grants and Resources for Sustainability": 1,
@@ -11489,12 +11489,12 @@
     "سانا": 1,
     "Pulse Kenya": 1,
     "CGTN": 1,
-    "Anadolu Ajansı": 1,
+    "Anadolu Ajansı": 2,
     "The Diplomatic Insight": 1,
     "MEED": 1,
     "Saudi Gazette": 2,
     "Gulf News": 2,
-    "Bioengineer.org": 1,
+    "Bioengineer.org": 2,
     "The National": 1,
     "Skift": 1,
     "Dawn": 1,
@@ -11518,8 +11518,10 @@
     "ASHARQ AL-AWSAT English": 2,
     "Yonhap News Agency": 1,
     "The Hindu": 1,
-    "Chosunbiz": 2,
-    "الحرة": 1
+    "Chosunbiz": 3,
+    "الحرة": 1,
+    "Newsquawk": 1,
+    "日本取引所グループ": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -11544,7 +11546,7 @@
     ],
     "Arab News": [
      0,
-     19,
+     29,
      0
     ],
     "The Washington Post": [
@@ -11554,7 +11556,7 @@
     ],
     "Reuters": [
      0,
-     16,
+     24,
      0
     ],
     "Free Malaysia Today": [
@@ -11589,7 +11591,7 @@
     ],
     "조선일보": [
      0,
-     2,
+     5,
      0
     ],
     "https://houseofsaud.com/": [
@@ -11604,7 +11606,7 @@
     ],
     "The Guardian": [
      0,
-     16,
+     18,
      0
     ],
     "Middle East Online": [
@@ -11619,7 +11621,7 @@
     ],
     "BBC": [
      0,
-     11,
+     16,
      0
     ],
     "Al Jazeera": [
@@ -11629,12 +11631,12 @@
     ],
     "Bloomberg.com": [
      0,
-     12,
+     14,
      0
     ],
     "Al-Monitor": [
      0,
-     9,
+     11,
      0
     ],
     "AP News": [
@@ -11674,7 +11676,7 @@
     ],
     "Anadolu Ajansı": [
      0,
-     1,
+     2,
      0
     ],
     "The Diplomatic Insight": [
@@ -11699,7 +11701,7 @@
     ],
     "Bioengineer.org": [
      0,
-     1,
+     2,
      0
     ],
     "The National": [
@@ -11819,10 +11821,20 @@
     ],
     "Chosunbiz": [
      0,
-     2,
+     3,
      0
     ],
     "الحرة": [
+     0,
+     1,
+     0
+    ],
+    "Newsquawk": [
+     0,
+     1,
+     0
+    ],
+    "日本取引所グループ": [
      0,
      1,
      0
