@@ -11455,11 +11455,11 @@
    }
   },
   "2026-11-13": {
-   "total": 454,
-   "news": 447,
+   "total": 455,
+   "news": 448,
    "articles": 7,
    "positive": 0,
-   "neutral": 454,
+   "neutral": 455,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -11554,7 +11554,8 @@
     "Aviation International News": 1,
     "Yahoo": 1,
     "UFC.com": 1,
-    "Goal.com": 1
+    "Goal.com": 1,
+    "Tampa Bay 28": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -11968,6 +11969,11 @@
      0
     ],
     "Goal.com": [
+     0,
+     1,
+     0
+    ],
+    "Tampa Bay 28": [
      0,
      1,
      0
