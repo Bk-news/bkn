@@ -11455,15 +11455,15 @@
    }
   },
   "2026-11-13": {
-   "total": 457,
-   "news": 450,
+   "total": 459,
+   "news": 452,
    "articles": 7,
    "positive": 0,
-   "neutral": 457,
+   "neutral": 459,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 141,
+    "GB": 142,
     "US": 79,
     "SA": 49,
     "DE": 7,
@@ -11478,7 +11478,7 @@
     "Nation Thailand": 1,
     "Arab News": 51,
     "The Washington Post": 3,
-    "Reuters": 60,
+    "Reuters": 61,
     "Free Malaysia Today": 1,
     "The New Arab": 1,
     "The Guam Daily Post": 1,
@@ -11502,7 +11502,7 @@
     "سانا": 2,
     "Pulse Kenya": 1,
     "CGTN": 1,
-    "Anadolu Ajansı": 2,
+    "Anadolu Ajansı": 3,
     "The Diplomatic Insight": 1,
     "MEED": 1,
     "Saudi Gazette": 4,
@@ -11591,7 +11591,7 @@
     ],
     "Reuters": [
      0,
-     60,
+     61,
      0
     ],
     "Free Malaysia Today": [
@@ -11711,7 +11711,7 @@
     ],
     "Anadolu Ajansı": [
      0,
-     2,
+     3,
      0
     ],
     "The Diplomatic Insight": [
