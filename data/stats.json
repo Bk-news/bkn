@@ -10592,15 +10592,15 @@
    }
   },
   "2026-11-12": {
-   "total": 623,
-   "news": 601,
+   "total": 624,
+   "news": 602,
    "articles": 22,
    "positive": 0,
-   "neutral": 623,
+   "neutral": 624,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "GB": 262,
+    "GB": 263,
     "US": 107,
     "FR": 4,
     "SA": 67,
@@ -10609,7 +10609,7 @@
    },
    "topics": {},
    "sources": {
-    "Financial Times": 55,
+    "Financial Times": 56,
     "The Guardian": 77,
     "StreetInsider": 1,
     "Bloomberg": 1,
@@ -10750,7 +10750,7 @@
    "sourceTone": {
     "Financial Times": [
      0,
-     55,
+     56,
      0
     ],
     "The Guardian": [
@@ -11436,22 +11436,22 @@
    }
   },
   "2026-11-13": {
-   "total": 89,
-   "news": 89,
+   "total": 92,
+   "news": 92,
    "articles": 0,
    "positive": 0,
-   "neutral": 89,
+   "neutral": 92,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 22,
+    "GB": 23,
     "US": 18,
     "SA": 9,
     "DE": 2
    },
    "topics": {},
    "sources": {
-    "Financial Times": 4,
+    "Financial Times": 5,
     "WSJ": 5,
     "The New York Times": 6,
     "Nation Thailand": 1,
@@ -11490,16 +11490,17 @@
     "The National": 1,
     "Skift": 1,
     "Dawn": 1,
-    "Ednews.net": 1,
+    "Ednews.net": 2,
     "China Daily": 1,
     "POST Wrestling": 1,
     "All about feed": 1,
-    "The Week": 1
+    "The Week": 1,
+    "Condé Nast Traveller Middle East": 1
    },
    "sourceTone": {
     "Financial Times": [
      0,
-     4,
+     5,
      0
     ],
     "WSJ": [
@@ -11694,7 +11695,7 @@
     ],
     "Ednews.net": [
      0,
-     1,
+     2,
      0
     ],
     "China Daily": [
@@ -11713,6 +11714,11 @@
      0
     ],
     "The Week": [
+     0,
+     1,
+     0
+    ],
+    "Condé Nast Traveller Middle East": [
      0,
      1,
      0
