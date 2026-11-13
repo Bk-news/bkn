@@ -9712,15 +9712,15 @@
    }
   },
   "2026-11-11": {
-   "total": 870,
-   "news": 864,
+   "total": 871,
+   "news": 865,
    "articles": 6,
    "positive": 0,
-   "neutral": 870,
+   "neutral": 871,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 167,
+    "US": 168,
     "SA": 91,
     "GB": 409,
     "JP": 1,
@@ -9736,7 +9736,7 @@
     "Yieh Corp.": 1,
     "Al-Monitor": 41,
     "The Washington Post": 15,
-    "AP News": 12,
+    "AP News": 13,
     "Reuters": 108,
     "The Guardian": 178,
     "Tavern of the Taeguk Warriors": 1,
@@ -9911,7 +9911,7 @@
     ],
     "AP News": [
      0,
-     12,
+     13,
      0
     ],
     "Reuters": [
@@ -10592,15 +10592,15 @@
    }
   },
   "2026-11-12": {
-   "total": 574,
-   "news": 553,
+   "total": 576,
+   "news": 555,
    "articles": 21,
    "positive": 0,
-   "neutral": 574,
+   "neutral": 576,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "GB": 228,
+    "GB": 230,
     "US": 104,
     "FR": 3,
     "SA": 61,
@@ -10609,7 +10609,7 @@
    },
    "topics": {},
    "sources": {
-    "Financial Times": 50,
+    "Financial Times": 52,
     "The Guardian": 66,
     "StreetInsider": 1,
     "Bloomberg": 1,
@@ -10748,7 +10748,7 @@
    "sourceTone": {
     "Financial Times": [
      0,
-     50,
+     52,
      0
     ],
     "The Guardian": [

@@ -464,6 +464,27 @@
    "mt": true
   },
   {
+   "id": "b7c18368f49e2dae",
+   "origin": "rss",
+   "source": "AP News",
+   "author": "",
+   "title_ar": "بطولة ماسترز للجولف 2025",
+   "title_orig": "2025 Masters Golf Tournament",
+   "title_en": "2025 Masters Golf Tournament",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YVEM3bFFpbi1taW9DMDBpMWt3RHpjdDdPdVR0eU5GZmtYQmhRa29IeGJfdlJrMHpzWS1nU3p1cWRpVHFSVFZWWGd3?oc=5",
+   "published": "2026-11-11T23:18:09.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "2025 Masters Golf Tournament &nbsp;&nbsp; AP News",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "4d832418022a2cfc",
    "origin": "rss",
    "source": "Autoblog",
