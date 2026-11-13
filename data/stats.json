@@ -11436,16 +11436,16 @@
    }
   },
   "2026-11-13": {
-   "total": 107,
-   "news": 107,
+   "total": 109,
+   "news": 109,
    "articles": 0,
    "positive": 0,
-   "neutral": 107,
+   "neutral": 109,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 31,
-    "US": 22,
+    "US": 23,
     "SA": 9,
     "DE": 2
    },
@@ -11474,7 +11474,7 @@
     "Al Jazeera": 1,
     "Bloomberg.com": 6,
     "Al-Monitor": 2,
-    "AP News": 1,
+    "AP News": 2,
     "TRT World": 1,
     "fundsforNGOs - Grants and Resources for Sustainability": 1,
     "Arabian Gulf Business Insight | AGBI": 3,
@@ -11497,7 +11497,8 @@
     "The Week": 1,
     "Condé Nast Traveller Middle East": 1,
     "South China Morning Post": 1,
-    "Daily Nation": 1
+    "Daily Nation": 1,
+    "Barron's": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -11617,7 +11618,7 @@
     ],
     "AP News": [
      0,
-     1,
+     2,
      0
     ],
     "TRT World": [
@@ -11731,6 +11732,11 @@
      0
     ],
     "Daily Nation": [
+     0,
+     1,
+     0
+    ],
+    "Barron's": [
      0,
      1,
      0
