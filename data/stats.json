@@ -11449,15 +11449,15 @@
    }
   },
   "2026-11-13": {
-   "total": 359,
-   "news": 354,
+   "total": 362,
+   "news": 357,
    "articles": 5,
    "positive": 0,
-   "neutral": 359,
+   "neutral": 362,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 105,
+    "GB": 106,
     "US": 57,
     "SA": 35,
     "DE": 7,
@@ -11479,10 +11479,10 @@
     "Arabian Business": 1,
     "UA.NEWS": 1,
     "Arab News PK": 2,
-    "조선일보": 9,
+    "조선일보": 10,
     "https://houseofsaud.com/": 3,
     "Shipping Telegraph": 1,
-    "The Guardian": 22,
+    "The Guardian": 23,
     "Middle East Online": 3,
     "Spiegel": 7,
     "BBC": 16,
@@ -11523,7 +11523,7 @@
     "CNN": 2,
     "The Economist": 1,
     "ASHARQ AL-AWSAT English": 2,
-    "Yonhap News Agency": 2,
+    "Yonhap News Agency": 3,
     "The Hindu": 1,
     "Chosunbiz": 5,
     "الحرة": 1,
@@ -11610,7 +11610,7 @@
     ],
     "조선일보": [
      0,
-     9,
+     10,
      0
     ],
     "https://houseofsaud.com/": [
@@ -11625,7 +11625,7 @@
     ],
     "The Guardian": [
      0,
-     22,
+     23,
      0
     ],
     "Middle East Online": [
@@ -11830,7 +11830,7 @@
     ],
     "Yonhap News Agency": [
      0,
-     2,
+     3,
      0
     ],
     "The Hindu": [
