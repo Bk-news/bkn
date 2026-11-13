@@ -11455,16 +11455,16 @@
    }
   },
   "2026-11-13": {
-   "total": 463,
-   "news": 456,
+   "total": 465,
+   "news": 458,
    "articles": 7,
    "positive": 0,
-   "neutral": 463,
+   "neutral": 465,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 143,
-    "US": 79,
+    "GB": 144,
+    "US": 80,
     "SA": 50,
     "DE": 7,
     "JP": 2,
@@ -11474,7 +11474,7 @@
    "sources": {
     "Financial Times": 30,
     "WSJ": 13,
-    "The New York Times": 13,
+    "The New York Times": 14,
     "Nation Thailand": 1,
     "Arab News": 51,
     "The Washington Post": 3,
@@ -11488,7 +11488,7 @@
     "조선일보": 12,
     "https://houseofsaud.com/": 4,
     "Shipping Telegraph": 1,
-    "The Guardian": 36,
+    "The Guardian": 37,
     "Middle East Online": 3,
     "Spiegel": 7,
     "BBC": 16,
@@ -11571,7 +11571,7 @@
     ],
     "The New York Times": [
      0,
-     13,
+     14,
      0
     ],
     "Nation Thailand": [
@@ -11641,7 +11641,7 @@
     ],
     "The Guardian": [
      0,
-     36,
+     37,
      0
     ],
     "Middle East Online": [
