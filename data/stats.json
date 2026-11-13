@@ -11449,16 +11449,16 @@
    }
   },
   "2026-11-13": {
-   "total": 356,
-   "news": 351,
+   "total": 358,
+   "news": 353,
    "articles": 5,
    "positive": 0,
-   "neutral": 356,
+   "neutral": 358,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 105,
-    "US": 55,
+    "US": 56,
     "SA": 35,
     "DE": 7,
     "JP": 1,
@@ -11488,11 +11488,11 @@
     "BBC": 16,
     "Al Jazeera": 1,
     "Bloomberg.com": 15,
-    "Al-Monitor": 13,
+    "Al-Monitor": 14,
     "AP News": 3,
     "TRT World": 2,
     "fundsforNGOs - Grants and Resources for Sustainability": 1,
-    "Arabian Gulf Business Insight | AGBI": 3,
+    "Arabian Gulf Business Insight | AGBI": 4,
     "سانا": 2,
     "Pulse Kenya": 1,
     "CGTN": 1,
@@ -11655,7 +11655,7 @@
     ],
     "Al-Monitor": [
      0,
-     13,
+     14,
      0
     ],
     "AP News": [
@@ -11675,7 +11675,7 @@
     ],
     "Arabian Gulf Business Insight | AGBI": [
      0,
-     3,
+     4,
      0
     ],
     "سانا": [
