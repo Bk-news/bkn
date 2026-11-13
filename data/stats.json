@@ -11424,15 +11424,15 @@
    }
   },
   "2026-11-13": {
-   "total": 22,
-   "news": 22,
+   "total": 23,
+   "news": 23,
    "articles": 0,
    "positive": 0,
-   "neutral": 22,
+   "neutral": 23,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 3,
+    "GB": 4,
     "US": 7,
     "SA": 1
    },
@@ -11453,7 +11453,8 @@
     "Arab News PK": 1,
     "조선일보": 1,
     "https://houseofsaud.com/": 1,
-    "Shipping Telegraph": 1
+    "Shipping Telegraph": 1,
+    "The Guardian": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -11532,6 +11533,11 @@
      0
     ],
     "Shipping Telegraph": [
+     0,
+     1,
+     0
+    ],
+    "The Guardian": [
      0,
      1,
      0
