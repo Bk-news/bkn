@@ -10592,15 +10592,15 @@
    }
   },
   "2026-11-12": {
-   "total": 687,
-   "news": 664,
+   "total": 688,
+   "news": 665,
    "articles": 23,
    "positive": 0,
-   "neutral": 687,
+   "neutral": 688,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "GB": 300,
+    "GB": 301,
     "US": 119,
     "FR": 5,
     "SA": 78,
@@ -10610,7 +10610,7 @@
    },
    "topics": {},
    "sources": {
-    "Financial Times": 61,
+    "Financial Times": 62,
     "The Guardian": 83,
     "StreetInsider": 1,
     "Bloomberg": 1,
@@ -10754,7 +10754,7 @@
    "sourceTone": {
     "Financial Times": [
      0,
-     61,
+     62,
      0
     ],
     "The Guardian": [
@@ -11455,17 +11455,17 @@
    }
   },
   "2026-11-13": {
-   "total": 483,
-   "news": 476,
+   "total": 485,
+   "news": 478,
    "articles": 7,
    "positive": 0,
-   "neutral": 483,
+   "neutral": 485,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 153,
+    "GB": 154,
     "US": 82,
-    "SA": 51,
+    "SA": 52,
     "DE": 7,
     "JP": 2,
     "FR": 8
@@ -11476,7 +11476,7 @@
     "WSJ": 14,
     "The New York Times": 14,
     "Nation Thailand": 1,
-    "Arab News": 51,
+    "Arab News": 52,
     "The Washington Post": 3,
     "Reuters": 67,
     "Free Malaysia Today": 1,
@@ -11488,7 +11488,7 @@
     "조선일보": 12,
     "https://houseofsaud.com/": 4,
     "Shipping Telegraph": 1,
-    "The Guardian": 38,
+    "The Guardian": 39,
     "Middle East Online": 3,
     "Spiegel": 7,
     "BBC": 16,
@@ -11585,7 +11585,7 @@
     ],
     "Arab News": [
      0,
-     51,
+     52,
      0
     ],
     "The Washington Post": [
@@ -11645,7 +11645,7 @@
     ],
     "The Guardian": [
      0,
-     38,
+     39,
      0
     ],
     "Middle East Online": [
