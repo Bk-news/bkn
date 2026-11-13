@@ -11455,15 +11455,15 @@
    }
   },
   "2026-11-13": {
-   "total": 467,
-   "news": 460,
+   "total": 470,
+   "news": 463,
    "articles": 7,
    "positive": 0,
-   "neutral": 467,
+   "neutral": 470,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 144,
+    "GB": 146,
     "US": 81,
     "SA": 51,
     "DE": 7,
@@ -11478,7 +11478,7 @@
     "Nation Thailand": 1,
     "Arab News": 51,
     "The Washington Post": 3,
-    "Reuters": 61,
+    "Reuters": 62,
     "Free Malaysia Today": 1,
     "The New Arab": 1,
     "The Guam Daily Post": 1,
@@ -11488,7 +11488,7 @@
     "조선일보": 12,
     "https://houseofsaud.com/": 4,
     "Shipping Telegraph": 1,
-    "The Guardian": 37,
+    "The Guardian": 38,
     "Middle East Online": 3,
     "Spiegel": 7,
     "BBC": 16,
@@ -11556,7 +11556,8 @@
     "UFC.com": 1,
     "Goal.com": 1,
     "Tampa Bay 28": 1,
-    "U.S. Senate (.gov)": 1
+    "U.S. Senate (.gov)": 1,
+    "Howl.Link": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -11591,7 +11592,7 @@
     ],
     "Reuters": [
      0,
-     61,
+     62,
      0
     ],
     "Free Malaysia Today": [
@@ -11641,7 +11642,7 @@
     ],
     "The Guardian": [
      0,
-     37,
+     38,
      0
     ],
     "Middle East Online": [
@@ -11980,6 +11981,11 @@
      0
     ],
     "U.S. Senate (.gov)": [
+     0,
+     1,
+     0
+    ],
+    "Howl.Link": [
      0,
      1,
      0
