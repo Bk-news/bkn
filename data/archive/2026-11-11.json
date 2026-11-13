@@ -4622,6 +4622,27 @@
    "mt": true
   },
   {
+   "id": "423fc20f11d50415",
+   "origin": "rss",
+   "source": "WSJ",
+   "author": "",
+   "title_ar": "الرأي | مكتوبة، لا تزال مذبحة",
+   "title_orig": "Opinion | Spelled Out, Still Butchered",
+   "title_en": "Opinion | Spelled Out, Still Butchered",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmRkFfQWwyN0hXR25NdWFqM0EtOElrR2FES2JGbXBQU3NDX3VEY3duVlhZNDlla1d6ejI5bEE4QkhES0VhOHhmalZWZ3F4Z014YzVZWlUyN0R3bkpkN1YycnF0NzN4MzduYXAwc0dXbDVKQQ?oc=5",
+   "published": "2026-11-11T17:26:00.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "Opinion | Spelled Out, Still Butchered &nbsp;&nbsp; WSJ",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "2fd51d1c632df317",
    "origin": "rss",
    "source": "Financial Times",
