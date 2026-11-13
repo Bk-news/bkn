@@ -11455,15 +11455,15 @@
    }
   },
   "2026-11-13": {
-   "total": 485,
-   "news": 478,
+   "total": 486,
+   "news": 479,
    "articles": 7,
    "positive": 0,
-   "neutral": 485,
+   "neutral": 486,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 154,
+    "GB": 155,
     "US": 82,
     "SA": 52,
     "DE": 7,
@@ -11478,7 +11478,7 @@
     "Nation Thailand": 1,
     "Arab News": 52,
     "The Washington Post": 3,
-    "Reuters": 67,
+    "Reuters": 68,
     "Free Malaysia Today": 1,
     "The New Arab": 1,
     "The Guam Daily Post": 1,
@@ -11595,7 +11595,7 @@
     ],
     "Reuters": [
      0,
-     67,
+     68,
      0
     ],
     "Free Malaysia Today": [
