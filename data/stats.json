@@ -11436,11 +11436,11 @@
    }
   },
   "2026-11-13": {
-   "total": 109,
-   "news": 109,
+   "total": 110,
+   "news": 110,
    "articles": 0,
    "positive": 0,
-   "neutral": 109,
+   "neutral": 110,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -11498,7 +11498,8 @@
     "Condé Nast Traveller Middle East": 1,
     "South China Morning Post": 1,
     "Daily Nation": 1,
-    "Barron's": 1
+    "Barron's": 1,
+    "Muslim Network TV": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -11737,6 +11738,11 @@
      0
     ],
     "Barron's": [
+     0,
+     1,
+     0
+    ],
+    "Muslim Network TV": [
      0,
      1,
      0
