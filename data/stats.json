@@ -9712,15 +9712,15 @@
    }
   },
   "2026-11-11": {
-   "total": 888,
-   "news": 882,
+   "total": 889,
+   "news": 883,
    "articles": 6,
    "positive": 0,
-   "neutral": 888,
+   "neutral": 889,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 175,
+    "US": 176,
     "SA": 97,
     "GB": 413,
     "JP": 1,
@@ -9757,7 +9757,7 @@
     "Financial Times": 118,
     "Cyprus Shipping News": 1,
     "Saudi Gazette": 13,
-    "Bloomberg.com": 42,
+    "Bloomberg.com": 43,
     "South China Morning Post": 5,
     "Le Monde.fr": 5,
     "Mining.com.au": 1,
@@ -10016,7 +10016,7 @@
     ],
     "Bloomberg.com": [
      0,
-     42,
+     43,
      0
     ],
     "South China Morning Post": [
@@ -10592,15 +10592,15 @@
    }
   },
   "2026-11-12": {
-   "total": 648,
-   "news": 625,
+   "total": 667,
+   "news": 644,
    "articles": 23,
    "positive": 0,
-   "neutral": 648,
+   "neutral": 667,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "GB": 269,
+    "GB": 288,
     "US": 114,
     "FR": 5,
     "SA": 77,
@@ -10622,7 +10622,7 @@
     "Saudi Gazette": 15,
     "Al-Monitor": 26,
     "The New York Times": 19,
-    "Reuters": 98,
+    "Reuters": 117,
     "AP News": 10,
     "Arab News": 72,
     "South China Morning Post": 6,
@@ -10816,7 +10816,7 @@
     ],
     "Reuters": [
      0,
-     98,
+     117,
      0
     ],
     "AP News": [
@@ -11442,11 +11442,11 @@
    }
   },
   "2026-11-13": {
-   "total": 258,
-   "news": 255,
+   "total": 278,
+   "news": 275,
    "articles": 3,
    "positive": 0,
-   "neutral": 258,
+   "neutral": 278,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -11521,9 +11521,11 @@
     "Chosunbiz": 4,
     "الحرة": 1,
     "Newsquawk": 1,
-    "日本取引所グループ": 8,
+    "日本取引所グループ": 26,
     "Business Insider Africa": 1,
-    "The Korea Times": 1
+    "The Korea Times": 1,
+    "Investing.com": 1,
+    "Yemen Online": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -11838,7 +11840,7 @@
     ],
     "日本取引所グループ": [
      0,
-     8,
+     26,
      0
     ],
     "Business Insider Africa": [
@@ -11847,6 +11849,16 @@
      0
     ],
     "The Korea Times": [
+     0,
+     1,
+     0
+    ],
+    "Investing.com": [
+     0,
+     1,
+     0
+    ],
+    "Yemen Online": [
      0,
      1,
      0
