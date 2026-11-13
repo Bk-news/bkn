@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 869,
-   "news": 863,
+   "total": 870,
+   "news": 864,
    "articles": 6,
    "positive": 0,
-   "neutral": 869,
+   "neutral": 870,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 167,
     "SA": 91,
-    "GB": 408,
+    "GB": 409,
     "JP": 1,
     "HK": 5,
     "FR": 7
@@ -9738,7 +9738,7 @@
     "The Washington Post": 15,
     "AP News": 12,
     "Reuters": 108,
-    "The Guardian": 177,
+    "The Guardian": 178,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
     "Yahoo Sports": 2,
@@ -9921,7 +9921,7 @@
     ],
     "The Guardian": [
      0,
-     177,
+     178,
      0
     ],
     "Tavern of the Taeguk Warriors": [
@@ -10592,15 +10592,15 @@
    }
   },
   "2026-11-12": {
-   "total": 572,
-   "news": 551,
+   "total": 574,
+   "news": 553,
    "articles": 21,
    "positive": 0,
-   "neutral": 572,
+   "neutral": 574,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "GB": 226,
+    "GB": 228,
     "US": 104,
     "FR": 3,
     "SA": 61,
@@ -10609,7 +10609,7 @@
    },
    "topics": {},
    "sources": {
-    "Financial Times": 48,
+    "Financial Times": 50,
     "The Guardian": 66,
     "StreetInsider": 1,
     "Bloomberg": 1,
@@ -10748,7 +10748,7 @@
    "sourceTone": {
     "Financial Times": [
      0,
-     48,
+     50,
      0
     ],
     "The Guardian": [
