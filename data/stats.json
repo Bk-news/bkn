@@ -11449,11 +11449,11 @@
    }
   },
   "2026-11-13": {
-   "total": 341,
-   "news": 336,
+   "total": 345,
+   "news": 340,
    "articles": 5,
    "positive": 0,
-   "neutral": 341,
+   "neutral": 345,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -11470,7 +11470,7 @@
     "WSJ": 6,
     "The New York Times": 9,
     "Nation Thailand": 1,
-    "Arab News": 36,
+    "Arab News": 37,
     "The Washington Post": 2,
     "Reuters": 41,
     "Free Malaysia Today": 1,
@@ -11479,7 +11479,7 @@
     "Arabian Business": 1,
     "UA.NEWS": 1,
     "Arab News PK": 2,
-    "조선일보": 6,
+    "조선일보": 7,
     "https://houseofsaud.com/": 3,
     "Shipping Telegraph": 1,
     "The Guardian": 21,
@@ -11525,10 +11525,10 @@
     "ASHARQ AL-AWSAT English": 2,
     "Yonhap News Agency": 2,
     "The Hindu": 1,
-    "Chosunbiz": 4,
+    "Chosunbiz": 5,
     "الحرة": 1,
     "Newsquawk": 2,
-    "日本取引所グループ": 55,
+    "日本取引所グループ": 56,
     "Business Insider Africa": 3,
     "The Korea Times": 1,
     "Investing.com": 1,
@@ -11565,7 +11565,7 @@
     ],
     "Arab News": [
      0,
-     36,
+     37,
      0
     ],
     "The Washington Post": [
@@ -11610,7 +11610,7 @@
     ],
     "조선일보": [
      0,
-     6,
+     7,
      0
     ],
     "https://houseofsaud.com/": [
@@ -11840,7 +11840,7 @@
     ],
     "Chosunbiz": [
      0,
-     4,
+     5,
      0
     ],
     "الحرة": [
@@ -11855,7 +11855,7 @@
     ],
     "日本取引所グループ": [
      0,
-     55,
+     56,
      0
     ],
     "Business Insider Africa": [
