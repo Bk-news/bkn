@@ -11449,16 +11449,16 @@
    }
   },
   "2026-11-13": {
-   "total": 347,
-   "news": 342,
+   "total": 349,
+   "news": 344,
    "articles": 5,
    "positive": 0,
-   "neutral": 347,
+   "neutral": 349,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 101,
-    "US": 52,
+    "GB": 102,
+    "US": 53,
     "SA": 34,
     "DE": 7,
     "JP": 1,
@@ -11466,7 +11466,7 @@
    },
    "topics": {},
    "sources": {
-    "Financial Times": 23,
+    "Financial Times": 24,
     "WSJ": 6,
     "The New York Times": 9,
     "Nation Thailand": 1,
@@ -11488,7 +11488,7 @@
     "BBC": 16,
     "Al Jazeera": 1,
     "Bloomberg.com": 14,
-    "Al-Monitor": 12,
+    "Al-Monitor": 13,
     "AP News": 3,
     "TRT World": 2,
     "fundsforNGOs - Grants and Resources for Sustainability": 1,
@@ -11545,7 +11545,7 @@
    "sourceTone": {
     "Financial Times": [
      0,
-     23,
+     24,
      0
     ],
     "WSJ": [
@@ -11655,7 +11655,7 @@
     ],
     "Al-Monitor": [
      0,
-     12,
+     13,
      0
     ],
     "AP News": [
