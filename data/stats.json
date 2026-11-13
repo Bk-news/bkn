@@ -11436,11 +11436,11 @@
    }
   },
   "2026-11-13": {
-   "total": 101,
-   "news": 101,
+   "total": 103,
+   "news": 103,
    "articles": 0,
    "positive": 0,
-   "neutral": 101,
+   "neutral": 103,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -11485,7 +11485,7 @@
     "The Diplomatic Insight": 1,
     "MEED": 1,
     "Saudi Gazette": 1,
-    "Gulf News": 1,
+    "Gulf News": 2,
     "Bioengineer.org": 1,
     "The National": 1,
     "Skift": 1,
@@ -11496,7 +11496,8 @@
     "All about feed": 1,
     "The Week": 1,
     "Condé Nast Traveller Middle East": 1,
-    "South China Morning Post": 1
+    "South China Morning Post": 1,
+    "Daily Nation": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -11671,7 +11672,7 @@
     ],
     "Gulf News": [
      0,
-     1,
+     2,
      0
     ],
     "Bioengineer.org": [
@@ -11725,6 +11726,11 @@
      0
     ],
     "South China Morning Post": [
+     0,
+     1,
+     0
+    ],
+    "Daily Nation": [
      0,
      1,
      0
