@@ -10592,15 +10592,15 @@
    }
   },
   "2026-11-12": {
-   "total": 681,
-   "news": 658,
+   "total": 683,
+   "news": 660,
    "articles": 23,
    "positive": 0,
-   "neutral": 681,
+   "neutral": 683,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "GB": 297,
+    "GB": 298,
     "US": 117,
     "FR": 5,
     "SA": 78,
@@ -10611,7 +10611,7 @@
    "topics": {},
    "sources": {
     "Financial Times": 61,
-    "The Guardian": 80,
+    "The Guardian": 81,
     "StreetInsider": 1,
     "Bloomberg": 1,
     "India Narrative": 1,
@@ -10748,7 +10748,8 @@
     "Chitral News": 1,
     "EnterpriseAM": 1,
     "Le Monde.fr": 1,
-    "Spiegel": 1
+    "Spiegel": 1,
+    "DW.com": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -10758,7 +10759,7 @@
     ],
     "The Guardian": [
      0,
-     80,
+     81,
      0
     ],
     "StreetInsider": [
@@ -11445,20 +11446,25 @@
      0,
      1,
      0
+    ],
+    "DW.com": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-13": {
-   "total": 441,
-   "news": 435,
-   "articles": 6,
+   "total": 451,
+   "news": 444,
+   "articles": 7,
    "positive": 0,
-   "neutral": 441,
+   "neutral": 451,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 131,
-    "US": 78,
+    "GB": 139,
+    "US": 79,
     "SA": 47,
     "DE": 7,
     "JP": 2,
@@ -11466,7 +11472,7 @@
    },
    "topics": {},
    "sources": {
-    "Financial Times": 25,
+    "Financial Times": 29,
     "WSJ": 13,
     "The New York Times": 13,
     "Nation Thailand": 1,
@@ -11482,7 +11488,7 @@
     "조선일보": 12,
     "https://houseofsaud.com/": 4,
     "Shipping Telegraph": 1,
-    "The Guardian": 31,
+    "The Guardian": 35,
     "Middle East Online": 3,
     "Spiegel": 7,
     "BBC": 16,
@@ -11517,7 +11523,7 @@
     "Muslim Network TV": 1,
     "Nikkei Asia": 2,
     "Capital FM Africa": 1,
-    "Atlantic Council": 5,
+    "Atlantic Council": 6,
     "France 24": 5,
     "Le Monde.fr": 3,
     "CNN": 2,
@@ -11540,7 +11546,7 @@
     "ITIJ": 1,
     "ArchDaily": 1,
     "Institute for the Study of War": 1,
-    "Yahoo Sports": 1,
+    "Yahoo Sports": 2,
     "شفق نيوز": 1,
     "Middle East Eye": 2,
     "Internazionale": 1,
@@ -11553,7 +11559,7 @@
    "sourceTone": {
     "Financial Times": [
      0,
-     25,
+     29,
      0
     ],
     "WSJ": [
@@ -11633,7 +11639,7 @@
     ],
     "The Guardian": [
      0,
-     31,
+     35,
      0
     ],
     "Middle East Online": [
@@ -11808,7 +11814,7 @@
     ],
     "Atlantic Council": [
      0,
-     5,
+     6,
      0
     ],
     "France 24": [
@@ -11923,7 +11929,7 @@
     ],
     "Yahoo Sports": [
      0,
-     1,
+     2,
      0
     ],
     "شفق نيوز": [
