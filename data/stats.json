@@ -11455,17 +11455,17 @@
    }
   },
   "2026-11-13": {
-   "total": 461,
-   "news": 454,
+   "total": 463,
+   "news": 456,
    "articles": 7,
    "positive": 0,
-   "neutral": 461,
+   "neutral": 463,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 142,
+    "GB": 143,
     "US": 79,
-    "SA": 49,
+    "SA": 50,
     "DE": 7,
     "JP": 2,
     "FR": 8
@@ -11488,7 +11488,7 @@
     "조선일보": 12,
     "https://houseofsaud.com/": 4,
     "Shipping Telegraph": 1,
-    "The Guardian": 35,
+    "The Guardian": 36,
     "Middle East Online": 3,
     "Spiegel": 7,
     "BBC": 16,
@@ -11505,7 +11505,7 @@
     "Anadolu Ajansı": 3,
     "The Diplomatic Insight": 1,
     "MEED": 1,
-    "Saudi Gazette": 4,
+    "Saudi Gazette": 5,
     "Gulf News": 2,
     "Bioengineer.org": 2,
     "The National": 1,
@@ -11641,7 +11641,7 @@
     ],
     "The Guardian": [
      0,
-     35,
+     36,
      0
     ],
     "Middle East Online": [
@@ -11726,7 +11726,7 @@
     ],
     "Saudi Gazette": [
      0,
-     4,
+     5,
      0
     ],
     "Gulf News": [
