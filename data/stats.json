@@ -9712,17 +9712,17 @@
    }
   },
   "2026-11-11": {
-   "total": 871,
-   "news": 865,
+   "total": 872,
+   "news": 866,
    "articles": 6,
    "positive": 0,
-   "neutral": 871,
+   "neutral": 872,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 168,
     "SA": 91,
-    "GB": 409,
+    "GB": 410,
     "JP": 1,
     "HK": 5,
     "FR": 7
@@ -9737,7 +9737,7 @@
     "Al-Monitor": 41,
     "The Washington Post": 15,
     "AP News": 13,
-    "Reuters": 108,
+    "Reuters": 109,
     "The Guardian": 178,
     "Tavern of the Taeguk Warriors": 1,
     "ANHA": 1,
@@ -9916,7 +9916,7 @@
     ],
     "Reuters": [
      0,
-     108,
+     109,
      0
     ],
     "The Guardian": [
@@ -11424,22 +11424,22 @@
    }
   },
   "2026-11-13": {
-   "total": 20,
-   "news": 20,
+   "total": 21,
+   "news": 21,
    "articles": 0,
    "positive": 0,
-   "neutral": 20,
+   "neutral": 21,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 3,
-    "US": 6,
+    "US": 7,
     "SA": 1
    },
    "topics": {},
    "sources": {
     "Financial Times": 2,
-    "WSJ": 3,
+    "WSJ": 4,
     "The New York Times": 2,
     "Nation Thailand": 1,
     "Arab News": 2,
@@ -11462,7 +11462,7 @@
     ],
     "WSJ": [
      0,
-     3,
+     4,
      0
     ],
     "The New York Times": [
