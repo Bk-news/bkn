@@ -11455,16 +11455,16 @@
    }
   },
   "2026-11-13": {
-   "total": 473,
-   "news": 466,
+   "total": 474,
+   "news": 467,
    "articles": 7,
    "positive": 0,
-   "neutral": 473,
+   "neutral": 474,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 147,
-    "US": 81,
+    "US": 82,
     "SA": 51,
     "DE": 7,
     "JP": 2,
@@ -11493,7 +11493,7 @@
     "Spiegel": 7,
     "BBC": 16,
     "Al Jazeera": 1,
-    "Bloomberg.com": 17,
+    "Bloomberg.com": 18,
     "Al-Monitor": 20,
     "AP News": 5,
     "TRT World": 2,
@@ -11668,7 +11668,7 @@
     ],
     "Bloomberg.com": [
      0,
-     17,
+     18,
      0
     ],
     "Al-Monitor": [
