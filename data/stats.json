@@ -8886,15 +8886,15 @@
    }
   },
   "2026-11-10": {
-   "total": 905,
-   "news": 893,
+   "total": 906,
+   "news": 894,
    "articles": 12,
    "positive": 0,
-   "neutral": 905,
+   "neutral": 906,
    "critical": 0,
    "mbs": 22,
    "countries": {
-    "US": 231,
+    "US": 232,
     "GB": 371,
     "HK": 1,
     "SA": 100,
@@ -8906,7 +8906,7 @@
     "Amwaj.media": 1,
     "The Washington Post": 12,
     "BBC": 14,
-    "Al-Monitor": 58,
+    "Al-Monitor": 59,
     "WSJ": 44,
     "South China Morning Post": 1,
     "Bloomberg.com": 51,
@@ -9056,7 +9056,7 @@
     ],
     "Al-Monitor": [
      0,
-     58,
+     59,
      0
     ],
     "WSJ": [
@@ -10592,18 +10592,18 @@
    }
   },
   "2026-11-12": {
-   "total": 588,
-   "news": 567,
+   "total": 591,
+   "news": 570,
    "articles": 21,
    "positive": 0,
-   "neutral": 588,
+   "neutral": 591,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "GB": 241,
     "US": 104,
-    "FR": 3,
-    "SA": 61,
+    "FR": 4,
+    "SA": 62,
     "HK": 4,
     "JP": 1
    },
@@ -10617,9 +10617,9 @@
     "BBC": 11,
     "Oil & Gas Middle East": 1,
     "WSJ": 17,
-    "France 24": 3,
+    "France 24": 4,
     "Bloomberg.com": 21,
-    "Saudi Gazette": 12,
+    "Saudi Gazette": 13,
     "Al-Monitor": 25,
     "The New York Times": 17,
     "Reuters": 84,
@@ -10743,7 +10743,8 @@
     "Bioengineer.org": 1,
     "YouGov": 1,
     "Algemeiner.com": 1,
-    "IQAir": 1
+    "IQAir": 1,
+    "Chitral News": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -10788,7 +10789,7 @@
     ],
     "France 24": [
      0,
-     3,
+     4,
      0
     ],
     "Bloomberg.com": [
@@ -10798,7 +10799,7 @@
     ],
     "Saudi Gazette": [
      0,
-     12,
+     13,
      0
     ],
     "Al-Monitor": [
@@ -11420,31 +11421,37 @@
      0,
      1,
      0
+    ],
+    "Chitral News": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-13": {
-   "total": 25,
-   "news": 25,
+   "total": 61,
+   "news": 61,
    "articles": 0,
    "positive": 0,
-   "neutral": 25,
+   "neutral": 61,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 5,
-    "US": 7,
-    "SA": 2
+    "GB": 18,
+    "US": 18,
+    "SA": 7,
+    "DE": 2
    },
    "topics": {},
    "sources": {
-    "Financial Times": 2,
-    "WSJ": 4,
-    "The New York Times": 2,
+    "Financial Times": 4,
+    "WSJ": 5,
+    "The New York Times": 6,
     "Nation Thailand": 1,
-    "Arab News": 3,
+    "Arab News": 8,
     "The Washington Post": 1,
-    "Reuters": 1,
+    "Reuters": 5,
     "Free Malaysia Today": 1,
     "The New Arab": 1,
     "The Guam Daily Post": 1,
@@ -11452,24 +11459,33 @@
     "UA.NEWS": 1,
     "Arab News PK": 1,
     "조선일보": 1,
-    "https://houseofsaud.com/": 1,
+    "https://houseofsaud.com/": 2,
     "Shipping Telegraph": 1,
-    "The Guardian": 2
+    "The Guardian": 6,
+    "Middle East Online": 1,
+    "Spiegel": 2,
+    "BBC": 3,
+    "Al Jazeera": 1,
+    "Bloomberg.com": 3,
+    "Al-Monitor": 2,
+    "AP News": 1,
+    "TRT World": 1,
+    "fundsforNGOs - Grants and Resources for Sustainability": 1
    },
    "sourceTone": {
     "Financial Times": [
      0,
-     2,
+     4,
      0
     ],
     "WSJ": [
      0,
-     4,
+     5,
      0
     ],
     "The New York Times": [
      0,
-     2,
+     6,
      0
     ],
     "Nation Thailand": [
@@ -11479,7 +11495,7 @@
     ],
     "Arab News": [
      0,
-     3,
+     8,
      0
     ],
     "The Washington Post": [
@@ -11489,7 +11505,7 @@
     ],
     "Reuters": [
      0,
-     1,
+     5,
      0
     ],
     "Free Malaysia Today": [
@@ -11529,7 +11545,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     1,
+     2,
      0
     ],
     "Shipping Telegraph": [
@@ -11539,7 +11555,52 @@
     ],
     "The Guardian": [
      0,
+     6,
+     0
+    ],
+    "Middle East Online": [
+     0,
+     1,
+     0
+    ],
+    "Spiegel": [
+     0,
      2,
+     0
+    ],
+    "BBC": [
+     0,
+     3,
+     0
+    ],
+    "Al Jazeera": [
+     0,
+     1,
+     0
+    ],
+    "Bloomberg.com": [
+     0,
+     3,
+     0
+    ],
+    "Al-Monitor": [
+     0,
+     2,
+     0
+    ],
+    "AP News": [
+     0,
+     1,
+     0
+    ],
+    "TRT World": [
+     0,
+     1,
+     0
+    ],
+    "fundsforNGOs - Grants and Resources for Sustainability": [
+     0,
+     1,
      0
     ]
    }
