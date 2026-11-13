@@ -9712,15 +9712,15 @@
    }
   },
   "2026-11-11": {
-   "total": 868,
+   "total": 869,
    "news": 863,
-   "articles": 5,
+   "articles": 6,
    "positive": 0,
-   "neutral": 868,
+   "neutral": 869,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 166,
+    "US": 167,
     "SA": 91,
     "GB": 408,
     "JP": 1,
@@ -9802,7 +9802,7 @@
     "CNN": 2,
     "DW.com": 1,
     "アラブニュース": 2,
-    "Foreign Policy": 2,
+    "Foreign Policy": 3,
     "Anadolu Ajansı": 2,
     "شبكة تواصل الإخبارية": 1,
     "Atlantic Council": 2,
@@ -10241,7 +10241,7 @@
     ],
     "Foreign Policy": [
      0,
-     2,
+     3,
      0
     ],
     "Anadolu Ajansı": [
@@ -10592,15 +10592,15 @@
    }
   },
   "2026-11-12": {
-   "total": 559,
-   "news": 538,
+   "total": 569,
+   "news": 548,
    "articles": 21,
    "positive": 0,
-   "neutral": 559,
+   "neutral": 569,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "GB": 213,
+    "GB": 223,
     "US": 104,
     "FR": 3,
     "SA": 61,
@@ -10609,7 +10609,7 @@
    },
    "topics": {},
    "sources": {
-    "Financial Times": 38,
+    "Financial Times": 48,
     "The Guardian": 65,
     "StreetInsider": 1,
     "Bloomberg": 1,
@@ -10748,7 +10748,7 @@
    "sourceTone": {
     "Financial Times": [
      0,
-     38,
+     48,
      0
     ],
     "The Guardian": [
@@ -11424,11 +11424,11 @@
    }
   },
   "2026-11-13": {
-   "total": 18,
-   "news": 18,
+   "total": 19,
+   "news": 19,
    "articles": 0,
    "positive": 0,
-   "neutral": 18,
+   "neutral": 19,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -11450,7 +11450,8 @@
     "The Guam Daily Post": 1,
     "Arabian Business": 1,
     "UA.NEWS": 1,
-    "Arab News PK": 1
+    "Arab News PK": 1,
+    "조선일보": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -11514,6 +11515,11 @@
      0
     ],
     "Arab News PK": [
+     0,
+     1,
+     0
+    ],
+    "조선일보": [
      0,
      1,
      0
