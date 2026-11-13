@@ -11449,17 +11449,17 @@
    }
   },
   "2026-11-13": {
-   "total": 312,
-   "news": 309,
+   "total": 326,
+   "news": 323,
    "articles": 3,
    "positive": 0,
-   "neutral": 312,
+   "neutral": 326,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 90,
-    "US": 48,
-    "SA": 32,
+    "GB": 93,
+    "US": 49,
+    "SA": 33,
     "DE": 7,
     "JP": 1,
     "FR": 5
@@ -11468,11 +11468,11 @@
    "sources": {
     "Financial Times": 22,
     "WSJ": 6,
-    "The New York Times": 8,
+    "The New York Times": 9,
     "Nation Thailand": 1,
-    "Arab News": 34,
+    "Arab News": 35,
     "The Washington Post": 2,
-    "Reuters": 34,
+    "Reuters": 35,
     "Free Malaysia Today": 1,
     "The New Arab": 1,
     "The Guam Daily Post": 1,
@@ -11482,8 +11482,8 @@
     "조선일보": 6,
     "https://houseofsaud.com/": 3,
     "Shipping Telegraph": 1,
-    "The Guardian": 18,
-    "Middle East Online": 2,
+    "The Guardian": 20,
+    "Middle East Online": 3,
     "Spiegel": 7,
     "BBC": 16,
     "Al Jazeera": 1,
@@ -11493,7 +11493,7 @@
     "TRT World": 2,
     "fundsforNGOs - Grants and Resources for Sustainability": 1,
     "Arabian Gulf Business Insight | AGBI": 3,
-    "سانا": 1,
+    "سانا": 2,
     "Pulse Kenya": 1,
     "CGTN": 1,
     "Anadolu Ajansı": 2,
@@ -11527,8 +11527,8 @@
     "The Hindu": 1,
     "Chosunbiz": 4,
     "الحرة": 1,
-    "Newsquawk": 1,
-    "日本取引所グループ": 51,
+    "Newsquawk": 2,
+    "日本取引所グループ": 54,
     "Business Insider Africa": 3,
     "The Korea Times": 1,
     "Investing.com": 1,
@@ -11536,7 +11536,10 @@
     "Crypto Briefing": 1,
     "The Globe and Mail": 1,
     "Finimize": 1,
-    "Egypt Today": 1
+    "Egypt Today": 1,
+    "ITIJ": 1,
+    "ArchDaily": 1,
+    "Institute for the Study of War": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -11551,7 +11554,7 @@
     ],
     "The New York Times": [
      0,
-     8,
+     9,
      0
     ],
     "Nation Thailand": [
@@ -11561,7 +11564,7 @@
     ],
     "Arab News": [
      0,
-     34,
+     35,
      0
     ],
     "The Washington Post": [
@@ -11571,7 +11574,7 @@
     ],
     "Reuters": [
      0,
-     34,
+     35,
      0
     ],
     "Free Malaysia Today": [
@@ -11621,12 +11624,12 @@
     ],
     "The Guardian": [
      0,
-     18,
+     20,
      0
     ],
     "Middle East Online": [
      0,
-     2,
+     3,
      0
     ],
     "Spiegel": [
@@ -11676,7 +11679,7 @@
     ],
     "سانا": [
      0,
-     1,
+     2,
      0
     ],
     "Pulse Kenya": [
@@ -11846,12 +11849,12 @@
     ],
     "Newsquawk": [
      0,
-     1,
+     2,
      0
     ],
     "日本取引所グループ": [
      0,
-     51,
+     54,
      0
     ],
     "Business Insider Africa": [
@@ -11890,6 +11893,21 @@
      0
     ],
     "Egypt Today": [
+     0,
+     1,
+     0
+    ],
+    "ITIJ": [
+     0,
+     1,
+     0
+    ],
+    "ArchDaily": [
+     0,
+     1,
+     0
+    ],
+    "Institute for the Study of War": [
      0,
      1,
      0
