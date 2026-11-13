@@ -10592,15 +10592,15 @@
    }
   },
   "2026-11-12": {
-   "total": 673,
-   "news": 650,
+   "total": 674,
+   "news": 651,
    "articles": 23,
    "positive": 0,
-   "neutral": 673,
+   "neutral": 674,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "GB": 292,
+    "GB": 293,
     "US": 115,
     "FR": 5,
     "SA": 77,
@@ -10611,7 +10611,7 @@
    "topics": {},
    "sources": {
     "Financial Times": 61,
-    "The Guardian": 79,
+    "The Guardian": 80,
     "StreetInsider": 1,
     "Bloomberg": 1,
     "India Narrative": 1,
@@ -10758,7 +10758,7 @@
     ],
     "The Guardian": [
      0,
-     79,
+     80,
      0
     ],
     "StreetInsider": [
@@ -11449,16 +11449,16 @@
    }
   },
   "2026-11-13": {
-   "total": 365,
-   "news": 360,
+   "total": 366,
+   "news": 361,
    "articles": 5,
    "positive": 0,
-   "neutral": 365,
+   "neutral": 366,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 106,
-    "US": 57,
+    "US": 58,
     "SA": 36,
     "DE": 7,
     "JP": 1,
@@ -11467,7 +11467,7 @@
    "topics": {},
    "sources": {
     "Financial Times": 24,
-    "WSJ": 8,
+    "WSJ": 9,
     "The New York Times": 9,
     "Nation Thailand": 1,
     "Arab News": 39,
@@ -11552,7 +11552,7 @@
     ],
     "WSJ": [
      0,
-     8,
+     9,
      0
     ],
     "The New York Times": [

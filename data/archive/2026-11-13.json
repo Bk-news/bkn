@@ -2,6 +2,27 @@
  "day": "2026-11-13",
  "items": [
   {
+   "id": "079bfc626e1cf2db",
+   "origin": "rss",
+   "source": "WSJ",
+   "author": "",
+   "title_ar": "مراجعة \"الحظر\": صحوة أمريكا الخام",
+   "title_orig": "‘Embargo’ Review: America’s Crude Awakening",
+   "title_en": "‘Embargo’ Review: America’s Crude Awakening",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS0JISjNJaW1VckpyU2V6aHo1WS02Z3VYekVibDhMNHBYRUIzTXl1N3puOXRVNGVub0l0UnZZTjZGZThMcGF5XzVOMV9VRkhKd05nRXE0azBDczBHclB6b01kX0NvN2RqX3BLWVlBYjc5ZmNzblVkM2tQWXVDV2RKaVdCNHJEVnc5dDNjTTlwdVY?oc=5",
+   "published": "2026-11-13T17:29:00.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "‘Embargo’ Review: America’s Crude Awakening &nbsp;&nbsp; WSJ",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "8336e6891a189c93",
    "origin": "rss",
    "source": "WSJ",
