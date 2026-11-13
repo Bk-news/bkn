@@ -2,6 +2,27 @@
  "day": "2026-11-13",
  "items": [
   {
+   "id": "aa380b35b87f5bd8",
+   "origin": "rss",
+   "source": "Bloomberg.com",
+   "author": "",
+   "title_ar": "تقول وكالة الطاقة الدولية إن إنتاج العراق من النفط في أكتوبر يقفز إلى أعلى مستوى منذ عام 2019",
+   "title_orig": "Iraq October Oil Output Jumps to Highest Since 2019, IEA Says",
+   "title_en": "Iraq October Oil Output Jumps to Highest Since 2019, IEA Says",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMnUtQXpjOHBHeFFwUnVhMW5rR3ZpTk5hdUdDRTdQVlRZRHJ0R3JTVEJoRGhYRFJsdFdaWWN5ZVBCdXBSSDgwS3hBZnY4SlhZNzdWY0ZwX3pvWDYzclp4QVM3VWNCYzNCcXYtMnFhSUpKOVJybTBobXhPbnRydjVXVGpVd1JfLUprTE9uMXBWT2VkSzVRRHpQNVFIdTNMejh6dkdFZmRFY0lqX2F4aTRLcQ?oc=5",
+   "published": "2026-11-13T09:05:30.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "Iraq October Oil Output Jumps to Highest Since 2019, IEA Says &nbsp;&nbsp; Bloomberg.com",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "8df774386d85964f",
    "origin": "rss",
    "source": "Financial Times",
