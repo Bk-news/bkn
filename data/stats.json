@@ -10592,16 +10592,16 @@
    }
   },
   "2026-11-12": {
-   "total": 675,
-   "news": 652,
+   "total": 681,
+   "news": 658,
    "articles": 23,
    "positive": 0,
-   "neutral": 675,
+   "neutral": 681,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "GB": 293,
-    "US": 115,
+    "GB": 297,
+    "US": 117,
     "FR": 5,
     "SA": 78,
     "HK": 4,
@@ -10617,13 +10617,13 @@
     "India Narrative": 1,
     "BBC": 11,
     "Oil & Gas Middle East": 1,
-    "WSJ": 19,
+    "WSJ": 20,
     "France 24": 4,
     "Bloomberg.com": 22,
     "Saudi Gazette": 16,
     "Al-Monitor": 26,
-    "The New York Times": 20,
-    "Reuters": 120,
+    "The New York Times": 21,
+    "Reuters": 124,
     "AP News": 10,
     "Arab News": 72,
     "South China Morning Post": 6,
@@ -10788,7 +10788,7 @@
     ],
     "WSJ": [
      0,
-     19,
+     20,
      0
     ],
     "France 24": [
@@ -10813,12 +10813,12 @@
     ],
     "The New York Times": [
      0,
-     20,
+     21,
      0
     ],
     "Reuters": [
      0,
-     120,
+     124,
      0
     ],
     "AP News": [
@@ -11449,17 +11449,17 @@
    }
   },
   "2026-11-13": {
-   "total": 407,
-   "news": 401,
+   "total": 441,
+   "news": 435,
    "articles": 6,
    "positive": 0,
-   "neutral": 407,
+   "neutral": 441,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 115,
-    "US": 76,
-    "SA": 41,
+    "GB": 131,
+    "US": 78,
+    "SA": 47,
     "DE": 7,
     "JP": 2,
     "FR": 8
@@ -11470,25 +11470,25 @@
     "WSJ": 13,
     "The New York Times": 13,
     "Nation Thailand": 1,
-    "Arab News": 45,
+    "Arab News": 51,
     "The Washington Post": 3,
-    "Reuters": 47,
+    "Reuters": 59,
     "Free Malaysia Today": 1,
     "The New Arab": 1,
     "The Guam Daily Post": 1,
     "Arabian Business": 1,
     "UA.NEWS": 1,
     "Arab News PK": 2,
-    "조선일보": 10,
+    "조선일보": 12,
     "https://houseofsaud.com/": 4,
     "Shipping Telegraph": 1,
-    "The Guardian": 27,
+    "The Guardian": 31,
     "Middle East Online": 3,
     "Spiegel": 7,
     "BBC": 16,
     "Al Jazeera": 1,
     "Bloomberg.com": 17,
-    "Al-Monitor": 18,
+    "Al-Monitor": 20,
     "AP News": 5,
     "TRT World": 2,
     "fundsforNGOs - Grants and Resources for Sustainability": 1,
@@ -11522,15 +11522,15 @@
     "Le Monde.fr": 3,
     "CNN": 2,
     "The Economist": 1,
-    "ASHARQ AL-AWSAT English": 2,
-    "Yonhap News Agency": 3,
+    "ASHARQ AL-AWSAT English": 3,
+    "Yonhap News Agency": 4,
     "The Hindu": 1,
     "Chosunbiz": 6,
     "الحرة": 1,
     "Newsquawk": 2,
     "日本取引所グループ": 57,
     "Business Insider Africa": 3,
-    "The Korea Times": 1,
+    "The Korea Times": 2,
     "Investing.com": 1,
     "Yemen Online": 1,
     "Crypto Briefing": 1,
@@ -11543,7 +11543,12 @@
     "Yahoo Sports": 1,
     "شفق نيوز": 1,
     "Middle East Eye": 2,
-    "Internazionale": 1
+    "Internazionale": 1,
+    "Green Matters": 1,
+    "Aviation International News": 1,
+    "Yahoo": 1,
+    "UFC.com": 1,
+    "Goal.com": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -11568,7 +11573,7 @@
     ],
     "Arab News": [
      0,
-     45,
+     51,
      0
     ],
     "The Washington Post": [
@@ -11578,7 +11583,7 @@
     ],
     "Reuters": [
      0,
-     47,
+     59,
      0
     ],
     "Free Malaysia Today": [
@@ -11613,7 +11618,7 @@
     ],
     "조선일보": [
      0,
-     10,
+     12,
      0
     ],
     "https://houseofsaud.com/": [
@@ -11628,7 +11633,7 @@
     ],
     "The Guardian": [
      0,
-     27,
+     31,
      0
     ],
     "Middle East Online": [
@@ -11658,7 +11663,7 @@
     ],
     "Al-Monitor": [
      0,
-     18,
+     20,
      0
     ],
     "AP News": [
@@ -11828,12 +11833,12 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     2,
+     3,
      0
     ],
     "Yonhap News Agency": [
      0,
-     3,
+     4,
      0
     ],
     "The Hindu": [
@@ -11868,7 +11873,7 @@
     ],
     "The Korea Times": [
      0,
-     1,
+     2,
      0
     ],
     "Investing.com": [
@@ -11932,6 +11937,31 @@
      0
     ],
     "Internazionale": [
+     0,
+     1,
+     0
+    ],
+    "Green Matters": [
+     0,
+     1,
+     0
+    ],
+    "Aviation International News": [
+     0,
+     1,
+     0
+    ],
+    "Yahoo": [
+     0,
+     1,
+     0
+    ],
+    "UFC.com": [
+     0,
+     1,
+     0
+    ],
+    "Goal.com": [
      0,
      1,
      0
