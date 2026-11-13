@@ -11449,17 +11449,17 @@
    }
   },
   "2026-11-13": {
-   "total": 366,
-   "news": 361,
+   "total": 367,
+   "news": 362,
    "articles": 5,
    "positive": 0,
-   "neutral": 366,
+   "neutral": 367,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 106,
     "US": 58,
-    "SA": 36,
+    "SA": 37,
     "DE": 7,
     "JP": 1,
     "FR": 5
@@ -11470,7 +11470,7 @@
     "WSJ": 9,
     "The New York Times": 9,
     "Nation Thailand": 1,
-    "Arab News": 39,
+    "Arab News": 40,
     "The Washington Post": 2,
     "Reuters": 43,
     "Free Malaysia Today": 1,
@@ -11567,7 +11567,7 @@
     ],
     "Arab News": [
      0,
-     39,
+     40,
      0
     ],
     "The Washington Post": [

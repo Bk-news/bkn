@@ -2,6 +2,27 @@
  "day": "2026-11-13",
  "items": [
   {
+   "id": "a50a7943d2bea18a",
+   "origin": "rss",
+   "source": "Arab News",
+   "author": "",
+   "title_ar": "عائلة يمنية تقول إن الحوثيين انتهكوا تعهدهم بالتحقيق في وفاة موظف بالأمم المتحدة",
+   "title_orig": "Yemeni family says Houthis broke pledge to investigate UN worker’s death",
+   "title_en": "Yemeni family says Houthis broke pledge to investigate UN worker’s death",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaTFIdUI0dXJxSUtwSERLUkNsaFRHTmhYMTc4WDIyZFJZbFNKbjJLYUV0UWVQdm9ZLWhwWEstNFBoOXFPXzVXRzR0M21aclBydmhxd2JzTXVDZGNGYmJIZ3RjNWpjVlRIYkY5dG55Z2R3V0VkNWJwLVF5a0hhVmt6SFhoQzNpS0lyUldkQ0lTTnBXTW9WUnk3UjdMcjN0NERhSHoxbkIzcEl5UDRvUDlhM1gxMVRlS1E?oc=5",
+   "published": "2026-11-13T17:31:16.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "SA",
+   "pending": true,
+   "desc": "Yemeni family says Houthis broke pledge to investigate UN worker’s death &nbsp;&nbsp; Arab News",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "079bfc626e1cf2db",
    "origin": "rss",
    "source": "WSJ",
