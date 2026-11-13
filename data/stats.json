@@ -11424,11 +11424,11 @@
    }
   },
   "2026-11-13": {
-   "total": 19,
-   "news": 19,
+   "total": 20,
+   "news": 20,
    "articles": 0,
    "positive": 0,
-   "neutral": 19,
+   "neutral": 20,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -11451,7 +11451,8 @@
     "Arabian Business": 1,
     "UA.NEWS": 1,
     "Arab News PK": 1,
-    "조선일보": 1
+    "조선일보": 1,
+    "https://houseofsaud.com/": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -11520,6 +11521,11 @@
      0
     ],
     "조선일보": [
+     0,
+     1,
+     0
+    ],
+    "https://houseofsaud.com/": [
      0,
      1,
      0
