@@ -11455,11 +11455,11 @@
    }
   },
   "2026-11-13": {
-   "total": 459,
-   "news": 452,
+   "total": 461,
+   "news": 454,
    "articles": 7,
    "positive": 0,
-   "neutral": 459,
+   "neutral": 461,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -11529,9 +11529,9 @@
     "CNN": 2,
     "The Economist": 1,
     "ASHARQ AL-AWSAT English": 3,
-    "Yonhap News Agency": 4,
+    "Yonhap News Agency": 5,
     "The Hindu": 1,
-    "Chosunbiz": 6,
+    "Chosunbiz": 7,
     "الحرة": 1,
     "Newsquawk": 2,
     "日本取引所グループ": 57,
@@ -11846,7 +11846,7 @@
     ],
     "Yonhap News Agency": [
      0,
-     4,
+     5,
      0
     ],
     "The Hindu": [
@@ -11856,7 +11856,7 @@
     ],
     "Chosunbiz": [
      0,
-     6,
+     7,
      0
     ],
     "الحرة": [
