@@ -10592,15 +10592,15 @@
    }
   },
   "2026-11-12": {
-   "total": 578,
-   "news": 557,
+   "total": 580,
+   "news": 559,
    "articles": 21,
    "positive": 0,
-   "neutral": 578,
+   "neutral": 580,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "GB": 232,
+    "GB": 233,
     "US": 104,
     "FR": 3,
     "SA": 61,
@@ -10622,7 +10622,7 @@
     "Saudi Gazette": 12,
     "Al-Monitor": 25,
     "The New York Times": 17,
-    "Reuters": 81,
+    "Reuters": 82,
     "AP News": 9,
     "Arab News": 59,
     "South China Morning Post": 6,
@@ -10703,7 +10703,7 @@
     "The Express Tribune": 2,
     "Campaign Middle East": 1,
     "Travel Daily News International": 1,
-    "Goal.com": 2,
+    "Goal.com": 3,
     "Travel & Tourism News Middle East": 1,
     "Daily Sabah": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -10813,7 +10813,7 @@
     ],
     "Reuters": [
      0,
-     81,
+     82,
      0
     ],
     "AP News": [
@@ -11218,7 +11218,7 @@
     ],
     "Goal.com": [
      0,
-     2,
+     3,
      0
     ],
     "Travel & Tourism News Middle East": [
@@ -11424,11 +11424,11 @@
    }
   },
   "2026-11-13": {
-   "total": 21,
-   "news": 21,
+   "total": 22,
+   "news": 22,
    "articles": 0,
    "positive": 0,
-   "neutral": 21,
+   "neutral": 22,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -11452,7 +11452,8 @@
     "UA.NEWS": 1,
     "Arab News PK": 1,
     "조선일보": 1,
-    "https://houseofsaud.com/": 1
+    "https://houseofsaud.com/": 1,
+    "Shipping Telegraph": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -11526,6 +11527,11 @@
      0
     ],
     "https://houseofsaud.com/": [
+     0,
+     1,
+     0
+    ],
+    "Shipping Telegraph": [
      0,
      1,
      0
