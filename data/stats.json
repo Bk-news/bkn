@@ -11436,15 +11436,15 @@
    }
   },
   "2026-11-13": {
-   "total": 112,
-   "news": 112,
+   "total": 114,
+   "news": 114,
    "articles": 0,
    "positive": 0,
-   "neutral": 112,
+   "neutral": 114,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 31,
+    "GB": 32,
     "US": 23,
     "SA": 9,
     "DE": 2,
@@ -11452,7 +11452,7 @@
    },
    "topics": {},
    "sources": {
-    "Financial Times": 11,
+    "Financial Times": 12,
     "WSJ": 6,
     "The New York Times": 6,
     "Nation Thailand": 1,
@@ -11501,12 +11501,13 @@
     "Daily Nation": 1,
     "Barron's": 1,
     "Muslim Network TV": 1,
-    "Nikkei Asia": 1
+    "Nikkei Asia": 1,
+    "Capital FM Africa": 1
    },
    "sourceTone": {
     "Financial Times": [
      0,
-     11,
+     12,
      0
     ],
     "WSJ": [
@@ -11750,6 +11751,11 @@
      0
     ],
     "Nikkei Asia": [
+     0,
+     1,
+     0
+    ],
+    "Capital FM Africa": [
      0,
      1,
      0
