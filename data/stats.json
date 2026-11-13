@@ -9712,16 +9712,16 @@
    }
   },
   "2026-11-11": {
-   "total": 878,
-   "news": 872,
+   "total": 880,
+   "news": 874,
    "articles": 6,
    "positive": 0,
-   "neutral": 878,
+   "neutral": 880,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 172,
-    "SA": 91,
+    "US": 173,
+    "SA": 92,
     "GB": 412,
     "JP": 1,
     "HK": 5,
@@ -9731,7 +9731,7 @@
    "sources": {
     "WSJ": 34,
     "The New York Times": 16,
-    "Arab News": 86,
+    "Arab News": 87,
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
     "Al-Monitor": 41,
@@ -9757,7 +9757,7 @@
     "Financial Times": 118,
     "Cyprus Shipping News": 1,
     "Saudi Gazette": 13,
-    "Bloomberg.com": 41,
+    "Bloomberg.com": 42,
     "South China Morning Post": 5,
     "Le Monde.fr": 5,
     "Mining.com.au": 1,
@@ -9886,7 +9886,7 @@
     ],
     "Arab News": [
      0,
-     86,
+     87,
      0
     ],
     "www.thenewworld.co.uk": [
@@ -10016,7 +10016,7 @@
     ],
     "Bloomberg.com": [
      0,
-     41,
+     42,
      0
     ],
     "South China Morning Post": [
@@ -10592,11 +10592,11 @@
    }
   },
   "2026-11-12": {
-   "total": 609,
-   "news": 587,
+   "total": 612,
+   "news": 590,
    "articles": 22,
    "positive": 0,
-   "neutral": 609,
+   "neutral": 612,
    "critical": 0,
    "mbs": 4,
    "countries": {
@@ -10659,7 +10659,7 @@
     "FT Markets Data": 10,
     "sanad.uk": 1,
     "Envanter Medya": 2,
-    "Middle East Monitor": 2,
+    "Middle East Monitor": 3,
     "USA Today": 1,
     "وكالة الأنباء السعودية": 1,
     "A News": 1,
@@ -10703,7 +10703,7 @@
     "The Express Tribune": 2,
     "Campaign Middle East": 1,
     "Travel Daily News International": 1,
-    "Goal.com": 3,
+    "Goal.com": 4,
     "Travel & Tourism News Middle East": 1,
     "Daily Sabah": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -10744,7 +10744,8 @@
     "YouGov": 1,
     "Algemeiner.com": 1,
     "IQAir": 1,
-    "Chitral News": 1
+    "Chitral News": 1,
+    "EnterpriseAM": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -10999,7 +11000,7 @@
     ],
     "Middle East Monitor": [
      0,
-     2,
+     3,
      0
     ],
     "USA Today": [
@@ -11219,7 +11220,7 @@
     ],
     "Goal.com": [
      0,
-     3,
+     4,
      0
     ],
     "Travel & Tourism News Middle East": [
@@ -11426,15 +11427,20 @@
      0,
      1,
      0
+    ],
+    "EnterpriseAM": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-13": {
-   "total": 78,
-   "news": 78,
+   "total": 84,
+   "news": 84,
    "articles": 0,
    "positive": 0,
-   "neutral": 78,
+   "neutral": 84,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -11480,7 +11486,13 @@
     "MEED": 1,
     "Saudi Gazette": 1,
     "Gulf News": 1,
-    "Bioengineer.org": 1
+    "Bioengineer.org": 1,
+    "The National": 1,
+    "Skift": 1,
+    "Dawn": 1,
+    "Ednews.net": 1,
+    "China Daily": 1,
+    "POST Wrestling": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -11659,6 +11671,36 @@
      0
     ],
     "Bioengineer.org": [
+     0,
+     1,
+     0
+    ],
+    "The National": [
+     0,
+     1,
+     0
+    ],
+    "Skift": [
+     0,
+     1,
+     0
+    ],
+    "Dawn": [
+     0,
+     1,
+     0
+    ],
+    "Ednews.net": [
+     0,
+     1,
+     0
+    ],
+    "China Daily": [
+     0,
+     1,
+     0
+    ],
+    "POST Wrestling": [
      0,
      1,
      0
