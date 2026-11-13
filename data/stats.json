@@ -11449,16 +11449,16 @@
    }
   },
   "2026-11-13": {
-   "total": 335,
-   "news": 331,
-   "articles": 4,
+   "total": 338,
+   "news": 333,
+   "articles": 5,
    "positive": 0,
-   "neutral": 335,
+   "neutral": 338,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 97,
-    "US": 51,
+    "GB": 99,
+    "US": 52,
     "SA": 34,
     "DE": 7,
     "JP": 1,
@@ -11466,13 +11466,13 @@
    },
    "topics": {},
    "sources": {
-    "Financial Times": 22,
+    "Financial Times": 23,
     "WSJ": 6,
     "The New York Times": 9,
     "Nation Thailand": 1,
     "Arab News": 36,
     "The Washington Post": 2,
-    "Reuters": 39,
+    "Reuters": 40,
     "Free Malaysia Today": 1,
     "The New Arab": 1,
     "The Guam Daily Post": 1,
@@ -11517,7 +11517,7 @@
     "Muslim Network TV": 1,
     "Nikkei Asia": 1,
     "Capital FM Africa": 1,
-    "Atlantic Council": 3,
+    "Atlantic Council": 4,
     "France 24": 3,
     "Le Monde.fr": 2,
     "CNN": 2,
@@ -11545,7 +11545,7 @@
    "sourceTone": {
     "Financial Times": [
      0,
-     22,
+     23,
      0
     ],
     "WSJ": [
@@ -11575,7 +11575,7 @@
     ],
     "Reuters": [
      0,
-     39,
+     40,
      0
     ],
     "Free Malaysia Today": [
@@ -11800,7 +11800,7 @@
     ],
     "Atlantic Council": [
      0,
-     3,
+     4,
      0
     ],
     "France 24": [
