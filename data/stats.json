@@ -12071,15 +12071,15 @@
    }
   },
   "2026-11-14": {
-   "total": 201,
-   "news": 201,
+   "total": 202,
+   "news": 202,
    "articles": 0,
    "positive": 0,
-   "neutral": 201,
+   "neutral": 202,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "US": 26,
+    "US": 27,
     "SA": 34,
     "GB": 37,
     "HK": 2,
@@ -12103,7 +12103,7 @@
     "Al-Monitor": 9,
     "WSJ": 4,
     "The AFC": 3,
-    "AP News": 4,
+    "AP News": 5,
     "South China Morning Post": 2,
     "Financial Times": 10,
     "Le Monde.fr": 1,
@@ -12248,7 +12248,7 @@
     ],
     "AP News": [
      0,
-     4,
+     5,
      0
     ],
     "South China Morning Post": [

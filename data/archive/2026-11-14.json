@@ -2921,6 +2921,27 @@
    "mt": true
   },
   {
+   "id": "c5a6123171c7e658",
+   "origin": "rss",
+   "source": "AP News",
+   "author": "",
+   "title_ar": "صناعة النفط والغاز",
+   "title_orig": "Oil and gas industry",
+   "title_en": "Oil and gas industry",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DMVNIVmJoNjF6LTg2Q3l5SVpRcC1SczZwZmxfM1kzbjVyOW1FM0FaQ0ZUVWZqTUJGdURtTklJUmVCejJoajRlTnE0TkxUUVNTS1FURlZ3?oc=5",
+   "published": "2026-11-14T06:45:47.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "Oil and gas industry &nbsp;&nbsp; AP News",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "6ce75a140ea69799",
    "origin": "rss",
    "source": "Arab News",
