@@ -12071,11 +12071,11 @@
    }
   },
   "2026-11-14": {
-   "total": 199,
-   "news": 199,
+   "total": 200,
+   "news": 200,
    "articles": 0,
    "positive": 0,
-   "neutral": 199,
+   "neutral": 200,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -12111,7 +12111,7 @@
     "Bloomberg.com": 1,
     "The Guardian": 7,
     "BBC": 5,
-    "Saudi Gazette": 4,
+    "Saudi Gazette": 5,
     "The National": 2,
     "The Arab Weekly": 1,
     "Middle East Online": 1,
@@ -12287,7 +12287,7 @@
     ],
     "Saudi Gazette": [
      0,
-     4,
+     5,
      0
     ],
     "The National": [
