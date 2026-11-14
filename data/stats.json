@@ -12047,17 +12047,17 @@
    }
   },
   "2026-11-14": {
-   "total": 82,
-   "news": 82,
+   "total": 83,
+   "news": 83,
    "articles": 0,
    "positive": 0,
-   "neutral": 82,
+   "neutral": 83,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 16,
     "SA": 13,
-    "GB": 15,
+    "GB": 16,
     "HK": 1,
     "FR": 1
    },
@@ -12085,7 +12085,7 @@
     "Facebook": 1,
     "Bloomberg.com": 1,
     "The Guardian": 3,
-    "BBC": 1,
+    "BBC": 2,
     "Saudi Gazette": 1,
     "The National": 2,
     "The Arab Weekly": 1,
@@ -12213,7 +12213,7 @@
     ],
     "BBC": [
      0,
-     1,
+     2,
      0
     ],
     "Saudi Gazette": [
