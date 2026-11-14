@@ -10592,16 +10592,16 @@
    }
   },
   "2026-11-12": {
-   "total": 696,
-   "news": 673,
+   "total": 697,
+   "news": 674,
    "articles": 23,
    "positive": 0,
-   "neutral": 696,
+   "neutral": 697,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "GB": 305,
-    "US": 122,
+    "US": 123,
     "FR": 5,
     "SA": 79,
     "HK": 4,
@@ -10617,7 +10617,7 @@
     "India Narrative": 1,
     "BBC": 11,
     "Oil & Gas Middle East": 1,
-    "WSJ": 20,
+    "WSJ": 21,
     "France 24": 4,
     "Bloomberg.com": 23,
     "Saudi Gazette": 16,
@@ -10789,7 +10789,7 @@
     ],
     "WSJ": [
      0,
-     20,
+     21,
      0
     ],
     "France 24": [
