@@ -12053,11 +12053,11 @@
    }
   },
   "2026-11-14": {
-   "total": 84,
-   "news": 84,
+   "total": 85,
+   "news": 85,
    "articles": 0,
    "positive": 0,
-   "neutral": 84,
+   "neutral": 85,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -12104,7 +12104,8 @@
     "Arabian Business": 1,
     "Yahoo Sports": 1,
     "SBS 뉴스": 1,
-    "巴士的報": 1
+    "巴士的報": 1,
+    "8AM Media": 1
    },
    "sourceTone": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
@@ -12283,6 +12284,11 @@
      0
     ],
     "巴士的報": [
+     0,
+     1,
+     0
+    ],
+    "8AM Media": [
      0,
      1,
      0
