@@ -10592,15 +10592,15 @@
    }
   },
   "2026-11-12": {
-   "total": 706,
-   "news": 683,
+   "total": 707,
+   "news": 684,
    "articles": 23,
    "positive": 0,
-   "neutral": 706,
+   "neutral": 707,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "GB": 313,
+    "GB": 314,
     "US": 124,
     "FR": 5,
     "SA": 79,
@@ -10610,7 +10610,7 @@
    },
    "topics": {},
    "sources": {
-    "Financial Times": 62,
+    "Financial Times": 63,
     "The Guardian": 88,
     "StreetInsider": 1,
     "Bloomberg": 3,
@@ -10754,7 +10754,7 @@
    "sourceTone": {
     "Financial Times": [
      0,
-     62,
+     63,
      0
     ],
     "The Guardian": [
@@ -11455,15 +11455,15 @@
    }
   },
   "2026-11-13": {
-   "total": 578,
-   "news": 570,
+   "total": 582,
+   "news": 574,
    "articles": 8,
    "positive": 0,
-   "neutral": 578,
+   "neutral": 582,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 203,
+    "GB": 207,
     "US": 93,
     "SA": 71,
     "DE": 7,
@@ -11472,13 +11472,13 @@
    },
    "topics": {},
    "sources": {
-    "Financial Times": 41,
+    "Financial Times": 44,
     "WSJ": 17,
     "The New York Times": 15,
     "Nation Thailand": 1,
     "Arab News": 69,
     "The Washington Post": 3,
-    "Reuters": 92,
+    "Reuters": 93,
     "Free Malaysia Today": 1,
     "The New Arab": 1,
     "The Guam Daily Post": 1,
@@ -11575,7 +11575,7 @@
    "sourceTone": {
     "Financial Times": [
      0,
-     41,
+     44,
      0
     ],
     "WSJ": [
@@ -11605,7 +11605,7 @@
     ],
     "Reuters": [
      0,
-     92,
+     93,
      0
     ],
     "Free Malaysia Today": [
@@ -12071,17 +12071,17 @@
    }
   },
   "2026-11-14": {
-   "total": 189,
-   "news": 189,
+   "total": 190,
+   "news": 190,
    "articles": 0,
    "positive": 0,
-   "neutral": 189,
+   "neutral": 190,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "US": 26,
     "SA": 30,
-    "GB": 36,
+    "GB": 37,
     "HK": 1,
     "FR": 1,
     "DE": 2
@@ -12105,7 +12105,7 @@
     "The AFC": 3,
     "AP News": 4,
     "South China Morning Post": 1,
-    "Financial Times": 9,
+    "Financial Times": 10,
     "Le Monde.fr": 1,
     "Facebook": 1,
     "Bloomberg.com": 1,
@@ -12254,7 +12254,7 @@
     ],
     "Financial Times": [
      0,
-     9,
+     10,
      0
     ],
     "Le Monde.fr": [
