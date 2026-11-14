@@ -12047,11 +12047,11 @@
    }
   },
   "2026-11-14": {
-   "total": 81,
-   "news": 81,
+   "total": 82,
+   "news": 82,
    "articles": 0,
    "positive": 0,
-   "neutral": 81,
+   "neutral": 82,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -12097,7 +12097,8 @@
     "India News Network": 1,
     "Arabian Business": 1,
     "Yahoo Sports": 1,
-    "SBS 뉴스": 1
+    "SBS 뉴스": 1,
+    "巴士的報": 1
    },
    "sourceTone": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
@@ -12271,6 +12272,11 @@
      0
     ],
     "SBS 뉴스": [
+     0,
+     1,
+     0
+    ],
+    "巴士的報": [
      0,
      1,
      0
