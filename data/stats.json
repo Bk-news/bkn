@@ -11455,15 +11455,15 @@
    }
   },
   "2026-11-13": {
-   "total": 596,
-   "news": 588,
+   "total": 598,
+   "news": 590,
    "articles": 8,
    "positive": 0,
-   "neutral": 596,
+   "neutral": 598,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 213,
+    "GB": 214,
     "US": 94,
     "SA": 78,
     "DE": 7,
@@ -11478,7 +11478,7 @@
     "Nation Thailand": 1,
     "Arab News": 76,
     "The Washington Post": 3,
-    "Reuters": 98,
+    "Reuters": 99,
     "Free Malaysia Today": 1,
     "The New Arab": 1,
     "The Guam Daily Post": 1,
@@ -11570,7 +11570,8 @@
     "Haberler.com": 1,
     "Dallas News": 1,
     "The Supercar Blog": 1,
-    "ESPN": 1
+    "ESPN": 1,
+    "EnergyNow.com": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -11605,7 +11606,7 @@
     ],
     "Reuters": [
      0,
-     98,
+     99,
      0
     ],
     "Free Malaysia Today": [
@@ -12067,21 +12068,26 @@
      0,
      1,
      0
+    ],
+    "EnergyNow.com": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-14": {
-   "total": 244,
-   "news": 244,
+   "total": 266,
+   "news": 266,
    "articles": 0,
    "positive": 0,
-   "neutral": 244,
+   "neutral": 266,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "US": 30,
-    "SA": 45,
-    "GB": 49,
+    "SA": 48,
+    "GB": 50,
     "HK": 2,
     "FR": 1,
     "DE": 4
@@ -12090,12 +12096,12 @@
    "sources": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
     "The New York Times": 7,
-    "Arab News": 49,
-    "Reuters": 24,
+    "Arab News": 52,
+    "Reuters": 25,
     "Chosunbiz": 8,
     "Korea JoongAng Daily": 1,
     "Bioengineer.org": 1,
-    "UA.NEWS": 2,
+    "UA.NEWS": 3,
     "Dawn": 1,
     "Khaama Press": 2,
     "news.sbs.co.kr": 2,
@@ -12118,9 +12124,9 @@
     "تسنیم": 1,
     "Caspian Post": 1,
     "Data Center Dynamics": 1,
-    "https://houseofsaud.com/": 3,
+    "https://houseofsaud.com/": 4,
     "India News Network": 1,
-    "Arabian Business": 1,
+    "Arabian Business": 2,
     "Yahoo Sports": 1,
     "SBS 뉴스": 2,
     "巴士的報": 1,
@@ -12149,8 +12155,8 @@
     "Archaeology News Online Magazine": 1,
     "Al Arabiya English": 1,
     "وكالة الأنباء السعودية": 1,
-    "Ynetnews": 1,
-    "LiveScore": 1,
+    "Ynetnews": 2,
+    "LiveScore": 2,
     "Bangladesh Sangbad Sangstha (BSS)": 1,
     "L'Orient Today": 1,
     "IFLScience": 1,
@@ -12169,7 +12175,7 @@
     "조선일보": 1,
     "Khaleej Times": 1,
     "Hydrogen Central": 1,
-    "ASHARQ AL-AWSAT English": 1,
+    "ASHARQ AL-AWSAT English": 2,
     "FDD's Long War Journal": 1,
     "MLQ.ai": 1,
     "CNN": 1,
@@ -12179,7 +12185,19 @@
     "X": 1,
     "World Soccer Talk": 1,
     "Arab News PK": 1,
-    "NY Fights": 1
+    "NY Fights": 1,
+    "Tirana Times": 1,
+    "شفق نيوز": 1,
+    "SaudiGulf Projects": 1,
+    "Climate Home News": 1,
+    "The Star, Kenya": 1,
+    "Middle East Eye": 1,
+    "The Jerusalem Post": 1,
+    "Ratopati": 1,
+    "IndexBox": 1,
+    "ChimpReports": 1,
+    "Operativ Məlumat Mərkəzi": 1,
+    "Sportscape Magazine": 1
    },
    "sourceTone": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
@@ -12194,12 +12212,12 @@
     ],
     "Arab News": [
      0,
-     49,
+     52,
      0
     ],
     "Reuters": [
      0,
-     24,
+     25,
      0
     ],
     "Chosunbiz": [
@@ -12219,7 +12237,7 @@
     ],
     "UA.NEWS": [
      0,
-     2,
+     3,
      0
     ],
     "Dawn": [
@@ -12334,7 +12352,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     3,
+     4,
      0
     ],
     "India News Network": [
@@ -12344,7 +12362,7 @@
     ],
     "Arabian Business": [
      0,
-     1,
+     2,
      0
     ],
     "Yahoo Sports": [
@@ -12489,12 +12507,12 @@
     ],
     "Ynetnews": [
      0,
-     1,
+     2,
      0
     ],
     "LiveScore": [
      0,
-     1,
+     2,
      0
     ],
     "Bangladesh Sangbad Sangstha (BSS)": [
@@ -12589,7 +12607,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     1,
+     2,
      0
     ],
     "FDD's Long War Journal": [
@@ -12638,6 +12656,66 @@
      0
     ],
     "NY Fights": [
+     0,
+     1,
+     0
+    ],
+    "Tirana Times": [
+     0,
+     1,
+     0
+    ],
+    "شفق نيوز": [
+     0,
+     1,
+     0
+    ],
+    "SaudiGulf Projects": [
+     0,
+     1,
+     0
+    ],
+    "Climate Home News": [
+     0,
+     1,
+     0
+    ],
+    "The Star, Kenya": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Eye": [
+     0,
+     1,
+     0
+    ],
+    "The Jerusalem Post": [
+     0,
+     1,
+     0
+    ],
+    "Ratopati": [
+     0,
+     1,
+     0
+    ],
+    "IndexBox": [
+     0,
+     1,
+     0
+    ],
+    "ChimpReports": [
+     0,
+     1,
+     0
+    ],
+    "Operativ Məlumat Mərkəzi": [
+     0,
+     1,
+     0
+    ],
+    "Sportscape Magazine": [
      0,
      1,
      0
