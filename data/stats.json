@@ -10592,16 +10592,16 @@
    }
   },
   "2026-11-12": {
-   "total": 695,
-   "news": 672,
+   "total": 696,
+   "news": 673,
    "articles": 23,
    "positive": 0,
-   "neutral": 695,
+   "neutral": 696,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "GB": 305,
-    "US": 121,
+    "US": 122,
     "FR": 5,
     "SA": 79,
     "HK": 4,
@@ -10613,7 +10613,7 @@
     "Financial Times": 62,
     "The Guardian": 87,
     "StreetInsider": 1,
-    "Bloomberg": 2,
+    "Bloomberg": 3,
     "India Narrative": 1,
     "BBC": 11,
     "Oil & Gas Middle East": 1,
@@ -10769,7 +10769,7 @@
     ],
     "Bloomberg": [
      0,
-     2,
+     3,
      0
     ],
     "India Narrative": [
