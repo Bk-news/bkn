@@ -10592,15 +10592,15 @@
    }
   },
   "2026-11-12": {
-   "total": 698,
-   "news": 675,
+   "total": 699,
+   "news": 676,
    "articles": 23,
    "positive": 0,
-   "neutral": 698,
+   "neutral": 699,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "GB": 306,
+    "GB": 307,
     "US": 123,
     "FR": 5,
     "SA": 79,
@@ -10623,7 +10623,7 @@
     "Saudi Gazette": 16,
     "Al-Monitor": 27,
     "The New York Times": 21,
-    "Reuters": 125,
+    "Reuters": 126,
     "AP News": 10,
     "Arab News": 73,
     "South China Morning Post": 6,
@@ -10819,7 +10819,7 @@
     ],
     "Reuters": [
      0,
-     125,
+     126,
      0
     ],
     "AP News": [
@@ -12023,15 +12023,15 @@
    }
   },
   "2026-11-14": {
-   "total": 22,
-   "news": 22,
+   "total": 23,
+   "news": 23,
    "articles": 0,
    "positive": 0,
-   "neutral": 22,
+   "neutral": 23,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "US": 3,
+    "US": 4,
     "SA": 2,
     "GB": 2
    },
@@ -12049,7 +12049,8 @@
     "Khaama Press": 1,
     "news.sbs.co.kr": 1,
     "Yonhap News Agency": 4,
-    "Al-Monitor": 1
+    "Al-Monitor": 1,
+    "WSJ": 1
    },
    "sourceTone": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
@@ -12113,6 +12114,11 @@
      0
     ],
     "Al-Monitor": [
+     0,
+     1,
+     0
+    ],
+    "WSJ": [
      0,
      1,
      0
