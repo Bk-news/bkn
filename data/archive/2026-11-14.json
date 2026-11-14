@@ -2,6 +2,27 @@
  "day": "2026-11-14",
  "items": [
   {
+   "id": "18f0d70319fbdfd5",
+   "origin": "rss",
+   "source": "Arab News",
+   "author": "",
+   "title_ar": "القوات اليمنية تسجل 723 غارة على مواقع الحوثيين",
+   "title_orig": "Yemeni forces report 723 strikes against Houthi positions",
+   "title_en": "Yemeni forces report 723 strikes against Houthi positions",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQS1Lbk1ha3JBZmNJWmVqbjIyYXNINUVpUFg3VU8tSG5MRnU2RC1jS2VNSlpfNU9FVEt1bk9xTWhiN01EUGV3eTl4U3gwMHgwckZxTU9uWTgwNWVsSTI1SFc2QV9zVFQwdGtwaFpUcXB4SlFyWVQyQWEybG1wQlhVQ3l6VWVfZTR1dlFMSkRObm04S2M5OEl1X2ItWkd1WjEyTElhbw?oc=5",
+   "published": "2026-11-14T16:25:05.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "SA",
+   "pending": true,
+   "desc": "Yemeni forces report 723 strikes against Houthi positions &nbsp;&nbsp; Arab News",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "a60970f3c148031d",
    "origin": "rss",
    "source": "조선일보",

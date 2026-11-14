@@ -11455,15 +11455,15 @@
    }
   },
   "2026-11-13": {
-   "total": 591,
-   "news": 583,
+   "total": 593,
+   "news": 585,
    "articles": 8,
    "positive": 0,
-   "neutral": 591,
+   "neutral": 593,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 209,
+    "GB": 211,
     "US": 93,
     "SA": 78,
     "DE": 7,
@@ -11478,7 +11478,7 @@
     "Nation Thailand": 1,
     "Arab News": 76,
     "The Washington Post": 3,
-    "Reuters": 95,
+    "Reuters": 97,
     "Free Malaysia Today": 1,
     "The New Arab": 1,
     "The Guam Daily Post": 1,
@@ -11605,7 +11605,7 @@
     ],
     "Reuters": [
      0,
-     95,
+     97,
      0
     ],
     "Free Malaysia Today": [
@@ -12071,16 +12071,16 @@
    }
   },
   "2026-11-14": {
-   "total": 198,
-   "news": 198,
+   "total": 199,
+   "news": 199,
    "articles": 0,
    "positive": 0,
-   "neutral": 198,
+   "neutral": 199,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "US": 26,
-    "SA": 33,
+    "SA": 34,
     "GB": 37,
     "HK": 2,
     "FR": 1,
@@ -12090,7 +12090,7 @@
    "sources": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
     "The New York Times": 7,
-    "Arab News": 37,
+    "Arab News": 38,
     "Reuters": 15,
     "Chosunbiz": 7,
     "Korea JoongAng Daily": 1,
@@ -12182,7 +12182,7 @@
     ],
     "Arab News": [
      0,
-     37,
+     38,
      0
     ],
     "Reuters": [
