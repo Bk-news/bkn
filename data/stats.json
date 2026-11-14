@@ -11455,15 +11455,15 @@
    }
   },
   "2026-11-13": {
-   "total": 593,
-   "news": 585,
+   "total": 594,
+   "news": 586,
    "articles": 8,
    "positive": 0,
-   "neutral": 593,
+   "neutral": 594,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 211,
+    "GB": 212,
     "US": 93,
     "SA": 78,
     "DE": 7,
@@ -11478,7 +11478,7 @@
     "Nation Thailand": 1,
     "Arab News": 76,
     "The Washington Post": 3,
-    "Reuters": 97,
+    "Reuters": 98,
     "Free Malaysia Today": 1,
     "The New Arab": 1,
     "The Guam Daily Post": 1,
@@ -11605,7 +11605,7 @@
     ],
     "Reuters": [
      0,
-     97,
+     98,
      0
     ],
     "Free Malaysia Today": [
@@ -12071,11 +12071,11 @@
    }
   },
   "2026-11-14": {
-   "total": 200,
-   "news": 200,
+   "total": 201,
+   "news": 201,
    "articles": 0,
    "positive": 0,
-   "neutral": 200,
+   "neutral": 201,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -12167,7 +12167,8 @@
     "Azərtac": 1,
     "The Eastleigh Voice": 1,
     "조선일보": 1,
-    "Khaleej Times": 1
+    "Khaleej Times": 1,
+    "Hydrogen Central": 1
    },
    "sourceTone": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
@@ -12566,6 +12567,11 @@
      0
     ],
     "Khaleej Times": [
+     0,
+     1,
+     0
+    ],
+    "Hydrogen Central": [
      0,
      1,
      0
