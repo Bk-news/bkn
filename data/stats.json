@@ -12023,22 +12023,22 @@
    }
   },
   "2026-11-14": {
-   "total": 14,
-   "news": 14,
+   "total": 16,
+   "news": 16,
    "articles": 0,
    "positive": 0,
-   "neutral": 14,
+   "neutral": 16,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "US": 1,
+    "US": 2,
     "SA": 2,
     "GB": 1
    },
    "topics": {},
    "sources": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
-    "The New York Times": 1,
+    "The New York Times": 2,
     "Arab News": 2,
     "Reuters": 1,
     "Chosunbiz": 3,
@@ -12046,7 +12046,8 @@
     "Bioengineer.org": 1,
     "UA.NEWS": 2,
     "Dawn": 1,
-    "Khaama Press": 1
+    "Khaama Press": 1,
+    "news.sbs.co.kr": 1
    },
    "sourceTone": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
@@ -12056,7 +12057,7 @@
     ],
     "The New York Times": [
      0,
-     1,
+     2,
      0
     ],
     "Arab News": [
@@ -12095,6 +12096,11 @@
      0
     ],
     "Khaama Press": [
+     0,
+     1,
+     0
+    ],
+    "news.sbs.co.kr": [
      0,
      1,
      0
