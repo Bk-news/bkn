@@ -12047,17 +12047,17 @@
    }
   },
   "2026-11-14": {
-   "total": 78,
-   "news": 78,
+   "total": 80,
+   "news": 80,
    "articles": 0,
    "positive": 0,
-   "neutral": 78,
+   "neutral": 80,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 16,
     "SA": 13,
-    "GB": 12,
+    "GB": 14,
     "HK": 1,
     "FR": 1
    },
@@ -12080,7 +12080,7 @@
     "The AFC": 2,
     "AP News": 3,
     "South China Morning Post": 1,
-    "Financial Times": 4,
+    "Financial Times": 6,
     "Le Monde.fr": 1,
     "Facebook": 1,
     "Bloomberg.com": 1,
@@ -12187,7 +12187,7 @@
     ],
     "Financial Times": [
      0,
-     4,
+     6,
      0
     ],
     "Le Monde.fr": [
