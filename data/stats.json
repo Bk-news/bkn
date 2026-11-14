@@ -12077,11 +12077,11 @@
    }
   },
   "2026-11-14": {
-   "total": 272,
-   "news": 272,
+   "total": 273,
+   "news": 273,
    "articles": 0,
    "positive": 0,
-   "neutral": 272,
+   "neutral": 273,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -12199,7 +12199,8 @@
     "Operativ Məlumat Mərkəzi": 1,
     "Sportscape Magazine": 1,
     "Prothom Alo English": 1,
-    "Digital Watch Observatory": 1
+    "Digital Watch Observatory": 1,
+    "The New Arab": 1
    },
    "sourceTone": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
@@ -12728,6 +12729,11 @@
      0
     ],
     "Digital Watch Observatory": [
+     0,
+     1,
+     0
+    ],
+    "The New Arab": [
      0,
      1,
      0
