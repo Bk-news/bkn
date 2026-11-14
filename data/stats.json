@@ -11455,15 +11455,15 @@
    }
   },
   "2026-11-13": {
-   "total": 529,
-   "news": 522,
+   "total": 532,
+   "news": 525,
    "articles": 7,
    "positive": 0,
-   "neutral": 529,
+   "neutral": 532,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 178,
+    "GB": 181,
     "US": 86,
     "SA": 65,
     "DE": 7,
@@ -11478,7 +11478,7 @@
     "Nation Thailand": 1,
     "Arab News": 63,
     "The Washington Post": 3,
-    "Reuters": 74,
+    "Reuters": 77,
     "Free Malaysia Today": 1,
     "The New Arab": 1,
     "The Guam Daily Post": 1,
@@ -11597,7 +11597,7 @@
     ],
     "Reuters": [
      0,
-     74,
+     77,
      0
     ],
     "Free Malaysia Today": [
@@ -12023,24 +12023,24 @@
    }
   },
   "2026-11-14": {
-   "total": 23,
-   "news": 23,
+   "total": 25,
+   "news": 25,
    "articles": 0,
    "positive": 0,
-   "neutral": 23,
+   "neutral": 25,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 4,
     "SA": 2,
-    "GB": 2
+    "GB": 3
    },
    "topics": {},
    "sources": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
     "The New York Times": 2,
     "Arab News": 2,
-    "Reuters": 2,
+    "Reuters": 3,
     "Chosunbiz": 3,
     "Korea JoongAng Daily": 1,
     "Bioengineer.org": 1,
@@ -12048,7 +12048,7 @@
     "Dawn": 1,
     "Khaama Press": 1,
     "news.sbs.co.kr": 1,
-    "Yonhap News Agency": 4,
+    "Yonhap News Agency": 5,
     "Al-Monitor": 1,
     "WSJ": 1
    },
@@ -12070,7 +12070,7 @@
     ],
     "Reuters": [
      0,
-     2,
+     3,
      0
     ],
     "Chosunbiz": [
@@ -12110,7 +12110,7 @@
     ],
     "Yonhap News Agency": [
      0,
-     4,
+     5,
      0
     ],
     "Al-Monitor": [
