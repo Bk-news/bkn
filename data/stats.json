@@ -11455,15 +11455,15 @@
    }
   },
   "2026-11-13": {
-   "total": 600,
-   "news": 592,
+   "total": 601,
+   "news": 593,
    "articles": 8,
    "positive": 0,
-   "neutral": 600,
+   "neutral": 601,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 215,
+    "GB": 216,
     "US": 95,
     "SA": 78,
     "DE": 7,
@@ -11478,7 +11478,7 @@
     "Nation Thailand": 1,
     "Arab News": 76,
     "The Washington Post": 3,
-    "Reuters": 99,
+    "Reuters": 100,
     "Free Malaysia Today": 1,
     "The New Arab": 1,
     "The Guam Daily Post": 1,
@@ -11606,7 +11606,7 @@
     ],
     "Reuters": [
      0,
-     99,
+     100,
      0
     ],
     "Free Malaysia Today": [
@@ -12077,11 +12077,11 @@
    }
   },
   "2026-11-14": {
-   "total": 278,
-   "news": 278,
+   "total": 279,
+   "news": 279,
    "articles": 0,
    "positive": 0,
-   "neutral": 278,
+   "neutral": 279,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -12194,7 +12194,7 @@
     "Middle East Eye": 1,
     "The Jerusalem Post": 1,
     "Ratopati": 1,
-    "IndexBox": 1,
+    "IndexBox": 2,
     "ChimpReports": 1,
     "Operativ Məlumat Mərkəzi": 1,
     "Sportscape Magazine": 1,
@@ -12706,7 +12706,7 @@
     ],
     "IndexBox": [
      0,
-     1,
+     2,
      0
     ],
     "ChimpReports": [
