@@ -11455,11 +11455,11 @@
    }
   },
   "2026-11-13": {
-   "total": 558,
-   "news": 550,
+   "total": 560,
+   "news": 552,
    "articles": 8,
    "positive": 0,
-   "neutral": 558,
+   "neutral": 560,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -11567,7 +11567,9 @@
     "ABC News - Breaking News, Latest News and Videos": 1,
     "KUNC": 1,
     "The Media Line": 1,
-    "Haberler.com": 1
+    "Haberler.com": 1,
+    "Dallas News": 1,
+    "The Supercar Blog": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -12046,6 +12048,16 @@
      0
     ],
     "Haberler.com": [
+     0,
+     1,
+     0
+    ],
+    "Dallas News": [
+     0,
+     1,
+     0
+    ],
+    "The Supercar Blog": [
      0,
      1,
      0
