@@ -12071,17 +12071,17 @@
    }
   },
   "2026-11-14": {
-   "total": 178,
-   "news": 178,
+   "total": 181,
+   "news": 181,
    "articles": 0,
    "positive": 0,
-   "neutral": 178,
+   "neutral": 181,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "US": 25,
     "SA": 29,
-    "GB": 33,
+    "GB": 35,
     "HK": 1,
     "FR": 1,
     "DE": 2
@@ -12091,7 +12091,7 @@
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
     "The New York Times": 7,
     "Arab News": 34,
-    "Reuters": 13,
+    "Reuters": 14,
     "Chosunbiz": 6,
     "Korea JoongAng Daily": 1,
     "Bioengineer.org": 1,
@@ -12102,10 +12102,10 @@
     "Yonhap News Agency": 5,
     "Al-Monitor": 9,
     "WSJ": 4,
-    "The AFC": 2,
+    "The AFC": 3,
     "AP News": 3,
     "South China Morning Post": 1,
-    "Financial Times": 8,
+    "Financial Times": 9,
     "Le Monde.fr": 1,
     "Facebook": 1,
     "Bloomberg.com": 1,
@@ -12179,7 +12179,7 @@
     ],
     "Reuters": [
      0,
-     13,
+     14,
      0
     ],
     "Chosunbiz": [
@@ -12234,7 +12234,7 @@
     ],
     "The AFC": [
      0,
-     2,
+     3,
      0
     ],
     "AP News": [
@@ -12249,7 +12249,7 @@
     ],
     "Financial Times": [
      0,
-     8,
+     9,
      0
     ],
     "Le Monde.fr": [
