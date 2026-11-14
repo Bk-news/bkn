@@ -11455,16 +11455,16 @@
    }
   },
   "2026-11-13": {
-   "total": 598,
-   "news": 590,
+   "total": 600,
+   "news": 592,
    "articles": 8,
    "positive": 0,
-   "neutral": 598,
+   "neutral": 600,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 214,
-    "US": 94,
+    "GB": 215,
+    "US": 95,
     "SA": 78,
     "DE": 7,
     "JP": 2,
@@ -11472,9 +11472,9 @@
    },
    "topics": {},
    "sources": {
-    "Financial Times": 44,
+    "Financial Times": 45,
     "WSJ": 17,
-    "The New York Times": 15,
+    "The New York Times": 16,
     "Nation Thailand": 1,
     "Arab News": 76,
     "The Washington Post": 3,
@@ -11576,7 +11576,7 @@
    "sourceTone": {
     "Financial Times": [
      0,
-     44,
+     45,
      0
     ],
     "WSJ": [
@@ -11586,7 +11586,7 @@
     ],
     "The New York Times": [
      0,
-     15,
+     16,
      0
     ],
     "Nation Thailand": [
@@ -12077,11 +12077,11 @@
    }
   },
   "2026-11-14": {
-   "total": 266,
-   "news": 266,
+   "total": 267,
+   "news": 267,
    "articles": 0,
    "positive": 0,
-   "neutral": 266,
+   "neutral": 267,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -12166,7 +12166,7 @@
     "Hürriyet Daily News": 1,
     "Monster Energy": 1,
     "Free Malaysia Today": 1,
-    "houseofsaud.com": 1,
+    "houseofsaud.com": 2,
     "Fightful": 1,
     "The Express Tribune": 1,
     "The New York Sun": 1,
@@ -12562,7 +12562,7 @@
     ],
     "houseofsaud.com": [
      0,
-     1,
+     2,
      0
     ],
     "Fightful": [
