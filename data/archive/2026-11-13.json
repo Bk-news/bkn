@@ -674,6 +674,27 @@
    "mt": true
   },
   {
+   "id": "f3f2a0c53b4cf2ab",
+   "origin": "rss",
+   "source": "WSJ",
+   "author": "",
+   "title_ar": "أسعار صرف الإغلاق في نيويورك",
+   "title_orig": "NY Closing Exchange Rates",
+   "title_en": "NY Closing Exchange Rates",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBua1J6NlZoeFAtMHdPWWNRWk81ZG5Wb0psRFRTQ0gwaXE0WVNSTS1iRGlOMGdMNXB0Njg0ZTg2R3I5YWhHVU5kZ3JacmZNZWstNTRsb3czei1obDM1?oc=5",
+   "published": "2026-11-13T21:48:36.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "NY Closing Exchange Rates &nbsp;&nbsp; WSJ",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "54d18176f42147d8",
    "origin": "rss",
    "source": "Reuters",

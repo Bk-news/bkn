@@ -11455,16 +11455,16 @@
    }
   },
   "2026-11-13": {
-   "total": 532,
-   "news": 525,
+   "total": 533,
+   "news": 526,
    "articles": 7,
    "positive": 0,
-   "neutral": 532,
+   "neutral": 533,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 181,
-    "US": 86,
+    "US": 87,
     "SA": 65,
     "DE": 7,
     "JP": 2,
@@ -11473,7 +11473,7 @@
    "topics": {},
    "sources": {
     "Financial Times": 39,
-    "WSJ": 14,
+    "WSJ": 15,
     "The New York Times": 14,
     "Nation Thailand": 1,
     "Arab News": 63,
@@ -11572,7 +11572,7 @@
     ],
     "WSJ": [
      0,
-     14,
+     15,
      0
     ],
     "The New York Times": [
@@ -12023,17 +12023,18 @@
    }
   },
   "2026-11-14": {
-   "total": 27,
-   "news": 27,
+   "total": 28,
+   "news": 28,
    "articles": 0,
    "positive": 0,
-   "neutral": 27,
+   "neutral": 28,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 5,
     "SA": 2,
-    "GB": 3
+    "GB": 3,
+    "HK": 1
    },
    "topics": {},
    "sources": {
@@ -12052,7 +12053,8 @@
     "Al-Monitor": 1,
     "WSJ": 1,
     "The AFC": 1,
-    "AP News": 1
+    "AP News": 1,
+    "South China Morning Post": 1
    },
    "sourceTone": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
@@ -12131,6 +12133,11 @@
      0
     ],
     "AP News": [
+     0,
+     1,
+     0
+    ],
+    "South China Morning Post": [
      0,
      1,
      0
