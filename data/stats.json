@@ -11455,17 +11455,17 @@
    }
   },
   "2026-11-13": {
-   "total": 560,
-   "news": 552,
+   "total": 561,
+   "news": 553,
    "articles": 8,
    "positive": 0,
-   "neutral": 560,
+   "neutral": 561,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 191,
     "US": 91,
-    "SA": 68,
+    "SA": 69,
     "DE": 7,
     "JP": 2,
     "FR": 8
@@ -11476,7 +11476,7 @@
     "WSJ": 16,
     "The New York Times": 15,
     "Nation Thailand": 1,
-    "Arab News": 66,
+    "Arab News": 67,
     "The Washington Post": 3,
     "Reuters": 81,
     "Free Malaysia Today": 1,
@@ -11594,7 +11594,7 @@
     ],
     "Arab News": [
      0,
-     66,
+     67,
      0
     ],
     "The Washington Post": [
@@ -12065,17 +12065,17 @@
    }
   },
   "2026-11-14": {
-   "total": 88,
-   "news": 88,
+   "total": 90,
+   "news": 90,
    "articles": 0,
    "positive": 0,
-   "neutral": 88,
+   "neutral": 90,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 16,
     "SA": 14,
-    "GB": 17,
+    "GB": 19,
     "HK": 1,
     "FR": 1
    },
@@ -12098,11 +12098,11 @@
     "The AFC": 2,
     "AP News": 3,
     "South China Morning Post": 1,
-    "Financial Times": 6,
+    "Financial Times": 7,
     "Le Monde.fr": 1,
     "Facebook": 1,
     "Bloomberg.com": 1,
-    "The Guardian": 3,
+    "The Guardian": 4,
     "BBC": 2,
     "Saudi Gazette": 1,
     "The National": 2,
@@ -12208,7 +12208,7 @@
     ],
     "Financial Times": [
      0,
-     6,
+     7,
      0
     ],
     "Le Monde.fr": [
@@ -12228,7 +12228,7 @@
     ],
     "The Guardian": [
      0,
-     3,
+     4,
      0
     ],
     "BBC": [
