@@ -2,6 +2,27 @@
  "day": "2026-11-14",
  "items": [
   {
+   "id": "a3ef69e2ef6234ee",
+   "origin": "rss",
+   "source": "Arab News",
+   "author": "",
+   "title_ar": "بلاد الشام العربية",
+   "title_orig": "T he Arab Levant",
+   "title_en": "T he Arab Levant",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NSHIzcUNRT1VZYzBSUHZ3TXNMclN0Z25PTG1IU3QzYlJBSk1QZzFSN3hINjYxWTdvY01FZGhBVW1lQ3hmejRwTXZGckJRYWVTVjJwaDdScw?oc=5",
+   "published": "2026-11-14T09:22:46.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "SA",
+   "pending": true,
+   "desc": "T he Arab Levant &nbsp;&nbsp; Arab News",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "abb88383e6941145",
    "origin": "rss",
    "source": "BBC",

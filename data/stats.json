@@ -11455,11 +11455,11 @@
    }
   },
   "2026-11-13": {
-   "total": 557,
-   "news": 549,
+   "total": 558,
+   "news": 550,
    "articles": 8,
    "positive": 0,
-   "neutral": 557,
+   "neutral": 558,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -11566,7 +11566,8 @@
     "vijesti.me": 1,
     "ABC News - Breaking News, Latest News and Videos": 1,
     "KUNC": 1,
-    "The Media Line": 1
+    "The Media Line": 1,
+    "Haberler.com": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -12043,20 +12044,25 @@
      0,
      1,
      0
+    ],
+    "Haberler.com": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-14": {
-   "total": 83,
-   "news": 83,
+   "total": 84,
+   "news": 84,
    "articles": 0,
    "positive": 0,
-   "neutral": 83,
+   "neutral": 84,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 16,
-    "SA": 13,
+    "SA": 14,
     "GB": 16,
     "HK": 1,
     "FR": 1
@@ -12065,7 +12071,7 @@
    "sources": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
     "The New York Times": 3,
-    "Arab News": 14,
+    "Arab News": 15,
     "Reuters": 5,
     "Chosunbiz": 4,
     "Korea JoongAng Daily": 1,
@@ -12113,7 +12119,7 @@
     ],
     "Arab News": [
      0,
-     14,
+     15,
      0
     ],
     "Reuters": [
