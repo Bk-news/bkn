@@ -12077,11 +12077,11 @@
    }
   },
   "2026-11-14": {
-   "total": 269,
-   "news": 269,
+   "total": 270,
+   "news": 270,
    "articles": 0,
    "positive": 0,
-   "neutral": 269,
+   "neutral": 270,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -12198,7 +12198,8 @@
     "ChimpReports": 1,
     "Operativ Məlumat Mərkəzi": 1,
     "Sportscape Magazine": 1,
-    "Prothom Alo English": 1
+    "Prothom Alo English": 1,
+    "Digital Watch Observatory": 1
    },
    "sourceTone": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
@@ -12722,6 +12723,11 @@
      0
     ],
     "Prothom Alo English": [
+     0,
+     1,
+     0
+    ],
+    "Digital Watch Observatory": [
      0,
      1,
      0
