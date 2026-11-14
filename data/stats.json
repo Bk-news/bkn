@@ -12071,11 +12071,11 @@
    }
   },
   "2026-11-14": {
-   "total": 202,
-   "news": 202,
+   "total": 205,
+   "news": 205,
    "articles": 0,
    "positive": 0,
-   "neutral": 202,
+   "neutral": 205,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -12084,7 +12084,7 @@
     "GB": 37,
     "HK": 2,
     "FR": 1,
-    "DE": 2
+    "DE": 3
    },
    "topics": {},
    "sources": {
@@ -12129,7 +12129,7 @@
     "Mehr News Agency": 1,
     "The Washington Post": 1,
     "POLITIS - To the point": 1,
-    "Spiegel": 2,
+    "Spiegel": 3,
     "The Business Standard": 2,
     "Gulf News": 1,
     "Daily The Patriot": 1,
@@ -12139,7 +12139,7 @@
     "NDTV Profit": 1,
     "Türkiye Today": 1,
     "AzerNews": 1,
-    "Anadolu Ajansı": 1,
+    "Anadolu Ajansı": 2,
     "IQAir": 2,
     "Breakingthenews.net": 1,
     "sanad.uk": 1,
@@ -12168,7 +12168,8 @@
     "The Eastleigh Voice": 1,
     "조선일보": 1,
     "Khaleej Times": 1,
-    "Hydrogen Central": 1
+    "Hydrogen Central": 1,
+    "ASHARQ AL-AWSAT English": 1
    },
    "sourceTone": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
@@ -12378,7 +12379,7 @@
     ],
     "Spiegel": [
      0,
-     2,
+     3,
      0
     ],
     "The Business Standard": [
@@ -12428,7 +12429,7 @@
     ],
     "Anadolu Ajansı": [
      0,
-     1,
+     2,
      0
     ],
     "IQAir": [
@@ -12572,6 +12573,11 @@
      0
     ],
     "Hydrogen Central": [
+     0,
+     1,
+     0
+    ],
+    "ASHARQ AL-AWSAT English": [
      0,
      1,
      0
