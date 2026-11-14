@@ -11455,16 +11455,16 @@
    }
   },
   "2026-11-13": {
-   "total": 601,
-   "news": 593,
+   "total": 602,
+   "news": 594,
    "articles": 8,
    "positive": 0,
-   "neutral": 601,
+   "neutral": 602,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "GB": 216,
-    "US": 95,
+    "US": 96,
     "SA": 78,
     "DE": 7,
     "JP": 2,
@@ -11474,7 +11474,7 @@
    "sources": {
     "Financial Times": 45,
     "WSJ": 17,
-    "The New York Times": 16,
+    "The New York Times": 17,
     "Nation Thailand": 1,
     "Arab News": 76,
     "The Washington Post": 3,
@@ -11586,7 +11586,7 @@
     ],
     "The New York Times": [
      0,
-     16,
+     17,
      0
     ],
     "Nation Thailand": [
@@ -12077,36 +12077,36 @@
    }
   },
   "2026-11-14": {
-   "total": 279,
-   "news": 279,
+   "total": 303,
+   "news": 303,
    "articles": 0,
    "positive": 0,
-   "neutral": 279,
+   "neutral": 303,
    "critical": 0,
-   "mbs": 3,
+   "mbs": 4,
    "countries": {
-    "US": 30,
-    "SA": 50,
-    "GB": 53,
+    "US": 34,
+    "SA": 56,
+    "GB": 59,
     "HK": 2,
-    "FR": 1,
+    "FR": 2,
     "DE": 4
    },
    "topics": {},
    "sources": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
     "The New York Times": 7,
-    "Arab News": 55,
-    "Reuters": 26,
+    "Arab News": 60,
+    "Reuters": 31,
     "Chosunbiz": 9,
     "Korea JoongAng Daily": 1,
-    "Bioengineer.org": 1,
+    "Bioengineer.org": 2,
     "UA.NEWS": 3,
     "Dawn": 1,
     "Khaama Press": 2,
     "news.sbs.co.kr": 2,
     "Yonhap News Agency": 5,
-    "Al-Monitor": 10,
+    "Al-Monitor": 13,
     "WSJ": 4,
     "The AFC": 3,
     "AP News": 5,
@@ -12116,15 +12116,15 @@
     "Facebook": 1,
     "Bloomberg.com": 2,
     "The Guardian": 9,
-    "BBC": 7,
-    "Saudi Gazette": 7,
+    "BBC": 8,
+    "Saudi Gazette": 8,
     "The National": 2,
     "The Arab Weekly": 1,
     "Middle East Online": 1,
     "تسنیم": 1,
     "Caspian Post": 1,
     "Data Center Dynamics": 1,
-    "https://houseofsaud.com/": 4,
+    "https://houseofsaud.com/": 5,
     "India News Network": 1,
     "Arabian Business": 2,
     "Yahoo Sports": 1,
@@ -12133,7 +12133,7 @@
     "8AM Media": 1,
     "TradingView": 1,
     "Mehr News Agency": 1,
-    "The Washington Post": 1,
+    "The Washington Post": 2,
     "POLITIS - To the point": 1,
     "Spiegel": 4,
     "The Business Standard": 2,
@@ -12194,14 +12194,18 @@
     "Middle East Eye": 1,
     "The Jerusalem Post": 1,
     "Ratopati": 1,
-    "IndexBox": 2,
+    "IndexBox": 3,
     "ChimpReports": 1,
     "Operativ Məlumat Mərkəzi": 1,
     "Sportscape Magazine": 1,
     "Prothom Alo English": 1,
     "Digital Watch Observatory": 1,
     "The New Arab": 1,
-    "Daily Bonik Barta": 1
+    "Daily Bonik Barta": 1,
+    "Flightradar24": 1,
+    "France 24": 1,
+    "The Insight International": 1,
+    "스타뉴스": 2
    },
    "sourceTone": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
@@ -12216,12 +12220,12 @@
     ],
     "Arab News": [
      0,
-     55,
+     60,
      0
     ],
     "Reuters": [
      0,
-     26,
+     31,
      0
     ],
     "Chosunbiz": [
@@ -12236,7 +12240,7 @@
     ],
     "Bioengineer.org": [
      0,
-     1,
+     2,
      0
     ],
     "UA.NEWS": [
@@ -12266,7 +12270,7 @@
     ],
     "Al-Monitor": [
      0,
-     10,
+     13,
      0
     ],
     "WSJ": [
@@ -12316,12 +12320,12 @@
     ],
     "BBC": [
      0,
-     7,
+     8,
      0
     ],
     "Saudi Gazette": [
      0,
-     7,
+     8,
      0
     ],
     "The National": [
@@ -12356,7 +12360,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     4,
+     5,
      0
     ],
     "India News Network": [
@@ -12401,7 +12405,7 @@
     ],
     "The Washington Post": [
      0,
-     1,
+     2,
      0
     ],
     "POLITIS - To the point": [
@@ -12706,7 +12710,7 @@
     ],
     "IndexBox": [
      0,
-     2,
+     3,
      0
     ],
     "ChimpReports": [
@@ -12742,6 +12746,26 @@
     "Daily Bonik Barta": [
      0,
      1,
+     0
+    ],
+    "Flightradar24": [
+     0,
+     1,
+     0
+    ],
+    "France 24": [
+     0,
+     1,
+     0
+    ],
+    "The Insight International": [
+     0,
+     1,
+     0
+    ],
+    "스타뉴스": [
+     0,
+     2,
      0
     ]
    }
