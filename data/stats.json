@@ -11455,11 +11455,11 @@
    }
   },
   "2026-11-13": {
-   "total": 511,
-   "news": 504,
+   "total": 512,
+   "news": 505,
    "articles": 7,
    "positive": 0,
-   "neutral": 511,
+   "neutral": 512,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -11508,7 +11508,7 @@
     "Saudi Gazette": 8,
     "Gulf News": 2,
     "Bioengineer.org": 2,
-    "The National": 1,
+    "The National": 2,
     "Skift": 1,
     "Dawn": 1,
     "Ednews.net": 2,
@@ -11747,7 +11747,7 @@
     ],
     "The National": [
      0,
-     1,
+     2,
      0
     ],
     "Skift": [
