@@ -10592,16 +10592,16 @@
    }
   },
   "2026-11-12": {
-   "total": 688,
-   "news": 665,
+   "total": 694,
+   "news": 671,
    "articles": 23,
    "positive": 0,
-   "neutral": 688,
+   "neutral": 694,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "GB": 301,
-    "US": 119,
+    "GB": 305,
+    "US": 121,
     "FR": 5,
     "SA": 78,
     "HK": 4,
@@ -10611,9 +10611,9 @@
    "topics": {},
    "sources": {
     "Financial Times": 62,
-    "The Guardian": 83,
+    "The Guardian": 87,
     "StreetInsider": 1,
-    "Bloomberg": 1,
+    "Bloomberg": 2,
     "India Narrative": 1,
     "BBC": 11,
     "Oil & Gas Middle East": 1,
@@ -10621,7 +10621,7 @@
     "France 24": 4,
     "Bloomberg.com": 23,
     "Saudi Gazette": 16,
-    "Al-Monitor": 26,
+    "Al-Monitor": 27,
     "The New York Times": 21,
     "Reuters": 124,
     "AP News": 10,
@@ -10759,7 +10759,7 @@
     ],
     "The Guardian": [
      0,
-     83,
+     87,
      0
     ],
     "StreetInsider": [
@@ -10769,7 +10769,7 @@
     ],
     "Bloomberg": [
      0,
-     1,
+     2,
      0
     ],
     "India Narrative": [
@@ -10809,7 +10809,7 @@
     ],
     "Al-Monitor": [
      0,
-     26,
+     27,
      0
     ],
     "The New York Times": [
@@ -11455,30 +11455,30 @@
    }
   },
   "2026-11-13": {
-   "total": 490,
-   "news": 483,
+   "total": 511,
+   "news": 504,
    "articles": 7,
    "positive": 0,
-   "neutral": 490,
+   "neutral": 511,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 159,
-    "US": 82,
-    "SA": 52,
+    "GB": 171,
+    "US": 85,
+    "SA": 56,
     "DE": 7,
     "JP": 2,
     "FR": 8
    },
    "topics": {},
    "sources": {
-    "Financial Times": 33,
+    "Financial Times": 37,
     "WSJ": 14,
     "The New York Times": 14,
     "Nation Thailand": 1,
-    "Arab News": 52,
+    "Arab News": 54,
     "The Washington Post": 3,
-    "Reuters": 69,
+    "Reuters": 74,
     "Free Malaysia Today": 1,
     "The New Arab": 1,
     "The Guam Daily Post": 1,
@@ -11488,14 +11488,14 @@
     "조선일보": 12,
     "https://houseofsaud.com/": 4,
     "Shipping Telegraph": 1,
-    "The Guardian": 41,
+    "The Guardian": 43,
     "Middle East Online": 3,
     "Spiegel": 7,
-    "BBC": 16,
+    "BBC": 17,
     "Al Jazeera": 1,
-    "Bloomberg.com": 18,
-    "Al-Monitor": 20,
-    "AP News": 5,
+    "Bloomberg.com": 19,
+    "Al-Monitor": 21,
+    "AP News": 6,
     "TRT World": 2,
     "fundsforNGOs - Grants and Resources for Sustainability": 1,
     "Arabian Gulf Business Insight | AGBI": 4,
@@ -11505,7 +11505,7 @@
     "Anadolu Ajansı": 3,
     "The Diplomatic Insight": 1,
     "MEED": 1,
-    "Saudi Gazette": 6,
+    "Saudi Gazette": 8,
     "Gulf News": 2,
     "Bioengineer.org": 2,
     "The National": 1,
@@ -11560,12 +11560,14 @@
     "Howl.Link": 1,
     "X": 1,
     "The Jerusalem Post": 1,
-    "All That's Interesting": 1
+    "All That's Interesting": 1,
+    "Modern Ghana": 1,
+    "Tech Review Africa": 1
    },
    "sourceTone": {
     "Financial Times": [
      0,
-     33,
+     37,
      0
     ],
     "WSJ": [
@@ -11585,7 +11587,7 @@
     ],
     "Arab News": [
      0,
-     52,
+     54,
      0
     ],
     "The Washington Post": [
@@ -11595,7 +11597,7 @@
     ],
     "Reuters": [
      0,
-     69,
+     74,
      0
     ],
     "Free Malaysia Today": [
@@ -11645,7 +11647,7 @@
     ],
     "The Guardian": [
      0,
-     41,
+     43,
      0
     ],
     "Middle East Online": [
@@ -11660,7 +11662,7 @@
     ],
     "BBC": [
      0,
-     16,
+     17,
      0
     ],
     "Al Jazeera": [
@@ -11670,17 +11672,17 @@
     ],
     "Bloomberg.com": [
      0,
-     18,
+     19,
      0
     ],
     "Al-Monitor": [
      0,
-     20,
+     21,
      0
     ],
     "AP News": [
      0,
-     5,
+     6,
      0
     ],
     "TRT World": [
@@ -11730,7 +11732,7 @@
     ],
     "Saudi Gazette": [
      0,
-     6,
+     8,
      0
     ],
     "Gulf News": [
@@ -12004,6 +12006,89 @@
      0
     ],
     "All That's Interesting": [
+     0,
+     1,
+     0
+    ],
+    "Modern Ghana": [
+     0,
+     1,
+     0
+    ],
+    "Tech Review Africa": [
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "2026-11-14": {
+   "total": 13,
+   "news": 13,
+   "articles": 0,
+   "positive": 0,
+   "neutral": 13,
+   "critical": 0,
+   "mbs": 0,
+   "countries": {
+    "US": 1,
+    "SA": 2,
+    "GB": 1
+   },
+   "topics": {},
+   "sources": {
+    "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
+    "The New York Times": 1,
+    "Arab News": 2,
+    "Reuters": 1,
+    "Chosunbiz": 3,
+    "Korea JoongAng Daily": 1,
+    "Bioengineer.org": 1,
+    "UA.NEWS": 2,
+    "Dawn": 1
+   },
+   "sourceTone": {
+    "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
+     0,
+     1,
+     0
+    ],
+    "The New York Times": [
+     0,
+     1,
+     0
+    ],
+    "Arab News": [
+     0,
+     2,
+     0
+    ],
+    "Reuters": [
+     0,
+     1,
+     0
+    ],
+    "Chosunbiz": [
+     0,
+     3,
+     0
+    ],
+    "Korea JoongAng Daily": [
+     0,
+     1,
+     0
+    ],
+    "Bioengineer.org": [
+     0,
+     1,
+     0
+    ],
+    "UA.NEWS": [
+     0,
+     2,
+     0
+    ],
+    "Dawn": [
      0,
      1,
      0
