@@ -12071,11 +12071,11 @@
    }
   },
   "2026-11-14": {
-   "total": 196,
-   "news": 196,
+   "total": 197,
+   "news": 197,
    "articles": 0,
    "positive": 0,
-   "neutral": 196,
+   "neutral": 197,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -12165,7 +12165,8 @@
     "The Express Tribune": 1,
     "The New York Sun": 1,
     "Azərtac": 1,
-    "The Eastleigh Voice": 1
+    "The Eastleigh Voice": 1,
+    "조선일보": 1
    },
    "sourceTone": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
@@ -12554,6 +12555,11 @@
      0
     ],
     "The Eastleigh Voice": [
+     0,
+     1,
+     0
+    ],
+    "조선일보": [
      0,
      1,
      0
