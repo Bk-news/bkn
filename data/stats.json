@@ -10592,15 +10592,15 @@
    }
   },
   "2026-11-12": {
-   "total": 707,
-   "news": 684,
+   "total": 708,
+   "news": 685,
    "articles": 23,
    "positive": 0,
-   "neutral": 707,
+   "neutral": 708,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "GB": 314,
+    "GB": 315,
     "US": 124,
     "FR": 5,
     "SA": 79,
@@ -10623,7 +10623,7 @@
     "Saudi Gazette": 16,
     "Al-Monitor": 27,
     "The New York Times": 21,
-    "Reuters": 131,
+    "Reuters": 132,
     "AP News": 10,
     "Arab News": 73,
     "South China Morning Post": 6,
@@ -10819,7 +10819,7 @@
     ],
     "Reuters": [
      0,
-     131,
+     132,
      0
     ],
     "AP News": [
@@ -11455,15 +11455,15 @@
    }
   },
   "2026-11-13": {
-   "total": 582,
-   "news": 574,
+   "total": 583,
+   "news": 575,
    "articles": 8,
    "positive": 0,
-   "neutral": 582,
+   "neutral": 583,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 207,
+    "GB": 208,
     "US": 93,
     "SA": 71,
     "DE": 7,
@@ -11478,7 +11478,7 @@
     "Nation Thailand": 1,
     "Arab News": 69,
     "The Washington Post": 3,
-    "Reuters": 93,
+    "Reuters": 94,
     "Free Malaysia Today": 1,
     "The New Arab": 1,
     "The Guam Daily Post": 1,
@@ -11605,7 +11605,7 @@
     ],
     "Reuters": [
      0,
-     93,
+     94,
      0
     ],
     "Free Malaysia Today": [
