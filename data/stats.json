@@ -11455,15 +11455,15 @@
    }
   },
   "2026-11-13": {
-   "total": 583,
-   "news": 575,
+   "total": 584,
+   "news": 576,
    "articles": 8,
    "positive": 0,
-   "neutral": 583,
+   "neutral": 584,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 208,
+    "GB": 209,
     "US": 93,
     "SA": 71,
     "DE": 7,
@@ -11478,7 +11478,7 @@
     "Nation Thailand": 1,
     "Arab News": 69,
     "The Washington Post": 3,
-    "Reuters": 94,
+    "Reuters": 95,
     "Free Malaysia Today": 1,
     "The New Arab": 1,
     "The Guam Daily Post": 1,
@@ -11605,7 +11605,7 @@
     ],
     "Reuters": [
      0,
-     94,
+     95,
      0
     ],
     "Free Malaysia Today": [
@@ -12071,18 +12071,18 @@
    }
   },
   "2026-11-14": {
-   "total": 190,
-   "news": 190,
+   "total": 192,
+   "news": 192,
    "articles": 0,
    "positive": 0,
-   "neutral": 190,
+   "neutral": 192,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "US": 26,
     "SA": 30,
     "GB": 37,
-    "HK": 1,
+    "HK": 2,
     "FR": 1,
     "DE": 2
    },
@@ -12104,7 +12104,7 @@
     "WSJ": 4,
     "The AFC": 3,
     "AP News": 4,
-    "South China Morning Post": 1,
+    "South China Morning Post": 2,
     "Financial Times": 10,
     "Le Monde.fr": 1,
     "Facebook": 1,
@@ -12164,7 +12164,8 @@
     "Fightful": 1,
     "The Express Tribune": 1,
     "The New York Sun": 1,
-    "Azərtac": 1
+    "Azərtac": 1,
+    "The Eastleigh Voice": 1
    },
    "sourceTone": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
@@ -12249,7 +12250,7 @@
     ],
     "South China Morning Post": [
      0,
-     1,
+     2,
      0
     ],
     "Financial Times": [
@@ -12548,6 +12549,11 @@
      0
     ],
     "Azərtac": [
+     0,
+     1,
+     0
+    ],
+    "The Eastleigh Voice": [
      0,
      1,
      0
