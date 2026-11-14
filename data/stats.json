@@ -12071,11 +12071,11 @@
    }
   },
   "2026-11-14": {
-   "total": 205,
-   "news": 205,
+   "total": 206,
+   "news": 206,
    "articles": 0,
    "positive": 0,
-   "neutral": 205,
+   "neutral": 206,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -12084,7 +12084,7 @@
     "GB": 37,
     "HK": 2,
     "FR": 1,
-    "DE": 3
+    "DE": 4
    },
    "topics": {},
    "sources": {
@@ -12129,7 +12129,7 @@
     "Mehr News Agency": 1,
     "The Washington Post": 1,
     "POLITIS - To the point": 1,
-    "Spiegel": 3,
+    "Spiegel": 4,
     "The Business Standard": 2,
     "Gulf News": 1,
     "Daily The Patriot": 1,
@@ -12379,7 +12379,7 @@
     ],
     "Spiegel": [
      0,
-     3,
+     4,
      0
     ],
     "The Business Standard": [

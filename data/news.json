@@ -21,6 +21,27 @@
   "mt": true
  },
  {
+  "id": "4117ca17eb07a278",
+  "origin": "rss",
+  "source": "Spiegel",
+  "author": "",
+  "title_ar": "(S+) ينظر Globetrotter إلى الوراء: في عام 2004، باع كل شيء للإبحار حول العالم - والآن؟",
+  "title_orig": "(S+) Weltenbummler blickt zurück: 2004 verkaufte er alles, um die Welt zu umsegeln – und jetzt?",
+  "title_en": "",
+  "summary_ar": [],
+  "summary_en": [],
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaXFGWjE1R2VhWk9hRUxtSERZNFhTOHhHX1RuN2xyOGdhQXhnOXU3bDdKWDFwc1kyblhvX1NaSllvNU5CdXVUYXE0VW5TR184VmUzREVtYk1HeFRhNkNseTdQaDl2QmJDM3hMRmhBWnctM0RrdWZKTS05YUNsQ0NVLWNwRmVoUUtQd21rc1hFMzN2dEJCWGpjUVREekNfZVE3dVZwT0JleDdyUkcxcE5lQkZ4dTRpWVp0M2pucUk2SjZRZ1JUOURuUDFSYnRUeUY4?oc=5",
+  "published": "2026-11-14T16:35:00.000Z",
+  "subject": "saudi",
+  "tone": "neutral",
+  "topic": "",
+  "country": "DE",
+  "pending": true,
+  "desc": "(S+) Weltenbummler blickt zurück: 2004 verkaufte er alles, um die Welt zu umsegeln – und jetzt? &nbsp;&nbsp; Spiegel",
+  "lang": "de",
+  "mt": true
+ },
+ {
   "id": "e72349e984e59339",
   "origin": "rss",
   "source": "Spiegel",
@@ -10476,27 +10497,6 @@
   "pending": true,
   "desc": "Bombardier gets $568-million jet order from Saudi Arabia’s The Helicopter Company &nbsp;&nbsp; The Globe and Mail",
   "lang": "en",
-  "mt": true
- },
- {
-  "id": "2070db2dff908456",
-  "origin": "rss",
-  "source": "Spiegel",
-  "author": "",
-  "title_ar": "لايف تيكر | إمارة فرجينيا - هندوراس | نوفمبر 2026",
-  "title_orig": "Liveticker | VA Emirate - Honduras | November 2026",
-  "title_en": "",
-  "summary_ar": [],
-  "summary_en": [],
-  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSGluNzlBbGd0cVpYbU82MDdSOXgwZ2NmQ01DenQydkE5eTF5UVlkTE82c3RNWFl1djZzYkFBdWJEaU80VlZvN21nTHZiRFlXMHFRdUJHVVhCTmc4ak1sdWpxVENLRUpIVjdKZnphSHVYUXFPdjhSOEJjc1VwemZkWXFORUpmRjFjai1vcVkwZ1VXbHd5ZzdwbzlWRFZlUVZld1VV?oc=5",
-  "published": "2026-11-13T14:02:36.000Z",
-  "subject": "saudi",
-  "tone": "neutral",
-  "topic": "",
-  "country": "DE",
-  "pending": true,
-  "desc": "Liveticker | VA Emirate - Honduras | November 2026 &nbsp;&nbsp; Spiegel",
-  "lang": "de",
   "mt": true
  }
 ]
