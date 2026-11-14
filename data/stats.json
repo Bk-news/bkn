@@ -11455,16 +11455,16 @@
    }
   },
   "2026-11-13": {
-   "total": 594,
-   "news": 586,
+   "total": 596,
+   "news": 588,
    "articles": 8,
    "positive": 0,
-   "neutral": 594,
+   "neutral": 596,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 212,
-    "US": 93,
+    "GB": 213,
+    "US": 94,
     "SA": 78,
     "DE": 7,
     "JP": 2,
@@ -11488,12 +11488,12 @@
     "조선일보": 12,
     "https://houseofsaud.com/": 4,
     "Shipping Telegraph": 1,
-    "The Guardian": 52,
+    "The Guardian": 53,
     "Middle East Online": 4,
     "Spiegel": 7,
     "BBC": 18,
     "Al Jazeera": 1,
-    "Bloomberg.com": 19,
+    "Bloomberg.com": 20,
     "Al-Monitor": 22,
     "AP News": 8,
     "TRT World": 2,
@@ -11655,7 +11655,7 @@
     ],
     "The Guardian": [
      0,
-     52,
+     53,
      0
     ],
     "Middle East Online": [
@@ -11680,7 +11680,7 @@
     ],
     "Bloomberg.com": [
      0,
-     19,
+     20,
      0
     ],
     "Al-Monitor": [
@@ -12071,17 +12071,17 @@
    }
   },
   "2026-11-14": {
-   "total": 206,
-   "news": 206,
+   "total": 244,
+   "news": 244,
    "articles": 0,
    "positive": 0,
-   "neutral": 206,
+   "neutral": 244,
    "critical": 0,
-   "mbs": 2,
+   "mbs": 3,
    "countries": {
-    "US": 27,
-    "SA": 34,
-    "GB": 37,
+    "US": 30,
+    "SA": 45,
+    "GB": 49,
     "HK": 2,
     "FR": 1,
     "DE": 4
@@ -12090,9 +12090,9 @@
    "sources": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
     "The New York Times": 7,
-    "Arab News": 38,
-    "Reuters": 15,
-    "Chosunbiz": 7,
+    "Arab News": 49,
+    "Reuters": 24,
+    "Chosunbiz": 8,
     "Korea JoongAng Daily": 1,
     "Bioengineer.org": 1,
     "UA.NEWS": 2,
@@ -12100,18 +12100,18 @@
     "Khaama Press": 2,
     "news.sbs.co.kr": 2,
     "Yonhap News Agency": 5,
-    "Al-Monitor": 9,
+    "Al-Monitor": 10,
     "WSJ": 4,
     "The AFC": 3,
     "AP News": 5,
     "South China Morning Post": 2,
-    "Financial Times": 10,
+    "Financial Times": 11,
     "Le Monde.fr": 1,
     "Facebook": 1,
-    "Bloomberg.com": 1,
-    "The Guardian": 7,
-    "BBC": 5,
-    "Saudi Gazette": 5,
+    "Bloomberg.com": 2,
+    "The Guardian": 8,
+    "BBC": 6,
+    "Saudi Gazette": 7,
     "The National": 2,
     "The Arab Weekly": 1,
     "Middle East Online": 1,
@@ -12169,7 +12169,17 @@
     "조선일보": 1,
     "Khaleej Times": 1,
     "Hydrogen Central": 1,
-    "ASHARQ AL-AWSAT English": 1
+    "ASHARQ AL-AWSAT English": 1,
+    "FDD's Long War Journal": 1,
+    "MLQ.ai": 1,
+    "CNN": 1,
+    "Haberler.com": 1,
+    "www.daily-sun.com": 1,
+    "Fakti.bg": 1,
+    "X": 1,
+    "World Soccer Talk": 1,
+    "Arab News PK": 1,
+    "NY Fights": 1
    },
    "sourceTone": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
@@ -12184,17 +12194,17 @@
     ],
     "Arab News": [
      0,
-     38,
+     49,
      0
     ],
     "Reuters": [
      0,
-     15,
+     24,
      0
     ],
     "Chosunbiz": [
      0,
-     7,
+     8,
      0
     ],
     "Korea JoongAng Daily": [
@@ -12234,7 +12244,7 @@
     ],
     "Al-Monitor": [
      0,
-     9,
+     10,
      0
     ],
     "WSJ": [
@@ -12259,7 +12269,7 @@
     ],
     "Financial Times": [
      0,
-     10,
+     11,
      0
     ],
     "Le Monde.fr": [
@@ -12274,22 +12284,22 @@
     ],
     "Bloomberg.com": [
      0,
-     1,
+     2,
      0
     ],
     "The Guardian": [
      0,
-     7,
+     8,
      0
     ],
     "BBC": [
      0,
-     5,
+     6,
      0
     ],
     "Saudi Gazette": [
      0,
-     5,
+     7,
      0
     ],
     "The National": [
@@ -12578,6 +12588,56 @@
      0
     ],
     "ASHARQ AL-AWSAT English": [
+     0,
+     1,
+     0
+    ],
+    "FDD's Long War Journal": [
+     0,
+     1,
+     0
+    ],
+    "MLQ.ai": [
+     0,
+     1,
+     0
+    ],
+    "CNN": [
+     0,
+     1,
+     0
+    ],
+    "Haberler.com": [
+     0,
+     1,
+     0
+    ],
+    "www.daily-sun.com": [
+     0,
+     1,
+     0
+    ],
+    "Fakti.bg": [
+     0,
+     1,
+     0
+    ],
+    "X": [
+     0,
+     1,
+     0
+    ],
+    "World Soccer Talk": [
+     0,
+     1,
+     0
+    ],
+    "Arab News PK": [
+     0,
+     1,
+     0
+    ],
+    "NY Fights": [
      0,
      1,
      0
