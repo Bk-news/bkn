@@ -10592,18 +10592,18 @@
    }
   },
   "2026-11-12": {
-   "total": 694,
-   "news": 671,
+   "total": 695,
+   "news": 672,
    "articles": 23,
    "positive": 0,
-   "neutral": 694,
+   "neutral": 695,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "GB": 305,
     "US": 121,
     "FR": 5,
-    "SA": 78,
+    "SA": 79,
     "HK": 4,
     "JP": 1,
     "DE": 1
@@ -10625,7 +10625,7 @@
     "The New York Times": 21,
     "Reuters": 124,
     "AP News": 10,
-    "Arab News": 72,
+    "Arab News": 73,
     "South China Morning Post": 6,
     "Dealroom": 1,
     "Dubai Eye 103.8": 1,
@@ -10829,7 +10829,7 @@
     ],
     "Arab News": [
      0,
-     72,
+     73,
      0
     ],
     "South China Morning Post": [
@@ -11455,17 +11455,17 @@
    }
   },
   "2026-11-13": {
-   "total": 518,
-   "news": 511,
+   "total": 526,
+   "news": 519,
    "articles": 7,
    "positive": 0,
-   "neutral": 518,
+   "neutral": 526,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 175,
     "US": 86,
-    "SA": 57,
+    "SA": 65,
     "DE": 7,
     "JP": 2,
     "FR": 8
@@ -11476,7 +11476,7 @@
     "WSJ": 14,
     "The New York Times": 14,
     "Nation Thailand": 1,
-    "Arab News": 55,
+    "Arab News": 63,
     "The Washington Post": 3,
     "Reuters": 74,
     "Free Malaysia Today": 1,
@@ -11587,7 +11587,7 @@
     ],
     "Arab News": [
      0,
-     55,
+     63,
      0
     ],
     "The Washington Post": [
