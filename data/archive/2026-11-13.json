@@ -758,6 +758,27 @@
    "mt": true
   },
   {
+   "id": "6a9581427661ca47",
+   "origin": "rss",
+   "source": "WSJ",
+   "author": "",
+   "title_ar": "تقرير إخباري عن المواد الأساسية: حديث السوق",
+   "title_orig": "Basic Materials Roundup: Market Talk",
+   "title_en": "Basic Materials Roundup: Market Talk",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxbTRuQWtXZ0xVellCa0FRYXFFTmNWYTlYVW9ONjdlRWlpSktvUWpLNXBlWlZTSGFiS1ZJZkdZS2tMcjJBRnBKWFgzajliQlJ2RFIxcEFLWkVyMU9ucHlncWpMWUxmNFJiWlVsS2JuM1JwWm9adU1DRTBjOVYyQQ?oc=5",
+   "published": "2026-11-13T22:01:00.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "Basic Materials Roundup: Market Talk &nbsp;&nbsp; WSJ",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "68eff988b4b939ee",
    "origin": "rss",
    "source": "Arab News",

@@ -11455,16 +11455,16 @@
    }
   },
   "2026-11-13": {
-   "total": 576,
-   "news": 568,
+   "total": 577,
+   "news": 569,
    "articles": 8,
    "positive": 0,
-   "neutral": 576,
+   "neutral": 577,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 202,
-    "US": 92,
+    "US": 93,
     "SA": 71,
     "DE": 7,
     "JP": 2,
@@ -11473,7 +11473,7 @@
    "topics": {},
    "sources": {
     "Financial Times": 41,
-    "WSJ": 16,
+    "WSJ": 17,
     "The New York Times": 15,
     "Nation Thailand": 1,
     "Arab News": 69,
@@ -11580,7 +11580,7 @@
     ],
     "WSJ": [
      0,
-     16,
+     17,
      0
     ],
     "The New York Times": [
@@ -12071,17 +12071,17 @@
    }
   },
   "2026-11-14": {
-   "total": 175,
-   "news": 175,
+   "total": 178,
+   "news": 178,
    "articles": 0,
    "positive": 0,
-   "neutral": 175,
+   "neutral": 178,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "US": 25,
     "SA": 29,
-    "GB": 31,
+    "GB": 33,
     "HK": 1,
     "FR": 1,
     "DE": 2
@@ -12105,12 +12105,12 @@
     "The AFC": 2,
     "AP News": 3,
     "South China Morning Post": 1,
-    "Financial Times": 7,
+    "Financial Times": 8,
     "Le Monde.fr": 1,
     "Facebook": 1,
     "Bloomberg.com": 1,
     "The Guardian": 7,
-    "BBC": 4,
+    "BBC": 5,
     "Saudi Gazette": 3,
     "The National": 2,
     "The Arab Weekly": 1,
@@ -12158,7 +12158,8 @@
     "Muslim Network TV": 1,
     "FC Bayern": 1,
     "Hürriyet Daily News": 1,
-    "Monster Energy": 1
+    "Monster Energy": 1,
+    "Free Malaysia Today": 1
    },
    "sourceTone": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
@@ -12248,7 +12249,7 @@
     ],
     "Financial Times": [
      0,
-     7,
+     8,
      0
     ],
     "Le Monde.fr": [
@@ -12273,7 +12274,7 @@
     ],
     "BBC": [
      0,
-     4,
+     5,
      0
     ],
     "Saudi Gazette": [
@@ -12512,6 +12513,11 @@
      0
     ],
     "Monster Energy": [
+     0,
+     1,
+     0
+    ],
+    "Free Malaysia Today": [
      0,
      1,
      0
