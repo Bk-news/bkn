@@ -12077,11 +12077,11 @@
    }
   },
   "2026-11-14": {
-   "total": 274,
-   "news": 274,
+   "total": 275,
+   "news": 275,
    "articles": 0,
    "positive": 0,
-   "neutral": 274,
+   "neutral": 275,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -12096,7 +12096,7 @@
    "sources": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
     "The New York Times": 7,
-    "Arab News": 53,
+    "Arab News": 54,
     "Reuters": 26,
     "Chosunbiz": 8,
     "Korea JoongAng Daily": 1,
@@ -12215,7 +12215,7 @@
     ],
     "Arab News": [
      0,
-     53,
+     54,
      0
     ],
     "Reuters": [
