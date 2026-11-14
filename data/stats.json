@@ -12077,11 +12077,11 @@
    }
   },
   "2026-11-14": {
-   "total": 268,
-   "news": 268,
+   "total": 269,
+   "news": 269,
    "articles": 0,
    "positive": 0,
-   "neutral": 268,
+   "neutral": 269,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -12197,7 +12197,8 @@
     "IndexBox": 1,
     "ChimpReports": 1,
     "Operativ Məlumat Mərkəzi": 1,
-    "Sportscape Magazine": 1
+    "Sportscape Magazine": 1,
+    "Prothom Alo English": 1
    },
    "sourceTone": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
@@ -12716,6 +12717,11 @@
      0
     ],
     "Sportscape Magazine": [
+     0,
+     1,
+     0
+    ],
+    "Prothom Alo English": [
      0,
      1,
      0
