@@ -12023,11 +12023,11 @@
    }
   },
   "2026-11-14": {
-   "total": 21,
-   "news": 21,
+   "total": 22,
+   "news": 22,
    "articles": 0,
    "positive": 0,
-   "neutral": 21,
+   "neutral": 22,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -12048,7 +12048,7 @@
     "Dawn": 1,
     "Khaama Press": 1,
     "news.sbs.co.kr": 1,
-    "Yonhap News Agency": 3,
+    "Yonhap News Agency": 4,
     "Al-Monitor": 1
    },
    "sourceTone": {
@@ -12109,7 +12109,7 @@
     ],
     "Yonhap News Agency": [
      0,
-     3,
+     4,
      0
     ],
     "Al-Monitor": [

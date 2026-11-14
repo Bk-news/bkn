@@ -2,6 +2,27 @@
  "day": "2026-11-14",
  "items": [
   {
+   "id": "710f643da350a5be",
+   "origin": "rss",
+   "source": "Yonhap News Agency",
+   "author": "",
+   "title_ar": "هوانج هي تشان يراوغ الكرة",
+   "title_orig": "Hwang Hee-chan dribbles ball",
+   "title_en": "Hwang Hee-chan dribbles ball",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41dnhfbWE2dmN2d3dKVTRvUXV4NzdvMVpZeWNKTFljRzBpLWxhRXdlM1NZU2kxWUN2RkhHOEdxbm0yZzVwek5URTdJSDZpWDd1b0V6WkJyMjZ4c3pkYWNRWFFoOFdVYi0zV2FfVk9JWmEzTWxrVFZZ?oc=5",
+   "published": "2026-11-14T02:50:18.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "",
+   "pending": true,
+   "desc": "Hwang Hee-chan dribbles ball &nbsp;&nbsp; Yonhap News Agency",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "85b77b22889a9f7c",
    "origin": "rss",
    "source": "Al-Monitor",
