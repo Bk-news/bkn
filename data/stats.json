@@ -12071,11 +12071,11 @@
    }
   },
   "2026-11-14": {
-   "total": 188,
-   "news": 188,
+   "total": 189,
+   "news": 189,
    "articles": 0,
    "positive": 0,
-   "neutral": 188,
+   "neutral": 189,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -12163,7 +12163,8 @@
     "houseofsaud.com": 1,
     "Fightful": 1,
     "The Express Tribune": 1,
-    "The New York Sun": 1
+    "The New York Sun": 1,
+    "Azərtac": 1
    },
    "sourceTone": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
@@ -12542,6 +12543,11 @@
      0
     ],
     "The New York Sun": [
+     0,
+     1,
+     0
+    ],
+    "Azərtac": [
      0,
      1,
      0
