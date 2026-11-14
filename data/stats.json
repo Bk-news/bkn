@@ -9712,15 +9712,15 @@
    }
   },
   "2026-11-11": {
-   "total": 892,
-   "news": 886,
+   "total": 893,
+   "news": 887,
    "articles": 6,
    "positive": 0,
-   "neutral": 892,
+   "neutral": 893,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 177,
+    "US": 178,
     "SA": 97,
     "GB": 415,
     "JP": 1,
@@ -9734,7 +9734,7 @@
     "Arab News": 92,
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
-    "Al-Monitor": 42,
+    "Al-Monitor": 43,
     "The Washington Post": 17,
     "AP News": 14,
     "Reuters": 113,
@@ -9901,7 +9901,7 @@
     ],
     "Al-Monitor": [
      0,
-     42,
+     43,
      0
     ],
     "The Washington Post": [
@@ -10592,15 +10592,15 @@
    }
   },
   "2026-11-12": {
-   "total": 704,
-   "news": 681,
+   "total": 705,
+   "news": 682,
    "articles": 23,
    "positive": 0,
-   "neutral": 704,
+   "neutral": 705,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "GB": 312,
+    "GB": 313,
     "US": 123,
     "FR": 5,
     "SA": 79,
@@ -10623,7 +10623,7 @@
     "Saudi Gazette": 16,
     "Al-Monitor": 27,
     "The New York Times": 21,
-    "Reuters": 130,
+    "Reuters": 131,
     "AP News": 10,
     "Arab News": 73,
     "South China Morning Post": 6,
@@ -10819,7 +10819,7 @@
     ],
     "Reuters": [
      0,
-     130,
+     131,
      0
     ],
     "AP News": [
@@ -11455,17 +11455,17 @@
    }
   },
   "2026-11-13": {
-   "total": 563,
-   "news": 555,
+   "total": 575,
+   "news": 567,
    "articles": 8,
    "positive": 0,
-   "neutral": 563,
+   "neutral": 575,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 192,
+    "GB": 202,
     "US": 92,
-    "SA": 69,
+    "SA": 71,
     "DE": 7,
     "JP": 2,
     "FR": 8
@@ -11476,9 +11476,9 @@
     "WSJ": 16,
     "The New York Times": 15,
     "Nation Thailand": 1,
-    "Arab News": 67,
+    "Arab News": 69,
     "The Washington Post": 3,
-    "Reuters": 81,
+    "Reuters": 91,
     "Free Malaysia Today": 1,
     "The New Arab": 1,
     "The Guam Daily Post": 1,
@@ -11594,7 +11594,7 @@
     ],
     "Arab News": [
      0,
-     67,
+     69,
      0
     ],
     "The Washington Post": [
@@ -11604,7 +11604,7 @@
     ],
     "Reuters": [
      0,
-     81,
+     91,
      0
     ],
     "Free Malaysia Today": [
@@ -12065,17 +12065,17 @@
    }
   },
   "2026-11-14": {
-   "total": 128,
-   "news": 128,
+   "total": 154,
+   "news": 154,
    "articles": 0,
    "positive": 0,
-   "neutral": 128,
+   "neutral": 154,
    "critical": 0,
-   "mbs": 1,
+   "mbs": 2,
    "countries": {
     "US": 25,
-    "SA": 20,
-    "GB": 29,
+    "SA": 29,
+    "GB": 31,
     "HK": 1,
     "FR": 1,
     "DE": 2
@@ -12084,15 +12084,15 @@
    "sources": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
     "The New York Times": 7,
-    "Arab News": 20,
-    "Reuters": 11,
+    "Arab News": 31,
+    "Reuters": 13,
     "Chosunbiz": 6,
     "Korea JoongAng Daily": 1,
     "Bioengineer.org": 1,
     "UA.NEWS": 2,
     "Dawn": 1,
     "Khaama Press": 2,
-    "news.sbs.co.kr": 1,
+    "news.sbs.co.kr": 2,
     "Yonhap News Agency": 5,
     "Al-Monitor": 9,
     "WSJ": 4,
@@ -12112,7 +12112,7 @@
     "تسنیم": 1,
     "Caspian Post": 1,
     "Data Center Dynamics": 1,
-    "https://houseofsaud.com/": 2,
+    "https://houseofsaud.com/": 3,
     "India News Network": 1,
     "Arabian Business": 1,
     "Yahoo Sports": 1,
@@ -12129,7 +12129,17 @@
     "Daily The Patriot": 1,
     "IntelliNews": 2,
     "Business Today": 1,
-    "Armenpress": 1
+    "Armenpress": 1,
+    "NDTV Profit": 1,
+    "Türkiye Today": 1,
+    "AzerNews": 1,
+    "Anadolu Ajansı": 1,
+    "IQAir": 2,
+    "Breakingthenews.net": 1,
+    "sanad.uk": 1,
+    "Daily Sun": 1,
+    "Kurdistan24": 1,
+    "Goal.com": 1
    },
    "sourceTone": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
@@ -12144,12 +12154,12 @@
     ],
     "Arab News": [
      0,
-     20,
+     31,
      0
     ],
     "Reuters": [
      0,
-     11,
+     13,
      0
     ],
     "Chosunbiz": [
@@ -12184,7 +12194,7 @@
     ],
     "news.sbs.co.kr": [
      0,
-     1,
+     2,
      0
     ],
     "Yonhap News Agency": [
@@ -12284,7 +12294,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     2,
+     3,
      0
     ],
     "India News Network": [
@@ -12368,6 +12378,56 @@
      0
     ],
     "Armenpress": [
+     0,
+     1,
+     0
+    ],
+    "NDTV Profit": [
+     0,
+     1,
+     0
+    ],
+    "Türkiye Today": [
+     0,
+     1,
+     0
+    ],
+    "AzerNews": [
+     0,
+     1,
+     0
+    ],
+    "Anadolu Ajansı": [
+     0,
+     1,
+     0
+    ],
+    "IQAir": [
+     0,
+     2,
+     0
+    ],
+    "Breakingthenews.net": [
+     0,
+     1,
+     0
+    ],
+    "sanad.uk": [
+     0,
+     1,
+     0
+    ],
+    "Daily Sun": [
+     0,
+     1,
+     0
+    ],
+    "Kurdistan24": [
+     0,
+     1,
+     0
+    ],
+    "Goal.com": [
      0,
      1,
      0
