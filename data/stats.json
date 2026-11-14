@@ -11455,11 +11455,11 @@
    }
   },
   "2026-11-13": {
-   "total": 575,
-   "news": 567,
+   "total": 576,
+   "news": 568,
    "articles": 8,
    "positive": 0,
-   "neutral": 575,
+   "neutral": 576,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -11569,7 +11569,8 @@
     "The Media Line": 1,
     "Haberler.com": 1,
     "Dallas News": 1,
-    "The Supercar Blog": 1
+    "The Supercar Blog": 1,
+    "ESPN": 1
    },
    "sourceTone": {
     "Financial Times": [
@@ -12061,15 +12062,20 @@
      0,
      1,
      0
+    ],
+    "ESPN": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-14": {
-   "total": 154,
-   "news": 154,
+   "total": 175,
+   "news": 175,
    "articles": 0,
    "positive": 0,
-   "neutral": 154,
+   "neutral": 175,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -12084,7 +12090,7 @@
    "sources": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
     "The New York Times": 7,
-    "Arab News": 31,
+    "Arab News": 34,
     "Reuters": 13,
     "Chosunbiz": 6,
     "Korea JoongAng Daily": 1,
@@ -12105,7 +12111,7 @@
     "Bloomberg.com": 1,
     "The Guardian": 7,
     "BBC": 4,
-    "Saudi Gazette": 2,
+    "Saudi Gazette": 3,
     "The National": 2,
     "The Arab Weekly": 1,
     "Middle East Online": 1,
@@ -12116,7 +12122,7 @@
     "India News Network": 1,
     "Arabian Business": 1,
     "Yahoo Sports": 1,
-    "SBS 뉴스": 1,
+    "SBS 뉴스": 2,
     "巴士的報": 1,
     "8AM Media": 1,
     "TradingView": 1,
@@ -12124,7 +12130,7 @@
     "The Washington Post": 1,
     "POLITIS - To the point": 1,
     "Spiegel": 2,
-    "The Business Standard": 1,
+    "The Business Standard": 2,
     "Gulf News": 1,
     "Daily The Patriot": 1,
     "IntelliNews": 2,
@@ -12139,7 +12145,20 @@
     "sanad.uk": 1,
     "Daily Sun": 1,
     "Kurdistan24": 1,
-    "Goal.com": 1
+    "Goal.com": 3,
+    "Archaeology News Online Magazine": 1,
+    "Al Arabiya English": 1,
+    "وكالة الأنباء السعودية": 1,
+    "Ynetnews": 1,
+    "LiveScore": 1,
+    "Bangladesh Sangbad Sangstha (BSS)": 1,
+    "L'Orient Today": 1,
+    "IFLScience": 1,
+    "Modern Diplomacy": 1,
+    "Muslim Network TV": 1,
+    "FC Bayern": 1,
+    "Hürriyet Daily News": 1,
+    "Monster Energy": 1
    },
    "sourceTone": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
@@ -12154,7 +12173,7 @@
     ],
     "Arab News": [
      0,
-     31,
+     34,
      0
     ],
     "Reuters": [
@@ -12259,7 +12278,7 @@
     ],
     "Saudi Gazette": [
      0,
-     2,
+     3,
      0
     ],
     "The National": [
@@ -12314,7 +12333,7 @@
     ],
     "SBS 뉴스": [
      0,
-     1,
+     2,
      0
     ],
     "巴士的報": [
@@ -12354,7 +12373,7 @@
     ],
     "The Business Standard": [
      0,
-     1,
+     2,
      0
     ],
     "Gulf News": [
@@ -12428,6 +12447,71 @@
      0
     ],
     "Goal.com": [
+     0,
+     3,
+     0
+    ],
+    "Archaeology News Online Magazine": [
+     0,
+     1,
+     0
+    ],
+    "Al Arabiya English": [
+     0,
+     1,
+     0
+    ],
+    "وكالة الأنباء السعودية": [
+     0,
+     1,
+     0
+    ],
+    "Ynetnews": [
+     0,
+     1,
+     0
+    ],
+    "LiveScore": [
+     0,
+     1,
+     0
+    ],
+    "Bangladesh Sangbad Sangstha (BSS)": [
+     0,
+     1,
+     0
+    ],
+    "L'Orient Today": [
+     0,
+     1,
+     0
+    ],
+    "IFLScience": [
+     0,
+     1,
+     0
+    ],
+    "Modern Diplomacy": [
+     0,
+     1,
+     0
+    ],
+    "Muslim Network TV": [
+     0,
+     1,
+     0
+    ],
+    "FC Bayern": [
+     0,
+     1,
+     0
+    ],
+    "Hürriyet Daily News": [
+     0,
+     1,
+     0
+    ],
+    "Monster Energy": [
      0,
      1,
      0
