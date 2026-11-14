@@ -10592,15 +10592,15 @@
    }
   },
   "2026-11-12": {
-   "total": 703,
-   "news": 680,
+   "total": 704,
+   "news": 681,
    "articles": 23,
    "positive": 0,
-   "neutral": 703,
+   "neutral": 704,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "GB": 311,
+    "GB": 312,
     "US": 123,
     "FR": 5,
     "SA": 79,
@@ -10623,7 +10623,7 @@
     "Saudi Gazette": 16,
     "Al-Monitor": 27,
     "The New York Times": 21,
-    "Reuters": 129,
+    "Reuters": 130,
     "AP News": 10,
     "Arab News": 73,
     "South China Morning Post": 6,
@@ -10819,7 +10819,7 @@
     ],
     "Reuters": [
      0,
-     129,
+     130,
      0
     ],
     "AP News": [
@@ -11455,15 +11455,15 @@
    }
   },
   "2026-11-13": {
-   "total": 554,
-   "news": 547,
+   "total": 555,
+   "news": 548,
    "articles": 7,
    "positive": 0,
-   "neutral": 554,
+   "neutral": 555,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 189,
+    "GB": 190,
     "US": 90,
     "SA": 68,
     "DE": 7,
@@ -11488,7 +11488,7 @@
     "조선일보": 12,
     "https://houseofsaud.com/": 4,
     "Shipping Telegraph": 1,
-    "The Guardian": 51,
+    "The Guardian": 52,
     "Middle East Online": 4,
     "Spiegel": 7,
     "BBC": 17,
@@ -11651,7 +11651,7 @@
     ],
     "The Guardian": [
      0,
-     51,
+     52,
      0
     ],
     "Middle East Online": [
@@ -12047,17 +12047,17 @@
    }
   },
   "2026-11-14": {
-   "total": 75,
-   "news": 75,
+   "total": 78,
+   "news": 78,
    "articles": 0,
    "positive": 0,
-   "neutral": 75,
+   "neutral": 78,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "US": 15,
+    "US": 16,
     "SA": 13,
-    "GB": 10,
+    "GB": 12,
     "HK": 1,
     "FR": 1
    },
@@ -12076,11 +12076,11 @@
     "news.sbs.co.kr": 1,
     "Yonhap News Agency": 5,
     "Al-Monitor": 6,
-    "WSJ": 2,
+    "WSJ": 3,
     "The AFC": 2,
     "AP News": 3,
     "South China Morning Post": 1,
-    "Financial Times": 2,
+    "Financial Times": 4,
     "Le Monde.fr": 1,
     "Facebook": 1,
     "Bloomberg.com": 1,
@@ -12167,7 +12167,7 @@
     ],
     "WSJ": [
      0,
-     2,
+     3,
      0
     ],
     "The AFC": [
@@ -12187,7 +12187,7 @@
     ],
     "Financial Times": [
      0,
-     2,
+     4,
      0
     ],
     "Le Monde.fr": [
