@@ -12077,11 +12077,11 @@
    }
   },
   "2026-11-14": {
-   "total": 277,
-   "news": 277,
+   "total": 278,
+   "news": 278,
    "articles": 0,
    "positive": 0,
-   "neutral": 277,
+   "neutral": 278,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -12098,7 +12098,7 @@
     "The New York Times": 7,
     "Arab News": 55,
     "Reuters": 26,
-    "Chosunbiz": 8,
+    "Chosunbiz": 9,
     "Korea JoongAng Daily": 1,
     "Bioengineer.org": 1,
     "UA.NEWS": 3,
@@ -12226,7 +12226,7 @@
     ],
     "Chosunbiz": [
      0,
-     8,
+     9,
      0
     ],
     "Korea JoongAng Daily": [
