@@ -11455,28 +11455,28 @@
    }
   },
   "2026-11-13": {
-   "total": 512,
-   "news": 505,
+   "total": 518,
+   "news": 511,
    "articles": 7,
    "positive": 0,
-   "neutral": 512,
+   "neutral": 518,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 171,
-    "US": 85,
-    "SA": 56,
+    "GB": 175,
+    "US": 86,
+    "SA": 57,
     "DE": 7,
     "JP": 2,
     "FR": 8
    },
    "topics": {},
    "sources": {
-    "Financial Times": 37,
+    "Financial Times": 38,
     "WSJ": 14,
     "The New York Times": 14,
     "Nation Thailand": 1,
-    "Arab News": 54,
+    "Arab News": 55,
     "The Washington Post": 3,
     "Reuters": 74,
     "Free Malaysia Today": 1,
@@ -11488,14 +11488,14 @@
     "조선일보": 12,
     "https://houseofsaud.com/": 4,
     "Shipping Telegraph": 1,
-    "The Guardian": 43,
+    "The Guardian": 46,
     "Middle East Online": 3,
     "Spiegel": 7,
     "BBC": 17,
     "Al Jazeera": 1,
     "Bloomberg.com": 19,
     "Al-Monitor": 21,
-    "AP News": 6,
+    "AP News": 7,
     "TRT World": 2,
     "fundsforNGOs - Grants and Resources for Sustainability": 1,
     "Arabian Gulf Business Insight | AGBI": 4,
@@ -11567,7 +11567,7 @@
    "sourceTone": {
     "Financial Times": [
      0,
-     37,
+     38,
      0
     ],
     "WSJ": [
@@ -11587,7 +11587,7 @@
     ],
     "Arab News": [
      0,
-     54,
+     55,
      0
     ],
     "The Washington Post": [
@@ -11647,7 +11647,7 @@
     ],
     "The Guardian": [
      0,
-     43,
+     46,
      0
     ],
     "Middle East Online": [
@@ -11682,7 +11682,7 @@
     ],
     "AP News": [
      0,
-     6,
+     7,
      0
     ],
     "TRT World": [
@@ -12023,11 +12023,11 @@
    }
   },
   "2026-11-14": {
-   "total": 13,
-   "news": 13,
+   "total": 14,
+   "news": 14,
    "articles": 0,
    "positive": 0,
-   "neutral": 13,
+   "neutral": 14,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -12045,7 +12045,8 @@
     "Korea JoongAng Daily": 1,
     "Bioengineer.org": 1,
     "UA.NEWS": 2,
-    "Dawn": 1
+    "Dawn": 1,
+    "Khaama Press": 1
    },
    "sourceTone": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
@@ -12089,6 +12090,11 @@
      0
     ],
     "Dawn": [
+     0,
+     1,
+     0
+    ],
+    "Khaama Press": [
      0,
      1,
      0
