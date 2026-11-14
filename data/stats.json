@@ -12071,17 +12071,17 @@
    }
   },
   "2026-11-14": {
-   "total": 184,
-   "news": 184,
+   "total": 187,
+   "news": 187,
    "articles": 0,
    "positive": 0,
-   "neutral": 184,
+   "neutral": 187,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "US": 26,
     "SA": 29,
-    "GB": 35,
+    "GB": 36,
     "HK": 1,
     "FR": 1,
     "DE": 2
@@ -12091,7 +12091,7 @@
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
     "The New York Times": 7,
     "Arab News": 34,
-    "Reuters": 14,
+    "Reuters": 15,
     "Chosunbiz": 6,
     "Korea JoongAng Daily": 1,
     "Bioengineer.org": 1,
@@ -12161,7 +12161,9 @@
     "Monster Energy": 1,
     "Free Malaysia Today": 1,
     "houseofsaud.com": 1,
-    "Fightful": 1
+    "Fightful": 1,
+    "The Express Tribune": 1,
+    "The New York Sun": 1
    },
    "sourceTone": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
@@ -12181,7 +12183,7 @@
     ],
     "Reuters": [
      0,
-     14,
+     15,
      0
     ],
     "Chosunbiz": [
@@ -12530,6 +12532,16 @@
      0
     ],
     "Fightful": [
+     0,
+     1,
+     0
+    ],
+    "The Express Tribune": [
+     0,
+     1,
+     0
+    ],
+    "The New York Sun": [
      0,
      1,
      0
