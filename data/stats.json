@@ -9712,15 +9712,15 @@
    }
   },
   "2026-11-11": {
-   "total": 891,
-   "news": 885,
+   "total": 892,
+   "news": 886,
    "articles": 6,
    "positive": 0,
-   "neutral": 891,
+   "neutral": 892,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 176,
+    "US": 177,
     "SA": 97,
     "GB": 415,
     "JP": 1,
@@ -9734,7 +9734,7 @@
     "Arab News": 92,
     "www.thenewworld.co.uk": 1,
     "Yieh Corp.": 1,
-    "Al-Monitor": 41,
+    "Al-Monitor": 42,
     "The Washington Post": 17,
     "AP News": 14,
     "Reuters": 113,
@@ -9901,7 +9901,7 @@
     ],
     "Al-Monitor": [
      0,
-     41,
+     42,
      0
     ],
     "The Washington Post": [
@@ -11455,16 +11455,16 @@
    }
   },
   "2026-11-13": {
-   "total": 561,
-   "news": 553,
+   "total": 563,
+   "news": 555,
    "articles": 8,
    "positive": 0,
-   "neutral": 561,
+   "neutral": 563,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 191,
-    "US": 91,
+    "GB": 192,
+    "US": 92,
     "SA": 69,
     "DE": 7,
     "JP": 2,
@@ -11491,11 +11491,11 @@
     "The Guardian": 52,
     "Middle East Online": 4,
     "Spiegel": 7,
-    "BBC": 17,
+    "BBC": 18,
     "Al Jazeera": 1,
     "Bloomberg.com": 19,
     "Al-Monitor": 22,
-    "AP News": 7,
+    "AP News": 8,
     "TRT World": 2,
     "fundsforNGOs - Grants and Resources for Sustainability": 1,
     "Arabian Gulf Business Insight | AGBI": 4,
@@ -11669,7 +11669,7 @@
     ],
     "BBC": [
      0,
-     17,
+     18,
      0
     ],
     "Al Jazeera": [
@@ -11689,7 +11689,7 @@
     ],
     "AP News": [
      0,
-     7,
+     8,
      0
     ],
     "TRT World": [
@@ -12065,27 +12065,28 @@
    }
   },
   "2026-11-14": {
-   "total": 91,
-   "news": 91,
+   "total": 128,
+   "news": 128,
    "articles": 0,
    "positive": 0,
-   "neutral": 91,
+   "neutral": 128,
    "critical": 0,
-   "mbs": 0,
+   "mbs": 1,
    "countries": {
-    "US": 16,
-    "SA": 14,
-    "GB": 19,
+    "US": 25,
+    "SA": 20,
+    "GB": 29,
     "HK": 1,
-    "FR": 1
+    "FR": 1,
+    "DE": 2
    },
    "topics": {},
    "sources": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
-    "The New York Times": 3,
-    "Arab News": 15,
-    "Reuters": 6,
-    "Chosunbiz": 5,
+    "The New York Times": 7,
+    "Arab News": 20,
+    "Reuters": 11,
+    "Chosunbiz": 6,
     "Korea JoongAng Daily": 1,
     "Bioengineer.org": 1,
     "UA.NEWS": 2,
@@ -12093,8 +12094,8 @@
     "Khaama Press": 2,
     "news.sbs.co.kr": 1,
     "Yonhap News Agency": 5,
-    "Al-Monitor": 6,
-    "WSJ": 3,
+    "Al-Monitor": 9,
+    "WSJ": 4,
     "The AFC": 2,
     "AP News": 3,
     "South China Morning Post": 1,
@@ -12102,9 +12103,9 @@
     "Le Monde.fr": 1,
     "Facebook": 1,
     "Bloomberg.com": 1,
-    "The Guardian": 4,
-    "BBC": 2,
-    "Saudi Gazette": 1,
+    "The Guardian": 7,
+    "BBC": 4,
+    "Saudi Gazette": 2,
     "The National": 2,
     "The Arab Weekly": 1,
     "Middle East Online": 1,
@@ -12118,7 +12119,17 @@
     "SBS 뉴스": 1,
     "巴士的報": 1,
     "8AM Media": 1,
-    "TradingView": 1
+    "TradingView": 1,
+    "Mehr News Agency": 1,
+    "The Washington Post": 1,
+    "POLITIS - To the point": 1,
+    "Spiegel": 2,
+    "The Business Standard": 1,
+    "Gulf News": 1,
+    "Daily The Patriot": 1,
+    "IntelliNews": 2,
+    "Business Today": 1,
+    "Armenpress": 1
    },
    "sourceTone": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
@@ -12128,22 +12139,22 @@
     ],
     "The New York Times": [
      0,
-     3,
+     7,
      0
     ],
     "Arab News": [
      0,
-     15,
+     20,
      0
     ],
     "Reuters": [
      0,
-     6,
+     11,
      0
     ],
     "Chosunbiz": [
      0,
-     5,
+     6,
      0
     ],
     "Korea JoongAng Daily": [
@@ -12183,12 +12194,12 @@
     ],
     "Al-Monitor": [
      0,
-     6,
+     9,
      0
     ],
     "WSJ": [
      0,
-     3,
+     4,
      0
     ],
     "The AFC": [
@@ -12228,17 +12239,17 @@
     ],
     "The Guardian": [
      0,
-     4,
+     7,
      0
     ],
     "BBC": [
      0,
-     2,
+     4,
      0
     ],
     "Saudi Gazette": [
      0,
-     1,
+     2,
      0
     ],
     "The National": [
@@ -12307,6 +12318,56 @@
      0
     ],
     "TradingView": [
+     0,
+     1,
+     0
+    ],
+    "Mehr News Agency": [
+     0,
+     1,
+     0
+    ],
+    "The Washington Post": [
+     0,
+     1,
+     0
+    ],
+    "POLITIS - To the point": [
+     0,
+     1,
+     0
+    ],
+    "Spiegel": [
+     0,
+     2,
+     0
+    ],
+    "The Business Standard": [
+     0,
+     1,
+     0
+    ],
+    "Gulf News": [
+     0,
+     1,
+     0
+    ],
+    "Daily The Patriot": [
+     0,
+     1,
+     0
+    ],
+    "IntelliNews": [
+     0,
+     2,
+     0
+    ],
+    "Business Today": [
+     0,
+     1,
+     0
+    ],
+    "Armenpress": [
      0,
      1,
      0
