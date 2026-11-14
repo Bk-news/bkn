@@ -10592,16 +10592,16 @@
    }
   },
   "2026-11-12": {
-   "total": 705,
-   "news": 682,
+   "total": 706,
+   "news": 683,
    "articles": 23,
    "positive": 0,
-   "neutral": 705,
+   "neutral": 706,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "GB": 313,
-    "US": 123,
+    "US": 124,
     "FR": 5,
     "SA": 79,
     "HK": 4,
@@ -10653,7 +10653,7 @@
     "The Washington Post": 4,
     "The Economist": 13,
     "Time Magazine": 1,
-    "CNN": 6,
+    "CNN": 7,
     "Investing.com UK": 1,
     "TheWire.in": 1,
     "Cranes Today": 1,
@@ -10969,7 +10969,7 @@
     ],
     "CNN": [
      0,
-     6,
+     7,
      0
     ],
     "Investing.com UK": [
@@ -12071,15 +12071,15 @@
    }
   },
   "2026-11-14": {
-   "total": 181,
-   "news": 181,
+   "total": 183,
+   "news": 183,
    "articles": 0,
    "positive": 0,
-   "neutral": 181,
+   "neutral": 183,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "US": 25,
+    "US": 26,
     "SA": 29,
     "GB": 35,
     "HK": 1,
@@ -12103,7 +12103,7 @@
     "Al-Monitor": 9,
     "WSJ": 4,
     "The AFC": 3,
-    "AP News": 3,
+    "AP News": 4,
     "South China Morning Post": 1,
     "Financial Times": 9,
     "Le Monde.fr": 1,
@@ -12159,7 +12159,8 @@
     "FC Bayern": 1,
     "Hürriyet Daily News": 1,
     "Monster Energy": 1,
-    "Free Malaysia Today": 1
+    "Free Malaysia Today": 1,
+    "houseofsaud.com": 1
    },
    "sourceTone": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
@@ -12239,7 +12240,7 @@
     ],
     "AP News": [
      0,
-     3,
+     4,
      0
     ],
     "South China Morning Post": [
@@ -12518,6 +12519,11 @@
      0
     ],
     "Free Malaysia Today": [
+     0,
+     1,
+     0
+    ],
+    "houseofsaud.com": [
      0,
      1,
      0
