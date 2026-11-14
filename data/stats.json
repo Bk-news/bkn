@@ -12023,15 +12023,15 @@
    }
   },
   "2026-11-14": {
-   "total": 19,
-   "news": 19,
+   "total": 20,
+   "news": 20,
    "articles": 0,
    "positive": 0,
-   "neutral": 19,
+   "neutral": 20,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "US": 2,
+    "US": 3,
     "SA": 2,
     "GB": 1
    },
@@ -12048,7 +12048,8 @@
     "Dawn": 1,
     "Khaama Press": 1,
     "news.sbs.co.kr": 1,
-    "Yonhap News Agency": 3
+    "Yonhap News Agency": 3,
+    "Al-Monitor": 1
    },
    "sourceTone": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
@@ -12109,6 +12110,11 @@
     "Yonhap News Agency": [
      0,
      3,
+     0
+    ],
+    "Al-Monitor": [
+     0,
+     1,
      0
     ]
    }
