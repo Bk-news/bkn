@@ -11455,16 +11455,16 @@
    }
   },
   "2026-11-13": {
-   "total": 556,
+   "total": 557,
    "news": 549,
-   "articles": 7,
+   "articles": 8,
    "positive": 0,
-   "neutral": 556,
+   "neutral": 557,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 191,
-    "US": 90,
+    "US": 91,
     "SA": 68,
     "DE": 7,
     "JP": 2,
@@ -11523,7 +11523,7 @@
     "Muslim Network TV": 1,
     "Nikkei Asia": 2,
     "Capital FM Africa": 1,
-    "Atlantic Council": 6,
+    "Atlantic Council": 7,
     "France 24": 5,
     "Le Monde.fr": 3,
     "CNN": 2,
@@ -11826,7 +11826,7 @@
     ],
     "Atlantic Council": [
      0,
-     6,
+     7,
      0
     ],
     "France 24": [
