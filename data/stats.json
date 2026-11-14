@@ -12071,11 +12071,11 @@
    }
   },
   "2026-11-14": {
-   "total": 183,
-   "news": 183,
+   "total": 184,
+   "news": 184,
    "articles": 0,
    "positive": 0,
-   "neutral": 183,
+   "neutral": 184,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -12160,7 +12160,8 @@
     "Hürriyet Daily News": 1,
     "Monster Energy": 1,
     "Free Malaysia Today": 1,
-    "houseofsaud.com": 1
+    "houseofsaud.com": 1,
+    "Fightful": 1
    },
    "sourceTone": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
@@ -12524,6 +12525,11 @@
      0
     ],
     "houseofsaud.com": [
+     0,
+     1,
+     0
+    ],
+    "Fightful": [
      0,
      1,
      0
