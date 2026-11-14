@@ -12077,16 +12077,16 @@
    }
   },
   "2026-11-14": {
-   "total": 275,
-   "news": 275,
+   "total": 277,
+   "news": 277,
    "articles": 0,
    "positive": 0,
-   "neutral": 275,
+   "neutral": 277,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "US": 30,
-    "SA": 49,
+    "SA": 50,
     "GB": 53,
     "HK": 2,
     "FR": 1,
@@ -12096,7 +12096,7 @@
    "sources": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
     "The New York Times": 7,
-    "Arab News": 54,
+    "Arab News": 55,
     "Reuters": 26,
     "Chosunbiz": 8,
     "Korea JoongAng Daily": 1,
@@ -12200,7 +12200,8 @@
     "Sportscape Magazine": 1,
     "Prothom Alo English": 1,
     "Digital Watch Observatory": 1,
-    "The New Arab": 1
+    "The New Arab": 1,
+    "Daily Bonik Barta": 1
    },
    "sourceTone": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
@@ -12215,7 +12216,7 @@
     ],
     "Arab News": [
      0,
-     54,
+     55,
      0
     ],
     "Reuters": [
@@ -12734,6 +12735,11 @@
      0
     ],
     "The New Arab": [
+     0,
+     1,
+     0
+    ],
+    "Daily Bonik Barta": [
      0,
      1,
      0
