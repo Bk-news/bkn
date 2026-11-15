@@ -2,6 +2,27 @@
  "day": "2026-11-15",
  "items": [
   {
+   "id": "7f70a3a5c39139da",
+   "origin": "rss",
+   "source": "Arab News",
+   "author": "",
+   "title_ar": "يقول زيلينسكي إن هجمات الطاقة الروسية ساعدتها قيود ستارشيلد",
+   "title_orig": "Zelensky says Russia’s energy attacks helped by Starshield restrictions",
+   "title_en": "Zelensky says Russia’s energy attacks helped by Starshield restrictions",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcVE2dkMzMUtuWTEyV1hkb001U1AwMkVjblFGR2h1NXhmbXlRdjRmZE5IWHR0R3lFSnZtcXdYUjFPdUZtUzRfc0dSa2JOYWEzRlQzRUxvV2czN2lZajhWQ2RGUjhhd3Nib29mQ0JJbHlzVURfUTZ6N2prOXA4aGRSQl91ZUQzVDJhdEhyQmF2MU5HZUg5RUNBNVp6V1g4SXVLb2I4VFRrUWVjVU14QlE?oc=5",
+   "published": "2026-11-15T22:41:06.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "SA",
+   "pending": true,
+   "desc": "Zelensky says Russia’s energy attacks helped by Starshield restrictions &nbsp;&nbsp; Arab News",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "e12d65975fb90afa",
    "origin": "rss",
    "source": "New York Post",
