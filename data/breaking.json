@@ -1,62 +1,26 @@
 [
  {
-  "id": "6082bb7d0ddc24f9",
+  "id": "00b48c2360a0ce1c",
   "origin": "telegram",
   "source": "العربية عاجل",
   "country": "SA",
-  "title_ar": "هيئة بحرية بريطانية: السلطات الهندية أبلغت عن تعرض ناقلة نفط لهجوم قبل دخولها هرمز",
+  "title_ar": "مراسل العربية: دوي انفجارين غربي عدن",
   "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/153730",
-  "published": "2026-11-15T11:54:20.000Z",
+  "url": "https://t.me/alarabiyaBr/153776",
+  "published": "2026-11-15T17:32:19.000Z",
   "subject": "saudi",
-  "added": "2026-11-15T11:54:20.000Z"
+  "added": "2026-11-15T17:32:19.000Z"
  },
  {
-  "id": "1c1a2101b9c6f2ab",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "رئيس حكومة إقليم كردستان العراق: هجوم حقل كورمور جريمة إرهابية",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/153729",
-  "published": "2026-11-15T11:52:38.000Z",
-  "subject": "saudi",
-  "added": "2026-11-15T11:52:38.000Z"
- },
- {
-  "id": "e4e1930e9084bf75",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "رئيس حكومة إقليم كردستان العراق: سنواجه مخططات التقسيم بقوة",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/153728",
-  "published": "2026-11-15T11:52:19.000Z",
-  "subject": "saudi",
-  "added": "2026-11-15T11:52:19.000Z"
- },
- {
-  "id": "2b56631a68eb1696",
+  "id": "fb604ed9d4d13020",
   "origin": "royal",
   "source": "واس الملكية",
   "country": "SA",
-  "title_ar": "سمو ولي العهد يهنئ ملك مملكة بلجيكا بذكرى يوم الملك لبلاده",
+  "title_ar": "خادم الحرمين الشريفين يأمر بترقية وتعيين 167 قاضيًا بوزارة العدل",
   "summary_ar": [],
-  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1IeG1ieHlBRC1NS2QzMnZRcE4xczZMXzhObnlnd2xGQmVhVEZGakhLVFR4cWt4Tlota3BuTUdXZEdQUWpTN2c?oc=5",
-  "published": "2026-11-15T10:28:31.000Z",
-  "subject": "mbs",
-  "added": "2026-11-15T11:16:30.152Z"
- },
- {
-  "id": "5c2ccb96d371b3f0",
-  "origin": "royal",
-  "source": "واس الملكية",
-  "country": "SA",
-  "title_ar": "خادم الحرمين الشريفين يهنئ ملك مملكة بلجيكا بذكرى يوم الملك لبلاده",
-  "summary_ar": [],
-  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKTDZwOFc4WmVOel8wUXZ1MVVFekRuX3hfQjJHUWgtaF9JZHQyQ0h4TjNvaDNVT0ZsMVpoRHNIUmk4X0lFS1E?oc=5",
-  "published": "2026-11-15T10:25:54.000Z",
+  "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE96RVk0T0VIaEo4TG1OWmVLRmxiQ1pCeldHZ2U4WE1URWlSR2g4Z2t1Qk5wNkJzUGFLcEdKbk10M2Y?oc=5",
+  "published": "2026-11-15T16:29:56.000Z",
   "subject": "saudi",
-  "added": "2026-11-15T11:16:30.152Z"
+  "added": "2026-11-15T17:53:22.216Z"
  }
 ]
