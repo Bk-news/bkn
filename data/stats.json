@@ -11455,15 +11455,15 @@
    }
   },
   "2026-11-13": {
-   "total": 658,
-   "news": 650,
+   "total": 659,
+   "news": 651,
    "articles": 8,
    "positive": 0,
-   "neutral": 658,
+   "neutral": 659,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 260,
+    "GB": 261,
     "US": 103,
     "SA": 83,
     "DE": 7,
@@ -11488,7 +11488,7 @@
     "조선일보": 12,
     "https://houseofsaud.com/": 4,
     "Shipping Telegraph": 1,
-    "The Guardian": 67,
+    "The Guardian": 68,
     "Middle East Online": 4,
     "Spiegel": 7,
     "BBC": 18,
@@ -11656,7 +11656,7 @@
     ],
     "The Guardian": [
      0,
-     67,
+     68,
      0
     ],
     "Middle East Online": [
@@ -12077,17 +12077,17 @@
    }
   },
   "2026-11-14": {
-   "total": 432,
-   "news": 432,
+   "total": 434,
+   "news": 434,
    "articles": 0,
    "positive": 0,
-   "neutral": 432,
+   "neutral": 434,
    "critical": 0,
    "mbs": 5,
    "countries": {
     "US": 43,
     "SA": 70,
-    "GB": 155,
+    "GB": 157,
     "HK": 2,
     "FR": 2,
     "DE": 4
@@ -12115,7 +12115,7 @@
     "Le Monde.fr": 1,
     "Facebook": 1,
     "Bloomberg.com": 4,
-    "The Guardian": 73,
+    "The Guardian": 75,
     "BBC": 9,
     "Saudi Gazette": 9,
     "The National": 2,
@@ -12320,7 +12320,7 @@
     ],
     "The Guardian": [
      0,
-     73,
+     75,
      0
     ],
     "BBC": [
