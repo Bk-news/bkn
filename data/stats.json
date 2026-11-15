@@ -12077,15 +12077,15 @@
    }
   },
   "2026-11-14": {
-   "total": 314,
-   "news": 314,
+   "total": 315,
+   "news": 315,
    "articles": 0,
    "positive": 0,
-   "neutral": 314,
+   "neutral": 315,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "US": 35,
+    "US": 36,
     "SA": 58,
     "GB": 63,
     "HK": 2,
@@ -12095,7 +12095,7 @@
    "topics": {},
    "sources": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
-    "The New York Times": 7,
+    "The New York Times": 8,
     "Arab News": 62,
     "Reuters": 33,
     "Chosunbiz": 9,
@@ -12217,7 +12217,7 @@
     ],
     "The New York Times": [
      0,
-     7,
+     8,
      0
     ],
     "Arab News": [
@@ -12783,17 +12783,18 @@
    }
   },
   "2026-11-15": {
-   "total": 29,
-   "news": 29,
+   "total": 30,
+   "news": 30,
    "articles": 0,
    "positive": 0,
-   "neutral": 29,
+   "neutral": 30,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "SA": 1,
     "US": 3,
-    "FR": 2
+    "FR": 2,
+    "GB": 1
    },
    "topics": {},
    "sources": {
@@ -12815,7 +12816,8 @@
     "Anadolu Ajansı": 3,
     "Gulf News": 1,
     "Seoul Economic Daily": 1,
-    "Middle East Eye": 2
+    "Middle East Eye": 2,
+    "The Guardian": 1
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -12911,6 +12913,11 @@
     "Middle East Eye": [
      0,
      2,
+     0
+    ],
+    "The Guardian": [
+     0,
+     1,
      0
     ]
    }
