@@ -1493,6 +1493,27 @@
    "mt": true
   },
   {
+   "id": "f28738a178026499",
+   "origin": "rss",
+   "source": "Reuters",
+   "author": "",
+   "title_ar": "الشرطة تستخدم الغاز المسيل للدموع لتفريق المتظاهرين في باريس",
+   "title_orig": "Police use tear gas to disperse Paris protesters",
+   "title_en": "Police use tear gas to disperse Paris protesters",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90bkFTWk41ejNSRkJkcmQ4VVhCTkFyQVltSm42RXVVbjRlNVRiZnRBaGxyMFZSWF95dFUwWmhPVHkxQWc4Z2NoWjNzR1ZwMDVnWU8taW0yTkJLQUhlM0liZDBKR3Q5NEk?oc=5",
+   "published": "2026-11-14T19:27:45.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "Police use tear gas to disperse Paris protesters &nbsp;&nbsp; Reuters",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "81fe74bc729e320e",
    "origin": "rss",
    "source": "Arab News",
