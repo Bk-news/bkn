@@ -11455,15 +11455,15 @@
    }
   },
   "2026-11-13": {
-   "total": 638,
-   "news": 630,
+   "total": 641,
+   "news": 633,
    "articles": 8,
    "positive": 0,
-   "neutral": 638,
+   "neutral": 641,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 243,
+    "GB": 246,
     "US": 102,
     "SA": 81,
     "DE": 7,
@@ -11472,13 +11472,13 @@
    },
    "topics": {},
    "sources": {
-    "Financial Times": 49,
+    "Financial Times": 50,
     "WSJ": 18,
     "The New York Times": 21,
     "Nation Thailand": 1,
     "Arab News": 79,
     "The Washington Post": 3,
-    "Reuters": 123,
+    "Reuters": 125,
     "Free Malaysia Today": 1,
     "The New Arab": 1,
     "The Guam Daily Post": 1,
@@ -11576,7 +11576,7 @@
    "sourceTone": {
     "Financial Times": [
      0,
-     49,
+     50,
      0
     ],
     "WSJ": [
@@ -11606,7 +11606,7 @@
     ],
     "Reuters": [
      0,
-     123,
+     125,
      0
     ],
     "Free Malaysia Today": [
@@ -12077,17 +12077,17 @@
    }
   },
   "2026-11-14": {
-   "total": 358,
-   "news": 358,
+   "total": 364,
+   "news": 364,
    "articles": 0,
    "positive": 0,
-   "neutral": 358,
+   "neutral": 364,
    "critical": 0,
    "mbs": 5,
    "countries": {
     "US": 41,
-    "SA": 66,
-    "GB": 87,
+    "SA": 68,
+    "GB": 91,
     "HK": 2,
     "FR": 2,
     "DE": 4
@@ -12096,8 +12096,8 @@
    "sources": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
     "The New York Times": 10,
-    "Arab News": 69,
-    "Reuters": 51,
+    "Arab News": 71,
+    "Reuters": 55,
     "Chosunbiz": 9,
     "Korea JoongAng Daily": 1,
     "Bioengineer.org": 2,
@@ -12225,12 +12225,12 @@
     ],
     "Arab News": [
      0,
-     69,
+     71,
      0
     ],
     "Reuters": [
      0,
-     51,
+     55,
      0
     ],
     "Chosunbiz": [
@@ -12801,18 +12801,18 @@
    }
   },
   "2026-11-15": {
-   "total": 192,
-   "news": 190,
+   "total": 223,
+   "news": 221,
    "articles": 2,
    "positive": 0,
-   "neutral": 192,
+   "neutral": 223,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 16,
-    "US": 37,
+    "SA": 25,
+    "US": 38,
     "FR": 11,
-    "GB": 24,
+    "GB": 35,
     "HK": 5,
     "DE": 2,
     "JP": 1
@@ -12820,9 +12820,9 @@
    "topics": {},
    "sources": {
     "houseofsaud.com": 2,
-    "Arab News": 18,
+    "Arab News": 26,
     "WSJ": 7,
-    "UA.NEWS": 2,
+    "UA.NEWS": 3,
     "Dawn": 1,
     "Le Monde.fr": 7,
     "France 24": 4,
@@ -12833,18 +12833,18 @@
     "Chosunbiz": 3,
     "https://houseofsaud.com/": 3,
     "Daily Sun": 1,
-    "조선일보": 5,
-    "Anadolu Ajansı": 3,
+    "조선일보": 6,
+    "Anadolu Ajansı": 4,
     "Gulf News": 3,
     "Seoul Economic Daily": 1,
     "Middle East Eye": 3,
-    "The Guardian": 7,
+    "The Guardian": 16,
     "Kyabram Free Press": 1,
     "Telangana Today": 1,
     "The Korea Times": 1,
     "Malay Mail": 1,
     "The Canberra Times": 1,
-    "Al-Monitor": 8,
+    "Al-Monitor": 9,
     "스타뉴스": 1,
     "AP News": 4,
     "NDTV": 3,
@@ -12852,7 +12852,7 @@
     "South China Morning Post": 5,
     "The National": 1,
     "BBC": 4,
-    "Reuters": 10,
+    "Reuters": 12,
     "The Washington Post": 2,
     "Bloomberg.com": 5,
     "Spiegel": 2,
@@ -12865,7 +12865,7 @@
     "News of Bahrain": 1,
     "Khaleej Times": 1,
     "Mehr News Agency": 1,
-    "Saudi Gazette": 5,
+    "Saudi Gazette": 6,
     "IndexBox": 2,
     "Travel & Tourism News Middle East": 1,
     "Yonhap News Agency": 1,
@@ -12878,7 +12878,7 @@
     "New Age BD": 1,
     "جريدة القدس": 1,
     "Nation Thailand": 1,
-    "Al Arabiya English": 2,
+    "Al Arabiya English": 3,
     "Khaama Press": 1,
     "TradingView": 1,
     "UkrMedia News": 1,
@@ -12901,7 +12901,13 @@
     "The Economist": 1,
     "Atlantic Council": 1,
     "sabahnews.net": 1,
-    "Israel National News": 1
+    "Israel National News": 1,
+    "ASHARQ AL-AWSAT English": 1,
+    "ANI News": 1,
+    "IntelliNews": 1,
+    "Business Insider Africa": 1,
+    "Kurdistan24": 1,
+    "The Media Line": 1
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -12911,7 +12917,7 @@
     ],
     "Arab News": [
      0,
-     18,
+     26,
      0
     ],
     "WSJ": [
@@ -12921,7 +12927,7 @@
     ],
     "UA.NEWS": [
      0,
-     2,
+     3,
      0
     ],
     "Dawn": [
@@ -12976,12 +12982,12 @@
     ],
     "조선일보": [
      0,
-     5,
+     6,
      0
     ],
     "Anadolu Ajansı": [
      0,
-     3,
+     4,
      0
     ],
     "Gulf News": [
@@ -13001,7 +13007,7 @@
     ],
     "The Guardian": [
      0,
-     7,
+     16,
      0
     ],
     "Kyabram Free Press": [
@@ -13031,7 +13037,7 @@
     ],
     "Al-Monitor": [
      0,
-     8,
+     9,
      0
     ],
     "스타뉴스": [
@@ -13071,7 +13077,7 @@
     ],
     "Reuters": [
      0,
-     10,
+     12,
      0
     ],
     "The Washington Post": [
@@ -13136,7 +13142,7 @@
     ],
     "Saudi Gazette": [
      0,
-     5,
+     6,
      0
     ],
     "IndexBox": [
@@ -13201,7 +13207,7 @@
     ],
     "Al Arabiya English": [
      0,
-     2,
+     3,
      0
     ],
     "Khaama Press": [
@@ -13315,6 +13321,36 @@
      0
     ],
     "Israel National News": [
+     0,
+     1,
+     0
+    ],
+    "ASHARQ AL-AWSAT English": [
+     0,
+     1,
+     0
+    ],
+    "ANI News": [
+     0,
+     1,
+     0
+    ],
+    "IntelliNews": [
+     0,
+     1,
+     0
+    ],
+    "Business Insider Africa": [
+     0,
+     1,
+     0
+    ],
+    "Kurdistan24": [
+     0,
+     1,
+     0
+    ],
+    "The Media Line": [
      0,
      1,
      0
