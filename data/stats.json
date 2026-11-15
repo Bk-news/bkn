@@ -12783,11 +12783,11 @@
    }
   },
   "2026-11-15": {
-   "total": 30,
-   "news": 30,
+   "total": 32,
+   "news": 32,
    "articles": 0,
    "positive": 0,
-   "neutral": 30,
+   "neutral": 32,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -12817,7 +12817,9 @@
     "Gulf News": 1,
     "Seoul Economic Daily": 1,
     "Middle East Eye": 2,
-    "The Guardian": 1
+    "The Guardian": 1,
+    "Kyabram Free Press": 1,
+    "Telangana Today": 1
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -12916,6 +12918,16 @@
      0
     ],
     "The Guardian": [
+     0,
+     1,
+     0
+    ],
+    "Kyabram Free Press": [
+     0,
+     1,
+     0
+    ],
+    "Telangana Today": [
      0,
      1,
      0
