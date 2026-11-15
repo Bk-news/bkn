@@ -12795,11 +12795,11 @@
    }
   },
   "2026-11-15": {
-   "total": 143,
-   "news": 143,
+   "total": 144,
+   "news": 144,
    "articles": 0,
    "positive": 0,
-   "neutral": 143,
+   "neutral": 144,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -12871,7 +12871,7 @@
     "New Age BD": 1,
     "جريدة القدس": 1,
     "Nation Thailand": 1,
-    "Al Arabiya English": 1,
+    "Al Arabiya English": 2,
     "Khaama Press": 1,
     "TradingView": 1,
     "UkrMedia News": 1,
@@ -13185,7 +13185,7 @@
     ],
     "Al Arabiya English": [
      0,
-     1,
+     2,
      0
     ],
     "Khaama Press": [
