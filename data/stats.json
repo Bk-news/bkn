@@ -11455,15 +11455,15 @@
    }
   },
   "2026-11-13": {
-   "total": 603,
-   "news": 595,
+   "total": 604,
+   "news": 596,
    "articles": 8,
    "positive": 0,
-   "neutral": 603,
+   "neutral": 604,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 216,
+    "GB": 217,
     "US": 97,
     "SA": 78,
     "DE": 7,
@@ -11472,7 +11472,7 @@
    },
    "topics": {},
    "sources": {
-    "Financial Times": 45,
+    "Financial Times": 46,
     "WSJ": 17,
     "The New York Times": 18,
     "Nation Thailand": 1,
@@ -11576,7 +11576,7 @@
    "sourceTone": {
     "Financial Times": [
      0,
-     45,
+     46,
      0
     ],
     "WSJ": [
@@ -12077,17 +12077,17 @@
    }
   },
   "2026-11-14": {
-   "total": 305,
-   "news": 305,
+   "total": 307,
+   "news": 307,
    "articles": 0,
    "positive": 0,
-   "neutral": 305,
+   "neutral": 307,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "US": 34,
     "SA": 57,
-    "GB": 59,
+    "GB": 61,
     "HK": 2,
     "FR": 2,
     "DE": 4
@@ -12111,7 +12111,7 @@
     "The AFC": 3,
     "AP News": 5,
     "South China Morning Post": 2,
-    "Financial Times": 11,
+    "Financial Times": 13,
     "Le Monde.fr": 1,
     "Facebook": 1,
     "Bloomberg.com": 2,
@@ -12296,7 +12296,7 @@
     ],
     "Financial Times": [
      0,
-     11,
+     13,
      0
     ],
     "Le Monde.fr": [
