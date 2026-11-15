@@ -12801,18 +12801,18 @@
    }
   },
   "2026-11-15": {
-   "total": 320,
-   "news": 317,
+   "total": 326,
+   "news": 323,
    "articles": 3,
    "positive": 0,
-   "neutral": 320,
+   "neutral": 326,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 25,
+    "SA": 28,
     "US": 40,
     "FR": 11,
-    "GB": 87,
+    "GB": 89,
     "HK": 5,
     "DE": 2,
     "JP": 1
@@ -12820,7 +12820,7 @@
    "topics": {},
    "sources": {
     "houseofsaud.com": 2,
-    "Arab News": 35,
+    "Arab News": 37,
     "WSJ": 8,
     "UA.NEWS": 3,
     "Dawn": 1,
@@ -12838,7 +12838,7 @@
     "Gulf News": 4,
     "Seoul Economic Daily": 1,
     "Middle East Eye": 4,
-    "The Guardian": 60,
+    "The Guardian": 61,
     "Kyabram Free Press": 1,
     "Telangana Today": 1,
     "The Korea Times": 1,
@@ -12852,7 +12852,7 @@
     "South China Morning Post": 5,
     "The National": 2,
     "BBC": 4,
-    "Reuters": 20,
+    "Reuters": 21,
     "The Washington Post": 2,
     "Bloomberg.com": 5,
     "Spiegel": 2,
@@ -12865,7 +12865,7 @@
     "News of Bahrain": 1,
     "Khaleej Times": 1,
     "Mehr News Agency": 1,
-    "Saudi Gazette": 7,
+    "Saudi Gazette": 8,
     "IndexBox": 2,
     "Travel & Tourism News Middle East": 1,
     "Yonhap News Agency": 1,
@@ -12926,7 +12926,8 @@
     "Tehran Times": 1,
     "صحيفة مال": 1,
     "SaudiGulf Projects": 1,
-    "Kashmir Life": 1
+    "Kashmir Life": 1,
+    "The Irish Times": 1
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -12936,7 +12937,7 @@
     ],
     "Arab News": [
      0,
-     35,
+     37,
      0
     ],
     "WSJ": [
@@ -13026,7 +13027,7 @@
     ],
     "The Guardian": [
      0,
-     60,
+     61,
      0
     ],
     "Kyabram Free Press": [
@@ -13096,7 +13097,7 @@
     ],
     "Reuters": [
      0,
-     20,
+     21,
      0
     ],
     "The Washington Post": [
@@ -13161,7 +13162,7 @@
     ],
     "Saudi Gazette": [
      0,
-     7,
+     8,
      0
     ],
     "IndexBox": [
@@ -13465,6 +13466,11 @@
      0
     ],
     "Kashmir Life": [
+     0,
+     1,
+     0
+    ],
+    "The Irish Times": [
      0,
      1,
      0
