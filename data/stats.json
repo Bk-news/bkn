@@ -12077,17 +12077,17 @@
    }
   },
   "2026-11-14": {
-   "total": 425,
-   "news": 425,
+   "total": 428,
+   "news": 428,
    "articles": 0,
    "positive": 0,
-   "neutral": 425,
+   "neutral": 428,
    "critical": 0,
    "mbs": 5,
    "countries": {
     "US": 43,
     "SA": 70,
-    "GB": 148,
+    "GB": 151,
     "HK": 2,
     "FR": 2,
     "DE": 4
@@ -12115,7 +12115,7 @@
     "Le Monde.fr": 1,
     "Facebook": 1,
     "Bloomberg.com": 4,
-    "The Guardian": 66,
+    "The Guardian": 69,
     "BBC": 9,
     "Saudi Gazette": 9,
     "The National": 2,
@@ -12320,7 +12320,7 @@
     ],
     "The Guardian": [
      0,
-     66,
+     69,
      0
     ],
     "BBC": [
@@ -12801,18 +12801,18 @@
    }
   },
   "2026-11-15": {
-   "total": 335,
-   "news": 332,
+   "total": 337,
+   "news": 334,
    "articles": 3,
    "positive": 0,
-   "neutral": 335,
+   "neutral": 337,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 28,
     "US": 40,
     "FR": 11,
-    "GB": 94,
+    "GB": 95,
     "HK": 5,
     "DE": 2,
     "JP": 1
@@ -12837,8 +12837,8 @@
     "Anadolu Ajansı": 5,
     "Gulf News": 4,
     "Seoul Economic Daily": 1,
-    "Middle East Eye": 4,
-    "The Guardian": 66,
+    "Middle East Eye": 5,
+    "The Guardian": 67,
     "Kyabram Free Press": 1,
     "Telangana Today": 1,
     "The Korea Times": 1,
@@ -13023,12 +13023,12 @@
     ],
     "Middle East Eye": [
      0,
-     4,
+     5,
      0
     ],
     "The Guardian": [
      0,
-     66,
+     67,
      0
     ],
     "Kyabram Free Press": [
