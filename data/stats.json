@@ -12077,17 +12077,17 @@
    }
   },
   "2026-11-14": {
-   "total": 434,
-   "news": 434,
+   "total": 437,
+   "news": 437,
    "articles": 0,
    "positive": 0,
-   "neutral": 434,
+   "neutral": 437,
    "critical": 0,
    "mbs": 5,
    "countries": {
-    "US": 43,
+    "US": 44,
     "SA": 70,
-    "GB": 157,
+    "GB": 159,
     "HK": 2,
     "FR": 2,
     "DE": 4
@@ -12095,7 +12095,7 @@
    "topics": {},
    "sources": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
-    "The New York Times": 10,
+    "The New York Times": 11,
     "Arab News": 73,
     "Reuters": 57,
     "Chosunbiz": 9,
@@ -12111,7 +12111,7 @@
     "The AFC": 3,
     "AP News": 6,
     "South China Morning Post": 2,
-    "Financial Times": 16,
+    "Financial Times": 18,
     "Le Monde.fr": 1,
     "Facebook": 1,
     "Bloomberg.com": 4,
@@ -12220,7 +12220,7 @@
     ],
     "The New York Times": [
      0,
-     10,
+     11,
      0
     ],
     "Arab News": [
@@ -12300,7 +12300,7 @@
     ],
     "Financial Times": [
      0,
-     16,
+     18,
      0
     ],
     "Le Monde.fr": [
@@ -12801,18 +12801,18 @@
    }
   },
   "2026-11-15": {
-   "total": 343,
-   "news": 340,
+   "total": 380,
+   "news": 377,
    "articles": 3,
    "positive": 0,
-   "neutral": 343,
+   "neutral": 380,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 29,
-    "US": 40,
-    "FR": 11,
-    "GB": 99,
+    "SA": 36,
+    "US": 44,
+    "FR": 14,
+    "GB": 114,
     "HK": 5,
     "DE": 2,
     "JP": 1
@@ -12820,39 +12820,39 @@
    "topics": {},
    "sources": {
     "houseofsaud.com": 2,
-    "Arab News": 39,
-    "WSJ": 8,
+    "Arab News": 46,
+    "WSJ": 9,
     "UA.NEWS": 3,
     "Dawn": 1,
-    "Le Monde.fr": 7,
-    "France 24": 4,
-    "The New York Times": 10,
+    "Le Monde.fr": 9,
+    "France 24": 5,
+    "The New York Times": 12,
     "Al Jazeera": 1,
     "The Straits Times": 1,
     "Breakingthenews.net": 5,
     "Chosunbiz": 4,
-    "https://houseofsaud.com/": 5,
+    "https://houseofsaud.com/": 6,
     "Daily Sun": 1,
     "조선일보": 6,
-    "Anadolu Ajansı": 5,
+    "Anadolu Ajansı": 6,
     "Gulf News": 4,
     "Seoul Economic Daily": 1,
     "Middle East Eye": 5,
-    "The Guardian": 70,
+    "The Guardian": 77,
     "Kyabram Free Press": 1,
     "Telangana Today": 1,
     "The Korea Times": 1,
     "Malay Mail": 1,
     "The Canberra Times": 1,
     "Al-Monitor": 9,
-    "스타뉴스": 1,
-    "AP News": 4,
+    "스타뉴스": 2,
+    "AP News": 5,
     "NDTV": 3,
     "Apa.az": 1,
     "South China Morning Post": 5,
     "The National": 2,
-    "BBC": 4,
-    "Reuters": 22,
+    "BBC": 5,
+    "Reuters": 29,
     "The Washington Post": 2,
     "Bloomberg.com": 5,
     "Spiegel": 2,
@@ -12903,9 +12903,9 @@
     "sabahnews.net": 1,
     "Israel National News": 1,
     "ASHARQ AL-AWSAT English": 2,
-    "ANI News": 1,
+    "ANI News": 2,
     "IntelliNews": 1,
-    "Business Insider Africa": 1,
+    "Business Insider Africa": 2,
     "Kurdistan24": 1,
     "The Media Line": 1,
     "U.S. News & World Report": 1,
@@ -12928,7 +12928,10 @@
     "SaudiGulf Projects": 1,
     "Kashmir Life": 1,
     "The Irish Times": 1,
-    "Indiatimes": 1
+    "Indiatimes": 1,
+    "LiveScore": 1,
+    "Gulf Daily News (Bahrain)": 1,
+    "Demócrata": 1
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -12938,12 +12941,12 @@
     ],
     "Arab News": [
      0,
-     39,
+     46,
      0
     ],
     "WSJ": [
      0,
-     8,
+     9,
      0
     ],
     "UA.NEWS": [
@@ -12958,17 +12961,17 @@
     ],
     "Le Monde.fr": [
      0,
-     7,
+     9,
      0
     ],
     "France 24": [
      0,
-     4,
+     5,
      0
     ],
     "The New York Times": [
      0,
-     10,
+     12,
      0
     ],
     "Al Jazeera": [
@@ -12993,7 +12996,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     5,
+     6,
      0
     ],
     "Daily Sun": [
@@ -13008,7 +13011,7 @@
     ],
     "Anadolu Ajansı": [
      0,
-     5,
+     6,
      0
     ],
     "Gulf News": [
@@ -13028,7 +13031,7 @@
     ],
     "The Guardian": [
      0,
-     70,
+     77,
      0
     ],
     "Kyabram Free Press": [
@@ -13063,12 +13066,12 @@
     ],
     "스타뉴스": [
      0,
-     1,
+     2,
      0
     ],
     "AP News": [
      0,
-     4,
+     5,
      0
     ],
     "NDTV": [
@@ -13093,12 +13096,12 @@
     ],
     "BBC": [
      0,
-     4,
+     5,
      0
     ],
     "Reuters": [
      0,
-     22,
+     29,
      0
     ],
     "The Washington Post": [
@@ -13353,7 +13356,7 @@
     ],
     "ANI News": [
      0,
-     1,
+     2,
      0
     ],
     "IntelliNews": [
@@ -13363,7 +13366,7 @@
     ],
     "Business Insider Africa": [
      0,
-     1,
+     2,
      0
     ],
     "Kurdistan24": [
@@ -13477,6 +13480,21 @@
      0
     ],
     "Indiatimes": [
+     0,
+     1,
+     0
+    ],
+    "LiveScore": [
+     0,
+     1,
+     0
+    ],
+    "Gulf Daily News (Bahrain)": [
+     0,
+     1,
+     0
+    ],
+    "Demócrata": [
      0,
      1,
      0
