@@ -11455,15 +11455,15 @@
    }
   },
   "2026-11-13": {
-   "total": 614,
-   "news": 606,
+   "total": 615,
+   "news": 607,
    "articles": 8,
    "positive": 0,
-   "neutral": 614,
+   "neutral": 615,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 224,
+    "GB": 225,
     "US": 99,
     "SA": 79,
     "DE": 7,
@@ -11478,7 +11478,7 @@
     "Nation Thailand": 1,
     "Arab News": 77,
     "The Washington Post": 3,
-    "Reuters": 107,
+    "Reuters": 108,
     "Free Malaysia Today": 1,
     "The New Arab": 1,
     "The Guam Daily Post": 1,
@@ -11606,7 +11606,7 @@
     ],
     "Reuters": [
      0,
-     107,
+     108,
      0
     ],
     "Free Malaysia Today": [
@@ -12077,17 +12077,17 @@
    }
   },
   "2026-11-14": {
-   "total": 321,
-   "news": 321,
+   "total": 322,
+   "news": 322,
    "articles": 0,
    "positive": 0,
-   "neutral": 321,
+   "neutral": 322,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "US": 36,
     "SA": 59,
-    "GB": 67,
+    "GB": 68,
     "HK": 2,
     "FR": 2,
     "DE": 4
@@ -12097,7 +12097,7 @@
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
     "The New York Times": 8,
     "Arab News": 63,
-    "Reuters": 36,
+    "Reuters": 37,
     "Chosunbiz": 9,
     "Korea JoongAng Daily": 1,
     "Bioengineer.org": 2,
@@ -12228,7 +12228,7 @@
     ],
     "Reuters": [
      0,
-     36,
+     37,
      0
     ],
     "Chosunbiz": [
@@ -12789,16 +12789,16 @@
    }
   },
   "2026-11-15": {
-   "total": 34,
-   "news": 34,
+   "total": 36,
+   "news": 36,
    "articles": 0,
    "positive": 0,
-   "neutral": 34,
+   "neutral": 36,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "SA": 1,
-    "US": 3,
+    "US": 4,
     "FR": 2,
     "GB": 1
    },
@@ -12827,7 +12827,9 @@
     "Kyabram Free Press": 1,
     "Telangana Today": 1,
     "The Korea Times": 1,
-    "Malay Mail": 1
+    "Malay Mail": 1,
+    "The Canberra Times": 1,
+    "Al-Monitor": 1
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -12946,6 +12948,16 @@
      0
     ],
     "Malay Mail": [
+     0,
+     1,
+     0
+    ],
+    "The Canberra Times": [
+     0,
+     1,
+     0
+    ],
+    "Al-Monitor": [
      0,
      1,
      0
