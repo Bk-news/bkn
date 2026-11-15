@@ -11455,15 +11455,15 @@
    }
   },
   "2026-11-13": {
-   "total": 656,
-   "news": 648,
+   "total": 657,
+   "news": 649,
    "articles": 8,
    "positive": 0,
-   "neutral": 656,
+   "neutral": 657,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 258,
+    "GB": 259,
     "US": 103,
     "SA": 83,
     "DE": 7,
@@ -11488,7 +11488,7 @@
     "조선일보": 12,
     "https://houseofsaud.com/": 4,
     "Shipping Telegraph": 1,
-    "The Guardian": 65,
+    "The Guardian": 66,
     "Middle East Online": 4,
     "Spiegel": 7,
     "BBC": 18,
@@ -11656,7 +11656,7 @@
     ],
     "The Guardian": [
      0,
-     65,
+     66,
      0
     ],
     "Middle East Online": [
@@ -12801,18 +12801,18 @@
    }
   },
   "2026-11-15": {
-   "total": 303,
-   "news": 300,
+   "total": 304,
+   "news": 301,
    "articles": 3,
    "positive": 0,
-   "neutral": 303,
+   "neutral": 304,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 25,
     "US": 39,
     "FR": 11,
-    "GB": 76,
+    "GB": 77,
     "HK": 5,
     "DE": 2,
     "JP": 1
@@ -12852,7 +12852,7 @@
     "South China Morning Post": 5,
     "The National": 2,
     "BBC": 4,
-    "Reuters": 13,
+    "Reuters": 14,
     "The Washington Post": 2,
     "Bloomberg.com": 5,
     "Spiegel": 2,
@@ -13091,7 +13091,7 @@
     ],
     "Reuters": [
      0,
-     13,
+     14,
      0
     ],
     "The Washington Post": [
