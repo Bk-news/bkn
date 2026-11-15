@@ -12801,18 +12801,18 @@
    }
   },
   "2026-11-15": {
-   "total": 411,
-   "news": 408,
+   "total": 420,
+   "news": 417,
    "articles": 3,
    "positive": 0,
-   "neutral": 411,
+   "neutral": 420,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 38,
     "US": 44,
     "FR": 15,
-    "GB": 131,
+    "GB": 132,
     "HK": 5,
     "DE": 2,
     "JP": 1
@@ -12838,7 +12838,7 @@
     "Gulf News": 4,
     "Seoul Economic Daily": 1,
     "Middle East Eye": 5,
-    "The Guardian": 86,
+    "The Guardian": 87,
     "Kyabram Free Press": 1,
     "Telangana Today": 1,
     "The Korea Times": 1,
@@ -12934,7 +12934,15 @@
     "Demócrata": 1,
     "JNS.org": 1,
     "Мілітарний": 1,
-    "CarBuzz": 1
+    "CarBuzz": 1,
+    "roundtable.io": 1,
+    "صوت الإمارات": 1,
+    "Firstpost": 1,
+    "Mathrubhumi English": 1,
+    "People Daily": 1,
+    "Outlook India": 1,
+    "Livemint": 1,
+    "Türkiye Today": 1
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -13034,7 +13042,7 @@
     ],
     "The Guardian": [
      0,
-     86,
+     87,
      0
     ],
     "Kyabram Free Press": [
@@ -13513,6 +13521,46 @@
      0
     ],
     "CarBuzz": [
+     0,
+     1,
+     0
+    ],
+    "roundtable.io": [
+     0,
+     1,
+     0
+    ],
+    "صوت الإمارات": [
+     0,
+     1,
+     0
+    ],
+    "Firstpost": [
+     0,
+     1,
+     0
+    ],
+    "Mathrubhumi English": [
+     0,
+     1,
+     0
+    ],
+    "People Daily": [
+     0,
+     1,
+     0
+    ],
+    "Outlook India": [
+     0,
+     1,
+     0
+    ],
+    "Livemint": [
+     0,
+     1,
+     0
+    ],
+    "Türkiye Today": [
      0,
      1,
      0
