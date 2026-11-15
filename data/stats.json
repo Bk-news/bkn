@@ -12795,18 +12795,18 @@
    }
   },
   "2026-11-15": {
-   "total": 133,
-   "news": 133,
+   "total": 135,
+   "news": 135,
    "articles": 0,
    "positive": 0,
-   "neutral": 133,
+   "neutral": 135,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "SA": 5,
     "US": 21,
     "FR": 8,
-    "GB": 12,
+    "GB": 14,
     "HK": 3,
     "DE": 2
    },
@@ -12831,7 +12831,7 @@
     "Gulf News": 3,
     "Seoul Economic Daily": 1,
     "Middle East Eye": 3,
-    "The Guardian": 2,
+    "The Guardian": 3,
     "Kyabram Free Press": 1,
     "Telangana Today": 1,
     "The Korea Times": 1,
@@ -12845,7 +12845,7 @@
     "South China Morning Post": 3,
     "The National": 1,
     "BBC": 3,
-    "Reuters": 5,
+    "Reuters": 6,
     "The Washington Post": 2,
     "Bloomberg.com": 3,
     "Spiegel": 2,
@@ -12982,7 +12982,7 @@
     ],
     "The Guardian": [
      0,
-     2,
+     3,
      0
     ],
     "Kyabram Free Press": [
@@ -13052,7 +13052,7 @@
     ],
     "Reuters": [
      0,
-     5,
+     6,
      0
     ],
     "The Washington Post": [
