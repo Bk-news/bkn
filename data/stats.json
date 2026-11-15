@@ -12077,11 +12077,11 @@
    }
   },
   "2026-11-14": {
-   "total": 303,
-   "news": 303,
+   "total": 304,
+   "news": 304,
    "articles": 0,
    "positive": 0,
-   "neutral": 303,
+   "neutral": 304,
    "critical": 0,
    "mbs": 4,
    "countries": {
@@ -12205,7 +12205,8 @@
     "Flightradar24": 1,
     "France 24": 1,
     "The Insight International": 1,
-    "스타뉴스": 2
+    "스타뉴스": 2,
+    "EnergyNow": 1
    },
    "sourceTone": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
@@ -12766,6 +12767,11 @@
     "스타뉴스": [
      0,
      2,
+     0
+    ],
+    "EnergyNow": [
+     0,
+     1,
      0
     ]
    }
