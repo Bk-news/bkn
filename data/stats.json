@@ -11455,15 +11455,15 @@
    }
   },
   "2026-11-13": {
-   "total": 657,
-   "news": 649,
+   "total": 658,
+   "news": 650,
    "articles": 8,
    "positive": 0,
-   "neutral": 657,
+   "neutral": 658,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 259,
+    "GB": 260,
     "US": 103,
     "SA": 83,
     "DE": 7,
@@ -11488,7 +11488,7 @@
     "조선일보": 12,
     "https://houseofsaud.com/": 4,
     "Shipping Telegraph": 1,
-    "The Guardian": 66,
+    "The Guardian": 67,
     "Middle East Online": 4,
     "Spiegel": 7,
     "BBC": 18,
@@ -11656,7 +11656,7 @@
     ],
     "The Guardian": [
      0,
-     66,
+     67,
      0
     ],
     "Middle East Online": [
