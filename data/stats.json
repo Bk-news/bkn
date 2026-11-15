@@ -12077,17 +12077,17 @@
    }
   },
   "2026-11-14": {
-   "total": 418,
-   "news": 418,
+   "total": 421,
+   "news": 421,
    "articles": 0,
    "positive": 0,
-   "neutral": 418,
+   "neutral": 421,
    "critical": 0,
    "mbs": 5,
    "countries": {
     "US": 41,
     "SA": 70,
-    "GB": 143,
+    "GB": 146,
     "HK": 2,
     "FR": 2,
     "DE": 4
@@ -12115,7 +12115,7 @@
     "Le Monde.fr": 1,
     "Facebook": 1,
     "Bloomberg.com": 4,
-    "The Guardian": 61,
+    "The Guardian": 64,
     "BBC": 9,
     "Saudi Gazette": 9,
     "The National": 2,
@@ -12320,7 +12320,7 @@
     ],
     "The Guardian": [
      0,
-     61,
+     64,
      0
     ],
     "BBC": [
@@ -12801,18 +12801,18 @@
    }
   },
   "2026-11-15": {
-   "total": 307,
-   "news": 304,
+   "total": 309,
+   "news": 306,
    "articles": 3,
    "positive": 0,
-   "neutral": 307,
+   "neutral": 309,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 25,
     "US": 40,
     "FR": 11,
-    "GB": 79,
+    "GB": 80,
     "HK": 5,
     "DE": 2,
     "JP": 1
@@ -12838,7 +12838,7 @@
     "Gulf News": 4,
     "Seoul Economic Daily": 1,
     "Middle East Eye": 4,
-    "The Guardian": 57,
+    "The Guardian": 58,
     "Kyabram Free Press": 1,
     "Telangana Today": 1,
     "The Korea Times": 1,
@@ -12922,7 +12922,8 @@
     "Investing.com UK": 1,
     "Finimize": 1,
     "ABNA English": 1,
-    "CNN Arabic": 1
+    "CNN Arabic": 1,
+    "Tehran Times": 1
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -13022,7 +13023,7 @@
     ],
     "The Guardian": [
      0,
-     57,
+     58,
      0
     ],
     "Kyabram Free Press": [
@@ -13441,6 +13442,11 @@
      0
     ],
     "CNN Arabic": [
+     0,
+     1,
+     0
+    ],
+    "Tehran Times": [
      0,
      1,
      0
