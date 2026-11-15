@@ -12801,18 +12801,18 @@
    }
   },
   "2026-11-15": {
-   "total": 410,
-   "news": 407,
+   "total": 411,
+   "news": 408,
    "articles": 3,
    "positive": 0,
-   "neutral": 410,
+   "neutral": 411,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 38,
     "US": 44,
     "FR": 15,
-    "GB": 130,
+    "GB": 131,
     "HK": 5,
     "DE": 2,
     "JP": 1
@@ -12852,7 +12852,7 @@
     "South China Morning Post": 5,
     "The National": 2,
     "BBC": 5,
-    "Reuters": 36,
+    "Reuters": 37,
     "The Washington Post": 2,
     "Bloomberg.com": 5,
     "Spiegel": 2,
@@ -13104,7 +13104,7 @@
     ],
     "Reuters": [
      0,
-     36,
+     37,
      0
     ],
     "The Washington Post": [
