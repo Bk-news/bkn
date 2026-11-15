@@ -12077,11 +12077,11 @@
    }
   },
   "2026-11-14": {
-   "total": 317,
-   "news": 317,
+   "total": 318,
+   "news": 318,
    "articles": 0,
    "positive": 0,
-   "neutral": 317,
+   "neutral": 318,
    "critical": 0,
    "mbs": 4,
    "countries": {
@@ -12207,7 +12207,8 @@
     "The Insight International": 1,
     "스타뉴스": 2,
     "EnergyNow": 2,
-    "CGTN": 1
+    "CGTN": 1,
+    "Iran International": 1
    },
    "sourceTone": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
@@ -12776,6 +12777,11 @@
      0
     ],
     "CGTN": [
+     0,
+     1,
+     0
+    ],
+    "Iran International": [
      0,
      1,
      0
