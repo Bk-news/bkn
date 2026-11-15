@@ -11455,17 +11455,17 @@
    }
   },
   "2026-11-13": {
-   "total": 641,
-   "news": 633,
+   "total": 643,
+   "news": 635,
    "articles": 8,
    "positive": 0,
-   "neutral": 641,
+   "neutral": 643,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "GB": 246,
     "US": 102,
-    "SA": 81,
+    "SA": 83,
     "DE": 7,
     "JP": 2,
     "FR": 8
@@ -11476,7 +11476,7 @@
     "WSJ": 18,
     "The New York Times": 21,
     "Nation Thailand": 1,
-    "Arab News": 79,
+    "Arab News": 81,
     "The Washington Post": 3,
     "Reuters": 125,
     "Free Malaysia Today": 1,
@@ -11596,7 +11596,7 @@
     ],
     "Arab News": [
      0,
-     79,
+     81,
      0
     ],
     "The Washington Post": [
@@ -12077,16 +12077,16 @@
    }
   },
   "2026-11-14": {
-   "total": 364,
-   "news": 364,
+   "total": 366,
+   "news": 366,
    "articles": 0,
    "positive": 0,
-   "neutral": 364,
+   "neutral": 366,
    "critical": 0,
    "mbs": 5,
    "countries": {
     "US": 41,
-    "SA": 68,
+    "SA": 70,
     "GB": 91,
     "HK": 2,
     "FR": 2,
@@ -12096,7 +12096,7 @@
    "sources": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
     "The New York Times": 10,
-    "Arab News": 71,
+    "Arab News": 73,
     "Reuters": 55,
     "Chosunbiz": 9,
     "Korea JoongAng Daily": 1,
@@ -12225,7 +12225,7 @@
     ],
     "Arab News": [
      0,
-     71,
+     73,
      0
     ],
     "Reuters": [
@@ -12801,18 +12801,18 @@
    }
   },
   "2026-11-15": {
-   "total": 223,
-   "news": 221,
+   "total": 259,
+   "news": 257,
    "articles": 2,
    "positive": 0,
-   "neutral": 223,
+   "neutral": 259,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 25,
-    "US": 38,
+    "US": 39,
     "FR": 11,
-    "GB": 35,
+    "GB": 52,
     "HK": 5,
     "DE": 2,
     "JP": 1
@@ -12820,25 +12820,25 @@
    "topics": {},
    "sources": {
     "houseofsaud.com": 2,
-    "Arab News": 26,
-    "WSJ": 7,
+    "Arab News": 29,
+    "WSJ": 8,
     "UA.NEWS": 3,
     "Dawn": 1,
     "Le Monde.fr": 7,
     "France 24": 4,
-    "The New York Times": 9,
+    "The New York Times": 10,
     "Al Jazeera": 1,
     "The Straits Times": 1,
     "Breakingthenews.net": 4,
-    "Chosunbiz": 3,
-    "https://houseofsaud.com/": 3,
+    "Chosunbiz": 4,
+    "https://houseofsaud.com/": 5,
     "Daily Sun": 1,
     "조선일보": 6,
-    "Anadolu Ajansı": 4,
+    "Anadolu Ajansı": 5,
     "Gulf News": 3,
     "Seoul Economic Daily": 1,
     "Middle East Eye": 3,
-    "The Guardian": 16,
+    "The Guardian": 33,
     "Kyabram Free Press": 1,
     "Telangana Today": 1,
     "The Korea Times": 1,
@@ -12902,12 +12902,20 @@
     "Atlantic Council": 1,
     "sabahnews.net": 1,
     "Israel National News": 1,
-    "ASHARQ AL-AWSAT English": 1,
+    "ASHARQ AL-AWSAT English": 2,
     "ANI News": 1,
     "IntelliNews": 1,
     "Business Insider Africa": 1,
     "Kurdistan24": 1,
-    "The Media Line": 1
+    "The Media Line": 1,
+    "U.S. News & World Report": 1,
+    "Egypt Oil & Gas": 1,
+    "PNI Atlantic News": 1,
+    "Yemen Online": 1,
+    "Zawya": 1,
+    "Yahoo": 1,
+    "Crypto Briefing": 2,
+    "Israel Defense": 1
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -12917,12 +12925,12 @@
     ],
     "Arab News": [
      0,
-     26,
+     29,
      0
     ],
     "WSJ": [
      0,
-     7,
+     8,
      0
     ],
     "UA.NEWS": [
@@ -12947,7 +12955,7 @@
     ],
     "The New York Times": [
      0,
-     9,
+     10,
      0
     ],
     "Al Jazeera": [
@@ -12967,12 +12975,12 @@
     ],
     "Chosunbiz": [
      0,
-     3,
+     4,
      0
     ],
     "https://houseofsaud.com/": [
      0,
-     3,
+     5,
      0
     ],
     "Daily Sun": [
@@ -12987,7 +12995,7 @@
     ],
     "Anadolu Ajansı": [
      0,
-     4,
+     5,
      0
     ],
     "Gulf News": [
@@ -13007,7 +13015,7 @@
     ],
     "The Guardian": [
      0,
-     16,
+     33,
      0
     ],
     "Kyabram Free Press": [
@@ -13327,7 +13335,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     1,
+     2,
      0
     ],
     "ANI News": [
@@ -13351,6 +13359,46 @@
      0
     ],
     "The Media Line": [
+     0,
+     1,
+     0
+    ],
+    "U.S. News & World Report": [
+     0,
+     1,
+     0
+    ],
+    "Egypt Oil & Gas": [
+     0,
+     1,
+     0
+    ],
+    "PNI Atlantic News": [
+     0,
+     1,
+     0
+    ],
+    "Yemen Online": [
+     0,
+     1,
+     0
+    ],
+    "Zawya": [
+     0,
+     1,
+     0
+    ],
+    "Yahoo": [
+     0,
+     1,
+     0
+    ],
+    "Crypto Briefing": [
+     0,
+     2,
+     0
+    ],
+    "Israel Defense": [
      0,
      1,
      0
