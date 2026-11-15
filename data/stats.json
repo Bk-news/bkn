@@ -12789,11 +12789,11 @@
    }
   },
   "2026-11-15": {
-   "total": 33,
-   "news": 33,
+   "total": 34,
+   "news": 34,
    "articles": 0,
    "positive": 0,
-   "neutral": 33,
+   "neutral": 34,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -12826,7 +12826,8 @@
     "The Guardian": 1,
     "Kyabram Free Press": 1,
     "Telangana Today": 1,
-    "The Korea Times": 1
+    "The Korea Times": 1,
+    "Malay Mail": 1
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -12940,6 +12941,11 @@
      0
     ],
     "The Korea Times": [
+     0,
+     1,
+     0
+    ],
+    "Malay Mail": [
      0,
      1,
      0
