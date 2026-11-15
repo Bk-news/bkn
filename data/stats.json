@@ -12077,15 +12077,15 @@
    }
   },
   "2026-11-14": {
-   "total": 424,
-   "news": 424,
+   "total": 425,
+   "news": 425,
    "articles": 0,
    "positive": 0,
-   "neutral": 424,
+   "neutral": 425,
    "critical": 0,
    "mbs": 5,
    "countries": {
-    "US": 42,
+    "US": 43,
     "SA": 70,
     "GB": 148,
     "HK": 2,
@@ -12109,7 +12109,7 @@
     "Al-Monitor": 13,
     "WSJ": 7,
     "The AFC": 3,
-    "AP News": 5,
+    "AP News": 6,
     "South China Morning Post": 2,
     "Financial Times": 16,
     "Le Monde.fr": 1,
@@ -12290,7 +12290,7 @@
     ],
     "AP News": [
      0,
-     5,
+     6,
      0
     ],
     "South China Morning Post": [
@@ -12801,11 +12801,11 @@
    }
   },
   "2026-11-15": {
-   "total": 331,
-   "news": 328,
+   "total": 333,
+   "news": 330,
    "articles": 3,
    "positive": 0,
-   "neutral": 331,
+   "neutral": 333,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -12866,8 +12866,8 @@
     "Khaleej Times": 1,
     "Mehr News Agency": 1,
     "Saudi Gazette": 8,
-    "IndexBox": 2,
-    "Travel & Tourism News Middle East": 1,
+    "IndexBox": 3,
+    "Travel & Tourism News Middle East": 2,
     "Yonhap News Agency": 1,
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1,
     "The New Region": 1,
@@ -13168,12 +13168,12 @@
     ],
     "IndexBox": [
      0,
-     2,
+     3,
      0
     ],
     "Travel & Tourism News Middle East": [
      0,
-     1,
+     2,
      0
     ],
     "Yonhap News Agency": [
