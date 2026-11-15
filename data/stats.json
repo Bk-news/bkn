@@ -11455,15 +11455,15 @@
    }
   },
   "2026-11-13": {
-   "total": 633,
-   "news": 625,
+   "total": 634,
+   "news": 626,
    "articles": 8,
    "positive": 0,
-   "neutral": 633,
+   "neutral": 634,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 242,
+    "GB": 243,
     "US": 100,
     "SA": 79,
     "DE": 7,
@@ -11478,7 +11478,7 @@
     "Nation Thailand": 1,
     "Arab News": 77,
     "The Washington Post": 3,
-    "Reuters": 122,
+    "Reuters": 123,
     "Free Malaysia Today": 1,
     "The New Arab": 1,
     "The Guam Daily Post": 1,
@@ -11606,7 +11606,7 @@
     ],
     "Reuters": [
      0,
-     122,
+     123,
      0
     ],
     "Free Malaysia Today": [
@@ -12077,11 +12077,11 @@
    }
   },
   "2026-11-14": {
-   "total": 346,
-   "news": 346,
+   "total": 349,
+   "news": 349,
    "articles": 0,
    "positive": 0,
-   "neutral": 346,
+   "neutral": 349,
    "critical": 0,
    "mbs": 4,
    "countries": {
@@ -12209,7 +12209,7 @@
     "EnergyNow": 2,
     "CGTN": 1,
     "Iran International": 1,
-    "EnterpriseAM": 1
+    "EnterpriseAM": 4
    },
    "sourceTone": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
@@ -12789,24 +12789,24 @@
     ],
     "EnterpriseAM": [
      0,
-     1,
+     4,
      0
     ]
    }
   },
   "2026-11-15": {
-   "total": 132,
-   "news": 132,
+   "total": 133,
+   "news": 133,
    "articles": 0,
    "positive": 0,
-   "neutral": 132,
+   "neutral": 133,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "SA": 5,
     "US": 21,
     "FR": 8,
-    "GB": 11,
+    "GB": 12,
     "HK": 3,
     "DE": 2
    },
@@ -12844,7 +12844,7 @@
     "Apa.az": 1,
     "South China Morning Post": 3,
     "The National": 1,
-    "BBC": 2,
+    "BBC": 3,
     "Reuters": 5,
     "The Washington Post": 2,
     "Bloomberg.com": 3,
@@ -13047,7 +13047,7 @@
     ],
     "BBC": [
      0,
-     2,
+     3,
      0
     ],
     "Reuters": [

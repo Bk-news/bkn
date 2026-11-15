@@ -7436,6 +7436,27 @@
    "mt": true
   },
   {
+   "id": "4fb3dba0c180d6e9",
+   "origin": "rss",
+   "source": "Reuters",
+   "author": "",
+   "title_ar": "أخبار سوريا | أحدث القصص اليوم",
+   "title_orig": "Syria News | Today's Latest Stories",
+   "title_en": "Syria News | Today's Latest Stories",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBQSm1oSk5mbjFFZVFVcWM5eDAwYjZtc25oN3JjaGhfQ25GaHNPQmk2dGYwTG0xNmt0ekJKc01WS1YtRkEtU2lhb0hzamY?oc=5",
+   "published": "2026-11-13T13:27:43.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "Syria News | Today's Latest Stories &nbsp;&nbsp; Reuters",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "356c137eaaf3d078",
    "origin": "rss",
    "source": "Reuters",
