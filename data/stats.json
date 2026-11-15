@@ -11455,15 +11455,15 @@
    }
   },
   "2026-11-13": {
-   "total": 610,
-   "news": 602,
+   "total": 611,
+   "news": 603,
    "articles": 8,
    "positive": 0,
-   "neutral": 610,
+   "neutral": 611,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 220,
+    "GB": 221,
     "US": 99,
     "SA": 79,
     "DE": 7,
@@ -11478,7 +11478,7 @@
     "Nation Thailand": 1,
     "Arab News": 77,
     "The Washington Post": 3,
-    "Reuters": 103,
+    "Reuters": 104,
     "Free Malaysia Today": 1,
     "The New Arab": 1,
     "The Guam Daily Post": 1,
@@ -11606,7 +11606,7 @@
     ],
     "Reuters": [
      0,
-     103,
+     104,
      0
     ],
     "Free Malaysia Today": [
@@ -12789,11 +12789,11 @@
    }
   },
   "2026-11-15": {
-   "total": 32,
-   "news": 32,
+   "total": 33,
+   "news": 33,
    "articles": 0,
    "positive": 0,
-   "neutral": 32,
+   "neutral": 33,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -12825,7 +12825,8 @@
     "Middle East Eye": 2,
     "The Guardian": 1,
     "Kyabram Free Press": 1,
-    "Telangana Today": 1
+    "Telangana Today": 1,
+    "The Korea Times": 1
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -12934,6 +12935,11 @@
      0
     ],
     "Telangana Today": [
+     0,
+     1,
+     0
+    ],
+    "The Korea Times": [
      0,
      1,
      0
