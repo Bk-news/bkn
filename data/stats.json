@@ -12801,18 +12801,18 @@
    }
   },
   "2026-11-15": {
-   "total": 305,
-   "news": 302,
+   "total": 307,
+   "news": 304,
    "articles": 3,
    "positive": 0,
-   "neutral": 305,
+   "neutral": 307,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 25,
-    "US": 39,
+    "US": 40,
     "FR": 11,
-    "GB": 78,
+    "GB": 79,
     "HK": 5,
     "DE": 2,
     "JP": 1
@@ -12852,7 +12852,7 @@
     "South China Morning Post": 5,
     "The National": 2,
     "BBC": 4,
-    "Reuters": 14,
+    "Reuters": 15,
     "The Washington Post": 2,
     "Bloomberg.com": 5,
     "Spiegel": 2,
@@ -12921,7 +12921,8 @@
     "Investing.com India": 1,
     "Investing.com UK": 1,
     "Finimize": 1,
-    "ABNA English": 1
+    "ABNA English": 1,
+    "CNN Arabic": 1
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -13091,7 +13092,7 @@
     ],
     "Reuters": [
      0,
-     14,
+     15,
      0
     ],
     "The Washington Post": [
@@ -13435,6 +13436,11 @@
      0
     ],
     "ABNA English": [
+     0,
+     1,
+     0
+    ],
+    "CNN Arabic": [
      0,
      1,
      0
