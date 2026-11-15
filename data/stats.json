@@ -12789,17 +12789,17 @@
    }
   },
   "2026-11-15": {
-   "total": 43,
-   "news": 43,
+   "total": 44,
+   "news": 44,
    "articles": 0,
    "positive": 0,
-   "neutral": 43,
+   "neutral": 44,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "SA": 1,
     "US": 5,
-    "FR": 2,
+    "FR": 3,
     "GB": 1,
     "HK": 1
    },
@@ -12811,7 +12811,7 @@
     "UA.NEWS": 2,
     "Dawn": 1,
     "Le Monde.fr": 1,
-    "France 24": 1,
+    "France 24": 2,
     "The New York Times": 1,
     "Al Jazeera": 1,
     "The Straits Times": 1,
@@ -12870,7 +12870,7 @@
     ],
     "France 24": [
      0,
-     1,
+     2,
      0
     ],
     "The New York Times": [
