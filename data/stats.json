@@ -12795,11 +12795,11 @@
    }
   },
   "2026-11-15": {
-   "total": 141,
-   "news": 141,
+   "total": 142,
+   "news": 142,
    "articles": 0,
    "positive": 0,
-   "neutral": 141,
+   "neutral": 142,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -12851,7 +12851,7 @@
     "Spiegel": 2,
     "Hum News English": 1,
     "Financial Times": 2,
-    "Arab News PK": 2,
+    "Arab News PK": 3,
     "Forbes Middle East": 1,
     "Kenyans.co.ke": 1,
     "Haberler.com": 1,
@@ -13084,7 +13084,7 @@
     ],
     "Arab News PK": [
      0,
-     2,
+     3,
      0
     ],
     "Forbes Middle East": [
