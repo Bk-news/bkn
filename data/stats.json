@@ -12077,17 +12077,17 @@
    }
   },
   "2026-11-14": {
-   "total": 322,
-   "news": 322,
+   "total": 323,
+   "news": 323,
    "articles": 0,
    "positive": 0,
-   "neutral": 322,
+   "neutral": 323,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "US": 36,
     "SA": 59,
-    "GB": 68,
+    "GB": 69,
     "HK": 2,
     "FR": 2,
     "DE": 4
@@ -12097,7 +12097,7 @@
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
     "The New York Times": 8,
     "Arab News": 63,
-    "Reuters": 37,
+    "Reuters": 38,
     "Chosunbiz": 9,
     "Korea JoongAng Daily": 1,
     "Bioengineer.org": 2,
@@ -12228,7 +12228,7 @@
     ],
     "Reuters": [
      0,
-     37,
+     38,
      0
     ],
     "Chosunbiz": [
@@ -12789,11 +12789,11 @@
    }
   },
   "2026-11-15": {
-   "total": 36,
-   "news": 36,
+   "total": 38,
+   "news": 38,
    "articles": 0,
    "positive": 0,
-   "neutral": 36,
+   "neutral": 38,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -12805,7 +12805,7 @@
    "topics": {},
    "sources": {
     "houseofsaud.com": 1,
-    "Arab News": 3,
+    "Arab News": 4,
     "WSJ": 2,
     "UA.NEWS": 2,
     "Dawn": 1,
@@ -12829,7 +12829,8 @@
     "The Korea Times": 1,
     "Malay Mail": 1,
     "The Canberra Times": 1,
-    "Al-Monitor": 1
+    "Al-Monitor": 1,
+    "스타뉴스": 1
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -12839,7 +12840,7 @@
     ],
     "Arab News": [
      0,
-     3,
+     4,
      0
     ],
     "WSJ": [
@@ -12958,6 +12959,11 @@
      0
     ],
     "Al-Monitor": [
+     0,
+     1,
+     0
+    ],
+    "스타뉴스": [
      0,
      1,
      0
