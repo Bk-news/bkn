@@ -12077,16 +12077,16 @@
    }
   },
   "2026-11-14": {
-   "total": 350,
-   "news": 350,
+   "total": 351,
+   "news": 351,
    "articles": 0,
    "positive": 0,
-   "neutral": 350,
+   "neutral": 351,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "US": 39,
-    "SA": 63,
+    "SA": 64,
     "GB": 85,
     "HK": 2,
     "FR": 2,
@@ -12117,7 +12117,7 @@
     "Bloomberg.com": 4,
     "The Guardian": 11,
     "BBC": 9,
-    "Saudi Gazette": 8,
+    "Saudi Gazette": 9,
     "The National": 2,
     "The Arab Weekly": 1,
     "Middle East Online": 1,
@@ -12329,7 +12329,7 @@
     ],
     "Saudi Gazette": [
      0,
-     8,
+     9,
      0
     ],
     "The National": [
@@ -12795,16 +12795,16 @@
    }
   },
   "2026-11-15": {
-   "total": 138,
-   "news": 138,
+   "total": 141,
+   "news": 141,
    "articles": 0,
    "positive": 0,
-   "neutral": 138,
+   "neutral": 141,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "SA": 5,
-    "US": 22,
+    "US": 23,
     "FR": 9,
     "GB": 14,
     "HK": 3,
@@ -12819,7 +12819,7 @@
     "Dawn": 1,
     "Le Monde.fr": 6,
     "France 24": 3,
-    "The New York Times": 5,
+    "The New York Times": 6,
     "Al Jazeera": 1,
     "The Straits Times": 1,
     "Breakingthenews.net": 4,
@@ -12882,7 +12882,9 @@
     "BusinessToday Malaysia": 1,
     "Inquirer.net": 1,
     "Gulf Today": 1,
-    "i24NEWS": 1
+    "i24NEWS": 1,
+    "The Avenue Mail": 1,
+    "Premium Times Nigeria": 1
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -12922,7 +12924,7 @@
     ],
     "The New York Times": [
      0,
-     5,
+     6,
      0
     ],
     "Al Jazeera": [
@@ -13236,6 +13238,16 @@
      0
     ],
     "i24NEWS": [
+     0,
+     1,
+     0
+    ],
+    "The Avenue Mail": [
+     0,
+     1,
+     0
+    ],
+    "Premium Times Nigeria": [
      0,
      1,
      0
