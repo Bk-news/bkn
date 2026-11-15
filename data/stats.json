@@ -12077,17 +12077,17 @@
    }
   },
   "2026-11-14": {
-   "total": 408,
-   "news": 408,
+   "total": 412,
+   "news": 412,
    "articles": 0,
    "positive": 0,
-   "neutral": 408,
+   "neutral": 412,
    "critical": 0,
    "mbs": 5,
    "countries": {
     "US": 41,
     "SA": 70,
-    "GB": 133,
+    "GB": 137,
     "HK": 2,
     "FR": 2,
     "DE": 4
@@ -12097,7 +12097,7 @@
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
     "The New York Times": 10,
     "Arab News": 73,
-    "Reuters": 56,
+    "Reuters": 57,
     "Chosunbiz": 9,
     "Korea JoongAng Daily": 1,
     "Bioengineer.org": 2,
@@ -12115,7 +12115,7 @@
     "Le Monde.fr": 1,
     "Facebook": 1,
     "Bloomberg.com": 4,
-    "The Guardian": 52,
+    "The Guardian": 55,
     "BBC": 9,
     "Saudi Gazette": 9,
     "The National": 2,
@@ -12230,7 +12230,7 @@
     ],
     "Reuters": [
      0,
-     56,
+     57,
      0
     ],
     "Chosunbiz": [
@@ -12320,7 +12320,7 @@
     ],
     "The Guardian": [
      0,
-     52,
+     55,
      0
     ],
     "BBC": [
@@ -12801,18 +12801,18 @@
    }
   },
   "2026-11-15": {
-   "total": 293,
-   "news": 290,
+   "total": 299,
+   "news": 296,
    "articles": 3,
    "positive": 0,
-   "neutral": 293,
+   "neutral": 299,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 25,
     "US": 39,
     "FR": 11,
-    "GB": 66,
+    "GB": 72,
     "HK": 5,
     "DE": 2,
     "JP": 1
@@ -12838,7 +12838,7 @@
     "Gulf News": 4,
     "Seoul Economic Daily": 1,
     "Middle East Eye": 4,
-    "The Guardian": 46,
+    "The Guardian": 52,
     "Kyabram Free Press": 1,
     "Telangana Today": 1,
     "The Korea Times": 1,
@@ -13021,7 +13021,7 @@
     ],
     "The Guardian": [
      0,
-     46,
+     52,
      0
     ],
     "Kyabram Free Press": [
