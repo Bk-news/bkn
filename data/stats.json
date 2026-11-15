@@ -12775,6 +12775,27 @@
      0
     ]
    }
+  },
+  "2026-11-15": {
+   "total": 1,
+   "news": 1,
+   "articles": 0,
+   "positive": 0,
+   "neutral": 1,
+   "critical": 0,
+   "mbs": 0,
+   "countries": {},
+   "topics": {},
+   "sources": {
+    "houseofsaud.com": 1
+   },
+   "sourceTone": {
+    "houseofsaud.com": [
+     0,
+     1,
+     0
+    ]
+   }
   }
  }
 }
