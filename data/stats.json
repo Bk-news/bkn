@@ -12077,17 +12077,17 @@
    }
   },
   "2026-11-14": {
-   "total": 407,
-   "news": 407,
+   "total": 408,
+   "news": 408,
    "articles": 0,
    "positive": 0,
-   "neutral": 407,
+   "neutral": 408,
    "critical": 0,
    "mbs": 5,
    "countries": {
     "US": 41,
     "SA": 70,
-    "GB": 132,
+    "GB": 133,
     "HK": 2,
     "FR": 2,
     "DE": 4
@@ -12097,7 +12097,7 @@
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
     "The New York Times": 10,
     "Arab News": 73,
-    "Reuters": 55,
+    "Reuters": 56,
     "Chosunbiz": 9,
     "Korea JoongAng Daily": 1,
     "Bioengineer.org": 2,
@@ -12230,7 +12230,7 @@
     ],
     "Reuters": [
      0,
-     55,
+     56,
      0
     ],
     "Chosunbiz": [
@@ -12801,11 +12801,11 @@
    }
   },
   "2026-11-15": {
-   "total": 292,
-   "news": 289,
+   "total": 293,
+   "news": 290,
    "articles": 3,
    "positive": 0,
-   "neutral": 292,
+   "neutral": 293,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -12835,7 +12835,7 @@
     "Daily Sun": 1,
     "조선일보": 6,
     "Anadolu Ajansı": 5,
-    "Gulf News": 3,
+    "Gulf News": 4,
     "Seoul Economic Daily": 1,
     "Middle East Eye": 4,
     "The Guardian": 46,
@@ -13006,7 +13006,7 @@
     ],
     "Gulf News": [
      0,
-     3,
+     4,
      0
     ],
     "Seoul Economic Daily": [
