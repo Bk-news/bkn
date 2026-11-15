@@ -12795,15 +12795,15 @@
    }
   },
   "2026-11-15": {
-   "total": 149,
-   "news": 149,
+   "total": 150,
+   "news": 150,
    "articles": 0,
    "positive": 0,
-   "neutral": 149,
+   "neutral": 150,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "SA": 7,
+    "SA": 8,
     "US": 24,
     "FR": 9,
     "GB": 15,
@@ -12858,7 +12858,7 @@
     "News of Bahrain": 1,
     "Khaleej Times": 1,
     "Mehr News Agency": 1,
-    "Saudi Gazette": 1,
+    "Saudi Gazette": 2,
     "IndexBox": 2,
     "Travel & Tourism News Middle East": 1,
     "Yonhap News Agency": 1,
@@ -13121,7 +13121,7 @@
     ],
     "Saudi Gazette": [
      0,
-     1,
+     2,
      0
     ],
     "IndexBox": [
