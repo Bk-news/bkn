@@ -12801,11 +12801,11 @@
    }
   },
   "2026-11-15": {
-   "total": 328,
-   "news": 325,
+   "total": 329,
+   "news": 326,
    "articles": 3,
    "positive": 0,
-   "neutral": 328,
+   "neutral": 329,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -12927,7 +12927,8 @@
     "صحيفة مال": 1,
     "SaudiGulf Projects": 1,
     "Kashmir Life": 1,
-    "The Irish Times": 1
+    "The Irish Times": 1,
+    "Indiatimes": 1
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -13471,6 +13472,11 @@
      0
     ],
     "The Irish Times": [
+     0,
+     1,
+     0
+    ],
+    "Indiatimes": [
      0,
      1,
      0
