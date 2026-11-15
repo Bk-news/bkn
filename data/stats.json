@@ -11455,15 +11455,15 @@
    }
   },
   "2026-11-13": {
-   "total": 624,
-   "news": 616,
+   "total": 633,
+   "news": 625,
    "articles": 8,
    "positive": 0,
-   "neutral": 624,
+   "neutral": 633,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 233,
+    "GB": 242,
     "US": 100,
     "SA": 79,
     "DE": 7,
@@ -11478,7 +11478,7 @@
     "Nation Thailand": 1,
     "Arab News": 77,
     "The Washington Post": 3,
-    "Reuters": 113,
+    "Reuters": 122,
     "Free Malaysia Today": 1,
     "The New Arab": 1,
     "The Guam Daily Post": 1,
@@ -11606,7 +11606,7 @@
     ],
     "Reuters": [
      0,
-     113,
+     122,
      0
     ],
     "Free Malaysia Today": [
@@ -12077,11 +12077,11 @@
    }
   },
   "2026-11-14": {
-   "total": 345,
-   "news": 345,
+   "total": 346,
+   "news": 346,
    "articles": 0,
    "positive": 0,
-   "neutral": 345,
+   "neutral": 346,
    "critical": 0,
    "mbs": 4,
    "countries": {
@@ -12208,7 +12208,8 @@
     "스타뉴스": 2,
     "EnergyNow": 2,
     "CGTN": 1,
-    "Iran International": 1
+    "Iran International": 1,
+    "EnterpriseAM": 1
    },
    "sourceTone": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
@@ -12785,15 +12786,20 @@
      0,
      1,
      0
+    ],
+    "EnterpriseAM": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-15": {
-   "total": 102,
-   "news": 102,
+   "total": 132,
+   "news": 132,
    "articles": 0,
    "positive": 0,
-   "neutral": 102,
+   "neutral": 132,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -12807,7 +12813,7 @@
    "topics": {},
    "sources": {
     "houseofsaud.com": 1,
-    "Arab News": 10,
+    "Arab News": 11,
     "WSJ": 5,
     "UA.NEWS": 2,
     "Dawn": 1,
@@ -12818,11 +12824,11 @@
     "The Straits Times": 1,
     "Breakingthenews.net": 4,
     "Chosunbiz": 2,
-    "https://houseofsaud.com/": 2,
+    "https://houseofsaud.com/": 3,
     "Daily Sun": 1,
-    "조선일보": 3,
+    "조선일보": 5,
     "Anadolu Ajansı": 3,
-    "Gulf News": 1,
+    "Gulf News": 3,
     "Seoul Economic Daily": 1,
     "Middle East Eye": 3,
     "The Guardian": 2,
@@ -12834,7 +12840,7 @@
     "Al-Monitor": 5,
     "스타뉴스": 1,
     "AP News": 1,
-    "NDTV": 1,
+    "NDTV": 3,
     "Apa.az": 1,
     "South China Morning Post": 3,
     "The National": 1,
@@ -12854,7 +12860,29 @@
     "Mehr News Agency": 1,
     "Saudi Gazette": 1,
     "IndexBox": 1,
-    "Travel & Tourism News Middle East": 1
+    "Travel & Tourism News Middle East": 1,
+    "Yonhap News Agency": 1,
+    "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1,
+    "The New Region": 1,
+    "The Kenyan Diaspora Media": 1,
+    "Ynetnews": 1,
+    "Middle East Online": 1,
+    "سانا": 1,
+    "New Age BD": 1,
+    "جريدة القدس": 1,
+    "Nation Thailand": 1,
+    "Al Arabiya English": 1,
+    "Khaama Press": 1,
+    "TradingView": 1,
+    "UkrMedia News": 1,
+    "الحرة": 1,
+    "Gulf Business": 1,
+    "Informed Comment": 1,
+    "Telegraph India": 1,
+    "BusinessToday Malaysia": 1,
+    "Inquirer.net": 1,
+    "Gulf Today": 1,
+    "i24NEWS": 1
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -12864,7 +12892,7 @@
     ],
     "Arab News": [
      0,
-     10,
+     11,
      0
     ],
     "WSJ": [
@@ -12919,7 +12947,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     2,
+     3,
      0
     ],
     "Daily Sun": [
@@ -12929,7 +12957,7 @@
     ],
     "조선일보": [
      0,
-     3,
+     5,
      0
     ],
     "Anadolu Ajansı": [
@@ -12939,7 +12967,7 @@
     ],
     "Gulf News": [
      0,
-     1,
+     3,
      0
     ],
     "Seoul Economic Daily": [
@@ -12999,7 +13027,7 @@
     ],
     "NDTV": [
      0,
-     1,
+     3,
      0
     ],
     "Apa.az": [
@@ -13098,6 +13126,116 @@
      0
     ],
     "Travel & Tourism News Middle East": [
+     0,
+     1,
+     0
+    ],
+    "Yonhap News Agency": [
+     0,
+     1,
+     0
+    ],
+    "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": [
+     0,
+     1,
+     0
+    ],
+    "The New Region": [
+     0,
+     1,
+     0
+    ],
+    "The Kenyan Diaspora Media": [
+     0,
+     1,
+     0
+    ],
+    "Ynetnews": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Online": [
+     0,
+     1,
+     0
+    ],
+    "سانا": [
+     0,
+     1,
+     0
+    ],
+    "New Age BD": [
+     0,
+     1,
+     0
+    ],
+    "جريدة القدس": [
+     0,
+     1,
+     0
+    ],
+    "Nation Thailand": [
+     0,
+     1,
+     0
+    ],
+    "Al Arabiya English": [
+     0,
+     1,
+     0
+    ],
+    "Khaama Press": [
+     0,
+     1,
+     0
+    ],
+    "TradingView": [
+     0,
+     1,
+     0
+    ],
+    "UkrMedia News": [
+     0,
+     1,
+     0
+    ],
+    "الحرة": [
+     0,
+     1,
+     0
+    ],
+    "Gulf Business": [
+     0,
+     1,
+     0
+    ],
+    "Informed Comment": [
+     0,
+     1,
+     0
+    ],
+    "Telegraph India": [
+     0,
+     1,
+     0
+    ],
+    "BusinessToday Malaysia": [
+     0,
+     1,
+     0
+    ],
+    "Inquirer.net": [
+     0,
+     1,
+     0
+    ],
+    "Gulf Today": [
+     0,
+     1,
+     0
+    ],
+    "i24NEWS": [
      0,
      1,
      0
