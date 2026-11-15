@@ -12801,18 +12801,18 @@
    }
   },
   "2026-11-15": {
-   "total": 333,
-   "news": 330,
+   "total": 335,
+   "news": 332,
    "articles": 3,
    "positive": 0,
-   "neutral": 333,
+   "neutral": 335,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 28,
     "US": 40,
     "FR": 11,
-    "GB": 92,
+    "GB": 94,
     "HK": 5,
     "DE": 2,
     "JP": 1
@@ -12838,7 +12838,7 @@
     "Gulf News": 4,
     "Seoul Economic Daily": 1,
     "Middle East Eye": 4,
-    "The Guardian": 64,
+    "The Guardian": 66,
     "Kyabram Free Press": 1,
     "Telangana Today": 1,
     "The Korea Times": 1,
@@ -13028,7 +13028,7 @@
     ],
     "The Guardian": [
      0,
-     64,
+     66,
      0
     ],
     "Kyabram Free Press": [
