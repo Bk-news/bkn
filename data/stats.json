@@ -11455,16 +11455,16 @@
    }
   },
   "2026-11-13": {
-   "total": 618,
-   "news": 610,
+   "total": 624,
+   "news": 616,
    "articles": 8,
    "positive": 0,
-   "neutral": 618,
+   "neutral": 624,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 228,
-    "US": 99,
+    "GB": 233,
+    "US": 100,
     "SA": 79,
     "DE": 7,
     "JP": 2,
@@ -11472,13 +11472,13 @@
    },
    "topics": {},
    "sources": {
-    "Financial Times": 47,
+    "Financial Times": 49,
     "WSJ": 17,
-    "The New York Times": 19,
+    "The New York Times": 20,
     "Nation Thailand": 1,
     "Arab News": 77,
     "The Washington Post": 3,
-    "Reuters": 110,
+    "Reuters": 113,
     "Free Malaysia Today": 1,
     "The New Arab": 1,
     "The Guam Daily Post": 1,
@@ -11576,7 +11576,7 @@
    "sourceTone": {
     "Financial Times": [
      0,
-     47,
+     49,
      0
     ],
     "WSJ": [
@@ -11586,7 +11586,7 @@
     ],
     "The New York Times": [
      0,
-     19,
+     20,
      0
     ],
     "Nation Thailand": [
@@ -11606,7 +11606,7 @@
     ],
     "Reuters": [
      0,
-     110,
+     113,
      0
     ],
     "Free Malaysia Today": [
@@ -12077,17 +12077,17 @@
    }
   },
   "2026-11-14": {
-   "total": 331,
-   "news": 331,
+   "total": 345,
+   "news": 345,
    "articles": 0,
    "positive": 0,
-   "neutral": 331,
+   "neutral": 345,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "US": 37,
-    "SA": 59,
-    "GB": 76,
+    "US": 39,
+    "SA": 63,
+    "GB": 84,
     "HK": 2,
     "FR": 2,
     "DE": 4
@@ -12095,9 +12095,9 @@
    "topics": {},
    "sources": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
-    "The New York Times": 8,
-    "Arab News": 63,
-    "Reuters": 44,
+    "The New York Times": 9,
+    "Arab News": 67,
+    "Reuters": 51,
     "Chosunbiz": 9,
     "Korea JoongAng Daily": 1,
     "Bioengineer.org": 2,
@@ -12111,10 +12111,10 @@
     "The AFC": 3,
     "AP News": 5,
     "South China Morning Post": 2,
-    "Financial Times": 13,
+    "Financial Times": 14,
     "Le Monde.fr": 1,
     "Facebook": 1,
-    "Bloomberg.com": 3,
+    "Bloomberg.com": 4,
     "The Guardian": 10,
     "BBC": 9,
     "Saudi Gazette": 8,
@@ -12218,17 +12218,17 @@
     ],
     "The New York Times": [
      0,
-     8,
+     9,
      0
     ],
     "Arab News": [
      0,
-     63,
+     67,
      0
     ],
     "Reuters": [
      0,
-     44,
+     51,
      0
     ],
     "Chosunbiz": [
@@ -12298,7 +12298,7 @@
     ],
     "Financial Times": [
      0,
-     13,
+     14,
      0
     ],
     "Le Monde.fr": [
@@ -12313,7 +12313,7 @@
     ],
     "Bloomberg.com": [
      0,
-     3,
+     4,
      0
     ],
     "The Guardian": [
@@ -12789,38 +12789,38 @@
    }
   },
   "2026-11-15": {
-   "total": 82,
-   "news": 82,
+   "total": 102,
+   "news": 102,
    "articles": 0,
    "positive": 0,
-   "neutral": 82,
+   "neutral": 102,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "SA": 4,
-    "US": 18,
-    "FR": 7,
-    "GB": 9,
+    "SA": 5,
+    "US": 21,
+    "FR": 8,
+    "GB": 11,
     "HK": 3,
     "DE": 2
    },
    "topics": {},
    "sources": {
     "houseofsaud.com": 1,
-    "Arab News": 7,
-    "WSJ": 4,
+    "Arab News": 10,
+    "WSJ": 5,
     "UA.NEWS": 2,
     "Dawn": 1,
-    "Le Monde.fr": 4,
+    "Le Monde.fr": 5,
     "France 24": 3,
-    "The New York Times": 4,
+    "The New York Times": 5,
     "Al Jazeera": 1,
     "The Straits Times": 1,
     "Breakingthenews.net": 4,
-    "Chosunbiz": 1,
-    "https://houseofsaud.com/": 1,
+    "Chosunbiz": 2,
+    "https://houseofsaud.com/": 2,
     "Daily Sun": 1,
-    "조선일보": 2,
+    "조선일보": 3,
     "Anadolu Ajansı": 3,
     "Gulf News": 1,
     "Seoul Economic Daily": 1,
@@ -12831,7 +12831,7 @@
     "The Korea Times": 1,
     "Malay Mail": 1,
     "The Canberra Times": 1,
-    "Al-Monitor": 4,
+    "Al-Monitor": 5,
     "스타뉴스": 1,
     "AP News": 1,
     "NDTV": 1,
@@ -12839,15 +12839,22 @@
     "South China Morning Post": 3,
     "The National": 1,
     "BBC": 2,
-    "Reuters": 3,
+    "Reuters": 5,
     "The Washington Post": 2,
     "Bloomberg.com": 3,
     "Spiegel": 2,
     "Hum News English": 1,
     "Financial Times": 2,
-    "Arab News PK": 1,
+    "Arab News PK": 2,
     "Forbes Middle East": 1,
-    "Kenyans.co.ke": 1
+    "Kenyans.co.ke": 1,
+    "Haberler.com": 1,
+    "News of Bahrain": 1,
+    "Khaleej Times": 1,
+    "Mehr News Agency": 1,
+    "Saudi Gazette": 1,
+    "IndexBox": 1,
+    "Travel & Tourism News Middle East": 1
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -12857,12 +12864,12 @@
     ],
     "Arab News": [
      0,
-     7,
+     10,
      0
     ],
     "WSJ": [
      0,
-     4,
+     5,
      0
     ],
     "UA.NEWS": [
@@ -12877,7 +12884,7 @@
     ],
     "Le Monde.fr": [
      0,
-     4,
+     5,
      0
     ],
     "France 24": [
@@ -12887,7 +12894,7 @@
     ],
     "The New York Times": [
      0,
-     4,
+     5,
      0
     ],
     "Al Jazeera": [
@@ -12907,12 +12914,12 @@
     ],
     "Chosunbiz": [
      0,
-     1,
+     2,
      0
     ],
     "https://houseofsaud.com/": [
      0,
-     1,
+     2,
      0
     ],
     "Daily Sun": [
@@ -12922,7 +12929,7 @@
     ],
     "조선일보": [
      0,
-     2,
+     3,
      0
     ],
     "Anadolu Ajansı": [
@@ -12977,7 +12984,7 @@
     ],
     "Al-Monitor": [
      0,
-     4,
+     5,
      0
     ],
     "스타뉴스": [
@@ -13017,7 +13024,7 @@
     ],
     "Reuters": [
      0,
-     3,
+     5,
      0
     ],
     "The Washington Post": [
@@ -13047,7 +13054,7 @@
     ],
     "Arab News PK": [
      0,
-     1,
+     2,
      0
     ],
     "Forbes Middle East": [
@@ -13056,6 +13063,41 @@
      0
     ],
     "Kenyans.co.ke": [
+     0,
+     1,
+     0
+    ],
+    "Haberler.com": [
+     0,
+     1,
+     0
+    ],
+    "News of Bahrain": [
+     0,
+     1,
+     0
+    ],
+    "Khaleej Times": [
+     0,
+     1,
+     0
+    ],
+    "Mehr News Agency": [
+     0,
+     1,
+     0
+    ],
+    "Saudi Gazette": [
+     0,
+     1,
+     0
+    ],
+    "IndexBox": [
+     0,
+     1,
+     0
+    ],
+    "Travel & Tourism News Middle East": [
      0,
      1,
      0
