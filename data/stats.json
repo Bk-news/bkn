@@ -11455,15 +11455,15 @@
    }
   },
   "2026-11-13": {
-   "total": 616,
-   "news": 608,
+   "total": 617,
+   "news": 609,
    "articles": 8,
    "positive": 0,
-   "neutral": 616,
+   "neutral": 617,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 226,
+    "GB": 227,
     "US": 99,
     "SA": 79,
     "DE": 7,
@@ -11478,7 +11478,7 @@
     "Nation Thailand": 1,
     "Arab News": 77,
     "The Washington Post": 3,
-    "Reuters": 109,
+    "Reuters": 110,
     "Free Malaysia Today": 1,
     "The New Arab": 1,
     "The Guam Daily Post": 1,
@@ -11606,7 +11606,7 @@
     ],
     "Reuters": [
      0,
-     109,
+     110,
      0
     ],
     "Free Malaysia Today": [
@@ -12077,17 +12077,17 @@
    }
   },
   "2026-11-14": {
-   "total": 323,
-   "news": 323,
+   "total": 325,
+   "news": 325,
    "articles": 0,
    "positive": 0,
-   "neutral": 323,
+   "neutral": 325,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "US": 36,
     "SA": 59,
-    "GB": 69,
+    "GB": 71,
     "HK": 2,
     "FR": 2,
     "DE": 4
@@ -12097,7 +12097,7 @@
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
     "The New York Times": 8,
     "Arab News": 63,
-    "Reuters": 38,
+    "Reuters": 40,
     "Chosunbiz": 9,
     "Korea JoongAng Daily": 1,
     "Bioengineer.org": 2,
@@ -12228,7 +12228,7 @@
     ],
     "Reuters": [
      0,
-     38,
+     40,
      0
     ],
     "Chosunbiz": [
@@ -12789,16 +12789,16 @@
    }
   },
   "2026-11-15": {
-   "total": 38,
-   "news": 38,
+   "total": 40,
+   "news": 40,
    "articles": 0,
    "positive": 0,
-   "neutral": 38,
+   "neutral": 40,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "SA": 1,
-    "US": 4,
+    "US": 5,
     "FR": 2,
     "GB": 1
    },
@@ -12830,7 +12830,9 @@
     "Malay Mail": 1,
     "The Canberra Times": 1,
     "Al-Monitor": 1,
-    "스타뉴스": 1
+    "스타뉴스": 1,
+    "AP News": 1,
+    "NDTV": 1
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -12964,6 +12966,16 @@
      0
     ],
     "스타뉴스": [
+     0,
+     1,
+     0
+    ],
+    "AP News": [
+     0,
+     1,
+     0
+    ],
+    "NDTV": [
      0,
      1,
      0
