@@ -12801,15 +12801,15 @@
    }
   },
   "2026-11-15": {
-   "total": 430,
-   "news": 427,
+   "total": 433,
+   "news": 430,
    "articles": 3,
    "positive": 0,
-   "neutral": 430,
+   "neutral": 433,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 39,
+    "SA": 40,
     "US": 44,
     "FR": 15,
     "GB": 138,
@@ -12820,7 +12820,7 @@
    "topics": {},
    "sources": {
     "houseofsaud.com": 2,
-    "Arab News": 51,
+    "Arab News": 52,
     "WSJ": 9,
     "UA.NEWS": 3,
     "Dawn": 1,
@@ -12943,7 +12943,9 @@
     "Outlook India": 1,
     "Livemint": 1,
     "Türkiye Today": 1,
-    "Seeking Alpha": 1
+    "Seeking Alpha": 1,
+    "New York Post": 1,
+    "شبكة تواصل الإخبارية": 1
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -12953,7 +12955,7 @@
     ],
     "Arab News": [
      0,
-     51,
+     52,
      0
     ],
     "WSJ": [
@@ -13567,6 +13569,16 @@
      0
     ],
     "Seeking Alpha": [
+     0,
+     1,
+     0
+    ],
+    "New York Post": [
+     0,
+     1,
+     0
+    ],
+    "شبكة تواصل الإخبارية": [
      0,
      1,
      0
