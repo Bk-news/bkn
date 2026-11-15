@@ -12777,11 +12777,11 @@
    }
   },
   "2026-11-15": {
-   "total": 2,
-   "news": 2,
+   "total": 3,
+   "news": 3,
    "articles": 0,
    "positive": 0,
-   "neutral": 2,
+   "neutral": 3,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -12790,7 +12790,7 @@
    "topics": {},
    "sources": {
     "houseofsaud.com": 1,
-    "Arab News": 1
+    "Arab News": 2
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -12800,7 +12800,7 @@
     ],
     "Arab News": [
      0,
-     1,
+     2,
      0
     ]
    }
