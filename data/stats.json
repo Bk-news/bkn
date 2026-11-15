@@ -12795,11 +12795,11 @@
    }
   },
   "2026-11-15": {
-   "total": 152,
-   "news": 152,
+   "total": 153,
+   "news": 153,
    "articles": 0,
    "positive": 0,
-   "neutral": 152,
+   "neutral": 153,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -12886,7 +12886,8 @@
     "The Avenue Mail": 1,
     "Premium Times Nigeria": 1,
     "Yahoo News UK": 1,
-    "MarketScale": 1
+    "MarketScale": 1,
+    "The Arab Weekly": 1
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -13260,6 +13261,11 @@
      0
     ],
     "MarketScale": [
+     0,
+     1,
+     0
+    ],
+    "The Arab Weekly": [
      0,
      1,
      0
