@@ -12795,11 +12795,11 @@
    }
   },
   "2026-11-15": {
-   "total": 146,
-   "news": 146,
+   "total": 147,
+   "news": 147,
    "articles": 0,
    "positive": 0,
-   "neutral": 146,
+   "neutral": 147,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -12885,7 +12885,8 @@
     "i24NEWS": 1,
     "The Avenue Mail": 1,
     "Premium Times Nigeria": 1,
-    "Yahoo News UK": 1
+    "Yahoo News UK": 1,
+    "MarketScale": 1
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -13254,6 +13255,11 @@
      0
     ],
     "Yahoo News UK": [
+     0,
+     1,
+     0
+    ],
+    "MarketScale": [
      0,
      1,
      0
