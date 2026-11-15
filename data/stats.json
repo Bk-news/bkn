@@ -12795,11 +12795,11 @@
    }
   },
   "2026-11-15": {
-   "total": 154,
-   "news": 154,
+   "total": 156,
+   "news": 156,
    "articles": 0,
    "positive": 0,
-   "neutral": 154,
+   "neutral": 156,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -12812,7 +12812,7 @@
    },
    "topics": {},
    "sources": {
-    "houseofsaud.com": 1,
+    "houseofsaud.com": 2,
     "Arab News": 15,
     "WSJ": 6,
     "UA.NEWS": 2,
@@ -12823,7 +12823,7 @@
     "Al Jazeera": 1,
     "The Straits Times": 1,
     "Breakingthenews.net": 4,
-    "Chosunbiz": 2,
+    "Chosunbiz": 3,
     "https://houseofsaud.com/": 3,
     "Daily Sun": 1,
     "조선일보": 5,
@@ -12892,7 +12892,7 @@
    "sourceTone": {
     "houseofsaud.com": [
      0,
-     1,
+     2,
      0
     ],
     "Arab News": [
@@ -12947,7 +12947,7 @@
     ],
     "Chosunbiz": [
      0,
-     2,
+     3,
      0
     ],
     "https://houseofsaud.com/": [
