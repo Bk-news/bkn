@@ -11455,15 +11455,15 @@
    }
   },
   "2026-11-13": {
-   "total": 611,
-   "news": 603,
+   "total": 613,
+   "news": 605,
    "articles": 8,
    "positive": 0,
-   "neutral": 611,
+   "neutral": 613,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 221,
+    "GB": 223,
     "US": 99,
     "SA": 79,
     "DE": 7,
@@ -11478,7 +11478,7 @@
     "Nation Thailand": 1,
     "Arab News": 77,
     "The Washington Post": 3,
-    "Reuters": 104,
+    "Reuters": 106,
     "Free Malaysia Today": 1,
     "The New Arab": 1,
     "The Guam Daily Post": 1,
@@ -11606,7 +11606,7 @@
     ],
     "Reuters": [
      0,
-     104,
+     106,
      0
     ],
     "Free Malaysia Today": [
@@ -12077,17 +12077,17 @@
    }
   },
   "2026-11-14": {
-   "total": 318,
-   "news": 318,
+   "total": 320,
+   "news": 320,
    "articles": 0,
    "positive": 0,
-   "neutral": 318,
+   "neutral": 320,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "US": 36,
-    "SA": 58,
-    "GB": 65,
+    "SA": 59,
+    "GB": 66,
     "HK": 2,
     "FR": 2,
     "DE": 4
@@ -12096,7 +12096,7 @@
    "sources": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
     "The New York Times": 8,
-    "Arab News": 62,
+    "Arab News": 63,
     "Reuters": 35,
     "Chosunbiz": 9,
     "Korea JoongAng Daily": 1,
@@ -12115,7 +12115,7 @@
     "Le Monde.fr": 1,
     "Facebook": 1,
     "Bloomberg.com": 3,
-    "The Guardian": 9,
+    "The Guardian": 10,
     "BBC": 8,
     "Saudi Gazette": 8,
     "The National": 2,
@@ -12223,7 +12223,7 @@
     ],
     "Arab News": [
      0,
-     62,
+     63,
      0
     ],
     "Reuters": [
@@ -12318,7 +12318,7 @@
     ],
     "The Guardian": [
      0,
-     9,
+     10,
      0
     ],
     "BBC": [
