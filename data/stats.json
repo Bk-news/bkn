@@ -12077,17 +12077,17 @@
    }
   },
   "2026-11-14": {
-   "total": 466,
-   "news": 466,
+   "total": 467,
+   "news": 467,
    "articles": 0,
    "positive": 0,
-   "neutral": 466,
+   "neutral": 467,
    "critical": 0,
    "mbs": 5,
    "countries": {
     "US": 44,
     "SA": 74,
-    "GB": 184,
+    "GB": 185,
     "HK": 2,
     "FR": 2,
     "DE": 4
@@ -12115,7 +12115,7 @@
     "Le Monde.fr": 1,
     "Facebook": 1,
     "Bloomberg.com": 4,
-    "The Guardian": 95,
+    "The Guardian": 96,
     "BBC": 9,
     "Saudi Gazette": 9,
     "The National": 2,
@@ -12320,7 +12320,7 @@
     ],
     "The Guardian": [
      0,
-     95,
+     96,
      0
     ],
     "BBC": [
