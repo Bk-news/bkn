@@ -12077,17 +12077,17 @@
    }
   },
   "2026-11-14": {
-   "total": 329,
-   "news": 329,
+   "total": 331,
+   "news": 331,
    "articles": 0,
    "positive": 0,
-   "neutral": 329,
+   "neutral": 331,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "US": 36,
+    "US": 37,
     "SA": 59,
-    "GB": 75,
+    "GB": 76,
     "HK": 2,
     "FR": 2,
     "DE": 4
@@ -12107,7 +12107,7 @@
     "news.sbs.co.kr": 2,
     "Yonhap News Agency": 5,
     "Al-Monitor": 13,
-    "WSJ": 4,
+    "WSJ": 5,
     "The AFC": 3,
     "AP News": 5,
     "South China Morning Post": 2,
@@ -12116,7 +12116,7 @@
     "Facebook": 1,
     "Bloomberg.com": 3,
     "The Guardian": 10,
-    "BBC": 8,
+    "BBC": 9,
     "Saudi Gazette": 8,
     "The National": 2,
     "The Arab Weekly": 1,
@@ -12278,7 +12278,7 @@
     ],
     "WSJ": [
      0,
-     4,
+     5,
      0
     ],
     "The AFC": [
@@ -12323,7 +12323,7 @@
     ],
     "BBC": [
      0,
-     8,
+     9,
      0
     ],
     "Saudi Gazette": [
@@ -12789,33 +12789,34 @@
    }
   },
   "2026-11-15": {
-   "total": 44,
-   "news": 44,
+   "total": 82,
+   "news": 82,
    "articles": 0,
    "positive": 0,
-   "neutral": 44,
+   "neutral": 82,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "SA": 1,
-    "US": 5,
-    "FR": 3,
-    "GB": 1,
-    "HK": 1
+    "SA": 4,
+    "US": 18,
+    "FR": 7,
+    "GB": 9,
+    "HK": 3,
+    "DE": 2
    },
    "topics": {},
    "sources": {
     "houseofsaud.com": 1,
-    "Arab News": 4,
-    "WSJ": 2,
+    "Arab News": 7,
+    "WSJ": 4,
     "UA.NEWS": 2,
     "Dawn": 1,
-    "Le Monde.fr": 1,
-    "France 24": 2,
-    "The New York Times": 1,
+    "Le Monde.fr": 4,
+    "France 24": 3,
+    "The New York Times": 4,
     "Al Jazeera": 1,
     "The Straits Times": 1,
-    "Breakingthenews.net": 3,
+    "Breakingthenews.net": 4,
     "Chosunbiz": 1,
     "https://houseofsaud.com/": 1,
     "Daily Sun": 1,
@@ -12824,18 +12825,29 @@
     "Gulf News": 1,
     "Seoul Economic Daily": 1,
     "Middle East Eye": 3,
-    "The Guardian": 1,
+    "The Guardian": 2,
     "Kyabram Free Press": 1,
     "Telangana Today": 1,
     "The Korea Times": 1,
     "Malay Mail": 1,
     "The Canberra Times": 1,
-    "Al-Monitor": 1,
+    "Al-Monitor": 4,
     "스타뉴스": 1,
     "AP News": 1,
     "NDTV": 1,
     "Apa.az": 1,
-    "South China Morning Post": 1
+    "South China Morning Post": 3,
+    "The National": 1,
+    "BBC": 2,
+    "Reuters": 3,
+    "The Washington Post": 2,
+    "Bloomberg.com": 3,
+    "Spiegel": 2,
+    "Hum News English": 1,
+    "Financial Times": 2,
+    "Arab News PK": 1,
+    "Forbes Middle East": 1,
+    "Kenyans.co.ke": 1
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -12845,12 +12857,12 @@
     ],
     "Arab News": [
      0,
-     4,
+     7,
      0
     ],
     "WSJ": [
      0,
-     2,
+     4,
      0
     ],
     "UA.NEWS": [
@@ -12865,17 +12877,17 @@
     ],
     "Le Monde.fr": [
      0,
-     1,
+     4,
      0
     ],
     "France 24": [
      0,
-     2,
+     3,
      0
     ],
     "The New York Times": [
      0,
-     1,
+     4,
      0
     ],
     "Al Jazeera": [
@@ -12890,7 +12902,7 @@
     ],
     "Breakingthenews.net": [
      0,
-     3,
+     4,
      0
     ],
     "Chosunbiz": [
@@ -12935,7 +12947,7 @@
     ],
     "The Guardian": [
      0,
-     1,
+     2,
      0
     ],
     "Kyabram Free Press": [
@@ -12965,7 +12977,7 @@
     ],
     "Al-Monitor": [
      0,
-     1,
+     4,
      0
     ],
     "스타뉴스": [
@@ -12989,6 +13001,61 @@
      0
     ],
     "South China Morning Post": [
+     0,
+     3,
+     0
+    ],
+    "The National": [
+     0,
+     1,
+     0
+    ],
+    "BBC": [
+     0,
+     2,
+     0
+    ],
+    "Reuters": [
+     0,
+     3,
+     0
+    ],
+    "The Washington Post": [
+     0,
+     2,
+     0
+    ],
+    "Bloomberg.com": [
+     0,
+     3,
+     0
+    ],
+    "Spiegel": [
+     0,
+     2,
+     0
+    ],
+    "Hum News English": [
+     0,
+     1,
+     0
+    ],
+    "Financial Times": [
+     0,
+     2,
+     0
+    ],
+    "Arab News PK": [
+     0,
+     1,
+     0
+    ],
+    "Forbes Middle East": [
+     0,
+     1,
+     0
+    ],
+    "Kenyans.co.ke": [
      0,
      1,
      0
