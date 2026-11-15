@@ -12795,11 +12795,11 @@
    }
   },
   "2026-11-15": {
-   "total": 142,
-   "news": 142,
+   "total": 143,
+   "news": 143,
    "articles": 0,
    "positive": 0,
-   "neutral": 142,
+   "neutral": 143,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -12884,7 +12884,8 @@
     "Gulf Today": 1,
     "i24NEWS": 1,
     "The Avenue Mail": 1,
-    "Premium Times Nigeria": 1
+    "Premium Times Nigeria": 1,
+    "Yahoo News UK": 1
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -13248,6 +13249,11 @@
      0
     ],
     "Premium Times Nigeria": [
+     0,
+     1,
+     0
+    ],
+    "Yahoo News UK": [
      0,
      1,
      0
