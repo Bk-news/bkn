@@ -12077,17 +12077,17 @@
    }
   },
   "2026-11-14": {
-   "total": 467,
-   "news": 467,
+   "total": 470,
+   "news": 470,
    "articles": 0,
    "positive": 0,
-   "neutral": 467,
+   "neutral": 470,
    "critical": 0,
    "mbs": 5,
    "countries": {
     "US": 44,
     "SA": 74,
-    "GB": 185,
+    "GB": 188,
     "HK": 2,
     "FR": 2,
     "DE": 4
@@ -12111,11 +12111,11 @@
     "The AFC": 3,
     "AP News": 6,
     "South China Morning Post": 2,
-    "Financial Times": 18,
+    "Financial Times": 20,
     "Le Monde.fr": 1,
     "Facebook": 1,
     "Bloomberg.com": 4,
-    "The Guardian": 96,
+    "The Guardian": 97,
     "BBC": 9,
     "Saudi Gazette": 9,
     "The National": 2,
@@ -12300,7 +12300,7 @@
     ],
     "Financial Times": [
      0,
-     18,
+     20,
      0
     ],
     "Le Monde.fr": [
@@ -12320,7 +12320,7 @@
     ],
     "The Guardian": [
      0,
-     96,
+     97,
      0
     ],
     "BBC": [
@@ -12801,11 +12801,11 @@
    }
   },
   "2026-11-15": {
-   "total": 435,
-   "news": 432,
+   "total": 436,
+   "news": 433,
    "articles": 3,
    "positive": 0,
-   "neutral": 435,
+   "neutral": 436,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -12820,7 +12820,7 @@
    "topics": {},
    "sources": {
     "houseofsaud.com": 2,
-    "Arab News": 53,
+    "Arab News": 54,
     "WSJ": 9,
     "UA.NEWS": 3,
     "Dawn": 1,
@@ -12955,7 +12955,7 @@
     ],
     "Arab News": [
      0,
-     53,
+     54,
      0
     ],
     "WSJ": [
