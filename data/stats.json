@@ -11455,17 +11455,17 @@
    }
   },
   "2026-11-13": {
-   "total": 635,
-   "news": 627,
+   "total": 636,
+   "news": 628,
    "articles": 8,
    "positive": 0,
-   "neutral": 635,
+   "neutral": 636,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "GB": 243,
     "US": 101,
-    "SA": 79,
+    "SA": 80,
     "DE": 7,
     "JP": 2,
     "FR": 8
@@ -11476,7 +11476,7 @@
     "WSJ": 17,
     "The New York Times": 21,
     "Nation Thailand": 1,
-    "Arab News": 77,
+    "Arab News": 78,
     "The Washington Post": 3,
     "Reuters": 123,
     "Free Malaysia Today": 1,
@@ -11596,7 +11596,7 @@
     ],
     "Arab News": [
      0,
-     77,
+     78,
      0
     ],
     "The Washington Post": [
@@ -12795,16 +12795,16 @@
    }
   },
   "2026-11-15": {
-   "total": 137,
-   "news": 137,
+   "total": 138,
+   "news": 138,
    "articles": 0,
    "positive": 0,
-   "neutral": 137,
+   "neutral": 138,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "SA": 5,
-    "US": 21,
+    "US": 22,
     "FR": 9,
     "GB": 14,
     "HK": 3,
@@ -12814,7 +12814,7 @@
    "sources": {
     "houseofsaud.com": 1,
     "Arab News": 11,
-    "WSJ": 5,
+    "WSJ": 6,
     "UA.NEWS": 2,
     "Dawn": 1,
     "Le Monde.fr": 6,
@@ -12897,7 +12897,7 @@
     ],
     "WSJ": [
      0,
-     5,
+     6,
      0
     ],
     "UA.NEWS": [
