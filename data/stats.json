@@ -11455,16 +11455,16 @@
    }
   },
   "2026-11-13": {
-   "total": 653,
-   "news": 645,
+   "total": 654,
+   "news": 646,
    "articles": 8,
    "positive": 0,
-   "neutral": 653,
+   "neutral": 654,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "GB": 256,
-    "US": 102,
+    "US": 103,
     "SA": 83,
     "DE": 7,
     "JP": 2,
@@ -11474,7 +11474,7 @@
    "sources": {
     "Financial Times": 50,
     "WSJ": 18,
-    "The New York Times": 21,
+    "The New York Times": 22,
     "Nation Thailand": 1,
     "Arab News": 81,
     "The Washington Post": 3,
@@ -11586,7 +11586,7 @@
     ],
     "The New York Times": [
      0,
-     21,
+     22,
      0
     ],
     "Nation Thailand": [
