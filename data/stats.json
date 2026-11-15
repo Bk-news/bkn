@@ -12077,17 +12077,17 @@
    }
   },
   "2026-11-14": {
-   "total": 366,
-   "news": 366,
+   "total": 373,
+   "news": 373,
    "articles": 0,
    "positive": 0,
-   "neutral": 366,
+   "neutral": 373,
    "critical": 0,
    "mbs": 5,
    "countries": {
     "US": 41,
     "SA": 70,
-    "GB": 91,
+    "GB": 98,
     "HK": 2,
     "FR": 2,
     "DE": 4
@@ -12115,7 +12115,7 @@
     "Le Monde.fr": 1,
     "Facebook": 1,
     "Bloomberg.com": 4,
-    "The Guardian": 11,
+    "The Guardian": 18,
     "BBC": 9,
     "Saudi Gazette": 9,
     "The National": 2,
@@ -12320,7 +12320,7 @@
     ],
     "The Guardian": [
      0,
-     11,
+     18,
      0
     ],
     "BBC": [
@@ -12801,18 +12801,18 @@
    }
   },
   "2026-11-15": {
-   "total": 259,
-   "news": 257,
-   "articles": 2,
+   "total": 292,
+   "news": 289,
+   "articles": 3,
    "positive": 0,
-   "neutral": 259,
+   "neutral": 292,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 25,
     "US": 39,
     "FR": 11,
-    "GB": 52,
+    "GB": 66,
     "HK": 5,
     "DE": 2,
     "JP": 1
@@ -12820,7 +12820,7 @@
    "topics": {},
    "sources": {
     "houseofsaud.com": 2,
-    "Arab News": 29,
+    "Arab News": 35,
     "WSJ": 8,
     "UA.NEWS": 3,
     "Dawn": 1,
@@ -12837,8 +12837,8 @@
     "Anadolu Ajansı": 5,
     "Gulf News": 3,
     "Seoul Economic Daily": 1,
-    "Middle East Eye": 3,
-    "The Guardian": 33,
+    "Middle East Eye": 4,
+    "The Guardian": 46,
     "Kyabram Free Press": 1,
     "Telangana Today": 1,
     "The Korea Times": 1,
@@ -12850,14 +12850,14 @@
     "NDTV": 3,
     "Apa.az": 1,
     "South China Morning Post": 5,
-    "The National": 1,
+    "The National": 2,
     "BBC": 4,
-    "Reuters": 12,
+    "Reuters": 13,
     "The Washington Post": 2,
     "Bloomberg.com": 5,
     "Spiegel": 2,
     "Hum News English": 1,
-    "Financial Times": 2,
+    "Financial Times": 3,
     "Arab News PK": 3,
     "Forbes Middle East": 1,
     "Kenyans.co.ke": 1,
@@ -12865,7 +12865,7 @@
     "News of Bahrain": 1,
     "Khaleej Times": 1,
     "Mehr News Agency": 1,
-    "Saudi Gazette": 6,
+    "Saudi Gazette": 7,
     "IndexBox": 2,
     "Travel & Tourism News Middle East": 1,
     "Yonhap News Agency": 1,
@@ -12874,7 +12874,7 @@
     "The Kenyan Diaspora Media": 1,
     "Ynetnews": 2,
     "Middle East Online": 1,
-    "سانا": 1,
+    "سانا": 2,
     "New Age BD": 1,
     "جريدة القدس": 1,
     "Nation Thailand": 1,
@@ -12896,9 +12896,9 @@
     "MarketScale": 1,
     "The Arab Weekly": 1,
     "Nikkei Asia": 1,
-    "وكالة الأنباء السعودية": 1,
+    "وكالة الأنباء السعودية": 2,
     "CNN": 1,
-    "The Economist": 1,
+    "The Economist": 2,
     "Atlantic Council": 1,
     "sabahnews.net": 1,
     "Israel National News": 1,
@@ -12915,7 +12915,13 @@
     "Zawya": 1,
     "Yahoo": 1,
     "Crypto Briefing": 2,
-    "Israel Defense": 1
+    "Israel Defense": 1,
+    "Daily Observer": 1,
+    "Investing.com": 1,
+    "Investing.com India": 1,
+    "Investing.com UK": 1,
+    "Finimize": 1,
+    "ABNA English": 1
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -12925,7 +12931,7 @@
     ],
     "Arab News": [
      0,
-     29,
+     35,
      0
     ],
     "WSJ": [
@@ -13010,12 +13016,12 @@
     ],
     "Middle East Eye": [
      0,
-     3,
+     4,
      0
     ],
     "The Guardian": [
      0,
-     33,
+     46,
      0
     ],
     "Kyabram Free Press": [
@@ -13075,7 +13081,7 @@
     ],
     "The National": [
      0,
-     1,
+     2,
      0
     ],
     "BBC": [
@@ -13085,7 +13091,7 @@
     ],
     "Reuters": [
      0,
-     12,
+     13,
      0
     ],
     "The Washington Post": [
@@ -13110,7 +13116,7 @@
     ],
     "Financial Times": [
      0,
-     2,
+     3,
      0
     ],
     "Arab News PK": [
@@ -13150,7 +13156,7 @@
     ],
     "Saudi Gazette": [
      0,
-     6,
+     7,
      0
     ],
     "IndexBox": [
@@ -13195,7 +13201,7 @@
     ],
     "سانا": [
      0,
-     1,
+     2,
      0
     ],
     "New Age BD": [
@@ -13305,7 +13311,7 @@
     ],
     "وكالة الأنباء السعودية": [
      0,
-     1,
+     2,
      0
     ],
     "CNN": [
@@ -13315,7 +13321,7 @@
     ],
     "The Economist": [
      0,
-     1,
+     2,
      0
     ],
     "Atlantic Council": [
@@ -13399,6 +13405,36 @@
      0
     ],
     "Israel Defense": [
+     0,
+     1,
+     0
+    ],
+    "Daily Observer": [
+     0,
+     1,
+     0
+    ],
+    "Investing.com": [
+     0,
+     1,
+     0
+    ],
+    "Investing.com India": [
+     0,
+     1,
+     0
+    ],
+    "Investing.com UK": [
+     0,
+     1,
+     0
+    ],
+    "Finimize": [
+     0,
+     1,
+     0
+    ],
+    "ABNA English": [
      0,
      1,
      0
