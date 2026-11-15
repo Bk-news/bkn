@@ -11455,16 +11455,16 @@
    }
   },
   "2026-11-13": {
-   "total": 636,
-   "news": 628,
+   "total": 637,
+   "news": 629,
    "articles": 8,
    "positive": 0,
-   "neutral": 636,
+   "neutral": 637,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "GB": 243,
-    "US": 101,
+    "US": 102,
     "SA": 80,
     "DE": 7,
     "JP": 2,
@@ -11473,7 +11473,7 @@
    "topics": {},
    "sources": {
     "Financial Times": 49,
-    "WSJ": 17,
+    "WSJ": 18,
     "The New York Times": 21,
     "Nation Thailand": 1,
     "Arab News": 78,
@@ -11581,7 +11581,7 @@
     ],
     "WSJ": [
      0,
-     17,
+     18,
      0
     ],
     "The New York Times": [
@@ -12077,15 +12077,15 @@
    }
   },
   "2026-11-14": {
-   "total": 351,
-   "news": 351,
+   "total": 352,
+   "news": 352,
    "articles": 0,
    "positive": 0,
-   "neutral": 351,
+   "neutral": 352,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "US": 39,
+    "US": 40,
     "SA": 64,
     "GB": 85,
     "HK": 2,
@@ -12095,7 +12095,7 @@
    "topics": {},
    "sources": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
-    "The New York Times": 9,
+    "The New York Times": 10,
     "Arab News": 67,
     "Reuters": 51,
     "Chosunbiz": 9,
@@ -12219,7 +12219,7 @@
     ],
     "The New York Times": [
      0,
-     9,
+     10,
      0
     ],
     "Arab News": [
@@ -12795,16 +12795,16 @@
    }
   },
   "2026-11-15": {
-   "total": 144,
-   "news": 144,
+   "total": 146,
+   "news": 146,
    "articles": 0,
    "positive": 0,
-   "neutral": 144,
+   "neutral": 146,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "SA": 5,
-    "US": 23,
+    "SA": 6,
+    "US": 24,
     "FR": 9,
     "GB": 14,
     "HK": 3,
@@ -12813,7 +12813,7 @@
    "topics": {},
    "sources": {
     "houseofsaud.com": 1,
-    "Arab News": 11,
+    "Arab News": 12,
     "WSJ": 6,
     "UA.NEWS": 2,
     "Dawn": 1,
@@ -12839,7 +12839,7 @@
     "The Canberra Times": 1,
     "Al-Monitor": 5,
     "스타뉴스": 1,
-    "AP News": 1,
+    "AP News": 2,
     "NDTV": 3,
     "Apa.az": 1,
     "South China Morning Post": 3,
@@ -12895,7 +12895,7 @@
     ],
     "Arab News": [
      0,
-     11,
+     12,
      0
     ],
     "WSJ": [
@@ -13025,7 +13025,7 @@
     ],
     "AP News": [
      0,
-     1,
+     2,
      0
     ],
     "NDTV": [
