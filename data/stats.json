@@ -12077,17 +12077,17 @@
    }
   },
   "2026-11-14": {
-   "total": 349,
-   "news": 349,
+   "total": 350,
+   "news": 350,
    "articles": 0,
    "positive": 0,
-   "neutral": 349,
+   "neutral": 350,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "US": 39,
     "SA": 63,
-    "GB": 84,
+    "GB": 85,
     "HK": 2,
     "FR": 2,
     "DE": 4
@@ -12115,7 +12115,7 @@
     "Le Monde.fr": 1,
     "Facebook": 1,
     "Bloomberg.com": 4,
-    "The Guardian": 10,
+    "The Guardian": 11,
     "BBC": 9,
     "Saudi Gazette": 8,
     "The National": 2,
@@ -12319,7 +12319,7 @@
     ],
     "The Guardian": [
      0,
-     10,
+     11,
      0
     ],
     "BBC": [
@@ -12795,11 +12795,11 @@
    }
   },
   "2026-11-15": {
-   "total": 136,
-   "news": 136,
+   "total": 137,
+   "news": 137,
    "articles": 0,
    "positive": 0,
-   "neutral": 136,
+   "neutral": 137,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -12859,7 +12859,7 @@
     "Khaleej Times": 1,
     "Mehr News Agency": 1,
     "Saudi Gazette": 1,
-    "IndexBox": 1,
+    "IndexBox": 2,
     "Travel & Tourism News Middle East": 1,
     "Yonhap News Agency": 1,
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1,
@@ -13122,7 +13122,7 @@
     ],
     "IndexBox": [
      0,
-     1,
+     2,
      0
     ],
     "Travel & Tourism News Middle East": [
