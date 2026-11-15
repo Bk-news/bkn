@@ -12801,11 +12801,11 @@
    }
   },
   "2026-11-15": {
-   "total": 422,
-   "news": 419,
+   "total": 423,
+   "news": 420,
    "articles": 3,
    "positive": 0,
-   "neutral": 422,
+   "neutral": 423,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -12942,7 +12942,8 @@
     "People Daily": 1,
     "Outlook India": 1,
     "Livemint": 1,
-    "Türkiye Today": 1
+    "Türkiye Today": 1,
+    "Seeking Alpha": 1
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -13561,6 +13562,11 @@
      0
     ],
     "Türkiye Today": [
+     0,
+     1,
+     0
+    ],
+    "Seeking Alpha": [
      0,
      1,
      0
