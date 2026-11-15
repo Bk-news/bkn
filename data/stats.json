@@ -12077,17 +12077,17 @@
    }
   },
   "2026-11-14": {
-   "total": 325,
-   "news": 325,
+   "total": 326,
+   "news": 326,
    "articles": 0,
    "positive": 0,
-   "neutral": 325,
+   "neutral": 326,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "US": 36,
     "SA": 59,
-    "GB": 71,
+    "GB": 72,
     "HK": 2,
     "FR": 2,
     "DE": 4
@@ -12097,7 +12097,7 @@
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
     "The New York Times": 8,
     "Arab News": 63,
-    "Reuters": 40,
+    "Reuters": 41,
     "Chosunbiz": 9,
     "Korea JoongAng Daily": 1,
     "Bioengineer.org": 2,
@@ -12228,7 +12228,7 @@
     ],
     "Reuters": [
      0,
-     40,
+     41,
      0
     ],
     "Chosunbiz": [
@@ -12789,11 +12789,11 @@
    }
   },
   "2026-11-15": {
-   "total": 41,
-   "news": 41,
+   "total": 42,
+   "news": 42,
    "articles": 0,
    "positive": 0,
-   "neutral": 41,
+   "neutral": 42,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -12832,7 +12832,8 @@
     "Al-Monitor": 1,
     "스타뉴스": 1,
     "AP News": 1,
-    "NDTV": 1
+    "NDTV": 1,
+    "Apa.az": 1
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -12976,6 +12977,11 @@
      0
     ],
     "NDTV": [
+     0,
+     1,
+     0
+    ],
+    "Apa.az": [
      0,
      1,
      0
