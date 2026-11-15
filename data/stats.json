@@ -12077,17 +12077,17 @@
    }
   },
   "2026-11-14": {
-   "total": 326,
-   "news": 326,
+   "total": 328,
+   "news": 328,
    "articles": 0,
    "positive": 0,
-   "neutral": 326,
+   "neutral": 328,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "US": 36,
     "SA": 59,
-    "GB": 72,
+    "GB": 74,
     "HK": 2,
     "FR": 2,
     "DE": 4
@@ -12097,7 +12097,7 @@
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
     "The New York Times": 8,
     "Arab News": 63,
-    "Reuters": 41,
+    "Reuters": 43,
     "Chosunbiz": 9,
     "Korea JoongAng Daily": 1,
     "Bioengineer.org": 2,
@@ -12228,7 +12228,7 @@
     ],
     "Reuters": [
      0,
-     41,
+     43,
      0
     ],
     "Chosunbiz": [
