@@ -13700,16 +13700,16 @@
    }
   },
   "2026-11-16": {
-   "total": 346,
-   "news": 343,
+   "total": 386,
+   "news": 383,
    "articles": 3,
    "positive": 0,
-   "neutral": 346,
+   "neutral": 386,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "FR": 36,
-    "GB": 103,
+    "GB": 115,
     "SA": 41,
     "US": 52,
     "HK": 5
@@ -13718,14 +13718,14 @@
    "sources": {
     "The Times of India": 2,
     "France 24": 32,
-    "Reuters": 48,
-    "Arab News": 46,
+    "Reuters": 60,
+    "Arab News": 52,
     "The Guardian": 31,
     "The New York Times": 6,
     "WSJ": 7,
     "BBC": 18,
     "Українські Національні Новини (УНН)": 1,
-    "https://houseofsaud.com/": 2,
+    "https://houseofsaud.com/": 3,
     "Breakingthenews.net": 1,
     "Amnesty International": 2,
     "The Straits Times": 1,
@@ -13737,7 +13737,7 @@
     "조선일보": 2,
     "Nacionale": 2,
     "Chosunbiz": 3,
-    "Zawya": 1,
+    "Zawya": 2,
     "Al-Monitor": 20,
     "Bloomberg.com": 8,
     "Financial Times": 9,
@@ -13745,12 +13745,12 @@
     "AP News": 5,
     "The Business Standard": 1,
     "Condé Nast Traveller Middle East": 1,
-    "Saudi Gazette": 6,
+    "Saudi Gazette": 8,
     "A News": 1,
     "BioSpectrum Asia": 1,
-    "سانا": 1,
+    "سانا": 2,
     "Yeni Safak English": 1,
-    "ASHARQ AL-AWSAT English": 5,
+    "ASHARQ AL-AWSAT English": 6,
     "Daily Tribune": 1,
     "Curly Tales": 1,
     "Modern Diplomacy": 1,
@@ -13776,7 +13776,7 @@
     "ETHRWorld.com": 1,
     "UA.NEWS": 1,
     "الحرة": 1,
-    "Finimize": 1,
+    "Finimize": 2,
     "Alvarez & Marsal": 1,
     "Gulf Daily News (Bahrain)": 1,
     "SaudiGulf Projects": 1,
@@ -13784,7 +13784,7 @@
     "Addis Standard": 1,
     "MEED": 1,
     "Palestine Chronicle": 1,
-    "Atlantic Council": 3,
+    "Atlantic Council": 4,
     "The Washington Post": 1,
     "Daily Pakistan": 1,
     "Arabian Business": 1,
@@ -13805,10 +13805,22 @@
     "Yahoo Sports": 2,
     "TechRound": 1,
     "Gulf Today": 1,
-    "Ahram Online": 1,
-    "Middle East Eye": 1,
+    "Ahram Online": 2,
+    "Middle East Eye": 2,
     "Middle East Monitor": 1,
-    "Al Arabiya English": 2
+    "Al Arabiya English": 2,
+    "Yahoo News Singapore": 1,
+    "The International Institute for Strategic Studies": 1,
+    "Business Insider Africa": 1,
+    "Boston Herald": 1,
+    "Defence24.com": 1,
+    "The Independent": 1,
+    "Investing.com": 1,
+    "www.marketscreener.com": 1,
+    "Deccan Chronicle": 1,
+    "Facebook": 1,
+    "Fashion United": 1,
+    "StreetInsider": 1
    },
    "sourceTone": {
     "The Times of India": [
@@ -13823,12 +13835,12 @@
     ],
     "Reuters": [
      0,
-     48,
+     60,
      0
     ],
     "Arab News": [
      0,
-     46,
+     52,
      0
     ],
     "The Guardian": [
@@ -13858,7 +13870,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     2,
+     3,
      0
     ],
     "Breakingthenews.net": [
@@ -13918,7 +13930,7 @@
     ],
     "Zawya": [
      0,
-     1,
+     2,
      0
     ],
     "Al-Monitor": [
@@ -13958,7 +13970,7 @@
     ],
     "Saudi Gazette": [
      0,
-     6,
+     8,
      0
     ],
     "A News": [
@@ -13973,7 +13985,7 @@
     ],
     "سانا": [
      0,
-     1,
+     2,
      0
     ],
     "Yeni Safak English": [
@@ -13983,7 +13995,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     5,
+     6,
      0
     ],
     "Daily Tribune": [
@@ -14113,7 +14125,7 @@
     ],
     "Finimize": [
      0,
-     1,
+     2,
      0
     ],
     "Alvarez & Marsal": [
@@ -14153,7 +14165,7 @@
     ],
     "Atlantic Council": [
      0,
-     3,
+     4,
      0
     ],
     "The Washington Post": [
@@ -14258,12 +14270,12 @@
     ],
     "Ahram Online": [
      0,
-     1,
+     2,
      0
     ],
     "Middle East Eye": [
      0,
-     1,
+     2,
      0
     ],
     "Middle East Monitor": [
@@ -14274,6 +14286,66 @@
     "Al Arabiya English": [
      0,
      2,
+     0
+    ],
+    "Yahoo News Singapore": [
+     0,
+     1,
+     0
+    ],
+    "The International Institute for Strategic Studies": [
+     0,
+     1,
+     0
+    ],
+    "Business Insider Africa": [
+     0,
+     1,
+     0
+    ],
+    "Boston Herald": [
+     0,
+     1,
+     0
+    ],
+    "Defence24.com": [
+     0,
+     1,
+     0
+    ],
+    "The Independent": [
+     0,
+     1,
+     0
+    ],
+    "Investing.com": [
+     0,
+     1,
+     0
+    ],
+    "www.marketscreener.com": [
+     0,
+     1,
+     0
+    ],
+    "Deccan Chronicle": [
+     0,
+     1,
+     0
+    ],
+    "Facebook": [
+     0,
+     1,
+     0
+    ],
+    "Fashion United": [
+     0,
+     1,
+     0
+    ],
+    "StreetInsider": [
+     0,
+     1,
      0
     ]
    }
