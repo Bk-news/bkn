@@ -13634,16 +13634,16 @@
    }
   },
   "2026-11-16": {
-   "total": 26,
-   "news": 26,
+   "total": 28,
+   "news": 28,
    "articles": 0,
    "positive": 0,
-   "neutral": 26,
+   "neutral": 28,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "FR": 2,
-    "GB": 4,
+    "GB": 6,
     "SA": 2,
     "US": 2,
     "HK": 1
@@ -13652,9 +13652,9 @@
    "sources": {
     "The Times of India": 2,
     "France 24": 2,
-    "Reuters": 1,
+    "Reuters": 2,
     "Arab News": 2,
-    "The Guardian": 2,
+    "The Guardian": 3,
     "The New York Times": 1,
     "WSJ": 1,
     "BBC": 1,
@@ -13685,7 +13685,7 @@
     ],
     "Reuters": [
      0,
-     1,
+     2,
      0
     ],
     "Arab News": [
@@ -13695,7 +13695,7 @@
     ],
     "The Guardian": [
      0,
-     2,
+     3,
      0
     ],
     "The New York Times": [
