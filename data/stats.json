@@ -13634,11 +13634,11 @@
    }
   },
   "2026-11-16": {
-   "total": 24,
-   "news": 24,
+   "total": 26,
+   "news": 26,
    "articles": 0,
    "positive": 0,
-   "neutral": 24,
+   "neutral": 26,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -13669,7 +13669,8 @@
     "Dawn": 1,
     "Gulf News": 1,
     "조선일보": 1,
-    "Nacionale": 1
+    "Nacionale": 1,
+    "Chosunbiz": 2
    },
    "sourceTone": {
     "The Times of India": [
@@ -13770,6 +13771,11 @@
     "Nacionale": [
      0,
      1,
+     0
+    ],
+    "Chosunbiz": [
+     0,
+     2,
      0
     ]
    }
