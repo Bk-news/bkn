@@ -12077,15 +12077,15 @@
    }
   },
   "2026-11-14": {
-   "total": 470,
-   "news": 470,
+   "total": 471,
+   "news": 471,
    "articles": 0,
    "positive": 0,
-   "neutral": 470,
+   "neutral": 471,
    "critical": 0,
    "mbs": 5,
    "countries": {
-    "US": 44,
+    "US": 45,
     "SA": 74,
     "GB": 188,
     "HK": 2,
@@ -12114,7 +12114,7 @@
     "Financial Times": 20,
     "Le Monde.fr": 1,
     "Facebook": 1,
-    "Bloomberg.com": 4,
+    "Bloomberg.com": 5,
     "The Guardian": 97,
     "BBC": 9,
     "Saudi Gazette": 9,
@@ -12315,7 +12315,7 @@
     ],
     "Bloomberg.com": [
      0,
-     4,
+     5,
      0
     ],
     "The Guardian": [
@@ -12801,32 +12801,32 @@
    }
   },
   "2026-11-15": {
-   "total": 436,
-   "news": 433,
-   "articles": 3,
+   "total": 459,
+   "news": 455,
+   "articles": 4,
    "positive": 0,
-   "neutral": 436,
+   "neutral": 459,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 41,
-    "US": 44,
+    "SA": 44,
+    "US": 46,
     "FR": 15,
-    "GB": 139,
-    "HK": 5,
+    "GB": 154,
+    "HK": 7,
     "DE": 2,
     "JP": 1
    },
    "topics": {},
    "sources": {
     "houseofsaud.com": 2,
-    "Arab News": 54,
+    "Arab News": 56,
     "WSJ": 9,
     "UA.NEWS": 3,
     "Dawn": 1,
     "Le Monde.fr": 10,
     "France 24": 5,
-    "The New York Times": 12,
+    "The New York Times": 13,
     "Al Jazeera": 2,
     "The Straits Times": 1,
     "Breakingthenews.net": 6,
@@ -12838,7 +12838,7 @@
     "Gulf News": 4,
     "Seoul Economic Daily": 1,
     "Middle East Eye": 5,
-    "The Guardian": 93,
+    "The Guardian": 99,
     "Kyabram Free Press": 1,
     "Telangana Today": 1,
     "The Korea Times": 1,
@@ -12849,10 +12849,10 @@
     "AP News": 5,
     "NDTV": 3,
     "Apa.az": 1,
-    "South China Morning Post": 5,
+    "South China Morning Post": 7,
     "The National": 2,
     "BBC": 5,
-    "Reuters": 38,
+    "Reuters": 46,
     "The Washington Post": 2,
     "Bloomberg.com": 5,
     "Spiegel": 2,
@@ -12865,7 +12865,7 @@
     "News of Bahrain": 1,
     "Khaleej Times": 1,
     "Mehr News Agency": 2,
-    "Saudi Gazette": 8,
+    "Saudi Gazette": 9,
     "IndexBox": 3,
     "Travel & Tourism News Middle East": 2,
     "Yonhap News Agency": 1,
@@ -12898,7 +12898,7 @@
     "Nikkei Asia": 1,
     "وكالة الأنباء السعودية": 3,
     "CNN": 1,
-    "The Economist": 2,
+    "The Economist": 3,
     "Atlantic Council": 1,
     "sabahnews.net": 1,
     "Israel National News": 1,
@@ -12945,7 +12945,9 @@
     "Türkiye Today": 1,
     "Seeking Alpha": 1,
     "New York Post": 1,
-    "شبكة تواصل الإخبارية": 1
+    "شبكة تواصل الإخبارية": 1,
+    "Bloomberg": 1,
+    "DW.com": 1
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -12955,7 +12957,7 @@
     ],
     "Arab News": [
      0,
-     54,
+     56,
      0
     ],
     "WSJ": [
@@ -12985,7 +12987,7 @@
     ],
     "The New York Times": [
      0,
-     12,
+     13,
      0
     ],
     "Al Jazeera": [
@@ -13045,7 +13047,7 @@
     ],
     "The Guardian": [
      0,
-     93,
+     99,
      0
     ],
     "Kyabram Free Press": [
@@ -13100,7 +13102,7 @@
     ],
     "South China Morning Post": [
      0,
-     5,
+     7,
      0
     ],
     "The National": [
@@ -13115,7 +13117,7 @@
     ],
     "Reuters": [
      0,
-     38,
+     46,
      0
     ],
     "The Washington Post": [
@@ -13180,7 +13182,7 @@
     ],
     "Saudi Gazette": [
      0,
-     8,
+     9,
      0
     ],
     "IndexBox": [
@@ -13345,7 +13347,7 @@
     ],
     "The Economist": [
      0,
-     2,
+     3,
      0
     ],
     "Atlantic Council": [
@@ -13579,6 +13581,120 @@
      0
     ],
     "شبكة تواصل الإخبارية": [
+     0,
+     1,
+     0
+    ],
+    "Bloomberg": [
+     0,
+     1,
+     0
+    ],
+    "DW.com": [
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "2026-11-16": {
+   "total": 16,
+   "news": 16,
+   "articles": 0,
+   "positive": 0,
+   "neutral": 16,
+   "critical": 0,
+   "mbs": 1,
+   "countries": {
+    "FR": 1,
+    "GB": 3,
+    "SA": 2,
+    "US": 2
+   },
+   "topics": {},
+   "sources": {
+    "The Times of India": 2,
+    "France 24": 1,
+    "Reuters": 1,
+    "Arab News": 2,
+    "The Guardian": 1,
+    "The New York Times": 1,
+    "WSJ": 1,
+    "BBC": 1,
+    "Українські Національні Новини (УНН)": 1,
+    "https://houseofsaud.com/": 1,
+    "Breakingthenews.net": 1,
+    "Amnesty International": 1,
+    "The Straits Times": 1,
+    "Travel Weekly": 1
+   },
+   "sourceTone": {
+    "The Times of India": [
+     0,
+     2,
+     0
+    ],
+    "France 24": [
+     0,
+     1,
+     0
+    ],
+    "Reuters": [
+     0,
+     1,
+     0
+    ],
+    "Arab News": [
+     0,
+     2,
+     0
+    ],
+    "The Guardian": [
+     0,
+     1,
+     0
+    ],
+    "The New York Times": [
+     0,
+     1,
+     0
+    ],
+    "WSJ": [
+     0,
+     1,
+     0
+    ],
+    "BBC": [
+     0,
+     1,
+     0
+    ],
+    "Українські Національні Новини (УНН)": [
+     0,
+     1,
+     0
+    ],
+    "https://houseofsaud.com/": [
+     0,
+     1,
+     0
+    ],
+    "Breakingthenews.net": [
+     0,
+     1,
+     0
+    ],
+    "Amnesty International": [
+     0,
+     1,
+     0
+    ],
+    "The Straits Times": [
+     0,
+     1,
+     0
+    ],
+    "Travel Weekly": [
      0,
      1,
      0
