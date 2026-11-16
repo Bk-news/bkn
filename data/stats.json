@@ -12077,16 +12077,16 @@
    }
   },
   "2026-11-14": {
-   "total": 473,
-   "news": 473,
+   "total": 478,
+   "news": 478,
    "articles": 0,
    "positive": 0,
-   "neutral": 473,
+   "neutral": 478,
    "critical": 0,
    "mbs": 5,
    "countries": {
-    "US": 46,
-    "SA": 74,
+    "US": 47,
+    "SA": 78,
     "GB": 189,
     "HK": 2,
     "FR": 2,
@@ -12095,8 +12095,8 @@
    "topics": {},
    "sources": {
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
-    "The New York Times": 12,
-    "Arab News": 77,
+    "The New York Times": 13,
+    "Arab News": 81,
     "Reuters": 63,
     "Chosunbiz": 9,
     "Korea JoongAng Daily": 1,
@@ -12220,12 +12220,12 @@
     ],
     "The New York Times": [
      0,
-     12,
+     13,
      0
     ],
     "Arab News": [
      0,
-     77,
+     81,
      0
     ],
     "Reuters": [
@@ -12801,15 +12801,15 @@
    }
   },
   "2026-11-15": {
-   "total": 470,
-   "news": 466,
+   "total": 475,
+   "news": 471,
    "articles": 4,
    "positive": 0,
-   "neutral": 470,
+   "neutral": 475,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 44,
+    "SA": 49,
     "US": 46,
     "FR": 15,
     "GB": 160,
@@ -12820,7 +12820,7 @@
    "topics": {},
    "sources": {
     "houseofsaud.com": 2,
-    "Arab News": 56,
+    "Arab News": 61,
     "WSJ": 9,
     "UA.NEWS": 3,
     "Dawn": 1,
@@ -12961,7 +12961,7 @@
     ],
     "Arab News": [
      0,
-     56,
+     61,
      0
     ],
     "WSJ": [
@@ -13622,26 +13622,26 @@
    }
   },
   "2026-11-16": {
-   "total": 16,
-   "news": 16,
+   "total": 18,
+   "news": 18,
    "articles": 0,
    "positive": 0,
-   "neutral": 16,
+   "neutral": 18,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "FR": 1,
-    "GB": 3,
+    "FR": 2,
+    "GB": 4,
     "SA": 2,
     "US": 2
    },
    "topics": {},
    "sources": {
     "The Times of India": 2,
-    "France 24": 1,
+    "France 24": 2,
     "Reuters": 1,
     "Arab News": 2,
-    "The Guardian": 1,
+    "The Guardian": 2,
     "The New York Times": 1,
     "WSJ": 1,
     "BBC": 1,
@@ -13660,7 +13660,7 @@
     ],
     "France 24": [
      0,
-     1,
+     2,
      0
     ],
     "Reuters": [
@@ -13675,7 +13675,7 @@
     ],
     "The Guardian": [
      0,
-     1,
+     2,
      0
     ],
     "The New York Times": [
