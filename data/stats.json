@@ -12801,18 +12801,18 @@
    }
   },
   "2026-11-15": {
-   "total": 483,
-   "news": 479,
-   "articles": 4,
+   "total": 487,
+   "news": 482,
+   "articles": 5,
    "positive": 0,
-   "neutral": 483,
+   "neutral": 487,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 49,
+    "SA": 50,
     "US": 46,
     "FR": 15,
-    "GB": 165,
+    "GB": 166,
     "HK": 7,
     "DE": 2,
     "JP": 1
@@ -12865,7 +12865,7 @@
     "News of Bahrain": 1,
     "Khaleej Times": 1,
     "Mehr News Agency": 2,
-    "Saudi Gazette": 9,
+    "Saudi Gazette": 10,
     "IndexBox": 3,
     "Travel & Tourism News Middle East": 2,
     "Yonhap News Agency": 1,
@@ -12898,7 +12898,7 @@
     "Nikkei Asia": 1,
     "وكالة الأنباء السعودية": 3,
     "CNN": 1,
-    "The Economist": 3,
+    "The Economist": 4,
     "Atlantic Council": 1,
     "sabahnews.net": 1,
     "Israel National News": 1,
@@ -12954,7 +12954,9 @@
     "Toowoomba Chronicle": 1,
     "Phys.org": 1,
     "Xinhua": 1,
-    "Arkeonews": 1
+    "Arkeonews": 1,
+    "Breitbart News": 1,
+    "The Sunday Guardian": 1
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -13189,7 +13191,7 @@
     ],
     "Saudi Gazette": [
      0,
-     9,
+     10,
      0
     ],
     "IndexBox": [
@@ -13354,7 +13356,7 @@
     ],
     "The Economist": [
      0,
-     3,
+     4,
      0
     ],
     "Atlantic Council": [
@@ -13636,47 +13638,66 @@
      0,
      1,
      0
+    ],
+    "Breitbart News": [
+     0,
+     1,
+     0
+    ],
+    "The Sunday Guardian": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-16": {
-   "total": 32,
-   "news": 32,
+   "total": 68,
+   "news": 68,
    "articles": 0,
    "positive": 0,
-   "neutral": 32,
+   "neutral": 68,
    "critical": 0,
-   "mbs": 1,
+   "mbs": 2,
    "countries": {
-    "FR": 2,
-    "GB": 8,
-    "SA": 2,
-    "US": 2,
-    "HK": 1
+    "FR": 3,
+    "GB": 23,
+    "SA": 6,
+    "US": 10,
+    "HK": 4
    },
    "topics": {},
    "sources": {
     "The Times of India": 2,
     "France 24": 2,
-    "Reuters": 3,
-    "Arab News": 3,
-    "The Guardian": 4,
-    "The New York Times": 1,
-    "WSJ": 1,
-    "BBC": 1,
+    "Reuters": 7,
+    "Arab News": 8,
+    "The Guardian": 7,
+    "The New York Times": 2,
+    "WSJ": 3,
+    "BBC": 5,
     "Українські Національні Новини (УНН)": 1,
     "https://houseofsaud.com/": 1,
     "Breakingthenews.net": 1,
     "Amnesty International": 2,
     "The Straits Times": 1,
     "Travel Weekly": 1,
-    "South China Morning Post": 1,
+    "South China Morning Post": 4,
     "X": 1,
     "Dawn": 1,
     "Gulf News": 1,
     "조선일보": 1,
     "Nacionale": 1,
-    "Chosunbiz": 2
+    "Chosunbiz": 2,
+    "Zawya": 1,
+    "Al-Monitor": 3,
+    "Bloomberg.com": 1,
+    "Financial Times": 4,
+    "Le Monde.fr": 1,
+    "AP News": 1,
+    "The Business Standard": 1,
+    "Condé Nast Traveller Middle East": 1,
+    "Saudi Gazette": 1
    },
    "sourceTone": {
     "The Times of India": [
@@ -13691,32 +13712,32 @@
     ],
     "Reuters": [
      0,
-     3,
+     7,
      0
     ],
     "Arab News": [
      0,
-     3,
+     8,
      0
     ],
     "The Guardian": [
      0,
-     4,
+     7,
      0
     ],
     "The New York Times": [
      0,
-     1,
+     2,
      0
     ],
     "WSJ": [
      0,
-     1,
+     3,
      0
     ],
     "BBC": [
      0,
-     1,
+     5,
      0
     ],
     "Українські Національні Новини (УНН)": [
@@ -13751,7 +13772,7 @@
     ],
     "South China Morning Post": [
      0,
-     1,
+     4,
      0
     ],
     "X": [
@@ -13782,6 +13803,51 @@
     "Chosunbiz": [
      0,
      2,
+     0
+    ],
+    "Zawya": [
+     0,
+     1,
+     0
+    ],
+    "Al-Monitor": [
+     0,
+     3,
+     0
+    ],
+    "Bloomberg.com": [
+     0,
+     1,
+     0
+    ],
+    "Financial Times": [
+     0,
+     4,
+     0
+    ],
+    "Le Monde.fr": [
+     0,
+     1,
+     0
+    ],
+    "AP News": [
+     0,
+     1,
+     0
+    ],
+    "The Business Standard": [
+     0,
+     1,
+     0
+    ],
+    "Condé Nast Traveller Middle East": [
+     0,
+     1,
+     0
+    ],
+    "Saudi Gazette": [
+     0,
+     1,
      0
     ]
    }
