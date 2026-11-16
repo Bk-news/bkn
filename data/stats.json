@@ -13688,11 +13688,11 @@
    }
   },
   "2026-11-16": {
-   "total": 149,
-   "news": 149,
+   "total": 150,
+   "news": 150,
    "articles": 0,
    "positive": 0,
-   "neutral": 149,
+   "neutral": 150,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -13767,7 +13767,8 @@
     "Finimize": 1,
     "Alvarez & Marsal": 1,
     "Gulf Daily News (Bahrain)": 1,
-    "SaudiGulf Projects": 1
+    "SaudiGulf Projects": 1,
+    "Business Standard": 1
    },
    "sourceTone": {
     "The Times of India": [
@@ -14086,6 +14087,11 @@
      0
     ],
     "SaudiGulf Projects": [
+     0,
+     1,
+     0
+    ],
+    "Business Standard": [
      0,
      1,
      0
