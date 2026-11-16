@@ -12801,11 +12801,11 @@
    }
   },
   "2026-11-15": {
-   "total": 494,
-   "news": 489,
+   "total": 496,
+   "news": 491,
    "articles": 5,
    "positive": 0,
-   "neutral": 494,
+   "neutral": 496,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -12959,7 +12959,9 @@
     "The Sunday Guardian": 1,
     "দৈনিক আগামীর সময়": 1,
     "The Express Tribune": 1,
-    "The Japan Times": 1
+    "The Japan Times": 1,
+    "Goal.com": 1,
+    "The Financial Express": 1
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -13663,6 +13665,16 @@
      0
     ],
     "The Japan Times": [
+     0,
+     1,
+     0
+    ],
+    "Goal.com": [
+     0,
+     1,
+     0
+    ],
+    "The Financial Express": [
      0,
      1,
      0
