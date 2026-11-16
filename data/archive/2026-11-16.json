@@ -2,6 +2,27 @@
  "day": "2026-11-16",
  "items": [
   {
+   "id": "3f222373ceaaf37b",
+   "origin": "rss",
+   "source": "The Economist",
+   "author": "",
+   "title_ar": "العالم باختصار: تحاول أمريكا مراقبة الصادرات؛ ترامب منفتح على عودة هوانغ",
+   "title_orig": "World in Brief: America tries to police chip exports; Trump open to Huang returning",
+   "title_en": "World in Brief: America tries to police chip exports; Trump open to Huang returning",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUzZ3bkZ5MWlYaVczcW1qTF9UUWx4WUszanhiNEpjMWFvTmdhcEUxZm1fYzNWUFVpMURLTnRBNVlkaXlxMzE0NWdIRm1tRUtqaHhIX0luSDcyZzlGX3dFNFJxdzZrMTVwYUVaZnhBQkFBSmVNYmo5SElOWC1SM0J1Y1hmbkJXcXIwVDVYcHJIU09wdlRTTHg4?oc=5",
+   "published": "2026-11-16T19:09:11.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "World in Brief: America tries to police chip exports; Trump open to Huang returning &nbsp;&nbsp; The Economist",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "d90a8bacb53516a9",
    "origin": "rss",
    "source": "The Guardian",

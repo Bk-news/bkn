@@ -13700,16 +13700,16 @@
    }
   },
   "2026-11-16": {
-   "total": 394,
+   "total": 395,
    "news": 391,
-   "articles": 3,
+   "articles": 4,
    "positive": 0,
-   "neutral": 394,
+   "neutral": 395,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "FR": 36,
-    "GB": 116,
+    "GB": 117,
     "SA": 41,
     "US": 54,
     "HK": 5
@@ -13823,7 +13823,8 @@
     "StreetInsider": 1,
     "Carnegie Endowment for International Peace": 1,
     "Egypt Today": 1,
-    "NewsCord": 1
+    "NewsCord": 1,
+    "The Economist": 1
    },
    "sourceTone": {
     "The Times of India": [
@@ -14362,6 +14363,11 @@
      0
     ],
     "NewsCord": [
+     0,
+     1,
+     0
+    ],
+    "The Economist": [
      0,
      1,
      0
