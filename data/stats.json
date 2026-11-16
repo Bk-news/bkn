@@ -12801,11 +12801,11 @@
    }
   },
   "2026-11-15": {
-   "total": 501,
-   "news": 496,
+   "total": 502,
+   "news": 497,
    "articles": 5,
    "positive": 0,
-   "neutral": 501,
+   "neutral": 502,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -12962,7 +12962,8 @@
     "The Japan Times": 1,
     "Goal.com": 1,
     "The Financial Express": 1,
-    "ProPakistani": 1
+    "ProPakistani": 1,
+    "Times of Karachi": 1
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -13681,6 +13682,11 @@
      0
     ],
     "ProPakistani": [
+     0,
+     1,
+     0
+    ],
+    "Times of Karachi": [
      0,
      1,
      0
