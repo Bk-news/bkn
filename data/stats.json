@@ -13700,18 +13700,18 @@
    }
   },
   "2026-11-16": {
-   "total": 422,
-   "news": 418,
+   "total": 425,
+   "news": 421,
    "articles": 4,
    "positive": 0,
-   "neutral": 422,
+   "neutral": 425,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "FR": 38,
-    "GB": 120,
+    "GB": 122,
     "SA": 52,
-    "US": 55,
+    "US": 56,
     "HK": 5
    },
    "topics": {},
@@ -13720,10 +13720,10 @@
     "France 24": 34,
     "Reuters": 60,
     "Arab News": 62,
-    "The Guardian": 36,
+    "The Guardian": 37,
     "The New York Times": 7,
     "WSJ": 8,
-    "BBC": 18,
+    "BBC": 19,
     "Українські Національні Новини (УНН)": 1,
     "https://houseofsaud.com/": 4,
     "Breakingthenews.net": 1,
@@ -13739,7 +13739,7 @@
     "Chosunbiz": 3,
     "Zawya": 2,
     "Al-Monitor": 20,
-    "Bloomberg.com": 9,
+    "Bloomberg.com": 10,
     "Financial Times": 9,
     "Le Monde.fr": 4,
     "AP News": 5,
@@ -13852,7 +13852,7 @@
     ],
     "The Guardian": [
      0,
-     36,
+     37,
      0
     ],
     "The New York Times": [
@@ -13867,7 +13867,7 @@
     ],
     "BBC": [
      0,
-     18,
+     19,
      0
     ],
     "Українські Національні Новини (УНН)": [
@@ -13947,7 +13947,7 @@
     ],
     "Bloomberg.com": [
      0,
-     9,
+     10,
      0
     ],
     "Financial Times": [
