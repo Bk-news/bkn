@@ -13682,16 +13682,16 @@
    }
   },
   "2026-11-16": {
-   "total": 144,
-   "news": 144,
+   "total": 146,
+   "news": 146,
    "articles": 0,
    "positive": 0,
-   "neutral": 144,
+   "neutral": 146,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "FR": 3,
-    "GB": 43,
+    "GB": 44,
     "SA": 14,
     "US": 12,
     "HK": 4
@@ -13705,7 +13705,7 @@
     "The Guardian": 15,
     "The New York Times": 2,
     "WSJ": 3,
-    "BBC": 12,
+    "BBC": 13,
     "Українські Національні Новини (УНН)": 1,
     "https://houseofsaud.com/": 2,
     "Breakingthenews.net": 1,
@@ -13760,7 +13760,8 @@
     "الحرة": 1,
     "Finimize": 1,
     "Alvarez & Marsal": 1,
-    "Gulf Daily News (Bahrain)": 1
+    "Gulf Daily News (Bahrain)": 1,
+    "SaudiGulf Projects": 1
    },
    "sourceTone": {
     "The Times of India": [
@@ -13800,7 +13801,7 @@
     ],
     "BBC": [
      0,
-     12,
+     13,
      0
     ],
     "Українські Національні Новини (УНН)": [
@@ -14074,6 +14075,11 @@
      0
     ],
     "Gulf Daily News (Bahrain)": [
+     0,
+     1,
+     0
+    ],
+    "SaudiGulf Projects": [
      0,
      1,
      0
