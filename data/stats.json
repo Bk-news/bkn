@@ -12077,17 +12077,17 @@
    }
   },
   "2026-11-14": {
-   "total": 483,
-   "news": 483,
+   "total": 489,
+   "news": 489,
    "articles": 0,
    "positive": 0,
-   "neutral": 483,
+   "neutral": 489,
    "critical": 0,
    "mbs": 5,
    "countries": {
     "US": 47,
     "SA": 79,
-    "GB": 193,
+    "GB": 199,
     "HK": 2,
     "FR": 2,
     "DE": 4
@@ -12097,7 +12097,7 @@
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
     "The New York Times": 13,
     "Arab News": 82,
-    "Reuters": 63,
+    "Reuters": 64,
     "Chosunbiz": 9,
     "Korea JoongAng Daily": 1,
     "Bioengineer.org": 2,
@@ -12111,7 +12111,7 @@
     "The AFC": 3,
     "AP News": 6,
     "South China Morning Post": 2,
-    "Financial Times": 24,
+    "Financial Times": 29,
     "Le Monde.fr": 1,
     "Facebook": 1,
     "Bloomberg.com": 5,
@@ -12230,7 +12230,7 @@
     ],
     "Reuters": [
      0,
-     63,
+     64,
      0
     ],
     "Chosunbiz": [
@@ -12300,7 +12300,7 @@
     ],
     "Financial Times": [
      0,
-     24,
+     29,
      0
     ],
     "Le Monde.fr": [
@@ -12801,18 +12801,18 @@
    }
   },
   "2026-11-15": {
-   "total": 487,
-   "news": 482,
+   "total": 490,
+   "news": 485,
    "articles": 5,
    "positive": 0,
-   "neutral": 487,
+   "neutral": 490,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 50,
     "US": 46,
     "FR": 15,
-    "GB": 166,
+    "GB": 167,
     "HK": 7,
     "DE": 2,
     "JP": 1
@@ -12852,7 +12852,7 @@
     "South China Morning Post": 7,
     "The National": 2,
     "BBC": 5,
-    "Reuters": 56,
+    "Reuters": 57,
     "The Washington Post": 2,
     "Bloomberg.com": 5,
     "Spiegel": 2,
@@ -12956,7 +12956,9 @@
     "Xinhua": 1,
     "Arkeonews": 1,
     "Breitbart News": 1,
-    "The Sunday Guardian": 1
+    "The Sunday Guardian": 1,
+    "দৈনিক আগামীর সময়": 1,
+    "The Express Tribune": 1
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -13126,7 +13128,7 @@
     ],
     "Reuters": [
      0,
-     56,
+     57,
      0
     ],
     "The Washington Post": [
@@ -13648,34 +13650,44 @@
      0,
      1,
      0
+    ],
+    "দৈনিক আগামীর সময়": [
+     0,
+     1,
+     0
+    ],
+    "The Express Tribune": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-16": {
-   "total": 68,
-   "news": 68,
+   "total": 99,
+   "news": 99,
    "articles": 0,
    "positive": 0,
-   "neutral": 68,
+   "neutral": 99,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "FR": 3,
-    "GB": 23,
-    "SA": 6,
-    "US": 10,
+    "GB": 38,
+    "SA": 13,
+    "US": 11,
     "HK": 4
    },
    "topics": {},
    "sources": {
     "The Times of India": 2,
     "France 24": 2,
-    "Reuters": 7,
-    "Arab News": 8,
-    "The Guardian": 7,
+    "Reuters": 12,
+    "Arab News": 15,
+    "The Guardian": 12,
     "The New York Times": 2,
     "WSJ": 3,
-    "BBC": 5,
+    "BBC": 10,
     "Українські Національні Новини (УНН)": 1,
     "https://houseofsaud.com/": 1,
     "Breakingthenews.net": 1,
@@ -13685,19 +13697,24 @@
     "South China Morning Post": 4,
     "X": 1,
     "Dawn": 1,
-    "Gulf News": 1,
+    "Gulf News": 2,
     "조선일보": 1,
     "Nacionale": 1,
-    "Chosunbiz": 2,
+    "Chosunbiz": 3,
     "Zawya": 1,
     "Al-Monitor": 3,
     "Bloomberg.com": 1,
     "Financial Times": 4,
     "Le Monde.fr": 1,
-    "AP News": 1,
+    "AP News": 2,
     "The Business Standard": 1,
     "Condé Nast Traveller Middle East": 1,
-    "Saudi Gazette": 1
+    "Saudi Gazette": 2,
+    "A News": 1,
+    "BioSpectrum Asia": 1,
+    "سانا": 1,
+    "Yeni Safak English": 1,
+    "ASHARQ AL-AWSAT English": 1
    },
    "sourceTone": {
     "The Times of India": [
@@ -13712,17 +13729,17 @@
     ],
     "Reuters": [
      0,
-     7,
+     12,
      0
     ],
     "Arab News": [
      0,
-     8,
+     15,
      0
     ],
     "The Guardian": [
      0,
-     7,
+     12,
      0
     ],
     "The New York Times": [
@@ -13737,7 +13754,7 @@
     ],
     "BBC": [
      0,
-     5,
+     10,
      0
     ],
     "Українські Національні Новини (УНН)": [
@@ -13787,7 +13804,7 @@
     ],
     "Gulf News": [
      0,
-     1,
+     2,
      0
     ],
     "조선일보": [
@@ -13802,7 +13819,7 @@
     ],
     "Chosunbiz": [
      0,
-     2,
+     3,
      0
     ],
     "Zawya": [
@@ -13832,7 +13849,7 @@
     ],
     "AP News": [
      0,
-     1,
+     2,
      0
     ],
     "The Business Standard": [
@@ -13846,6 +13863,31 @@
      0
     ],
     "Saudi Gazette": [
+     0,
+     2,
+     0
+    ],
+    "A News": [
+     0,
+     1,
+     0
+    ],
+    "BioSpectrum Asia": [
+     0,
+     1,
+     0
+    ],
+    "سانا": [
+     0,
+     1,
+     0
+    ],
+    "Yeni Safak English": [
+     0,
+     1,
+     0
+    ],
+    "ASHARQ AL-AWSAT English": [
      0,
      1,
      0
