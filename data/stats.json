@@ -13700,11 +13700,11 @@
    }
   },
   "2026-11-16": {
-   "total": 419,
-   "news": 415,
+   "total": 420,
+   "news": 416,
    "articles": 4,
    "positive": 0,
-   "neutral": 419,
+   "neutral": 420,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -13826,7 +13826,8 @@
     "NewsCord": 1,
     "The Economist": 1,
     "Al Jazeera": 1,
-    "Dunya News": 1
+    "Dunya News": 1,
+    "Sent-trib": 1
    },
    "sourceTone": {
     "The Times of India": [
@@ -14380,6 +14381,11 @@
      0
     ],
     "Dunya News": [
+     0,
+     1,
+     0
+    ],
+    "Sent-trib": [
      0,
      1,
      0
