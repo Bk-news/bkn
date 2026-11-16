@@ -2,6 +2,27 @@
  "day": "2026-11-16",
  "items": [
   {
+   "id": "21cfb898984c6b69",
+   "origin": "rss",
+   "source": "Arab News",
+   "author": "",
+   "title_ar": "المبعوث السوري يقول لمجلس الأمن الدولي إن العالم قد سئم من الهجمات الإسرائيلية",
+   "title_orig": "Syrian envoy tells UN Security Council the world has ‘had enough’ of Israeli attacks",
+   "title_en": "Syrian envoy tells UN Security Council the world has ‘had enough’ of Israeli attacks",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdWM1STFOTWZsbm9pTnJaQS1WLThzRjdEZkZwOVNWYW8tM0tjRm1LNEw1eGxSM0tZSlY1RGtseHlmSTdjU3FsS25rbTNTeWVMQ0lxMUR2Q3R0OEFyaGh5RnBaUUJYQ1dqaTNOS1VJaVExTFRQYm9JUHpIaXdhRk5GRVhmNjdUVV9PV1kwUmR6Y1NxM0l5elNXbG5XU2w3Y1dzc1R4VDk4SkxEU0dUZE51d1lOOHUzR1pud3lpa1hjMVFGc1VnT3c?oc=5",
+   "published": "2026-11-16T19:30:46.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "SA",
+   "pending": true,
+   "desc": "Syrian envoy tells UN Security Council the world has ‘had enough’ of Israeli attacks &nbsp;&nbsp; Arab News",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "a8bc83ec4218b495",
    "origin": "rss",
    "source": "Al Jazeera",
