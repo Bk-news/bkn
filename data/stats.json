@@ -12077,17 +12077,17 @@
    }
   },
   "2026-11-14": {
-   "total": 478,
-   "news": 478,
+   "total": 482,
+   "news": 482,
    "articles": 0,
    "positive": 0,
-   "neutral": 478,
+   "neutral": 482,
    "critical": 0,
    "mbs": 5,
    "countries": {
     "US": 47,
     "SA": 78,
-    "GB": 189,
+    "GB": 193,
     "HK": 2,
     "FR": 2,
     "DE": 4
@@ -12111,7 +12111,7 @@
     "The AFC": 3,
     "AP News": 6,
     "South China Morning Post": 2,
-    "Financial Times": 20,
+    "Financial Times": 24,
     "Le Monde.fr": 1,
     "Facebook": 1,
     "Bloomberg.com": 5,
@@ -12300,7 +12300,7 @@
     ],
     "Financial Times": [
      0,
-     20,
+     24,
      0
     ],
     "Le Monde.fr": [
@@ -12801,18 +12801,18 @@
    }
   },
   "2026-11-15": {
-   "total": 475,
-   "news": 471,
+   "total": 477,
+   "news": 473,
    "articles": 4,
    "positive": 0,
-   "neutral": 475,
+   "neutral": 477,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 49,
     "US": 46,
     "FR": 15,
-    "GB": 160,
+    "GB": 162,
     "HK": 7,
     "DE": 2,
     "JP": 1
@@ -12852,7 +12852,7 @@
     "South China Morning Post": 7,
     "The National": 2,
     "BBC": 5,
-    "Reuters": 52,
+    "Reuters": 54,
     "The Washington Post": 2,
     "Bloomberg.com": 5,
     "Spiegel": 2,
@@ -13121,7 +13121,7 @@
     ],
     "Reuters": [
      0,
-     52,
+     54,
      0
     ],
     "The Washington Post": [
