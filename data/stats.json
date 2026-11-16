@@ -12801,16 +12801,16 @@
    }
   },
   "2026-11-15": {
-   "total": 505,
-   "news": 500,
+   "total": 509,
+   "news": 504,
    "articles": 5,
    "positive": 0,
-   "neutral": 505,
+   "neutral": 509,
    "critical": 0,
-   "mbs": 1,
+   "mbs": 2,
    "countries": {
-    "SA": 51,
-    "US": 46,
+    "SA": 52,
+    "US": 48,
     "FR": 15,
     "GB": 172,
     "HK": 8,
@@ -12821,12 +12821,12 @@
    "sources": {
     "houseofsaud.com": 2,
     "Arab News": 62,
-    "WSJ": 9,
+    "WSJ": 10,
     "UA.NEWS": 4,
     "Dawn": 1,
     "Le Monde.fr": 10,
     "France 24": 5,
-    "The New York Times": 13,
+    "The New York Times": 14,
     "Al Jazeera": 2,
     "The Straits Times": 1,
     "Breakingthenews.net": 6,
@@ -12865,7 +12865,7 @@
     "News of Bahrain": 1,
     "Khaleej Times": 1,
     "Mehr News Agency": 2,
-    "Saudi Gazette": 10,
+    "Saudi Gazette": 11,
     "IndexBox": 3,
     "Travel & Tourism News Middle East": 2,
     "Yonhap News Agency": 1,
@@ -12896,7 +12896,7 @@
     "MarketScale": 1,
     "The Arab Weekly": 1,
     "Nikkei Asia": 1,
-    "وكالة الأنباء السعودية": 3,
+    "وكالة الأنباء السعودية": 4,
     "CNN": 1,
     "The Economist": 4,
     "Atlantic Council": 1,
@@ -12979,7 +12979,7 @@
     ],
     "WSJ": [
      0,
-     9,
+     10,
      0
     ],
     "UA.NEWS": [
@@ -13004,7 +13004,7 @@
     ],
     "The New York Times": [
      0,
-     13,
+     14,
      0
     ],
     "Al Jazeera": [
@@ -13199,7 +13199,7 @@
     ],
     "Saudi Gazette": [
      0,
-     10,
+     11,
      0
     ],
     "IndexBox": [
@@ -13354,7 +13354,7 @@
     ],
     "وكالة الأنباء السعودية": [
      0,
-     3,
+     4,
      0
     ],
     "CNN": [
@@ -13700,30 +13700,30 @@
    }
   },
   "2026-11-16": {
-   "total": 195,
-   "news": 193,
-   "articles": 2,
+   "total": 231,
+   "news": 228,
+   "articles": 3,
    "positive": 0,
-   "neutral": 195,
+   "neutral": 231,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "FR": 8,
-    "GB": 57,
-    "SA": 22,
-    "US": 26,
+    "FR": 12,
+    "GB": 69,
+    "SA": 25,
+    "US": 38,
     "HK": 5
    },
    "topics": {},
    "sources": {
     "The Times of India": 2,
-    "France 24": 5,
-    "Reuters": 18,
-    "Arab News": 21,
-    "The Guardian": 20,
-    "The New York Times": 4,
-    "WSJ": 5,
-    "BBC": 15,
+    "France 24": 8,
+    "Reuters": 21,
+    "Arab News": 24,
+    "The Guardian": 23,
+    "The New York Times": 6,
+    "WSJ": 7,
+    "BBC": 18,
     "Українські Національні Новини (УНН)": 1,
     "https://houseofsaud.com/": 2,
     "Breakingthenews.net": 1,
@@ -13733,16 +13733,16 @@
     "South China Morning Post": 5,
     "X": 1,
     "Dawn": 1,
-    "Gulf News": 2,
+    "Gulf News": 3,
     "조선일보": 2,
     "Nacionale": 2,
     "Chosunbiz": 3,
     "Zawya": 1,
-    "Al-Monitor": 6,
-    "Bloomberg.com": 3,
-    "Financial Times": 6,
-    "Le Monde.fr": 3,
-    "AP News": 4,
+    "Al-Monitor": 9,
+    "Bloomberg.com": 6,
+    "Financial Times": 9,
+    "Le Monde.fr": 4,
+    "AP News": 5,
     "The Business Standard": 1,
     "Condé Nast Traveller Middle East": 1,
     "Saudi Gazette": 6,
@@ -13784,13 +13784,17 @@
     "Addis Standard": 1,
     "MEED": 1,
     "Palestine Chronicle": 1,
-    "Atlantic Council": 2,
+    "Atlantic Council": 3,
     "The Washington Post": 1,
     "Daily Pakistan": 1,
     "Arabian Business": 1,
     "OC Media": 1,
     "Bloomberg": 1,
-    "Khaama Press": 1
+    "Khaama Press": 1,
+    "The New Arab": 1,
+    "The Express Tribune": 1,
+    "Sports Illustrated": 1,
+    "MillenniumPost": 1
    },
    "sourceTone": {
     "The Times of India": [
@@ -13800,37 +13804,37 @@
     ],
     "France 24": [
      0,
-     5,
+     8,
      0
     ],
     "Reuters": [
      0,
-     18,
+     21,
      0
     ],
     "Arab News": [
      0,
-     21,
+     24,
      0
     ],
     "The Guardian": [
      0,
-     20,
+     23,
      0
     ],
     "The New York Times": [
      0,
-     4,
+     6,
      0
     ],
     "WSJ": [
      0,
-     5,
+     7,
      0
     ],
     "BBC": [
      0,
-     15,
+     18,
      0
     ],
     "Українські Національні Новини (УНН)": [
@@ -13880,7 +13884,7 @@
     ],
     "Gulf News": [
      0,
-     2,
+     3,
      0
     ],
     "조선일보": [
@@ -13905,27 +13909,27 @@
     ],
     "Al-Monitor": [
      0,
-     6,
+     9,
      0
     ],
     "Bloomberg.com": [
      0,
-     3,
+     6,
      0
     ],
     "Financial Times": [
      0,
-     6,
+     9,
      0
     ],
     "Le Monde.fr": [
      0,
-     3,
+     4,
      0
     ],
     "AP News": [
      0,
-     4,
+     5,
      0
     ],
     "The Business Standard": [
@@ -14135,7 +14139,7 @@
     ],
     "Atlantic Council": [
      0,
-     2,
+     3,
      0
     ],
     "The Washington Post": [
@@ -14164,6 +14168,26 @@
      0
     ],
     "Khaama Press": [
+     0,
+     1,
+     0
+    ],
+    "The New Arab": [
+     0,
+     1,
+     0
+    ],
+    "The Express Tribune": [
+     0,
+     1,
+     0
+    ],
+    "Sports Illustrated": [
+     0,
+     1,
+     0
+    ],
+    "MillenniumPost": [
      0,
      1,
      0
