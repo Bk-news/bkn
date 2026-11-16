@@ -12801,11 +12801,11 @@
    }
   },
   "2026-11-15": {
-   "total": 514,
-   "news": 509,
+   "total": 515,
+   "news": 510,
    "articles": 5,
    "positive": 0,
-   "neutral": 514,
+   "neutral": 515,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -12814,7 +12814,7 @@
     "FR": 15,
     "GB": 173,
     "HK": 8,
-    "DE": 2,
+    "DE": 3,
     "JP": 1
    },
    "topics": {},
@@ -12855,7 +12855,7 @@
     "Reuters": 59,
     "The Washington Post": 2,
     "Bloomberg.com": 5,
-    "Spiegel": 2,
+    "Spiegel": 3,
     "Hum News English": 1,
     "Financial Times": 4,
     "Arab News PK": 4,
@@ -13149,7 +13149,7 @@
     ],
     "Spiegel": [
      0,
-     2,
+     3,
      0
     ],
     "Hum News English": [
@@ -13700,18 +13700,18 @@
    }
   },
   "2026-11-16": {
-   "total": 386,
-   "news": 383,
+   "total": 391,
+   "news": 388,
    "articles": 3,
    "positive": 0,
-   "neutral": 386,
+   "neutral": 391,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "FR": 36,
     "GB": 115,
     "SA": 41,
-    "US": 52,
+    "US": 54,
     "HK": 5
    },
    "topics": {},
@@ -13721,8 +13721,8 @@
     "Reuters": 60,
     "Arab News": 52,
     "The Guardian": 31,
-    "The New York Times": 6,
-    "WSJ": 7,
+    "The New York Times": 7,
+    "WSJ": 8,
     "BBC": 18,
     "Українські Національні Новини (УНН)": 1,
     "https://houseofsaud.com/": 3,
@@ -13744,7 +13744,7 @@
     "Le Monde.fr": 4,
     "AP News": 5,
     "The Business Standard": 1,
-    "Condé Nast Traveller Middle East": 1,
+    "Condé Nast Traveller Middle East": 2,
     "Saudi Gazette": 8,
     "A News": 1,
     "BioSpectrum Asia": 1,
@@ -13820,7 +13820,9 @@
     "Deccan Chronicle": 1,
     "Facebook": 1,
     "Fashion United": 1,
-    "StreetInsider": 1
+    "StreetInsider": 1,
+    "Carnegie Endowment for International Peace": 1,
+    "Egypt Today": 1
    },
    "sourceTone": {
     "The Times of India": [
@@ -13850,12 +13852,12 @@
     ],
     "The New York Times": [
      0,
-     6,
+     7,
      0
     ],
     "WSJ": [
      0,
-     7,
+     8,
      0
     ],
     "BBC": [
@@ -13965,7 +13967,7 @@
     ],
     "Condé Nast Traveller Middle East": [
      0,
-     1,
+     2,
      0
     ],
     "Saudi Gazette": [
@@ -14344,6 +14346,16 @@
      0
     ],
     "StreetInsider": [
+     0,
+     1,
+     0
+    ],
+    "Carnegie Endowment for International Peace": [
+     0,
+     1,
+     0
+    ],
+    "Egypt Today": [
      0,
      1,
      0
