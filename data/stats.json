@@ -12801,11 +12801,11 @@
    }
   },
   "2026-11-15": {
-   "total": 477,
-   "news": 473,
+   "total": 478,
+   "news": 474,
    "articles": 4,
    "positive": 0,
-   "neutral": 477,
+   "neutral": 478,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -12951,7 +12951,8 @@
     "NewsCord": 1,
     "Eurasia Review": 1,
     "DZRH": 1,
-    "Toowoomba Chronicle": 1
+    "Toowoomba Chronicle": 1,
+    "Phys.org": 1
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -13615,6 +13616,11 @@
      0
     ],
     "Toowoomba Chronicle": [
+     0,
+     1,
+     0
+    ],
+    "Phys.org": [
      0,
      1,
      0
