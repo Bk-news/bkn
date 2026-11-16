@@ -12801,11 +12801,11 @@
    }
   },
   "2026-11-15": {
-   "total": 496,
-   "news": 491,
+   "total": 497,
+   "news": 492,
    "articles": 5,
    "positive": 0,
-   "neutral": 496,
+   "neutral": 497,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -12874,7 +12874,7 @@
     "The Kenyan Diaspora Media": 1,
     "Ynetnews": 2,
     "Middle East Online": 1,
-    "سانا": 3,
+    "سانا": 4,
     "New Age BD": 1,
     "جريدة القدس": 1,
     "Nation Thailand": 1,
@@ -13241,7 +13241,7 @@
     ],
     "سانا": [
      0,
-     3,
+     4,
      0
     ],
     "New Age BD": [
