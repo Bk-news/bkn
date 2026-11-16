@@ -13700,17 +13700,17 @@
    }
   },
   "2026-11-16": {
-   "total": 403,
-   "news": 399,
+   "total": 405,
+   "news": 401,
    "articles": 4,
    "positive": 0,
-   "neutral": 403,
+   "neutral": 405,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "FR": 38,
     "GB": 117,
-    "SA": 47,
+    "SA": 49,
     "US": 54,
     "HK": 5
    },
@@ -13719,7 +13719,7 @@
     "The Times of India": 2,
     "France 24": 34,
     "Reuters": 60,
-    "Arab News": 58,
+    "Arab News": 59,
     "The Guardian": 33,
     "The New York Times": 7,
     "WSJ": 8,
@@ -13745,7 +13745,7 @@
     "AP News": 5,
     "The Business Standard": 1,
     "Condé Nast Traveller Middle East": 2,
-    "Saudi Gazette": 8,
+    "Saudi Gazette": 9,
     "A News": 1,
     "BioSpectrum Asia": 1,
     "سانا": 2,
@@ -13844,7 +13844,7 @@
     ],
     "Arab News": [
      0,
-     58,
+     59,
      0
     ],
     "The Guardian": [
@@ -13974,7 +13974,7 @@
     ],
     "Saudi Gazette": [
      0,
-     8,
+     9,
      0
     ],
     "A News": [
