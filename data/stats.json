@@ -13682,18 +13682,18 @@
    }
   },
   "2026-11-16": {
-   "total": 142,
-   "news": 142,
+   "total": 144,
+   "news": 144,
    "articles": 0,
    "positive": 0,
-   "neutral": 142,
+   "neutral": 144,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "FR": 3,
     "GB": 43,
     "SA": 14,
-    "US": 11,
+    "US": 12,
     "HK": 4
    },
    "topics": {},
@@ -13721,7 +13721,7 @@
     "Chosunbiz": 3,
     "Zawya": 1,
     "Al-Monitor": 3,
-    "Bloomberg.com": 1,
+    "Bloomberg.com": 2,
     "Financial Times": 4,
     "Le Monde.fr": 1,
     "AP News": 2,
@@ -13759,7 +13759,8 @@
     "UA.NEWS": 1,
     "الحرة": 1,
     "Finimize": 1,
-    "Alvarez & Marsal": 1
+    "Alvarez & Marsal": 1,
+    "Gulf Daily News (Bahrain)": 1
    },
    "sourceTone": {
     "The Times of India": [
@@ -13879,7 +13880,7 @@
     ],
     "Bloomberg.com": [
      0,
-     1,
+     2,
      0
     ],
     "Financial Times": [
@@ -14068,6 +14069,11 @@
      0
     ],
     "Alvarez & Marsal": [
+     0,
+     1,
+     0
+    ],
+    "Gulf Daily News (Bahrain)": [
      0,
      1,
      0
