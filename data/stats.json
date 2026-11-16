@@ -12801,15 +12801,15 @@
    }
   },
   "2026-11-15": {
-   "total": 497,
-   "news": 492,
+   "total": 498,
+   "news": 493,
    "articles": 5,
    "positive": 0,
-   "neutral": 497,
+   "neutral": 498,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 50,
+    "SA": 51,
     "US": 46,
     "FR": 15,
     "GB": 170,
@@ -12820,7 +12820,7 @@
    "topics": {},
    "sources": {
     "houseofsaud.com": 2,
-    "Arab News": 61,
+    "Arab News": 62,
     "WSJ": 9,
     "UA.NEWS": 3,
     "Dawn": 1,
@@ -12971,7 +12971,7 @@
     ],
     "Arab News": [
      0,
-     61,
+     62,
      0
     ],
     "WSJ": [
