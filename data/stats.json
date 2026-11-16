@@ -13628,11 +13628,11 @@
    }
   },
   "2026-11-16": {
-   "total": 19,
-   "news": 19,
+   "total": 20,
+   "news": 20,
    "articles": 0,
    "positive": 0,
-   "neutral": 19,
+   "neutral": 20,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -13658,7 +13658,8 @@
     "Amnesty International": 1,
     "The Straits Times": 1,
     "Travel Weekly": 1,
-    "South China Morning Post": 1
+    "South China Morning Post": 1,
+    "X": 1
    },
    "sourceTone": {
     "The Times of India": [
@@ -13732,6 +13733,11 @@
      0
     ],
     "South China Morning Post": [
+     0,
+     1,
+     0
+    ],
+    "X": [
      0,
      1,
      0
