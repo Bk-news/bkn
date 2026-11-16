@@ -13694,17 +13694,17 @@
    }
   },
   "2026-11-16": {
-   "total": 150,
-   "news": 150,
+   "total": 154,
+   "news": 154,
    "articles": 0,
    "positive": 0,
-   "neutral": 150,
+   "neutral": 154,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "FR": 3,
     "GB": 46,
-    "SA": 15,
+    "SA": 17,
     "US": 12,
     "HK": 4
    },
@@ -13713,7 +13713,7 @@
     "The Times of India": 2,
     "France 24": 2,
     "Reuters": 15,
-    "Arab News": 17,
+    "Arab News": 19,
     "The Guardian": 16,
     "The New York Times": 2,
     "WSJ": 3,
@@ -13774,7 +13774,9 @@
     "Alvarez & Marsal": 1,
     "Gulf Daily News (Bahrain)": 1,
     "SaudiGulf Projects": 1,
-    "Business Standard": 1
+    "Business Standard": 1,
+    "Addis Standard": 1,
+    "MEED": 1
    },
    "sourceTone": {
     "The Times of India": [
@@ -13794,7 +13796,7 @@
     ],
     "Arab News": [
      0,
-     17,
+     19,
      0
     ],
     "The Guardian": [
@@ -14098,6 +14100,16 @@
      0
     ],
     "Business Standard": [
+     0,
+     1,
+     0
+    ],
+    "Addis Standard": [
+     0,
+     1,
+     0
+    ],
+    "MEED": [
      0,
      1,
      0
