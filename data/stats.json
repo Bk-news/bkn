@@ -13700,11 +13700,11 @@
    }
   },
   "2026-11-16": {
-   "total": 420,
-   "news": 416,
+   "total": 422,
+   "news": 418,
    "articles": 4,
    "positive": 0,
-   "neutral": 420,
+   "neutral": 422,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -13757,7 +13757,7 @@
     "The National": 2,
     "marketscreener.com": 1,
     "The National Law Review": 1,
-    "TradingView": 2,
+    "TradingView": 3,
     "Al Majalla": 1,
     "Demócrata": 1,
     "The Financial Express": 1,
@@ -13811,7 +13811,7 @@
     "Al Arabiya English": 2,
     "Yahoo News Singapore": 1,
     "The International Institute for Strategic Studies": 1,
-    "Business Insider Africa": 2,
+    "Business Insider Africa": 3,
     "Boston Herald": 1,
     "Defence24.com": 1,
     "The Independent": 1,
@@ -14037,7 +14037,7 @@
     ],
     "TradingView": [
      0,
-     2,
+     3,
      0
     ],
     "Al Majalla": [
@@ -14307,7 +14307,7 @@
     ],
     "Business Insider Africa": [
      0,
-     2,
+     3,
      0
     ],
     "Boston Herald": [
