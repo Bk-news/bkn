@@ -13634,11 +13634,11 @@
    }
   },
   "2026-11-16": {
-   "total": 21,
-   "news": 21,
+   "total": 22,
+   "news": 22,
    "articles": 0,
    "positive": 0,
-   "neutral": 21,
+   "neutral": 22,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -13666,7 +13666,8 @@
     "Travel Weekly": 1,
     "South China Morning Post": 1,
     "X": 1,
-    "Dawn": 1
+    "Dawn": 1,
+    "Gulf News": 1
    },
    "sourceTone": {
     "The Times of India": [
@@ -13750,6 +13751,11 @@
      0
     ],
     "Dawn": [
+     0,
+     1,
+     0
+    ],
+    "Gulf News": [
      0,
      1,
      0
