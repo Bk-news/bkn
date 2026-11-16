@@ -13700,11 +13700,11 @@
    }
   },
   "2026-11-16": {
-   "total": 391,
-   "news": 388,
+   "total": 393,
+   "news": 390,
    "articles": 3,
    "positive": 0,
-   "neutral": 391,
+   "neutral": 393,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -13720,7 +13720,7 @@
     "France 24": 32,
     "Reuters": 60,
     "Arab News": 52,
-    "The Guardian": 31,
+    "The Guardian": 32,
     "The New York Times": 7,
     "WSJ": 8,
     "BBC": 18,
@@ -13822,7 +13822,8 @@
     "Fashion United": 1,
     "StreetInsider": 1,
     "Carnegie Endowment for International Peace": 1,
-    "Egypt Today": 1
+    "Egypt Today": 1,
+    "NewsCord": 1
    },
    "sourceTone": {
     "The Times of India": [
@@ -13847,7 +13848,7 @@
     ],
     "The Guardian": [
      0,
-     31,
+     32,
      0
     ],
     "The New York Times": [
@@ -14356,6 +14357,11 @@
      0
     ],
     "Egypt Today": [
+     0,
+     1,
+     0
+    ],
+    "NewsCord": [
      0,
      1,
      0
