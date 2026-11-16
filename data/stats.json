@@ -12801,15 +12801,15 @@
    }
   },
   "2026-11-15": {
-   "total": 515,
-   "news": 510,
+   "total": 516,
+   "news": 511,
    "articles": 5,
    "positive": 0,
-   "neutral": 515,
+   "neutral": 516,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "SA": 53,
+    "SA": 54,
     "US": 51,
     "FR": 15,
     "GB": 173,
@@ -12820,7 +12820,7 @@
    "topics": {},
    "sources": {
     "houseofsaud.com": 2,
-    "Arab News": 63,
+    "Arab News": 64,
     "WSJ": 10,
     "UA.NEWS": 4,
     "Dawn": 1,
@@ -12974,7 +12974,7 @@
     ],
     "Arab News": [
      0,
-     63,
+     64,
      0
     ],
     "WSJ": [
@@ -13700,26 +13700,26 @@
    }
   },
   "2026-11-16": {
-   "total": 395,
-   "news": 391,
+   "total": 402,
+   "news": 398,
    "articles": 4,
    "positive": 0,
-   "neutral": 395,
+   "neutral": 402,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "FR": 36,
+    "FR": 37,
     "GB": 117,
-    "SA": 41,
+    "SA": 47,
     "US": 54,
     "HK": 5
    },
    "topics": {},
    "sources": {
     "The Times of India": 2,
-    "France 24": 32,
+    "France 24": 33,
     "Reuters": 60,
-    "Arab News": 52,
+    "Arab News": 58,
     "The Guardian": 33,
     "The New York Times": 7,
     "WSJ": 8,
@@ -13834,7 +13834,7 @@
     ],
     "France 24": [
      0,
-     32,
+     33,
      0
     ],
     "Reuters": [
@@ -13844,7 +13844,7 @@
     ],
     "Arab News": [
      0,
-     52,
+     58,
      0
     ],
     "The Guardian": [
