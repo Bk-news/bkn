@@ -12801,11 +12801,11 @@
    }
   },
   "2026-11-15": {
-   "total": 480,
-   "news": 476,
+   "total": 481,
+   "news": 477,
    "articles": 4,
    "positive": 0,
-   "neutral": 480,
+   "neutral": 481,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -12952,7 +12952,8 @@
     "Eurasia Review": 1,
     "DZRH": 1,
     "Toowoomba Chronicle": 1,
-    "Phys.org": 1
+    "Phys.org": 1,
+    "Xinhua": 1
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -13624,15 +13625,20 @@
      0,
      1,
      0
+    ],
+    "Xinhua": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-16": {
-   "total": 20,
-   "news": 20,
+   "total": 21,
+   "news": 21,
    "articles": 0,
    "positive": 0,
-   "neutral": 20,
+   "neutral": 21,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -13659,7 +13665,8 @@
     "The Straits Times": 1,
     "Travel Weekly": 1,
     "South China Morning Post": 1,
-    "X": 1
+    "X": 1,
+    "Dawn": 1
    },
    "sourceTone": {
     "The Times of India": [
@@ -13738,6 +13745,11 @@
      0
     ],
     "X": [
+     0,
+     1,
+     0
+    ],
+    "Dawn": [
      0,
      1,
      0
