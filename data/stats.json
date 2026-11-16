@@ -13670,16 +13670,16 @@
    }
   },
   "2026-11-16": {
-   "total": 134,
-   "news": 134,
+   "total": 136,
+   "news": 136,
    "articles": 0,
    "positive": 0,
-   "neutral": 134,
+   "neutral": 136,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "FR": 3,
-    "GB": 39,
+    "GB": 40,
     "SA": 14,
     "US": 11,
     "HK": 4
@@ -13693,7 +13693,7 @@
     "The Guardian": 12,
     "The New York Times": 2,
     "WSJ": 3,
-    "BBC": 11,
+    "BBC": 12,
     "Українські Національні Новини (УНН)": 1,
     "https://houseofsaud.com/": 2,
     "Breakingthenews.net": 1,
@@ -13743,7 +13743,8 @@
     "Griffith University": 1,
     "Campaign Middle East": 1,
     "DD News": 1,
-    "ETHRWorld.com": 1
+    "ETHRWorld.com": 1,
+    "UA.NEWS": 1
    },
    "sourceTone": {
     "The Times of India": [
@@ -13783,7 +13784,7 @@
     ],
     "BBC": [
      0,
-     11,
+     12,
      0
     ],
     "Українські Національні Новини (УНН)": [
@@ -14032,6 +14033,11 @@
      0
     ],
     "ETHRWorld.com": [
+     0,
+     1,
+     0
+    ],
+    "UA.NEWS": [
      0,
      1,
      0
