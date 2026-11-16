@@ -12801,11 +12801,11 @@
    }
   },
   "2026-11-15": {
-   "total": 502,
-   "news": 497,
+   "total": 504,
+   "news": 499,
    "articles": 5,
    "positive": 0,
-   "neutral": 502,
+   "neutral": 504,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -12822,7 +12822,7 @@
     "houseofsaud.com": 2,
     "Arab News": 62,
     "WSJ": 9,
-    "UA.NEWS": 3,
+    "UA.NEWS": 4,
     "Dawn": 1,
     "Le Monde.fr": 10,
     "France 24": 5,
@@ -12963,7 +12963,8 @@
     "Goal.com": 1,
     "The Financial Express": 1,
     "ProPakistani": 1,
-    "Times of Karachi": 1
+    "Times of Karachi": 1,
+    "theopenpress.in": 1
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -12983,7 +12984,7 @@
     ],
     "UA.NEWS": [
      0,
-     3,
+     4,
      0
     ],
     "Dawn": [
@@ -13687,6 +13688,11 @@
      0
     ],
     "Times of Karachi": [
+     0,
+     1,
+     0
+    ],
+    "theopenpress.in": [
      0,
      1,
      0
