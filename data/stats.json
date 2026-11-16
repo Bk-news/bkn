@@ -13700,11 +13700,11 @@
    }
   },
   "2026-11-16": {
-   "total": 425,
-   "news": 421,
+   "total": 426,
+   "news": 422,
    "articles": 4,
    "positive": 0,
-   "neutral": 425,
+   "neutral": 426,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -13827,7 +13827,8 @@
     "The Economist": 1,
     "Al Jazeera": 1,
     "Dunya News": 1,
-    "Sent-trib": 1
+    "Sent-trib": 1,
+    "Qatar news agency": 1
    },
    "sourceTone": {
     "The Times of India": [
@@ -14386,6 +14387,11 @@
      0
     ],
     "Sent-trib": [
+     0,
+     1,
+     0
+    ],
+    "Qatar news agency": [
      0,
      1,
      0
