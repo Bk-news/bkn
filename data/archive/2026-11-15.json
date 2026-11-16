@@ -107,6 +107,27 @@
    "mt": true
   },
   {
+   "id": "afb3b2b320afce5a",
+   "origin": "rss",
+   "source": "Reuters",
+   "author": "",
+   "title_ar": "أغلق مؤشر S&P 500 على ارتفاع في أواخر الجلسة",
+   "title_orig": "S&P 500 closes higher in late session U-turn",
+   "title_en": "S&P 500 closes higher in late session U-turn",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pTzdNeERwNV9QR1cwclExWTNUNEUyeHVXOWpfVXNCaDFmSUI3M2JHR19xb1lneEVFU1RueUtKMXJlMldiUnB5RnRwaUxvVW02c1dnSVhnQnoyYmpX?oc=5",
+   "published": "2026-11-15T23:26:21.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "S&P 500 closes higher in late session U-turn &nbsp;&nbsp; Reuters",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "a08b9658db48d611",
    "origin": "rss",
    "source": "Reuters",

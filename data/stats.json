@@ -12801,18 +12801,18 @@
    }
   },
   "2026-11-15": {
-   "total": 478,
-   "news": 474,
+   "total": 479,
+   "news": 475,
    "articles": 4,
    "positive": 0,
-   "neutral": 478,
+   "neutral": 479,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 49,
     "US": 46,
     "FR": 15,
-    "GB": 162,
+    "GB": 163,
     "HK": 7,
     "DE": 2,
     "JP": 1
@@ -12852,7 +12852,7 @@
     "South China Morning Post": 7,
     "The National": 2,
     "BBC": 5,
-    "Reuters": 54,
+    "Reuters": 55,
     "The Washington Post": 2,
     "Bloomberg.com": 5,
     "Spiegel": 2,
@@ -13122,7 +13122,7 @@
     ],
     "Reuters": [
      0,
-     54,
+     55,
      0
     ],
     "The Washington Post": [
@@ -13628,18 +13628,19 @@
    }
   },
   "2026-11-16": {
-   "total": 18,
-   "news": 18,
+   "total": 19,
+   "news": 19,
    "articles": 0,
    "positive": 0,
-   "neutral": 18,
+   "neutral": 19,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "FR": 2,
     "GB": 4,
     "SA": 2,
-    "US": 2
+    "US": 2,
+    "HK": 1
    },
    "topics": {},
    "sources": {
@@ -13656,7 +13657,8 @@
     "Breakingthenews.net": 1,
     "Amnesty International": 1,
     "The Straits Times": 1,
-    "Travel Weekly": 1
+    "Travel Weekly": 1,
+    "South China Morning Post": 1
    },
    "sourceTone": {
     "The Times of India": [
@@ -13725,6 +13727,11 @@
      0
     ],
     "Travel Weekly": [
+     0,
+     1,
+     0
+    ],
+    "South China Morning Post": [
      0,
      1,
      0
