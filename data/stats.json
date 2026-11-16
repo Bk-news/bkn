@@ -12801,16 +12801,16 @@
    }
   },
   "2026-11-15": {
-   "total": 511,
-   "news": 506,
+   "total": 513,
+   "news": 508,
    "articles": 5,
    "positive": 0,
-   "neutral": 511,
+   "neutral": 513,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 52,
-    "US": 49,
+    "US": 51,
     "FR": 15,
     "GB": 173,
     "HK": 8,
@@ -12844,7 +12844,7 @@
     "The Korea Times": 1,
     "Malay Mail": 1,
     "The Canberra Times": 1,
-    "Al-Monitor": 9,
+    "Al-Monitor": 10,
     "스타뉴스": 2,
     "AP News": 5,
     "NDTV": 3,
@@ -12897,7 +12897,7 @@
     "The Arab Weekly": 1,
     "Nikkei Asia": 1,
     "وكالة الأنباء السعودية": 4,
-    "CNN": 1,
+    "CNN": 2,
     "The Economist": 4,
     "Atlantic Council": 1,
     "sabahnews.net": 1,
@@ -13094,7 +13094,7 @@
     ],
     "Al-Monitor": [
      0,
-     9,
+     10,
      0
     ],
     "스타뉴스": [
@@ -13359,7 +13359,7 @@
     ],
     "CNN": [
      0,
-     1,
+     2,
      0
     ],
     "The Economist": [
@@ -13700,27 +13700,27 @@
    }
   },
   "2026-11-16": {
-   "total": 269,
-   "news": 266,
+   "total": 307,
+   "news": 304,
    "articles": 3,
    "positive": 0,
-   "neutral": 269,
+   "neutral": 307,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "FR": 18,
-    "GB": 80,
-    "SA": 31,
-    "US": 47,
+    "FR": 26,
+    "GB": 90,
+    "SA": 38,
+    "US": 52,
     "HK": 5
    },
    "topics": {},
    "sources": {
     "The Times of India": 2,
-    "France 24": 14,
-    "Reuters": 27,
-    "Arab News": 33,
-    "The Guardian": 28,
+    "France 24": 22,
+    "Reuters": 34,
+    "Arab News": 42,
+    "The Guardian": 31,
     "The New York Times": 6,
     "WSJ": 7,
     "BBC": 18,
@@ -13738,7 +13738,7 @@
     "Nacionale": 2,
     "Chosunbiz": 3,
     "Zawya": 1,
-    "Al-Monitor": 15,
+    "Al-Monitor": 20,
     "Bloomberg.com": 8,
     "Financial Times": 9,
     "Le Monde.fr": 4,
@@ -13754,7 +13754,7 @@
     "Daily Tribune": 1,
     "Curly Tales": 1,
     "Modern Diplomacy": 1,
-    "The National": 1,
+    "The National": 2,
     "marketscreener.com": 1,
     "The National Law Review": 1,
     "TradingView": 2,
@@ -13796,7 +13796,12 @@
     "Sports Illustrated": 1,
     "MillenniumPost": 1,
     "Tehran Times": 1,
-    "CNA": 1
+    "CNA": 1,
+    "Investing.com India": 1,
+    "Crude Oil Prices Today | OilPrice.com": 1,
+    "24/7 Wall St.": 1,
+    "Modern Ghana": 1,
+    "Richmond Register": 1
    },
    "sourceTone": {
     "The Times of India": [
@@ -13806,22 +13811,22 @@
     ],
     "France 24": [
      0,
-     14,
+     22,
      0
     ],
     "Reuters": [
      0,
-     27,
+     34,
      0
     ],
     "Arab News": [
      0,
-     33,
+     42,
      0
     ],
     "The Guardian": [
      0,
-     28,
+     31,
      0
     ],
     "The New York Times": [
@@ -13911,7 +13916,7 @@
     ],
     "Al-Monitor": [
      0,
-     15,
+     20,
      0
     ],
     "Bloomberg.com": [
@@ -13991,7 +13996,7 @@
     ],
     "The National": [
      0,
-     1,
+     2,
      0
     ],
     "marketscreener.com": [
@@ -14200,6 +14205,31 @@
      0
     ],
     "CNA": [
+     0,
+     1,
+     0
+    ],
+    "Investing.com India": [
+     0,
+     1,
+     0
+    ],
+    "Crude Oil Prices Today | OilPrice.com": [
+     0,
+     1,
+     0
+    ],
+    "24/7 Wall St.": [
+     0,
+     1,
+     0
+    ],
+    "Modern Ghana": [
+     0,
+     1,
+     0
+    ],
+    "Richmond Register": [
      0,
      1,
      0
