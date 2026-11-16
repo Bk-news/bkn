@@ -12801,18 +12801,18 @@
    }
   },
   "2026-11-15": {
-   "total": 492,
-   "news": 487,
+   "total": 493,
+   "news": 488,
    "articles": 5,
    "positive": 0,
-   "neutral": 492,
+   "neutral": 493,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 50,
     "US": 46,
     "FR": 15,
-    "GB": 168,
+    "GB": 169,
     "HK": 7,
     "DE": 2,
     "JP": 1
@@ -12838,7 +12838,7 @@
     "Gulf News": 4,
     "Seoul Economic Daily": 1,
     "Middle East Eye": 5,
-    "The Guardian": 100,
+    "The Guardian": 101,
     "Kyabram Free Press": 1,
     "Telangana Today": 1,
     "The Korea Times": 1,
@@ -13059,7 +13059,7 @@
     ],
     "The Guardian": [
      0,
-     100,
+     101,
      0
     ],
     "Kyabram Free Press": [
@@ -13670,11 +13670,11 @@
    }
   },
   "2026-11-16": {
-   "total": 136,
-   "news": 136,
+   "total": 137,
+   "news": 137,
    "articles": 0,
    "positive": 0,
-   "neutral": 136,
+   "neutral": 137,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -13744,7 +13744,8 @@
     "Campaign Middle East": 1,
     "DD News": 1,
     "ETHRWorld.com": 1,
-    "UA.NEWS": 1
+    "UA.NEWS": 1,
+    "الحرة": 1
    },
    "sourceTone": {
     "The Times of India": [
@@ -14038,6 +14039,11 @@
      0
     ],
     "UA.NEWS": [
+     0,
+     1,
+     0
+    ],
+    "الحرة": [
      0,
      1,
      0
