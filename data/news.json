@@ -2415,6 +2415,27 @@
   "mt": true
  },
  {
+  "id": "990431b506ebedd7",
+  "origin": "rss",
+  "source": "The Guardian",
+  "author": "",
+  "title_ar": "ينتقد منظمو Eurovision قيام ماليزيا بإزالة لقطات LGBT+ في المسابقة الآسيوية الأولى",
+  "title_orig": "Eurovision organisers criticise Malaysian removal of LGBT+ footage in first Asian contest",
+  "title_en": "Eurovision organisers criticise Malaysian removal of LGBT+ footage in first Asian contest",
+  "summary_ar": [],
+  "summary_en": [],
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNakdhMnJsazc5dTFjempNSUUxSlRaMnlzZEZvU1NiZFpjeU5qakF5cDZvZVVyVlVHWUk4MHVNQ0NXWG8wUjc4cVo1Tl9qSnFZWEpVTEZRaFJCLTFTVW0zQTl3QnRXZjFSaklSYzlielVqbFpsQXppc05IN3F2TXlDUm4wUDN1MEw3cXhHbXhwUlA2UlJqY2tuVVZrSGFPRi10VU1tbWxOWm5JUkdGcENLMGxIakVzNU5IVGNaQldldU9EQQ?oc=5",
+  "published": "2026-11-16T14:32:00.000Z",
+  "subject": "saudi",
+  "tone": "neutral",
+  "topic": "",
+  "country": "GB",
+  "pending": true,
+  "desc": "Eurovision organisers criticise Malaysian removal of LGBT+ footage in first Asian contest &nbsp;&nbsp; The Guardian",
+  "lang": "en",
+  "mt": true
+ },
+ {
   "id": "66baabb05323aa33",
   "origin": "rss",
   "source": "France 24",
@@ -10476,27 +10497,6 @@
   "pending": true,
   "desc": "Houthis target stations on Saudi East-West pipeline &nbsp;&nbsp; Breakingthenews.net",
   "lang": "en",
-  "mt": true
- },
- {
-  "id": "daebe5116f64d39b",
-  "origin": "rss",
-  "source": "Le Monde.fr",
-  "author": "",
-  "title_ar": "في سيسجورداني، ضابط في وكالة فرانس برس يعتقل من قبل القوات الإسرائيلية",
-  "title_orig": "En Cisjordanie, un pigiste de l’Agence France-Presse arrêté par les forces israéliennes",
-  "title_en": "",
-  "summary_ar": [],
-  "summary_en": [],
-  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOamRxNnJFbHVGTjAzV0NqdzgxN2FfVjllLVRuNUdIMHByenVsTlFUZ0RyOHlmb2ZXRFEyWUVHdjA0dXZMdi1xLU9NVy1WWmRvZXVDT0lMNkdKVVlVZjZRc2ZaVmRaS2ZkbmpKaktnUHFGUTlabEhaeEFlV2tDSllYUGoxV0JjS3JOSDlpdkNEWDliQ0dzTXVSOVJwVlVhTUJPSmY5OHo5ZmlRMkdqS2YyM2xuaXF3c0VPUTN5b3htY2xjaW13NWNPS0lOY1V2YzNDU1Z5Z2dXOGhVVllvU2x2dFBreUFhRmU5aWVDMDQwVDh5Zw?oc=5",
-  "published": "2026-11-15T18:52:58.000Z",
-  "subject": "saudi",
-  "tone": "neutral",
-  "topic": "",
-  "country": "FR",
-  "pending": true,
-  "desc": "En Cisjordanie, un pigiste de l’Agence France-Presse arrêté par les forces israéliennes &nbsp;&nbsp; Le Monde.fr",
-  "lang": "fr",
   "mt": true
  }
 ]
