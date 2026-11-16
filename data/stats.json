@@ -12801,11 +12801,11 @@
    }
   },
   "2026-11-15": {
-   "total": 498,
-   "news": 493,
+   "total": 499,
+   "news": 494,
    "articles": 5,
    "positive": 0,
-   "neutral": 498,
+   "neutral": 499,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -12961,7 +12961,8 @@
     "The Express Tribune": 1,
     "The Japan Times": 1,
     "Goal.com": 1,
-    "The Financial Express": 1
+    "The Financial Express": 1,
+    "ProPakistani": 1
    },
    "sourceTone": {
     "houseofsaud.com": [
@@ -13678,20 +13679,25 @@
      0,
      1,
      0
+    ],
+    "ProPakistani": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-16": {
-   "total": 148,
-   "news": 148,
+   "total": 149,
+   "news": 149,
    "articles": 0,
    "positive": 0,
-   "neutral": 148,
+   "neutral": 149,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "FR": 3,
-    "GB": 45,
+    "GB": 46,
     "SA": 15,
     "US": 12,
     "HK": 4
@@ -13702,7 +13708,7 @@
     "France 24": 2,
     "Reuters": 15,
     "Arab News": 17,
-    "The Guardian": 15,
+    "The Guardian": 16,
     "The New York Times": 2,
     "WSJ": 3,
     "BBC": 13,
@@ -13786,7 +13792,7 @@
     ],
     "The Guardian": [
      0,
-     15,
+     16,
      0
     ],
     "The New York Times": [
