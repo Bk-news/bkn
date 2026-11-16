@@ -13700,17 +13700,17 @@
    }
   },
   "2026-11-16": {
-   "total": 414,
-   "news": 410,
+   "total": 416,
+   "news": 412,
    "articles": 4,
    "positive": 0,
-   "neutral": 414,
+   "neutral": 416,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "FR": 38,
     "GB": 119,
-    "SA": 50,
+    "SA": 51,
     "US": 55,
     "HK": 5
    },
@@ -13745,7 +13745,7 @@
     "AP News": 5,
     "The Business Standard": 1,
     "Condé Nast Traveller Middle East": 2,
-    "Saudi Gazette": 9,
+    "Saudi Gazette": 10,
     "A News": 1,
     "BioSpectrum Asia": 1,
     "سانا": 2,
@@ -13811,7 +13811,7 @@
     "Al Arabiya English": 2,
     "Yahoo News Singapore": 1,
     "The International Institute for Strategic Studies": 1,
-    "Business Insider Africa": 1,
+    "Business Insider Africa": 2,
     "Boston Herald": 1,
     "Defence24.com": 1,
     "The Independent": 1,
@@ -13975,7 +13975,7 @@
     ],
     "Saudi Gazette": [
      0,
-     9,
+     10,
      0
     ],
     "A News": [
@@ -14305,7 +14305,7 @@
     ],
     "Business Insider Africa": [
      0,
-     1,
+     2,
      0
     ],
     "Boston Herald": [
