@@ -12801,15 +12801,15 @@
    }
   },
   "2026-11-15": {
-   "total": 513,
-   "news": 508,
+   "total": 514,
+   "news": 509,
    "articles": 5,
    "positive": 0,
-   "neutral": 513,
+   "neutral": 514,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "SA": 52,
+    "SA": 53,
     "US": 51,
     "FR": 15,
     "GB": 173,
@@ -12820,7 +12820,7 @@
    "topics": {},
    "sources": {
     "houseofsaud.com": 2,
-    "Arab News": 62,
+    "Arab News": 63,
     "WSJ": 10,
     "UA.NEWS": 4,
     "Dawn": 1,
@@ -12974,7 +12974,7 @@
     ],
     "Arab News": [
      0,
-     62,
+     63,
      0
     ],
     "WSJ": [
@@ -13700,26 +13700,26 @@
    }
   },
   "2026-11-16": {
-   "total": 307,
-   "news": 304,
+   "total": 346,
+   "news": 343,
    "articles": 3,
    "positive": 0,
-   "neutral": 307,
+   "neutral": 346,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "FR": 26,
-    "GB": 90,
-    "SA": 38,
+    "FR": 36,
+    "GB": 103,
+    "SA": 41,
     "US": 52,
     "HK": 5
    },
    "topics": {},
    "sources": {
     "The Times of India": 2,
-    "France 24": 22,
-    "Reuters": 34,
-    "Arab News": 42,
+    "France 24": 32,
+    "Reuters": 48,
+    "Arab News": 46,
     "The Guardian": 31,
     "The New York Times": 6,
     "WSJ": 7,
@@ -13750,7 +13750,7 @@
     "BioSpectrum Asia": 1,
     "سانا": 1,
     "Yeni Safak English": 1,
-    "ASHARQ AL-AWSAT English": 3,
+    "ASHARQ AL-AWSAT English": 5,
     "Daily Tribune": 1,
     "Curly Tales": 1,
     "Modern Diplomacy": 1,
@@ -13801,7 +13801,14 @@
     "Crude Oil Prices Today | OilPrice.com": 1,
     "24/7 Wall St.": 1,
     "Modern Ghana": 1,
-    "Richmond Register": 1
+    "Richmond Register": 1,
+    "Yahoo Sports": 2,
+    "TechRound": 1,
+    "Gulf Today": 1,
+    "Ahram Online": 1,
+    "Middle East Eye": 1,
+    "Middle East Monitor": 1,
+    "Al Arabiya English": 2
    },
    "sourceTone": {
     "The Times of India": [
@@ -13811,17 +13818,17 @@
     ],
     "France 24": [
      0,
-     22,
+     32,
      0
     ],
     "Reuters": [
      0,
-     34,
+     48,
      0
     ],
     "Arab News": [
      0,
-     42,
+     46,
      0
     ],
     "The Guardian": [
@@ -13976,7 +13983,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     3,
+     5,
      0
     ],
     "Daily Tribune": [
@@ -14232,6 +14239,41 @@
     "Richmond Register": [
      0,
      1,
+     0
+    ],
+    "Yahoo Sports": [
+     0,
+     2,
+     0
+    ],
+    "TechRound": [
+     0,
+     1,
+     0
+    ],
+    "Gulf Today": [
+     0,
+     1,
+     0
+    ],
+    "Ahram Online": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Eye": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Monitor": [
+     0,
+     1,
+     0
+    ],
+    "Al Arabiya English": [
+     0,
+     2,
      0
     ]
    }
