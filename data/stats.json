@@ -13670,16 +13670,16 @@
    }
   },
   "2026-11-16": {
-   "total": 138,
-   "news": 138,
+   "total": 141,
+   "news": 141,
    "articles": 0,
    "positive": 0,
-   "neutral": 138,
+   "neutral": 141,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "FR": 3,
-    "GB": 40,
+    "GB": 42,
     "SA": 14,
     "US": 11,
     "HK": 4
@@ -13690,7 +13690,7 @@
     "France 24": 2,
     "Reuters": 14,
     "Arab News": 16,
-    "The Guardian": 12,
+    "The Guardian": 14,
     "The New York Times": 2,
     "WSJ": 3,
     "BBC": 12,
@@ -13746,7 +13746,8 @@
     "ETHRWorld.com": 1,
     "UA.NEWS": 1,
     "الحرة": 1,
-    "Finimize": 1
+    "Finimize": 1,
+    "Alvarez & Marsal": 1
    },
    "sourceTone": {
     "The Times of India": [
@@ -13771,7 +13772,7 @@
     ],
     "The Guardian": [
      0,
-     12,
+     14,
      0
     ],
     "The New York Times": [
@@ -14050,6 +14051,11 @@
      0
     ],
     "Finimize": [
+     0,
+     1,
+     0
+    ],
+    "Alvarez & Marsal": [
      0,
      1,
      0
