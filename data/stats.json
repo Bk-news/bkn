@@ -13700,18 +13700,18 @@
    }
   },
   "2026-11-16": {
-   "total": 405,
-   "news": 401,
+   "total": 409,
+   "news": 405,
    "articles": 4,
    "positive": 0,
-   "neutral": 405,
+   "neutral": 409,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "FR": 38,
     "GB": 117,
     "SA": 49,
-    "US": 54,
+    "US": 55,
     "HK": 5
    },
    "topics": {},
@@ -13719,27 +13719,27 @@
     "The Times of India": 2,
     "France 24": 34,
     "Reuters": 60,
-    "Arab News": 59,
+    "Arab News": 60,
     "The Guardian": 33,
     "The New York Times": 7,
     "WSJ": 8,
     "BBC": 18,
     "Українські Національні Новини (УНН)": 1,
-    "https://houseofsaud.com/": 3,
+    "https://houseofsaud.com/": 4,
     "Breakingthenews.net": 1,
     "Amnesty International": 2,
     "The Straits Times": 1,
     "Travel Weekly": 1,
     "South China Morning Post": 5,
     "X": 1,
-    "Dawn": 1,
+    "Dawn": 2,
     "Gulf News": 3,
     "조선일보": 2,
     "Nacionale": 2,
     "Chosunbiz": 3,
     "Zawya": 2,
     "Al-Monitor": 20,
-    "Bloomberg.com": 8,
+    "Bloomberg.com": 9,
     "Financial Times": 9,
     "Le Monde.fr": 4,
     "AP News": 5,
@@ -13844,7 +13844,7 @@
     ],
     "Arab News": [
      0,
-     59,
+     60,
      0
     ],
     "The Guardian": [
@@ -13874,7 +13874,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     3,
+     4,
      0
     ],
     "Breakingthenews.net": [
@@ -13909,7 +13909,7 @@
     ],
     "Dawn": [
      0,
-     1,
+     2,
      0
     ],
     "Gulf News": [
@@ -13944,7 +13944,7 @@
     ],
     "Bloomberg.com": [
      0,
-     8,
+     9,
      0
     ],
     "Financial Times": [
