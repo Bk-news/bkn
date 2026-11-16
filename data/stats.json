@@ -12801,18 +12801,18 @@
    }
   },
   "2026-11-15": {
-   "total": 509,
-   "news": 504,
+   "total": 511,
+   "news": 506,
    "articles": 5,
    "positive": 0,
-   "neutral": 509,
+   "neutral": 511,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 52,
-    "US": 48,
+    "US": 49,
     "FR": 15,
-    "GB": 172,
+    "GB": 173,
     "HK": 8,
     "DE": 2,
     "JP": 1
@@ -12826,7 +12826,7 @@
     "Dawn": 1,
     "Le Monde.fr": 10,
     "France 24": 5,
-    "The New York Times": 14,
+    "The New York Times": 15,
     "Al Jazeera": 2,
     "The Straits Times": 1,
     "Breakingthenews.net": 6,
@@ -12857,7 +12857,7 @@
     "Bloomberg.com": 5,
     "Spiegel": 2,
     "Hum News English": 1,
-    "Financial Times": 3,
+    "Financial Times": 4,
     "Arab News PK": 4,
     "Forbes Middle East": 1,
     "Kenyans.co.ke": 1,
@@ -13004,7 +13004,7 @@
     ],
     "The New York Times": [
      0,
-     14,
+     15,
      0
     ],
     "Al Jazeera": [
@@ -13159,7 +13159,7 @@
     ],
     "Financial Times": [
      0,
-     3,
+     4,
      0
     ],
     "Arab News PK": [
@@ -13700,27 +13700,27 @@
    }
   },
   "2026-11-16": {
-   "total": 231,
-   "news": 228,
+   "total": 269,
+   "news": 266,
    "articles": 3,
    "positive": 0,
-   "neutral": 231,
+   "neutral": 269,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "FR": 12,
-    "GB": 69,
-    "SA": 25,
-    "US": 38,
+    "FR": 18,
+    "GB": 80,
+    "SA": 31,
+    "US": 47,
     "HK": 5
    },
    "topics": {},
    "sources": {
     "The Times of India": 2,
-    "France 24": 8,
-    "Reuters": 21,
-    "Arab News": 24,
-    "The Guardian": 23,
+    "France 24": 14,
+    "Reuters": 27,
+    "Arab News": 33,
+    "The Guardian": 28,
     "The New York Times": 6,
     "WSJ": 7,
     "BBC": 18,
@@ -13738,8 +13738,8 @@
     "Nacionale": 2,
     "Chosunbiz": 3,
     "Zawya": 1,
-    "Al-Monitor": 9,
-    "Bloomberg.com": 6,
+    "Al-Monitor": 15,
+    "Bloomberg.com": 8,
     "Financial Times": 9,
     "Le Monde.fr": 4,
     "AP News": 5,
@@ -13750,7 +13750,7 @@
     "BioSpectrum Asia": 1,
     "سانا": 1,
     "Yeni Safak English": 1,
-    "ASHARQ AL-AWSAT English": 2,
+    "ASHARQ AL-AWSAT English": 3,
     "Daily Tribune": 1,
     "Curly Tales": 1,
     "Modern Diplomacy": 1,
@@ -13789,12 +13789,14 @@
     "Daily Pakistan": 1,
     "Arabian Business": 1,
     "OC Media": 1,
-    "Bloomberg": 1,
+    "Bloomberg": 2,
     "Khaama Press": 1,
     "The New Arab": 1,
     "The Express Tribune": 1,
     "Sports Illustrated": 1,
-    "MillenniumPost": 1
+    "MillenniumPost": 1,
+    "Tehran Times": 1,
+    "CNA": 1
    },
    "sourceTone": {
     "The Times of India": [
@@ -13804,22 +13806,22 @@
     ],
     "France 24": [
      0,
-     8,
+     14,
      0
     ],
     "Reuters": [
      0,
-     21,
+     27,
      0
     ],
     "Arab News": [
      0,
-     24,
+     33,
      0
     ],
     "The Guardian": [
      0,
-     23,
+     28,
      0
     ],
     "The New York Times": [
@@ -13909,12 +13911,12 @@
     ],
     "Al-Monitor": [
      0,
-     9,
+     15,
      0
     ],
     "Bloomberg.com": [
      0,
-     6,
+     8,
      0
     ],
     "Financial Times": [
@@ -13969,7 +13971,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     2,
+     3,
      0
     ],
     "Daily Tribune": [
@@ -14164,7 +14166,7 @@
     ],
     "Bloomberg": [
      0,
-     1,
+     2,
      0
     ],
     "Khaama Press": [
@@ -14188,6 +14190,16 @@
      0
     ],
     "MillenniumPost": [
+     0,
+     1,
+     0
+    ],
+    "Tehran Times": [
+     0,
+     1,
+     0
+    ],
+    "CNA": [
      0,
      1,
      0
