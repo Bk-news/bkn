@@ -13700,17 +13700,17 @@
    }
   },
   "2026-11-16": {
-   "total": 155,
-   "news": 155,
+   "total": 156,
+   "news": 156,
    "articles": 0,
    "positive": 0,
-   "neutral": 155,
+   "neutral": 156,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "FR": 3,
     "GB": 47,
-    "SA": 17,
+    "SA": 18,
     "US": 12,
     "HK": 4
    },
@@ -13745,7 +13745,7 @@
     "AP News": 2,
     "The Business Standard": 1,
     "Condé Nast Traveller Middle East": 1,
-    "Saudi Gazette": 3,
+    "Saudi Gazette": 4,
     "A News": 1,
     "BioSpectrum Asia": 1,
     "سانا": 1,
@@ -13932,7 +13932,7 @@
     ],
     "Saudi Gazette": [
      0,
-     3,
+     4,
      0
     ],
     "A News": [
