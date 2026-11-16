@@ -13700,16 +13700,16 @@
    }
   },
   "2026-11-16": {
-   "total": 409,
-   "news": 405,
+   "total": 411,
+   "news": 407,
    "articles": 4,
    "positive": 0,
-   "neutral": 409,
+   "neutral": 411,
    "critical": 0,
-   "mbs": 2,
+   "mbs": 3,
    "countries": {
     "FR": 38,
-    "GB": 117,
+    "GB": 118,
     "SA": 49,
     "US": 55,
     "HK": 5
@@ -13720,7 +13720,7 @@
     "France 24": 34,
     "Reuters": 60,
     "Arab News": 60,
-    "The Guardian": 33,
+    "The Guardian": 34,
     "The New York Times": 7,
     "WSJ": 8,
     "BBC": 18,
@@ -13731,7 +13731,7 @@
     "The Straits Times": 1,
     "Travel Weekly": 1,
     "South China Morning Post": 5,
-    "X": 1,
+    "X": 2,
     "Dawn": 2,
     "Gulf News": 3,
     "조선일보": 2,
@@ -13849,7 +13849,7 @@
     ],
     "The Guardian": [
      0,
-     33,
+     34,
      0
     ],
     "The New York Times": [
@@ -13904,7 +13904,7 @@
     ],
     "X": [
      0,
-     1,
+     2,
      0
     ],
     "Dawn": [
