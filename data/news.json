@@ -1,5 +1,26 @@
 [
  {
+  "id": "a8bc83ec4218b495",
+  "origin": "rss",
+  "source": "Al Jazeera",
+  "author": "",
+  "title_ar": "السعودية تقيل قائد قوات التحالف التي تقاتل الحوثيين",
+  "title_orig": "Saudi Arabia dismisses commander of coalition forces fighting Houthis",
+  "title_en": "Saudi Arabia dismisses commander of coalition forces fighting Houthis",
+  "summary_ar": [],
+  "summary_en": [],
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd203NG52SlFONmtCTm91YjhsamNiTGxGRFlza0ZqS2FETXNPNHZ3Z1RDMWlaLXZGVjhua3A3QVA2WXgyd3ExOW96UVgweGU1VmpaM0toTl9DVEQxZXBFZVlCMDhOTmRsWExzOWhSZVNUVmFBSW50NmpUc1F3TEhYcXZ1Tno0ekdmY1lOZmhnbEM0YTNBQ2s2dWlPaTJ5U0VxRzJCQVpMZjJOaDRnTzFUbNIBtgFBVV95cUxOWGw4WGYyQUpwckQ1RUFsdjlTM25OMFYtUnlwTldhY2JhR2JwQXp0UTFOUE52Vm5qa3lCSzBZMllBNnBGcUJhOTh2Wl9lWHk2Y2VtQmh6aUZ6Z2dTRmJoY3BvR1RhMmdVRkg1Z19WTUxPU0ZOTHozci1EZ2xaX1kzTl9rLWZMb2tieDFRdHIwNWNyQ0tnMjVOQnpnMk5sNkx6YTk0anVyMHo5el9NbWcxUnlHckhqUQ?oc=5",
+  "published": "2026-11-16T19:19:44.000Z",
+  "subject": "saudi",
+  "tone": "neutral",
+  "topic": "",
+  "country": "",
+  "pending": true,
+  "desc": "Saudi Arabia dismisses commander of coalition forces fighting Houthis &nbsp;&nbsp; Al Jazeera",
+  "lang": "en",
+  "mt": true
+ },
+ {
   "id": "de37fbe00a9cb5da",
   "origin": "rss",
   "source": "X",
@@ -10476,27 +10497,6 @@
   "pending": true,
   "desc": "En Cisjordanie, un pigiste de l’Agence France-Presse arrêté par les forces israéliennes &nbsp;&nbsp; Le Monde.fr",
   "lang": "fr",
-  "mt": true
- },
- {
-  "id": "17de516cdcd303b2",
-  "origin": "rss",
-  "source": "Reuters",
-  "author": "",
-  "title_ar": "يقول رئيس بنك الاحتياطي الفيدرالي في مدينة كانساس سيتي إن بنك الاحتياطي الفيدرالي \"لديه بعض العمل للقيام به فيما يتعلق بالتضخم\".",
-  "title_orig": "Fed 'has some work to do on inflation,' KC Fed chief says",
-  "title_en": "Fed 'has some work to do on inflation,' KC Fed chief says",
-  "summary_ar": [],
-  "summary_en": [],
-  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORXg3dWdlUEMzckhPaldaYlFrSXlzQnVLeEJLRGtnMFFpeWh5VXI3akUxWEtLQ3JwSk92b2pvWi1FdjNFWVpBZm9Jck56NDUwQkZDUGZpUG01X3RDLS02enpGcWpnXzc3ZWctengxamdOTDY1MzdYMzgxR0V2THk3Zl9xbXZhTEcyWHEzRDU2YWZ2dTZVaFVpNA?oc=5",
-  "published": "2026-11-15T18:43:43.000Z",
-  "subject": "saudi",
-  "tone": "neutral",
-  "topic": "",
-  "country": "GB",
-  "pending": true,
-  "desc": "Fed 'has some work to do on inflation,' KC Fed chief says &nbsp;&nbsp; Reuters",
-  "lang": "en",
   "mt": true
  }
 ]
