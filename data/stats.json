@@ -13700,24 +13700,25 @@
    }
   },
   "2026-11-16": {
-   "total": 426,
-   "news": 422,
-   "articles": 4,
+   "total": 433,
+   "news": 427,
+   "articles": 6,
    "positive": 0,
-   "neutral": 426,
+   "neutral": 433,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "FR": 38,
+    "FR": 39,
     "GB": 122,
-    "SA": 52,
-    "US": 56,
-    "HK": 5
+    "SA": 53,
+    "US": 59,
+    "HK": 6,
+    "JP": 1
    },
    "topics": {},
    "sources": {
     "The Times of India": 2,
-    "France 24": 34,
+    "France 24": 35,
     "Reuters": 60,
     "Arab News": 62,
     "The Guardian": 37,
@@ -13730,7 +13731,7 @@
     "Amnesty International": 2,
     "The Straits Times": 1,
     "Travel Weekly": 1,
-    "South China Morning Post": 5,
+    "South China Morning Post": 6,
     "X": 2,
     "Dawn": 2,
     "Gulf News": 3,
@@ -13745,7 +13746,7 @@
     "AP News": 5,
     "The Business Standard": 1,
     "Condé Nast Traveller Middle East": 2,
-    "Saudi Gazette": 10,
+    "Saudi Gazette": 11,
     "A News": 1,
     "BioSpectrum Asia": 1,
     "سانا": 2,
@@ -13784,7 +13785,7 @@
     "Addis Standard": 1,
     "MEED": 1,
     "Palestine Chronicle": 1,
-    "Atlantic Council": 4,
+    "Atlantic Council": 5,
     "The Washington Post": 1,
     "Daily Pakistan": 1,
     "Arabian Business": 1,
@@ -13828,7 +13829,10 @@
     "Al Jazeera": 1,
     "Dunya News": 1,
     "Sent-trib": 1,
-    "Qatar news agency": 1
+    "Qatar news agency": 1,
+    "Nikkei Asia": 1,
+    "CNN": 1,
+    "Foreign Policy": 1
    },
    "sourceTone": {
     "The Times of India": [
@@ -13838,7 +13842,7 @@
     ],
     "France 24": [
      0,
-     34,
+     35,
      0
     ],
     "Reuters": [
@@ -13903,7 +13907,7 @@
     ],
     "South China Morning Post": [
      0,
-     5,
+     6,
      0
     ],
     "X": [
@@ -13978,7 +13982,7 @@
     ],
     "Saudi Gazette": [
      0,
-     10,
+     11,
      0
     ],
     "A News": [
@@ -14173,7 +14177,7 @@
     ],
     "Atlantic Council": [
      0,
-     4,
+     5,
      0
     ],
     "The Washington Post": [
@@ -14392,6 +14396,163 @@
      0
     ],
     "Qatar news agency": [
+     0,
+     1,
+     0
+    ],
+    "Nikkei Asia": [
+     0,
+     1,
+     0
+    ],
+    "CNN": [
+     0,
+     1,
+     0
+    ],
+    "Foreign Policy": [
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "2026-11-17": {
+   "total": 33,
+   "news": 30,
+   "articles": 3,
+   "positive": 0,
+   "neutral": 33,
+   "critical": 0,
+   "mbs": 1,
+   "countries": {
+    "US": 14,
+    "FR": 2,
+    "GB": 9,
+    "SA": 2,
+    "DE": 1,
+    "HK": 1
+   },
+   "topics": {},
+   "sources": {
+    "日本取引所グループ": 2,
+    "The Washington Post": 2,
+    "The New York Times": 2,
+    "Le Monde.fr": 2,
+    "Reuters": 2,
+    "Jagran Josh": 1,
+    "AP News": 2,
+    "BBC": 2,
+    "The Guardian": 2,
+    "Bloomberg.com": 2,
+    "Foreign Affairs": 1,
+    "Arab News": 2,
+    "Al-Monitor": 2,
+    "WSJ": 2,
+    "Financial Times": 2,
+    "Spiegel": 1,
+    "South China Morning Post": 1,
+    "Foreign Policy": 1,
+    "The Economist": 1,
+    "Britannica": 1
+   },
+   "sourceTone": {
+    "日本取引所グループ": [
+     0,
+     2,
+     0
+    ],
+    "The Washington Post": [
+     0,
+     2,
+     0
+    ],
+    "The New York Times": [
+     0,
+     2,
+     0
+    ],
+    "Le Monde.fr": [
+     0,
+     2,
+     0
+    ],
+    "Reuters": [
+     0,
+     2,
+     0
+    ],
+    "Jagran Josh": [
+     0,
+     1,
+     0
+    ],
+    "AP News": [
+     0,
+     2,
+     0
+    ],
+    "BBC": [
+     0,
+     2,
+     0
+    ],
+    "The Guardian": [
+     0,
+     2,
+     0
+    ],
+    "Bloomberg.com": [
+     0,
+     2,
+     0
+    ],
+    "Foreign Affairs": [
+     0,
+     1,
+     0
+    ],
+    "Arab News": [
+     0,
+     2,
+     0
+    ],
+    "Al-Monitor": [
+     0,
+     2,
+     0
+    ],
+    "WSJ": [
+     0,
+     2,
+     0
+    ],
+    "Financial Times": [
+     0,
+     2,
+     0
+    ],
+    "Spiegel": [
+     0,
+     1,
+     0
+    ],
+    "South China Morning Post": [
+     0,
+     1,
+     0
+    ],
+    "Foreign Policy": [
+     0,
+     1,
+     0
+    ],
+    "The Economist": [
+     0,
+     1,
+     0
+    ],
+    "Britannica": [
      0,
      1,
      0
