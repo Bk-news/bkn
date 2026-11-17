@@ -13700,16 +13700,16 @@
    }
   },
   "2026-11-16": {
-   "total": 598,
-   "news": 588,
+   "total": 602,
+   "news": 592,
    "articles": 10,
    "positive": 0,
-   "neutral": 598,
+   "neutral": 602,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "FR": 53,
-    "GB": 202,
+    "GB": 206,
     "SA": 75,
     "US": 88,
     "HK": 7,
@@ -13721,7 +13721,7 @@
     "France 24": 49,
     "Reuters": 76,
     "Arab News": 80,
-    "The Guardian": 95,
+    "The Guardian": 99,
     "The New York Times": 11,
     "WSJ": 12,
     "BBC": 23,
@@ -13869,7 +13869,7 @@
     ],
     "The Guardian": [
      0,
-     95,
+     99,
      0
     ],
     "The New York Times": [
@@ -14490,17 +14490,17 @@
    }
   },
   "2026-11-17": {
-   "total": 348,
-   "news": 337,
+   "total": 384,
+   "news": 373,
    "articles": 11,
    "positive": 0,
-   "neutral": 348,
+   "neutral": 384,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "US": 69,
     "FR": 12,
-    "GB": 129,
+    "GB": 147,
     "SA": 39,
     "DE": 4,
     "HK": 4
@@ -14511,7 +14511,7 @@
     "The Washington Post": 7,
     "The New York Times": 10,
     "Le Monde.fr": 3,
-    "Reuters": 55,
+    "Reuters": 73,
     "Jagran Josh": 1,
     "AP News": 9,
     "BBC": 10,
@@ -14576,7 +14576,9 @@
     "DW.com": 1,
     "Legis1": 1,
     "ESPN": 1,
-    "Lafayette Parish School System": 8
+    "Lafayette Parish School System": 12,
+    "Comité Asesor de Vacunas de la AEP": 13,
+    "Al Jazeera": 1
    },
    "sourceTone": {
     "日本取引所グループ": [
@@ -14601,7 +14603,7 @@
     ],
     "Reuters": [
      0,
-     55,
+     73,
      0
     ],
     "Jagran Josh": [
@@ -14926,7 +14928,17 @@
     ],
     "Lafayette Parish School System": [
      0,
-     8,
+     12,
+     0
+    ],
+    "Comité Asesor de Vacunas de la AEP": [
+     0,
+     13,
+     0
+    ],
+    "Al Jazeera": [
+     0,
+     1,
      0
     ]
    }
