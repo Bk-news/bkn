@@ -13700,16 +13700,16 @@
    }
   },
   "2026-11-16": {
-   "total": 623,
-   "news": 613,
+   "total": 624,
+   "news": 614,
    "articles": 10,
    "positive": 0,
-   "neutral": 623,
+   "neutral": 624,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "FR": 54,
-    "GB": 224,
+    "GB": 225,
     "SA": 75,
     "US": 89,
     "HK": 7,
@@ -13721,7 +13721,7 @@
     "France 24": 49,
     "Reuters": 93,
     "Arab News": 80,
-    "The Guardian": 100,
+    "The Guardian": 101,
     "The New York Times": 11,
     "WSJ": 12,
     "BBC": 23,
@@ -13870,7 +13870,7 @@
     ],
     "The Guardian": [
      0,
-     100,
+     101,
      0
     ],
     "The New York Times": [
@@ -14496,17 +14496,17 @@
    }
   },
   "2026-11-17": {
-   "total": 465,
-   "news": 452,
+   "total": 468,
+   "news": 455,
    "articles": 13,
    "positive": 0,
-   "neutral": 465,
+   "neutral": 468,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "US": 72,
     "FR": 12,
-    "GB": 172,
+    "GB": 173,
     "SA": 47,
     "DE": 4,
     "HK": 4
@@ -14521,7 +14521,7 @@
     "Jagran Josh": 1,
     "AP News": 11,
     "BBC": 11,
-    "The Guardian": 72,
+    "The Guardian": 73,
     "Bloomberg.com": 10,
     "Foreign Affairs": 2,
     "Arab News": 46,
@@ -14556,7 +14556,7 @@
     "The Jerusalem Post": 1,
     "Breaking Travel News": 1,
     "تسنیم": 1,
-    "https://houseofsaud.com/": 4,
+    "https://houseofsaud.com/": 5,
     "Chosunbiz": 1,
     "Carbon Brief": 1,
     "Responsible Statecraft": 1,
@@ -14598,7 +14598,8 @@
     "Middle East Online": 1,
     "Billionaires.Africa": 1,
     "Goal.com": 1,
-    "Bioengineer.org": 1
+    "Bioengineer.org": 1,
+    "Coinbase": 1
    },
    "sourceTone": {
     "日本取引所グループ": [
@@ -14643,7 +14644,7 @@
     ],
     "The Guardian": [
      0,
-     72,
+     73,
      0
     ],
     "Bloomberg.com": [
@@ -14818,7 +14819,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     4,
+     5,
      0
     ],
     "Chosunbiz": [
@@ -15027,6 +15028,11 @@
      0
     ],
     "Bioengineer.org": [
+     0,
+     1,
+     0
+    ],
+    "Coinbase": [
      0,
      1,
      0
