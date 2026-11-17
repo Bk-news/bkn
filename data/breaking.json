@@ -1,122 +1,14 @@
 [
  {
-  "id": "858e0e39b3d326d2",
+  "id": "0e60ce6597755bae",
   "origin": "telegram",
   "source": "العربية عاجل",
   "country": "SA",
-  "title_ar": "إعلام أميركي: \"جي بي مورغان\" و\"بنك أوف أميركا\" ضمن بنوك تواجه مشكلات تقنية",
+  "title_ar": "اليابان تقول إن طائرتين روسيتين اخترقتا مجالها الجوي",
   "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/153928",
-  "published": "2026-11-16T19:18:21.000Z",
+  "url": "https://t.me/alarabiyaBr/153961",
+  "published": "2026-11-17T01:20:22.000Z",
   "subject": "saudi",
-  "added": "2026-11-16T19:18:21.000Z"
- },
- {
-  "id": "71d524ccaa938b45",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "إعلام أميركي: عملاء بعض أكبر البنوك يبلغون عن مشاكل في الوصول لحساباتهم",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/153927",
-  "published": "2026-11-16T19:15:37.000Z",
-  "subject": "saudi",
-  "added": "2026-11-16T19:15:37.000Z"
- },
- {
-  "id": "798a4daaacf67419",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "سنتكوم: حاملة الطائرات \"روزفلت\" تعمل حاليا في المنطقة كجزء من عملية انتشار مجدولة",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/153926",
-  "published": "2026-11-16T19:14:37.000Z",
-  "subject": "saudi",
-  "added": "2026-11-16T19:14:37.000Z"
- },
- {
-  "id": "a37a9c871fface90",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "القيادة المركزية الأميركية تؤكد وصول حاملة الطائرات \"روزفلت\" لمنطقة عملياتها",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/153925",
-  "published": "2026-11-16T19:13:37.000Z",
-  "subject": "saudi",
-  "added": "2026-11-16T19:13:37.000Z"
- },
- {
-  "id": "7aef7a066017b984",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "العراق.. ائتلاف دولة القانون: نرفض انزلاق أزمة جرف الصخر لمواجهة مسلحة",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/153924",
-  "published": "2026-11-16T19:13:02.000Z",
-  "subject": "saudi",
-  "added": "2026-11-16T19:13:02.000Z"
- },
- {
-  "id": "e625112ff58a91f3",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "العراق.. ائتلاف دولة القانون يدعو إلى حل الإشكال بشأن جرف الصخر بالتفاهم والحوار",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/153923",
-  "published": "2026-11-16T19:12:38.000Z",
-  "subject": "saudi",
-  "added": "2026-11-16T19:12:38.000Z"
- },
- {
-  "id": "76f1b4c3698eff3a",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "العراق.. بيان الإطار التنسيقي عن اجتماعه اليوم يخلو من أي إشارة لملف جرف الصخر",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/153922",
-  "published": "2026-11-16T18:54:38.000Z",
-  "subject": "saudi",
-  "added": "2026-11-16T18:54:38.000Z"
- },
- {
-  "id": "5afa1077ddf16298",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "مصادر العربية: اجتماع الإطار التنسيقي انتهى وسط خلافات حادة بشأن التعامل مع ملف جرف الصخر",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/153921",
-  "published": "2026-11-16T18:53:01.000Z",
-  "subject": "saudi",
-  "added": "2026-11-16T18:53:01.000Z"
- },
- {
-  "id": "4b7e0040e3fb8bc1",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "مصادر العربية: الزيدي أكد الاستمرار في الإجراءات الأمنية والعسكرية للسيطرة على جرف الصخر",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/153920",
-  "published": "2026-11-16T18:52:22.000Z",
-  "subject": "saudi",
-  "added": "2026-11-16T18:52:22.000Z"
- },
- {
-  "id": "1b0322bf926df373",
-  "origin": "royal",
-  "source": "واس الملكية",
-  "country": "SA",
-  "title_ar": "أمر ملكي بتعيين الفريق الركن فهد السلمان مستشارًا لسمو وزير الدفاع للشؤون العسكرية وتكليف الفريق الأول الركن فياض الرويلي بالقيام بعمل قائد القوات المشتركة بالإضافة إلى عمله",
-  "summary_ar": [],
-  "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBfUjFQV240cE0xbzFGRkhITU5raHg5bUNZX3J1UlV5all2TTNyWW9PTVU3MXNBeGdpb2NobHg1UW1ROFk4dGFJa0p3?oc=5",
-  "published": "2026-11-16T17:56:15.000Z",
-  "subject": "saudi",
-  "added": "2026-11-16T18:58:11.952Z"
+  "added": "2026-11-17T01:20:22.000Z"
  }
 ]
