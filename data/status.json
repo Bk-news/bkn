@@ -1,25 +1,23 @@
 {
- "run": "2026-11-17T10:45:56.264Z",
+ "run": "2026-11-17T10:46:56.904Z",
  "key": true,
  "model": "claude-haiku-5-5",
- "feedsOk": 23,
- "feedsFailed": [
-  "The Washington Post: HTTP 429"
- ],
- "fetched": 784,
- "fresh": 209,
- "world": 209,
+ "feedsOk": 24,
+ "feedsFailed": [],
+ "fetched": 785,
+ "fresh": 171,
+ "world": 171,
  "analyzed": 39,
  "analyzeErrors": 1,
- "lastError": "Anthropic 401: {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Ch8NA8sZcZFwp8aVVARGe\"}",
+ "lastError": "Anthropic 401: {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Ch8NEdPQgDZjqdJdsE5UG\"}",
  "telegram": 20,
  "royal": 0,
  "mt": 40,
  "keyRejected": true,
- "pending": 701,
+ "pending": 702,
  "added": {
-  "news": 39,
-  "articles": 1,
+  "news": 40,
+  "articles": 0,
   "breaking": 0
  }
 }

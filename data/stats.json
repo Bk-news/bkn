@@ -12801,16 +12801,16 @@
    }
   },
   "2026-11-15": {
-   "total": 517,
-   "news": 512,
+   "total": 518,
+   "news": 513,
    "articles": 5,
    "positive": 0,
-   "neutral": 517,
+   "neutral": 518,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 54,
-    "US": 51,
+    "US": 52,
     "FR": 15,
     "GB": 174,
     "HK": 8,
@@ -12846,7 +12846,7 @@
     "The Canberra Times": 1,
     "Al-Monitor": 10,
     "스타뉴스": 2,
-    "AP News": 5,
+    "AP News": 6,
     "NDTV": 3,
     "Apa.az": 1,
     "South China Morning Post": 8,
@@ -13104,7 +13104,7 @@
     ],
     "AP News": [
      0,
-     5,
+     6,
      0
     ],
     "NDTV": [
@@ -13700,27 +13700,27 @@
    }
   },
   "2026-11-16": {
-   "total": 464,
-   "news": 454,
+   "total": 480,
+   "news": 470,
    "articles": 10,
    "positive": 0,
-   "neutral": 464,
+   "neutral": 480,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "FR": 45,
+    "FR": 52,
     "GB": 128,
-    "SA": 55,
-    "US": 75,
+    "SA": 60,
+    "US": 79,
     "HK": 6,
     "JP": 1
    },
    "topics": {},
    "sources": {
     "The Times of India": 2,
-    "France 24": 41,
+    "France 24": 48,
     "Reuters": 60,
-    "Arab News": 62,
+    "Arab News": 67,
     "The Guardian": 37,
     "The New York Times": 9,
     "WSJ": 11,
@@ -13739,11 +13739,11 @@
     "Nacionale": 2,
     "Chosunbiz": 3,
     "Zawya": 2,
-    "Al-Monitor": 22,
+    "Al-Monitor": 24,
     "Bloomberg.com": 11,
     "Financial Times": 11,
     "Le Monde.fr": 4,
-    "AP News": 10,
+    "AP News": 12,
     "The Business Standard": 1,
     "Condé Nast Traveller Middle East": 2,
     "Saudi Gazette": 13,
@@ -13843,7 +13843,7 @@
     ],
     "France 24": [
      0,
-     41,
+     48,
      0
     ],
     "Reuters": [
@@ -13853,7 +13853,7 @@
     ],
     "Arab News": [
      0,
-     62,
+     67,
      0
     ],
     "The Guardian": [
@@ -13948,7 +13948,7 @@
     ],
     "Al-Monitor": [
      0,
-     22,
+     24,
      0
     ],
     "Bloomberg.com": [
@@ -13968,7 +13968,7 @@
     ],
     "AP News": [
      0,
-     10,
+     12,
      0
     ],
     "The Business Standard": [
@@ -14424,35 +14424,35 @@
    }
   },
   "2026-11-17": {
-   "total": 81,
-   "news": 78,
+   "total": 104,
+   "news": 101,
    "articles": 3,
    "positive": 0,
-   "neutral": 81,
+   "neutral": 104,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 26,
     "FR": 2,
-    "GB": 30,
-    "SA": 9,
+    "GB": 44,
+    "SA": 11,
     "DE": 1,
     "HK": 1
    },
    "topics": {},
    "sources": {
-    "日本取引所グループ": 8,
+    "日本取引所グループ": 12,
     "The Washington Post": 3,
     "The New York Times": 4,
     "Le Monde.fr": 2,
-    "Reuters": 9,
+    "Reuters": 17,
     "Jagran Josh": 1,
     "AP News": 3,
     "BBC": 6,
-    "The Guardian": 10,
+    "The Guardian": 17,
     "Bloomberg.com": 5,
     "Foreign Affairs": 1,
-    "Arab News": 9,
+    "Arab News": 11,
     "Al-Monitor": 7,
     "WSJ": 2,
     "Financial Times": 4,
@@ -14462,12 +14462,14 @@
     "The Economist": 1,
     "Britannica": 1,
     "Wamda": 1,
-    "Fast Company Middle East": 1
+    "Fast Company Middle East": 1,
+    "France 24": 1,
+    "Yahoo Finance": 1
    },
    "sourceTone": {
     "日本取引所グループ": [
      0,
-     8,
+     12,
      0
     ],
     "The Washington Post": [
@@ -14487,7 +14489,7 @@
     ],
     "Reuters": [
      0,
-     9,
+     17,
      0
     ],
     "Jagran Josh": [
@@ -14507,7 +14509,7 @@
     ],
     "The Guardian": [
      0,
-     10,
+     17,
      0
     ],
     "Bloomberg.com": [
@@ -14522,7 +14524,7 @@
     ],
     "Arab News": [
      0,
-     9,
+     11,
      0
     ],
     "Al-Monitor": [
@@ -14571,6 +14573,16 @@
      0
     ],
     "Fast Company Middle East": [
+     0,
+     1,
+     0
+    ],
+    "France 24": [
+     0,
+     1,
+     0
+    ],
+    "Yahoo Finance": [
      0,
      1,
      0
