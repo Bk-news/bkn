@@ -14496,11 +14496,11 @@
    }
   },
   "2026-11-17": {
-   "total": 459,
-   "news": 446,
+   "total": 460,
+   "news": 447,
    "articles": 13,
    "positive": 0,
-   "neutral": 459,
+   "neutral": 460,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -14596,7 +14596,8 @@
     "NewsCord": 1,
     "Alvarez & Marsal": 1,
     "Middle East Online": 1,
-    "Billionaires.Africa": 1
+    "Billionaires.Africa": 1,
+    "Goal.com": 1
    },
    "sourceTone": {
     "日本取引所グループ": [
@@ -15015,6 +15016,11 @@
      0
     ],
     "Billionaires.Africa": [
+     0,
+     1,
+     0
+    ],
+    "Goal.com": [
      0,
      1,
      0
