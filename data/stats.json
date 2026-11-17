@@ -13700,18 +13700,18 @@
    }
   },
   "2026-11-16": {
-   "total": 618,
-   "news": 608,
+   "total": 620,
+   "news": 610,
    "articles": 10,
    "positive": 0,
-   "neutral": 618,
+   "neutral": 620,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "FR": 53,
     "GB": 222,
     "SA": 75,
-    "US": 88,
+    "US": 89,
     "HK": 7,
     "JP": 1
    },
@@ -13739,7 +13739,7 @@
     "Nacionale": 2,
     "Chosunbiz": 3,
     "Zawya": 2,
-    "Al-Monitor": 25,
+    "Al-Monitor": 26,
     "Bloomberg.com": 14,
     "Financial Times": 11,
     "Le Monde.fr": 4,
@@ -13844,7 +13844,8 @@
     "DW.com": 1,
     "Turkish Minute": 1,
     "ABC News - Breaking News, Latest News and Videos": 2,
-    "myMotherLode.com": 1
+    "myMotherLode.com": 1,
+    "Comité Asesor de Vacunas de la AEP": 1
    },
    "sourceTone": {
     "The Times of India": [
@@ -13959,7 +13960,7 @@
     ],
     "Al-Monitor": [
      0,
-     25,
+     26,
      0
     ],
     "Bloomberg.com": [
@@ -14486,15 +14487,20 @@
      0,
      1,
      0
+    ],
+    "Comité Asesor de Vacunas de la AEP": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-17": {
-   "total": 408,
-   "news": 397,
+   "total": 426,
+   "news": 415,
    "articles": 11,
    "positive": 0,
-   "neutral": 408,
+   "neutral": 426,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -14507,7 +14513,7 @@
    },
    "topics": {},
    "sources": {
-    "日本取引所グループ": 20,
+    "日本取引所グループ": 32,
     "The Washington Post": 7,
     "The New York Times": 10,
     "Le Monde.fr": 3,
@@ -14558,7 +14564,7 @@
     "fundsforNGOs - Grants and Resources for Sustainability": 1,
     "The Maritime Executive": 1,
     "Critical Threats": 1,
-    "EnergyNow": 1,
+    "EnergyNow": 2,
     "MMA Fighting": 1,
     "UA.NEWS": 2,
     "The Arab Weekly": 1,
@@ -14584,12 +14590,17 @@
     "thecradle.co": 1,
     "Mehr News Agency": 1,
     "Investing.com": 1,
-    "Stephenson Harwood": 1
+    "Stephenson Harwood": 1,
+    "Haaretz": 1,
+    "Business Airport International": 1,
+    "NewsCord": 1,
+    "Alvarez & Marsal": 1,
+    "Middle East Online": 1
    },
    "sourceTone": {
     "日本取引所グループ": [
      0,
-     20,
+     32,
      0
     ],
     "The Washington Post": [
@@ -14844,7 +14855,7 @@
     ],
     "EnergyNow": [
      0,
-     1,
+     2,
      0
     ],
     "MMA Fighting": [
@@ -14973,6 +14984,31 @@
      0
     ],
     "Stephenson Harwood": [
+     0,
+     1,
+     0
+    ],
+    "Haaretz": [
+     0,
+     1,
+     0
+    ],
+    "Business Airport International": [
+     0,
+     1,
+     0
+    ],
+    "NewsCord": [
+     0,
+     1,
+     0
+    ],
+    "Alvarez & Marsal": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Online": [
      0,
      1,
      0
