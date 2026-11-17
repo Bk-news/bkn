@@ -13700,16 +13700,16 @@
    }
   },
   "2026-11-16": {
-   "total": 621,
-   "news": 611,
+   "total": 623,
+   "news": 613,
    "articles": 10,
    "positive": 0,
-   "neutral": 621,
+   "neutral": 623,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "FR": 53,
-    "GB": 223,
+    "FR": 54,
+    "GB": 224,
     "SA": 75,
     "US": 89,
     "HK": 7,
@@ -13721,7 +13721,7 @@
     "France 24": 49,
     "Reuters": 93,
     "Arab News": 80,
-    "The Guardian": 99,
+    "The Guardian": 100,
     "The New York Times": 11,
     "WSJ": 12,
     "BBC": 23,
@@ -13742,7 +13742,7 @@
     "Al-Monitor": 26,
     "Bloomberg.com": 14,
     "Financial Times": 11,
-    "Le Monde.fr": 4,
+    "Le Monde.fr": 5,
     "AP News": 14,
     "The Business Standard": 1,
     "Condé Nast Traveller Middle East": 2,
@@ -13870,7 +13870,7 @@
     ],
     "The Guardian": [
      0,
-     99,
+     100,
      0
     ],
     "The New York Times": [
@@ -13975,7 +13975,7 @@
     ],
     "Le Monde.fr": [
      0,
-     4,
+     5,
      0
     ],
     "AP News": [
@@ -14496,18 +14496,18 @@
    }
   },
   "2026-11-17": {
-   "total": 426,
-   "news": 415,
+   "total": 433,
+   "news": 422,
    "articles": 11,
    "positive": 0,
-   "neutral": 426,
+   "neutral": 433,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "US": 70,
     "FR": 12,
-    "GB": 150,
-    "SA": 40,
+    "GB": 155,
+    "SA": 42,
     "DE": 4,
     "HK": 4
    },
@@ -14517,14 +14517,14 @@
     "The Washington Post": 7,
     "The New York Times": 10,
     "Le Monde.fr": 3,
-    "Reuters": 75,
+    "Reuters": 77,
     "Jagran Josh": 1,
     "AP News": 10,
     "BBC": 11,
-    "The Guardian": 56,
+    "The Guardian": 59,
     "Bloomberg.com": 10,
     "Foreign Affairs": 2,
-    "Arab News": 40,
+    "Arab News": 41,
     "Al-Monitor": 26,
     "WSJ": 3,
     "Financial Times": 6,
@@ -14546,7 +14546,7 @@
     "ASHARQ AL-AWSAT English": 3,
     "Employee Happiness Daily": 1,
     "TahawulTech.com": 1,
-    "Saudi Gazette": 6,
+    "Saudi Gazette": 7,
     "Facebook": 1,
     "NDTV": 1,
     "Politics Today": 1,
@@ -14620,7 +14620,7 @@
     ],
     "Reuters": [
      0,
-     75,
+     77,
      0
     ],
     "Jagran Josh": [
@@ -14640,7 +14640,7 @@
     ],
     "The Guardian": [
      0,
-     56,
+     59,
      0
     ],
     "Bloomberg.com": [
@@ -14655,7 +14655,7 @@
     ],
     "Arab News": [
      0,
-     40,
+     41,
      0
     ],
     "Al-Monitor": [
@@ -14765,7 +14765,7 @@
     ],
     "Saudi Gazette": [
      0,
-     6,
+     7,
      0
     ],
     "Facebook": [
