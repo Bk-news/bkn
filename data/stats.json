@@ -13700,11 +13700,11 @@
    }
   },
   "2026-11-16": {
-   "total": 574,
-   "news": 564,
+   "total": 575,
+   "news": 565,
    "articles": 10,
    "positive": 0,
-   "neutral": 574,
+   "neutral": 575,
    "critical": 0,
    "mbs": 4,
    "countries": {
@@ -13843,7 +13843,7 @@
     "NBC News": 1,
     "DW.com": 1,
     "Turkish Minute": 1,
-    "ABC News - Breaking News, Latest News and Videos": 1,
+    "ABC News - Breaking News, Latest News and Videos": 2,
     "myMotherLode.com": 1
    },
    "sourceTone": {
@@ -14479,7 +14479,7 @@
     ],
     "ABC News - Breaking News, Latest News and Videos": [
      0,
-     1,
+     2,
      0
     ],
     "myMotherLode.com": [
