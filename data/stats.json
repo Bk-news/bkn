@@ -14490,11 +14490,11 @@
    }
   },
   "2026-11-17": {
-   "total": 191,
-   "news": 188,
+   "total": 192,
+   "news": 189,
    "articles": 3,
    "positive": 0,
-   "neutral": 191,
+   "neutral": 192,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -14508,7 +14508,7 @@
    "topics": {},
    "sources": {
     "日本取引所グループ": 18,
-    "The Washington Post": 3,
+    "The Washington Post": 4,
     "The New York Times": 4,
     "Le Monde.fr": 3,
     "Reuters": 33,
@@ -14572,7 +14572,7 @@
     ],
     "The Washington Post": [
      0,
-     3,
+     4,
      0
     ],
     "The New York Times": [
