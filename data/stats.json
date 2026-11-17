@@ -14496,11 +14496,11 @@
    }
   },
   "2026-11-17": {
-   "total": 468,
-   "news": 455,
+   "total": 469,
+   "news": 456,
    "articles": 13,
    "positive": 0,
-   "neutral": 468,
+   "neutral": 469,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -14599,7 +14599,8 @@
     "Billionaires.Africa": 1,
     "Goal.com": 1,
     "Bioengineer.org": 1,
-    "Coinbase": 1
+    "Coinbase": 1,
+    "Report.az": 1
    },
    "sourceTone": {
     "日本取引所グループ": [
@@ -15033,6 +15034,11 @@
      0
     ],
     "Coinbase": [
+     0,
+     1,
+     0
+    ],
+    "Report.az": [
      0,
      1,
      0
