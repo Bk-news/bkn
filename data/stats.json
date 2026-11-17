@@ -13700,16 +13700,16 @@
    }
   },
   "2026-11-16": {
-   "total": 536,
-   "news": 526,
+   "total": 552,
+   "news": 542,
    "articles": 10,
    "positive": 0,
-   "neutral": 536,
+   "neutral": 552,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "FR": 53,
-    "GB": 171,
+    "GB": 172,
     "SA": 71,
     "US": 79,
     "HK": 6,
@@ -13719,12 +13719,12 @@
    "sources": {
     "The Times of India": 2,
     "France 24": 49,
-    "Reuters": 71,
+    "Reuters": 72,
     "Arab News": 78,
     "The Guardian": 69,
     "The New York Times": 9,
     "WSJ": 11,
-    "BBC": 22,
+    "BBC": 23,
     "Українські Національні Новини (УНН)": 1,
     "https://houseofsaud.com/": 4,
     "Breakingthenews.net": 1,
@@ -13739,7 +13739,7 @@
     "Nacionale": 2,
     "Chosunbiz": 3,
     "Zawya": 2,
-    "Al-Monitor": 24,
+    "Al-Monitor": 25,
     "Bloomberg.com": 11,
     "Financial Times": 11,
     "Le Monde.fr": 4,
@@ -13758,7 +13758,7 @@
     "The National": 2,
     "marketscreener.com": 1,
     "The National Law Review": 1,
-    "TradingView": 3,
+    "TradingView": 4,
     "Al Majalla": 1,
     "Demócrata": 1,
     "The Financial Express": 1,
@@ -13776,7 +13776,7 @@
     "DD News": 1,
     "ETHRWorld.com": 1,
     "UA.NEWS": 1,
-    "الحرة": 1,
+    "الحرة": 2,
     "Finimize": 2,
     "Alvarez & Marsal": 1,
     "Gulf Daily News (Bahrain)": 1,
@@ -13812,7 +13812,7 @@
     "Al Arabiya English": 2,
     "Yahoo News Singapore": 1,
     "The International Institute for Strategic Studies": 1,
-    "Business Insider Africa": 3,
+    "Business Insider Africa": 4,
     "Boston Herald": 1,
     "Defence24.com": 1,
     "The Independent": 1,
@@ -13833,7 +13833,17 @@
     "Nikkei Asia": 1,
     "CNN": 1,
     "Foreign Policy": 1,
-    "sanad.uk": 1
+    "sanad.uk": 1,
+    "HeritageDaily": 1,
+    "Iran International": 1,
+    "IraqiNews": 1,
+    "TWZ": 1,
+    "Dealroom": 1,
+    "huntingdondailynews.com": 1,
+    "NBC News": 1,
+    "DW.com": 1,
+    "Turkish Minute": 1,
+    "ABC News - Breaking News, Latest News and Videos": 1
    },
    "sourceTone": {
     "The Times of India": [
@@ -13848,7 +13858,7 @@
     ],
     "Reuters": [
      0,
-     71,
+     72,
      0
     ],
     "Arab News": [
@@ -13873,7 +13883,7 @@
     ],
     "BBC": [
      0,
-     22,
+     23,
      0
     ],
     "Українські Національні Новини (УНН)": [
@@ -13948,7 +13958,7 @@
     ],
     "Al-Monitor": [
      0,
-     24,
+     25,
      0
     ],
     "Bloomberg.com": [
@@ -14043,7 +14053,7 @@
     ],
     "TradingView": [
      0,
-     3,
+     4,
      0
     ],
     "Al Majalla": [
@@ -14133,7 +14143,7 @@
     ],
     "الحرة": [
      0,
-     1,
+     2,
      0
     ],
     "Finimize": [
@@ -14313,7 +14323,7 @@
     ],
     "Business Insider Africa": [
      0,
-     3,
+     4,
      0
     ],
     "Boston Herald": [
@@ -14420,19 +14430,69 @@
      0,
      1,
      0
+    ],
+    "HeritageDaily": [
+     0,
+     1,
+     0
+    ],
+    "Iran International": [
+     0,
+     1,
+     0
+    ],
+    "IraqiNews": [
+     0,
+     1,
+     0
+    ],
+    "TWZ": [
+     0,
+     1,
+     0
+    ],
+    "Dealroom": [
+     0,
+     1,
+     0
+    ],
+    "huntingdondailynews.com": [
+     0,
+     1,
+     0
+    ],
+    "NBC News": [
+     0,
+     1,
+     0
+    ],
+    "DW.com": [
+     0,
+     1,
+     0
+    ],
+    "Turkish Minute": [
+     0,
+     1,
+     0
+    ],
+    "ABC News - Breaking News, Latest News and Videos": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-17": {
-   "total": 164,
-   "news": 161,
+   "total": 166,
+   "news": 163,
    "articles": 3,
    "positive": 0,
-   "neutral": 164,
+   "neutral": 166,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "US": 27,
+    "US": 29,
     "FR": 4,
     "GB": 60,
     "SA": 11,
@@ -14453,7 +14513,7 @@
     "Bloomberg.com": 6,
     "Foreign Affairs": 1,
     "Arab News": 12,
-    "Al-Monitor": 7,
+    "Al-Monitor": 9,
     "WSJ": 2,
     "Financial Times": 4,
     "Spiegel": 1,
@@ -14558,7 +14618,7 @@
     ],
     "Al-Monitor": [
      0,
-     7,
+     9,
      0
     ],
     "WSJ": [
