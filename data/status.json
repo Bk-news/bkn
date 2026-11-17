@@ -1,15 +1,17 @@
 {
- "run": "2026-11-17T19:40:08.513Z",
+ "run": "2026-11-17T19:41:08.355Z",
  "key": true,
  "model": "claude-haiku-5-5",
- "feedsOk": 24,
- "feedsFailed": [],
- "fetched": 835,
+ "feedsOk": 23,
+ "feedsFailed": [
+  "Global – Crown Prince: HTTP 429"
+ ],
+ "fetched": 827,
  "fresh": 0,
  "world": 0,
  "analyzed": 0,
  "analyzeErrors": 0,
- "lastError": "Anthropic 401: {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Ch94tpbL2jNsRo6R35Kjv\"}",
+ "lastError": "Anthropic 401: {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Ch94yFRv9uWHa3BEy6PGB\"}",
  "telegram": 20,
  "royal": 0,
  "keyRejected": true,
