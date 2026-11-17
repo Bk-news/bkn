@@ -13700,16 +13700,16 @@
    }
   },
   "2026-11-16": {
-   "total": 554,
-   "news": 544,
+   "total": 557,
+   "news": 547,
    "articles": 10,
    "positive": 0,
-   "neutral": 554,
+   "neutral": 557,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "FR": 53,
-    "GB": 174,
+    "GB": 177,
     "SA": 71,
     "US": 79,
     "HK": 6,
@@ -13721,7 +13721,7 @@
     "France 24": 49,
     "Reuters": 72,
     "Arab News": 78,
-    "The Guardian": 71,
+    "The Guardian": 74,
     "The New York Times": 9,
     "WSJ": 11,
     "BBC": 23,
@@ -13868,7 +13868,7 @@
     ],
     "The Guardian": [
      0,
-     71,
+     74,
      0
     ],
     "The New York Times": [
@@ -14484,18 +14484,18 @@
    }
   },
   "2026-11-17": {
-   "total": 171,
-   "news": 168,
+   "total": 176,
+   "news": 173,
    "articles": 3,
    "positive": 0,
-   "neutral": 171,
+   "neutral": 176,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "US": 30,
+    "US": 31,
     "FR": 4,
-    "GB": 63,
-    "SA": 11,
+    "GB": 66,
+    "SA": 12,
     "DE": 1,
     "HK": 1
    },
@@ -14505,14 +14505,14 @@
     "The Washington Post": 3,
     "The New York Times": 4,
     "Le Monde.fr": 3,
-    "Reuters": 28,
+    "Reuters": 30,
     "Jagran Josh": 1,
-    "AP News": 4,
+    "AP News": 5,
     "BBC": 6,
-    "The Guardian": 26,
+    "The Guardian": 27,
     "Bloomberg.com": 6,
     "Foreign Affairs": 1,
-    "Arab News": 12,
+    "Arab News": 13,
     "Al-Monitor": 9,
     "WSJ": 2,
     "Financial Times": 4,
@@ -14579,7 +14579,7 @@
     ],
     "Reuters": [
      0,
-     28,
+     30,
      0
     ],
     "Jagran Josh": [
@@ -14589,7 +14589,7 @@
     ],
     "AP News": [
      0,
-     4,
+     5,
      0
     ],
     "BBC": [
@@ -14599,7 +14599,7 @@
     ],
     "The Guardian": [
      0,
-     26,
+     27,
      0
     ],
     "Bloomberg.com": [
@@ -14614,7 +14614,7 @@
     ],
     "Arab News": [
      0,
-     12,
+     13,
      0
     ],
     "Al-Monitor": [
