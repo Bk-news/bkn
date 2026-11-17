@@ -13700,18 +13700,18 @@
    }
   },
   "2026-11-16": {
-   "total": 581,
-   "news": 571,
+   "total": 583,
+   "news": 573,
    "articles": 10,
    "positive": 0,
-   "neutral": 581,
+   "neutral": 583,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "FR": 53,
-    "GB": 199,
+    "GB": 200,
     "SA": 71,
-    "US": 79,
+    "US": 80,
     "HK": 6,
     "JP": 1
    },
@@ -13719,7 +13719,7 @@
    "sources": {
     "The Times of India": 2,
     "France 24": 49,
-    "Reuters": 75,
+    "Reuters": 76,
     "Arab News": 78,
     "The Guardian": 93,
     "The New York Times": 9,
@@ -13740,7 +13740,7 @@
     "Chosunbiz": 3,
     "Zawya": 2,
     "Al-Monitor": 25,
-    "Bloomberg.com": 11,
+    "Bloomberg.com": 12,
     "Financial Times": 11,
     "Le Monde.fr": 4,
     "AP News": 12,
@@ -13859,7 +13859,7 @@
     ],
     "Reuters": [
      0,
-     75,
+     76,
      0
     ],
     "Arab News": [
@@ -13964,7 +13964,7 @@
     ],
     "Bloomberg.com": [
      0,
-     11,
+     12,
      0
     ],
     "Financial Times": [
@@ -14490,17 +14490,17 @@
    }
   },
   "2026-11-17": {
-   "total": 202,
-   "news": 199,
+   "total": 204,
+   "news": 201,
    "articles": 3,
    "positive": 0,
-   "neutral": 202,
+   "neutral": 204,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 33,
     "FR": 5,
-    "GB": 78,
+    "GB": 79,
     "SA": 16,
     "DE": 1,
     "HK": 2
@@ -14515,7 +14515,7 @@
     "Jagran Josh": 1,
     "AP News": 6,
     "BBC": 6,
-    "The Guardian": 35,
+    "The Guardian": 36,
     "Bloomberg.com": 7,
     "Foreign Affairs": 1,
     "Arab News": 17,
@@ -14563,7 +14563,8 @@
     "UA.NEWS": 1,
     "The Arab Weekly": 1,
     "Oil & Gas Middle East": 1,
-    "Moneycontrol.com": 1
+    "Moneycontrol.com": 1,
+    "NDTV Sports": 1
    },
    "sourceTone": {
     "日本取引所グループ": [
@@ -14608,7 +14609,7 @@
     ],
     "The Guardian": [
      0,
-     35,
+     36,
      0
     ],
     "Bloomberg.com": [
@@ -14847,6 +14848,11 @@
      0
     ],
     "Moneycontrol.com": [
+     0,
+     1,
+     0
+    ],
+    "NDTV Sports": [
      0,
      1,
      0
