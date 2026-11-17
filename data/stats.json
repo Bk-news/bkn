@@ -12801,18 +12801,18 @@
    }
   },
   "2026-11-15": {
-   "total": 518,
-   "news": 513,
+   "total": 522,
+   "news": 517,
    "articles": 5,
    "positive": 0,
-   "neutral": 518,
+   "neutral": 522,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 54,
     "US": 52,
     "FR": 15,
-    "GB": 174,
+    "GB": 178,
     "HK": 8,
     "DE": 3,
     "JP": 1
@@ -12838,7 +12838,7 @@
     "Gulf News": 4,
     "Seoul Economic Daily": 1,
     "Middle East Eye": 5,
-    "The Guardian": 103,
+    "The Guardian": 106,
     "Kyabram Free Press": 1,
     "Telangana Today": 1,
     "The Korea Times": 1,
@@ -12852,7 +12852,7 @@
     "South China Morning Post": 8,
     "The National": 2,
     "BBC": 5,
-    "Reuters": 59,
+    "Reuters": 60,
     "The Washington Post": 2,
     "Bloomberg.com": 5,
     "Spiegel": 3,
@@ -13064,7 +13064,7 @@
     ],
     "The Guardian": [
      0,
-     103,
+     106,
      0
     ],
     "Kyabram Free Press": [
@@ -13134,7 +13134,7 @@
     ],
     "Reuters": [
      0,
-     59,
+     60,
      0
     ],
     "The Washington Post": [
@@ -13700,16 +13700,16 @@
    }
   },
   "2026-11-16": {
-   "total": 520,
-   "news": 510,
+   "total": 536,
+   "news": 526,
    "articles": 10,
    "positive": 0,
-   "neutral": 520,
+   "neutral": 536,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "FR": 53,
-    "GB": 156,
+    "GB": 171,
     "SA": 71,
     "US": 79,
     "HK": 6,
@@ -13721,7 +13721,7 @@
     "France 24": 49,
     "Reuters": 71,
     "Arab News": 78,
-    "The Guardian": 54,
+    "The Guardian": 69,
     "The New York Times": 9,
     "WSJ": 11,
     "BBC": 22,
@@ -13803,7 +13803,7 @@
     "24/7 Wall St.": 1,
     "Modern Ghana": 1,
     "Richmond Register": 1,
-    "Yahoo Sports": 2,
+    "Yahoo Sports": 3,
     "TechRound": 1,
     "Gulf Today": 1,
     "Ahram Online": 2,
@@ -13858,7 +13858,7 @@
     ],
     "The Guardian": [
      0,
-     54,
+     69,
      0
     ],
     "The New York Times": [
@@ -14268,7 +14268,7 @@
     ],
     "Yahoo Sports": [
      0,
-     2,
+     3,
      0
     ],
     "TechRound": [
@@ -14424,16 +14424,16 @@
    }
   },
   "2026-11-17": {
-   "total": 144,
-   "news": 141,
+   "total": 164,
+   "news": 161,
    "articles": 3,
    "positive": 0,
-   "neutral": 144,
+   "neutral": 164,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 27,
-    "FR": 3,
+    "FR": 4,
     "GB": 60,
     "SA": 11,
     "DE": 1,
@@ -14444,12 +14444,12 @@
     "日本取引所グループ": 17,
     "The Washington Post": 3,
     "The New York Times": 4,
-    "Le Monde.fr": 2,
+    "Le Monde.fr": 3,
     "Reuters": 28,
     "Jagran Josh": 1,
     "AP News": 3,
     "BBC": 6,
-    "The Guardian": 22,
+    "The Guardian": 23,
     "Bloomberg.com": 6,
     "Foreign Affairs": 1,
     "Arab News": 12,
@@ -14464,12 +14464,12 @@
     "Wamda": 1,
     "Fast Company Middle East": 2,
     "France 24": 2,
-    "Yahoo Finance": 1,
+    "Yahoo Finance": 2,
     "Newsweek": 1,
     "SpecialEurasia": 1,
     "The Arkansas Democrat-Gazette": 1,
     "Amnesty International": 1,
-    "Zawya": 1,
+    "Zawya": 2,
     "MEED": 1,
     "ASHARQ AL-AWSAT English": 1,
     "Employee Happiness Daily": 1,
@@ -14478,7 +14478,22 @@
     "Facebook": 1,
     "NDTV": 1,
     "Politics Today": 1,
-    "Al Arabiya English": 1
+    "Al Arabiya English": 1,
+    "Railway Gazette International": 1,
+    "Yahoo Sports": 1,
+    "The Jerusalem Post": 1,
+    "Breaking Travel News": 1,
+    "تسنیم": 1,
+    "https://houseofsaud.com/": 2,
+    "Chosunbiz": 1,
+    "Carbon Brief": 1,
+    "Responsible Statecraft": 1,
+    "The National": 1,
+    "fundsforNGOs - Grants and Resources for Sustainability": 1,
+    "The Maritime Executive": 1,
+    "Critical Threats": 1,
+    "EnergyNow": 1,
+    "MMA Fighting": 1
    },
    "sourceTone": {
     "日本取引所グループ": [
@@ -14498,7 +14513,7 @@
     ],
     "Le Monde.fr": [
      0,
-     2,
+     3,
      0
     ],
     "Reuters": [
@@ -14523,7 +14538,7 @@
     ],
     "The Guardian": [
      0,
-     22,
+     23,
      0
     ],
     "Bloomberg.com": [
@@ -14598,7 +14613,7 @@
     ],
     "Yahoo Finance": [
      0,
-     1,
+     2,
      0
     ],
     "Newsweek": [
@@ -14623,7 +14638,7 @@
     ],
     "Zawya": [
      0,
-     1,
+     2,
      0
     ],
     "MEED": [
@@ -14667,6 +14682,81 @@
      0
     ],
     "Al Arabiya English": [
+     0,
+     1,
+     0
+    ],
+    "Railway Gazette International": [
+     0,
+     1,
+     0
+    ],
+    "Yahoo Sports": [
+     0,
+     1,
+     0
+    ],
+    "The Jerusalem Post": [
+     0,
+     1,
+     0
+    ],
+    "Breaking Travel News": [
+     0,
+     1,
+     0
+    ],
+    "تسنیم": [
+     0,
+     1,
+     0
+    ],
+    "https://houseofsaud.com/": [
+     0,
+     2,
+     0
+    ],
+    "Chosunbiz": [
+     0,
+     1,
+     0
+    ],
+    "Carbon Brief": [
+     0,
+     1,
+     0
+    ],
+    "Responsible Statecraft": [
+     0,
+     1,
+     0
+    ],
+    "The National": [
+     0,
+     1,
+     0
+    ],
+    "fundsforNGOs - Grants and Resources for Sustainability": [
+     0,
+     1,
+     0
+    ],
+    "The Maritime Executive": [
+     0,
+     1,
+     0
+    ],
+    "Critical Threats": [
+     0,
+     1,
+     0
+    ],
+    "EnergyNow": [
+     0,
+     1,
+     0
+    ],
+    "MMA Fighting": [
      0,
      1,
      0
