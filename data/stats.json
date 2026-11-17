@@ -12801,18 +12801,18 @@
    }
   },
   "2026-11-15": {
-   "total": 524,
-   "news": 519,
+   "total": 525,
+   "news": 520,
    "articles": 5,
    "positive": 0,
-   "neutral": 524,
+   "neutral": 525,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 54,
     "US": 52,
     "FR": 15,
-    "GB": 180,
+    "GB": 181,
     "HK": 8,
     "DE": 3,
     "JP": 1
@@ -12838,7 +12838,7 @@
     "Gulf News": 4,
     "Seoul Economic Daily": 1,
     "Middle East Eye": 5,
-    "The Guardian": 108,
+    "The Guardian": 109,
     "Kyabram Free Press": 1,
     "Telangana Today": 1,
     "The Korea Times": 1,
@@ -13064,7 +13064,7 @@
     ],
     "The Guardian": [
      0,
-     108,
+     109,
      0
     ],
     "Kyabram Free Press": [
@@ -13700,16 +13700,16 @@
    }
   },
   "2026-11-16": {
-   "total": 577,
-   "news": 567,
+   "total": 578,
+   "news": 568,
    "articles": 10,
    "positive": 0,
-   "neutral": 577,
+   "neutral": 578,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "FR": 53,
-    "GB": 195,
+    "GB": 196,
     "SA": 71,
     "US": 79,
     "HK": 6,
@@ -13721,7 +13721,7 @@
     "France 24": 49,
     "Reuters": 75,
     "Arab News": 78,
-    "The Guardian": 89,
+    "The Guardian": 90,
     "The New York Times": 9,
     "WSJ": 11,
     "BBC": 23,
@@ -13869,7 +13869,7 @@
     ],
     "The Guardian": [
      0,
-     89,
+     90,
      0
     ],
     "The New York Times": [
@@ -14490,15 +14490,15 @@
    }
   },
   "2026-11-17": {
-   "total": 197,
-   "news": 194,
+   "total": 199,
+   "news": 196,
    "articles": 3,
    "positive": 0,
-   "neutral": 197,
+   "neutral": 199,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "US": 32,
+    "US": 33,
     "FR": 5,
     "GB": 76,
     "SA": 15,
@@ -14513,7 +14513,7 @@
     "Le Monde.fr": 3,
     "Reuters": 34,
     "Jagran Josh": 1,
-    "AP News": 5,
+    "AP News": 6,
     "BBC": 6,
     "The Guardian": 33,
     "Bloomberg.com": 7,
@@ -14562,7 +14562,8 @@
     "MMA Fighting": 1,
     "UA.NEWS": 1,
     "The Arab Weekly": 1,
-    "Oil & Gas Middle East": 1
+    "Oil & Gas Middle East": 1,
+    "Moneycontrol.com": 1
    },
    "sourceTone": {
     "日本取引所グループ": [
@@ -14597,7 +14598,7 @@
     ],
     "AP News": [
      0,
-     5,
+     6,
      0
     ],
     "BBC": [
@@ -14841,6 +14842,11 @@
      0
     ],
     "Oil & Gas Middle East": [
+     0,
+     1,
+     0
+    ],
+    "Moneycontrol.com": [
      0,
      1,
      0
