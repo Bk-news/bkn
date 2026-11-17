@@ -14496,11 +14496,11 @@
    }
   },
   "2026-11-17": {
-   "total": 460,
-   "news": 447,
+   "total": 461,
+   "news": 448,
    "articles": 13,
    "positive": 0,
-   "neutral": 460,
+   "neutral": 461,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -14597,7 +14597,8 @@
     "Alvarez & Marsal": 1,
     "Middle East Online": 1,
     "Billionaires.Africa": 1,
-    "Goal.com": 1
+    "Goal.com": 1,
+    "Bioengineer.org": 1
    },
    "sourceTone": {
     "日本取引所グループ": [
@@ -15021,6 +15022,11 @@
      0
     ],
     "Goal.com": [
+     0,
+     1,
+     0
+    ],
+    "Bioengineer.org": [
      0,
      1,
      0
