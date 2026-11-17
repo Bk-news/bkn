@@ -12801,18 +12801,18 @@
    }
   },
   "2026-11-15": {
-   "total": 522,
-   "news": 517,
+   "total": 523,
+   "news": 518,
    "articles": 5,
    "positive": 0,
-   "neutral": 522,
+   "neutral": 523,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 54,
     "US": 52,
     "FR": 15,
-    "GB": 178,
+    "GB": 179,
     "HK": 8,
     "DE": 3,
     "JP": 1
@@ -12838,7 +12838,7 @@
     "Gulf News": 4,
     "Seoul Economic Daily": 1,
     "Middle East Eye": 5,
-    "The Guardian": 106,
+    "The Guardian": 107,
     "Kyabram Free Press": 1,
     "Telangana Today": 1,
     "The Korea Times": 1,
@@ -13064,7 +13064,7 @@
     ],
     "The Guardian": [
      0,
-     106,
+     107,
      0
     ],
     "Kyabram Free Press": [
@@ -13700,16 +13700,16 @@
    }
   },
   "2026-11-16": {
-   "total": 559,
-   "news": 549,
+   "total": 563,
+   "news": 553,
    "articles": 10,
    "positive": 0,
-   "neutral": 559,
+   "neutral": 563,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "FR": 53,
-    "GB": 178,
+    "GB": 182,
     "SA": 71,
     "US": 79,
     "HK": 6,
@@ -13721,7 +13721,7 @@
     "France 24": 49,
     "Reuters": 72,
     "Arab News": 78,
-    "The Guardian": 75,
+    "The Guardian": 79,
     "The New York Times": 9,
     "WSJ": 11,
     "BBC": 23,
@@ -13869,7 +13869,7 @@
     ],
     "The Guardian": [
      0,
-     75,
+     79,
      0
     ],
     "The New York Times": [
@@ -14490,17 +14490,17 @@
    }
   },
   "2026-11-17": {
-   "total": 177,
-   "news": 174,
+   "total": 182,
+   "news": 179,
    "articles": 3,
    "positive": 0,
-   "neutral": 177,
+   "neutral": 182,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 31,
     "FR": 4,
-    "GB": 67,
+    "GB": 71,
     "SA": 12,
     "DE": 1,
     "HK": 1
@@ -14511,11 +14511,11 @@
     "The Washington Post": 3,
     "The New York Times": 4,
     "Le Monde.fr": 3,
-    "Reuters": 31,
+    "Reuters": 32,
     "Jagran Josh": 1,
     "AP News": 5,
     "BBC": 6,
-    "The Guardian": 27,
+    "The Guardian": 30,
     "Bloomberg.com": 6,
     "Foreign Affairs": 1,
     "Arab News": 13,
@@ -14537,7 +14537,7 @@
     "Amnesty International": 1,
     "Zawya": 2,
     "MEED": 1,
-    "ASHARQ AL-AWSAT English": 1,
+    "ASHARQ AL-AWSAT English": 2,
     "Employee Happiness Daily": 1,
     "TahawulTech.com": 1,
     "Saudi Gazette": 1,
@@ -14585,7 +14585,7 @@
     ],
     "Reuters": [
      0,
-     31,
+     32,
      0
     ],
     "Jagran Josh": [
@@ -14605,7 +14605,7 @@
     ],
     "The Guardian": [
      0,
-     27,
+     30,
      0
     ],
     "Bloomberg.com": [
@@ -14715,7 +14715,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     1,
+     2,
      0
     ],
     "Employee Happiness Daily": [
