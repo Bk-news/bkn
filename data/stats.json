@@ -12801,18 +12801,18 @@
    }
   },
   "2026-11-15": {
-   "total": 523,
-   "news": 518,
+   "total": 524,
+   "news": 519,
    "articles": 5,
    "positive": 0,
-   "neutral": 523,
+   "neutral": 524,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 54,
     "US": 52,
     "FR": 15,
-    "GB": 179,
+    "GB": 180,
     "HK": 8,
     "DE": 3,
     "JP": 1
@@ -12838,7 +12838,7 @@
     "Gulf News": 4,
     "Seoul Economic Daily": 1,
     "Middle East Eye": 5,
-    "The Guardian": 107,
+    "The Guardian": 108,
     "Kyabram Free Press": 1,
     "Telangana Today": 1,
     "The Korea Times": 1,
@@ -13064,7 +13064,7 @@
     ],
     "The Guardian": [
      0,
-     107,
+     108,
      0
     ],
     "Kyabram Free Press": [
@@ -13700,16 +13700,16 @@
    }
   },
   "2026-11-16": {
-   "total": 563,
-   "news": 553,
+   "total": 565,
+   "news": 555,
    "articles": 10,
    "positive": 0,
-   "neutral": 563,
+   "neutral": 565,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "FR": 53,
-    "GB": 182,
+    "GB": 184,
     "SA": 71,
     "US": 79,
     "HK": 6,
@@ -13721,7 +13721,7 @@
     "France 24": 49,
     "Reuters": 72,
     "Arab News": 78,
-    "The Guardian": 79,
+    "The Guardian": 81,
     "The New York Times": 9,
     "WSJ": 11,
     "BBC": 23,
@@ -13869,7 +13869,7 @@
     ],
     "The Guardian": [
      0,
-     79,
+     81,
      0
     ],
     "The New York Times": [
