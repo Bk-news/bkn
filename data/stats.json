@@ -13700,11 +13700,11 @@
    }
   },
   "2026-11-16": {
-   "total": 557,
-   "news": 547,
+   "total": 558,
+   "news": 548,
    "articles": 10,
    "positive": 0,
-   "neutral": 557,
+   "neutral": 558,
    "critical": 0,
    "mbs": 4,
    "countries": {
@@ -13843,7 +13843,8 @@
     "NBC News": 1,
     "DW.com": 1,
     "Turkish Minute": 1,
-    "ABC News - Breaking News, Latest News and Videos": 1
+    "ABC News - Breaking News, Latest News and Videos": 1,
+    "myMotherLode.com": 1
    },
    "sourceTone": {
     "The Times of India": [
@@ -14477,6 +14478,11 @@
      0
     ],
     "ABC News - Breaking News, Latest News and Videos": [
+     0,
+     1,
+     0
+    ],
+    "myMotherLode.com": [
      0,
      1,
      0
