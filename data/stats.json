@@ -13700,18 +13700,18 @@
    }
   },
   "2026-11-16": {
-   "total": 592,
-   "news": 582,
+   "total": 598,
+   "news": 588,
    "articles": 10,
    "positive": 0,
-   "neutral": 592,
+   "neutral": 598,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "FR": 53,
-    "GB": 200,
-    "SA": 73,
-    "US": 86,
+    "GB": 202,
+    "SA": 75,
+    "US": 88,
     "HK": 7,
     "JP": 1
    },
@@ -13720,9 +13720,9 @@
     "The Times of India": 2,
     "France 24": 49,
     "Reuters": 76,
-    "Arab News": 78,
-    "The Guardian": 93,
-    "The New York Times": 9,
+    "Arab News": 80,
+    "The Guardian": 95,
+    "The New York Times": 11,
     "WSJ": 12,
     "BBC": 23,
     "Українські Національні Новини (УНН)": 1,
@@ -13864,17 +13864,17 @@
     ],
     "Arab News": [
      0,
-     78,
+     80,
      0
     ],
     "The Guardian": [
      0,
-     93,
+     95,
      0
     ],
     "The New York Times": [
      0,
-     9,
+     11,
      0
     ],
     "WSJ": [
@@ -14490,18 +14490,18 @@
    }
   },
   "2026-11-17": {
-   "total": 314,
-   "news": 303,
+   "total": 348,
+   "news": 337,
    "articles": 11,
    "positive": 0,
-   "neutral": 314,
+   "neutral": 348,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "US": 65,
+    "US": 69,
     "FR": 12,
-    "GB": 114,
-    "SA": 33,
+    "GB": 129,
+    "SA": 39,
     "DE": 4,
     "HK": 4
    },
@@ -14509,17 +14509,17 @@
    "sources": {
     "日本取引所グループ": 18,
     "The Washington Post": 7,
-    "The New York Times": 9,
+    "The New York Times": 10,
     "Le Monde.fr": 3,
-    "Reuters": 47,
+    "Reuters": 55,
     "Jagran Josh": 1,
     "AP News": 9,
     "BBC": 10,
-    "The Guardian": 48,
+    "The Guardian": 55,
     "Bloomberg.com": 10,
     "Foreign Affairs": 2,
-    "Arab News": 29,
-    "Al-Monitor": 23,
+    "Arab News": 35,
+    "Al-Monitor": 26,
     "WSJ": 3,
     "Financial Times": 6,
     "Spiegel": 4,
@@ -14537,7 +14537,7 @@
     "Amnesty International": 1,
     "Zawya": 2,
     "MEED": 1,
-    "ASHARQ AL-AWSAT English": 2,
+    "ASHARQ AL-AWSAT English": 3,
     "Employee Happiness Daily": 1,
     "TahawulTech.com": 1,
     "Saudi Gazette": 6,
@@ -14575,7 +14575,8 @@
     "citybiz": 1,
     "DW.com": 1,
     "Legis1": 1,
-    "ESPN": 1
+    "ESPN": 1,
+    "Lafayette Parish School System": 8
    },
    "sourceTone": {
     "日本取引所グループ": [
@@ -14590,7 +14591,7 @@
     ],
     "The New York Times": [
      0,
-     9,
+     10,
      0
     ],
     "Le Monde.fr": [
@@ -14600,7 +14601,7 @@
     ],
     "Reuters": [
      0,
-     47,
+     55,
      0
     ],
     "Jagran Josh": [
@@ -14620,7 +14621,7 @@
     ],
     "The Guardian": [
      0,
-     48,
+     55,
      0
     ],
     "Bloomberg.com": [
@@ -14635,12 +14636,12 @@
     ],
     "Arab News": [
      0,
-     29,
+     35,
      0
     ],
     "Al-Monitor": [
      0,
-     23,
+     26,
      0
     ],
     "WSJ": [
@@ -14730,7 +14731,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     2,
+     3,
      0
     ],
     "Employee Happiness Daily": [
@@ -14921,6 +14922,11 @@
     "ESPN": [
      0,
      1,
+     0
+    ],
+    "Lafayette Parish School System": [
+     0,
+     8,
      0
     ]
    }
