@@ -13700,17 +13700,17 @@
    }
   },
   "2026-11-16": {
-   "total": 590,
-   "news": 580,
+   "total": 592,
+   "news": 582,
    "articles": 10,
    "positive": 0,
-   "neutral": 590,
+   "neutral": 592,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "FR": 53,
     "GB": 200,
-    "SA": 71,
+    "SA": 73,
     "US": 86,
     "HK": 7,
     "JP": 1
@@ -13746,7 +13746,7 @@
     "AP News": 14,
     "The Business Standard": 1,
     "Condé Nast Traveller Middle East": 2,
-    "Saudi Gazette": 13,
+    "Saudi Gazette": 15,
     "A News": 1,
     "BioSpectrum Asia": 1,
     "سانا": 2,
@@ -13994,7 +13994,7 @@
     ],
     "Saudi Gazette": [
      0,
-     13,
+     15,
      0
     ],
     "A News": [
@@ -14490,18 +14490,18 @@
    }
   },
   "2026-11-17": {
-   "total": 276,
-   "news": 265,
+   "total": 314,
+   "news": 303,
    "articles": 11,
    "positive": 0,
-   "neutral": 276,
+   "neutral": 314,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "US": 58,
-    "FR": 10,
-    "GB": 100,
-    "SA": 26,
+    "US": 65,
+    "FR": 12,
+    "GB": 114,
+    "SA": 33,
     "DE": 4,
     "HK": 4
    },
@@ -14511,15 +14511,15 @@
     "The Washington Post": 7,
     "The New York Times": 9,
     "Le Monde.fr": 3,
-    "Reuters": 40,
+    "Reuters": 47,
     "Jagran Josh": 1,
     "AP News": 9,
     "BBC": 10,
-    "The Guardian": 41,
+    "The Guardian": 48,
     "Bloomberg.com": 10,
     "Foreign Affairs": 2,
-    "Arab News": 22,
-    "Al-Monitor": 16,
+    "Arab News": 29,
+    "Al-Monitor": 23,
     "WSJ": 3,
     "Financial Times": 6,
     "Spiegel": 4,
@@ -14529,7 +14529,7 @@
     "Britannica": 1,
     "Wamda": 1,
     "Fast Company Middle East": 2,
-    "France 24": 8,
+    "France 24": 10,
     "Yahoo Finance": 2,
     "Newsweek": 1,
     "SpecialEurasia": 1,
@@ -14550,7 +14550,7 @@
     "The Jerusalem Post": 1,
     "Breaking Travel News": 1,
     "تسنیم": 1,
-    "https://houseofsaud.com/": 2,
+    "https://houseofsaud.com/": 3,
     "Chosunbiz": 1,
     "Carbon Brief": 1,
     "Responsible Statecraft": 1,
@@ -14568,8 +14568,14 @@
     "Atlantic Council": 3,
     "21st CENTURY CHRONICLE": 1,
     "FT Markets Data": 1,
-    "Middle East Eye": 1,
-    "سانا": 1
+    "Middle East Eye": 2,
+    "سانا": 1,
+    "Daily News Egypt": 1,
+    "Anadolu Ajansı": 1,
+    "citybiz": 1,
+    "DW.com": 1,
+    "Legis1": 1,
+    "ESPN": 1
    },
    "sourceTone": {
     "日本取引所グループ": [
@@ -14594,7 +14600,7 @@
     ],
     "Reuters": [
      0,
-     40,
+     47,
      0
     ],
     "Jagran Josh": [
@@ -14614,7 +14620,7 @@
     ],
     "The Guardian": [
      0,
-     41,
+     48,
      0
     ],
     "Bloomberg.com": [
@@ -14629,12 +14635,12 @@
     ],
     "Arab News": [
      0,
-     22,
+     29,
      0
     ],
     "Al-Monitor": [
      0,
-     16,
+     23,
      0
     ],
     "WSJ": [
@@ -14684,7 +14690,7 @@
     ],
     "France 24": [
      0,
-     8,
+     10,
      0
     ],
     "Yahoo Finance": [
@@ -14789,7 +14795,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     2,
+     3,
      0
     ],
     "Chosunbiz": [
@@ -14879,10 +14885,40 @@
     ],
     "Middle East Eye": [
      0,
-     1,
+     2,
      0
     ],
     "سانا": [
+     0,
+     1,
+     0
+    ],
+    "Daily News Egypt": [
+     0,
+     1,
+     0
+    ],
+    "Anadolu Ajansı": [
+     0,
+     1,
+     0
+    ],
+    "citybiz": [
+     0,
+     1,
+     0
+    ],
+    "DW.com": [
+     0,
+     1,
+     0
+    ],
+    "Legis1": [
+     0,
+     1,
+     0
+    ],
+    "ESPN": [
      0,
      1,
      0
