@@ -13700,16 +13700,16 @@
    }
   },
   "2026-11-16": {
-   "total": 558,
-   "news": 548,
+   "total": 559,
+   "news": 549,
    "articles": 10,
    "positive": 0,
-   "neutral": 558,
+   "neutral": 559,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "FR": 53,
-    "GB": 177,
+    "GB": 178,
     "SA": 71,
     "US": 79,
     "HK": 6,
@@ -13721,7 +13721,7 @@
     "France 24": 49,
     "Reuters": 72,
     "Arab News": 78,
-    "The Guardian": 74,
+    "The Guardian": 75,
     "The New York Times": 9,
     "WSJ": 11,
     "BBC": 23,
@@ -13869,7 +13869,7 @@
     ],
     "The Guardian": [
      0,
-     74,
+     75,
      0
     ],
     "The New York Times": [
@@ -14490,17 +14490,17 @@
    }
   },
   "2026-11-17": {
-   "total": 176,
-   "news": 173,
+   "total": 177,
+   "news": 174,
    "articles": 3,
    "positive": 0,
-   "neutral": 176,
+   "neutral": 177,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 31,
     "FR": 4,
-    "GB": 66,
+    "GB": 67,
     "SA": 12,
     "DE": 1,
     "HK": 1
@@ -14511,7 +14511,7 @@
     "The Washington Post": 3,
     "The New York Times": 4,
     "Le Monde.fr": 3,
-    "Reuters": 30,
+    "Reuters": 31,
     "Jagran Josh": 1,
     "AP News": 5,
     "BBC": 6,
@@ -14585,7 +14585,7 @@
     ],
     "Reuters": [
      0,
-     30,
+     31,
      0
     ],
     "Jagran Josh": [
