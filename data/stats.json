@@ -13700,16 +13700,16 @@
    }
   },
   "2026-11-16": {
-   "total": 552,
-   "news": 542,
+   "total": 554,
+   "news": 544,
    "articles": 10,
    "positive": 0,
-   "neutral": 552,
+   "neutral": 554,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "FR": 53,
-    "GB": 172,
+    "GB": 174,
     "SA": 71,
     "US": 79,
     "HK": 6,
@@ -13721,7 +13721,7 @@
     "France 24": 49,
     "Reuters": 72,
     "Arab News": 78,
-    "The Guardian": 69,
+    "The Guardian": 71,
     "The New York Times": 9,
     "WSJ": 11,
     "BBC": 23,
@@ -13868,7 +13868,7 @@
     ],
     "The Guardian": [
      0,
-     69,
+     71,
      0
     ],
     "The New York Times": [
@@ -14484,17 +14484,17 @@
    }
   },
   "2026-11-17": {
-   "total": 168,
-   "news": 165,
+   "total": 170,
+   "news": 167,
    "articles": 3,
    "positive": 0,
-   "neutral": 168,
+   "neutral": 170,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 29,
     "FR": 4,
-    "GB": 62,
+    "GB": 63,
     "SA": 11,
     "DE": 1,
     "HK": 1
@@ -14509,7 +14509,7 @@
     "Jagran Josh": 1,
     "AP News": 3,
     "BBC": 6,
-    "The Guardian": 25,
+    "The Guardian": 26,
     "Bloomberg.com": 6,
     "Foreign Affairs": 1,
     "Arab News": 12,
@@ -14553,7 +14553,8 @@
     "The Maritime Executive": 1,
     "Critical Threats": 1,
     "EnergyNow": 1,
-    "MMA Fighting": 1
+    "MMA Fighting": 1,
+    "UA.NEWS": 1
    },
    "sourceTone": {
     "日本取引所グループ": [
@@ -14598,7 +14599,7 @@
     ],
     "The Guardian": [
      0,
-     25,
+     26,
      0
     ],
     "Bloomberg.com": [
@@ -14817,6 +14818,11 @@
      0
     ],
     "MMA Fighting": [
+     0,
+     1,
+     0
+    ],
+    "UA.NEWS": [
      0,
      1,
      0
