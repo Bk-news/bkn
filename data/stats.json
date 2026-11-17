@@ -12801,18 +12801,18 @@
    }
   },
   "2026-11-15": {
-   "total": 516,
-   "news": 511,
+   "total": 517,
+   "news": 512,
    "articles": 5,
    "positive": 0,
-   "neutral": 516,
+   "neutral": 517,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 54,
     "US": 51,
     "FR": 15,
-    "GB": 173,
+    "GB": 174,
     "HK": 8,
     "DE": 3,
     "JP": 1
@@ -12857,7 +12857,7 @@
     "Bloomberg.com": 5,
     "Spiegel": 3,
     "Hum News English": 1,
-    "Financial Times": 4,
+    "Financial Times": 5,
     "Arab News PK": 4,
     "Forbes Middle East": 1,
     "Kenyans.co.ke": 1,
@@ -13159,7 +13159,7 @@
     ],
     "Financial Times": [
      0,
-     4,
+     5,
      0
     ],
     "Arab News PK": [
@@ -13700,31 +13700,31 @@
    }
   },
   "2026-11-16": {
-   "total": 446,
-   "news": 437,
-   "articles": 9,
+   "total": 464,
+   "news": 454,
+   "articles": 10,
    "positive": 0,
-   "neutral": 446,
+   "neutral": 464,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "FR": 41,
-    "GB": 124,
+    "FR": 45,
+    "GB": 128,
     "SA": 55,
-    "US": 65,
+    "US": 75,
     "HK": 6,
     "JP": 1
    },
    "topics": {},
    "sources": {
     "The Times of India": 2,
-    "France 24": 37,
+    "France 24": 41,
     "Reuters": 60,
     "Arab News": 62,
     "The Guardian": 37,
-    "The New York Times": 8,
-    "WSJ": 10,
-    "BBC": 19,
+    "The New York Times": 9,
+    "WSJ": 11,
+    "BBC": 22,
     "Українські Національні Новини (УНН)": 1,
     "https://houseofsaud.com/": 4,
     "Breakingthenews.net": 1,
@@ -13739,11 +13739,11 @@
     "Nacionale": 2,
     "Chosunbiz": 3,
     "Zawya": 2,
-    "Al-Monitor": 20,
-    "Bloomberg.com": 10,
-    "Financial Times": 10,
+    "Al-Monitor": 22,
+    "Bloomberg.com": 11,
+    "Financial Times": 11,
     "Le Monde.fr": 4,
-    "AP News": 6,
+    "AP News": 10,
     "The Business Standard": 1,
     "Condé Nast Traveller Middle East": 2,
     "Saudi Gazette": 13,
@@ -13785,7 +13785,7 @@
     "Addis Standard": 1,
     "MEED": 1,
     "Palestine Chronicle": 1,
-    "Atlantic Council": 7,
+    "Atlantic Council": 8,
     "The Washington Post": 1,
     "Daily Pakistan": 1,
     "Arabian Business": 1,
@@ -13843,7 +13843,7 @@
     ],
     "France 24": [
      0,
-     37,
+     41,
      0
     ],
     "Reuters": [
@@ -13863,17 +13863,17 @@
     ],
     "The New York Times": [
      0,
-     8,
+     9,
      0
     ],
     "WSJ": [
      0,
-     10,
+     11,
      0
     ],
     "BBC": [
      0,
-     19,
+     22,
      0
     ],
     "Українські Національні Новини (УНН)": [
@@ -13948,17 +13948,17 @@
     ],
     "Al-Monitor": [
      0,
-     20,
+     22,
      0
     ],
     "Bloomberg.com": [
      0,
-     10,
+     11,
      0
     ],
     "Financial Times": [
      0,
-     10,
+     11,
      0
     ],
     "Le Monde.fr": [
@@ -13968,7 +13968,7 @@
     ],
     "AP News": [
      0,
-     6,
+     10,
      0
     ],
     "The Business Standard": [
@@ -14178,7 +14178,7 @@
     ],
     "Atlantic Council": [
      0,
-     7,
+     8,
      0
     ],
     "The Washington Post": [
@@ -14424,36 +14424,36 @@
    }
   },
   "2026-11-17": {
-   "total": 60,
-   "news": 57,
+   "total": 81,
+   "news": 78,
    "articles": 3,
    "positive": 0,
-   "neutral": 60,
+   "neutral": 81,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "US": 24,
+    "US": 26,
     "FR": 2,
-    "GB": 20,
-    "SA": 5,
+    "GB": 30,
+    "SA": 9,
     "DE": 1,
     "HK": 1
    },
    "topics": {},
    "sources": {
-    "日本取引所グループ": 3,
+    "日本取引所グループ": 8,
     "The Washington Post": 3,
     "The New York Times": 4,
     "Le Monde.fr": 2,
-    "Reuters": 5,
+    "Reuters": 9,
     "Jagran Josh": 1,
     "AP News": 3,
-    "BBC": 5,
-    "The Guardian": 5,
+    "BBC": 6,
+    "The Guardian": 10,
     "Bloomberg.com": 5,
     "Foreign Affairs": 1,
-    "Arab News": 5,
-    "Al-Monitor": 5,
+    "Arab News": 9,
+    "Al-Monitor": 7,
     "WSJ": 2,
     "Financial Times": 4,
     "Spiegel": 1,
@@ -14467,7 +14467,7 @@
    "sourceTone": {
     "日本取引所グループ": [
      0,
-     3,
+     8,
      0
     ],
     "The Washington Post": [
@@ -14487,7 +14487,7 @@
     ],
     "Reuters": [
      0,
-     5,
+     9,
      0
     ],
     "Jagran Josh": [
@@ -14502,12 +14502,12 @@
     ],
     "BBC": [
      0,
-     5,
+     6,
      0
     ],
     "The Guardian": [
      0,
-     5,
+     10,
      0
     ],
     "Bloomberg.com": [
@@ -14522,12 +14522,12 @@
     ],
     "Arab News": [
      0,
-     5,
+     9,
      0
     ],
     "Al-Monitor": [
      0,
-     5,
+     7,
      0
     ],
     "WSJ": [
