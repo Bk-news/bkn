@@ -13700,17 +13700,17 @@
    }
   },
   "2026-11-16": {
-   "total": 480,
-   "news": 470,
+   "total": 496,
+   "news": 486,
    "articles": 10,
    "positive": 0,
-   "neutral": 480,
+   "neutral": 496,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "FR": 52,
-    "GB": 128,
-    "SA": 60,
+    "FR": 53,
+    "GB": 134,
+    "SA": 69,
     "US": 79,
     "HK": 6,
     "JP": 1
@@ -13718,10 +13718,10 @@
    "topics": {},
    "sources": {
     "The Times of India": 2,
-    "France 24": 48,
-    "Reuters": 60,
-    "Arab News": 67,
-    "The Guardian": 37,
+    "France 24": 49,
+    "Reuters": 61,
+    "Arab News": 76,
+    "The Guardian": 42,
     "The New York Times": 9,
     "WSJ": 11,
     "BBC": 22,
@@ -13843,22 +13843,22 @@
     ],
     "France 24": [
      0,
-     48,
+     49,
      0
     ],
     "Reuters": [
      0,
-     60,
+     61,
      0
     ],
     "Arab News": [
      0,
-     67,
+     76,
      0
     ],
     "The Guardian": [
      0,
-     37,
+     42,
      0
     ],
     "The New York Times": [
@@ -14424,52 +14424,55 @@
    }
   },
   "2026-11-17": {
-   "total": 104,
-   "news": 101,
+   "total": 128,
+   "news": 125,
    "articles": 3,
    "positive": 0,
-   "neutral": 104,
+   "neutral": 128,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 26,
     "FR": 2,
-    "GB": 44,
+    "GB": 58,
     "SA": 11,
     "DE": 1,
     "HK": 1
    },
    "topics": {},
    "sources": {
-    "日本取引所グループ": 12,
+    "日本取引所グループ": 17,
     "The Washington Post": 3,
     "The New York Times": 4,
     "Le Monde.fr": 2,
-    "Reuters": 17,
+    "Reuters": 26,
     "Jagran Josh": 1,
     "AP News": 3,
     "BBC": 6,
-    "The Guardian": 17,
+    "The Guardian": 22,
     "Bloomberg.com": 5,
     "Foreign Affairs": 1,
-    "Arab News": 11,
+    "Arab News": 12,
     "Al-Monitor": 7,
     "WSJ": 2,
     "Financial Times": 4,
     "Spiegel": 1,
-    "South China Morning Post": 1,
+    "South China Morning Post": 2,
     "Foreign Policy": 1,
     "The Economist": 1,
     "Britannica": 1,
     "Wamda": 1,
     "Fast Company Middle East": 1,
     "France 24": 1,
-    "Yahoo Finance": 1
+    "Yahoo Finance": 1,
+    "Newsweek": 1,
+    "SpecialEurasia": 1,
+    "The Arkansas Democrat-Gazette": 1
    },
    "sourceTone": {
     "日本取引所グループ": [
      0,
-     12,
+     17,
      0
     ],
     "The Washington Post": [
@@ -14489,7 +14492,7 @@
     ],
     "Reuters": [
      0,
-     17,
+     26,
      0
     ],
     "Jagran Josh": [
@@ -14509,7 +14512,7 @@
     ],
     "The Guardian": [
      0,
-     17,
+     22,
      0
     ],
     "Bloomberg.com": [
@@ -14524,7 +14527,7 @@
     ],
     "Arab News": [
      0,
-     11,
+     12,
      0
     ],
     "Al-Monitor": [
@@ -14549,7 +14552,7 @@
     ],
     "South China Morning Post": [
      0,
-     1,
+     2,
      0
     ],
     "Foreign Policy": [
@@ -14583,6 +14586,21 @@
      0
     ],
     "Yahoo Finance": [
+     0,
+     1,
+     0
+    ],
+    "Newsweek": [
+     0,
+     1,
+     0
+    ],
+    "SpecialEurasia": [
+     0,
+     1,
+     0
+    ],
+    "The Arkansas Democrat-Gazette": [
      0,
      1,
      0
