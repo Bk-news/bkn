@@ -14496,18 +14496,18 @@
    }
   },
   "2026-11-17": {
-   "total": 437,
-   "news": 424,
+   "total": 441,
+   "news": 428,
    "articles": 13,
    "positive": 0,
-   "neutral": 437,
+   "neutral": 441,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "US": 71,
     "FR": 12,
-    "GB": 157,
-    "SA": 42,
+    "GB": 159,
+    "SA": 43,
     "DE": 4,
     "HK": 4
    },
@@ -14517,14 +14517,14 @@
     "The Washington Post": 7,
     "The New York Times": 10,
     "Le Monde.fr": 3,
-    "Reuters": 77,
+    "Reuters": 79,
     "Jagran Josh": 1,
     "AP News": 10,
     "BBC": 11,
     "The Guardian": 60,
     "Bloomberg.com": 10,
     "Foreign Affairs": 2,
-    "Arab News": 41,
+    "Arab News": 42,
     "Al-Monitor": 26,
     "WSJ": 3,
     "Financial Times": 6,
@@ -14595,7 +14595,8 @@
     "Business Airport International": 1,
     "NewsCord": 1,
     "Alvarez & Marsal": 1,
-    "Middle East Online": 1
+    "Middle East Online": 1,
+    "Billionaires.Africa": 1
    },
    "sourceTone": {
     "日本取引所グループ": [
@@ -14620,7 +14621,7 @@
     ],
     "Reuters": [
      0,
-     77,
+     79,
      0
     ],
     "Jagran Josh": [
@@ -14655,7 +14656,7 @@
     ],
     "Arab News": [
      0,
-     41,
+     42,
      0
     ],
     "Al-Monitor": [
@@ -15009,6 +15010,11 @@
      0
     ],
     "Middle East Online": [
+     0,
+     1,
+     0
+    ],
+    "Billionaires.Africa": [
      0,
      1,
      0
