@@ -14490,28 +14490,28 @@
    }
   },
   "2026-11-17": {
-   "total": 184,
-   "news": 181,
+   "total": 188,
+   "news": 185,
    "articles": 3,
    "positive": 0,
-   "neutral": 184,
+   "neutral": 188,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 31,
-    "FR": 4,
-    "GB": 71,
+    "FR": 5,
+    "GB": 72,
     "SA": 13,
     "DE": 1,
     "HK": 2
    },
    "topics": {},
    "sources": {
-    "日本取引所グループ": 17,
+    "日本取引所グループ": 18,
     "The Washington Post": 3,
     "The New York Times": 4,
     "Le Monde.fr": 3,
-    "Reuters": 32,
+    "Reuters": 33,
     "Jagran Josh": 1,
     "AP News": 5,
     "BBC": 6,
@@ -14529,7 +14529,7 @@
     "Britannica": 1,
     "Wamda": 1,
     "Fast Company Middle East": 2,
-    "France 24": 2,
+    "France 24": 3,
     "Yahoo Finance": 2,
     "Newsweek": 1,
     "SpecialEurasia": 1,
@@ -14560,12 +14560,13 @@
     "Critical Threats": 1,
     "EnergyNow": 1,
     "MMA Fighting": 1,
-    "UA.NEWS": 1
+    "UA.NEWS": 1,
+    "The Arab Weekly": 1
    },
    "sourceTone": {
     "日本取引所グループ": [
      0,
-     17,
+     18,
      0
     ],
     "The Washington Post": [
@@ -14585,7 +14586,7 @@
     ],
     "Reuters": [
      0,
-     32,
+     33,
      0
     ],
     "Jagran Josh": [
@@ -14675,7 +14676,7 @@
     ],
     "France 24": [
      0,
-     2,
+     3,
      0
     ],
     "Yahoo Finance": [
@@ -14829,6 +14830,11 @@
      0
     ],
     "UA.NEWS": [
+     0,
+     1,
+     0
+    ],
+    "The Arab Weekly": [
      0,
      1,
      0
