@@ -13700,19 +13700,19 @@
    }
   },
   "2026-11-16": {
-   "total": 585,
-   "news": 575,
+   "total": 590,
+   "news": 580,
    "articles": 10,
    "positive": 0,
-   "neutral": 585,
+   "neutral": 590,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "FR": 53,
     "GB": 200,
     "SA": 71,
-    "US": 82,
-    "HK": 6,
+    "US": 86,
+    "HK": 7,
     "JP": 1
    },
    "topics": {},
@@ -13731,7 +13731,7 @@
     "Amnesty International": 2,
     "The Straits Times": 1,
     "Travel Weekly": 1,
-    "South China Morning Post": 6,
+    "South China Morning Post": 7,
     "X": 2,
     "Dawn": 2,
     "Gulf News": 3,
@@ -13740,10 +13740,10 @@
     "Chosunbiz": 3,
     "Zawya": 2,
     "Al-Monitor": 25,
-    "Bloomberg.com": 12,
+    "Bloomberg.com": 14,
     "Financial Times": 11,
     "Le Monde.fr": 4,
-    "AP News": 12,
+    "AP News": 14,
     "The Business Standard": 1,
     "Condé Nast Traveller Middle East": 2,
     "Saudi Gazette": 13,
@@ -13919,7 +13919,7 @@
     ],
     "South China Morning Post": [
      0,
-     6,
+     7,
      0
     ],
     "X": [
@@ -13964,7 +13964,7 @@
     ],
     "Bloomberg.com": [
      0,
-     12,
+     14,
      0
     ],
     "Financial Times": [
@@ -13979,7 +13979,7 @@
     ],
     "AP News": [
      0,
-     12,
+     14,
      0
     ],
     "The Business Standard": [
@@ -14490,46 +14490,46 @@
    }
   },
   "2026-11-17": {
-   "total": 241,
-   "news": 233,
-   "articles": 8,
+   "total": 276,
+   "news": 265,
+   "articles": 11,
    "positive": 0,
-   "neutral": 241,
+   "neutral": 276,
    "critical": 0,
-   "mbs": 1,
+   "mbs": 2,
    "countries": {
-    "US": 47,
-    "FR": 7,
-    "GB": 89,
-    "SA": 20,
-    "DE": 3,
+    "US": 58,
+    "FR": 10,
+    "GB": 100,
+    "SA": 26,
+    "DE": 4,
     "HK": 4
    },
    "topics": {},
    "sources": {
     "日本取引所グループ": 18,
-    "The Washington Post": 6,
-    "The New York Times": 6,
+    "The Washington Post": 7,
+    "The New York Times": 9,
     "Le Monde.fr": 3,
-    "Reuters": 37,
+    "Reuters": 40,
     "Jagran Josh": 1,
-    "AP News": 8,
-    "BBC": 8,
-    "The Guardian": 38,
-    "Bloomberg.com": 9,
+    "AP News": 9,
+    "BBC": 10,
+    "The Guardian": 41,
+    "Bloomberg.com": 10,
     "Foreign Affairs": 2,
-    "Arab News": 19,
-    "Al-Monitor": 11,
+    "Arab News": 22,
+    "Al-Monitor": 16,
     "WSJ": 3,
-    "Financial Times": 5,
-    "Spiegel": 3,
+    "Financial Times": 6,
+    "Spiegel": 4,
     "South China Morning Post": 5,
     "Foreign Policy": 1,
-    "The Economist": 3,
+    "The Economist": 5,
     "Britannica": 1,
     "Wamda": 1,
     "Fast Company Middle East": 2,
-    "France 24": 5,
+    "France 24": 8,
     "Yahoo Finance": 2,
     "Newsweek": 1,
     "SpecialEurasia": 1,
@@ -14540,7 +14540,7 @@
     "ASHARQ AL-AWSAT English": 2,
     "Employee Happiness Daily": 1,
     "TahawulTech.com": 1,
-    "Saudi Gazette": 3,
+    "Saudi Gazette": 6,
     "Facebook": 1,
     "NDTV": 1,
     "Politics Today": 1,
@@ -14565,9 +14565,11 @@
     "Oil & Gas Middle East": 1,
     "Moneycontrol.com": 1,
     "NDTV Sports": 1,
-    "Atlantic Council": 2,
+    "Atlantic Council": 3,
     "21st CENTURY CHRONICLE": 1,
-    "FT Markets Data": 1
+    "FT Markets Data": 1,
+    "Middle East Eye": 1,
+    "سانا": 1
    },
    "sourceTone": {
     "日本取引所グループ": [
@@ -14577,12 +14579,12 @@
     ],
     "The Washington Post": [
      0,
-     6,
+     7,
      0
     ],
     "The New York Times": [
      0,
-     6,
+     9,
      0
     ],
     "Le Monde.fr": [
@@ -14592,7 +14594,7 @@
     ],
     "Reuters": [
      0,
-     37,
+     40,
      0
     ],
     "Jagran Josh": [
@@ -14602,22 +14604,22 @@
     ],
     "AP News": [
      0,
-     8,
+     9,
      0
     ],
     "BBC": [
      0,
-     8,
+     10,
      0
     ],
     "The Guardian": [
      0,
-     38,
+     41,
      0
     ],
     "Bloomberg.com": [
      0,
-     9,
+     10,
      0
     ],
     "Foreign Affairs": [
@@ -14627,12 +14629,12 @@
     ],
     "Arab News": [
      0,
-     19,
+     22,
      0
     ],
     "Al-Monitor": [
      0,
-     11,
+     16,
      0
     ],
     "WSJ": [
@@ -14642,12 +14644,12 @@
     ],
     "Financial Times": [
      0,
-     5,
+     6,
      0
     ],
     "Spiegel": [
      0,
-     3,
+     4,
      0
     ],
     "South China Morning Post": [
@@ -14662,7 +14664,7 @@
     ],
     "The Economist": [
      0,
-     3,
+     5,
      0
     ],
     "Britannica": [
@@ -14682,7 +14684,7 @@
     ],
     "France 24": [
      0,
-     5,
+     8,
      0
     ],
     "Yahoo Finance": [
@@ -14737,7 +14739,7 @@
     ],
     "Saudi Gazette": [
      0,
-     3,
+     6,
      0
     ],
     "Facebook": [
@@ -14862,7 +14864,7 @@
     ],
     "Atlantic Council": [
      0,
-     2,
+     3,
      0
     ],
     "21st CENTURY CHRONICLE": [
@@ -14871,6 +14873,16 @@
      0
     ],
     "FT Markets Data": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Eye": [
+     0,
+     1,
+     0
+    ],
+    "سانا": [
      0,
      1,
      0
