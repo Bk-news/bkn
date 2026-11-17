@@ -14490,20 +14490,20 @@
    }
   },
   "2026-11-17": {
-   "total": 182,
-   "news": 179,
+   "total": 184,
+   "news": 181,
    "articles": 3,
    "positive": 0,
-   "neutral": 182,
+   "neutral": 184,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 31,
     "FR": 4,
     "GB": 71,
-    "SA": 12,
+    "SA": 13,
     "DE": 1,
-    "HK": 1
+    "HK": 2
    },
    "topics": {},
    "sources": {
@@ -14518,12 +14518,12 @@
     "The Guardian": 30,
     "Bloomberg.com": 6,
     "Foreign Affairs": 1,
-    "Arab News": 13,
+    "Arab News": 14,
     "Al-Monitor": 9,
     "WSJ": 2,
     "Financial Times": 4,
     "Spiegel": 1,
-    "South China Morning Post": 2,
+    "South China Morning Post": 3,
     "Foreign Policy": 1,
     "The Economist": 1,
     "Britannica": 1,
@@ -14620,7 +14620,7 @@
     ],
     "Arab News": [
      0,
-     13,
+     14,
      0
     ],
     "Al-Monitor": [
@@ -14645,7 +14645,7 @@
     ],
     "South China Morning Post": [
      0,
-     2,
+     3,
      0
     ],
     "Foreign Policy": [
