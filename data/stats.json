@@ -14496,17 +14496,17 @@
    }
   },
   "2026-11-17": {
-   "total": 455,
-   "news": 442,
+   "total": 458,
+   "news": 445,
    "articles": 13,
    "positive": 0,
-   "neutral": 455,
+   "neutral": 458,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "US": 72,
     "FR": 12,
-    "GB": 166,
+    "GB": 169,
     "SA": 46,
     "DE": 4,
     "HK": 4
@@ -14521,7 +14521,7 @@
     "Jagran Josh": 1,
     "AP News": 11,
     "BBC": 11,
-    "The Guardian": 66,
+    "The Guardian": 69,
     "Bloomberg.com": 10,
     "Foreign Affairs": 2,
     "Arab News": 45,
@@ -14641,7 +14641,7 @@
     ],
     "The Guardian": [
      0,
-     66,
+     69,
      0
     ],
     "Bloomberg.com": [
