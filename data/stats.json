@@ -13700,18 +13700,18 @@
    }
   },
   "2026-11-16": {
-   "total": 624,
-   "news": 614,
+   "total": 625,
+   "news": 615,
    "articles": 10,
    "positive": 0,
-   "neutral": 624,
+   "neutral": 625,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "FR": 54,
     "GB": 225,
     "SA": 75,
-    "US": 89,
+    "US": 90,
     "HK": 7,
     "JP": 1
    },
@@ -13740,7 +13740,7 @@
     "Chosunbiz": 3,
     "Zawya": 2,
     "Al-Monitor": 26,
-    "Bloomberg.com": 14,
+    "Bloomberg.com": 15,
     "Financial Times": 11,
     "Le Monde.fr": 5,
     "AP News": 14,
@@ -13965,7 +13965,7 @@
     ],
     "Bloomberg.com": [
      0,
-     14,
+     15,
      0
     ],
     "Financial Times": [
