@@ -13700,16 +13700,16 @@
    }
   },
   "2026-11-16": {
-   "total": 565,
-   "news": 555,
+   "total": 566,
+   "news": 556,
    "articles": 10,
    "positive": 0,
-   "neutral": 565,
+   "neutral": 566,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "FR": 53,
-    "GB": 184,
+    "GB": 185,
     "SA": 71,
     "US": 79,
     "HK": 6,
@@ -13719,7 +13719,7 @@
    "sources": {
     "The Times of India": 2,
     "France 24": 49,
-    "Reuters": 72,
+    "Reuters": 73,
     "Arab News": 78,
     "The Guardian": 81,
     "The New York Times": 9,
@@ -13859,7 +13859,7 @@
     ],
     "Reuters": [
      0,
-     72,
+     73,
      0
     ],
     "Arab News": [
@@ -14490,15 +14490,15 @@
    }
   },
   "2026-11-17": {
-   "total": 189,
-   "news": 186,
+   "total": 191,
+   "news": 188,
    "articles": 3,
    "positive": 0,
-   "neutral": 189,
+   "neutral": 191,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "US": 31,
+    "US": 32,
     "FR": 5,
     "GB": 73,
     "SA": 13,
@@ -14516,7 +14516,7 @@
     "AP News": 5,
     "BBC": 6,
     "The Guardian": 31,
-    "Bloomberg.com": 6,
+    "Bloomberg.com": 7,
     "Foreign Affairs": 1,
     "Arab News": 14,
     "Al-Monitor": 9,
@@ -14561,7 +14561,8 @@
     "EnergyNow": 1,
     "MMA Fighting": 1,
     "UA.NEWS": 1,
-    "The Arab Weekly": 1
+    "The Arab Weekly": 1,
+    "Oil & Gas Middle East": 1
    },
    "sourceTone": {
     "日本取引所グループ": [
@@ -14611,7 +14612,7 @@
     ],
     "Bloomberg.com": [
      0,
-     6,
+     7,
      0
     ],
     "Foreign Affairs": [
@@ -14835,6 +14836,11 @@
      0
     ],
     "The Arab Weekly": [
+     0,
+     1,
+     0
+    ],
+    "Oil & Gas Middle East": [
      0,
      1,
      0
