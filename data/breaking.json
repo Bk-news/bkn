@@ -1,5 +1,17 @@
 [
  {
+  "id": "e3d0ce4a9137dff8",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "شركة آبل: المشكلات في أنظمتنا ليست ناجمة عن هجوم سيبراني",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/154108",
+  "published": "2026-11-17T19:30:41.000Z",
+  "subject": "saudi",
+  "added": "2026-11-17T19:30:41.000Z"
+ },
+ {
   "id": "36e8b1eb63ca8171",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -262,17 +274,5 @@
   "published": "2026-11-17T18:36:20.000Z",
   "subject": "saudi",
   "added": "2026-11-17T18:36:20.000Z"
- },
- {
-  "id": "6b89fcad8e3abee3",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "رويترز عن مصادر: المحادثات بين أميركا وإيران عالقة بسبب \"تسلسل الخطوات\"",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/154085",
-  "published": "2026-11-17T18:32:02.000Z",
-  "subject": "saudi",
-  "added": "2026-11-17T18:32:02.000Z"
  }
 ]
