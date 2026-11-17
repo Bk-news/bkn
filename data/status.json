@@ -1,5 +1,5 @@
 {
- "run": "2026-11-17T02:57:19.340Z",
+ "run": "2026-11-17T02:58:19.691Z",
  "key": true,
  "model": "claude-haiku-5-5",
  "feedsOk": 0,
@@ -11,7 +11,7 @@
   "AP: HTTP 503",
   "Bloomberg: HTTP 503",
   "France 24: HTTP 503",
-  "The New York Times: HTTP 429",
+  "The New York Times: HTTP 503",
   "The Washington Post: HTTP 503",
   "The Wall Street Journal: HTTP 503",
   "CNN: HTTP 503",
@@ -27,7 +27,7 @@
   "Atlantic Council: HTTP 503",
   "Nikkei Asia: HTTP 503",
   "South China Morning Post: HTTP 503",
-  "Arab News: HTTP 429",
+  "Arab News: HTTP 503",
   "Saudi Gazette: HTTP 503"
  ],
  "fetched": 0,
@@ -35,7 +35,7 @@
  "world": 0,
  "analyzed": 0,
  "analyzeErrors": 0,
- "lastError": "Anthropic 401: {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Ch7kSedxVeFteyvGBP97C\"}",
+ "lastError": "Anthropic 401: {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Ch7kXGNecMCx5Toenwagm\"}",
  "telegram": 20,
  "royal": 0,
  "keyRejected": true,
