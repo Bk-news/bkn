@@ -14496,18 +14496,18 @@
    }
   },
   "2026-11-17": {
-   "total": 470,
-   "news": 457,
+   "total": 472,
+   "news": 459,
    "articles": 13,
    "positive": 0,
-   "neutral": 470,
+   "neutral": 472,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "US": 72,
     "FR": 12,
     "GB": 174,
-    "SA": 47,
+    "SA": 48,
     "DE": 4,
     "HK": 4
    },
@@ -14524,7 +14524,7 @@
     "The Guardian": 74,
     "Bloomberg.com": 10,
     "Foreign Affairs": 2,
-    "Arab News": 46,
+    "Arab News": 47,
     "Al-Monitor": 26,
     "WSJ": 3,
     "Financial Times": 6,
@@ -14600,7 +14600,8 @@
     "Goal.com": 1,
     "Bioengineer.org": 1,
     "Coinbase": 1,
-    "Report.az": 1
+    "Report.az": 1,
+    "Spectrum News": 1
    },
    "sourceTone": {
     "日本取引所グループ": [
@@ -14660,7 +14661,7 @@
     ],
     "Arab News": [
      0,
-     46,
+     47,
      0
     ],
     "Al-Monitor": [
@@ -15039,6 +15040,11 @@
      0
     ],
     "Report.az": [
+     0,
+     1,
+     0
+    ],
+    "Spectrum News": [
      0,
      1,
      0
