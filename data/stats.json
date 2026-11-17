@@ -14496,18 +14496,18 @@
    }
   },
   "2026-11-17": {
-   "total": 441,
-   "news": 428,
+   "total": 446,
+   "news": 433,
    "articles": 13,
    "positive": 0,
-   "neutral": 441,
+   "neutral": 446,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "US": 71,
     "FR": 12,
-    "GB": 159,
-    "SA": 43,
+    "GB": 162,
+    "SA": 44,
     "DE": 4,
     "HK": 4
    },
@@ -14517,14 +14517,14 @@
     "The Washington Post": 7,
     "The New York Times": 10,
     "Le Monde.fr": 3,
-    "Reuters": 79,
+    "Reuters": 80,
     "Jagran Josh": 1,
     "AP News": 10,
     "BBC": 11,
-    "The Guardian": 60,
+    "The Guardian": 62,
     "Bloomberg.com": 10,
     "Foreign Affairs": 2,
-    "Arab News": 42,
+    "Arab News": 43,
     "Al-Monitor": 26,
     "WSJ": 3,
     "Financial Times": 6,
@@ -14583,7 +14583,7 @@
     "Legis1": 1,
     "ESPN": 1,
     "Lafayette Parish School System": 12,
-    "Comité Asesor de Vacunas de la AEP": 18,
+    "Comité Asesor de Vacunas de la AEP": 19,
     "Al Jazeera": 1,
     "Middle East Monitor": 1,
     "GlobeNewswire": 1,
@@ -14621,7 +14621,7 @@
     ],
     "Reuters": [
      0,
-     79,
+     80,
      0
     ],
     "Jagran Josh": [
@@ -14641,7 +14641,7 @@
     ],
     "The Guardian": [
      0,
-     60,
+     62,
      0
     ],
     "Bloomberg.com": [
@@ -14656,7 +14656,7 @@
     ],
     "Arab News": [
      0,
-     42,
+     43,
      0
     ],
     "Al-Monitor": [
@@ -14951,7 +14951,7 @@
     ],
     "Comité Asesor de Vacunas de la AEP": [
      0,
-     18,
+     19,
      0
     ],
     "Al Jazeera": [
