@@ -233,6 +233,27 @@
    "mt": true
   },
   {
+   "id": "93d298fd4ce8004c",
+   "origin": "rss",
+   "source": "AP News",
+   "author": "",
+   "title_ar": "صناعة الطيران والدفاع",
+   "title_orig": "Aerospace and defense industry",
+   "title_en": "Aerospace and defense industry",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3SlI0N05XQW5VLWh0TW9fdGx1V2pTZ0o3eVQ0bE9oOHhwTF9RaFo3V2JOdEVVR18wWmRRV2xsRU51S053dDJGSjVEQUxDNkpUSk9PQ3Y2bUlGbGtGdXl2eVNBYw?oc=5",
+   "published": "2026-11-17T10:21:29.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "Aerospace and defense industry &nbsp;&nbsp; AP News",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "aff7261caed6146b",
    "origin": "rss",
    "source": "France 24",
