@@ -1,5 +1,29 @@
 [
  {
+  "id": "37975d8a2b58ae86",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "مسؤول عسكري أميركي للعربية إنجليزي: قواتنا في حالة تأهب قصوى بالمنطقة",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/154106",
+  "published": "2026-11-17T19:29:23.000Z",
+  "subject": "saudi",
+  "added": "2026-11-17T19:29:23.000Z"
+ },
+ {
+  "id": "3733974221a91d6a",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "مسؤول أميركي للعربية إنجليزي: الضربة على قشم ردا على هجمات للحرس الثوري على أصول أميركية",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/154105",
+  "published": "2026-11-17T19:28:45.000Z",
+  "subject": "saudi",
+  "added": "2026-11-17T19:28:45.000Z"
+ },
+ {
   "id": "83f7b556de7a2234",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -238,29 +262,5 @@
   "published": "2026-11-17T18:32:02.000Z",
   "subject": "saudi",
   "added": "2026-11-17T18:32:02.000Z"
- },
- {
-  "id": "872623f8f7d485ee",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "رويترز عن مسؤول أميركي: ترمب لديه جميع الخيارات لمنع طهران من الحصول على سلاح نووي",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/154084",
-  "published": "2026-11-17T18:30:02.000Z",
-  "subject": "saudi",
-  "added": "2026-11-17T18:30:02.000Z"
- },
- {
-  "id": "a48af9213cf42ed9",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "رويترز عن مسؤول أميركي: حملة الضغط الاقتصادي تدمر إيران لدرجة أن ترمب لا يحتاج لشن ضربات",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/154083",
-  "published": "2026-11-17T18:29:20.000Z",
-  "subject": "saudi",
-  "added": "2026-11-17T18:29:20.000Z"
  }
 ]

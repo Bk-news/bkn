@@ -13700,16 +13700,16 @@
    }
   },
   "2026-11-16": {
-   "total": 602,
-   "news": 592,
+   "total": 618,
+   "news": 608,
    "articles": 10,
    "positive": 0,
-   "neutral": 602,
+   "neutral": 618,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "FR": 53,
-    "GB": 206,
+    "GB": 222,
     "SA": 75,
     "US": 88,
     "HK": 7,
@@ -13719,7 +13719,7 @@
    "sources": {
     "The Times of India": 2,
     "France 24": 49,
-    "Reuters": 76,
+    "Reuters": 92,
     "Arab News": 80,
     "The Guardian": 99,
     "The New York Times": 11,
@@ -13859,7 +13859,7 @@
     ],
     "Reuters": [
      0,
-     76,
+     92,
      0
     ],
     "Arab News": [
@@ -14490,35 +14490,35 @@
    }
   },
   "2026-11-17": {
-   "total": 384,
-   "news": 373,
+   "total": 408,
+   "news": 397,
    "articles": 11,
    "positive": 0,
-   "neutral": 384,
+   "neutral": 408,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "US": 69,
+    "US": 70,
     "FR": 12,
-    "GB": 147,
-    "SA": 39,
+    "GB": 150,
+    "SA": 40,
     "DE": 4,
     "HK": 4
    },
    "topics": {},
    "sources": {
-    "日本取引所グループ": 18,
+    "日本取引所グループ": 20,
     "The Washington Post": 7,
     "The New York Times": 10,
     "Le Monde.fr": 3,
-    "Reuters": 73,
+    "Reuters": 75,
     "Jagran Josh": 1,
-    "AP News": 9,
-    "BBC": 10,
-    "The Guardian": 55,
+    "AP News": 10,
+    "BBC": 11,
+    "The Guardian": 56,
     "Bloomberg.com": 10,
     "Foreign Affairs": 2,
-    "Arab News": 35,
+    "Arab News": 40,
     "Al-Monitor": 26,
     "WSJ": 3,
     "Financial Times": 6,
@@ -14546,11 +14546,11 @@
     "Politics Today": 1,
     "Al Arabiya English": 1,
     "Railway Gazette International": 1,
-    "Yahoo Sports": 1,
+    "Yahoo Sports": 2,
     "The Jerusalem Post": 1,
     "Breaking Travel News": 1,
     "تسنیم": 1,
-    "https://houseofsaud.com/": 3,
+    "https://houseofsaud.com/": 4,
     "Chosunbiz": 1,
     "Carbon Brief": 1,
     "Responsible Statecraft": 1,
@@ -14577,13 +14577,19 @@
     "Legis1": 1,
     "ESPN": 1,
     "Lafayette Parish School System": 12,
-    "Comité Asesor de Vacunas de la AEP": 13,
-    "Al Jazeera": 1
+    "Comité Asesor de Vacunas de la AEP": 17,
+    "Al Jazeera": 1,
+    "Middle East Monitor": 1,
+    "GlobeNewswire": 1,
+    "thecradle.co": 1,
+    "Mehr News Agency": 1,
+    "Investing.com": 1,
+    "Stephenson Harwood": 1
    },
    "sourceTone": {
     "日本取引所グループ": [
      0,
-     18,
+     20,
      0
     ],
     "The Washington Post": [
@@ -14603,7 +14609,7 @@
     ],
     "Reuters": [
      0,
-     73,
+     75,
      0
     ],
     "Jagran Josh": [
@@ -14613,17 +14619,17 @@
     ],
     "AP News": [
      0,
-     9,
+     10,
      0
     ],
     "BBC": [
      0,
-     10,
+     11,
      0
     ],
     "The Guardian": [
      0,
-     55,
+     56,
      0
     ],
     "Bloomberg.com": [
@@ -14638,7 +14644,7 @@
     ],
     "Arab News": [
      0,
-     35,
+     40,
      0
     ],
     "Al-Monitor": [
@@ -14778,7 +14784,7 @@
     ],
     "Yahoo Sports": [
      0,
-     1,
+     2,
      0
     ],
     "The Jerusalem Post": [
@@ -14798,7 +14804,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     3,
+     4,
      0
     ],
     "Chosunbiz": [
@@ -14933,10 +14939,40 @@
     ],
     "Comité Asesor de Vacunas de la AEP": [
      0,
-     13,
+     17,
      0
     ],
     "Al Jazeera": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Monitor": [
+     0,
+     1,
+     0
+    ],
+    "GlobeNewswire": [
+     0,
+     1,
+     0
+    ],
+    "thecradle.co": [
+     0,
+     1,
+     0
+    ],
+    "Mehr News Agency": [
+     0,
+     1,
+     0
+    ],
+    "Investing.com": [
+     0,
+     1,
+     0
+    ],
+    "Stephenson Harwood": [
      0,
      1,
      0
