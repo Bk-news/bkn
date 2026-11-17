@@ -14496,24 +14496,24 @@
    }
   },
   "2026-11-17": {
-   "total": 463,
-   "news": 450,
+   "total": 465,
+   "news": 452,
    "articles": 13,
    "positive": 0,
-   "neutral": 463,
+   "neutral": 465,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "US": 72,
     "FR": 12,
-    "GB": 171,
+    "GB": 172,
     "SA": 47,
     "DE": 4,
     "HK": 4
    },
    "topics": {},
    "sources": {
-    "日本取引所グループ": 32,
+    "日本取引所グループ": 33,
     "The Washington Post": 7,
     "The New York Times": 10,
     "Le Monde.fr": 3,
@@ -14521,7 +14521,7 @@
     "Jagran Josh": 1,
     "AP News": 11,
     "BBC": 11,
-    "The Guardian": 71,
+    "The Guardian": 72,
     "Bloomberg.com": 10,
     "Foreign Affairs": 2,
     "Arab News": 46,
@@ -14603,7 +14603,7 @@
    "sourceTone": {
     "日本取引所グループ": [
      0,
-     32,
+     33,
      0
     ],
     "The Washington Post": [
@@ -14643,7 +14643,7 @@
     ],
     "The Guardian": [
      0,
-     71,
+     72,
      0
     ],
     "Bloomberg.com": [

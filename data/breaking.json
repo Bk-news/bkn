@@ -1,5 +1,17 @@
 [
  {
+  "id": "1041b851e9630aea",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "رويترز: الأسهم الأميركية تواصل التراجع والمؤشر داو جونز يهبط 2%",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/154116",
+  "published": "2026-11-17T20:05:21.000Z",
+  "subject": "saudi",
+  "added": "2026-11-17T20:05:21.000Z"
+ },
+ {
   "id": "2a336ecf3888180e",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -274,17 +286,5 @@
   "published": "2026-11-17T19:06:38.000Z",
   "subject": "saudi",
   "added": "2026-11-17T19:06:38.000Z"
- },
- {
-  "id": "8f0d23782d8f06eb",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "مصدر عراقي للعربية: هجوم بمسيرتين على مقار للمعارضة الإيرانية في منطقة باليسان شمال أربيل",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/154092",
-  "published": "2026-11-17T19:05:22.000Z",
-  "subject": "saudi",
-  "added": "2026-11-17T19:05:22.000Z"
  }
 ]
