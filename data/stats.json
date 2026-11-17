@@ -12801,17 +12801,17 @@
    }
   },
   "2026-11-15": {
-   "total": 525,
-   "news": 520,
+   "total": 526,
+   "news": 521,
    "articles": 5,
    "positive": 0,
-   "neutral": 525,
+   "neutral": 526,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 54,
     "US": 52,
-    "FR": 15,
+    "FR": 16,
     "GB": 181,
     "HK": 8,
     "DE": 3,
@@ -12824,7 +12824,7 @@
     "WSJ": 10,
     "UA.NEWS": 4,
     "Dawn": 1,
-    "Le Monde.fr": 10,
+    "Le Monde.fr": 11,
     "France 24": 5,
     "The New York Times": 15,
     "Al Jazeera": 2,
@@ -12994,7 +12994,7 @@
     ],
     "Le Monde.fr": [
      0,
-     10,
+     11,
      0
     ],
     "France 24": [
@@ -13700,18 +13700,18 @@
    }
   },
   "2026-11-16": {
-   "total": 583,
-   "news": 573,
+   "total": 585,
+   "news": 575,
    "articles": 10,
    "positive": 0,
-   "neutral": 583,
+   "neutral": 585,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "FR": 53,
     "GB": 200,
     "SA": 71,
-    "US": 80,
+    "US": 82,
     "HK": 6,
     "JP": 1
    },
@@ -13723,7 +13723,7 @@
     "Arab News": 78,
     "The Guardian": 93,
     "The New York Times": 9,
-    "WSJ": 11,
+    "WSJ": 12,
     "BBC": 23,
     "Українські Національні Новини (УНН)": 1,
     "https://houseofsaud.com/": 4,
@@ -13831,7 +13831,7 @@
     "Sent-trib": 1,
     "Qatar news agency": 1,
     "Nikkei Asia": 1,
-    "CNN": 1,
+    "CNN": 2,
     "Foreign Policy": 1,
     "sanad.uk": 1,
     "HeritageDaily": 1,
@@ -13879,7 +13879,7 @@
     ],
     "WSJ": [
      0,
-     11,
+     12,
      0
     ],
     "BBC": [
@@ -14419,7 +14419,7 @@
     ],
     "CNN": [
      0,
-     1,
+     2,
      0
     ],
     "Foreign Policy": [
@@ -14490,46 +14490,46 @@
    }
   },
   "2026-11-17": {
-   "total": 204,
-   "news": 201,
-   "articles": 3,
+   "total": 241,
+   "news": 233,
+   "articles": 8,
    "positive": 0,
-   "neutral": 204,
+   "neutral": 241,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "US": 33,
-    "FR": 5,
-    "GB": 79,
-    "SA": 16,
-    "DE": 1,
-    "HK": 2
+    "US": 47,
+    "FR": 7,
+    "GB": 89,
+    "SA": 20,
+    "DE": 3,
+    "HK": 4
    },
    "topics": {},
    "sources": {
     "日本取引所グループ": 18,
-    "The Washington Post": 4,
-    "The New York Times": 4,
+    "The Washington Post": 6,
+    "The New York Times": 6,
     "Le Monde.fr": 3,
-    "Reuters": 34,
+    "Reuters": 37,
     "Jagran Josh": 1,
-    "AP News": 6,
-    "BBC": 6,
-    "The Guardian": 36,
-    "Bloomberg.com": 7,
-    "Foreign Affairs": 1,
-    "Arab News": 17,
-    "Al-Monitor": 9,
-    "WSJ": 2,
-    "Financial Times": 4,
-    "Spiegel": 1,
-    "South China Morning Post": 3,
+    "AP News": 8,
+    "BBC": 8,
+    "The Guardian": 38,
+    "Bloomberg.com": 9,
+    "Foreign Affairs": 2,
+    "Arab News": 19,
+    "Al-Monitor": 11,
+    "WSJ": 3,
+    "Financial Times": 5,
+    "Spiegel": 3,
+    "South China Morning Post": 5,
     "Foreign Policy": 1,
-    "The Economist": 1,
+    "The Economist": 3,
     "Britannica": 1,
     "Wamda": 1,
     "Fast Company Middle East": 2,
-    "France 24": 3,
+    "France 24": 5,
     "Yahoo Finance": 2,
     "Newsweek": 1,
     "SpecialEurasia": 1,
@@ -14540,7 +14540,7 @@
     "ASHARQ AL-AWSAT English": 2,
     "Employee Happiness Daily": 1,
     "TahawulTech.com": 1,
-    "Saudi Gazette": 1,
+    "Saudi Gazette": 3,
     "Facebook": 1,
     "NDTV": 1,
     "Politics Today": 1,
@@ -14560,11 +14560,14 @@
     "Critical Threats": 1,
     "EnergyNow": 1,
     "MMA Fighting": 1,
-    "UA.NEWS": 1,
+    "UA.NEWS": 2,
     "The Arab Weekly": 1,
     "Oil & Gas Middle East": 1,
     "Moneycontrol.com": 1,
-    "NDTV Sports": 1
+    "NDTV Sports": 1,
+    "Atlantic Council": 2,
+    "21st CENTURY CHRONICLE": 1,
+    "FT Markets Data": 1
    },
    "sourceTone": {
     "日本取引所グループ": [
@@ -14574,12 +14577,12 @@
     ],
     "The Washington Post": [
      0,
-     4,
+     6,
      0
     ],
     "The New York Times": [
      0,
-     4,
+     6,
      0
     ],
     "Le Monde.fr": [
@@ -14589,7 +14592,7 @@
     ],
     "Reuters": [
      0,
-     34,
+     37,
      0
     ],
     "Jagran Josh": [
@@ -14599,57 +14602,57 @@
     ],
     "AP News": [
      0,
-     6,
+     8,
      0
     ],
     "BBC": [
      0,
-     6,
+     8,
      0
     ],
     "The Guardian": [
      0,
-     36,
+     38,
      0
     ],
     "Bloomberg.com": [
      0,
-     7,
+     9,
      0
     ],
     "Foreign Affairs": [
      0,
-     1,
+     2,
      0
     ],
     "Arab News": [
      0,
-     17,
+     19,
      0
     ],
     "Al-Monitor": [
      0,
-     9,
+     11,
      0
     ],
     "WSJ": [
      0,
-     2,
+     3,
      0
     ],
     "Financial Times": [
      0,
-     4,
+     5,
      0
     ],
     "Spiegel": [
      0,
-     1,
+     3,
      0
     ],
     "South China Morning Post": [
      0,
-     3,
+     5,
      0
     ],
     "Foreign Policy": [
@@ -14659,7 +14662,7 @@
     ],
     "The Economist": [
      0,
-     1,
+     3,
      0
     ],
     "Britannica": [
@@ -14679,7 +14682,7 @@
     ],
     "France 24": [
      0,
-     3,
+     5,
      0
     ],
     "Yahoo Finance": [
@@ -14734,7 +14737,7 @@
     ],
     "Saudi Gazette": [
      0,
-     1,
+     3,
      0
     ],
     "Facebook": [
@@ -14834,7 +14837,7 @@
     ],
     "UA.NEWS": [
      0,
-     1,
+     2,
      0
     ],
     "The Arab Weekly": [
@@ -14853,6 +14856,21 @@
      0
     ],
     "NDTV Sports": [
+     0,
+     1,
+     0
+    ],
+    "Atlantic Council": [
+     0,
+     2,
+     0
+    ],
+    "21st CENTURY CHRONICLE": [
+     0,
+     1,
+     0
+    ],
+    "FT Markets Data": [
      0,
      1,
      0
