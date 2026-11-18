@@ -15118,17 +15118,17 @@
    }
   },
   "2026-11-18": {
-   "total": 128,
-   "news": 127,
+   "total": 129,
+   "news": 128,
    "articles": 1,
    "positive": 0,
-   "neutral": 128,
+   "neutral": 129,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 35,
     "SA": 9,
-    "US": 25,
+    "US": 26,
     "FR": 5,
     "HK": 2,
     "DE": 1,
@@ -15151,7 +15151,7 @@
     "Yahoo Sports": 1,
     "intlbm": 1,
     "Le Monde.fr": 2,
-    "Bloomberg.com": 4,
+    "Bloomberg.com": 5,
     "South China Morning Post": 2,
     "France 24": 3,
     "Saudi Gazette": 2,
@@ -15274,7 +15274,7 @@
     ],
     "Bloomberg.com": [
      0,
-     4,
+     5,
      0
     ],
     "South China Morning Post": [
