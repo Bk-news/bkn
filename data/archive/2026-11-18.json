@@ -2,6 +2,27 @@
  "day": "2026-11-18",
  "items": [
   {
+   "id": "64a50575fca2a795",
+   "origin": "rss",
+   "source": "Financial Times",
+   "author": "",
+   "title_ar": "إيران تهاجم البحرين والكويت مع تصاعد التوترات في الشرق الأوسط",
+   "title_orig": "Iran attacks Bahrain and Kuwait as Middle East tensions flare",
+   "title_en": "Iran attacks Bahrain and Kuwait as Middle East tensions flare",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzV3VhOFJ2c1Jad3RnOFJMdWZicE4tUTZHcXJDMDhWdnpoaUk0X3V6WmE5bXVYdF9KdFNJVHhBQ2IxMWNMcG9Bcmx5SFQ3emh3LW5jX3F0NGo3RFpSeFFZRWpPbnB0U1VRZTROU2M5VjE?oc=5",
+   "published": "2026-11-18T09:13:19.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "Iran attacks Bahrain and Kuwait as Middle East tensions flare &nbsp;&nbsp; Financial Times",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "57210d2f0a465076",
    "origin": "rss",
    "source": "intlbm",
