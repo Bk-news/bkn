@@ -15118,17 +15118,17 @@
    }
   },
   "2026-11-18": {
-   "total": 108,
-   "news": 108,
+   "total": 109,
+   "news": 109,
    "articles": 0,
    "positive": 0,
-   "neutral": 108,
+   "neutral": 109,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 29,
     "SA": 8,
-    "US": 21,
+    "US": 22,
     "FR": 5,
     "HK": 2,
     "DE": 1,
@@ -15143,7 +15143,7 @@
     "The Sun Nigeria": 1,
     "The New York Times": 6,
     "Arabian Gulf Business Insight | AGBI": 2,
-    "AP News": 3,
+    "AP News": 4,
     "WSJ": 2,
     "Science Daily": 1,
     "Reuters": 18,
@@ -15228,7 +15228,7 @@
     ],
     "AP News": [
      0,
-     3,
+     4,
      0
     ],
     "WSJ": [
