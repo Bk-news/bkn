@@ -13700,17 +13700,17 @@
    }
   },
   "2026-11-16": {
-   "total": 632,
-   "news": 622,
+   "total": 634,
+   "news": 624,
    "articles": 10,
    "positive": 0,
-   "neutral": 632,
+   "neutral": 634,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "FR": 54,
     "GB": 231,
-    "SA": 75,
+    "SA": 77,
     "US": 91,
     "HK": 7,
     "JP": 1
@@ -13720,7 +13720,7 @@
     "The Times of India": 2,
     "France 24": 49,
     "Reuters": 96,
-    "Arab News": 80,
+    "Arab News": 82,
     "The Guardian": 103,
     "The New York Times": 11,
     "WSJ": 12,
@@ -13865,7 +13865,7 @@
     ],
     "Arab News": [
      0,
-     80,
+     82,
      0
     ],
     "The Guardian": [
@@ -14496,18 +14496,18 @@
    }
   },
   "2026-11-17": {
-   "total": 545,
-   "news": 527,
+   "total": 553,
+   "news": 535,
    "articles": 18,
    "positive": 0,
-   "neutral": 545,
+   "neutral": 553,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "US": 91,
     "FR": 13,
     "GB": 192,
-    "SA": 60,
+    "SA": 67,
     "DE": 4,
     "HK": 5
    },
@@ -14524,7 +14524,7 @@
     "The Guardian": 77,
     "Bloomberg.com": 10,
     "Foreign Affairs": 2,
-    "Arab News": 59,
+    "Arab News": 66,
     "Al-Monitor": 34,
     "WSJ": 3,
     "Financial Times": 8,
@@ -14583,7 +14583,7 @@
     "Legis1": 1,
     "ESPN": 2,
     "Lafayette Parish School System": 12,
-    "Comité Asesor de Vacunas de la AEP": 23,
+    "Comité Asesor de Vacunas de la AEP": 24,
     "Al Jazeera": 1,
     "Middle East Monitor": 1,
     "GlobeNewswire": 1,
@@ -14670,7 +14670,7 @@
     ],
     "Arab News": [
      0,
-     59,
+     66,
      0
     ],
     "Al-Monitor": [
@@ -14965,7 +14965,7 @@
     ],
     "Comité Asesor de Vacunas de la AEP": [
      0,
-     23,
+     24,
      0
     ],
     "Al Jazeera": [
@@ -15106,29 +15106,30 @@
    }
   },
   "2026-11-18": {
-   "total": 12,
-   "news": 12,
+   "total": 15,
+   "news": 15,
    "articles": 0,
    "positive": 0,
-   "neutral": 12,
+   "neutral": 15,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 3,
-    "SA": 2,
-    "US": 5
+    "SA": 3,
+    "US": 6
    },
    "topics": {},
    "sources": {
     "The Guardian": 3,
-    "Arab News": 2,
+    "Arab News": 3,
     "The Washington Post": 1,
     "Al-Monitor": 1,
     "The Sun Nigeria": 1,
-    "The New York Times": 1,
+    "The New York Times": 2,
     "Arabian Gulf Business Insight | AGBI": 1,
     "AP News": 1,
-    "WSJ": 1
+    "WSJ": 1,
+    "Science Daily": 1
    },
    "sourceTone": {
     "The Guardian": [
@@ -15138,7 +15139,7 @@
     ],
     "Arab News": [
      0,
-     2,
+     3,
      0
     ],
     "The Washington Post": [
@@ -15158,7 +15159,7 @@
     ],
     "The New York Times": [
      0,
-     1,
+     2,
      0
     ],
     "Arabian Gulf Business Insight | AGBI": [
@@ -15172,6 +15173,11 @@
      0
     ],
     "WSJ": [
+     0,
+     1,
+     0
+    ],
+    "Science Daily": [
      0,
      1,
      0
