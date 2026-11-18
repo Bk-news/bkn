@@ -13700,16 +13700,16 @@
    }
   },
   "2026-11-16": {
-   "total": 627,
-   "news": 617,
+   "total": 630,
+   "news": 620,
    "articles": 10,
    "positive": 0,
-   "neutral": 627,
+   "neutral": 630,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "FR": 54,
-    "GB": 226,
+    "GB": 229,
     "SA": 75,
     "US": 91,
     "HK": 7,
@@ -13719,9 +13719,9 @@
    "sources": {
     "The Times of India": 2,
     "France 24": 49,
-    "Reuters": 93,
+    "Reuters": 94,
     "Arab News": 80,
-    "The Guardian": 101,
+    "The Guardian": 103,
     "The New York Times": 11,
     "WSJ": 12,
     "BBC": 24,
@@ -13860,7 +13860,7 @@
     ],
     "Reuters": [
      0,
-     93,
+     94,
      0
     ],
     "Arab News": [
@@ -13870,7 +13870,7 @@
     ],
     "The Guardian": [
      0,
-     101,
+     103,
      0
     ],
     "The New York Times": [
@@ -14496,18 +14496,18 @@
    }
   },
   "2026-11-17": {
-   "total": 501,
-   "news": 484,
-   "articles": 17,
+   "total": 537,
+   "news": 519,
+   "articles": 18,
    "positive": 0,
-   "neutral": 501,
+   "neutral": 537,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "US": 85,
+    "US": 91,
     "FR": 13,
-    "GB": 181,
-    "SA": 51,
+    "GB": 192,
+    "SA": 60,
     "DE": 4,
     "HK": 5
    },
@@ -14515,17 +14515,17 @@
    "sources": {
     "日本取引所グループ": 33,
     "The Washington Post": 7,
-    "The New York Times": 13,
+    "The New York Times": 14,
     "Le Monde.fr": 3,
-    "Reuters": 83,
+    "Reuters": 93,
     "Jagran Josh": 1,
     "AP News": 14,
     "BBC": 11,
-    "The Guardian": 76,
+    "The Guardian": 77,
     "Bloomberg.com": 10,
     "Foreign Affairs": 2,
-    "Arab News": 49,
-    "Al-Monitor": 29,
+    "Arab News": 59,
+    "Al-Monitor": 34,
     "WSJ": 3,
     "Financial Times": 8,
     "Spiegel": 4,
@@ -14571,7 +14571,7 @@
     "Oil & Gas Middle East": 1,
     "Moneycontrol.com": 1,
     "NDTV Sports": 1,
-    "Atlantic Council": 7,
+    "Atlantic Council": 8,
     "21st CENTURY CHRONICLE": 1,
     "FT Markets Data": 1,
     "Middle East Eye": 3,
@@ -14597,13 +14597,17 @@
     "Alvarez & Marsal": 1,
     "Middle East Online": 1,
     "Billionaires.Africa": 1,
-    "Goal.com": 1,
-    "Bioengineer.org": 1,
+    "Goal.com": 3,
+    "Bioengineer.org": 3,
     "Coinbase": 1,
     "Report.az": 1,
     "Spectrum News": 1,
     "Arab News PK": 1,
-    "Crypto Briefing": 1
+    "Crypto Briefing": 1,
+    "International Legal and Business Services Group": 1,
+    "Paulick Report": 1,
+    "Business Insider Africa": 1,
+    "Shabelle Media Network": 1
    },
    "sourceTone": {
     "日本取引所グループ": [
@@ -14618,7 +14622,7 @@
     ],
     "The New York Times": [
      0,
-     13,
+     14,
      0
     ],
     "Le Monde.fr": [
@@ -14628,7 +14632,7 @@
     ],
     "Reuters": [
      0,
-     83,
+     93,
      0
     ],
     "Jagran Josh": [
@@ -14648,7 +14652,7 @@
     ],
     "The Guardian": [
      0,
-     76,
+     77,
      0
     ],
     "Bloomberg.com": [
@@ -14663,12 +14667,12 @@
     ],
     "Arab News": [
      0,
-     49,
+     59,
      0
     ],
     "Al-Monitor": [
      0,
-     29,
+     34,
      0
     ],
     "WSJ": [
@@ -14898,7 +14902,7 @@
     ],
     "Atlantic Council": [
      0,
-     7,
+     8,
      0
     ],
     "21st CENTURY CHRONICLE": [
@@ -15028,12 +15032,12 @@
     ],
     "Goal.com": [
      0,
-     1,
+     3,
      0
     ],
     "Bioengineer.org": [
      0,
-     1,
+     3,
      0
     ],
     "Coinbase": [
@@ -15060,25 +15064,45 @@
      0,
      1,
      0
+    ],
+    "International Legal and Business Services Group": [
+     0,
+     1,
+     0
+    ],
+    "Paulick Report": [
+     0,
+     1,
+     0
+    ],
+    "Business Insider Africa": [
+     0,
+     1,
+     0
+    ],
+    "Shabelle Media Network": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-18": {
-   "total": 9,
-   "news": 9,
+   "total": 10,
+   "news": 10,
    "articles": 0,
    "positive": 0,
-   "neutral": 9,
+   "neutral": 10,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 2,
+    "GB": 3,
     "SA": 2,
     "US": 3
    },
    "topics": {},
    "sources": {
-    "The Guardian": 2,
+    "The Guardian": 3,
     "Arab News": 2,
     "The Washington Post": 1,
     "Al-Monitor": 1,
@@ -15089,7 +15113,7 @@
    "sourceTone": {
     "The Guardian": [
      0,
-     2,
+     3,
      0
     ],
     "Arab News": [
