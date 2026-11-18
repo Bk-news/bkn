@@ -14496,17 +14496,17 @@
    }
   },
   "2026-11-17": {
-   "total": 583,
-   "news": 565,
+   "total": 584,
+   "news": 566,
    "articles": 18,
    "positive": 0,
-   "neutral": 583,
+   "neutral": 584,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "US": 94,
     "FR": 13,
-    "GB": 209,
+    "GB": 210,
     "SA": 73,
     "DE": 4,
     "HK": 5
@@ -14520,7 +14520,7 @@
     "Reuters": 105,
     "Jagran Josh": 1,
     "AP News": 14,
-    "BBC": 11,
+    "BBC": 12,
     "The Guardian": 80,
     "Bloomberg.com": 10,
     "Foreign Affairs": 2,
@@ -14652,7 +14652,7 @@
     ],
     "BBC": [
      0,
-     11,
+     12,
      0
     ],
     "The Guardian": [
@@ -15118,15 +15118,15 @@
    }
   },
   "2026-11-18": {
-   "total": 123,
-   "news": 122,
+   "total": 124,
+   "news": 123,
    "articles": 1,
    "positive": 0,
-   "neutral": 123,
+   "neutral": 124,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 34,
+    "GB": 35,
     "SA": 9,
     "US": 23,
     "FR": 5,
@@ -15146,7 +15146,7 @@
     "AP News": 5,
     "WSJ": 2,
     "Science Daily": 1,
-    "Reuters": 20,
+    "Reuters": 21,
     "BigGo Finance": 1,
     "Yahoo Sports": 1,
     "intlbm": 1,
@@ -15248,7 +15248,7 @@
     ],
     "Reuters": [
      0,
-     20,
+     21,
      0
     ],
     "BigGo Finance": [

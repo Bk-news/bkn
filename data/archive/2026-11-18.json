@@ -1913,6 +1913,27 @@
    "mt": true
   },
   {
+   "id": "e15dcbca5d06f933",
+   "origin": "rss",
+   "source": "Reuters",
+   "author": "",
+   "title_ar": "تواجه الهند مشكلة الأرز: فهي تزرع الكثير من هذه المادة",
+   "title_orig": "India has a rice problem: it's growing too much of the stuff",
+   "title_en": "India has a rice problem: it's growing too much of the stuff",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42M1VFWVE1NFBhTFI1Snczb0dMTEItVDlYZkh5ZG9FNmd1QXNOTWlyUjhVN01fVGZTUEQ1Z3BKSHNsVjlIbXdWMDhETkNmQi0tYTFLcHJJYWk2ZDZwOS16aWJqRnhSWlE?oc=5",
+   "published": "2026-11-18T03:36:34.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "India has a rice problem: it's growing too much of the stuff &nbsp;&nbsp; Reuters",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "48b149294f1cf08e",
    "origin": "rss",
    "source": "Reuters",
