@@ -1,28 +1,24 @@
 {
- "run": "2026-11-18T10:01:51.996Z",
+ "run": "2026-11-18T17:59:01.366Z",
  "key": true,
  "model": "claude-haiku-5-5",
- "feedsOk": 20,
- "feedsFailed": [
-  "Global – Saudi Arabia: HTTP 429",
-  "The Wall Street Journal: HTTP 429",
-  "Financial Times: HTTP 429",
-  "Al-Monitor: HTTP 429"
- ],
- "fetched": 575,
- "fresh": 1,
- "world": 1,
- "analyzed": 0,
+ "feedsOk": 24,
+ "feedsFailed": [],
+ "fetched": 876,
+ "fresh": 270,
+ "world": 270,
+ "analyzed": 39,
  "analyzeErrors": 1,
- "lastError": "Anthropic 401: {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChACc9mx9ZLjJbNpZVHgh\"}",
+ "lastError": "Anthropic 401: {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChApzZ7TCXF9YBCCnQdMn\"}",
  "telegram": 20,
  "royal": 0,
- "mt": 1,
+ "mtErrors": 1,
+ "mtLastError": "translate 429",
  "keyRejected": true,
- "pending": 679,
+ "pending": 718,
  "added": {
-  "news": 1,
-  "articles": 0,
-  "breaking": 0
+  "news": 36,
+  "articles": 4,
+  "breaking": 20
  }
 }
