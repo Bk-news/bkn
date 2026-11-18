@@ -13700,16 +13700,16 @@
    }
   },
   "2026-11-16": {
-   "total": 638,
-   "news": 628,
+   "total": 639,
+   "news": 629,
    "articles": 10,
    "positive": 0,
-   "neutral": 638,
+   "neutral": 639,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "FR": 54,
-    "GB": 235,
+    "GB": 236,
     "SA": 77,
     "US": 91,
     "HK": 7,
@@ -13719,7 +13719,7 @@
    "sources": {
     "The Times of India": 2,
     "France 24": 49,
-    "Reuters": 99,
+    "Reuters": 100,
     "Arab News": 82,
     "The Guardian": 104,
     "The New York Times": 11,
@@ -13860,7 +13860,7 @@
     ],
     "Reuters": [
      0,
-     99,
+     100,
      0
     ],
     "Arab News": [
@@ -15118,15 +15118,15 @@
    }
   },
   "2026-11-18": {
-   "total": 129,
-   "news": 128,
+   "total": 132,
+   "news": 131,
    "articles": 1,
    "positive": 0,
-   "neutral": 129,
+   "neutral": 132,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 35,
+    "GB": 37,
     "SA": 9,
     "US": 26,
     "FR": 5,
@@ -15146,7 +15146,7 @@
     "AP News": 5,
     "WSJ": 2,
     "Science Daily": 1,
-    "Reuters": 21,
+    "Reuters": 23,
     "BigGo Finance": 1,
     "Yahoo Sports": 1,
     "intlbm": 1,
@@ -15194,7 +15194,8 @@
     "marketscreener.com": 1,
     "Gulf Today": 1,
     "StreetInsider": 1,
-    "Arabian Business": 1
+    "Arabian Business": 1,
+    "NDTV": 1
    },
    "sourceTone": {
     "The Guardian": [
@@ -15249,7 +15250,7 @@
     ],
     "Reuters": [
      0,
-     21,
+     23,
      0
     ],
     "BigGo Finance": [
@@ -15488,6 +15489,11 @@
      0
     ],
     "Arabian Business": [
+     0,
+     1,
+     0
+    ],
+    "NDTV": [
      0,
      1,
      0
