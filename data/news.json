@@ -1860,6 +1860,26 @@
   "lang": "en"
  },
  {
+  "id": "8b9aa78dca7f4b0b",
+  "origin": "rss",
+  "source": "The Guardian",
+  "author": "",
+  "title_ar": "Burnham considering cuts to national insurance to create more youth jobs",
+  "title_orig": "Burnham considering cuts to national insurance to create more youth jobs",
+  "title_en": "Burnham considering cuts to national insurance to create more youth jobs",
+  "summary_ar": [],
+  "summary_en": [],
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRENOWktiQ3o0X0RzZW1WbXdRT0R3eGVsZ2dUZ3k4d1l0eEZTODhBbkFoLWZMUDc2WkMwcjRRMGRqdmNLTXVEd1VmSnJkd2hGejRhT2ZuZDliOXBrR2hKSGNvQkR6VmJrRFlxODVKbGNsUmdPakRmRGdFTHk1b3FUdk9XMzhpU2g5XzBoOTQzOTh3UnFHOUJPNXk2Y3FnbXRYY0ZJNEpnOU8?oc=5",
+  "published": "2026-11-18T15:10:00.000Z",
+  "subject": "saudi",
+  "tone": "neutral",
+  "topic": "",
+  "country": "GB",
+  "pending": true,
+  "desc": "Burnham considering cuts to national insurance to create more youth jobs &nbsp;&nbsp; The Guardian",
+  "lang": "en"
+ },
+ {
   "id": "84ca3d8da67f2757",
   "origin": "rss",
   "source": "Dealroom",
@@ -10197,26 +10217,5 @@
   "pending": true,
   "desc": "Biden criticizes Zelenskyy as ‘moody’ and ‘not as grateful’ in new memoir &nbsp;&nbsp; The Guardian",
   "lang": "en"
- },
- {
-  "id": "847644809f0b6320",
-  "origin": "rss",
-  "source": "BBC",
-  "author": "",
-  "title_ar": "السعودية وأوزبكستان: إحصائيات المباريات الودية والمواجهات المباشرة",
-  "title_orig": "Saudi Arabia vs Uzbekistan: Friendlies stats & head-to-head",
-  "title_en": "Saudi Arabia vs Uzbekistan: Friendlies stats & head-to-head",
-  "summary_ar": [],
-  "summary_en": [],
-  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VcUtraUVTeUV1RDdNZUtIZ0dLekkxOEJYTVRmZ3BscWN4SGxsQnl1VWZJMnRMaHlJamNzZi0tb0hPLTNlR0NYUDVCUUE5YWh3ZTVRc0FjMXlWMHN2bG1YQUd2Z3JRY1pDNHdCVDZSVQ?oc=5",
-  "published": "2026-11-17T18:25:35.000Z",
-  "subject": "saudi",
-  "tone": "neutral",
-  "topic": "",
-  "country": "",
-  "pending": true,
-  "desc": "Saudi Arabia vs Uzbekistan: Friendlies stats & head-to-head &nbsp;&nbsp; BBC",
-  "lang": "en",
-  "mt": true
  }
 ]
