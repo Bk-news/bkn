@@ -14496,17 +14496,17 @@
    }
   },
   "2026-11-17": {
-   "total": 572,
-   "news": 554,
+   "total": 577,
+   "news": 559,
    "articles": 18,
    "positive": 0,
-   "neutral": 572,
+   "neutral": 577,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "US": 93,
     "FR": 13,
-    "GB": 203,
+    "GB": 206,
     "SA": 72,
     "DE": 4,
     "HK": 5
@@ -14517,14 +14517,14 @@
     "The Washington Post": 7,
     "The New York Times": 15,
     "Le Monde.fr": 3,
-    "Reuters": 100,
+    "Reuters": 103,
     "Jagran Josh": 1,
     "AP News": 14,
     "BBC": 11,
     "The Guardian": 79,
     "Bloomberg.com": 10,
     "Foreign Affairs": 2,
-    "Arab News": 71,
+    "Arab News": 72,
     "Al-Monitor": 35,
     "WSJ": 3,
     "Financial Times": 10,
@@ -14611,7 +14611,8 @@
     "Taipei Times": 1,
     "MEMRI | Middle East Media Research Institute": 1,
     "News18": 1,
-    "ABC News - Breaking News, Latest News and Videos": 1
+    "ABC News - Breaking News, Latest News and Videos": 1,
+    "EnterpriseAM": 1
    },
    "sourceTone": {
     "日本取引所グループ": [
@@ -14636,7 +14637,7 @@
     ],
     "Reuters": [
      0,
-     100,
+     103,
      0
     ],
     "Jagran Josh": [
@@ -14671,7 +14672,7 @@
     ],
     "Arab News": [
      0,
-     71,
+     72,
      0
     ],
     "Al-Monitor": [
@@ -15108,15 +15109,20 @@
      0,
      1,
      0
+    ],
+    "EnterpriseAM": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-18": {
-   "total": 90,
-   "news": 90,
+   "total": 101,
+   "news": 101,
    "articles": 0,
    "positive": 0,
-   "neutral": 90,
+   "neutral": 101,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -15148,7 +15154,7 @@
     "South China Morning Post": 2,
     "France 24": 3,
     "Saudi Gazette": 2,
-    "Financial Times": 3,
+    "Financial Times": 4,
     "Spiegel": 1,
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1,
     "BBC": 1,
@@ -15166,7 +15172,17 @@
     "PR Newswire UK": 1,
     "ASHARQ AL-AWSAT English": 1,
     "Condé Nast Traveller Middle East": 1,
-    "Bioengineer.org": 1
+    "Bioengineer.org": 1,
+    "Yemen Online": 1,
+    "Broadcast Media Africa": 1,
+    "Dubai Eye 103.8": 1,
+    "Arab News PK": 1,
+    "Al Arabiya English": 1,
+    "Anadolu Ajansı": 1,
+    "Sharjah24": 1,
+    "Countercurrents": 1,
+    "https://houseofsaud.com/": 1,
+    "The National": 1
    },
    "sourceTone": {
     "The Guardian": [
@@ -15266,7 +15282,7 @@
     ],
     "Financial Times": [
      0,
-     3,
+     4,
      0
     ],
     "Spiegel": [
@@ -15355,6 +15371,56 @@
      0
     ],
     "Bioengineer.org": [
+     0,
+     1,
+     0
+    ],
+    "Yemen Online": [
+     0,
+     1,
+     0
+    ],
+    "Broadcast Media Africa": [
+     0,
+     1,
+     0
+    ],
+    "Dubai Eye 103.8": [
+     0,
+     1,
+     0
+    ],
+    "Arab News PK": [
+     0,
+     1,
+     0
+    ],
+    "Al Arabiya English": [
+     0,
+     1,
+     0
+    ],
+    "Anadolu Ajansı": [
+     0,
+     1,
+     0
+    ],
+    "Sharjah24": [
+     0,
+     1,
+     0
+    ],
+    "Countercurrents": [
+     0,
+     1,
+     0
+    ],
+    "https://houseofsaud.com/": [
+     0,
+     1,
+     0
+    ],
+    "The National": [
      0,
      1,
      0
