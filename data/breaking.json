@@ -1,5 +1,17 @@
 [
  {
+  "id": "82ac34e9feed6ada",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "الخزانة الأميركية: عقوبات على شبكة \"وتعاونوا\" التي تستخدم عملها كغطاء لتمويل حزب الله",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/154276",
+  "published": "2026-11-18T18:08:23.000Z",
+  "subject": "saudi",
+  "added": "2026-11-18T18:08:23.000Z"
+ },
+ {
   "id": "d873a251ead2c192",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -238,17 +250,5 @@
   "published": "2026-11-18T17:11:22.000Z",
   "subject": "saudi",
   "added": "2026-11-18T17:11:22.000Z"
- },
- {
-  "id": "eedc87540cca9e95",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "رويترز عن مصدرين: رئيس الموساد التقى مدير CIA ومسؤولين أميركيين وأطلعهم على معلومات بشأن إيران",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/154255",
-  "published": "2026-11-18T17:10:01.000Z",
-  "subject": "saudi",
-  "added": "2026-11-18T17:10:01.000Z"
  }
 ]
