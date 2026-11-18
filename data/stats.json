@@ -13700,16 +13700,16 @@
    }
   },
   "2026-11-16": {
-   "total": 635,
-   "news": 625,
+   "total": 636,
+   "news": 626,
    "articles": 10,
    "positive": 0,
-   "neutral": 635,
+   "neutral": 636,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "FR": 54,
-    "GB": 232,
+    "GB": 233,
     "SA": 77,
     "US": 91,
     "HK": 7,
@@ -13721,7 +13721,7 @@
     "France 24": 49,
     "Reuters": 97,
     "Arab News": 82,
-    "The Guardian": 103,
+    "The Guardian": 104,
     "The New York Times": 11,
     "WSJ": 12,
     "BBC": 24,
@@ -13870,7 +13870,7 @@
     ],
     "The Guardian": [
      0,
-     103,
+     104,
      0
     ],
     "The New York Times": [
