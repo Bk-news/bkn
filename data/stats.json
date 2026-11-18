@@ -14496,17 +14496,17 @@
    }
   },
   "2026-11-17": {
-   "total": 591,
-   "news": 573,
+   "total": 592,
+   "news": 574,
    "articles": 18,
    "positive": 0,
-   "neutral": 591,
+   "neutral": 592,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "US": 97,
     "FR": 15,
-    "GB": 211,
+    "GB": 212,
     "SA": 74,
     "DE": 4,
     "HK": 5
@@ -14527,7 +14527,7 @@
     "Arab News": 73,
     "Al-Monitor": 35,
     "WSJ": 5,
-    "Financial Times": 10,
+    "Financial Times": 11,
     "Spiegel": 4,
     "South China Morning Post": 6,
     "Foreign Policy": 2,
@@ -14687,7 +14687,7 @@
     ],
     "Financial Times": [
      0,
-     10,
+     11,
      0
     ],
     "Spiegel": [
@@ -15118,47 +15118,47 @@
    }
   },
   "2026-11-18": {
-   "total": 215,
-   "news": 208,
-   "articles": 7,
+   "total": 254,
+   "news": 244,
+   "articles": 10,
    "positive": 0,
-   "neutral": 215,
+   "neutral": 254,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 65,
-    "SA": 15,
-    "US": 52,
-    "FR": 11,
+    "GB": 81,
+    "SA": 21,
+    "US": 67,
+    "FR": 12,
     "HK": 6,
     "DE": 4,
     "JP": 2
    },
    "topics": {},
    "sources": {
-    "The Guardian": 13,
-    "Arab News": 15,
+    "The Guardian": 19,
+    "Arab News": 21,
     "The Washington Post": 7,
-    "Al-Monitor": 11,
+    "Al-Monitor": 16,
     "The Sun Nigeria": 1,
-    "The New York Times": 10,
+    "The New York Times": 11,
     "Arabian Gulf Business Insight | AGBI": 2,
-    "AP News": 10,
-    "WSJ": 4,
+    "AP News": 15,
+    "WSJ": 6,
     "Science Daily": 1,
-    "Reuters": 34,
+    "Reuters": 39,
     "BigGo Finance": 1,
     "Yahoo Sports": 1,
     "intlbm": 1,
     "Le Monde.fr": 4,
-    "Bloomberg.com": 9,
+    "Bloomberg.com": 11,
     "South China Morning Post": 6,
-    "France 24": 7,
+    "France 24": 8,
     "Saudi Gazette": 3,
     "Financial Times": 9,
     "Spiegel": 4,
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1,
-    "BBC": 5,
+    "BBC": 7,
     "The National Law Review": 1,
     "خبرگزاری بین المللی قرآن": 1,
     "Middle East Monitor": 1,
@@ -15189,7 +15189,7 @@
     "Nikkei Asia": 2,
     "Crypto Briefing": 1,
     "Hospitality Net": 1,
-    "The Economist": 5,
+    "The Economist": 8,
     "Naharnet": 1,
     "marketscreener.com": 1,
     "Gulf Today": 1,
@@ -15203,17 +15203,18 @@
     "The Straits Times": 1,
     "Time Magazine": 1,
     "Türkiye Today": 1,
-    "The New Arab": 1
+    "The New Arab": 1,
+    "Fortune": 1
    },
    "sourceTone": {
     "The Guardian": [
      0,
-     13,
+     19,
      0
     ],
     "Arab News": [
      0,
-     15,
+     21,
      0
     ],
     "The Washington Post": [
@@ -15223,7 +15224,7 @@
     ],
     "Al-Monitor": [
      0,
-     11,
+     16,
      0
     ],
     "The Sun Nigeria": [
@@ -15233,7 +15234,7 @@
     ],
     "The New York Times": [
      0,
-     10,
+     11,
      0
     ],
     "Arabian Gulf Business Insight | AGBI": [
@@ -15243,12 +15244,12 @@
     ],
     "AP News": [
      0,
-     10,
+     15,
      0
     ],
     "WSJ": [
      0,
-     4,
+     6,
      0
     ],
     "Science Daily": [
@@ -15258,7 +15259,7 @@
     ],
     "Reuters": [
      0,
-     34,
+     39,
      0
     ],
     "BigGo Finance": [
@@ -15283,7 +15284,7 @@
     ],
     "Bloomberg.com": [
      0,
-     9,
+     11,
      0
     ],
     "South China Morning Post": [
@@ -15293,7 +15294,7 @@
     ],
     "France 24": [
      0,
-     7,
+     8,
      0
     ],
     "Saudi Gazette": [
@@ -15318,7 +15319,7 @@
     ],
     "BBC": [
      0,
-     5,
+     7,
      0
     ],
     "The National Law Review": [
@@ -15473,7 +15474,7 @@
     ],
     "The Economist": [
      0,
-     5,
+     8,
      0
     ],
     "Naharnet": [
@@ -15542,6 +15543,11 @@
      0
     ],
     "The New Arab": [
+     0,
+     1,
+     0
+    ],
+    "Fortune": [
      0,
      1,
      0
