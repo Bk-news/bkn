@@ -15118,15 +15118,15 @@
    }
   },
   "2026-11-18": {
-   "total": 390,
-   "news": 380,
+   "total": 396,
+   "news": 386,
    "articles": 10,
    "positive": 0,
-   "neutral": 390,
+   "neutral": 396,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 118,
+    "GB": 121,
     "SA": 39,
     "US": 78,
     "FR": 13,
@@ -15136,8 +15136,8 @@
    },
    "topics": {},
    "sources": {
-    "The Guardian": 47,
-    "Arab News": 48,
+    "The Guardian": 50,
+    "Arab News": 49,
     "The Washington Post": 7,
     "Al-Monitor": 24,
     "The Sun Nigeria": 1,
@@ -15171,7 +15171,7 @@
     "LinkedIn": 1,
     "وكالة الأنباء السعودية": 1,
     "PR Newswire UK": 1,
-    "ASHARQ AL-AWSAT English": 4,
+    "ASHARQ AL-AWSAT English": 5,
     "Condé Nast Traveller Middle East": 1,
     "Bioengineer.org": 1,
     "Yemen Online": 1,
@@ -15231,7 +15231,7 @@
     "The Times of India": 2,
     "A News": 2,
     "Gulf News": 2,
-    "Kuwait Times": 1,
+    "Kuwait Times": 2,
     "Forth.News": 1,
     "Dawn": 1,
     "The Harvard Crimson": 1,
@@ -15251,12 +15251,12 @@
    "sourceTone": {
     "The Guardian": [
      0,
-     47,
+     50,
      0
     ],
     "Arab News": [
      0,
-     48,
+     49,
      0
     ],
     "The Washington Post": [
@@ -15426,7 +15426,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     4,
+     5,
      0
     ],
     "Condé Nast Traveller Middle East": [
@@ -15726,7 +15726,7 @@
     ],
     "Kuwait Times": [
      0,
-     1,
+     2,
      0
     ],
     "Forth.News": [
