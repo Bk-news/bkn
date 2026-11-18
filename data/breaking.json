@@ -1,5 +1,29 @@
 [
  {
+  "id": "c6e1fee596e14d8b",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "الرئيس الصيني: يجب دعم التجارة الحرة والمفتوحة",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/154162",
+  "published": "2026-11-18T02:12:22.000Z",
+  "subject": "saudi",
+  "added": "2026-11-18T02:12:22.000Z"
+ },
+ {
+  "id": "8ea8f7de81067cce",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "الرئيس الصيني: مستعدون للعمل مع جميع الأطراف ويجب التمسك بمنظمة التجارة العالمية",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/154161",
+  "published": "2026-11-18T02:11:37.000Z",
+  "subject": "saudi",
+  "added": "2026-11-18T02:11:37.000Z"
+ },
+ {
   "id": "03924b9cab6b0c27",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -166,17 +190,5 @@
   "published": "2026-11-18T01:13:01.000Z",
   "subject": "saudi",
   "added": "2026-11-18T01:13:01.000Z"
- },
- {
-  "id": "d9bb32da1f4b00bc",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "كلمة لوزير الخارجية الأميركي ماركو روبيو",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/154146",
-  "published": "2026-11-18T01:12:01.000Z",
-  "subject": "saudi",
-  "added": "2026-11-18T01:12:01.000Z"
  }
 ]

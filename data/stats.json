@@ -14496,18 +14496,18 @@
    }
   },
   "2026-11-17": {
-   "total": 557,
-   "news": 539,
+   "total": 558,
+   "news": 540,
    "articles": 18,
    "positive": 0,
-   "neutral": 557,
+   "neutral": 558,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "US": 91,
     "FR": 13,
     "GB": 194,
-    "SA": 68,
+    "SA": 69,
     "DE": 4,
     "HK": 5
    },
@@ -14524,7 +14524,7 @@
     "The Guardian": 77,
     "Bloomberg.com": 10,
     "Foreign Affairs": 2,
-    "Arab News": 67,
+    "Arab News": 68,
     "Al-Monitor": 34,
     "WSJ": 3,
     "Financial Times": 8,
@@ -14671,7 +14671,7 @@
     ],
     "Arab News": [
      0,
-     67,
+     68,
      0
     ],
     "Al-Monitor": [
