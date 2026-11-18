@@ -13700,16 +13700,16 @@
    }
   },
   "2026-11-16": {
-   "total": 636,
-   "news": 626,
+   "total": 637,
+   "news": 627,
    "articles": 10,
    "positive": 0,
-   "neutral": 636,
+   "neutral": 637,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "FR": 54,
-    "GB": 233,
+    "GB": 234,
     "SA": 77,
     "US": 91,
     "HK": 7,
@@ -13719,7 +13719,7 @@
    "sources": {
     "The Times of India": 2,
     "France 24": 49,
-    "Reuters": 97,
+    "Reuters": 98,
     "Arab News": 82,
     "The Guardian": 104,
     "The New York Times": 11,
@@ -13860,7 +13860,7 @@
     ],
     "Reuters": [
      0,
-     97,
+     98,
      0
     ],
     "Arab News": [
@@ -14496,18 +14496,18 @@
    }
   },
   "2026-11-17": {
-   "total": 577,
-   "news": 559,
+   "total": 579,
+   "news": 561,
    "articles": 18,
    "positive": 0,
-   "neutral": 577,
+   "neutral": 579,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "US": 93,
     "FR": 13,
-    "GB": 206,
-    "SA": 72,
+    "GB": 207,
+    "SA": 73,
     "DE": 4,
     "HK": 5
    },
@@ -14517,14 +14517,14 @@
     "The Washington Post": 7,
     "The New York Times": 15,
     "Le Monde.fr": 3,
-    "Reuters": 103,
+    "Reuters": 104,
     "Jagran Josh": 1,
     "AP News": 14,
     "BBC": 11,
     "The Guardian": 79,
     "Bloomberg.com": 10,
     "Foreign Affairs": 2,
-    "Arab News": 72,
+    "Arab News": 73,
     "Al-Monitor": 35,
     "WSJ": 3,
     "Financial Times": 10,
@@ -14637,7 +14637,7 @@
     ],
     "Reuters": [
      0,
-     103,
+     104,
      0
     ],
     "Jagran Josh": [
@@ -14672,7 +14672,7 @@
     ],
     "Arab News": [
      0,
-     72,
+     73,
      0
     ],
     "Al-Monitor": [
@@ -15118,15 +15118,15 @@
    }
   },
   "2026-11-18": {
-   "total": 101,
-   "news": 101,
+   "total": 103,
+   "news": 103,
    "articles": 0,
    "positive": 0,
-   "neutral": 101,
+   "neutral": 103,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 27,
+    "GB": 28,
     "SA": 8,
     "US": 21,
     "FR": 5,
@@ -15135,7 +15135,7 @@
    },
    "topics": {},
    "sources": {
-    "The Guardian": 5,
+    "The Guardian": 6,
     "Arab News": 7,
     "The Washington Post": 3,
     "Al-Monitor": 5,
@@ -15182,12 +15182,13 @@
     "Sharjah24": 1,
     "Countercurrents": 1,
     "https://houseofsaud.com/": 1,
-    "The National": 1
+    "The National": 1,
+    "DW.com": 1
    },
    "sourceTone": {
     "The Guardian": [
      0,
-     5,
+     6,
      0
     ],
     "Arab News": [
@@ -15421,6 +15422,11 @@
      0
     ],
     "The National": [
+     0,
+     1,
+     0
+    ],
+    "DW.com": [
      0,
      1,
      0
