@@ -15118,15 +15118,15 @@
    }
   },
   "2026-11-18": {
-   "total": 132,
-   "news": 131,
+   "total": 135,
+   "news": 134,
    "articles": 1,
    "positive": 0,
-   "neutral": 132,
+   "neutral": 135,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 37,
+    "GB": 40,
     "SA": 9,
     "US": 26,
     "FR": 5,
@@ -15146,7 +15146,7 @@
     "AP News": 5,
     "WSJ": 2,
     "Science Daily": 1,
-    "Reuters": 23,
+    "Reuters": 26,
     "BigGo Finance": 1,
     "Yahoo Sports": 1,
     "intlbm": 1,
@@ -15250,7 +15250,7 @@
     ],
     "Reuters": [
      0,
-     23,
+     26,
      0
     ],
     "BigGo Finance": [
