@@ -1,5 +1,17 @@
 [
  {
+  "id": "3547317fa7119c6a",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "البث الإسرائيلية: لم يُحدد أي موعد لتنفيذ هجوم أميركي إسرائيلي محتمل ضد إيران",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/154287",
+  "published": "2026-11-18T18:39:38.000Z",
+  "subject": "saudi",
+  "added": "2026-11-18T18:39:38.000Z"
+ },
+ {
   "id": "a5a6747dd4a74a99",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -226,29 +238,5 @@
   "published": "2026-11-18T17:50:42.000Z",
   "subject": "saudi",
   "added": "2026-11-18T17:50:42.000Z"
- },
- {
-  "id": "6db9b97dbb5ae8a1",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "الخزانة الأميركية تفرض عقوبات جديدة مرتبطة بحزب الله",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/154267",
-  "published": "2026-11-18T17:41:01.000Z",
-  "subject": "saudi",
-  "added": "2026-11-18T17:41:01.000Z"
- },
- {
-  "id": "8ac9338df6d5d11c",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "الخرانة الأميركية تفرض عقوبات جديدة مرتبطة بحزب الله",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/154266",
-  "published": "2026-11-18T17:40:39.000Z",
-  "subject": "saudi",
-  "added": "2026-11-18T17:40:39.000Z"
  }
 ]
