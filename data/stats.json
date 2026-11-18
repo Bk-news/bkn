@@ -14496,18 +14496,18 @@
    }
   },
   "2026-11-17": {
-   "total": 558,
-   "news": 540,
+   "total": 559,
+   "news": 541,
    "articles": 18,
    "positive": 0,
-   "neutral": 558,
+   "neutral": 559,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "US": 91,
     "FR": 13,
     "GB": 194,
-    "SA": 69,
+    "SA": 70,
     "DE": 4,
     "HK": 5
    },
@@ -14524,7 +14524,7 @@
     "The Guardian": 77,
     "Bloomberg.com": 10,
     "Foreign Affairs": 2,
-    "Arab News": 68,
+    "Arab News": 69,
     "Al-Monitor": 34,
     "WSJ": 3,
     "Financial Times": 8,
@@ -14671,7 +14671,7 @@
     ],
     "Arab News": [
      0,
-     68,
+     69,
      0
     ],
     "Al-Monitor": [
@@ -15112,11 +15112,11 @@
    }
   },
   "2026-11-18": {
-   "total": 17,
-   "news": 17,
+   "total": 18,
+   "news": 18,
    "articles": 0,
    "positive": 0,
-   "neutral": 17,
+   "neutral": 18,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -15136,7 +15136,8 @@
     "AP News": 1,
     "WSJ": 1,
     "Science Daily": 1,
-    "Reuters": 2
+    "Reuters": 2,
+    "BigGo Finance": 1
    },
    "sourceTone": {
     "The Guardian": [
@@ -15192,6 +15193,11 @@
     "Reuters": [
      0,
      2,
+     0
+    ],
+    "BigGo Finance": [
+     0,
+     1,
      0
     ]
    }
