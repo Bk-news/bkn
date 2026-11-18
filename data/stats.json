@@ -15118,17 +15118,17 @@
    }
   },
   "2026-11-18": {
-   "total": 111,
-   "news": 110,
+   "total": 113,
+   "news": 112,
    "articles": 1,
    "positive": 0,
-   "neutral": 111,
+   "neutral": 113,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 30,
-    "SA": 8,
-    "US": 22,
+    "SA": 9,
+    "US": 23,
     "FR": 5,
     "HK": 2,
     "DE": 1,
@@ -15137,13 +15137,13 @@
    "topics": {},
    "sources": {
     "The Guardian": 6,
-    "Arab News": 7,
+    "Arab News": 8,
     "The Washington Post": 3,
     "Al-Monitor": 5,
     "The Sun Nigeria": 1,
     "The New York Times": 6,
     "Arabian Gulf Business Insight | AGBI": 2,
-    "AP News": 4,
+    "AP News": 5,
     "WSJ": 2,
     "Science Daily": 1,
     "Reuters": 18,
@@ -15200,7 +15200,7 @@
     ],
     "Arab News": [
      0,
-     7,
+     8,
      0
     ],
     "The Washington Post": [
@@ -15230,7 +15230,7 @@
     ],
     "AP News": [
      0,
-     4,
+     5,
      0
     ],
     "WSJ": [
