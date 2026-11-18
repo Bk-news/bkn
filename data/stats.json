@@ -15118,15 +15118,15 @@
    }
   },
   "2026-11-18": {
-   "total": 410,
-   "news": 400,
+   "total": 411,
+   "news": 401,
    "articles": 10,
    "positive": 0,
-   "neutral": 410,
+   "neutral": 411,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 127,
+    "GB": 128,
     "SA": 41,
     "US": 80,
     "FR": 13,
@@ -15136,7 +15136,7 @@
    },
    "topics": {},
    "sources": {
-    "The Guardian": 53,
+    "The Guardian": 54,
     "Arab News": 52,
     "The Washington Post": 7,
     "Al-Monitor": 25,
@@ -15252,7 +15252,7 @@
    "sourceTone": {
     "The Guardian": [
      0,
-     53,
+     54,
      0
     ],
     "Arab News": [
