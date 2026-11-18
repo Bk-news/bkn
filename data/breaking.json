@@ -1,5 +1,17 @@
 [
  {
+  "id": "8de5a3a5d042e91e",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "البث الإسرائيلية: تم استدعاء رئيس الموساد إلى اجتماع رئيس الأركان وقائد سنتكوم",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/154285",
+  "published": "2026-11-18T18:37:21.000Z",
+  "subject": "saudi",
+  "added": "2026-11-18T18:37:21.000Z"
+ },
+ {
   "id": "c4bbf281d0987668",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -250,29 +262,5 @@
   "published": "2026-11-18T17:38:37.000Z",
   "subject": "saudi",
   "added": "2026-11-18T17:38:37.000Z"
- },
- {
-  "id": "360205b770071a44",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "سنتكوم: لم يصب أي من العسكريين الأميركيين في محاولات الهجوم الإيرانية هذا الأسبوع",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/154263",
-  "published": "2026-11-18T17:38:02.000Z",
-  "subject": "saudi",
-  "added": "2026-11-18T17:38:02.000Z"
- },
- {
-  "id": "de2bf83f86be2f30",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "سنتكوم: لا صحة لادعاءات إيران بإصابة عسكريين أميركيين بهجمات",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/154262",
-  "published": "2026-11-18T17:37:28.000Z",
-  "subject": "saudi",
-  "added": "2026-11-18T17:37:28.000Z"
  }
 ]
