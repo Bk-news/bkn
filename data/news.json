@@ -1,5 +1,25 @@
 [
  {
+  "id": "13415a3ccb465fcc",
+  "origin": "rss",
+  "source": "Arab News",
+  "author": "",
+  "title_ar": "Saudi air defenses destroy Houthi missiles launched toward Riyadh",
+  "title_orig": "Saudi air defenses destroy Houthi missiles launched toward Riyadh",
+  "title_en": "Saudi air defenses destroy Houthi missiles launched toward Riyadh",
+  "summary_ar": [],
+  "summary_en": [],
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSGJKcjFIRTlZX2ItdVR4V1VuREtGeV9TY3g3c3lRWlJta3dFMlNsNEd0Qi0zbzNub1lPQzJTdEVILWpvajlVb0lIN0xlWlF5WTluTVZwQ2JkUlpJMzlibnVETW1lcjkyMzhqNjdIdDd6UDZLNnFBcndVRnhfLUI2MUd2cE52bTVOT0YzY0RFei1BSmJXM3l6WW1rU0swNHdaZkpvbnpuR0l6c3NwYUZWYQ?oc=5",
+  "published": "2026-11-18T18:11:15.000Z",
+  "subject": "saudi",
+  "tone": "neutral",
+  "topic": "",
+  "country": "",
+  "pending": true,
+  "desc": "Saudi air defenses destroy Houthi missiles launched toward Riyadh &nbsp;&nbsp; Arab News",
+  "lang": "en"
+ },
+ {
   "id": "867c886f10896e1a",
   "origin": "rss",
   "source": "Kuwait Times",
@@ -10207,27 +10227,6 @@
   "country": "",
   "pending": true,
   "desc": "Saudi Arabia appoints Gen. Ruwaili to oversee Yemen war after setbacks: What to know &nbsp;&nbsp; Al-Monitor",
-  "lang": "en",
-  "mt": true
- },
- {
-  "id": "34101694b0b96969",
-  "origin": "rss",
-  "source": "Arab News",
-  "author": "",
-  "title_ar": "وتراجع فريق الصقور الخضراء بسبب الأخطاء المبكرة والبطاقة الحمراء في الخسارة 2-1 أمام أوزبكستان",
-  "title_orig": "Green Falcons undone by early errors and a red card in 2-1 loss to Uzbekistan",
-  "title_en": "Green Falcons undone by early errors and a red card in 2-1 loss to Uzbekistan",
-  "summary_ar": [],
-  "summary_en": [],
-  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZVJzNGFoUG9lR0NoYlgxRjlLYld0MGJIZlR1OVRHa1ZvU2pza2xwRlVudWZQcVh4cEZlWUI3WlphMXdWZDBsZDE2d2d2bkJDYTJ2QTczeGZ4RTA2cWFrQUh0dllvQTlhUkhqT0cxUTRvX0hqUFluV19leUY4WjBLZzkyZjg0aGE1NmJGcnV2akl6Y1N1YldJa3RScXY0dFBzUjVMM0FzclY0R3FJV1NQTkdmMGhEN0JlaDlB?oc=5",
-  "published": "2026-11-17T18:03:11.000Z",
-  "subject": "saudi",
-  "tone": "neutral",
-  "topic": "",
-  "country": "SA",
-  "pending": true,
-  "desc": "Green Falcons undone by early errors and a red card in 2-1 loss to Uzbekistan &nbsp;&nbsp; Arab News",
   "lang": "en",
   "mt": true
  }
