@@ -14496,11 +14496,11 @@
    }
   },
   "2026-11-17": {
-   "total": 553,
-   "news": 535,
+   "total": 554,
+   "news": 536,
    "articles": 18,
    "positive": 0,
-   "neutral": 553,
+   "neutral": 554,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -14610,7 +14610,8 @@
     "Shabelle Media Network": 1,
     "Taipei Times": 1,
     "MEMRI | Middle East Media Research Institute": 1,
-    "News18": 1
+    "News18": 1,
+    "ABC News - Breaking News, Latest News and Videos": 1
    },
    "sourceTone": {
     "日本取引所グループ": [
@@ -15099,6 +15100,11 @@
      0
     ],
     "News18": [
+     0,
+     1,
+     0
+    ],
+    "ABC News - Breaking News, Latest News and Videos": [
      0,
      1,
      0
