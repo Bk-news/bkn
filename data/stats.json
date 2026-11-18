@@ -14496,15 +14496,15 @@
    }
   },
   "2026-11-17": {
-   "total": 634,
-   "news": 616,
+   "total": 635,
+   "news": 617,
    "articles": 18,
    "positive": 0,
-   "neutral": 634,
+   "neutral": 635,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "US": 101,
+    "US": 102,
     "FR": 16,
     "GB": 247,
     "SA": 76,
@@ -14515,7 +14515,7 @@
    "sources": {
     "日本取引所グループ": 33,
     "The Washington Post": 9,
-    "The New York Times": 15,
+    "The New York Times": 16,
     "Le Monde.fr": 6,
     "Reuters": 119,
     "Jagran Josh": 1,
@@ -14627,7 +14627,7 @@
     ],
     "The New York Times": [
      0,
-     15,
+     16,
      0
     ],
     "Le Monde.fr": [
@@ -15118,17 +15118,17 @@
    }
   },
   "2026-11-18": {
-   "total": 460,
-   "news": 444,
+   "total": 499,
+   "news": 483,
    "articles": 16,
    "positive": 0,
-   "neutral": 460,
+   "neutral": 499,
    "critical": 0,
-   "mbs": 1,
+   "mbs": 2,
    "countries": {
-    "GB": 147,
-    "SA": 48,
-    "US": 94,
+    "GB": 162,
+    "SA": 55,
+    "US": 104,
     "FR": 15,
     "HK": 6,
     "DE": 5,
@@ -15136,17 +15136,17 @@
    },
    "topics": {},
    "sources": {
-    "The Guardian": 62,
-    "Arab News": 58,
+    "The Guardian": 69,
+    "Arab News": 66,
     "The Washington Post": 7,
-    "Al-Monitor": 29,
+    "Al-Monitor": 33,
     "The Sun Nigeria": 1,
-    "The New York Times": 12,
+    "The New York Times": 18,
     "Arabian Gulf Business Insight | AGBI": 2,
     "AP News": 18,
     "WSJ": 8,
     "Science Daily": 1,
-    "Reuters": 55,
+    "Reuters": 62,
     "BigGo Finance": 1,
     "Yahoo Sports": 1,
     "intlbm": 1,
@@ -15155,7 +15155,7 @@
     "South China Morning Post": 6,
     "France 24": 10,
     "Saudi Gazette": 6,
-    "Financial Times": 14,
+    "Financial Times": 15,
     "Spiegel": 5,
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1,
     "BBC": 8,
@@ -15178,11 +15178,11 @@
     "Broadcast Media Africa": 1,
     "Dubai Eye 103.8": 1,
     "Arab News PK": 2,
-    "Al Arabiya English": 1,
+    "Al Arabiya English": 2,
     "Anadolu Ajansı": 3,
     "Sharjah24": 1,
     "Countercurrents": 1,
-    "https://houseofsaud.com/": 3,
+    "https://houseofsaud.com/": 4,
     "The National": 1,
     "DW.com": 1,
     "Institute for the Study of War": 1,
@@ -15213,14 +15213,14 @@
     "Middle East Eye": 4,
     "Facebook": 1,
     "the deep dive": 1,
-    "The Jerusalem Post": 1,
+    "The Jerusalem Post": 2,
     "Mezha.net": 1,
     "The Manila Times": 1,
     "Dealroom": 2,
     "Goal.com": 3,
     "Business Insurance": 1,
     "Internazionale": 1,
-    "Business Insider Africa": 3,
+    "Business Insider Africa": 4,
     "thecradle.co": 1,
     "India Today": 1,
     "Egypt Oil & Gas": 1,
@@ -15252,17 +15252,19 @@
     "Egyptian Gazette": 1,
     "Foreign Policy": 1,
     "MLQ.ai": 1,
-    "The National Interest": 1
+    "The National Interest": 1,
+    "Construction Review": 1,
+    "شفق نيوز": 1
    },
    "sourceTone": {
     "The Guardian": [
      0,
-     62,
+     69,
      0
     ],
     "Arab News": [
      0,
-     58,
+     66,
      0
     ],
     "The Washington Post": [
@@ -15272,7 +15274,7 @@
     ],
     "Al-Monitor": [
      0,
-     29,
+     33,
      0
     ],
     "The Sun Nigeria": [
@@ -15282,7 +15284,7 @@
     ],
     "The New York Times": [
      0,
-     12,
+     18,
      0
     ],
     "Arabian Gulf Business Insight | AGBI": [
@@ -15307,7 +15309,7 @@
     ],
     "Reuters": [
      0,
-     55,
+     62,
      0
     ],
     "BigGo Finance": [
@@ -15352,7 +15354,7 @@
     ],
     "Financial Times": [
      0,
-     14,
+     15,
      0
     ],
     "Spiegel": [
@@ -15467,7 +15469,7 @@
     ],
     "Al Arabiya English": [
      0,
-     1,
+     2,
      0
     ],
     "Anadolu Ajansı": [
@@ -15487,7 +15489,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     3,
+     4,
      0
     ],
     "The National": [
@@ -15642,7 +15644,7 @@
     ],
     "The Jerusalem Post": [
      0,
-     1,
+     2,
      0
     ],
     "Mezha.net": [
@@ -15677,7 +15679,7 @@
     ],
     "Business Insider Africa": [
      0,
-     3,
+     4,
      0
     ],
     "thecradle.co": [
@@ -15836,6 +15838,16 @@
      0
     ],
     "The National Interest": [
+     0,
+     1,
+     0
+    ],
+    "Construction Review": [
+     0,
+     1,
+     0
+    ],
+    "شفق نيوز": [
      0,
      1,
      0
