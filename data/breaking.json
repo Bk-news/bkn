@@ -1,5 +1,17 @@
 [
  {
+  "id": "d873a251ead2c192",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "وزير الخزانة الأميركي: سنواصل تعطيل محاولات إيران بسط نفوذها في المنطقة وتمويل وكلائها",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/154275",
+  "published": "2026-11-18T18:05:40.000Z",
+  "subject": "saudi",
+  "added": "2026-11-18T18:05:40.000Z"
+ },
+ {
   "id": "41b9faa81d255a26",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -238,17 +250,5 @@
   "published": "2026-11-18T17:10:01.000Z",
   "subject": "saudi",
   "added": "2026-11-18T17:10:01.000Z"
- },
- {
-  "id": "f14d14d181150e30",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "رويترز عن مصدرين: رئيس الموساد ضغط على أميركا لتوجيه ضربات مشتركة على إيران",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/154254",
-  "published": "2026-11-18T17:07:02.000Z",
-  "subject": "saudi",
-  "added": "2026-11-18T17:07:02.000Z"
  }
 ]
