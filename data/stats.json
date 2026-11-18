@@ -14496,17 +14496,17 @@
    }
   },
   "2026-11-17": {
-   "total": 635,
-   "news": 617,
+   "total": 640,
+   "news": 622,
    "articles": 18,
    "positive": 0,
-   "neutral": 635,
+   "neutral": 640,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "US": 102,
     "FR": 16,
-    "GB": 247,
+    "GB": 252,
     "SA": 76,
     "DE": 4,
     "HK": 5
@@ -14517,11 +14517,11 @@
     "The Washington Post": 9,
     "The New York Times": 16,
     "Le Monde.fr": 6,
-    "Reuters": 119,
+    "Reuters": 120,
     "Jagran Josh": 1,
     "AP News": 17,
     "BBC": 12,
-    "The Guardian": 102,
+    "The Guardian": 106,
     "Bloomberg.com": 11,
     "Foreign Affairs": 2,
     "Arab News": 75,
@@ -14637,7 +14637,7 @@
     ],
     "Reuters": [
      0,
-     119,
+     120,
      0
     ],
     "Jagran Josh": [
@@ -14657,7 +14657,7 @@
     ],
     "The Guardian": [
      0,
-     102,
+     106,
      0
     ],
     "Bloomberg.com": [
@@ -15118,15 +15118,15 @@
    }
   },
   "2026-11-18": {
-   "total": 499,
-   "news": 483,
+   "total": 522,
+   "news": 506,
    "articles": 16,
    "positive": 0,
-   "neutral": 499,
+   "neutral": 522,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "GB": 162,
+    "GB": 170,
     "SA": 55,
     "US": 104,
     "FR": 15,
@@ -15136,17 +15136,17 @@
    },
    "topics": {},
    "sources": {
-    "The Guardian": 69,
-    "Arab News": 66,
+    "The Guardian": 73,
+    "Arab News": 69,
     "The Washington Post": 7,
-    "Al-Monitor": 33,
+    "Al-Monitor": 34,
     "The Sun Nigeria": 1,
     "The New York Times": 18,
     "Arabian Gulf Business Insight | AGBI": 2,
     "AP News": 18,
     "WSJ": 8,
     "Science Daily": 1,
-    "Reuters": 62,
+    "Reuters": 66,
     "BigGo Finance": 1,
     "Yahoo Sports": 1,
     "intlbm": 1,
@@ -15154,7 +15154,7 @@
     "Bloomberg.com": 14,
     "South China Morning Post": 6,
     "France 24": 10,
-    "Saudi Gazette": 6,
+    "Saudi Gazette": 7,
     "Financial Times": 15,
     "Spiegel": 5,
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1,
@@ -15210,14 +15210,14 @@
     "Oman Observer": 1,
     "Forbes Middle East": 1,
     "Inshorts": 1,
-    "Middle East Eye": 4,
+    "Middle East Eye": 6,
     "Facebook": 1,
     "the deep dive": 1,
     "The Jerusalem Post": 2,
     "Mezha.net": 1,
     "The Manila Times": 1,
     "Dealroom": 2,
-    "Goal.com": 3,
+    "Goal.com": 4,
     "Business Insurance": 1,
     "Internazionale": 1,
     "Business Insider Africa": 4,
@@ -15227,7 +15227,7 @@
     "الحرة": 1,
     "The Diplomatic Insight": 1,
     "صحيفة مال": 1,
-    "The Times of Israel": 2,
+    "The Times of Israel": 3,
     "The Times of India": 2,
     "A News": 2,
     "Gulf News": 2,
@@ -15248,23 +15248,28 @@
     "Quantum Zeitgeist": 1,
     "EIN Presswire": 1,
     "LiveScore": 1,
-    "UA.NEWS": 1,
+    "UA.NEWS": 2,
     "Egyptian Gazette": 1,
     "Foreign Policy": 1,
     "MLQ.ai": 1,
     "The National Interest": 1,
     "Construction Review": 1,
-    "شفق نيوز": 1
+    "شفق نيوز": 1,
+    "Fox News": 1,
+    "The Iola Register": 1,
+    "BeSoccer Livescore": 1,
+    "Fightful": 1,
+    "صحيفة سبق الإلكترونية": 1
    },
    "sourceTone": {
     "The Guardian": [
      0,
-     69,
+     73,
      0
     ],
     "Arab News": [
      0,
-     66,
+     69,
      0
     ],
     "The Washington Post": [
@@ -15274,7 +15279,7 @@
     ],
     "Al-Monitor": [
      0,
-     33,
+     34,
      0
     ],
     "The Sun Nigeria": [
@@ -15309,7 +15314,7 @@
     ],
     "Reuters": [
      0,
-     62,
+     66,
      0
     ],
     "BigGo Finance": [
@@ -15349,7 +15354,7 @@
     ],
     "Saudi Gazette": [
      0,
-     6,
+     7,
      0
     ],
     "Financial Times": [
@@ -15629,7 +15634,7 @@
     ],
     "Middle East Eye": [
      0,
-     4,
+     6,
      0
     ],
     "Facebook": [
@@ -15664,7 +15669,7 @@
     ],
     "Goal.com": [
      0,
-     3,
+     4,
      0
     ],
     "Business Insurance": [
@@ -15714,7 +15719,7 @@
     ],
     "The Times of Israel": [
      0,
-     2,
+     3,
      0
     ],
     "The Times of India": [
@@ -15819,7 +15824,7 @@
     ],
     "UA.NEWS": [
      0,
-     1,
+     2,
      0
     ],
     "Egyptian Gazette": [
@@ -15848,6 +15853,31 @@
      0
     ],
     "شفق نيوز": [
+     0,
+     1,
+     0
+    ],
+    "Fox News": [
+     0,
+     1,
+     0
+    ],
+    "The Iola Register": [
+     0,
+     1,
+     0
+    ],
+    "BeSoccer Livescore": [
+     0,
+     1,
+     0
+    ],
+    "Fightful": [
+     0,
+     1,
+     0
+    ],
+    "صحيفة سبق الإلكترونية": [
      0,
      1,
      0
