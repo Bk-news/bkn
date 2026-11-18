@@ -15118,15 +15118,15 @@
    }
   },
   "2026-11-18": {
-   "total": 109,
-   "news": 109,
-   "articles": 0,
+   "total": 111,
+   "news": 110,
+   "articles": 1,
    "positive": 0,
-   "neutral": 109,
+   "neutral": 111,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 29,
+    "GB": 30,
     "SA": 8,
     "US": 22,
     "FR": 5,
@@ -15188,7 +15188,9 @@
     "Institute for the Study of War": 1,
     "Nikkei Asia": 1,
     "Crypto Briefing": 1,
-    "Hospitality Net": 1
+    "Hospitality Net": 1,
+    "The Economist": 1,
+    "Naharnet": 1
    },
    "sourceTone": {
     "The Guardian": [
@@ -15452,6 +15454,16 @@
      0
     ],
     "Hospitality Net": [
+     0,
+     1,
+     0
+    ],
+    "The Economist": [
+     0,
+     1,
+     0
+    ],
+    "Naharnet": [
      0,
      1,
      0
