@@ -14496,17 +14496,17 @@
    }
   },
   "2026-11-17": {
-   "total": 561,
-   "news": 543,
+   "total": 562,
+   "news": 544,
    "articles": 18,
    "positive": 0,
-   "neutral": 561,
+   "neutral": 562,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "US": 91,
     "FR": 13,
-    "GB": 196,
+    "GB": 197,
     "SA": 70,
     "DE": 4,
     "HK": 5
@@ -14517,7 +14517,7 @@
     "The Washington Post": 7,
     "The New York Times": 14,
     "Le Monde.fr": 3,
-    "Reuters": 96,
+    "Reuters": 97,
     "Jagran Josh": 1,
     "AP News": 14,
     "BBC": 11,
@@ -14636,7 +14636,7 @@
     ],
     "Reuters": [
      0,
-     96,
+     97,
      0
     ],
     "Jagran Josh": [
