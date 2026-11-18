@@ -15118,17 +15118,17 @@
    }
   },
   "2026-11-18": {
-   "total": 401,
-   "news": 391,
+   "total": 404,
+   "news": 394,
    "articles": 10,
    "positive": 0,
-   "neutral": 401,
+   "neutral": 404,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 122,
+    "GB": 124,
     "SA": 40,
-    "US": 78,
+    "US": 79,
     "FR": 13,
     "HK": 6,
     "DE": 4,
@@ -15144,9 +15144,9 @@
     "The New York Times": 12,
     "Arabian Gulf Business Insight | AGBI": 2,
     "AP News": 16,
-    "WSJ": 6,
+    "WSJ": 7,
     "Science Daily": 1,
-    "Reuters": 48,
+    "Reuters": 50,
     "BigGo Finance": 1,
     "Yahoo Sports": 1,
     "intlbm": 1,
@@ -15292,7 +15292,7 @@
     ],
     "WSJ": [
      0,
-     6,
+     7,
      0
     ],
     "Science Daily": [
@@ -15302,7 +15302,7 @@
     ],
     "Reuters": [
      0,
-     48,
+     50,
      0
     ],
     "BigGo Finance": [
