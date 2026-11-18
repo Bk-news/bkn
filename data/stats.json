@@ -14496,11 +14496,11 @@
    }
   },
   "2026-11-17": {
-   "total": 544,
-   "news": 526,
+   "total": 545,
+   "news": 527,
    "articles": 18,
    "positive": 0,
-   "neutral": 544,
+   "neutral": 545,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -14609,7 +14609,8 @@
     "Business Insider Africa": 1,
     "Shabelle Media Network": 1,
     "Taipei Times": 1,
-    "MEMRI | Middle East Media Research Institute": 1
+    "MEMRI | Middle East Media Research Institute": 1,
+    "News18": 1
    },
    "sourceTone": {
     "日本取引所グループ": [
@@ -15093,6 +15094,11 @@
      0
     ],
     "MEMRI | Middle East Media Research Institute": [
+     0,
+     1,
+     0
+    ],
+    "News18": [
      0,
      1,
      0
