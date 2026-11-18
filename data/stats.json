@@ -15118,17 +15118,17 @@
    }
   },
   "2026-11-18": {
-   "total": 522,
-   "news": 506,
+   "total": 526,
+   "news": 510,
    "articles": 16,
    "positive": 0,
-   "neutral": 522,
+   "neutral": 526,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "GB": 170,
+    "GB": 172,
     "SA": 55,
-    "US": 104,
+    "US": 105,
     "FR": 15,
     "HK": 6,
     "DE": 5,
@@ -15136,10 +15136,10 @@
    },
    "topics": {},
    "sources": {
-    "The Guardian": 73,
+    "The Guardian": 75,
     "Arab News": 69,
     "The Washington Post": 7,
-    "Al-Monitor": 34,
+    "Al-Monitor": 35,
     "The Sun Nigeria": 1,
     "The New York Times": 18,
     "Arabian Gulf Business Insight | AGBI": 2,
@@ -15259,12 +15259,13 @@
     "The Iola Register": 1,
     "BeSoccer Livescore": 1,
     "Fightful": 1,
-    "صحيفة سبق الإلكترونية": 1
+    "صحيفة سبق الإلكترونية": 1,
+    "联合早报": 1
    },
    "sourceTone": {
     "The Guardian": [
      0,
-     73,
+     75,
      0
     ],
     "Arab News": [
@@ -15279,7 +15280,7 @@
     ],
     "Al-Monitor": [
      0,
-     34,
+     35,
      0
     ],
     "The Sun Nigeria": [
@@ -15878,6 +15879,11 @@
      0
     ],
     "صحيفة سبق الإلكترونية": [
+     0,
+     1,
+     0
+    ],
+    "联合早报": [
      0,
      1,
      0

@@ -4,7 +4,7 @@
   "origin": "rss",
   "source": "Atlantic Council",
   "author": "",
-  "title_ar": "Donald Tusk, Chris Wright, and Miłosz Motyka on the mindset shift needed across the energy system",
+  "title_ar": "دونالد تاسك، وكريس رايت، وميووش موتيكا يتحدثون عن التحول العقلي المطلوب عبر نظام الطاقة",
   "title_orig": "Donald Tusk, Chris Wright, and Miłosz Motyka on the mindset shift needed across the energy system",
   "title_en": "Donald Tusk, Chris Wright, and Miłosz Motyka on the mindset shift needed across the energy system",
   "summary_ar": [],
@@ -17,14 +17,15 @@
   "country": "US",
   "pending": true,
   "desc": "Donald Tusk, Chris Wright, and Miłosz Motyka on the mindset shift needed across the energy system &nbsp;&nbsp; Atlantic Council",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "963f9e46e5061388",
   "origin": "rss",
   "source": "Atlantic Council",
   "author": "",
-  "title_ar": "Libya’s reunification and path to democracy start with fixing its budget",
+  "title_ar": "إن إعادة توحيد ليبيا والطريق إلى الديمقراطية يبدأ بإصلاح ميزانيتها",
   "title_orig": "Libya’s reunification and path to democracy start with fixing its budget",
   "title_en": "Libya’s reunification and path to democracy start with fixing its budget",
   "summary_ar": [],
@@ -37,14 +38,15 @@
   "country": "US",
   "pending": true,
   "desc": "Libya’s reunification and path to democracy start with fixing its budget &nbsp;&nbsp; Atlantic Council",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "309ff8db99c45b54",
   "origin": "rss",
   "source": "Atlantic Council",
   "author": "",
-  "title_ar": "Dispatch from Kyiv: Let Ukraine strike Russia’s missile launchers at the source",
+  "title_ar": "رسالة من كييف: دعوا أوكرانيا تضرب منصات إطلاق الصواريخ الروسية من المصدر",
   "title_orig": "Dispatch from Kyiv: Let Ukraine strike Russia’s missile launchers at the source",
   "title_en": "Dispatch from Kyiv: Let Ukraine strike Russia’s missile launchers at the source",
   "summary_ar": [],
@@ -57,14 +59,15 @@
   "country": "US",
   "pending": true,
   "desc": "Dispatch from Kyiv: Let Ukraine strike Russia’s missile launchers at the source &nbsp;&nbsp; Atlantic Council",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "1adb3474c82b4281",
   "origin": "rss",
   "source": "Atlantic Council",
   "author": "",
-  "title_ar": "Upheaval in the Greater North African Security Complex demands a new transatlantic policy approach",
+  "title_ar": "إن الاضطرابات التي يشهدها المجمع الأمني في منطقة شمال أفريقيا الكبرى تتطلب نهجاً جديداً في التعامل مع السياسات عبر الأطلسي",
   "title_orig": "Upheaval in the Greater North African Security Complex demands a new transatlantic policy approach",
   "title_en": "Upheaval in the Greater North African Security Complex demands a new transatlantic policy approach",
   "summary_ar": [],
@@ -77,14 +80,15 @@
   "country": "US",
   "pending": true,
   "desc": "Upheaval in the Greater North African Security Complex demands a new transatlantic policy approach &nbsp;&nbsp; Atlantic Council",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "e4d82a3dd0c54a23",
   "origin": "rss",
   "source": "The Economist",
   "author": "",
-  "title_ar": "The World in Numbers",
+  "title_ar": "العالم بالأرقام",
   "title_orig": "The World in Numbers",
   "title_en": "The World in Numbers",
   "summary_ar": [],
@@ -97,14 +101,15 @@
   "country": "GB",
   "pending": true,
   "desc": "The World in Numbers &nbsp;&nbsp; The Economist",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "6c92a00650016a8e",
   "origin": "rss",
   "source": "Foreign Policy",
   "author": "",
-  "title_ar": "Is the U.S.-China Relationship Being Rewritten?",
+  "title_ar": "هل تتم إعادة كتابة العلاقة بين الولايات المتحدة والصين؟",
   "title_orig": "Is the U.S.-China Relationship Being Rewritten?",
   "title_en": "Is the U.S.-China Relationship Being Rewritten?",
   "summary_ar": [],
@@ -117,14 +122,15 @@
   "country": "US",
   "pending": true,
   "desc": "Is the U.S.-China Relationship Being Rewritten? &nbsp;&nbsp; Foreign Policy",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "2603eacb61c76263",
   "origin": "rss",
   "source": "The Economist",
   "author": "",
-  "title_ar": "Ten business trends for 2027, and forecasts for 16 industries",
+  "title_ar": "عشرة اتجاهات الأعمال لعام 2027، والتوقعات لـ 16 صناعة",
   "title_orig": "Ten business trends for 2027, and forecasts for 16 industries",
   "title_en": "Ten business trends for 2027, and forecasts for 16 industries",
   "summary_ar": [],
@@ -137,14 +143,15 @@
   "country": "GB",
   "pending": true,
   "desc": "Ten business trends for 2027, and forecasts for 16 industries &nbsp;&nbsp; The Economist",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "931e026f16d2f650",
   "origin": "rss",
   "source": "The Economist",
   "author": "",
-  "title_ar": "Our selection of events around the world",
+  "title_ar": "اختيارنا للأحداث في جميع أنحاء العالم",
   "title_orig": "Our selection of events around the world",
   "title_en": "Our selection of events around the world",
   "summary_ar": [],
@@ -157,14 +164,15 @@
   "country": "GB",
   "pending": true,
   "desc": "Our selection of events around the world &nbsp;&nbsp; The Economist",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "96a32d34c0397dc2",
   "origin": "rss",
   "source": "Atlantic Council",
   "author": "",
-  "title_ar": "In Shenzhen, weakened giants navigate a dangerous, disorderly world",
+  "title_ar": "في شنتشن، يتنقل العمالقة الضعفاء في عالم خطير وغير منظم",
   "title_orig": "In Shenzhen, weakened giants navigate a dangerous, disorderly world",
   "title_en": "In Shenzhen, weakened giants navigate a dangerous, disorderly world",
   "summary_ar": [],
@@ -177,14 +185,15 @@
   "country": "US",
   "pending": true,
   "desc": "In Shenzhen, weakened giants navigate a dangerous, disorderly world &nbsp;&nbsp; Atlantic Council",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "38eb6bda80c04b02",
   "origin": "rss",
   "source": "The Economist",
   "author": "",
-  "title_ar": "Can the Gulf states recover?",
+  "title_ar": "هل تستطيع دول الخليج التعافي؟",
   "title_orig": "Can the Gulf states recover?",
   "title_en": "Can the Gulf states recover?",
   "summary_ar": [],
@@ -197,14 +206,15 @@
   "country": "GB",
   "pending": true,
   "desc": "Can the Gulf states recover? &nbsp;&nbsp; The Economist",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "aedbe46857b54ccd",
   "origin": "rss",
   "source": "The Economist",
   "author": "",
-  "title_ar": "The new shape of the Middle East",
+  "title_ar": "الشكل الجديد للشرق الأوسط",
   "title_orig": "The new shape of the Middle East",
   "title_en": "The new shape of the Middle East",
   "summary_ar": [],
@@ -217,14 +227,15 @@
   "country": "GB",
   "pending": true,
   "desc": "The new shape of the Middle East &nbsp;&nbsp; The Economist",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "e3521ea166de6731",
   "origin": "rss",
   "source": "The Economist",
   "author": "",
-  "title_ar": "Energy markets are not going back to the way they were, says Fatih Birol",
+  "title_ar": "يقول فاتح بيرول إن أسواق الطاقة لن تعود إلى ما كانت عليه من قبل",
   "title_orig": "Energy markets are not going back to the way they were, says Fatih Birol",
   "title_en": "Energy markets are not going back to the way they were, says Fatih Birol",
   "summary_ar": [],
@@ -237,14 +248,15 @@
   "country": "GB",
   "pending": true,
   "desc": "Energy markets are not going back to the way they were, says Fatih Birol &nbsp;&nbsp; The Economist",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "b5167ce7da3faf1e",
   "origin": "rss",
   "source": "Atlantic Council",
   "author": "",
-  "title_ar": "Can US-EU tech relations get back on track?",
+  "title_ar": "هل يمكن للعلاقات التقنية بين الولايات المتحدة والاتحاد الأوروبي أن تعود إلى مسارها الصحيح؟",
   "title_orig": "Can US-EU tech relations get back on track?",
   "title_en": "Can US-EU tech relations get back on track?",
   "summary_ar": [],
@@ -257,14 +269,15 @@
   "country": "US",
   "pending": true,
   "desc": "Can US-EU tech relations get back on track? &nbsp;&nbsp; Atlantic Council",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "e4658a089dfc9aea",
   "origin": "rss",
   "source": "The Economist",
   "author": "",
-  "title_ar": "Women are starting to play a greater role in Indian public life",
+  "title_ar": "بدأت النساء في لعب دور أكبر في الحياة العامة الهندية",
   "title_orig": "Women are starting to play a greater role in Indian public life",
   "title_en": "Women are starting to play a greater role in Indian public life",
   "summary_ar": [],
@@ -277,14 +290,15 @@
   "country": "GB",
   "pending": true,
   "desc": "Women are starting to play a greater role in Indian public life &nbsp;&nbsp; The Economist",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "815e30c8e88bcf55",
   "origin": "rss",
   "source": "The Economist",
   "author": "",
-  "title_ar": "While Erdogan seeks power abroad, there will be trouble at home",
+  "title_ar": "وبينما يسعى أردوغان إلى السلطة في الخارج، ستكون هناك مشاكل في الداخل",
   "title_orig": "While Erdogan seeks power abroad, there will be trouble at home",
   "title_en": "While Erdogan seeks power abroad, there will be trouble at home",
   "summary_ar": [],
@@ -297,7 +311,8 @@
   "country": "GB",
   "pending": true,
   "desc": "While Erdogan seeks power abroad, there will be trouble at home &nbsp;&nbsp; The Economist",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "5fee03b49ae3a520",
