@@ -15118,17 +15118,17 @@
    }
   },
   "2026-11-18": {
-   "total": 125,
-   "news": 124,
+   "total": 128,
+   "news": 127,
    "articles": 1,
    "positive": 0,
-   "neutral": 125,
+   "neutral": 128,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 35,
     "SA": 9,
-    "US": 24,
+    "US": 25,
     "FR": 5,
     "HK": 2,
     "DE": 1,
@@ -15139,7 +15139,7 @@
     "The Guardian": 8,
     "Arab News": 9,
     "The Washington Post": 4,
-    "Al-Monitor": 5,
+    "Al-Monitor": 6,
     "The Sun Nigeria": 1,
     "The New York Times": 6,
     "Arabian Gulf Business Insight | AGBI": 2,
@@ -15166,7 +15166,7 @@
     "Construction Week Online": 1,
     "Gulf Times": 1,
     "TradingView": 1,
-    "Zawya": 1,
+    "Zawya": 2,
     "www.marketscreener.com": 1,
     "LinkedIn": 1,
     "وكالة الأنباء السعودية": 1,
@@ -15193,7 +15193,8 @@
     "Naharnet": 1,
     "marketscreener.com": 1,
     "Gulf Today": 1,
-    "StreetInsider": 1
+    "StreetInsider": 1,
+    "Arabian Business": 1
    },
    "sourceTone": {
     "The Guardian": [
@@ -15213,7 +15214,7 @@
     ],
     "Al-Monitor": [
      0,
-     5,
+     6,
      0
     ],
     "The Sun Nigeria": [
@@ -15348,7 +15349,7 @@
     ],
     "Zawya": [
      0,
-     1,
+     2,
      0
     ],
     "www.marketscreener.com": [
@@ -15482,6 +15483,11 @@
      0
     ],
     "StreetInsider": [
+     0,
+     1,
+     0
+    ],
+    "Arabian Business": [
      0,
      1,
      0
