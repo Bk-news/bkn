@@ -14496,17 +14496,17 @@
    }
   },
   "2026-11-17": {
-   "total": 593,
-   "news": 575,
+   "total": 602,
+   "news": 584,
    "articles": 18,
    "positive": 0,
-   "neutral": 593,
+   "neutral": 602,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "US": 98,
     "FR": 15,
-    "GB": 212,
+    "GB": 221,
     "SA": 74,
     "DE": 4,
     "HK": 5
@@ -14517,7 +14517,7 @@
     "The Washington Post": 8,
     "The New York Times": 15,
     "Le Monde.fr": 5,
-    "Reuters": 106,
+    "Reuters": 115,
     "Jagran Josh": 1,
     "AP News": 16,
     "BBC": 12,
@@ -14637,7 +14637,7 @@
     ],
     "Reuters": [
      0,
-     106,
+     115,
      0
     ],
     "Jagran Josh": [
@@ -15118,17 +15118,17 @@
    }
   },
   "2026-11-18": {
-   "total": 292,
-   "news": 282,
+   "total": 323,
+   "news": 313,
    "articles": 10,
    "positive": 0,
-   "neutral": 292,
+   "neutral": 323,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "GB": 96,
-    "SA": 29,
-    "US": 74,
+    "GB": 106,
+    "SA": 39,
+    "US": 75,
     "FR": 12,
     "HK": 6,
     "DE": 4,
@@ -15136,10 +15136,10 @@
    },
    "topics": {},
    "sources": {
-    "The Guardian": 27,
-    "Arab News": 30,
+    "The Guardian": 37,
+    "Arab News": 40,
     "The Washington Post": 7,
-    "Al-Monitor": 23,
+    "Al-Monitor": 24,
     "The Sun Nigeria": 1,
     "The New York Times": 11,
     "Arabian Gulf Business Insight | AGBI": 2,
@@ -15154,7 +15154,7 @@
     "Bloomberg.com": 11,
     "South China Morning Post": 6,
     "France 24": 8,
-    "Saudi Gazette": 3,
+    "Saudi Gazette": 4,
     "Financial Times": 9,
     "Spiegel": 4,
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1,
@@ -15182,7 +15182,7 @@
     "Anadolu Ajansı": 3,
     "Sharjah24": 1,
     "Countercurrents": 1,
-    "https://houseofsaud.com/": 1,
+    "https://houseofsaud.com/": 2,
     "The National": 1,
     "DW.com": 1,
     "Institute for the Study of War": 1,
@@ -15211,17 +15211,25 @@
     "Forbes Middle East": 1,
     "Inshorts": 1,
     "Middle East Eye": 1,
-    "Facebook": 1
+    "Facebook": 1,
+    "the deep dive": 1,
+    "The Jerusalem Post": 1,
+    "Mezha.net": 1,
+    "The Manila Times": 1,
+    "Dealroom": 1,
+    "Goal.com": 1,
+    "Business Insurance": 1,
+    "Internazionale": 1
    },
    "sourceTone": {
     "The Guardian": [
      0,
-     27,
+     37,
      0
     ],
     "Arab News": [
      0,
-     30,
+     40,
      0
     ],
     "The Washington Post": [
@@ -15231,7 +15239,7 @@
     ],
     "Al-Monitor": [
      0,
-     23,
+     24,
      0
     ],
     "The Sun Nigeria": [
@@ -15306,7 +15314,7 @@
     ],
     "Saudi Gazette": [
      0,
-     3,
+     4,
      0
     ],
     "Financial Times": [
@@ -15446,7 +15454,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     1,
+     2,
      0
     ],
     "The National": [
@@ -15590,6 +15598,46 @@
      0
     ],
     "Facebook": [
+     0,
+     1,
+     0
+    ],
+    "the deep dive": [
+     0,
+     1,
+     0
+    ],
+    "The Jerusalem Post": [
+     0,
+     1,
+     0
+    ],
+    "Mezha.net": [
+     0,
+     1,
+     0
+    ],
+    "The Manila Times": [
+     0,
+     1,
+     0
+    ],
+    "Dealroom": [
+     0,
+     1,
+     0
+    ],
+    "Goal.com": [
+     0,
+     1,
+     0
+    ],
+    "Business Insurance": [
+     0,
+     1,
+     0
+    ],
+    "Internazionale": [
      0,
      1,
      0
