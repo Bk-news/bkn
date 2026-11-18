@@ -14496,11 +14496,11 @@
    }
   },
   "2026-11-17": {
-   "total": 543,
-   "news": 525,
+   "total": 544,
+   "news": 526,
    "articles": 18,
    "positive": 0,
-   "neutral": 543,
+   "neutral": 544,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -14583,7 +14583,7 @@
     "Legis1": 1,
     "ESPN": 2,
     "Lafayette Parish School System": 12,
-    "Comité Asesor de Vacunas de la AEP": 22,
+    "Comité Asesor de Vacunas de la AEP": 23,
     "Al Jazeera": 1,
     "Middle East Monitor": 1,
     "GlobeNewswire": 1,
@@ -14964,7 +14964,7 @@
     ],
     "Comité Asesor de Vacunas de la AEP": [
      0,
-     22,
+     23,
      0
     ],
     "Al Jazeera": [
