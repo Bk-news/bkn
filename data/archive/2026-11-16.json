@@ -6995,6 +6995,27 @@
    "mt": true
   },
   {
+   "id": "af8d80eb3a91f43a",
+   "origin": "rss",
+   "source": "Reuters",
+   "author": "",
+   "title_ar": "فشل صاروخ أمريكي في منتصف الرحلة، مما أدى إلى تدمير شحنة الأقمار الصناعية لشركة أمازون",
+   "title_orig": "US rocket fails mid-flight, destroying cargo of Amazon satellites",
+   "title_en": "US rocket fails mid-flight, destroying cargo of Amazon satellites",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xak01MW5GbGtUR0dIX1JTMERPdm1IYjFKOWFPRElyMFRnbzZ0bEpndmx3ZTJ4bVFHQ1p2Q3pYS3NGc2gtLXpzSlFWUmZyRzZWNk5adUFJRG94UmRo?oc=5",
+   "published": "2026-11-16T12:55:58.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "US rocket fails mid-flight, destroying cargo of Amazon satellites &nbsp;&nbsp; Reuters",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "8a8603638ecd8bfe",
    "origin": "rss",
    "source": "Arab News",
