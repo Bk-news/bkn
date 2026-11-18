@@ -15118,11 +15118,11 @@
    }
   },
   "2026-11-18": {
-   "total": 396,
-   "news": 386,
+   "total": 397,
+   "news": 387,
    "articles": 10,
    "positive": 0,
-   "neutral": 396,
+   "neutral": 397,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -15246,7 +15246,8 @@
     "Variety": 1,
     "Croatia Week": 1,
     "Quantum Zeitgeist": 1,
-    "EIN Presswire": 1
+    "EIN Presswire": 1,
+    "LiveScore": 1
    },
    "sourceTone": {
     "The Guardian": [
@@ -15800,6 +15801,11 @@
      0
     ],
     "EIN Presswire": [
+     0,
+     1,
+     0
+    ],
+    "LiveScore": [
      0,
      1,
      0
