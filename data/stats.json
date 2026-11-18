@@ -15118,15 +15118,15 @@
    }
   },
   "2026-11-18": {
-   "total": 114,
-   "news": 113,
+   "total": 116,
+   "news": 115,
    "articles": 1,
    "positive": 0,
-   "neutral": 114,
+   "neutral": 116,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 31,
+    "GB": 32,
     "SA": 9,
     "US": 23,
     "FR": 5,
@@ -15146,7 +15146,7 @@
     "AP News": 5,
     "WSJ": 2,
     "Science Daily": 1,
-    "Reuters": 19,
+    "Reuters": 20,
     "BigGo Finance": 1,
     "Yahoo Sports": 1,
     "intlbm": 1,
@@ -15190,7 +15190,8 @@
     "Crypto Briefing": 1,
     "Hospitality Net": 1,
     "The Economist": 1,
-    "Naharnet": 1
+    "Naharnet": 1,
+    "marketscreener.com": 1
    },
    "sourceTone": {
     "The Guardian": [
@@ -15245,7 +15246,7 @@
     ],
     "Reuters": [
      0,
-     19,
+     20,
      0
     ],
     "BigGo Finance": [
@@ -15464,6 +15465,11 @@
      0
     ],
     "Naharnet": [
+     0,
+     1,
+     0
+    ],
+    "marketscreener.com": [
      0,
      1,
      0
