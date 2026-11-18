@@ -15118,11 +15118,11 @@
    }
   },
   "2026-11-18": {
-   "total": 106,
-   "news": 106,
+   "total": 108,
+   "news": 108,
    "articles": 0,
    "positive": 0,
-   "neutral": 106,
+   "neutral": 108,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -15186,7 +15186,9 @@
     "The National": 1,
     "DW.com": 1,
     "Institute for the Study of War": 1,
-    "Nikkei Asia": 1
+    "Nikkei Asia": 1,
+    "Crypto Briefing": 1,
+    "Hospitality Net": 1
    },
    "sourceTone": {
     "The Guardian": [
@@ -15440,6 +15442,16 @@
      0
     ],
     "Nikkei Asia": [
+     0,
+     1,
+     0
+    ],
+    "Crypto Briefing": [
+     0,
+     1,
+     0
+    ],
+    "Hospitality Net": [
      0,
      1,
      0
