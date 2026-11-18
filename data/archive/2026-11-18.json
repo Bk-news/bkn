@@ -2,6 +2,27 @@
  "day": "2026-11-18",
  "items": [
   {
+   "id": "67c2c2867ad6ab6d",
+   "origin": "rss",
+   "source": "Gulf Today",
+   "author": "",
+   "title_ar": "سماع دوي انفجار في العاصمة السعودية",
+   "title_orig": "Explosion heard in Saudi capital",
+   "title_en": "Explosion heard in Saudi capital",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Xci1GdXQwLVpzRF9xM010S3ZWVlZDb3o0d19IYkFuMHZHd1RZRzhKUFFta3QyemlrWWNIMXc3aWxtOVZQdmV2MU5EQURPWVoxaW9Hb0NKMnBvU0RUNmtESHhIQ0syZlhFZkhGalEzNDQ5eGllNHVObFZCc2psQQ?oc=5",
+   "published": "2026-11-18T09:30:08.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "",
+   "pending": true,
+   "desc": "Explosion heard in Saudi capital &nbsp;&nbsp; Gulf Today",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "a155d3b6088e4e02",
    "origin": "rss",
    "source": "Reuters",
