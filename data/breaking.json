@@ -1,5 +1,17 @@
 [
  {
+  "id": "a5a6747dd4a74a99",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "البث الإسرائيلية: القيادة السياسية لم تغير تعليماتها للجيش",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/154286",
+  "published": "2026-11-18T18:38:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-18T18:38:01.000Z"
+ },
+ {
   "id": "8de5a3a5d042e91e",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -250,17 +262,5 @@
   "published": "2026-11-18T17:39:41.000Z",
   "subject": "saudi",
   "added": "2026-11-18T17:39:41.000Z"
- },
- {
-  "id": "ce46c889bd448145",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "سنتكوم: حسابات الحرس الثوري تنشر روايات مضللة بدافع اليأس",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/154264",
-  "published": "2026-11-18T17:38:37.000Z",
-  "subject": "saudi",
-  "added": "2026-11-18T17:38:37.000Z"
  }
 ]
