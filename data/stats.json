@@ -15118,11 +15118,11 @@
    }
   },
   "2026-11-18": {
-   "total": 119,
-   "news": 118,
+   "total": 120,
+   "news": 119,
    "articles": 1,
    "positive": 0,
-   "neutral": 119,
+   "neutral": 120,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -15177,7 +15177,7 @@
     "Yemen Online": 1,
     "Broadcast Media Africa": 1,
     "Dubai Eye 103.8": 1,
-    "Arab News PK": 1,
+    "Arab News PK": 2,
     "Al Arabiya English": 1,
     "Anadolu Ajansı": 1,
     "Sharjah24": 1,
@@ -15402,7 +15402,7 @@
     ],
     "Arab News PK": [
      0,
-     1,
+     2,
      0
     ],
     "Al Arabiya English": [
