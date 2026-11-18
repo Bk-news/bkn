@@ -1,5 +1,17 @@
 [
  {
+  "id": "d240cdae003f2554",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "الخزانة الأميركية: عقوبات على الشقيقين حسن وإبراهيم خشن لنقلهما الأموال من الحرس الثوري لحزب الله",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/154278",
+  "published": "2026-11-18T18:12:38.000Z",
+  "subject": "saudi",
+  "added": "2026-11-18T18:12:38.000Z"
+ },
+ {
   "id": "28ddb31cb33f90a0",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -226,17 +238,5 @@
   "published": "2026-11-18T17:14:34.000Z",
   "subject": "saudi",
   "added": "2026-11-18T17:14:34.000Z"
- },
- {
-  "id": "8675ac556ca463ec",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "رويترز عن مصدرين: رئيس الموساد التقى المسؤولين الأميركيين الأسبوع الماضي",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/154258",
-  "published": "2026-11-18T17:13:39.000Z",
-  "subject": "saudi",
-  "added": "2026-11-18T17:13:39.000Z"
  }
 ]
