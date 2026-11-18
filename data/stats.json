@@ -15118,17 +15118,17 @@
    }
   },
   "2026-11-18": {
-   "total": 124,
-   "news": 123,
+   "total": 125,
+   "news": 124,
    "articles": 1,
    "positive": 0,
-   "neutral": 124,
+   "neutral": 125,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 35,
     "SA": 9,
-    "US": 23,
+    "US": 24,
     "FR": 5,
     "HK": 2,
     "DE": 1,
@@ -15138,7 +15138,7 @@
    "sources": {
     "The Guardian": 8,
     "Arab News": 9,
-    "The Washington Post": 3,
+    "The Washington Post": 4,
     "Al-Monitor": 5,
     "The Sun Nigeria": 1,
     "The New York Times": 6,
@@ -15208,7 +15208,7 @@
     ],
     "The Washington Post": [
      0,
-     3,
+     4,
      0
     ],
     "Al-Monitor": [

@@ -2,6 +2,27 @@
  "day": "2026-11-18",
  "items": [
   {
+   "id": "09ee03d03bbbd6b9",
+   "origin": "rss",
+   "source": "The Washington Post",
+   "author": "",
+   "title_ar": "وتوسع إيران هجماتها في الخليج، وتطلق النار على قاعدة جوية أمريكية في الكويت وعلى أهداف في البحرين",
+   "title_orig": "Iran widens Gulf attacks, firing on a US air base in Kuwait and at targets in Bahrain",
+   "title_en": "Iran widens Gulf attacks, firing on a US air base in Kuwait and at targets in Bahrain",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRWFVUjdhZVFHbzNjZ0NON051NzYyZExxNjd5bzdlMnhWdW9WUmppaXNsVzZ4Zkw3NWhXLVM4Z0NuQUNCZ3V1U1pGbFRhUHJvSWc1V09qTElYZnk3a1BpMkJuQTJxaTBGSU1TaC1mM0hmV2ttS2F6MUtxUW90d244Zm9UTVRENDhCc0NTSGliMXJ4YzRJdjdPR3FhWWhlU1VUTm9DNnhibS1QOXdSazllblZGRmhnb2ktODFSdXJhX2pRZUNiV1hFRjRJYw?oc=5",
+   "published": "2026-11-18T09:43:14.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "Iran widens Gulf attacks, firing on a US air base in Kuwait and at targets in Bahrain &nbsp;&nbsp; The Washington Post",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "e8ae4c7644d4f000",
    "origin": "rss",
    "source": "StreetInsider",
