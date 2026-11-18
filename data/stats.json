@@ -13700,16 +13700,16 @@
    }
   },
   "2026-11-16": {
-   "total": 630,
-   "news": 620,
+   "total": 632,
+   "news": 622,
    "articles": 10,
    "positive": 0,
-   "neutral": 630,
+   "neutral": 632,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "FR": 54,
-    "GB": 229,
+    "GB": 231,
     "SA": 75,
     "US": 91,
     "HK": 7,
@@ -13719,7 +13719,7 @@
    "sources": {
     "The Times of India": 2,
     "France 24": 49,
-    "Reuters": 94,
+    "Reuters": 96,
     "Arab News": 80,
     "The Guardian": 103,
     "The New York Times": 11,
@@ -13860,7 +13860,7 @@
     ],
     "Reuters": [
      0,
-     94,
+     96,
      0
     ],
     "Arab News": [
@@ -14496,11 +14496,11 @@
    }
   },
   "2026-11-17": {
-   "total": 537,
-   "news": 519,
+   "total": 543,
+   "news": 525,
    "articles": 18,
    "positive": 0,
-   "neutral": 537,
+   "neutral": 543,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -14560,7 +14560,7 @@
     "Chosunbiz": 1,
     "Carbon Brief": 1,
     "Responsible Statecraft": 1,
-    "The National": 1,
+    "The National": 2,
     "fundsforNGOs - Grants and Resources for Sustainability": 1,
     "The Maritime Executive": 1,
     "Critical Threats": 1,
@@ -14583,7 +14583,7 @@
     "Legis1": 1,
     "ESPN": 2,
     "Lafayette Parish School System": 12,
-    "Comité Asesor de Vacunas de la AEP": 20,
+    "Comité Asesor de Vacunas de la AEP": 22,
     "Al Jazeera": 1,
     "Middle East Monitor": 1,
     "GlobeNewswire": 1,
@@ -14597,7 +14597,7 @@
     "Alvarez & Marsal": 1,
     "Middle East Online": 1,
     "Billionaires.Africa": 1,
-    "Goal.com": 3,
+    "Goal.com": 4,
     "Bioengineer.org": 3,
     "Coinbase": 1,
     "Report.az": 1,
@@ -14607,7 +14607,9 @@
     "International Legal and Business Services Group": 1,
     "Paulick Report": 1,
     "Business Insider Africa": 1,
-    "Shabelle Media Network": 1
+    "Shabelle Media Network": 1,
+    "Taipei Times": 1,
+    "MEMRI | Middle East Media Research Institute": 1
    },
    "sourceTone": {
     "日本取引所グループ": [
@@ -14847,7 +14849,7 @@
     ],
     "The National": [
      0,
-     1,
+     2,
      0
     ],
     "fundsforNGOs - Grants and Resources for Sustainability": [
@@ -14962,7 +14964,7 @@
     ],
     "Comité Asesor de Vacunas de la AEP": [
      0,
-     20,
+     22,
      0
     ],
     "Al Jazeera": [
@@ -15032,7 +15034,7 @@
     ],
     "Goal.com": [
      0,
-     3,
+     4,
      0
     ],
     "Bioengineer.org": [
@@ -15081,6 +15083,16 @@
      0
     ],
     "Shabelle Media Network": [
+     0,
+     1,
+     0
+    ],
+    "Taipei Times": [
+     0,
+     1,
+     0
+    ],
+    "MEMRI | Middle East Media Research Institute": [
      0,
      1,
      0
