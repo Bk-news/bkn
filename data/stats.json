@@ -15100,17 +15100,17 @@
    }
   },
   "2026-11-18": {
-   "total": 10,
-   "news": 10,
+   "total": 11,
+   "news": 11,
    "articles": 0,
    "positive": 0,
-   "neutral": 10,
+   "neutral": 11,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 3,
     "SA": 2,
-    "US": 3
+    "US": 4
    },
    "topics": {},
    "sources": {
@@ -15120,7 +15120,8 @@
     "Al-Monitor": 1,
     "The Sun Nigeria": 1,
     "The New York Times": 1,
-    "Arabian Gulf Business Insight | AGBI": 1
+    "Arabian Gulf Business Insight | AGBI": 1,
+    "AP News": 1
    },
    "sourceTone": {
     "The Guardian": [
@@ -15154,6 +15155,11 @@
      0
     ],
     "Arabian Gulf Business Insight | AGBI": [
+     0,
+     1,
+     0
+    ],
+    "AP News": [
      0,
      1,
      0
