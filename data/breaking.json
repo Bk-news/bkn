@@ -1,5 +1,17 @@
 [
  {
+  "id": "f9745a740313ef53",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "الخارجية الأميركية: الشعب اللبناني يستحق دولة ذات سيادة تحتكر وحدها السلطة والسلاح",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/154280",
+  "published": "2026-11-18T18:20:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-18T18:20:01.000Z"
+ },
+ {
   "id": "ac5805c5316be28b",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -214,17 +226,5 @@
   "published": "2026-11-18T17:37:28.000Z",
   "subject": "saudi",
   "added": "2026-11-18T17:37:28.000Z"
- },
- {
-  "id": "5c4ce2bccf7dda69",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "الرئيس الإيراني: رفع أسعار الطاقة بالبلاد هدفه مكافحة إساءة استخدام الدعم",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/154261",
-  "published": "2026-11-18T17:20:19.000Z",
-  "subject": "saudi",
-  "added": "2026-11-18T17:20:19.000Z"
  }
 ]
