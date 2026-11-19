@@ -14496,17 +14496,17 @@
    }
   },
   "2026-11-17": {
-   "total": 641,
-   "news": 623,
+   "total": 643,
+   "news": 625,
    "articles": 18,
    "positive": 0,
-   "neutral": 641,
+   "neutral": 643,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "US": 103,
-    "FR": 16,
-    "GB": 252,
+    "FR": 17,
+    "GB": 253,
     "SA": 76,
     "DE": 4,
     "HK": 5
@@ -14516,12 +14516,12 @@
     "日本取引所グループ": 33,
     "The Washington Post": 9,
     "The New York Times": 17,
-    "Le Monde.fr": 6,
+    "Le Monde.fr": 7,
     "Reuters": 120,
     "Jagran Josh": 1,
     "AP News": 17,
     "BBC": 12,
-    "The Guardian": 106,
+    "The Guardian": 107,
     "Bloomberg.com": 11,
     "Foreign Affairs": 2,
     "Arab News": 75,
@@ -14632,7 +14632,7 @@
     ],
     "Le Monde.fr": [
      0,
-     6,
+     7,
      0
     ],
     "Reuters": [
@@ -14657,7 +14657,7 @@
     ],
     "The Guardian": [
      0,
-     106,
+     107,
      0
     ],
     "Bloomberg.com": [
@@ -15118,18 +15118,18 @@
    }
   },
   "2026-11-18": {
-   "total": 534,
-   "news": 518,
+   "total": 536,
+   "news": 520,
    "articles": 16,
    "positive": 0,
-   "neutral": 534,
+   "neutral": 536,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "GB": 178,
+    "GB": 179,
     "SA": 55,
     "US": 106,
-    "FR": 16,
+    "FR": 17,
     "HK": 6,
     "DE": 5,
     "JP": 2
@@ -15146,7 +15146,7 @@
     "AP News": 19,
     "WSJ": 8,
     "Science Daily": 1,
-    "Reuters": 68,
+    "Reuters": 69,
     "BigGo Finance": 1,
     "Yahoo Sports": 1,
     "intlbm": 1,
@@ -15261,7 +15261,7 @@
     "Fightful": 1,
     "صحيفة سبق الإلكترونية": 1,
     "联合早报": 1,
-    "Le Monde Evénements Abonnés": 1
+    "Le Monde Evénements Abonnés": 2
    },
    "sourceTone": {
     "The Guardian": [
@@ -15316,7 +15316,7 @@
     ],
     "Reuters": [
      0,
-     68,
+     69,
      0
     ],
     "BigGo Finance": [
@@ -15891,7 +15891,7 @@
     ],
     "Le Monde Evénements Abonnés": [
      0,
-     1,
+     2,
      0
     ]
    }
