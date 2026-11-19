@@ -15921,17 +15921,17 @@
    }
   },
   "2026-11-19": {
-   "total": 822,
-   "news": 798,
+   "total": 823,
+   "news": 799,
    "articles": 24,
    "positive": 0,
-   "neutral": 822,
+   "neutral": 823,
    "critical": 0,
    "mbs": 23,
    "countries": {
     "GB": 274,
     "SA": 90,
-    "US": 130,
+    "US": 131,
     "FR": 103,
     "HK": 3,
     "DE": 5
@@ -15976,7 +15976,7 @@
     "Bloomberg.com": 19,
     "BBC": 98,
     "Spiegel": 5,
-    "The Washington Post": 4,
+    "The Washington Post": 5,
     "ASHARQ AL-AWSAT English": 3,
     "Le Monde.fr": 9,
     "The Economist": 10,
@@ -16272,7 +16272,7 @@
     ],
     "The Washington Post": [
      0,
-     4,
+     5,
      0
     ],
     "ASHARQ AL-AWSAT English": [
