@@ -15921,17 +15921,17 @@
    }
   },
   "2026-11-19": {
-   "total": 88,
-   "news": 86,
+   "total": 89,
+   "news": 87,
    "articles": 2,
    "positive": 0,
-   "neutral": 88,
+   "neutral": 89,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "GB": 22,
     "SA": 3,
-    "US": 15,
+    "US": 16,
     "FR": 16,
     "HK": 2
    },
@@ -15968,7 +15968,7 @@
     "National Herald": 1,
     "The Daily Star": 1,
     "www.jordannews.jo": 1,
-    "The New York Times": 2,
+    "The New York Times": 3,
     "Breakingthenews.net": 1
    },
    "sourceTone": {
@@ -16129,7 +16129,7 @@
     ],
     "The New York Times": [
      0,
-     2,
+     3,
      0
     ],
     "Breakingthenews.net": [
