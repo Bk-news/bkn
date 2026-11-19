@@ -15921,18 +15921,18 @@
    }
   },
   "2026-11-19": {
-   "total": 799,
-   "news": 776,
-   "articles": 23,
+   "total": 803,
+   "news": 779,
+   "articles": 24,
    "positive": 0,
-   "neutral": 799,
+   "neutral": 803,
    "critical": 0,
    "mbs": 23,
    "countries": {
-    "GB": 268,
+    "GB": 270,
     "SA": 87,
     "US": 124,
-    "FR": 101,
+    "FR": 102,
     "HK": 3,
     "DE": 4
    },
@@ -15945,7 +15945,7 @@
     "Yemen Online": 3,
     "AP News": 19,
     "i24NEWS": 1,
-    "France 24": 93,
+    "France 24": 94,
     "Bloomberg": 2,
     "South China Morning Post": 3,
     "Atlantic Council": 12,
@@ -15974,12 +15974,12 @@
     "The Independent": 2,
     "تسنیم": 1,
     "Bloomberg.com": 19,
-    "BBC": 93,
+    "BBC": 94,
     "Spiegel": 4,
     "The Washington Post": 4,
     "ASHARQ AL-AWSAT English": 3,
     "Le Monde.fr": 9,
-    "The Economist": 9,
+    "The Economist": 10,
     "CNN": 3,
     "Saudi Gazette": 32,
     "News of Bahrain": 1,
@@ -16074,7 +16074,8 @@
     "Xinhua": 1,
     "شبكة يافا الإخبارية": 1,
     "WIVT - News 34": 1,
-    "The Korea Herald": 1
+    "The Korea Herald": 1,
+    "Horseed Media": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -16114,7 +16115,7 @@
     ],
     "France 24": [
      0,
-     93,
+     94,
      0
     ],
     "Bloomberg": [
@@ -16259,7 +16260,7 @@
     ],
     "BBC": [
      0,
-     93,
+     94,
      0
     ],
     "Spiegel": [
@@ -16284,7 +16285,7 @@
     ],
     "The Economist": [
      0,
-     9,
+     10,
      0
     ],
     "CNN": [
@@ -16758,6 +16759,11 @@
      0
     ],
     "The Korea Herald": [
+     0,
+     1,
+     0
+    ],
+    "Horseed Media": [
      0,
      1,
      0
