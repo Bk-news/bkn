@@ -1303,6 +1303,27 @@
    "mt": true
   },
   {
+   "id": "42fe1aed967f283d",
+   "origin": "rss",
+   "source": "Reuters",
+   "author": "",
+   "title_ar": "تؤكد شركة KPMG Canada وقوع حادث إلكتروني ووصول غير مصرح به إلى المستندات الضريبية لبعض العملاء",
+   "title_orig": "KPMG Canada confirms cyber incident, unauthorized access to some clients' tax documents",
+   "title_en": "KPMG Canada confirms cyber incident, unauthorized access to some clients' tax documents",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdHBJTlVPV2tPVy1SX1piYW9ISU0zYk42NU9LWE14QmtRWXhScUxMWU9yc3Z2ZTMtWkl6eVZvejdoRklHdmY3MFFZNkFZWjFSaXRuWmdTMmQtZDVEblVaVzlhem1ES3E2Wm9FUno2OTRVQ1VHdDlYeGVWb2RkWnFoUlVaOFU4NkYzcjJZSUY5NHloX3dVVmNzT2h6QWtyWkxxS1laTXdBSDlybHlmVjBfaDh5YkpqNnhRbWc?oc=5",
+   "published": "2026-11-18T21:42:00.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "KPMG Canada confirms cyber incident, unauthorized access to some clients' tax documents &nbsp;&nbsp; Reuters",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "eb10987bf5027096",
    "origin": "rss",
    "source": "The Guardian",
