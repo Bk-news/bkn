@@ -15118,15 +15118,15 @@
    }
   },
   "2026-11-18": {
-   "total": 601,
-   "news": 584,
+   "total": 602,
+   "news": 585,
    "articles": 17,
    "positive": 0,
-   "neutral": 601,
+   "neutral": 602,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "GB": 215,
+    "GB": 216,
     "SA": 60,
     "US": 119,
     "FR": 20,
@@ -15155,7 +15155,7 @@
     "South China Morning Post": 6,
     "France 24": 12,
     "Saudi Gazette": 7,
-    "Financial Times": 15,
+    "Financial Times": 16,
     "Spiegel": 5,
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1,
     "BBC": 9,
@@ -15365,7 +15365,7 @@
     ],
     "Financial Times": [
      0,
-     15,
+     16,
      0
     ],
     "Spiegel": [
@@ -15921,15 +15921,15 @@
    }
   },
   "2026-11-19": {
-   "total": 72,
-   "news": 70,
+   "total": 73,
+   "news": 71,
    "articles": 2,
    "positive": 0,
-   "neutral": 72,
+   "neutral": 73,
    "critical": 0,
    "mbs": 5,
    "countries": {
-    "GB": 15,
+    "GB": 16,
     "SA": 2,
     "US": 11,
     "FR": 15,
@@ -15938,7 +15938,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 1,
-    "Reuters": 6,
+    "Reuters": 7,
     "Arab News": 4,
     "The Guardian": 7,
     "Yemen Online": 2,
@@ -15976,7 +15976,7 @@
     ],
     "Reuters": [
      0,
-     6,
+     7,
      0
     ],
     "Arab News": [
