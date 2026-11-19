@@ -1,5 +1,26 @@
 [
  {
+  "id": "f1fb4d9f09982b7f",
+  "origin": "rss",
+  "source": "The Economist",
+  "author": "",
+  "title_ar": "العالم هذا الاسبوع",
+  "title_orig": "The world this week",
+  "title_en": "The world this week",
+  "summary_ar": [],
+  "summary_en": [],
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOVR0b3Rsd1pITnM5LTVoYVEwVEFtWW1EQWJWMmlSUWo1RWg0SnFucmdZcl8xSjhYZkQ0THFLTkhPZWFzQmRWell2MmJYVW1XYXpMbEtkR2N4U00yb1ZRTUlpX3RMNVp1b24zbExTV0loR211cGRiWG0wMVZHd1pWZHFmeGJaSS1UcWFEbWlydnVCMmtnU0swQkNXYw?oc=5",
+  "published": "2026-11-19T14:06:05.000Z",
+  "subject": "saudi",
+  "tone": "neutral",
+  "topic": "",
+  "country": "GB",
+  "pending": true,
+  "desc": "The world this week &nbsp;&nbsp; The Economist",
+  "lang": "en",
+  "mt": true
+ },
+ {
   "id": "a79fa11e7d034178",
   "origin": "rss",
   "source": "The Economist",
