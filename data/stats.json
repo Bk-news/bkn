@@ -15118,16 +15118,16 @@
    }
   },
   "2026-11-18": {
-   "total": 769,
-   "news": 752,
+   "total": 786,
+   "news": 769,
    "articles": 17,
    "positive": 0,
-   "neutral": 769,
+   "neutral": 786,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "GB": 348,
-    "SA": 73,
+    "GB": 359,
+    "SA": 79,
     "US": 132,
     "FR": 26,
     "HK": 6,
@@ -15146,7 +15146,7 @@
     "AP News": 29,
     "WSJ": 11,
     "Science Daily": 1,
-    "Reuters": 107,
+    "Reuters": 113,
     "BigGo Finance": 1,
     "Yahoo Sports": 3,
     "intlbm": 1,
@@ -15154,8 +15154,8 @@
     "Bloomberg.com": 16,
     "South China Morning Post": 6,
     "France 24": 15,
-    "Saudi Gazette": 10,
-    "Financial Times": 68,
+    "Saudi Gazette": 16,
+    "Financial Times": 73,
     "Spiegel": 5,
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1,
     "BBC": 64,
@@ -15320,7 +15320,7 @@
     ],
     "Reuters": [
      0,
-     107,
+     113,
      0
     ],
     "BigGo Finance": [
@@ -15360,12 +15360,12 @@
     ],
     "Saudi Gazette": [
      0,
-     10,
+     16,
      0
     ],
     "Financial Times": [
      0,
-     68,
+     73,
      0
     ],
     "Spiegel": [
@@ -15921,43 +15921,43 @@
    }
   },
   "2026-11-19": {
-   "total": 700,
-   "news": 677,
+   "total": 723,
+   "news": 700,
    "articles": 23,
    "positive": 0,
-   "neutral": 700,
+   "neutral": 723,
    "critical": 0,
    "mbs": 23,
    "countries": {
-    "GB": 221,
-    "SA": 80,
-    "US": 122,
-    "FR": 97,
+    "GB": 231,
+    "SA": 81,
+    "US": 123,
+    "FR": 101,
     "HK": 3,
     "DE": 4
    },
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Reuters": 58,
+    "Reuters": 59,
     "Arab News": 63,
     "The Guardian": 26,
     "Yemen Online": 3,
-    "AP News": 18,
+    "AP News": 19,
     "i24NEWS": 1,
-    "France 24": 89,
+    "France 24": 93,
     "Bloomberg": 2,
     "South China Morning Post": 3,
     "Atlantic Council": 12,
     "WSJ": 17,
-    "Financial Times": 81,
+    "Financial Times": 83,
     "Belaaz": 1,
     "Middle East Eye": 8,
     "UA.NEWS": 1,
     "Yahoo": 2,
     "Charlotte Observer": 1,
     "X": 1,
-    "Bioengineer.org": 6,
+    "Bioengineer.org": 7,
     "Anadolu Ajansı": 4,
     "Crypto Briefing": 2,
     "Chosunbiz": 1,
@@ -15974,14 +15974,14 @@
     "The Independent": 2,
     "تسنیم": 1,
     "Bloomberg.com": 18,
-    "BBC": 52,
+    "BBC": 59,
     "Spiegel": 4,
     "The Washington Post": 4,
     "ASHARQ AL-AWSAT English": 3,
     "Le Monde.fr": 9,
     "The Economist": 9,
     "CNN": 3,
-    "Saudi Gazette": 28,
+    "Saudi Gazette": 29,
     "News of Bahrain": 1,
     "UkrMedia News": 1,
     "https://houseofsaud.com/": 2,
@@ -16049,7 +16049,7 @@
     "Foreign Policy": 1,
     "Foreign Affairs": 1,
     "BigGo Finance": 1,
-    "Nacionale": 2,
+    "Nacionale": 3,
     "Dave.Sport": 1,
     "Arabian Business": 3,
     "Iran International": 1,
@@ -16057,7 +16057,12 @@
     "news.sbs.co.kr": 1,
     "Middle East Monitor": 2,
     "Fox News": 1,
-    "Business Insider Africa": 1
+    "Business Insider Africa": 1,
+    "وكالة الأنباء السعودية": 1,
+    "Atalayar": 1,
+    "Diario AS": 1,
+    "Goal.com": 1,
+    "Arise News": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -16067,7 +16072,7 @@
     ],
     "Reuters": [
      0,
-     58,
+     59,
      0
     ],
     "Arab News": [
@@ -16087,7 +16092,7 @@
     ],
     "AP News": [
      0,
-     18,
+     19,
      0
     ],
     "i24NEWS": [
@@ -16097,7 +16102,7 @@
     ],
     "France 24": [
      0,
-     89,
+     93,
      0
     ],
     "Bloomberg": [
@@ -16122,7 +16127,7 @@
     ],
     "Financial Times": [
      0,
-     81,
+     83,
      0
     ],
     "Belaaz": [
@@ -16157,7 +16162,7 @@
     ],
     "Bioengineer.org": [
      0,
-     6,
+     7,
      0
     ],
     "Anadolu Ajansı": [
@@ -16242,7 +16247,7 @@
     ],
     "BBC": [
      0,
-     52,
+     59,
      0
     ],
     "Spiegel": [
@@ -16277,7 +16282,7 @@
     ],
     "Saudi Gazette": [
      0,
-     28,
+     29,
      0
     ],
     "News of Bahrain": [
@@ -16617,7 +16622,7 @@
     ],
     "Nacionale": [
      0,
-     2,
+     3,
      0
     ],
     "Dave.Sport": [
@@ -16656,6 +16661,31 @@
      0
     ],
     "Business Insider Africa": [
+     0,
+     1,
+     0
+    ],
+    "وكالة الأنباء السعودية": [
+     0,
+     1,
+     0
+    ],
+    "Atalayar": [
+     0,
+     1,
+     0
+    ],
+    "Diario AS": [
+     0,
+     1,
+     0
+    ],
+    "Goal.com": [
+     0,
+     1,
+     0
+    ],
+    "Arise News": [
      0,
      1,
      0
