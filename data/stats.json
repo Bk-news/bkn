@@ -15118,11 +15118,11 @@
    }
   },
   "2026-11-18": {
-   "total": 536,
-   "news": 520,
+   "total": 537,
+   "news": 521,
    "articles": 16,
    "positive": 0,
-   "neutral": 536,
+   "neutral": 537,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -15210,7 +15210,7 @@
     "Oman Observer": 1,
     "Forbes Middle East": 1,
     "Inshorts": 1,
-    "Middle East Eye": 6,
+    "Middle East Eye": 7,
     "Facebook": 1,
     "the deep dive": 1,
     "The Jerusalem Post": 2,
@@ -15636,7 +15636,7 @@
     ],
     "Middle East Eye": [
      0,
-     6,
+     7,
      0
     ],
     "Facebook": [
