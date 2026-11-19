@@ -15118,17 +15118,17 @@
    }
   },
   "2026-11-18": {
-   "total": 806,
-   "news": 789,
+   "total": 807,
+   "news": 790,
    "articles": 17,
    "positive": 0,
-   "neutral": 806,
+   "neutral": 807,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "GB": 372,
     "SA": 86,
-    "US": 132,
+    "US": 133,
     "FR": 26,
     "HK": 6,
     "DE": 5,
@@ -15143,7 +15143,7 @@
     "The Sun Nigeria": 1,
     "The New York Times": 21,
     "Arabian Gulf Business Insight | AGBI": 2,
-    "AP News": 29,
+    "AP News": 30,
     "WSJ": 11,
     "Science Daily": 1,
     "Reuters": 116,
@@ -15305,7 +15305,7 @@
     ],
     "AP News": [
      0,
-     29,
+     30,
      0
     ],
     "WSJ": [
@@ -15921,15 +15921,15 @@
    }
   },
   "2026-11-19": {
-   "total": 767,
-   "news": 744,
+   "total": 769,
+   "news": 746,
    "articles": 23,
    "positive": 0,
-   "neutral": 767,
+   "neutral": 769,
    "critical": 0,
    "mbs": 23,
    "countries": {
-    "GB": 252,
+    "GB": 253,
     "SA": 81,
     "US": 123,
     "FR": 101,
@@ -15939,7 +15939,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Reuters": 59,
+    "Reuters": 60,
     "Arab News": 63,
     "The Guardian": 26,
     "Yemen Online": 3,
@@ -16069,7 +16069,8 @@
     "marketscreener.com": 1,
     "Ynetnews": 1,
     "Investing News Network": 1,
-    "ABC News - Breaking News, Latest News and Videos": 1
+    "ABC News - Breaking News, Latest News and Videos": 1,
+    "WSLS": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -16079,7 +16080,7 @@
     ],
     "Reuters": [
      0,
-     59,
+     60,
      0
     ],
     "Arab News": [
@@ -16728,6 +16729,11 @@
      0
     ],
     "ABC News - Breaking News, Latest News and Videos": [
+     0,
+     1,
+     0
+    ],
+    "WSLS": [
      0,
      1,
      0
