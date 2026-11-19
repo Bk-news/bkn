@@ -15921,15 +15921,15 @@
    }
   },
   "2026-11-19": {
-   "total": 827,
-   "news": 803,
+   "total": 830,
+   "news": 806,
    "articles": 24,
    "positive": 0,
-   "neutral": 827,
+   "neutral": 830,
    "critical": 0,
    "mbs": 23,
    "countries": {
-    "GB": 277,
+    "GB": 279,
     "SA": 90,
     "US": 131,
     "FR": 103,
@@ -15974,7 +15974,7 @@
     "The Independent": 2,
     "تسنیم": 1,
     "Bloomberg.com": 19,
-    "BBC": 98,
+    "BBC": 100,
     "Spiegel": 5,
     "The Washington Post": 5,
     "ASHARQ AL-AWSAT English": 3,
@@ -16078,7 +16078,8 @@
     "Horseed Media": 1,
     "The New Indian Express": 1,
     "Sahara Reporters": 1,
-    "Sky News": 1
+    "Sky News": 1,
+    "The Telegraph": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -16263,7 +16264,7 @@
     ],
     "BBC": [
      0,
-     98,
+     100,
      0
     ],
     "Spiegel": [
@@ -16782,6 +16783,11 @@
      0
     ],
     "Sky News": [
+     0,
+     1,
+     0
+    ],
+    "The Telegraph": [
      0,
      1,
      0
