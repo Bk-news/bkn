@@ -15118,18 +15118,18 @@
    }
   },
   "2026-11-18": {
-   "total": 545,
-   "news": 528,
+   "total": 546,
+   "news": 529,
    "articles": 17,
    "positive": 0,
-   "neutral": 545,
+   "neutral": 546,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "GB": 183,
     "SA": 55,
     "US": 109,
-    "FR": 17,
+    "FR": 18,
     "HK": 6,
     "DE": 5,
     "JP": 2
@@ -15261,7 +15261,7 @@
     "Fightful": 1,
     "صحيفة سبق الإلكترونية": 1,
     "联合早报": 1,
-    "Le Monde Evénements Abonnés": 2,
+    "Le Monde Evénements Abonnés": 3,
     "Daily Racing Form": 1
    },
    "sourceTone": {
@@ -15892,7 +15892,7 @@
     ],
     "Le Monde Evénements Abonnés": [
      0,
-     2,
+     3,
      0
     ],
     "Daily Racing Form": [
