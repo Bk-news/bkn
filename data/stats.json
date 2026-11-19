@@ -15118,17 +15118,17 @@
    }
   },
   "2026-11-18": {
-   "total": 603,
-   "news": 586,
+   "total": 604,
+   "news": 587,
    "articles": 17,
    "positive": 0,
-   "neutral": 603,
+   "neutral": 604,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "GB": 217,
     "SA": 60,
-    "US": 119,
+    "US": 120,
     "FR": 20,
     "HK": 6,
     "DE": 5,
@@ -15143,7 +15143,7 @@
     "The Sun Nigeria": 1,
     "The New York Times": 20,
     "Arabian Gulf Business Insight | AGBI": 2,
-    "AP News": 24,
+    "AP News": 25,
     "WSJ": 9,
     "Science Daily": 1,
     "Reuters": 90,
@@ -15305,7 +15305,7 @@
     ],
     "AP News": [
      0,
-     24,
+     25,
      0
     ],
     "WSJ": [
@@ -15921,11 +15921,11 @@
    }
   },
   "2026-11-19": {
-   "total": 74,
-   "news": 72,
+   "total": 75,
+   "news": 73,
    "articles": 2,
    "positive": 0,
-   "neutral": 74,
+   "neutral": 75,
    "critical": 0,
    "mbs": 6,
    "countries": {
@@ -15966,7 +15966,8 @@
     "DNE Africa": 1,
     "Wamda": 1,
     "National Herald": 1,
-    "The Daily Star": 1
+    "The Daily Star": 1,
+    "www.jordannews.jo": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -16115,6 +16116,11 @@
      0
     ],
     "The Daily Star": [
+     0,
+     1,
+     0
+    ],
+    "www.jordannews.jo": [
      0,
      1,
      0
