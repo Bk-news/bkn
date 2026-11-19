@@ -14496,17 +14496,17 @@
    }
   },
   "2026-11-17": {
-   "total": 659,
-   "news": 641,
+   "total": 660,
+   "news": 642,
    "articles": 18,
    "positive": 0,
-   "neutral": 659,
+   "neutral": 660,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "US": 106,
     "FR": 17,
-    "GB": 264,
+    "GB": 265,
     "SA": 78,
     "DE": 4,
     "HK": 5
@@ -14517,7 +14517,7 @@
     "The Washington Post": 9,
     "The New York Times": 17,
     "Le Monde.fr": 7,
-    "Reuters": 125,
+    "Reuters": 126,
     "Jagran Josh": 1,
     "AP News": 19,
     "BBC": 12,
@@ -14637,7 +14637,7 @@
     ],
     "Reuters": [
      0,
-     125,
+     126,
      0
     ],
     "Jagran Josh": [
@@ -15921,15 +15921,15 @@
    }
   },
   "2026-11-19": {
-   "total": 89,
-   "news": 87,
+   "total": 91,
+   "news": 89,
    "articles": 2,
    "positive": 0,
-   "neutral": 89,
+   "neutral": 91,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "GB": 22,
+    "GB": 24,
     "SA": 3,
     "US": 16,
     "FR": 16,
@@ -15938,7 +15938,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Reuters": 7,
+    "Reuters": 9,
     "Arab News": 5,
     "The Guardian": 10,
     "Yemen Online": 2,
@@ -15979,7 +15979,7 @@
     ],
     "Reuters": [
      0,
-     7,
+     9,
      0
     ],
     "Arab News": [
