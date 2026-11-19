@@ -14496,17 +14496,17 @@
    }
   },
   "2026-11-17": {
-   "total": 648,
-   "news": 630,
+   "total": 655,
+   "news": 637,
    "articles": 18,
    "positive": 0,
-   "neutral": 648,
+   "neutral": 655,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "US": 105,
     "FR": 17,
-    "GB": 256,
+    "GB": 263,
     "SA": 76,
     "DE": 4,
     "HK": 5
@@ -14517,11 +14517,11 @@
     "The Washington Post": 9,
     "The New York Times": 17,
     "Le Monde.fr": 7,
-    "Reuters": 122,
+    "Reuters": 125,
     "Jagran Josh": 1,
     "AP News": 18,
     "BBC": 12,
-    "The Guardian": 108,
+    "The Guardian": 112,
     "Bloomberg.com": 12,
     "Foreign Affairs": 2,
     "Arab News": 75,
@@ -14637,7 +14637,7 @@
     ],
     "Reuters": [
      0,
-     122,
+     125,
      0
     ],
     "Jagran Josh": [
@@ -14657,7 +14657,7 @@
     ],
     "The Guardian": [
      0,
-     108,
+     112,
      0
     ],
     "Bloomberg.com": [
@@ -15118,25 +15118,25 @@
    }
   },
   "2026-11-18": {
-   "total": 585,
-   "news": 568,
+   "total": 599,
+   "news": 582,
    "articles": 17,
    "positive": 0,
-   "neutral": 585,
+   "neutral": 599,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "GB": 204,
+    "GB": 215,
     "SA": 60,
     "US": 118,
-    "FR": 18,
+    "FR": 20,
     "HK": 6,
     "DE": 5,
     "JP": 2
    },
    "topics": {},
    "sources": {
-    "The Guardian": 92,
+    "The Guardian": 94,
     "Arab News": 74,
     "The Washington Post": 7,
     "Al-Monitor": 36,
@@ -15146,14 +15146,14 @@
     "AP News": 24,
     "WSJ": 9,
     "Science Daily": 1,
-    "Reuters": 80,
+    "Reuters": 89,
     "BigGo Finance": 1,
-    "Yahoo Sports": 1,
+    "Yahoo Sports": 2,
     "intlbm": 1,
     "Le Monde.fr": 5,
     "Bloomberg.com": 16,
     "South China Morning Post": 6,
-    "France 24": 10,
+    "France 24": 12,
     "Saudi Gazette": 7,
     "Financial Times": 15,
     "Spiegel": 5,
@@ -15269,7 +15269,7 @@
    "sourceTone": {
     "The Guardian": [
      0,
-     92,
+     94,
      0
     ],
     "Arab News": [
@@ -15319,7 +15319,7 @@
     ],
     "Reuters": [
      0,
-     80,
+     89,
      0
     ],
     "BigGo Finance": [
@@ -15329,7 +15329,7 @@
     ],
     "Yahoo Sports": [
      0,
-     1,
+     2,
      0
     ],
     "intlbm": [
@@ -15354,7 +15354,7 @@
     ],
     "France 24": [
      0,
-     10,
+     12,
      0
     ],
     "Saudi Gazette": [
@@ -15915,18 +15915,18 @@
    }
   },
   "2026-11-19": {
-   "total": 61,
-   "news": 59,
+   "total": 69,
+   "news": 67,
    "articles": 2,
    "positive": 0,
-   "neutral": 61,
+   "neutral": 69,
    "critical": 0,
    "mbs": 5,
    "countries": {
-    "GB": 13,
+    "GB": 14,
     "SA": 2,
-    "US": 10,
-    "FR": 14,
+    "US": 11,
+    "FR": 15,
     "HK": 2
    },
    "topics": {},
@@ -15938,23 +15938,27 @@
     "Yemen Online": 2,
     "AP News": 6,
     "i24NEWS": 1,
-    "France 24": 14,
+    "France 24": 15,
     "Bloomberg": 1,
     "South China Morning Post": 2,
     "Atlantic Council": 2,
     "WSJ": 1,
-    "Financial Times": 1,
+    "Financial Times": 2,
     "Belaaz": 1,
     "Middle East Eye": 4,
     "UA.NEWS": 1,
     "Yahoo": 1,
     "Charlotte Observer": 1,
     "X": 1,
-    "Bioengineer.org": 1,
-    "Anadolu Ajansı": 1,
+    "Bioengineer.org": 2,
+    "Anadolu Ajansı": 2,
     "Crypto Briefing": 1,
     "Chosunbiz": 1,
-    "Mezha.net": 1
+    "Mezha.net": 1,
+    "Al-Monitor": 1,
+    "Critical Threats": 1,
+    "DNE Africa": 1,
+    "Wamda": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -15994,7 +15998,7 @@
     ],
     "France 24": [
      0,
-     14,
+     15,
      0
     ],
     "Bloomberg": [
@@ -16019,7 +16023,7 @@
     ],
     "Financial Times": [
      0,
-     1,
+     2,
      0
     ],
     "Belaaz": [
@@ -16054,12 +16058,12 @@
     ],
     "Bioengineer.org": [
      0,
-     1,
+     2,
      0
     ],
     "Anadolu Ajansı": [
      0,
-     1,
+     2,
      0
     ],
     "Crypto Briefing": [
@@ -16073,6 +16077,26 @@
      0
     ],
     "Mezha.net": [
+     0,
+     1,
+     0
+    ],
+    "Al-Monitor": [
+     0,
+     1,
+     0
+    ],
+    "Critical Threats": [
+     0,
+     1,
+     0
+    ],
+    "DNE Africa": [
+     0,
+     1,
+     0
+    ],
+    "Wamda": [
      0,
      1,
      0
