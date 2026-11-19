@@ -15118,15 +15118,15 @@
    }
   },
   "2026-11-18": {
-   "total": 724,
-   "news": 707,
+   "total": 725,
+   "news": 708,
    "articles": 17,
    "positive": 0,
-   "neutral": 724,
+   "neutral": 725,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "GB": 317,
+    "GB": 318,
     "SA": 67,
     "US": 127,
     "FR": 25,
@@ -15155,7 +15155,7 @@
     "South China Morning Post": 6,
     "France 24": 15,
     "Saudi Gazette": 10,
-    "Financial Times": 47,
+    "Financial Times": 48,
     "Spiegel": 5,
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1,
     "BBC": 57,
@@ -15365,7 +15365,7 @@
     ],
     "Financial Times": [
      0,
-     47,
+     48,
      0
     ],
     "Spiegel": [
@@ -15921,11 +15921,11 @@
    }
   },
   "2026-11-19": {
-   "total": 437,
-   "news": 427,
+   "total": 438,
+   "news": 428,
    "articles": 10,
    "positive": 0,
-   "neutral": 437,
+   "neutral": 438,
    "critical": 0,
    "mbs": 22,
    "countries": {
@@ -15992,7 +15992,7 @@
     "Jerusalem Center for Security and Foreign Affairs": 1,
     "Daily Observer": 1,
     "India Today": 1,
-    "The AFC": 1,
+    "The AFC": 2,
     "سانا": 1,
     "وكالة سوا الإخبارية": 1,
     "Arab News PK": 1,
@@ -16318,7 +16318,7 @@
     ],
     "The AFC": [
      0,
-     1,
+     2,
      0
     ],
     "سانا": [
