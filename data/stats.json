@@ -15118,15 +15118,15 @@
    }
   },
   "2026-11-18": {
-   "total": 559,
-   "news": 542,
+   "total": 561,
+   "news": 544,
    "articles": 17,
    "positive": 0,
-   "neutral": 559,
+   "neutral": 561,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "GB": 185,
+    "GB": 186,
     "SA": 59,
     "US": 113,
     "FR": 18,
@@ -15136,7 +15136,7 @@
    },
    "topics": {},
    "sources": {
-    "The Guardian": 81,
+    "The Guardian": 82,
     "Arab News": 73,
     "The Washington Post": 7,
     "Al-Monitor": 36,
@@ -15217,7 +15217,7 @@
     "Mezha.net": 1,
     "The Manila Times": 1,
     "Dealroom": 2,
-    "Goal.com": 4,
+    "Goal.com": 5,
     "Business Insurance": 1,
     "Internazionale": 1,
     "Business Insider Africa": 4,
@@ -15269,7 +15269,7 @@
    "sourceTone": {
     "The Guardian": [
      0,
-     81,
+     82,
      0
     ],
     "Arab News": [
@@ -15674,7 +15674,7 @@
     ],
     "Goal.com": [
      0,
-     4,
+     5,
      0
     ],
     "Business Insurance": [
@@ -15915,11 +15915,11 @@
    }
   },
   "2026-11-19": {
-   "total": 4,
-   "news": 4,
+   "total": 5,
+   "news": 5,
    "articles": 0,
    "positive": 0,
-   "neutral": 4,
+   "neutral": 5,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -15931,7 +15931,8 @@
     "Arabian Gulf Business Insight | AGBI": 1,
     "Reuters": 1,
     "Arab News": 1,
-    "The Guardian": 1
+    "The Guardian": 1,
+    "Yemen Online": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -15950,6 +15951,11 @@
      0
     ],
     "The Guardian": [
+     0,
+     1,
+     0
+    ],
+    "Yemen Online": [
      0,
      1,
      0
