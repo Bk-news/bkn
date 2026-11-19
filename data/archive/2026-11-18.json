@@ -10511,6 +10511,27 @@
    "mt": true
   },
   {
+   "id": "f87d284a17ad9251",
+   "origin": "rss",
+   "source": "Nikkei Asia",
+   "author": "",
+   "title_ar": "أخبار وتحليلات الأعمال والسياسة والاقتصاد والتكنولوجيا",
+   "title_orig": "Business, Politics, Economy and Tech News & Analysis",
+   "title_en": "Business, Politics, Economy and Tech News & Analysis",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FeU1QSVFGYXdGd1R6ekV1TzdQMXBGVEhPUDZld2RVMjdOYVNpanRrdVMyeXpaVDE1Uzh0dXB4ckUwMGlOaHRoQkwwb2FLeVB6Q01hNnkzZ2tsNVJ2QXF3b2NoMnd6dEhVMGpUci1JalI?oc=5",
+   "published": "2026-11-18T09:45:15.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "JP",
+   "pending": true,
+   "desc": "Business, Politics, Economy and Tech News & Analysis &nbsp;&nbsp; Nikkei Asia",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "d8156f21412c6fac",
    "origin": "rss",
    "source": "Financial Times",
