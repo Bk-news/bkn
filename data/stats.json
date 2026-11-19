@@ -15921,11 +15921,11 @@
    }
   },
   "2026-11-19": {
-   "total": 791,
-   "news": 768,
+   "total": 799,
+   "news": 776,
    "articles": 23,
    "positive": 0,
-   "neutral": 791,
+   "neutral": 799,
    "critical": 0,
    "mbs": 23,
    "countries": {
@@ -15958,7 +15958,7 @@
     "Charlotte Observer": 1,
     "X": 1,
     "Bioengineer.org": 7,
-    "Anadolu Ajansı": 4,
+    "Anadolu Ajansı": 5,
     "Crypto Briefing": 3,
     "Chosunbiz": 1,
     "Mezha.net": 2,
@@ -16018,7 +16018,7 @@
     "New York Post": 1,
     "The National": 3,
     "The Media Line": 1,
-    "Global Arab Network": 2,
+    "Global Arab Network": 3,
     "Egypt Oil & Gas": 1,
     "Daily Sabah": 1,
     "houseofsaud.com": 1,
@@ -16037,7 +16037,7 @@
     "sanad.uk": 1,
     "ИФЗ РАН": 1,
     "FinTech Global": 1,
-    "Consultancy-me.com": 2,
+    "Consultancy-me.com": 3,
     "Yeni Safak English": 3,
     "NPR": 1,
     "TRT World": 1,
@@ -16049,7 +16049,7 @@
     "Foreign Policy": 1,
     "Foreign Affairs": 1,
     "BigGo Finance": 1,
-    "Nacionale": 3,
+    "Nacionale": 4,
     "Dave.Sport": 1,
     "Arabian Business": 3,
     "Iran International": 2,
@@ -16070,7 +16070,11 @@
     "Ynetnews": 1,
     "Investing News Network": 1,
     "ABC News - Breaking News, Latest News and Videos": 1,
-    "WSLS": 1
+    "WSLS": 1,
+    "Xinhua": 1,
+    "شبكة يافا الإخبارية": 1,
+    "WIVT - News 34": 1,
+    "The Korea Herald": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -16175,7 +16179,7 @@
     ],
     "Anadolu Ajansı": [
      0,
-     4,
+     5,
      0
     ],
     "Crypto Briefing": [
@@ -16475,7 +16479,7 @@
     ],
     "Global Arab Network": [
      0,
-     2,
+     3,
      0
     ],
     "Egypt Oil & Gas": [
@@ -16570,7 +16574,7 @@
     ],
     "Consultancy-me.com": [
      0,
-     2,
+     3,
      0
     ],
     "Yeni Safak English": [
@@ -16630,7 +16634,7 @@
     ],
     "Nacionale": [
      0,
-     3,
+     4,
      0
     ],
     "Dave.Sport": [
@@ -16734,6 +16738,26 @@
      0
     ],
     "WSLS": [
+     0,
+     1,
+     0
+    ],
+    "Xinhua": [
+     0,
+     1,
+     0
+    ],
+    "شبكة يافا الإخبارية": [
+     0,
+     1,
+     0
+    ],
+    "WIVT - News 34": [
+     0,
+     1,
+     0
+    ],
+    "The Korea Herald": [
      0,
      1,
      0
