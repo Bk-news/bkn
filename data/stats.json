@@ -14496,17 +14496,17 @@
    }
   },
   "2026-11-17": {
-   "total": 644,
-   "news": 626,
+   "total": 645,
+   "news": 627,
    "articles": 18,
    "positive": 0,
-   "neutral": 644,
+   "neutral": 645,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "US": 103,
     "FR": 17,
-    "GB": 254,
+    "GB": 255,
     "SA": 76,
     "DE": 4,
     "HK": 5
@@ -14517,7 +14517,7 @@
     "The Washington Post": 9,
     "The New York Times": 17,
     "Le Monde.fr": 7,
-    "Reuters": 121,
+    "Reuters": 122,
     "Jagran Josh": 1,
     "AP News": 17,
     "BBC": 12,
@@ -14637,7 +14637,7 @@
     ],
     "Reuters": [
      0,
-     121,
+     122,
      0
     ],
     "Jagran Josh": [
@@ -15118,17 +15118,17 @@
    }
   },
   "2026-11-18": {
-   "total": 541,
-   "news": 524,
+   "total": 545,
+   "news": 528,
    "articles": 17,
    "positive": 0,
-   "neutral": 541,
+   "neutral": 545,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "GB": 181,
+    "GB": 183,
     "SA": 55,
-    "US": 108,
+    "US": 109,
     "FR": 17,
     "HK": 6,
     "DE": 5,
@@ -15146,12 +15146,12 @@
     "AP News": 19,
     "WSJ": 8,
     "Science Daily": 1,
-    "Reuters": 70,
+    "Reuters": 72,
     "BigGo Finance": 1,
     "Yahoo Sports": 1,
     "intlbm": 1,
     "Le Monde.fr": 5,
-    "Bloomberg.com": 14,
+    "Bloomberg.com": 15,
     "South China Morning Post": 6,
     "France 24": 10,
     "Saudi Gazette": 7,
@@ -15261,7 +15261,8 @@
     "Fightful": 1,
     "صحيفة سبق الإلكترونية": 1,
     "联合早报": 1,
-    "Le Monde Evénements Abonnés": 2
+    "Le Monde Evénements Abonnés": 2,
+    "Daily Racing Form": 1
    },
    "sourceTone": {
     "The Guardian": [
@@ -15316,7 +15317,7 @@
     ],
     "Reuters": [
      0,
-     70,
+     72,
      0
     ],
     "BigGo Finance": [
@@ -15341,7 +15342,7 @@
     ],
     "Bloomberg.com": [
      0,
-     14,
+     15,
      0
     ],
     "South China Morning Post": [
@@ -15892,6 +15893,11 @@
     "Le Monde Evénements Abonnés": [
      0,
      2,
+     0
+    ],
+    "Daily Racing Form": [
+     0,
+     1,
      0
     ]
    }
