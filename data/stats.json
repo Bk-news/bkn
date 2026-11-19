@@ -14496,17 +14496,17 @@
    }
   },
   "2026-11-17": {
-   "total": 646,
-   "news": 628,
+   "total": 647,
+   "news": 629,
    "articles": 18,
    "positive": 0,
-   "neutral": 646,
+   "neutral": 647,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "US": 104,
     "FR": 17,
-    "GB": 255,
+    "GB": 256,
     "SA": 76,
     "DE": 4,
     "HK": 5
@@ -14521,7 +14521,7 @@
     "Jagran Josh": 1,
     "AP News": 17,
     "BBC": 12,
-    "The Guardian": 107,
+    "The Guardian": 108,
     "Bloomberg.com": 12,
     "Foreign Affairs": 2,
     "Arab News": 75,
@@ -14657,7 +14657,7 @@
     ],
     "The Guardian": [
      0,
-     107,
+     108,
      0
     ],
     "Bloomberg.com": [
@@ -15118,17 +15118,17 @@
    }
   },
   "2026-11-18": {
-   "total": 557,
-   "news": 540,
+   "total": 558,
+   "news": 541,
    "articles": 17,
    "positive": 0,
-   "neutral": 557,
+   "neutral": 558,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "GB": 184,
     "SA": 59,
-    "US": 112,
+    "US": 113,
     "FR": 18,
     "HK": 6,
     "DE": 5,
@@ -15143,7 +15143,7 @@
     "The Sun Nigeria": 1,
     "The New York Times": 19,
     "Arabian Gulf Business Insight | AGBI": 2,
-    "AP News": 19,
+    "AP News": 20,
     "WSJ": 9,
     "Science Daily": 1,
     "Reuters": 72,
@@ -15304,7 +15304,7 @@
     ],
     "AP News": [
      0,
-     19,
+     20,
      0
     ],
     "WSJ": [
