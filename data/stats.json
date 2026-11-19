@@ -15921,17 +15921,17 @@
    }
   },
   "2026-11-19": {
-   "total": 75,
-   "news": 73,
+   "total": 77,
+   "news": 75,
    "articles": 2,
    "positive": 0,
-   "neutral": 75,
+   "neutral": 77,
    "critical": 0,
    "mbs": 6,
    "countries": {
-    "GB": 16,
+    "GB": 17,
     "SA": 2,
-    "US": 11,
+    "US": 12,
     "FR": 15,
     "HK": 2
    },
@@ -15940,7 +15940,7 @@
     "Arabian Gulf Business Insight | AGBI": 2,
     "Reuters": 7,
     "Arab News": 4,
-    "The Guardian": 7,
+    "The Guardian": 8,
     "Yemen Online": 2,
     "AP News": 6,
     "i24NEWS": 1,
@@ -15967,7 +15967,8 @@
     "Wamda": 1,
     "National Herald": 1,
     "The Daily Star": 1,
-    "www.jordannews.jo": 1
+    "www.jordannews.jo": 1,
+    "The New York Times": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -15987,7 +15988,7 @@
     ],
     "The Guardian": [
      0,
-     7,
+     8,
      0
     ],
     "Yemen Online": [
@@ -16121,6 +16122,11 @@
      0
     ],
     "www.jordannews.jo": [
+     0,
+     1,
+     0
+    ],
+    "The New York Times": [
      0,
      1,
      0
