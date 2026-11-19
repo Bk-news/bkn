@@ -15921,15 +15921,15 @@
    }
   },
   "2026-11-19": {
-   "total": 469,
-   "news": 459,
+   "total": 471,
+   "news": 461,
    "articles": 10,
    "positive": 0,
-   "neutral": 469,
+   "neutral": 471,
    "critical": 0,
    "mbs": 22,
    "countries": {
-    "GB": 143,
+    "GB": 144,
     "SA": 30,
     "US": 80,
     "FR": 65,
@@ -15939,7 +15939,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Reuters": 33,
+    "Reuters": 34,
     "Arab News": 33,
     "The Guardian": 23,
     "Yemen Online": 3,
@@ -16038,7 +16038,7 @@
     "ИФЗ РАН": 1,
     "FinTech Global": 1,
     "Consultancy-me.com": 2,
-    "Yeni Safak English": 1,
+    "Yeni Safak English": 2,
     "NPR": 1,
     "TRT World": 1,
     "The Korea Times": 1,
@@ -16055,7 +16055,7 @@
     ],
     "Reuters": [
      0,
-     33,
+     34,
      0
     ],
     "Arab News": [
@@ -16550,7 +16550,7 @@
     ],
     "Yeni Safak English": [
      0,
-     1,
+     2,
      0
     ],
     "NPR": [
