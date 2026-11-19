@@ -15921,15 +15921,15 @@
    }
   },
   "2026-11-19": {
-   "total": 417,
+   "total": 419,
    "news": 410,
-   "articles": 7,
+   "articles": 9,
    "positive": 0,
-   "neutral": 417,
+   "neutral": 419,
    "critical": 0,
    "mbs": 22,
    "countries": {
-    "GB": 127,
+    "GB": 129,
     "SA": 21,
     "US": 76,
     "FR": 62,
@@ -15979,7 +15979,7 @@
     "The Washington Post": 3,
     "ASHARQ AL-AWSAT English": 2,
     "Le Monde.fr": 4,
-    "The Economist": 4,
+    "The Economist": 6,
     "CNN": 2,
     "Saudi Gazette": 5,
     "News of Bahrain": 1,
@@ -16246,7 +16246,7 @@
     ],
     "The Economist": [
      0,
-     4,
+     6,
      0
     ],
     "CNN": [
