@@ -15921,34 +15921,35 @@
    }
   },
   "2026-11-19": {
-   "total": 98,
-   "news": 96,
-   "articles": 2,
+   "total": 138,
+   "news": 134,
+   "articles": 4,
    "positive": 0,
-   "neutral": 98,
+   "neutral": 138,
    "critical": 0,
-   "mbs": 7,
+   "mbs": 9,
    "countries": {
-    "GB": 27,
-    "SA": 3,
-    "US": 19,
-    "FR": 16,
-    "HK": 2
+    "GB": 35,
+    "SA": 8,
+    "US": 33,
+    "FR": 21,
+    "HK": 3,
+    "DE": 2
    },
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 2,
-    "Reuters": 11,
-    "Arab News": 5,
-    "The Guardian": 11,
+    "Reuters": 14,
+    "Arab News": 9,
+    "The Guardian": 13,
     "Yemen Online": 2,
-    "AP News": 10,
+    "AP News": 12,
     "i24NEWS": 1,
-    "France 24": 16,
+    "France 24": 19,
     "Bloomberg": 1,
-    "South China Morning Post": 2,
-    "Atlantic Council": 2,
-    "WSJ": 1,
+    "South China Morning Post": 3,
+    "Atlantic Council": 3,
+    "WSJ": 3,
     "Financial Times": 5,
     "Belaaz": 1,
     "Middle East Eye": 4,
@@ -15961,16 +15962,28 @@
     "Crypto Briefing": 1,
     "Chosunbiz": 1,
     "Mezha.net": 1,
-    "Al-Monitor": 1,
+    "Al-Monitor": 3,
     "Critical Threats": 1,
     "DNE Africa": 1,
     "Wamda": 1,
     "National Herald": 1,
     "The Daily Star": 1,
     "www.jordannews.jo": 1,
-    "The New York Times": 4,
+    "The New York Times": 6,
     "Breakingthenews.net": 1,
-    "The Independent": 1
+    "The Independent": 1,
+    "تسنیم": 1,
+    "Bloomberg.com": 2,
+    "BBC": 2,
+    "Spiegel": 2,
+    "The Washington Post": 2,
+    "ASHARQ AL-AWSAT English": 1,
+    "Le Monde.fr": 2,
+    "The Economist": 1,
+    "CNN": 1,
+    "Saudi Gazette": 2,
+    "News of Bahrain": 1,
+    "UkrMedia News": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -15980,17 +15993,17 @@
     ],
     "Reuters": [
      0,
-     11,
+     14,
      0
     ],
     "Arab News": [
      0,
-     5,
+     9,
      0
     ],
     "The Guardian": [
      0,
-     11,
+     13,
      0
     ],
     "Yemen Online": [
@@ -16000,7 +16013,7 @@
     ],
     "AP News": [
      0,
-     10,
+     12,
      0
     ],
     "i24NEWS": [
@@ -16010,7 +16023,7 @@
     ],
     "France 24": [
      0,
-     16,
+     19,
      0
     ],
     "Bloomberg": [
@@ -16020,17 +16033,17 @@
     ],
     "South China Morning Post": [
      0,
-     2,
+     3,
      0
     ],
     "Atlantic Council": [
      0,
-     2,
+     3,
      0
     ],
     "WSJ": [
      0,
-     1,
+     3,
      0
     ],
     "Financial Times": [
@@ -16095,7 +16108,7 @@
     ],
     "Al-Monitor": [
      0,
-     1,
+     3,
      0
     ],
     "Critical Threats": [
@@ -16130,7 +16143,7 @@
     ],
     "The New York Times": [
      0,
-     4,
+     6,
      0
     ],
     "Breakingthenews.net": [
@@ -16139,6 +16152,66 @@
      0
     ],
     "The Independent": [
+     0,
+     1,
+     0
+    ],
+    "تسنیم": [
+     0,
+     1,
+     0
+    ],
+    "Bloomberg.com": [
+     0,
+     2,
+     0
+    ],
+    "BBC": [
+     0,
+     2,
+     0
+    ],
+    "Spiegel": [
+     0,
+     2,
+     0
+    ],
+    "The Washington Post": [
+     0,
+     2,
+     0
+    ],
+    "ASHARQ AL-AWSAT English": [
+     0,
+     1,
+     0
+    ],
+    "Le Monde.fr": [
+     0,
+     2,
+     0
+    ],
+    "The Economist": [
+     0,
+     1,
+     0
+    ],
+    "CNN": [
+     0,
+     1,
+     0
+    ],
+    "Saudi Gazette": [
+     0,
+     2,
+     0
+    ],
+    "News of Bahrain": [
+     0,
+     1,
+     0
+    ],
+    "UkrMedia News": [
      0,
      1,
      0
