@@ -14496,15 +14496,15 @@
    }
   },
   "2026-11-17": {
-   "total": 716,
-   "news": 698,
+   "total": 717,
+   "news": 699,
    "articles": 18,
    "positive": 0,
-   "neutral": 716,
+   "neutral": 717,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "US": 112,
+    "US": 113,
     "FR": 17,
     "GB": 311,
     "SA": 82,
@@ -14519,7 +14519,7 @@
     "Le Monde.fr": 7,
     "Reuters": 134,
     "Jagran Josh": 1,
-    "AP News": 21,
+    "AP News": 22,
     "BBC": 36,
     "The Guardian": 117,
     "Bloomberg.com": 12,
@@ -14647,7 +14647,7 @@
     ],
     "AP News": [
      0,
-     21,
+     22,
      0
     ],
     "BBC": [
@@ -15921,18 +15921,18 @@
    }
   },
   "2026-11-19": {
-   "total": 466,
-   "news": 456,
+   "total": 468,
+   "news": 458,
    "articles": 10,
    "positive": 0,
-   "neutral": 466,
+   "neutral": 468,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "GB": 143,
     "SA": 29,
     "US": 80,
-    "FR": 63,
+    "FR": 65,
     "HK": 3,
     "DE": 4
    },
@@ -15945,7 +15945,7 @@
     "Yemen Online": 3,
     "AP News": 15,
     "i24NEWS": 1,
-    "France 24": 60,
+    "France 24": 62,
     "Bloomberg": 2,
     "South China Morning Post": 3,
     "Atlantic Council": 4,
@@ -16085,7 +16085,7 @@
     ],
     "France 24": [
      0,
-     60,
+     62,
      0
     ],
     "Bloomberg": [
