@@ -15921,17 +15921,17 @@
    }
   },
   "2026-11-19": {
-   "total": 816,
-   "news": 792,
+   "total": 818,
+   "news": 794,
    "articles": 24,
    "positive": 0,
-   "neutral": 816,
+   "neutral": 818,
    "critical": 0,
    "mbs": 23,
    "countries": {
     "GB": 273,
     "SA": 89,
-    "US": 127,
+    "US": 129,
     "FR": 103,
     "HK": 3,
     "DE": 5
@@ -15962,7 +15962,7 @@
     "Crypto Briefing": 3,
     "Chosunbiz": 1,
     "Mezha.net": 2,
-    "Al-Monitor": 29,
+    "Al-Monitor": 31,
     "Critical Threats": 1,
     "DNE Africa": 1,
     "Wamda": 1,
@@ -16202,7 +16202,7 @@
     ],
     "Al-Monitor": [
      0,
-     29,
+     31,
      0
     ],
     "Critical Threats": [
