@@ -2,6 +2,27 @@
  "day": "2026-11-19",
  "items": [
   {
+   "id": "c7c5f35dbdf4becb",
+   "origin": "rss",
+   "source": "Reuters",
+   "author": "",
+   "title_ar": "يقول بار من بنك الاحتياطي الفيدرالي إن ارتفاع أسعار الفائدة من المحتمل أن يكون في المستقبل",
+   "title_orig": "Fed's Barr says rate rises likely lie ahead",
+   "title_en": "Fed's Barr says rate rises likely lie ahead",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TMUg5dnhtUWMtNVZTTTlPUHZ5Tko1eXVXN0k2bDV4OXlfcUZadFJJQzRiZ1l0V21DSklQZjBTaWVNb3dEMnE3aDdDVjFSM3U3V3lpd1o4SURvTVYwVWt0LXVrb3pmalU?oc=5",
+   "published": "2026-11-19T00:05:50.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "Fed's Barr says rate rises likely lie ahead &nbsp;&nbsp; Reuters",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "66871dc7b225e322",
    "origin": "rss",
    "source": "Arabian Gulf Business Insight | AGBI",
