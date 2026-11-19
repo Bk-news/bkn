@@ -1,5 +1,17 @@
 [
  {
+  "id": "0bab12e1970c91e5",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "مراسل العربية: انتهاء اللقاء الثنائي بين بوتين وترمب",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/154410",
+  "published": "2026-11-19T05:26:02.000Z",
+  "subject": "saudi",
+  "added": "2026-11-19T05:26:02.000Z"
+ },
+ {
   "id": "5629c5f691eb5298",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -154,17 +166,5 @@
   "published": "2026-11-19T04:29:19.000Z",
   "subject": "saudi",
   "added": "2026-11-19T04:29:19.000Z"
- },
- {
-  "id": "817221936d95d276",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "بدء الاجتماع الثنائي بين ترمب وبوتين في شنجن بالصين",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/154396",
-  "published": "2026-11-19T04:26:22.000Z",
-  "subject": "saudi",
-  "added": "2026-11-19T04:26:22.000Z"
  }
 ]
