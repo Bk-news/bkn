@@ -2,6 +2,27 @@
  "day": "2026-11-19",
  "items": [
   {
+   "id": "1a86c30968999748",
+   "origin": "rss",
+   "source": "Arab News",
+   "author": "",
+   "title_ar": "انفجار يهز خط أنابيب غاز شرقي سوريا",
+   "title_orig": "Explosion hits gas pipeline in eastern Syria",
+   "title_en": "Explosion hits gas pipeline in eastern Syria",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYmRnZHp5UlJITkY5SUNyWjJwbUVaeU1abU9vQmlRXzg2T2dfaE1PcWVnRENTUXR3Y2twTWJLYU1ZVjJ0X1JYcXZKaF9CRS1tNDJueTFWLXBhMVpUcHEwZUtMS01mdmpaQUpDcHUzMDFheGY5WXJjUnRZQnF3MG5zQWd6SE02QnJnSWluUzBOemt5aUE?oc=5",
+   "published": "2026-11-19T14:40:21.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "SA",
+   "pending": true,
+   "desc": "Explosion hits gas pipeline in eastern Syria &nbsp;&nbsp; Arab News",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "2af5bc94a79b8a39",
    "origin": "rss",
    "source": "France 24",

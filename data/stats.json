@@ -14496,17 +14496,17 @@
    }
   },
   "2026-11-17": {
-   "total": 717,
-   "news": 699,
+   "total": 718,
+   "news": 700,
    "articles": 18,
    "positive": 0,
-   "neutral": 717,
+   "neutral": 718,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "US": 113,
     "FR": 17,
-    "GB": 311,
+    "GB": 312,
     "SA": 82,
     "DE": 4,
     "HK": 5
@@ -14527,7 +14527,7 @@
     "Arab News": 81,
     "Al-Monitor": 35,
     "WSJ": 8,
-    "Financial Times": 21,
+    "Financial Times": 22,
     "Spiegel": 4,
     "South China Morning Post": 6,
     "Foreign Policy": 2,
@@ -14687,7 +14687,7 @@
     ],
     "Financial Times": [
      0,
-     21,
+     22,
      0
     ],
     "Spiegel": [
@@ -15118,15 +15118,15 @@
    }
   },
   "2026-11-18": {
-   "total": 757,
-   "news": 740,
+   "total": 761,
+   "news": 744,
    "articles": 17,
    "positive": 0,
-   "neutral": 757,
+   "neutral": 761,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "GB": 344,
+    "GB": 347,
     "SA": 73,
     "US": 127,
     "FR": 25,
@@ -15155,7 +15155,7 @@
     "South China Morning Post": 6,
     "France 24": 15,
     "Saudi Gazette": 10,
-    "Financial Times": 65,
+    "Financial Times": 68,
     "Spiegel": 5,
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1,
     "BBC": 64,
@@ -15227,7 +15227,7 @@
     "الحرة": 1,
     "The Diplomatic Insight": 1,
     "صحيفة مال": 1,
-    "The Times of Israel": 3,
+    "The Times of Israel": 4,
     "The Times of India": 2,
     "A News": 2,
     "Gulf News": 2,
@@ -15365,7 +15365,7 @@
     ],
     "Financial Times": [
      0,
-     65,
+     68,
      0
     ],
     "Spiegel": [
@@ -15725,7 +15725,7 @@
     ],
     "The Times of Israel": [
      0,
-     3,
+     4,
      0
     ],
     "The Times of India": [
@@ -15921,16 +15921,16 @@
    }
   },
   "2026-11-19": {
-   "total": 468,
-   "news": 458,
+   "total": 469,
+   "news": 459,
    "articles": 10,
    "positive": 0,
-   "neutral": 468,
+   "neutral": 469,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "GB": 143,
-    "SA": 29,
+    "SA": 30,
     "US": 80,
     "FR": 65,
     "HK": 3,
@@ -15940,7 +15940,7 @@
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
     "Reuters": 33,
-    "Arab News": 32,
+    "Arab News": 33,
     "The Guardian": 23,
     "Yemen Online": 3,
     "AP News": 15,
@@ -16060,7 +16060,7 @@
     ],
     "Arab News": [
      0,
-     32,
+     33,
      0
     ],
     "The Guardian": [
