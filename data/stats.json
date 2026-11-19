@@ -15921,15 +15921,15 @@
    }
   },
   "2026-11-19": {
-   "total": 85,
-   "news": 83,
+   "total": 87,
+   "news": 85,
    "articles": 2,
    "positive": 0,
-   "neutral": 85,
+   "neutral": 87,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "GB": 20,
+    "GB": 22,
     "SA": 3,
     "US": 15,
     "FR": 15,
@@ -15949,7 +15949,7 @@
     "South China Morning Post": 2,
     "Atlantic Council": 2,
     "WSJ": 1,
-    "Financial Times": 3,
+    "Financial Times": 5,
     "Belaaz": 1,
     "Middle East Eye": 4,
     "UA.NEWS": 1,
@@ -16034,7 +16034,7 @@
     ],
     "Financial Times": [
      0,
-     3,
+     5,
      0
     ],
     "Belaaz": [
