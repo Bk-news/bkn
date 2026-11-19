@@ -2,6 +2,27 @@
  "day": "2026-11-19",
  "items": [
   {
+   "id": "e4a00835ac319de7",
+   "origin": "rss",
+   "source": "Arab News",
+   "author": "",
+   "title_ar": "مسؤول روسي يقول إن الهجوم الثالث خلال أسبوع يوقف حركة المرور فوق جسر القرم",
+   "title_orig": "Third attack in a week suspends traffic over Crimean Bridge, Russian official says",
+   "title_en": "Third attack in a week suspends traffic over Crimean Bridge, Russian official says",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORERLRUYzMGJ6RWp1ZHRnSHBYdHVxRTZmOG9IWmRCNVE4Y2RKUWVaZFZvWmRhOVFzc3lHSzJRdXhQSkhEN3VSdEV1cFd0MThDQ2ZVOExhUkJKdTR0ZV9hLVhKWHRPZVg3dFVZdmxHV3gxOXRWNWNKWjR4WjZTY3dfYXlsSm1sZER6emZvdHczRDFPNlhRM0RoVlBrYjRUMERZN1ZuRE5xTllPOW1RVVpic1lFbjBNRGUwaEh6eg?oc=5",
+   "published": "2026-11-19T00:15:48.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "SA",
+   "pending": true,
+   "desc": "Third attack in a week suspends traffic over Crimean Bridge, Russian official says &nbsp;&nbsp; Arab News",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "c7c5f35dbdf4becb",
    "origin": "rss",
    "source": "Reuters",
