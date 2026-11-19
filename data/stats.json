@@ -15921,18 +15921,18 @@
    }
   },
   "2026-11-19": {
-   "total": 456,
-   "news": 446,
+   "total": 457,
+   "news": 447,
    "articles": 10,
    "positive": 0,
-   "neutral": 456,
+   "neutral": 457,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "GB": 140,
     "SA": 29,
     "US": 77,
-    "FR": 62,
+    "FR": 63,
     "HK": 3,
     "DE": 4
    },
@@ -15945,7 +15945,7 @@
     "Yemen Online": 3,
     "AP News": 15,
     "i24NEWS": 1,
-    "France 24": 59,
+    "France 24": 60,
     "Bloomberg": 2,
     "South China Morning Post": 3,
     "Atlantic Council": 4,
@@ -16084,7 +16084,7 @@
     ],
     "France 24": [
      0,
-     59,
+     60,
      0
     ],
     "Bloomberg": [
