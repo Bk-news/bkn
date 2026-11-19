@@ -15921,13 +15921,13 @@
    }
   },
   "2026-11-19": {
-   "total": 73,
-   "news": 71,
+   "total": 74,
+   "news": 72,
    "articles": 2,
    "positive": 0,
-   "neutral": 73,
+   "neutral": 74,
    "critical": 0,
-   "mbs": 5,
+   "mbs": 6,
    "countries": {
     "GB": 16,
     "SA": 2,
@@ -15937,7 +15937,7 @@
    },
    "topics": {},
    "sources": {
-    "Arabian Gulf Business Insight | AGBI": 1,
+    "Arabian Gulf Business Insight | AGBI": 2,
     "Reuters": 7,
     "Arab News": 4,
     "The Guardian": 7,
@@ -15971,7 +15971,7 @@
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
      0,
-     1,
+     2,
      0
     ],
     "Reuters": [
