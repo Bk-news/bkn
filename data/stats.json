@@ -15921,15 +15921,15 @@
    }
   },
   "2026-11-19": {
-   "total": 454,
-   "news": 444,
+   "total": 456,
+   "news": 446,
    "articles": 10,
    "positive": 0,
-   "neutral": 454,
+   "neutral": 456,
    "critical": 0,
    "mbs": 22,
    "countries": {
-    "GB": 139,
+    "GB": 140,
     "SA": 29,
     "US": 77,
     "FR": 62,
@@ -15950,7 +15950,7 @@
     "South China Morning Post": 3,
     "Atlantic Council": 4,
     "WSJ": 8,
-    "Financial Times": 55,
+    "Financial Times": 56,
     "Belaaz": 1,
     "Middle East Eye": 6,
     "UA.NEWS": 1,
@@ -15992,7 +15992,7 @@
     "Jerusalem Center for Security and Foreign Affairs": 1,
     "Daily Observer": 1,
     "India Today": 1,
-    "The AFC": 2,
+    "The AFC": 3,
     "سانا": 1,
     "وكالة سوا الإخبارية": 1,
     "Arab News PK": 1,
@@ -16109,7 +16109,7 @@
     ],
     "Financial Times": [
      0,
-     55,
+     56,
      0
     ],
     "Belaaz": [
@@ -16319,7 +16319,7 @@
     ],
     "The AFC": [
      0,
-     2,
+     3,
      0
     ],
     "سانا": [
