@@ -212,6 +212,27 @@
    "mt": true
   },
   {
+   "id": "7b235608428225f7",
+   "origin": "rss",
+   "source": "The Guardian",
+   "author": "",
+   "title_ar": "إسرائيل + الشرق الأوسط وشمال أفريقيا",
+   "title_orig": "Israel + Middle East and north Africa",
+   "title_en": "Israel + Middle East and north Africa",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zM2JzdHZvMGxQU2t4R2Z4bEhuTTVoVTZSTFFudGlzVV9KZXBUZTlMSmh6RVFoV24yaDN4MnpjakhLYjNCRjRUd09OM29lV2hNSTFkWUtOUUJTWGR1YWNPdA?oc=5",
+   "published": "2026-11-19T04:39:25.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "Israel + Middle East and north Africa &nbsp;&nbsp; The Guardian",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "82598d6b44e0e768",
    "origin": "rss",
    "source": "Al-Monitor",
