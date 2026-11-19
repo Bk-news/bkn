@@ -15921,16 +15921,16 @@
    }
   },
   "2026-11-19": {
-   "total": 451,
-   "news": 441,
+   "total": 454,
+   "news": 444,
    "articles": 10,
    "positive": 0,
-   "neutral": 451,
+   "neutral": 454,
    "critical": 0,
    "mbs": 22,
    "countries": {
-    "GB": 138,
-    "SA": 28,
+    "GB": 139,
+    "SA": 29,
     "US": 77,
     "FR": 62,
     "HK": 3,
@@ -15939,8 +15939,8 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Reuters": 32,
-    "Arab News": 31,
+    "Reuters": 33,
+    "Arab News": 32,
     "The Guardian": 23,
     "Yemen Online": 3,
     "AP News": 15,
@@ -16043,7 +16043,8 @@
     "TRT World": 1,
     "The Korea Times": 1,
     "US Muslims": 1,
-    "Kurdistan24": 1
+    "Kurdistan24": 1,
+    "Newsweek Rankings": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -16053,12 +16054,12 @@
     ],
     "Reuters": [
      0,
-     32,
+     33,
      0
     ],
     "Arab News": [
      0,
-     31,
+     32,
      0
     ],
     "The Guardian": [
@@ -16572,6 +16573,11 @@
      0
     ],
     "Kurdistan24": [
+     0,
+     1,
+     0
+    ],
+    "Newsweek Rankings": [
      0,
      1,
      0
