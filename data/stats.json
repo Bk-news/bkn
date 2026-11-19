@@ -14496,17 +14496,17 @@
    }
   },
   "2026-11-17": {
-   "total": 712,
-   "news": 694,
+   "total": 716,
+   "news": 698,
    "articles": 18,
    "positive": 0,
-   "neutral": 712,
+   "neutral": 716,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "US": 112,
     "FR": 17,
-    "GB": 307,
+    "GB": 311,
     "SA": 82,
     "DE": 4,
     "HK": 5
@@ -14520,7 +14520,7 @@
     "Reuters": 134,
     "Jagran Josh": 1,
     "AP News": 21,
-    "BBC": 32,
+    "BBC": 36,
     "The Guardian": 117,
     "Bloomberg.com": 12,
     "Foreign Affairs": 2,
@@ -14652,7 +14652,7 @@
     ],
     "BBC": [
      0,
-     32,
+     36,
      0
     ],
     "The Guardian": [
@@ -15118,15 +15118,15 @@
    }
   },
   "2026-11-18": {
-   "total": 751,
-   "news": 734,
+   "total": 757,
+   "news": 740,
    "articles": 17,
    "positive": 0,
-   "neutral": 751,
+   "neutral": 757,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "GB": 338,
+    "GB": 344,
     "SA": 73,
     "US": 127,
     "FR": 25,
@@ -15158,7 +15158,7 @@
     "Financial Times": 65,
     "Spiegel": 5,
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1,
-    "BBC": 58,
+    "BBC": 64,
     "The National Law Review": 1,
     "خبرگزاری بین المللی قرآن": 1,
     "Middle East Monitor": 1,
@@ -15380,7 +15380,7 @@
     ],
     "BBC": [
      0,
-     58,
+     64,
      0
     ],
     "The National Law Review": [
@@ -15921,17 +15921,17 @@
    }
   },
   "2026-11-19": {
-   "total": 464,
-   "news": 454,
+   "total": 466,
+   "news": 456,
    "articles": 10,
    "positive": 0,
-   "neutral": 464,
+   "neutral": 466,
    "critical": 0,
    "mbs": 22,
    "countries": {
-    "GB": 142,
+    "GB": 143,
     "SA": 29,
-    "US": 79,
+    "US": 80,
     "FR": 63,
     "HK": 3,
     "DE": 4
@@ -15969,12 +15969,12 @@
     "National Herald": 1,
     "The Daily Star": 1,
     "www.jordannews.jo": 1,
-    "The New York Times": 14,
+    "The New York Times": 15,
     "Breakingthenews.net": 1,
     "The Independent": 2,
     "تسنیم": 1,
     "Bloomberg.com": 15,
-    "BBC": 28,
+    "BBC": 29,
     "Spiegel": 4,
     "The Washington Post": 3,
     "ASHARQ AL-AWSAT English": 2,
@@ -16205,7 +16205,7 @@
     ],
     "The New York Times": [
      0,
-     14,
+     15,
      0
     ],
     "Breakingthenews.net": [
@@ -16230,7 +16230,7 @@
     ],
     "BBC": [
      0,
-     28,
+     29,
      0
     ],
     "Spiegel": [
