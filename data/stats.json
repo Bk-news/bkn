@@ -14496,17 +14496,17 @@
    }
   },
   "2026-11-17": {
-   "total": 671,
-   "news": 653,
+   "total": 697,
+   "news": 679,
    "articles": 18,
    "positive": 0,
-   "neutral": 671,
+   "neutral": 697,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "US": 107,
+    "US": 112,
     "FR": 17,
-    "GB": 273,
+    "GB": 294,
     "SA": 80,
     "DE": 4,
     "HK": 5
@@ -14514,19 +14514,19 @@
    "topics": {},
    "sources": {
     "日本取引所グループ": 33,
-    "The Washington Post": 9,
+    "The Washington Post": 10,
     "The New York Times": 17,
     "Le Monde.fr": 7,
-    "Reuters": 131,
+    "Reuters": 132,
     "Jagran Josh": 1,
-    "AP News": 19,
-    "BBC": 12,
-    "The Guardian": 113,
+    "AP News": 21,
+    "BBC": 31,
+    "The Guardian": 114,
     "Bloomberg.com": 12,
     "Foreign Affairs": 2,
     "Arab News": 79,
     "Al-Monitor": 35,
-    "WSJ": 6,
+    "WSJ": 8,
     "Financial Times": 14,
     "Spiegel": 4,
     "South China Morning Post": 6,
@@ -14622,7 +14622,7 @@
     ],
     "The Washington Post": [
      0,
-     9,
+     10,
      0
     ],
     "The New York Times": [
@@ -14637,7 +14637,7 @@
     ],
     "Reuters": [
      0,
-     131,
+     132,
      0
     ],
     "Jagran Josh": [
@@ -14647,17 +14647,17 @@
     ],
     "AP News": [
      0,
-     19,
+     21,
      0
     ],
     "BBC": [
      0,
-     12,
+     31,
      0
     ],
     "The Guardian": [
      0,
-     113,
+     114,
      0
     ],
     "Bloomberg.com": [
@@ -14682,7 +14682,7 @@
     ],
     "WSJ": [
      0,
-     6,
+     8,
      0
     ],
     "Financial Times": [
@@ -15118,15 +15118,15 @@
    }
   },
   "2026-11-18": {
-   "total": 693,
-   "news": 676,
+   "total": 694,
+   "news": 677,
    "articles": 17,
    "positive": 0,
-   "neutral": 693,
+   "neutral": 694,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "GB": 288,
+    "GB": 289,
     "SA": 67,
     "US": 126,
     "FR": 25,
@@ -15158,7 +15158,7 @@
     "Financial Times": 23,
     "Spiegel": 5,
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1,
-    "BBC": 56,
+    "BBC": 57,
     "The National Law Review": 1,
     "خبرگزاری بین المللی قرآن": 1,
     "Middle East Monitor": 1,
@@ -15380,7 +15380,7 @@
     ],
     "BBC": [
      0,
-     56,
+     57,
      0
     ],
     "The National Law Review": [
@@ -15921,20 +15921,20 @@
    }
   },
   "2026-11-19": {
-   "total": 366,
-   "news": 362,
+   "total": 368,
+   "news": 364,
    "articles": 4,
    "positive": 0,
-   "neutral": 366,
+   "neutral": 368,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "GB": 87,
     "SA": 21,
-    "US": 74,
+    "US": 75,
     "FR": 61,
     "HK": 3,
-    "DE": 3
+    "DE": 4
    },
    "topics": {},
    "sources": {
@@ -15943,7 +15943,7 @@
     "Arab News": 24,
     "The Guardian": 21,
     "Yemen Online": 3,
-    "AP News": 14,
+    "AP News": 15,
     "i24NEWS": 1,
     "France 24": 59,
     "Bloomberg": 2,
@@ -15975,7 +15975,7 @@
     "تسنیم": 1,
     "Bloomberg.com": 14,
     "BBC": 23,
-    "Spiegel": 3,
+    "Spiegel": 4,
     "The Washington Post": 3,
     "ASHARQ AL-AWSAT English": 1,
     "Le Monde.fr": 3,
@@ -16063,7 +16063,7 @@
     ],
     "AP News": [
      0,
-     14,
+     15,
      0
     ],
     "i24NEWS": [
@@ -16223,7 +16223,7 @@
     ],
     "Spiegel": [
      0,
-     3,
+     4,
      0
     ],
     "The Washington Post": [
