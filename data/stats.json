@@ -15921,16 +15921,16 @@
    }
   },
   "2026-11-19": {
-   "total": 804,
-   "news": 780,
+   "total": 806,
+   "news": 782,
    "articles": 24,
    "positive": 0,
-   "neutral": 804,
+   "neutral": 806,
    "critical": 0,
    "mbs": 23,
    "countries": {
     "GB": 271,
-    "SA": 87,
+    "SA": 88,
     "US": 124,
     "FR": 102,
     "HK": 3,
@@ -15940,7 +15940,7 @@
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
     "Reuters": 62,
-    "Arab News": 67,
+    "Arab News": 68,
     "The Guardian": 26,
     "Yemen Online": 3,
     "AP News": 19,
@@ -16075,7 +16075,8 @@
     "شبكة يافا الإخبارية": 1,
     "WIVT - News 34": 1,
     "The Korea Herald": 1,
-    "Horseed Media": 1
+    "Horseed Media": 1,
+    "The New Indian Express": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -16090,7 +16091,7 @@
     ],
     "Arab News": [
      0,
-     67,
+     68,
      0
     ],
     "The Guardian": [
@@ -16764,6 +16765,11 @@
      0
     ],
     "Horseed Media": [
+     0,
+     1,
+     0
+    ],
+    "The New Indian Express": [
      0,
      1,
      0
