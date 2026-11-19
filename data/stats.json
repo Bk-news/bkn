@@ -15118,11 +15118,11 @@
    }
   },
   "2026-11-18": {
-   "total": 553,
-   "news": 536,
+   "total": 556,
+   "news": 539,
    "articles": 17,
    "positive": 0,
-   "neutral": 553,
+   "neutral": 556,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -15202,7 +15202,7 @@
     "24/7 Wall St.": 1,
     "The Straits Times": 2,
     "Time Magazine": 1,
-    "Türkiye Today": 1,
+    "Türkiye Today": 2,
     "The New Arab": 1,
     "Fortune": 1,
     "Sports Illustrated": 1,
@@ -15262,7 +15262,9 @@
     "صحيفة سبق الإلكترونية": 1,
     "联合早报": 1,
     "Le Monde Evénements Abonnés": 3,
-    "Daily Racing Form": 1
+    "Daily Racing Form": 1,
+    "Hindustan Times": 1,
+    "ECOticias.com - El Periódico Verde": 1
    },
    "sourceTone": {
     "The Guardian": [
@@ -15597,7 +15599,7 @@
     ],
     "Türkiye Today": [
      0,
-     1,
+     2,
      0
     ],
     "The New Arab": [
@@ -15896,6 +15898,16 @@
      0
     ],
     "Daily Racing Form": [
+     0,
+     1,
+     0
+    ],
+    "Hindustan Times": [
+     0,
+     1,
+     0
+    ],
+    "ECOticias.com - El Periódico Verde": [
      0,
      1,
      0
