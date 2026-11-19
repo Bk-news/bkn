@@ -15921,13 +15921,13 @@
    }
   },
   "2026-11-19": {
-   "total": 82,
-   "news": 80,
+   "total": 83,
+   "news": 81,
    "articles": 2,
    "positive": 0,
-   "neutral": 82,
+   "neutral": 83,
    "critical": 0,
-   "mbs": 6,
+   "mbs": 7,
    "countries": {
     "GB": 19,
     "SA": 2,
@@ -15968,7 +15968,8 @@
     "National Herald": 1,
     "The Daily Star": 1,
     "www.jordannews.jo": 1,
-    "The New York Times": 2
+    "The New York Times": 2,
+    "Breakingthenews.net": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -16129,6 +16130,11 @@
     "The New York Times": [
      0,
      2,
+     0
+    ],
+    "Breakingthenews.net": [
+     0,
+     1,
      0
     ]
    }
