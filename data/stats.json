@@ -15921,18 +15921,18 @@
    }
   },
   "2026-11-19": {
-   "total": 806,
-   "news": 782,
+   "total": 813,
+   "news": 789,
    "articles": 24,
    "positive": 0,
-   "neutral": 806,
+   "neutral": 813,
    "critical": 0,
    "mbs": 23,
    "countries": {
-    "GB": 271,
-    "SA": 88,
-    "US": 124,
-    "FR": 102,
+    "GB": 272,
+    "SA": 89,
+    "US": 127,
+    "FR": 103,
     "HK": 3,
     "DE": 4
    },
@@ -15943,13 +15943,13 @@
     "Arab News": 68,
     "The Guardian": 26,
     "Yemen Online": 3,
-    "AP News": 19,
+    "AP News": 21,
     "i24NEWS": 1,
-    "France 24": 94,
+    "France 24": 95,
     "Bloomberg": 2,
     "South China Morning Post": 3,
     "Atlantic Council": 12,
-    "WSJ": 17,
+    "WSJ": 18,
     "Financial Times": 83,
     "Belaaz": 1,
     "Middle East Eye": 9,
@@ -15974,14 +15974,14 @@
     "The Independent": 2,
     "تسنیم": 1,
     "Bloomberg.com": 19,
-    "BBC": 95,
+    "BBC": 96,
     "Spiegel": 4,
     "The Washington Post": 4,
     "ASHARQ AL-AWSAT English": 3,
     "Le Monde.fr": 9,
     "The Economist": 10,
     "CNN": 3,
-    "Saudi Gazette": 32,
+    "Saudi Gazette": 33,
     "News of Bahrain": 1,
     "UkrMedia News": 1,
     "https://houseofsaud.com/": 3,
@@ -16058,7 +16058,7 @@
     "Middle East Monitor": 2,
     "Fox News": 1,
     "Business Insider Africa": 1,
-    "وكالة الأنباء السعودية": 1,
+    "وكالة الأنباء السعودية": 2,
     "Atalayar": 1,
     "Diario AS": 1,
     "Goal.com": 3,
@@ -16106,7 +16106,7 @@
     ],
     "AP News": [
      0,
-     19,
+     21,
      0
     ],
     "i24NEWS": [
@@ -16116,7 +16116,7 @@
     ],
     "France 24": [
      0,
-     94,
+     95,
      0
     ],
     "Bloomberg": [
@@ -16136,7 +16136,7 @@
     ],
     "WSJ": [
      0,
-     17,
+     18,
      0
     ],
     "Financial Times": [
@@ -16261,7 +16261,7 @@
     ],
     "BBC": [
      0,
-     95,
+     96,
      0
     ],
     "Spiegel": [
@@ -16296,7 +16296,7 @@
     ],
     "Saudi Gazette": [
      0,
-     32,
+     33,
      0
     ],
     "News of Bahrain": [
@@ -16681,7 +16681,7 @@
     ],
     "وكالة الأنباء السعودية": [
      0,
-     1,
+     2,
      0
     ],
     "Atalayar": [
