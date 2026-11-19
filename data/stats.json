@@ -14496,17 +14496,17 @@
    }
   },
   "2026-11-17": {
-   "total": 660,
-   "news": 642,
+   "total": 661,
+   "news": 643,
    "articles": 18,
    "positive": 0,
-   "neutral": 660,
+   "neutral": 661,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "US": 106,
     "FR": 17,
-    "GB": 265,
+    "GB": 266,
     "SA": 78,
     "DE": 4,
     "HK": 5
@@ -14517,7 +14517,7 @@
     "The Washington Post": 9,
     "The New York Times": 17,
     "Le Monde.fr": 7,
-    "Reuters": 126,
+    "Reuters": 127,
     "Jagran Josh": 1,
     "AP News": 19,
     "BBC": 12,
@@ -14637,7 +14637,7 @@
     ],
     "Reuters": [
      0,
-     126,
+     127,
      0
     ],
     "Jagran Josh": [
@@ -15921,11 +15921,11 @@
    }
   },
   "2026-11-19": {
-   "total": 91,
-   "news": 89,
+   "total": 92,
+   "news": 90,
    "articles": 2,
    "positive": 0,
-   "neutral": 91,
+   "neutral": 92,
    "critical": 0,
    "mbs": 7,
    "countries": {
@@ -15969,7 +15969,8 @@
     "The Daily Star": 1,
     "www.jordannews.jo": 1,
     "The New York Times": 3,
-    "Breakingthenews.net": 1
+    "Breakingthenews.net": 1,
+    "The Independent": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -16133,6 +16134,11 @@
      0
     ],
     "Breakingthenews.net": [
+     0,
+     1,
+     0
+    ],
+    "The Independent": [
      0,
      1,
      0
