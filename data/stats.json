@@ -14496,17 +14496,17 @@
    }
   },
   "2026-11-17": {
-   "total": 705,
-   "news": 687,
+   "total": 706,
+   "news": 688,
    "articles": 18,
    "positive": 0,
-   "neutral": 705,
+   "neutral": 706,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "US": 112,
     "FR": 17,
-    "GB": 302,
+    "GB": 303,
     "SA": 80,
     "DE": 4,
     "HK": 5
@@ -14520,7 +14520,7 @@
     "Reuters": 133,
     "Jagran Josh": 1,
     "AP News": 21,
-    "BBC": 31,
+    "BBC": 32,
     "The Guardian": 117,
     "Bloomberg.com": 12,
     "Foreign Affairs": 2,
@@ -14652,7 +14652,7 @@
     ],
     "BBC": [
      0,
-     31,
+     32,
      0
     ],
     "The Guardian": [
@@ -15118,15 +15118,15 @@
    }
   },
   "2026-11-18": {
-   "total": 725,
-   "news": 708,
+   "total": 726,
+   "news": 709,
    "articles": 17,
    "positive": 0,
-   "neutral": 725,
+   "neutral": 726,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "GB": 318,
+    "GB": 319,
     "SA": 67,
     "US": 127,
     "FR": 25,
@@ -15146,7 +15146,7 @@
     "AP News": 29,
     "WSJ": 9,
     "Science Daily": 1,
-    "Reuters": 106,
+    "Reuters": 107,
     "BigGo Finance": 1,
     "Yahoo Sports": 3,
     "intlbm": 1,
@@ -15320,7 +15320,7 @@
     ],
     "Reuters": [
      0,
-     106,
+     107,
      0
     ],
     "BigGo Finance": [
@@ -15921,16 +15921,16 @@
    }
   },
   "2026-11-19": {
-   "total": 438,
-   "news": 428,
+   "total": 440,
+   "news": 430,
    "articles": 10,
    "positive": 0,
-   "neutral": 438,
+   "neutral": 440,
    "critical": 0,
    "mbs": 22,
    "countries": {
-    "GB": 132,
-    "SA": 22,
+    "GB": 133,
+    "SA": 23,
     "US": 77,
     "FR": 62,
     "HK": 3,
@@ -15940,7 +15940,7 @@
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
     "Reuters": 31,
-    "Arab News": 25,
+    "Arab News": 26,
     "The Guardian": 23,
     "Yemen Online": 3,
     "AP News": 15,
@@ -15974,7 +15974,7 @@
     "The Independent": 2,
     "تسنیم": 1,
     "Bloomberg.com": 14,
-    "BBC": 23,
+    "BBC": 24,
     "Spiegel": 4,
     "The Washington Post": 3,
     "ASHARQ AL-AWSAT English": 2,
@@ -16058,7 +16058,7 @@
     ],
     "Arab News": [
      0,
-     25,
+     26,
      0
     ],
     "The Guardian": [
@@ -16228,7 +16228,7 @@
     ],
     "BBC": [
      0,
-     23,
+     24,
      0
     ],
     "Spiegel": [
