@@ -15118,17 +15118,17 @@
    }
   },
   "2026-11-18": {
-   "total": 600,
-   "news": 583,
+   "total": 601,
+   "news": 584,
    "articles": 17,
    "positive": 0,
-   "neutral": 600,
+   "neutral": 601,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "GB": 215,
     "SA": 60,
-    "US": 118,
+    "US": 119,
     "FR": 20,
     "HK": 6,
     "DE": 5,
@@ -15264,7 +15264,8 @@
     "Le Monde Evénements Abonnés": 3,
     "Daily Racing Form": 1,
     "Hindustan Times": 1,
-    "ECOticias.com - El Periódico Verde": 1
+    "ECOticias.com - El Periódico Verde": 1,
+    "Bloomberg": 1
    },
    "sourceTone": {
     "The Guardian": [
@@ -15911,19 +15912,24 @@
      0,
      1,
      0
+    ],
+    "Bloomberg": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-19": {
-   "total": 69,
-   "news": 67,
+   "total": 72,
+   "news": 70,
    "articles": 2,
    "positive": 0,
-   "neutral": 69,
+   "neutral": 72,
    "critical": 0,
    "mbs": 5,
    "countries": {
-    "GB": 14,
+    "GB": 15,
     "SA": 2,
     "US": 11,
     "FR": 15,
@@ -15934,7 +15940,7 @@
     "Arabian Gulf Business Insight | AGBI": 1,
     "Reuters": 6,
     "Arab News": 4,
-    "The Guardian": 6,
+    "The Guardian": 7,
     "Yemen Online": 2,
     "AP News": 6,
     "i24NEWS": 1,
@@ -15958,7 +15964,9 @@
     "Al-Monitor": 1,
     "Critical Threats": 1,
     "DNE Africa": 1,
-    "Wamda": 1
+    "Wamda": 1,
+    "National Herald": 1,
+    "The Daily Star": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -15978,7 +15986,7 @@
     ],
     "The Guardian": [
      0,
-     6,
+     7,
      0
     ],
     "Yemen Online": [
@@ -16097,6 +16105,16 @@
      0
     ],
     "Wamda": [
+     0,
+     1,
+     0
+    ],
+    "National Herald": [
+     0,
+     1,
+     0
+    ],
+    "The Daily Star": [
      0,
      1,
      0
