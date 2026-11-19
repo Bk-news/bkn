@@ -15118,17 +15118,17 @@
    }
   },
   "2026-11-18": {
-   "total": 720,
-   "news": 703,
+   "total": 721,
+   "news": 704,
    "articles": 17,
    "positive": 0,
-   "neutral": 720,
+   "neutral": 721,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "GB": 315,
     "SA": 67,
-    "US": 126,
+    "US": 127,
     "FR": 25,
     "HK": 6,
     "DE": 5,
@@ -15196,7 +15196,7 @@
     "StreetInsider": 1,
     "Arabian Business": 1,
     "NDTV": 2,
-    "CNN": 1,
+    "CNN": 2,
     "The Hindu": 1,
     "Atlantic Council": 7,
     "24/7 Wall St.": 1,
@@ -15570,7 +15570,7 @@
     ],
     "CNN": [
      0,
-     1,
+     2,
      0
     ],
     "The Hindu": [
@@ -15921,17 +15921,17 @@
    }
   },
   "2026-11-19": {
-   "total": 419,
+   "total": 420,
    "news": 410,
-   "articles": 9,
+   "articles": 10,
    "positive": 0,
-   "neutral": 419,
+   "neutral": 420,
    "critical": 0,
    "mbs": 22,
    "countries": {
     "GB": 129,
     "SA": 21,
-    "US": 76,
+    "US": 77,
     "FR": 62,
     "HK": 3,
     "DE": 4
@@ -15948,7 +15948,7 @@
     "France 24": 59,
     "Bloomberg": 2,
     "South China Morning Post": 3,
-    "Atlantic Council": 3,
+    "Atlantic Council": 4,
     "WSJ": 8,
     "Financial Times": 50,
     "Belaaz": 1,
@@ -16091,7 +16091,7 @@
     ],
     "Atlantic Council": [
      0,
-     3,
+     4,
      0
     ],
     "WSJ": [
