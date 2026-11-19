@@ -14496,17 +14496,17 @@
    }
   },
   "2026-11-17": {
-   "total": 718,
-   "news": 700,
-   "articles": 18,
+   "total": 721,
+   "news": 702,
+   "articles": 19,
    "positive": 0,
-   "neutral": 718,
+   "neutral": 721,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "US": 113,
+    "US": 115,
     "FR": 17,
-    "GB": 312,
+    "GB": 313,
     "SA": 82,
     "DE": 4,
     "HK": 5
@@ -14514,7 +14514,7 @@
    "topics": {},
    "sources": {
     "日本取引所グループ": 33,
-    "The Washington Post": 10,
+    "The Washington Post": 11,
     "The New York Times": 17,
     "Le Monde.fr": 7,
     "Reuters": 134,
@@ -14525,13 +14525,13 @@
     "Bloomberg.com": 12,
     "Foreign Affairs": 2,
     "Arab News": 81,
-    "Al-Monitor": 35,
+    "Al-Monitor": 36,
     "WSJ": 8,
     "Financial Times": 22,
     "Spiegel": 4,
     "South China Morning Post": 6,
     "Foreign Policy": 2,
-    "The Economist": 6,
+    "The Economist": 7,
     "Britannica": 1,
     "Wamda": 1,
     "Fast Company Middle East": 2,
@@ -14622,7 +14622,7 @@
     ],
     "The Washington Post": [
      0,
-     10,
+     11,
      0
     ],
     "The New York Times": [
@@ -14677,7 +14677,7 @@
     ],
     "Al-Monitor": [
      0,
-     35,
+     36,
      0
     ],
     "WSJ": [
@@ -14707,7 +14707,7 @@
     ],
     "The Economist": [
      0,
-     6,
+     7,
      0
     ],
     "Britannica": [
@@ -15118,15 +15118,15 @@
    }
   },
   "2026-11-18": {
-   "total": 766,
-   "news": 749,
+   "total": 767,
+   "news": 750,
    "articles": 17,
    "positive": 0,
-   "neutral": 766,
+   "neutral": 767,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "GB": 347,
+    "GB": 348,
     "SA": 73,
     "US": 130,
     "FR": 26,
@@ -15136,7 +15136,7 @@
    },
    "topics": {},
    "sources": {
-    "The Guardian": 100,
+    "The Guardian": 101,
     "Arab News": 84,
     "The Washington Post": 7,
     "Al-Monitor": 38,
@@ -15270,7 +15270,7 @@
    "sourceTone": {
     "The Guardian": [
      0,
-     100,
+     101,
      0
     ],
     "Arab News": [
@@ -15921,36 +15921,36 @@
    }
   },
   "2026-11-19": {
-   "total": 626,
-   "news": 603,
+   "total": 662,
+   "news": 639,
    "articles": 23,
    "positive": 0,
-   "neutral": 626,
+   "neutral": 662,
    "critical": 0,
    "mbs": 23,
    "countries": {
-    "GB": 192,
-    "SA": 59,
-    "US": 119,
-    "FR": 87,
+    "GB": 206,
+    "SA": 69,
+    "US": 121,
+    "FR": 92,
     "HK": 3,
     "DE": 4
    },
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Reuters": 49,
-    "Arab News": 51,
+    "Reuters": 53,
+    "Arab News": 56,
     "The Guardian": 26,
     "Yemen Online": 3,
     "AP News": 18,
     "i24NEWS": 1,
-    "France 24": 79,
+    "France 24": 84,
     "Bloomberg": 2,
     "South China Morning Post": 3,
     "Atlantic Council": 12,
-    "WSJ": 15,
-    "Financial Times": 71,
+    "WSJ": 16,
+    "Financial Times": 76,
     "Belaaz": 1,
     "Middle East Eye": 7,
     "UA.NEWS": 1,
@@ -15961,7 +15961,7 @@
     "Anadolu Ajansı": 4,
     "Crypto Briefing": 2,
     "Chosunbiz": 1,
-    "Mezha.net": 1,
+    "Mezha.net": 2,
     "Al-Monitor": 29,
     "Critical Threats": 1,
     "DNE Africa": 1,
@@ -15969,19 +15969,19 @@
     "National Herald": 1,
     "The Daily Star": 1,
     "www.jordannews.jo": 1,
-    "The New York Times": 20,
+    "The New York Times": 21,
     "Breakingthenews.net": 1,
     "The Independent": 2,
     "تسنیم": 1,
     "Bloomberg.com": 18,
-    "BBC": 42,
+    "BBC": 47,
     "Spiegel": 4,
     "The Washington Post": 4,
     "ASHARQ AL-AWSAT English": 3,
     "Le Monde.fr": 9,
     "The Economist": 9,
     "CNN": 3,
-    "Saudi Gazette": 18,
+    "Saudi Gazette": 23,
     "News of Bahrain": 1,
     "UkrMedia News": 1,
     "https://houseofsaud.com/": 2,
@@ -16049,12 +16049,13 @@
     "Foreign Policy": 1,
     "Foreign Affairs": 1,
     "BigGo Finance": 1,
-    "Nacionale": 1,
+    "Nacionale": 2,
     "Dave.Sport": 1,
-    "Arabian Business": 1,
+    "Arabian Business": 2,
     "Iran International": 1,
     "EnergyNow.com": 1,
-    "news.sbs.co.kr": 1
+    "news.sbs.co.kr": 1,
+    "Middle East Monitor": 2
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -16064,12 +16065,12 @@
     ],
     "Reuters": [
      0,
-     49,
+     53,
      0
     ],
     "Arab News": [
      0,
-     51,
+     56,
      0
     ],
     "The Guardian": [
@@ -16094,7 +16095,7 @@
     ],
     "France 24": [
      0,
-     79,
+     84,
      0
     ],
     "Bloomberg": [
@@ -16114,12 +16115,12 @@
     ],
     "WSJ": [
      0,
-     15,
+     16,
      0
     ],
     "Financial Times": [
      0,
-     71,
+     76,
      0
     ],
     "Belaaz": [
@@ -16174,7 +16175,7 @@
     ],
     "Mezha.net": [
      0,
-     1,
+     2,
      0
     ],
     "Al-Monitor": [
@@ -16214,7 +16215,7 @@
     ],
     "The New York Times": [
      0,
-     20,
+     21,
      0
     ],
     "Breakingthenews.net": [
@@ -16239,7 +16240,7 @@
     ],
     "BBC": [
      0,
-     42,
+     47,
      0
     ],
     "Spiegel": [
@@ -16274,7 +16275,7 @@
     ],
     "Saudi Gazette": [
      0,
-     18,
+     23,
      0
     ],
     "News of Bahrain": [
@@ -16614,7 +16615,7 @@
     ],
     "Nacionale": [
      0,
-     1,
+     2,
      0
     ],
     "Dave.Sport": [
@@ -16624,7 +16625,7 @@
     ],
     "Arabian Business": [
      0,
-     1,
+     2,
      0
     ],
     "Iran International": [
@@ -16640,6 +16641,11 @@
     "news.sbs.co.kr": [
      0,
      1,
+     0
+    ],
+    "Middle East Monitor": [
+     0,
+     2,
      0
     ]
    }
