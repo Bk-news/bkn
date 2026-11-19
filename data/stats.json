@@ -14496,17 +14496,17 @@
    }
   },
   "2026-11-17": {
-   "total": 697,
-   "news": 679,
+   "total": 698,
+   "news": 680,
    "articles": 18,
    "positive": 0,
-   "neutral": 697,
+   "neutral": 698,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "US": 112,
     "FR": 17,
-    "GB": 294,
+    "GB": 295,
     "SA": 80,
     "DE": 4,
     "HK": 5
@@ -14521,7 +14521,7 @@
     "Jagran Josh": 1,
     "AP News": 21,
     "BBC": 31,
-    "The Guardian": 114,
+    "The Guardian": 115,
     "Bloomberg.com": 12,
     "Foreign Affairs": 2,
     "Arab News": 79,
@@ -14657,7 +14657,7 @@
     ],
     "The Guardian": [
      0,
-     114,
+     115,
      0
     ],
     "Bloomberg.com": [
@@ -15921,13 +15921,13 @@
    }
   },
   "2026-11-19": {
-   "total": 368,
-   "news": 364,
+   "total": 369,
+   "news": 365,
    "articles": 4,
    "positive": 0,
-   "neutral": 368,
+   "neutral": 369,
    "critical": 0,
-   "mbs": 20,
+   "mbs": 21,
    "countries": {
     "GB": 87,
     "SA": 21,
@@ -16033,7 +16033,8 @@
     "Railway PRO": 1,
     "Al Arabiya English": 2,
     "Jordan News": 1,
-    "MEED": 1
+    "MEED": 1,
+    "sanad.uk": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -16512,6 +16513,11 @@
      0
     ],
     "MEED": [
+     0,
+     1,
+     0
+    ],
+    "sanad.uk": [
      0,
      1,
      0
