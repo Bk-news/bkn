@@ -15921,11 +15921,11 @@
    }
   },
   "2026-11-19": {
-   "total": 825,
-   "news": 801,
+   "total": 826,
+   "news": 802,
    "articles": 24,
    "positive": 0,
-   "neutral": 825,
+   "neutral": 826,
    "critical": 0,
    "mbs": 23,
    "countries": {
@@ -16077,7 +16077,8 @@
     "The Korea Herald": 1,
     "Horseed Media": 1,
     "The New Indian Express": 1,
-    "Sahara Reporters": 1
+    "Sahara Reporters": 1,
+    "Sky News": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -16776,6 +16777,11 @@
      0
     ],
     "Sahara Reporters": [
+     0,
+     1,
+     0
+    ],
+    "Sky News": [
      0,
      1,
      0
