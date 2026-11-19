@@ -14496,17 +14496,17 @@
    }
   },
   "2026-11-17": {
-   "total": 710,
-   "news": 692,
+   "total": 712,
+   "news": 694,
    "articles": 18,
    "positive": 0,
-   "neutral": 710,
+   "neutral": 712,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "US": 112,
     "FR": 17,
-    "GB": 305,
+    "GB": 307,
     "SA": 82,
     "DE": 4,
     "HK": 5
@@ -14527,7 +14527,7 @@
     "Arab News": 81,
     "Al-Monitor": 35,
     "WSJ": 8,
-    "Financial Times": 19,
+    "Financial Times": 21,
     "Spiegel": 4,
     "South China Morning Post": 6,
     "Foreign Policy": 2,
@@ -14687,7 +14687,7 @@
     ],
     "Financial Times": [
      0,
-     19,
+     21,
      0
     ],
     "Spiegel": [
@@ -15921,17 +15921,17 @@
    }
   },
   "2026-11-19": {
-   "total": 458,
-   "news": 448,
+   "total": 462,
+   "news": 452,
    "articles": 10,
    "positive": 0,
-   "neutral": 458,
+   "neutral": 462,
    "critical": 0,
    "mbs": 22,
    "countries": {
-    "GB": 140,
+    "GB": 142,
     "SA": 29,
-    "US": 77,
+    "US": 78,
     "FR": 63,
     "HK": 3,
     "DE": 4
@@ -15950,7 +15950,7 @@
     "South China Morning Post": 3,
     "Atlantic Council": 4,
     "WSJ": 8,
-    "Financial Times": 56,
+    "Financial Times": 57,
     "Belaaz": 1,
     "Middle East Eye": 6,
     "UA.NEWS": 1,
@@ -15973,8 +15973,8 @@
     "Breakingthenews.net": 1,
     "The Independent": 2,
     "تسنیم": 1,
-    "Bloomberg.com": 14,
-    "BBC": 27,
+    "Bloomberg.com": 15,
+    "BBC": 28,
     "Spiegel": 4,
     "The Washington Post": 3,
     "ASHARQ AL-AWSAT English": 2,
@@ -16044,7 +16044,8 @@
     "The Korea Times": 1,
     "US Muslims": 1,
     "Kurdistan24": 1,
-    "Newsweek Rankings": 1
+    "Newsweek Rankings": 1,
+    "The Africa Report": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -16109,7 +16110,7 @@
     ],
     "Financial Times": [
      0,
-     56,
+     57,
      0
     ],
     "Belaaz": [
@@ -16224,12 +16225,12 @@
     ],
     "Bloomberg.com": [
      0,
-     14,
+     15,
      0
     ],
     "BBC": [
      0,
-     27,
+     28,
      0
     ],
     "Spiegel": [
@@ -16578,6 +16579,11 @@
      0
     ],
     "Newsweek Rankings": [
+     0,
+     1,
+     0
+    ],
+    "The Africa Report": [
      0,
      1,
      0
