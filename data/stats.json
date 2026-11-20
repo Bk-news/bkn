@@ -15921,36 +15921,36 @@
    }
   },
   "2026-11-19": {
-   "total": 830,
-   "news": 806,
-   "articles": 24,
+   "total": 850,
+   "news": 823,
+   "articles": 27,
    "positive": 0,
-   "neutral": 830,
+   "neutral": 850,
    "critical": 0,
-   "mbs": 23,
+   "mbs": 25,
    "countries": {
-    "GB": 279,
-    "SA": 90,
-    "US": 131,
+    "GB": 286,
+    "SA": 93,
+    "US": 138,
     "FR": 103,
-    "HK": 3,
+    "HK": 4,
     "DE": 5
    },
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Reuters": 64,
-    "Arab News": 69,
+    "Reuters": 67,
+    "Arab News": 71,
     "The Guardian": 26,
     "Yemen Online": 3,
-    "AP News": 22,
+    "AP News": 24,
     "i24NEWS": 1,
     "France 24": 95,
     "Bloomberg": 2,
-    "South China Morning Post": 3,
-    "Atlantic Council": 12,
+    "South China Morning Post": 4,
+    "Atlantic Council": 15,
     "WSJ": 18,
-    "Financial Times": 84,
+    "Financial Times": 86,
     "Belaaz": 1,
     "Middle East Eye": 10,
     "UA.NEWS": 1,
@@ -15973,15 +15973,15 @@
     "Breakingthenews.net": 1,
     "The Independent": 2,
     "تسنیم": 1,
-    "Bloomberg.com": 19,
-    "BBC": 100,
+    "Bloomberg.com": 21,
+    "BBC": 102,
     "Spiegel": 5,
     "The Washington Post": 5,
     "ASHARQ AL-AWSAT English": 3,
     "Le Monde.fr": 9,
     "The Economist": 10,
     "CNN": 3,
-    "Saudi Gazette": 33,
+    "Saudi Gazette": 34,
     "News of Bahrain": 1,
     "UkrMedia News": 1,
     "https://houseofsaud.com/": 3,
@@ -16038,7 +16038,7 @@
     "ИФЗ РАН": 1,
     "FinTech Global": 1,
     "Consultancy-me.com": 3,
-    "Yeni Safak English": 3,
+    "Yeni Safak English": 4,
     "NPR": 1,
     "TRT World": 1,
     "The Korea Times": 1,
@@ -16079,7 +16079,8 @@
     "The New Indian Express": 1,
     "Sahara Reporters": 1,
     "Sky News": 1,
-    "The Telegraph": 1
+    "The Telegraph": 1,
+    "UrduPoint": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -16089,12 +16090,12 @@
     ],
     "Reuters": [
      0,
-     64,
+     67,
      0
     ],
     "Arab News": [
      0,
-     69,
+     71,
      0
     ],
     "The Guardian": [
@@ -16109,7 +16110,7 @@
     ],
     "AP News": [
      0,
-     22,
+     24,
      0
     ],
     "i24NEWS": [
@@ -16129,12 +16130,12 @@
     ],
     "South China Morning Post": [
      0,
-     3,
+     4,
      0
     ],
     "Atlantic Council": [
      0,
-     12,
+     15,
      0
     ],
     "WSJ": [
@@ -16144,7 +16145,7 @@
     ],
     "Financial Times": [
      0,
-     84,
+     86,
      0
     ],
     "Belaaz": [
@@ -16259,12 +16260,12 @@
     ],
     "Bloomberg.com": [
      0,
-     19,
+     21,
      0
     ],
     "BBC": [
      0,
-     100,
+     102,
      0
     ],
     "Spiegel": [
@@ -16299,7 +16300,7 @@
     ],
     "Saudi Gazette": [
      0,
-     33,
+     34,
      0
     ],
     "News of Bahrain": [
@@ -16584,7 +16585,7 @@
     ],
     "Yeni Safak English": [
      0,
-     3,
+     4,
      0
     ],
     "NPR": [
@@ -16788,6 +16789,121 @@
      0
     ],
     "The Telegraph": [
+     0,
+     1,
+     0
+    ],
+    "UrduPoint": [
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "2026-11-20": {
+   "total": 20,
+   "news": 19,
+   "articles": 1,
+   "positive": 0,
+   "neutral": 20,
+   "critical": 0,
+   "mbs": 1,
+   "countries": {
+    "US": 8,
+    "SA": 1,
+    "FR": 3,
+    "GB": 3
+   },
+   "topics": {},
+   "sources": {
+    "WSJ": 4,
+    "The AFC": 1,
+    "Atlantic Council": 1,
+    "Al-Monitor": 1,
+    "Arab News": 1,
+    "France 24": 3,
+    "The New York Times": 1,
+    "AP News": 1,
+    "The Guardian": 1,
+    "Financial Times": 1,
+    "BBC": 1,
+    "Yeni Safak English": 1,
+    "Middle East Eye": 1,
+    "X": 1,
+    "Yemen Online": 1
+   },
+   "sourceTone": {
+    "WSJ": [
+     0,
+     4,
+     0
+    ],
+    "The AFC": [
+     0,
+     1,
+     0
+    ],
+    "Atlantic Council": [
+     0,
+     1,
+     0
+    ],
+    "Al-Monitor": [
+     0,
+     1,
+     0
+    ],
+    "Arab News": [
+     0,
+     1,
+     0
+    ],
+    "France 24": [
+     0,
+     3,
+     0
+    ],
+    "The New York Times": [
+     0,
+     1,
+     0
+    ],
+    "AP News": [
+     0,
+     1,
+     0
+    ],
+    "The Guardian": [
+     0,
+     1,
+     0
+    ],
+    "Financial Times": [
+     0,
+     1,
+     0
+    ],
+    "BBC": [
+     0,
+     1,
+     0
+    ],
+    "Yeni Safak English": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Eye": [
+     0,
+     1,
+     0
+    ],
+    "X": [
+     0,
+     1,
+     0
+    ],
+    "Yemen Online": [
      0,
      1,
      0
