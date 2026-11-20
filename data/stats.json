@@ -15118,17 +15118,17 @@
    }
   },
   "2026-11-18": {
-   "total": 1097,
-   "news": 1069,
+   "total": 1098,
+   "news": 1070,
    "articles": 28,
    "positive": 0,
-   "neutral": 1097,
+   "neutral": 1098,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "GB": 470,
     "SA": 137,
-    "US": 257,
+    "US": 258,
     "FR": 35,
     "HK": 10,
     "DE": 9,
@@ -15139,7 +15139,7 @@
     "The Guardian": 106,
     "Arab News": 125,
     "The Washington Post": 15,
-    "Al-Monitor": 69,
+    "Al-Monitor": 70,
     "The Sun Nigeria": 1,
     "The New York Times": 32,
     "Arabian Gulf Business Insight | AGBI": 2,
@@ -15285,7 +15285,7 @@
     ],
     "Al-Monitor": [
      0,
-     69,
+     70,
      0
     ],
     "The Sun Nigeria": [
@@ -16909,11 +16909,11 @@
    }
   },
   "2026-11-20": {
-   "total": 252,
-   "news": 248,
+   "total": 254,
+   "news": 250,
    "articles": 4,
    "positive": 0,
-   "neutral": 252,
+   "neutral": 254,
    "critical": 0,
    "mbs": 4,
    "countries": {
@@ -16931,7 +16931,7 @@
     "The AFC": 1,
     "Atlantic Council": 2,
     "Al-Monitor": 5,
-    "Arab News": 21,
+    "Arab News": 22,
     "France 24": 25,
     "The New York Times": 7,
     "AP News": 7,
@@ -16963,7 +16963,7 @@
     "Nikkei Asia": 1,
     "جريدة القدس": 1,
     "la Repubblica": 1,
-    "Gulf Business": 4,
+    "Gulf Business": 5,
     "The Region": 1,
     "DW.com": 1,
     "Eurasia Review": 1,
@@ -17035,7 +17035,7 @@
     ],
     "Arab News": [
      0,
-     21,
+     22,
      0
     ],
     "France 24": [
@@ -17195,7 +17195,7 @@
     ],
     "Gulf Business": [
      0,
-     4,
+     5,
      0
     ],
     "The Region": [
