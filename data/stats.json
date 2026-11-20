@@ -16915,16 +16915,16 @@
    }
   },
   "2026-11-20": {
-   "total": 510,
-   "news": 504,
+   "total": 512,
+   "news": 506,
    "articles": 6,
    "positive": 0,
-   "neutral": 510,
+   "neutral": 512,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 153,
-    "SA": 56,
+    "SA": 57,
     "FR": 39,
     "GB": 86,
     "HK": 5,
@@ -16961,7 +16961,7 @@
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
-    "Saudi Gazette": 24,
+    "Saudi Gazette": 25,
     "The Economist": 3,
     "Daily Sabah": 2,
     "South China Morning Post": 5,
@@ -17061,7 +17061,8 @@
     "EnergyNow": 1,
     "MillenniumPost": 1,
     "Crude Oil Prices Today | OilPrice.com": 1,
-    "파이낸셜뉴스": 1
+    "파이낸셜뉴스": 1,
+    "bdnews24.com": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -17206,7 +17207,7 @@
     ],
     "Saudi Gazette": [
      0,
-     24,
+     25,
      0
     ],
     "The Economist": [
@@ -17705,6 +17706,11 @@
      0
     ],
     "파이낸셜뉴스": [
+     0,
+     1,
+     0
+    ],
+    "bdnews24.com": [
      0,
      1,
      0
