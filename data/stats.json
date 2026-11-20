@@ -15118,15 +15118,15 @@
    }
   },
   "2026-11-18": {
-   "total": 1062,
-   "news": 1034,
+   "total": 1063,
+   "news": 1035,
    "articles": 28,
    "positive": 0,
-   "neutral": 1062,
+   "neutral": 1063,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "GB": 458,
+    "GB": 459,
     "SA": 126,
     "US": 245,
     "FR": 35,
@@ -15146,7 +15146,7 @@
     "AP News": 45,
     "WSJ": 55,
     "Science Daily": 1,
-    "Reuters": 158,
+    "Reuters": 159,
     "BigGo Finance": 1,
     "Yahoo Sports": 3,
     "intlbm": 1,
@@ -15320,7 +15320,7 @@
     ],
     "Reuters": [
      0,
-     158,
+     159,
      0
     ],
     "BigGo Finance": [
@@ -16909,18 +16909,18 @@
    }
   },
   "2026-11-20": {
-   "total": 244,
-   "news": 240,
+   "total": 245,
+   "news": 241,
    "articles": 4,
    "positive": 0,
-   "neutral": 244,
+   "neutral": 245,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "US": 59,
     "SA": 31,
     "FR": 25,
-    "GB": 29,
+    "GB": 30,
     "HK": 2,
     "DE": 3,
     "JP": 1
@@ -16935,7 +16935,7 @@
     "France 24": 25,
     "The New York Times": 5,
     "AP News": 7,
-    "The Guardian": 6,
+    "The Guardian": 7,
     "Financial Times": 8,
     "BBC": 6,
     "Yeni Safak English": 3,
@@ -17054,7 +17054,7 @@
     ],
     "The Guardian": [
      0,
-     6,
+     7,
      0
     ],
     "Financial Times": [
