@@ -1,23 +1,22 @@
 {
- "run": "2026-11-20T11:22:04.621Z",
+ "run": "2026-11-20T11:23:04.675Z",
  "key": true,
  "model": "claude-haiku-5-5",
- "feedsOk": 23,
- "feedsFailed": [
-  "The Economist: HTTP 429"
- ],
- "fetched": 1127,
- "fresh": 0,
- "world": 0,
- "analyzed": 0,
- "analyzeErrors": 0,
- "lastError": "Anthropic 401: {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChE6LggSNqwGson3HNymr\"}",
+ "feedsOk": 24,
+ "feedsFailed": [],
+ "fetched": 1133,
+ "fresh": 4,
+ "world": 4,
+ "analyzed": 3,
+ "analyzeErrors": 1,
+ "lastError": "Anthropic 401: {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChE6R9aZ64dfxVSf6odpD\"}",
  "telegram": 20,
  "royal": 0,
+ "mt": 4,
  "keyRejected": true,
- "pending": 738,
+ "pending": 742,
  "added": {
-  "news": 0,
+  "news": 4,
   "articles": 0,
   "breaking": 0
  }
