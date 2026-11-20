@@ -15118,17 +15118,17 @@
    }
   },
   "2026-11-18": {
-   "total": 905,
-   "news": 888,
+   "total": 906,
+   "news": 889,
    "articles": 17,
    "positive": 0,
-   "neutral": 905,
+   "neutral": 906,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "GB": 408,
     "SA": 97,
-    "US": 180,
+    "US": 181,
     "FR": 28,
     "HK": 7,
     "DE": 6,
@@ -15143,7 +15143,7 @@
     "The Sun Nigeria": 1,
     "The New York Times": 24,
     "Arabian Gulf Business Insight | AGBI": 2,
-    "AP News": 32,
+    "AP News": 33,
     "WSJ": 42,
     "Science Daily": 1,
     "Reuters": 134,
@@ -15305,7 +15305,7 @@
     ],
     "AP News": [
      0,
-     32,
+     33,
      0
     ],
     "WSJ": [
@@ -15921,17 +15921,17 @@
    }
   },
   "2026-11-19": {
-   "total": 950,
-   "news": 923,
+   "total": 957,
+   "news": 930,
    "articles": 27,
    "positive": 0,
-   "neutral": 950,
+   "neutral": 957,
    "critical": 0,
    "mbs": 25,
    "countries": {
-    "GB": 300,
+    "GB": 304,
     "SA": 98,
-    "US": 202,
+    "US": 205,
     "FR": 107,
     "HK": 4,
     "DE": 5
@@ -15939,7 +15939,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Reuters": 81,
+    "Reuters": 84,
     "Arab News": 76,
     "The Guardian": 26,
     "Yemen Online": 3,
@@ -15949,8 +15949,8 @@
     "Bloomberg": 2,
     "South China Morning Post": 4,
     "Atlantic Council": 15,
-    "WSJ": 74,
-    "Financial Times": 86,
+    "WSJ": 77,
+    "Financial Times": 87,
     "Belaaz": 1,
     "Middle East Eye": 10,
     "UA.NEWS": 1,
@@ -16095,7 +16095,7 @@
     ],
     "Reuters": [
      0,
-     81,
+     84,
      0
     ],
     "Arab News": [
@@ -16145,12 +16145,12 @@
     ],
     "WSJ": [
      0,
-     74,
+     77,
      0
     ],
     "Financial Times": [
      0,
-     86,
+     87,
      0
     ],
     "Belaaz": [
