@@ -15921,17 +15921,17 @@
    }
   },
   "2026-11-19": {
-   "total": 1000,
+   "total": 1001,
    "news": 973,
-   "articles": 27,
+   "articles": 28,
    "positive": 0,
-   "neutral": 1000,
+   "neutral": 1001,
    "critical": 0,
    "mbs": 25,
    "countries": {
     "GB": 320,
     "SA": 99,
-    "US": 228,
+    "US": 229,
     "FR": 107,
     "HK": 4,
     "DE": 5
@@ -15948,7 +15948,7 @@
     "France 24": 99,
     "Bloomberg": 2,
     "South China Morning Post": 4,
-    "Atlantic Council": 15,
+    "Atlantic Council": 16,
     "WSJ": 97,
     "Financial Times": 88,
     "Belaaz": 1,
@@ -16142,7 +16142,7 @@
     ],
     "Atlantic Council": [
      0,
-     15,
+     16,
      0
     ],
     "WSJ": [
@@ -16843,32 +16843,35 @@
    }
   },
   "2026-11-20": {
-   "total": 62,
-   "news": 61,
-   "articles": 1,
+   "total": 101,
+   "news": 97,
+   "articles": 4,
    "positive": 0,
-   "neutral": 62,
+   "neutral": 101,
    "critical": 0,
-   "mbs": 1,
+   "mbs": 2,
    "countries": {
-    "US": 26,
-    "SA": 1,
-    "FR": 9,
-    "GB": 6
+    "US": 38,
+    "SA": 6,
+    "FR": 11,
+    "GB": 16,
+    "HK": 2,
+    "DE": 2,
+    "JP": 1
    },
    "topics": {},
    "sources": {
-    "WSJ": 20,
+    "WSJ": 22,
     "The AFC": 1,
-    "Atlantic Council": 1,
-    "Al-Monitor": 1,
-    "Arab News": 2,
-    "France 24": 9,
-    "The New York Times": 1,
-    "AP News": 2,
-    "The Guardian": 2,
-    "Financial Times": 2,
-    "BBC": 1,
+    "Atlantic Council": 2,
+    "Al-Monitor": 3,
+    "Arab News": 4,
+    "France 24": 11,
+    "The New York Times": 4,
+    "AP News": 4,
+    "The Guardian": 4,
+    "Financial Times": 4,
+    "BBC": 3,
     "Yeni Safak English": 1,
     "Middle East Eye": 3,
     "X": 1,
@@ -16881,15 +16884,25 @@
     "cwibc.co.id": 1,
     "The New Arab": 1,
     "Al Jazeera": 1,
-    "Bloomberg.com": 1,
-    "Reuters": 2,
+    "Bloomberg.com": 3,
+    "Reuters": 4,
     "Bioengineer.org": 1,
-    "The Independent": 1
+    "The Independent": 1,
+    "Arabian Gulf Business Insight | AGBI": 1,
+    "Saudi Gazette": 3,
+    "The Economist": 2,
+    "Daily Sabah": 1,
+    "South China Morning Post": 2,
+    "Spiegel": 2,
+    "Nikkei Asia": 1,
+    "جريدة القدس": 1,
+    "la Repubblica": 1,
+    "Gulf Business": 1
    },
    "sourceTone": {
     "WSJ": [
      0,
-     20,
+     22,
      0
     ],
     "The AFC": [
@@ -16899,47 +16912,47 @@
     ],
     "Atlantic Council": [
      0,
-     1,
+     2,
      0
     ],
     "Al-Monitor": [
      0,
-     1,
+     3,
      0
     ],
     "Arab News": [
      0,
-     2,
+     4,
      0
     ],
     "France 24": [
      0,
-     9,
+     11,
      0
     ],
     "The New York Times": [
      0,
-     1,
+     4,
      0
     ],
     "AP News": [
      0,
-     2,
+     4,
      0
     ],
     "The Guardian": [
      0,
-     2,
+     4,
      0
     ],
     "Financial Times": [
      0,
-     2,
+     4,
      0
     ],
     "BBC": [
      0,
-     1,
+     3,
      0
     ],
     "Yeni Safak English": [
@@ -17004,12 +17017,12 @@
     ],
     "Bloomberg.com": [
      0,
-     1,
+     3,
      0
     ],
     "Reuters": [
      0,
-     2,
+     4,
      0
     ],
     "Bioengineer.org": [
@@ -17018,6 +17031,56 @@
      0
     ],
     "The Independent": [
+     0,
+     1,
+     0
+    ],
+    "Arabian Gulf Business Insight | AGBI": [
+     0,
+     1,
+     0
+    ],
+    "Saudi Gazette": [
+     0,
+     3,
+     0
+    ],
+    "The Economist": [
+     0,
+     2,
+     0
+    ],
+    "Daily Sabah": [
+     0,
+     1,
+     0
+    ],
+    "South China Morning Post": [
+     0,
+     2,
+     0
+    ],
+    "Spiegel": [
+     0,
+     2,
+     0
+    ],
+    "Nikkei Asia": [
+     0,
+     1,
+     0
+    ],
+    "جريدة القدس": [
+     0,
+     1,
+     0
+    ],
+    "la Repubblica": [
+     0,
+     1,
+     0
+    ],
+    "Gulf Business": [
      0,
      1,
      0
