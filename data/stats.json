@@ -15921,15 +15921,15 @@
    }
   },
   "2026-11-19": {
-   "total": 1316,
-   "news": 1284,
+   "total": 1317,
+   "news": 1285,
    "articles": 32,
    "positive": 0,
-   "neutral": 1316,
+   "neutral": 1317,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 447,
+    "GB": 448,
     "SA": 124,
     "US": 331,
     "FR": 146,
@@ -15950,7 +15950,7 @@
     "South China Morning Post": 6,
     "Atlantic Council": 19,
     "WSJ": 121,
-    "Financial Times": 137,
+    "Financial Times": 138,
     "Belaaz": 1,
     "Middle East Eye": 11,
     "UA.NEWS": 1,
@@ -16164,7 +16164,7 @@
     ],
     "Financial Times": [
      0,
-     137,
+     138,
      0
     ],
     "Belaaz": [
@@ -16915,15 +16915,15 @@
    }
   },
   "2026-11-20": {
-   "total": 502,
-   "news": 496,
+   "total": 505,
+   "news": 499,
    "articles": 6,
    "positive": 0,
-   "neutral": 502,
+   "neutral": 505,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 150,
+    "US": 151,
     "SA": 56,
     "FR": 39,
     "GB": 85,
@@ -16939,7 +16939,7 @@
     "Al-Monitor": 19,
     "Arab News": 42,
     "France 24": 39,
-    "The New York Times": 11,
+    "The New York Times": 12,
     "AP News": 16,
     "The Guardian": 12,
     "Financial Times": 14,
@@ -17059,7 +17059,9 @@
     "الهيئة العامة للاستعلامات": 1,
     "Legal 500": 1,
     "EnergyNow": 1,
-    "MillenniumPost": 1
+    "MillenniumPost": 1,
+    "Crude Oil Prices Today | OilPrice.com": 1,
+    "파이낸셜뉴스": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -17094,7 +17096,7 @@
     ],
     "The New York Times": [
      0,
-     11,
+     12,
      0
     ],
     "AP News": [
@@ -17693,6 +17695,16 @@
      0
     ],
     "MillenniumPost": [
+     0,
+     1,
+     0
+    ],
+    "Crude Oil Prices Today | OilPrice.com": [
+     0,
+     1,
+     0
+    ],
+    "파이낸셜뉴스": [
      0,
      1,
      0
