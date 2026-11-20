@@ -15118,15 +15118,15 @@
    }
   },
   "2026-11-18": {
-   "total": 1119,
-   "news": 1091,
+   "total": 1121,
+   "news": 1093,
    "articles": 28,
    "positive": 0,
-   "neutral": 1119,
+   "neutral": 1121,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "GB": 477,
+    "GB": 479,
     "SA": 142,
     "US": 266,
     "FR": 36,
@@ -15155,7 +15155,7 @@
     "South China Morning Post": 10,
     "France 24": 19,
     "Saudi Gazette": 34,
-    "Financial Times": 90,
+    "Financial Times": 92,
     "Spiegel": 9,
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1,
     "BBC": 94,
@@ -15365,7 +15365,7 @@
     ],
     "Financial Times": [
      0,
-     90,
+     92,
      0
     ],
     "Spiegel": [
@@ -15921,17 +15921,17 @@
    }
   },
   "2026-11-19": {
-   "total": 1301,
-   "news": 1269,
+   "total": 1308,
+   "news": 1276,
    "articles": 32,
    "positive": 0,
-   "neutral": 1301,
+   "neutral": 1308,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 442,
-    "SA": 121,
-    "US": 327,
+    "GB": 445,
+    "SA": 122,
+    "US": 330,
     "FR": 143,
     "HK": 6,
     "DE": 8
@@ -15939,8 +15939,8 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Reuters": 148,
-    "Arab News": 95,
+    "Reuters": 149,
+    "Arab News": 96,
     "The Guardian": 37,
     "Yemen Online": 3,
     "AP News": 49,
@@ -15949,8 +15949,8 @@
     "Bloomberg": 3,
     "South China Morning Post": 6,
     "Atlantic Council": 19,
-    "WSJ": 118,
-    "Financial Times": 133,
+    "WSJ": 121,
+    "Financial Times": 135,
     "Belaaz": 1,
     "Middle East Eye": 11,
     "UA.NEWS": 1,
@@ -16109,12 +16109,12 @@
     ],
     "Reuters": [
      0,
-     148,
+     149,
      0
     ],
     "Arab News": [
      0,
-     95,
+     96,
      0
     ],
     "The Guardian": [
@@ -16159,12 +16159,12 @@
     ],
     "WSJ": [
      0,
-     118,
+     121,
      0
     ],
     "Financial Times": [
      0,
-     133,
+     135,
      0
     ],
     "Belaaz": [
@@ -16915,34 +16915,34 @@
    }
   },
   "2026-11-20": {
-   "total": 484,
-   "news": 478,
+   "total": 500,
+   "news": 494,
    "articles": 6,
    "positive": 0,
-   "neutral": 484,
+   "neutral": 500,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 134,
+    "US": 148,
     "SA": 56,
     "FR": 39,
-    "GB": 84,
+    "GB": 85,
     "HK": 5,
     "DE": 4,
     "JP": 1
    },
    "topics": {},
    "sources": {
-    "WSJ": 65,
+    "WSJ": 76,
     "The AFC": 1,
     "Atlantic Council": 3,
     "Al-Monitor": 19,
     "Arab News": 42,
     "France 24": 39,
-    "The New York Times": 10,
+    "The New York Times": 11,
     "AP News": 15,
     "The Guardian": 12,
-    "Financial Times": 13,
+    "Financial Times": 14,
     "BBC": 18,
     "Yeni Safak English": 4,
     "Middle East Eye": 4,
@@ -16956,7 +16956,7 @@
     "cwibc.co.id": 1,
     "The New Arab": 2,
     "Al Jazeera": 2,
-    "Bloomberg.com": 21,
+    "Bloomberg.com": 23,
     "Reuters": 41,
     "Bioengineer.org": 2,
     "The Independent": 1,
@@ -17058,12 +17058,13 @@
     "NBC News": 1,
     "الهيئة العامة للاستعلامات": 1,
     "Legal 500": 1,
-    "EnergyNow": 1
+    "EnergyNow": 1,
+    "MillenniumPost": 1
    },
    "sourceTone": {
     "WSJ": [
      0,
-     65,
+     76,
      0
     ],
     "The AFC": [
@@ -17093,7 +17094,7 @@
     ],
     "The New York Times": [
      0,
-     10,
+     11,
      0
     ],
     "AP News": [
@@ -17108,7 +17109,7 @@
     ],
     "Financial Times": [
      0,
-     13,
+     14,
      0
     ],
     "BBC": [
@@ -17178,7 +17179,7 @@
     ],
     "Bloomberg.com": [
      0,
-     21,
+     23,
      0
     ],
     "Reuters": [
@@ -17687,6 +17688,11 @@
      0
     ],
     "EnergyNow": [
+     0,
+     1,
+     0
+    ],
+    "MillenniumPost": [
      0,
      1,
      0
