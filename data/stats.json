@@ -15118,17 +15118,17 @@
    }
   },
   "2026-11-18": {
-   "total": 1036,
-   "news": 1013,
+   "total": 1038,
+   "news": 1015,
    "articles": 23,
    "positive": 0,
-   "neutral": 1036,
+   "neutral": 1038,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "GB": 450,
     "SA": 120,
-    "US": 235,
+    "US": 237,
     "FR": 34,
     "HK": 10,
     "DE": 8,
@@ -15143,8 +15143,8 @@
     "The Sun Nigeria": 1,
     "The New York Times": 28,
     "Arabian Gulf Business Insight | AGBI": 2,
-    "AP News": 43,
-    "WSJ": 54,
+    "AP News": 44,
+    "WSJ": 55,
     "Science Daily": 1,
     "Reuters": 156,
     "BigGo Finance": 1,
@@ -15305,12 +15305,12 @@
     ],
     "AP News": [
      0,
-     43,
+     44,
      0
     ],
     "WSJ": [
      0,
-     54,
+     55,
      0
     ],
     "Science Daily": [
@@ -15921,15 +15921,15 @@
    }
   },
   "2026-11-19": {
-   "total": 1065,
-   "news": 1037,
+   "total": 1066,
+   "news": 1038,
    "articles": 28,
    "positive": 0,
-   "neutral": 1065,
+   "neutral": 1066,
    "critical": 0,
    "mbs": 26,
    "countries": {
-    "GB": 350,
+    "GB": 351,
     "SA": 100,
     "US": 250,
     "FR": 108,
@@ -15939,7 +15939,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Reuters": 112,
+    "Reuters": 113,
     "Arab News": 78,
     "The Guardian": 26,
     "Yemen Online": 3,
@@ -16105,7 +16105,7 @@
     ],
     "Reuters": [
      0,
-     112,
+     113,
      0
     ],
     "Arab News": [
@@ -16891,25 +16891,25 @@
    }
   },
   "2026-11-20": {
-   "total": 214,
-   "news": 210,
+   "total": 220,
+   "news": 216,
    "articles": 4,
    "positive": 0,
-   "neutral": 214,
+   "neutral": 220,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "US": 54,
-    "SA": 19,
+    "US": 55,
+    "SA": 20,
     "FR": 24,
-    "GB": 24,
+    "GB": 25,
     "HK": 2,
     "DE": 3,
     "JP": 1
    },
    "topics": {},
    "sources": {
-    "WSJ": 27,
+    "WSJ": 28,
     "The AFC": 1,
     "Atlantic Council": 2,
     "Al-Monitor": 3,
@@ -16933,11 +16933,11 @@
     "The New Arab": 1,
     "Al Jazeera": 1,
     "Bloomberg.com": 10,
-    "Reuters": 8,
+    "Reuters": 9,
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
-    "Saudi Gazette": 11,
+    "Saudi Gazette": 12,
     "The Economist": 2,
     "Daily Sabah": 2,
     "South China Morning Post": 2,
@@ -16949,7 +16949,7 @@
     "The Region": 1,
     "DW.com": 1,
     "Eurasia Review": 1,
-    "ASHARQ AL-AWSAT English": 1,
+    "ASHARQ AL-AWSAT English": 2,
     "The Washington Post": 1,
     "EIN Presswire": 1,
     "Connected to India": 1,
@@ -16987,12 +16987,14 @@
     "adobo Magazine": 1,
     "Dawn": 1,
     "Malay Mail": 1,
-    "وكالة الأنباء السعودية": 1
+    "وكالة الأنباء السعودية": 1,
+    "TradingView": 1,
+    "Business Standard": 1
    },
    "sourceTone": {
     "WSJ": [
      0,
-     27,
+     28,
      0
     ],
     "The AFC": [
@@ -17112,7 +17114,7 @@
     ],
     "Reuters": [
      0,
-     8,
+     9,
      0
     ],
     "Bioengineer.org": [
@@ -17132,7 +17134,7 @@
     ],
     "Saudi Gazette": [
      0,
-     11,
+     12,
      0
     ],
     "The Economist": [
@@ -17192,7 +17194,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     1,
+     2,
      0
     ],
     "The Washington Post": [
@@ -17381,6 +17383,16 @@
      0
     ],
     "وكالة الأنباء السعودية": [
+     0,
+     1,
+     0
+    ],
+    "TradingView": [
+     0,
+     1,
+     0
+    ],
+    "Business Standard": [
      0,
      1,
      0
