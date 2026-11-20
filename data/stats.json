@@ -15118,17 +15118,17 @@
    }
   },
   "2026-11-18": {
-   "total": 901,
-   "news": 884,
+   "total": 903,
+   "news": 886,
    "articles": 17,
    "positive": 0,
-   "neutral": 901,
+   "neutral": 903,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "GB": 408,
     "SA": 96,
-    "US": 177,
+    "US": 179,
     "FR": 28,
     "HK": 7,
     "DE": 6,
@@ -15144,7 +15144,7 @@
     "The New York Times": 24,
     "Arabian Gulf Business Insight | AGBI": 2,
     "AP News": 32,
-    "WSJ": 40,
+    "WSJ": 42,
     "Science Daily": 1,
     "Reuters": 134,
     "BigGo Finance": 1,
@@ -15310,7 +15310,7 @@
     ],
     "WSJ": [
      0,
-     40,
+     42,
      0
     ],
     "Science Daily": [
@@ -15921,17 +15921,17 @@
    }
   },
   "2026-11-19": {
-   "total": 948,
-   "news": 921,
+   "total": 950,
+   "news": 923,
    "articles": 27,
    "positive": 0,
-   "neutral": 948,
+   "neutral": 950,
    "critical": 0,
    "mbs": 25,
    "countries": {
     "GB": 300,
-    "SA": 97,
-    "US": 201,
+    "SA": 98,
+    "US": 202,
     "FR": 107,
     "HK": 4,
     "DE": 5
@@ -15940,7 +15940,7 @@
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
     "Reuters": 81,
-    "Arab News": 75,
+    "Arab News": 76,
     "The Guardian": 26,
     "Yemen Online": 3,
     "AP News": 31,
@@ -15949,7 +15949,7 @@
     "Bloomberg": 2,
     "South China Morning Post": 4,
     "Atlantic Council": 15,
-    "WSJ": 73,
+    "WSJ": 74,
     "Financial Times": 86,
     "Belaaz": 1,
     "Middle East Eye": 10,
@@ -16100,7 +16100,7 @@
     ],
     "Arab News": [
      0,
-     75,
+     76,
      0
     ],
     "The Guardian": [
@@ -16145,7 +16145,7 @@
     ],
     "WSJ": [
      0,
-     73,
+     74,
      0
     ],
     "Financial Times": [
@@ -16831,22 +16831,22 @@
    }
   },
   "2026-11-20": {
-   "total": 46,
-   "news": 45,
+   "total": 48,
+   "news": 47,
    "articles": 1,
    "positive": 0,
-   "neutral": 46,
+   "neutral": 48,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "US": 14,
+    "US": 16,
     "SA": 1,
     "FR": 9,
     "GB": 6
    },
    "topics": {},
    "sources": {
-    "WSJ": 9,
+    "WSJ": 11,
     "The AFC": 1,
     "Atlantic Council": 1,
     "Al-Monitor": 1,
@@ -16875,7 +16875,7 @@
    "sourceTone": {
     "WSJ": [
      0,
-     9,
+     11,
      0
     ],
     "The AFC": [
