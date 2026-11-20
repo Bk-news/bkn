@@ -15118,19 +15118,19 @@
    }
   },
   "2026-11-18": {
-   "total": 873,
-   "news": 856,
+   "total": 879,
+   "news": 862,
    "articles": 17,
    "positive": 0,
-   "neutral": 873,
+   "neutral": 879,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "GB": 403,
     "SA": 93,
-    "US": 160,
-    "FR": 26,
-    "HK": 6,
+    "US": 163,
+    "FR": 28,
+    "HK": 7,
     "DE": 6,
     "JP": 3
    },
@@ -15139,9 +15139,9 @@
     "The Guardian": 102,
     "Arab News": 87,
     "The Washington Post": 11,
-    "Al-Monitor": 40,
+    "Al-Monitor": 41,
     "The Sun Nigeria": 1,
-    "The New York Times": 22,
+    "The New York Times": 23,
     "Arabian Gulf Business Insight | AGBI": 2,
     "AP News": 30,
     "WSJ": 32,
@@ -15150,10 +15150,10 @@
     "BigGo Finance": 1,
     "Yahoo Sports": 3,
     "intlbm": 1,
-    "Le Monde.fr": 8,
-    "Bloomberg.com": 17,
-    "South China Morning Post": 6,
-    "France 24": 15,
+    "Le Monde.fr": 9,
+    "Bloomberg.com": 18,
+    "South China Morning Post": 7,
+    "France 24": 16,
     "Saudi Gazette": 27,
     "Financial Times": 78,
     "Spiegel": 6,
@@ -15285,7 +15285,7 @@
     ],
     "Al-Monitor": [
      0,
-     40,
+     41,
      0
     ],
     "The Sun Nigeria": [
@@ -15295,7 +15295,7 @@
     ],
     "The New York Times": [
      0,
-     22,
+     23,
      0
     ],
     "Arabian Gulf Business Insight | AGBI": [
@@ -15340,22 +15340,22 @@
     ],
     "Le Monde.fr": [
      0,
-     8,
+     9,
      0
     ],
     "Bloomberg.com": [
      0,
-     17,
+     18,
      0
     ],
     "South China Morning Post": [
      0,
-     6,
+     7,
      0
     ],
     "France 24": [
      0,
-     15,
+     16,
      0
     ],
     "Saudi Gazette": [
