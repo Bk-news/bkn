@@ -15921,17 +15921,17 @@
    }
   },
   "2026-11-19": {
-   "total": 1242,
-   "news": 1210,
+   "total": 1247,
+   "news": 1215,
    "articles": 32,
    "positive": 0,
-   "neutral": 1242,
+   "neutral": 1247,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 426,
-    "SA": 114,
-    "US": 308,
+    "GB": 427,
+    "SA": 115,
+    "US": 311,
     "FR": 126,
     "HK": 6,
     "DE": 8
@@ -15940,10 +15940,10 @@
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
     "Reuters": 143,
-    "Arab News": 88,
-    "The Guardian": 36,
+    "Arab News": 89,
+    "The Guardian": 37,
     "Yemen Online": 3,
-    "AP News": 48,
+    "AP News": 49,
     "i24NEWS": 1,
     "France 24": 113,
     "Bloomberg": 2,
@@ -15969,11 +15969,11 @@
     "National Herald": 1,
     "The Daily Star": 1,
     "www.jordannews.jo": 1,
-    "The New York Times": 34,
+    "The New York Times": 35,
     "Breakingthenews.net": 1,
     "The Independent": 2,
     "تسنیم": 1,
-    "Bloomberg.com": 32,
+    "Bloomberg.com": 33,
     "BBC": 108,
     "Spiegel": 8,
     "The Washington Post": 9,
@@ -16114,12 +16114,12 @@
     ],
     "Arab News": [
      0,
-     88,
+     89,
      0
     ],
     "The Guardian": [
      0,
-     36,
+     37,
      0
     ],
     "Yemen Online": [
@@ -16129,7 +16129,7 @@
     ],
     "AP News": [
      0,
-     48,
+     49,
      0
     ],
     "i24NEWS": [
@@ -16259,7 +16259,7 @@
     ],
     "The New York Times": [
      0,
-     34,
+     35,
      0
     ],
     "Breakingthenews.net": [
@@ -16279,7 +16279,7 @@
     ],
     "Bloomberg.com": [
      0,
-     32,
+     33,
      0
     ],
     "BBC": [
