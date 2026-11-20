@@ -15118,17 +15118,17 @@
    }
   },
   "2026-11-18": {
-   "total": 1056,
+   "total": 1057,
    "news": 1030,
-   "articles": 26,
+   "articles": 27,
    "positive": 0,
-   "neutral": 1056,
+   "neutral": 1057,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "GB": 457,
     "SA": 125,
-    "US": 241,
+    "US": 242,
     "FR": 35,
     "HK": 10,
     "DE": 9,
@@ -15198,7 +15198,7 @@
     "NDTV": 2,
     "CNN": 3,
     "The Hindu": 1,
-    "Atlantic Council": 10,
+    "Atlantic Council": 11,
     "24/7 Wall St.": 1,
     "The Straits Times": 3,
     "Time Magazine": 1,
@@ -15580,7 +15580,7 @@
     ],
     "Atlantic Council": [
      0,
-     10,
+     11,
      0
     ],
     "24/7 Wall St.": [
@@ -15921,11 +15921,11 @@
    }
   },
   "2026-11-19": {
-   "total": 1098,
-   "news": 1070,
+   "total": 1100,
+   "news": 1072,
    "articles": 28,
    "positive": 0,
-   "neutral": 1098,
+   "neutral": 1100,
    "critical": 0,
    "mbs": 26,
    "countries": {
@@ -16096,7 +16096,9 @@
     "The Express Tribune": 1,
     "BioSpace": 1,
     "shattered.io": 1,
-    "The Jerusalem Strategic Tribune": 1
+    "The Jerusalem Strategic Tribune": 1,
+    "Bloom Pakistan": 1,
+    "Dubai Eye 103.8": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -16890,6 +16892,16 @@
      0
     ],
     "The Jerusalem Strategic Tribune": [
+     0,
+     1,
+     0
+    ],
+    "Bloom Pakistan": [
+     0,
+     1,
+     0
+    ],
+    "Dubai Eye 103.8": [
      0,
      1,
      0
