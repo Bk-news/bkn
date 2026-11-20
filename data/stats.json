@@ -16915,15 +16915,15 @@
    }
   },
   "2026-11-20": {
-   "total": 501,
-   "news": 495,
+   "total": 502,
+   "news": 496,
    "articles": 6,
    "positive": 0,
-   "neutral": 501,
+   "neutral": 502,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 149,
+    "US": 150,
     "SA": 56,
     "FR": 39,
     "GB": 85,
@@ -16933,7 +16933,7 @@
    },
    "topics": {},
    "sources": {
-    "WSJ": 76,
+    "WSJ": 77,
     "The AFC": 1,
     "Atlantic Council": 3,
     "Al-Monitor": 19,
@@ -17064,7 +17064,7 @@
    "sourceTone": {
     "WSJ": [
      0,
-     76,
+     77,
      0
     ],
     "The AFC": [
