@@ -15118,17 +15118,17 @@
    }
   },
   "2026-11-18": {
-   "total": 1069,
-   "news": 1041,
+   "total": 1081,
+   "news": 1053,
    "articles": 28,
    "positive": 0,
-   "neutral": 1069,
+   "neutral": 1081,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "GB": 460,
-    "SA": 128,
-    "US": 248,
+    "GB": 465,
+    "SA": 130,
+    "US": 253,
     "FR": 35,
     "HK": 10,
     "DE": 9,
@@ -15136,17 +15136,17 @@
    },
    "topics": {},
    "sources": {
-    "The Guardian": 105,
-    "Arab News": 117,
+    "The Guardian": 106,
+    "Arab News": 119,
     "The Washington Post": 15,
-    "Al-Monitor": 63,
+    "Al-Monitor": 65,
     "The Sun Nigeria": 1,
-    "The New York Times": 29,
+    "The New York Times": 32,
     "Arabian Gulf Business Insight | AGBI": 2,
     "AP News": 45,
     "WSJ": 55,
     "Science Daily": 1,
-    "Reuters": 159,
+    "Reuters": 163,
     "BigGo Finance": 1,
     "Yahoo Sports": 3,
     "intlbm": 1,
@@ -15270,12 +15270,12 @@
    "sourceTone": {
     "The Guardian": [
      0,
-     105,
+     106,
      0
     ],
     "Arab News": [
      0,
-     117,
+     119,
      0
     ],
     "The Washington Post": [
@@ -15285,7 +15285,7 @@
     ],
     "Al-Monitor": [
      0,
-     63,
+     65,
      0
     ],
     "The Sun Nigeria": [
@@ -15295,7 +15295,7 @@
     ],
     "The New York Times": [
      0,
-     29,
+     32,
      0
     ],
     "Arabian Gulf Business Insight | AGBI": [
@@ -15320,7 +15320,7 @@
     ],
     "Reuters": [
      0,
-     159,
+     163,
      0
     ],
     "BigGo Finance": [
@@ -15921,17 +15921,17 @@
    }
   },
   "2026-11-19": {
-   "total": 1101,
-   "news": 1073,
+   "total": 1102,
+   "news": 1074,
    "articles": 28,
    "positive": 0,
-   "neutral": 1101,
+   "neutral": 1102,
    "critical": 0,
    "mbs": 26,
    "countries": {
     "GB": 376,
     "SA": 103,
-    "US": 254,
+    "US": 255,
     "FR": 108,
     "HK": 4,
     "DE": 5
@@ -15969,7 +15969,7 @@
     "National Herald": 1,
     "The Daily Star": 1,
     "www.jordannews.jo": 1,
-    "The New York Times": 23,
+    "The New York Times": 24,
     "Breakingthenews.net": 1,
     "The Independent": 2,
     "تسنیم": 1,
@@ -16258,7 +16258,7 @@
     ],
     "The New York Times": [
      0,
-     23,
+     24,
      0
     ],
     "Breakingthenews.net": [
