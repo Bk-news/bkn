@@ -15921,17 +15921,17 @@
    }
   },
   "2026-11-19": {
-   "total": 988,
-   "news": 961,
+   "total": 995,
+   "news": 968,
    "articles": 27,
    "positive": 0,
-   "neutral": 988,
+   "neutral": 995,
    "critical": 0,
    "mbs": 25,
    "countries": {
-    "GB": 314,
+    "GB": 318,
     "SA": 99,
-    "US": 222,
+    "US": 225,
     "FR": 107,
     "HK": 4,
     "DE": 5
@@ -15939,7 +15939,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Reuters": 91,
+    "Reuters": 94,
     "Arab News": 77,
     "The Guardian": 26,
     "Yemen Online": 3,
@@ -15949,7 +15949,7 @@
     "Bloomberg": 2,
     "South China Morning Post": 4,
     "Atlantic Council": 15,
-    "WSJ": 92,
+    "WSJ": 95,
     "Financial Times": 88,
     "Belaaz": 1,
     "Middle East Eye": 10,
@@ -15974,7 +15974,7 @@
     "The Independent": 2,
     "تسنیم": 1,
     "Bloomberg.com": 22,
-    "BBC": 104,
+    "BBC": 105,
     "Spiegel": 5,
     "The Washington Post": 5,
     "ASHARQ AL-AWSAT English": 3,
@@ -16097,7 +16097,7 @@
     ],
     "Reuters": [
      0,
-     91,
+     94,
      0
     ],
     "Arab News": [
@@ -16147,7 +16147,7 @@
     ],
     "WSJ": [
      0,
-     92,
+     95,
      0
     ],
     "Financial Times": [
@@ -16272,7 +16272,7 @@
     ],
     "BBC": [
      0,
-     104,
+     105,
      0
     ],
     "Spiegel": [
