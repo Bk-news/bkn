@@ -86,6 +86,27 @@
    "mt": true
   },
   {
+   "id": "dea9885b64216d21",
+   "origin": "rss",
+   "source": "The Guardian",
+   "author": "",
+   "title_ar": "أخبار الولايات المتحدة + الجيش الأمريكي",
+   "title_orig": "US news + US military",
+   "title_en": "US news + US military",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FWlVTRk51dDAxd3hHUVVPUVNLRktGMFN0VlJYYk5tb0pFZ0x2TzVqYjRwbm1xT2owc3ExMUxDdEpWa19pbjltdDFxa0ZPUllUWkNndk1ZQW5aMlk?oc=5",
+   "published": "2026-11-20T10:45:31.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "US news + US military &nbsp;&nbsp; The Guardian",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "28980286cbacaa17",
    "origin": "rss",
    "source": "Saudi Gazette",
