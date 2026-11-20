@@ -15118,18 +15118,18 @@
    }
   },
   "2026-11-18": {
-   "total": 984,
-   "news": 961,
+   "total": 1005,
+   "news": 982,
    "articles": 23,
    "positive": 0,
-   "neutral": 984,
+   "neutral": 1005,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "GB": 434,
-    "SA": 102,
-    "US": 221,
-    "FR": 30,
+    "GB": 438,
+    "SA": 108,
+    "US": 229,
+    "FR": 33,
     "HK": 10,
     "DE": 8,
     "JP": 3
@@ -15137,25 +15137,25 @@
    "topics": {},
    "sources": {
     "The Guardian": 105,
-    "Arab News": 93,
+    "Arab News": 98,
     "The Washington Post": 15,
-    "Al-Monitor": 55,
+    "Al-Monitor": 59,
     "The Sun Nigeria": 1,
     "The New York Times": 28,
     "Arabian Gulf Business Insight | AGBI": 2,
     "AP News": 38,
-    "WSJ": 50,
+    "WSJ": 54,
     "Science Daily": 1,
     "Reuters": 144,
     "BigGo Finance": 1,
     "Yahoo Sports": 3,
     "intlbm": 1,
-    "Le Monde.fr": 11,
+    "Le Monde.fr": 12,
     "Bloomberg.com": 25,
     "South China Morning Post": 10,
-    "France 24": 16,
-    "Saudi Gazette": 30,
-    "Financial Times": 81,
+    "France 24": 18,
+    "Saudi Gazette": 31,
+    "Financial Times": 85,
     "Spiegel": 8,
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1,
     "BBC": 91,
@@ -15275,7 +15275,7 @@
     ],
     "Arab News": [
      0,
-     93,
+     98,
      0
     ],
     "The Washington Post": [
@@ -15285,7 +15285,7 @@
     ],
     "Al-Monitor": [
      0,
-     55,
+     59,
      0
     ],
     "The Sun Nigeria": [
@@ -15310,7 +15310,7 @@
     ],
     "WSJ": [
      0,
-     50,
+     54,
      0
     ],
     "Science Daily": [
@@ -15340,7 +15340,7 @@
     ],
     "Le Monde.fr": [
      0,
-     11,
+     12,
      0
     ],
     "Bloomberg.com": [
@@ -15355,17 +15355,17 @@
     ],
     "France 24": [
      0,
-     16,
+     18,
      0
     ],
     "Saudi Gazette": [
      0,
-     30,
+     31,
      0
     ],
     "Financial Times": [
      0,
-     81,
+     85,
      0
     ],
     "Spiegel": [
@@ -15921,35 +15921,35 @@
    }
   },
   "2026-11-19": {
-   "total": 1044,
-   "news": 1016,
+   "total": 1054,
+   "news": 1026,
    "articles": 28,
    "positive": 0,
-   "neutral": 1044,
+   "neutral": 1054,
    "critical": 0,
    "mbs": 26,
    "countries": {
-    "GB": 339,
+    "GB": 345,
     "SA": 100,
-    "US": 244,
-    "FR": 107,
+    "US": 246,
+    "FR": 108,
     "HK": 4,
     "DE": 5
    },
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Reuters": 103,
+    "Reuters": 109,
     "Arab News": 78,
     "The Guardian": 26,
     "Yemen Online": 3,
     "AP News": 38,
     "i24NEWS": 1,
-    "France 24": 99,
+    "France 24": 100,
     "Bloomberg": 2,
     "South China Morning Post": 4,
     "Atlantic Council": 16,
-    "WSJ": 101,
+    "WSJ": 103,
     "Financial Times": 98,
     "Belaaz": 1,
     "Middle East Eye": 11,
@@ -16080,7 +16080,7 @@
     "Sahara Reporters": 1,
     "Sky News": 1,
     "The Telegraph": 1,
-    "UrduPoint": 1,
+    "UrduPoint": 2,
     "fundsforNGOs - Grants and Resources for Sustainability": 1,
     "University of Illinois Urbana-Champaign": 1,
     "The New Arab": 1,
@@ -16103,7 +16103,7 @@
     ],
     "Reuters": [
      0,
-     103,
+     109,
      0
     ],
     "Arab News": [
@@ -16133,7 +16133,7 @@
     ],
     "France 24": [
      0,
-     99,
+     100,
      0
     ],
     "Bloomberg": [
@@ -16153,7 +16153,7 @@
     ],
     "WSJ": [
      0,
-     101,
+     103,
      0
     ],
     "Financial Times": [
@@ -16808,7 +16808,7 @@
     ],
     "UrduPoint": [
      0,
-     1,
+     2,
      0
     ],
     "fundsforNGOs - Grants and Resources for Sustainability": [
@@ -16879,17 +16879,17 @@
    }
   },
   "2026-11-20": {
-   "total": 164,
-   "news": 160,
+   "total": 173,
+   "news": 169,
    "articles": 4,
    "positive": 0,
-   "neutral": 164,
+   "neutral": 173,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "US": 52,
     "SA": 19,
-    "FR": 21,
+    "FR": 24,
     "GB": 22,
     "HK": 2,
     "DE": 3,
@@ -16901,8 +16901,8 @@
     "The AFC": 1,
     "Atlantic Council": 2,
     "Al-Monitor": 3,
-    "Arab News": 10,
-    "France 24": 21,
+    "Arab News": 12,
+    "France 24": 24,
     "The New York Times": 5,
     "AP News": 5,
     "The Guardian": 4,
@@ -16944,7 +16944,11 @@
     "Moneycontrol.com": 1,
     "Free Malaysia Today": 1,
     "Yahoo": 1,
-    "Opinio Juris": 1
+    "Opinio Juris": 1,
+    "Zawya": 1,
+    "Gulf News": 1,
+    "Fortune": 1,
+    "UkrMedia News": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -16969,12 +16973,12 @@
     ],
     "Arab News": [
      0,
-     10,
+     12,
      0
     ],
     "France 24": [
      0,
-     21,
+     24,
      0
     ],
     "The New York Times": [
@@ -17183,6 +17187,26 @@
      0
     ],
     "Opinio Juris": [
+     0,
+     1,
+     0
+    ],
+    "Zawya": [
+     0,
+     1,
+     0
+    ],
+    "Gulf News": [
+     0,
+     1,
+     0
+    ],
+    "Fortune": [
+     0,
+     1,
+     0
+    ],
+    "UkrMedia News": [
      0,
      1,
      0
