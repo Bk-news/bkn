@@ -15118,17 +15118,17 @@
    }
   },
   "2026-11-18": {
-   "total": 1121,
-   "news": 1093,
+   "total": 1124,
+   "news": 1096,
    "articles": 28,
    "positive": 0,
-   "neutral": 1121,
+   "neutral": 1124,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "GB": 479,
-    "SA": 142,
-    "US": 266,
+    "SA": 144,
+    "US": 267,
     "FR": 36,
     "HK": 10,
     "DE": 9,
@@ -15137,11 +15137,11 @@
    "topics": {},
    "sources": {
     "The Guardian": 106,
-    "Arab News": 129,
+    "Arab News": 131,
     "The Washington Post": 15,
     "Al-Monitor": 70,
     "The Sun Nigeria": 1,
-    "The New York Times": 32,
+    "The New York Times": 33,
     "Arabian Gulf Business Insight | AGBI": 2,
     "AP News": 45,
     "WSJ": 63,
@@ -15275,7 +15275,7 @@
     ],
     "Arab News": [
      0,
-     129,
+     131,
      0
     ],
     "The Washington Post": [
@@ -15295,7 +15295,7 @@
     ],
     "The New York Times": [
      0,
-     32,
+     33,
      0
     ],
     "Arabian Gulf Business Insight | AGBI": [
@@ -15921,18 +15921,18 @@
    }
   },
   "2026-11-19": {
-   "total": 1308,
-   "news": 1276,
+   "total": 1313,
+   "news": 1281,
    "articles": 32,
    "positive": 0,
-   "neutral": 1308,
+   "neutral": 1313,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 445,
-    "SA": 122,
+    "GB": 446,
+    "SA": 124,
     "US": 330,
-    "FR": 143,
+    "FR": 145,
     "HK": 6,
     "DE": 8
    },
@@ -15940,17 +15940,17 @@
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
     "Reuters": 149,
-    "Arab News": 96,
+    "Arab News": 97,
     "The Guardian": 37,
     "Yemen Online": 3,
     "AP News": 49,
     "i24NEWS": 1,
-    "France 24": 130,
+    "France 24": 132,
     "Bloomberg": 3,
     "South China Morning Post": 6,
     "Atlantic Council": 19,
     "WSJ": 121,
-    "Financial Times": 135,
+    "Financial Times": 136,
     "Belaaz": 1,
     "Middle East Eye": 11,
     "UA.NEWS": 1,
@@ -15981,7 +15981,7 @@
     "Le Monde.fr": 14,
     "The Economist": 11,
     "CNN": 4,
-    "Saudi Gazette": 38,
+    "Saudi Gazette": 39,
     "News of Bahrain": 2,
     "UkrMedia News": 1,
     "https://houseofsaud.com/": 3,
@@ -16114,7 +16114,7 @@
     ],
     "Arab News": [
      0,
-     96,
+     97,
      0
     ],
     "The Guardian": [
@@ -16139,7 +16139,7 @@
     ],
     "France 24": [
      0,
-     130,
+     132,
      0
     ],
     "Bloomberg": [
@@ -16164,7 +16164,7 @@
     ],
     "Financial Times": [
      0,
-     135,
+     136,
      0
     ],
     "Belaaz": [
@@ -16319,7 +16319,7 @@
     ],
     "Saudi Gazette": [
      0,
-     38,
+     39,
      0
     ],
     "News of Bahrain": [
