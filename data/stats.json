@@ -16915,18 +16915,18 @@
    }
   },
   "2026-11-20": {
-   "total": 470,
-   "news": 465,
-   "articles": 5,
+   "total": 475,
+   "news": 469,
+   "articles": 6,
    "positive": 0,
-   "neutral": 470,
+   "neutral": 475,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 131,
-    "SA": 55,
+    "US": 132,
+    "SA": 56,
     "FR": 38,
-    "GB": 76,
+    "GB": 79,
     "HK": 5,
     "DE": 4,
     "JP": 1
@@ -16935,13 +16935,13 @@
    "sources": {
     "WSJ": 63,
     "The AFC": 1,
-    "Atlantic Council": 2,
+    "Atlantic Council": 3,
     "Al-Monitor": 19,
-    "Arab News": 41,
+    "Arab News": 42,
     "France 24": 38,
     "The New York Times": 10,
     "AP News": 15,
-    "The Guardian": 10,
+    "The Guardian": 11,
     "Financial Times": 13,
     "BBC": 18,
     "Yeni Safak English": 4,
@@ -16957,7 +16957,7 @@
     "The New Arab": 2,
     "Al Jazeera": 2,
     "Bloomberg.com": 21,
-    "Reuters": 35,
+    "Reuters": 37,
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -17072,7 +17072,7 @@
     ],
     "Atlantic Council": [
      0,
-     2,
+     3,
      0
     ],
     "Al-Monitor": [
@@ -17082,7 +17082,7 @@
     ],
     "Arab News": [
      0,
-     41,
+     42,
      0
     ],
     "France 24": [
@@ -17102,7 +17102,7 @@
     ],
     "The Guardian": [
      0,
-     10,
+     11,
      0
     ],
     "Financial Times": [
@@ -17182,7 +17182,7 @@
     ],
     "Reuters": [
      0,
-     35,
+     37,
      0
     ],
     "Bioengineer.org": [
