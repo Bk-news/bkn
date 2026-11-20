@@ -15921,17 +15921,17 @@
    }
   },
   "2026-11-19": {
-   "total": 1113,
-   "news": 1084,
-   "articles": 29,
+   "total": 1119,
+   "news": 1089,
+   "articles": 30,
    "positive": 0,
-   "neutral": 1113,
+   "neutral": 1119,
    "critical": 0,
    "mbs": 27,
    "countries": {
-    "GB": 382,
+    "GB": 386,
     "SA": 103,
-    "US": 257,
+    "US": 259,
     "FR": 109,
     "HK": 5,
     "DE": 5
@@ -15941,16 +15941,16 @@
     "Arabian Gulf Business Insight | AGBI": 3,
     "Reuters": 120,
     "Arab News": 81,
-    "The Guardian": 28,
+    "The Guardian": 29,
     "Yemen Online": 3,
-    "AP News": 44,
+    "AP News": 45,
     "i24NEWS": 1,
     "France 24": 100,
     "Bloomberg": 2,
     "South China Morning Post": 5,
-    "Atlantic Council": 17,
+    "Atlantic Council": 18,
     "WSJ": 105,
-    "Financial Times": 122,
+    "Financial Times": 125,
     "Belaaz": 1,
     "Middle East Eye": 11,
     "UA.NEWS": 1,
@@ -16119,7 +16119,7 @@
     ],
     "The Guardian": [
      0,
-     28,
+     29,
      0
     ],
     "Yemen Online": [
@@ -16129,7 +16129,7 @@
     ],
     "AP News": [
      0,
-     44,
+     45,
      0
     ],
     "i24NEWS": [
@@ -16154,7 +16154,7 @@
     ],
     "Atlantic Council": [
      0,
-     17,
+     18,
      0
     ],
     "WSJ": [
@@ -16164,7 +16164,7 @@
     ],
     "Financial Times": [
      0,
-     122,
+     125,
      0
     ],
     "Belaaz": [
@@ -16915,35 +16915,35 @@
    }
   },
   "2026-11-20": {
-   "total": 336,
-   "news": 331,
+   "total": 370,
+   "news": 365,
    "articles": 5,
    "positive": 0,
-   "neutral": 336,
+   "neutral": 370,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 88,
-    "SA": 43,
-    "FR": 34,
-    "GB": 50,
+    "US": 100,
+    "SA": 49,
+    "FR": 38,
+    "GB": 58,
     "HK": 4,
     "DE": 4,
     "JP": 1
    },
    "topics": {},
    "sources": {
-    "WSJ": 38,
+    "WSJ": 42,
     "The AFC": 1,
     "Atlantic Council": 2,
-    "Al-Monitor": 10,
-    "Arab News": 28,
-    "France 24": 34,
+    "Al-Monitor": 14,
+    "Arab News": 32,
+    "France 24": 38,
     "The New York Times": 9,
     "AP News": 12,
     "The Guardian": 9,
     "Financial Times": 13,
-    "BBC": 11,
+    "BBC": 15,
     "Yeni Safak English": 4,
     "Middle East Eye": 4,
     "X": 1,
@@ -16956,12 +16956,12 @@
     "cwibc.co.id": 1,
     "The New Arab": 1,
     "Al Jazeera": 1,
-    "Bloomberg.com": 17,
-    "Reuters": 16,
+    "Bloomberg.com": 21,
+    "Reuters": 21,
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
-    "Saudi Gazette": 21,
+    "Saudi Gazette": 23,
     "The Economist": 3,
     "Daily Sabah": 2,
     "South China Morning Post": 4,
@@ -16973,7 +16973,7 @@
     "The Region": 1,
     "DW.com": 1,
     "Eurasia Review": 1,
-    "ASHARQ AL-AWSAT English": 2,
+    "ASHARQ AL-AWSAT English": 3,
     "The Washington Post": 2,
     "EIN Presswire": 1,
     "Connected to India": 1,
@@ -17024,12 +17024,14 @@
     "Legis1": 1,
     "Standardbred Canada": 1,
     "BNN Bloomberg": 1,
-    "livetube.tv": 1
+    "livetube.tv": 1,
+    "Latin Times": 1,
+    "Tehran Times": 1
    },
    "sourceTone": {
     "WSJ": [
      0,
-     38,
+     42,
      0
     ],
     "The AFC": [
@@ -17044,17 +17046,17 @@
     ],
     "Al-Monitor": [
      0,
-     10,
+     14,
      0
     ],
     "Arab News": [
      0,
-     28,
+     32,
      0
     ],
     "France 24": [
      0,
-     34,
+     38,
      0
     ],
     "The New York Times": [
@@ -17079,7 +17081,7 @@
     ],
     "BBC": [
      0,
-     11,
+     15,
      0
     ],
     "Yeni Safak English": [
@@ -17144,12 +17146,12 @@
     ],
     "Bloomberg.com": [
      0,
-     17,
+     21,
      0
     ],
     "Reuters": [
      0,
-     16,
+     21,
      0
     ],
     "Bioengineer.org": [
@@ -17169,7 +17171,7 @@
     ],
     "Saudi Gazette": [
      0,
-     21,
+     23,
      0
     ],
     "The Economist": [
@@ -17229,7 +17231,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     2,
+     3,
      0
     ],
     "The Washington Post": [
@@ -17483,6 +17485,16 @@
      0
     ],
     "livetube.tv": [
+     0,
+     1,
+     0
+    ],
+    "Latin Times": [
+     0,
+     1,
+     0
+    ],
+    "Tehran Times": [
      0,
      1,
      0
