@@ -905,6 +905,27 @@
    "mt": true
   },
   {
+   "id": "61b490c7e36a9898",
+   "origin": "rss",
+   "source": "AP News",
+   "author": "",
+   "title_ar": "أخبار العالم: أهم أخبار العالم العاجلة اليوم",
+   "title_orig": "World News: Top & Breaking World News Today",
+   "title_en": "World News: Top & Breaking World News Today",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1PRFY2SmRjOGtzcEdoNlUzaU5aR2c4MnhydnlTTm9ZR3lOaEFNbzVhZGd3Zmh2S0IySTVERXRBX3pfTjA?oc=5",
+   "published": "2026-11-20T00:34:03.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "World News: Top & Breaking World News Today &nbsp;&nbsp; AP News",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "3cbc66531b105ee1",
    "origin": "rss",
    "source": "France 24",
