@@ -16891,17 +16891,17 @@
    }
   },
   "2026-11-20": {
-   "total": 223,
-   "news": 219,
+   "total": 226,
+   "news": 222,
    "articles": 4,
    "positive": 0,
-   "neutral": 223,
+   "neutral": 226,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "US": 56,
-    "SA": 22,
-    "FR": 24,
+    "SA": 23,
+    "FR": 25,
     "GB": 25,
     "HK": 2,
     "DE": 3,
@@ -16914,7 +16914,7 @@
     "Atlantic Council": 2,
     "Al-Monitor": 3,
     "Arab News": 14,
-    "France 24": 24,
+    "France 24": 25,
     "The New York Times": 5,
     "AP News": 7,
     "The Guardian": 4,
@@ -16937,7 +16937,7 @@
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
-    "Saudi Gazette": 12,
+    "Saudi Gazette": 13,
     "The Economist": 2,
     "Daily Sabah": 2,
     "South China Morning Post": 2,
@@ -16989,7 +16989,8 @@
     "Malay Mail": 1,
     "وكالة الأنباء السعودية": 1,
     "TradingView": 1,
-    "Business Standard": 1
+    "Business Standard": 1,
+    "Traders Union": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -17019,7 +17020,7 @@
     ],
     "France 24": [
      0,
-     24,
+     25,
      0
     ],
     "The New York Times": [
@@ -17134,7 +17135,7 @@
     ],
     "Saudi Gazette": [
      0,
-     12,
+     13,
      0
     ],
     "The Economist": [
@@ -17393,6 +17394,11 @@
      0
     ],
     "Business Standard": [
+     0,
+     1,
+     0
+    ],
+    "Traders Union": [
      0,
      1,
      0
