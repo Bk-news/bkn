@@ -15118,18 +15118,18 @@
    }
   },
   "2026-11-18": {
-   "total": 1005,
-   "news": 982,
+   "total": 1025,
+   "news": 1002,
    "articles": 23,
    "positive": 0,
-   "neutral": 1005,
+   "neutral": 1025,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "GB": 438,
-    "SA": 108,
-    "US": 229,
-    "FR": 33,
+    "GB": 448,
+    "SA": 115,
+    "US": 231,
+    "FR": 34,
     "HK": 10,
     "DE": 8,
     "JP": 3
@@ -15137,23 +15137,23 @@
    "topics": {},
    "sources": {
     "The Guardian": 105,
-    "Arab News": 98,
+    "Arab News": 105,
     "The Washington Post": 15,
     "Al-Monitor": 59,
     "The Sun Nigeria": 1,
     "The New York Times": 28,
     "Arabian Gulf Business Insight | AGBI": 2,
-    "AP News": 38,
+    "AP News": 40,
     "WSJ": 54,
     "Science Daily": 1,
-    "Reuters": 144,
+    "Reuters": 154,
     "BigGo Finance": 1,
     "Yahoo Sports": 3,
     "intlbm": 1,
     "Le Monde.fr": 12,
     "Bloomberg.com": 25,
     "South China Morning Post": 10,
-    "France 24": 18,
+    "France 24": 19,
     "Saudi Gazette": 31,
     "Financial Times": 85,
     "Spiegel": 8,
@@ -15275,7 +15275,7 @@
     ],
     "Arab News": [
      0,
-     98,
+     105,
      0
     ],
     "The Washington Post": [
@@ -15305,7 +15305,7 @@
     ],
     "AP News": [
      0,
-     38,
+     40,
      0
     ],
     "WSJ": [
@@ -15320,7 +15320,7 @@
     ],
     "Reuters": [
      0,
-     144,
+     154,
      0
     ],
     "BigGo Finance": [
@@ -15355,7 +15355,7 @@
     ],
     "France 24": [
      0,
-     18,
+     19,
      0
     ],
     "Saudi Gazette": [
@@ -15921,17 +15921,17 @@
    }
   },
   "2026-11-19": {
-   "total": 1054,
-   "news": 1026,
+   "total": 1060,
+   "news": 1032,
    "articles": 28,
    "positive": 0,
-   "neutral": 1054,
+   "neutral": 1060,
    "critical": 0,
    "mbs": 26,
    "countries": {
-    "GB": 345,
+    "GB": 350,
     "SA": 100,
-    "US": 246,
+    "US": 247,
     "FR": 108,
     "HK": 4,
     "DE": 5
@@ -15939,18 +15939,18 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Reuters": 109,
+    "Reuters": 112,
     "Arab News": 78,
     "The Guardian": 26,
     "Yemen Online": 3,
-    "AP News": 38,
+    "AP News": 39,
     "i24NEWS": 1,
     "France 24": 100,
     "Bloomberg": 2,
     "South China Morning Post": 4,
     "Atlantic Council": 16,
     "WSJ": 103,
-    "Financial Times": 98,
+    "Financial Times": 100,
     "Belaaz": 1,
     "Middle East Eye": 11,
     "UA.NEWS": 1,
@@ -16103,7 +16103,7 @@
     ],
     "Reuters": [
      0,
-     109,
+     112,
      0
     ],
     "Arab News": [
@@ -16123,7 +16123,7 @@
     ],
     "AP News": [
      0,
-     38,
+     39,
      0
     ],
     "i24NEWS": [
@@ -16158,7 +16158,7 @@
     ],
     "Financial Times": [
      0,
-     98,
+     100,
      0
     ],
     "Belaaz": [
@@ -16879,18 +16879,18 @@
    }
   },
   "2026-11-20": {
-   "total": 173,
-   "news": 169,
+   "total": 187,
+   "news": 183,
    "articles": 4,
    "positive": 0,
-   "neutral": 173,
+   "neutral": 187,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "US": 52,
     "SA": 19,
     "FR": 24,
-    "GB": 22,
+    "GB": 23,
     "HK": 2,
     "DE": 3,
     "JP": 1
@@ -16906,13 +16906,13 @@
     "The New York Times": 5,
     "AP News": 5,
     "The Guardian": 4,
-    "Financial Times": 6,
+    "Financial Times": 7,
     "BBC": 5,
     "Yeni Safak English": 3,
-    "Middle East Eye": 3,
+    "Middle East Eye": 4,
     "X": 1,
     "Yemen Online": 3,
-    "https://houseofsaud.com/": 2,
+    "https://houseofsaud.com/": 3,
     "Crypto Briefing": 1,
     "الحرة": 1,
     "Fragomen": 1,
@@ -16927,13 +16927,13 @@
     "Arabian Gulf Business Insight | AGBI": 1,
     "Saudi Gazette": 11,
     "The Economist": 2,
-    "Daily Sabah": 1,
+    "Daily Sabah": 2,
     "South China Morning Post": 2,
     "Spiegel": 3,
     "Nikkei Asia": 1,
     "جريدة القدس": 1,
     "la Repubblica": 1,
-    "Gulf Business": 3,
+    "Gulf Business": 4,
     "The Region": 1,
     "DW.com": 1,
     "Eurasia Review": 1,
@@ -16948,7 +16948,15 @@
     "Zawya": 1,
     "Gulf News": 1,
     "Fortune": 1,
-    "UkrMedia News": 1
+    "UkrMedia News": 1,
+    "Condé Nast Traveller Middle East": 1,
+    "Facebook": 1,
+    "شفق نيوز": 1,
+    "Al Arabiya English": 2,
+    "UA.NEWS": 1,
+    "EA WorldView": 1,
+    "hrme.economictimes.indiatimes.com": 1,
+    "fundsforNGOs - Grants and Resources for Sustainability": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -16998,7 +17006,7 @@
     ],
     "Financial Times": [
      0,
-     6,
+     7,
      0
     ],
     "BBC": [
@@ -17013,7 +17021,7 @@
     ],
     "Middle East Eye": [
      0,
-     3,
+     4,
      0
     ],
     "X": [
@@ -17028,7 +17036,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     2,
+     3,
      0
     ],
     "Crypto Briefing": [
@@ -17103,7 +17111,7 @@
     ],
     "Daily Sabah": [
      0,
-     1,
+     2,
      0
     ],
     "South China Morning Post": [
@@ -17133,7 +17141,7 @@
     ],
     "Gulf Business": [
      0,
-     3,
+     4,
      0
     ],
     "The Region": [
@@ -17207,6 +17215,46 @@
      0
     ],
     "UkrMedia News": [
+     0,
+     1,
+     0
+    ],
+    "Condé Nast Traveller Middle East": [
+     0,
+     1,
+     0
+    ],
+    "Facebook": [
+     0,
+     1,
+     0
+    ],
+    "شفق نيوز": [
+     0,
+     1,
+     0
+    ],
+    "Al Arabiya English": [
+     0,
+     2,
+     0
+    ],
+    "UA.NEWS": [
+     0,
+     1,
+     0
+    ],
+    "EA WorldView": [
+     0,
+     1,
+     0
+    ],
+    "hrme.economictimes.indiatimes.com": [
+     0,
+     1,
+     0
+    ],
+    "fundsforNGOs - Grants and Resources for Sustainability": [
      0,
      1,
      0
