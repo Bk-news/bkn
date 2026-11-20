@@ -15118,16 +15118,16 @@
    }
   },
   "2026-11-18": {
-   "total": 1039,
-   "news": 1016,
+   "total": 1042,
+   "news": 1019,
    "articles": 23,
    "positive": 0,
-   "neutral": 1039,
+   "neutral": 1042,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "GB": 450,
-    "SA": 121,
+    "GB": 451,
+    "SA": 123,
     "US": 237,
     "FR": 34,
     "HK": 10,
@@ -15137,7 +15137,7 @@
    "topics": {},
    "sources": {
     "The Guardian": 105,
-    "Arab News": 110,
+    "Arab News": 112,
     "The Washington Post": 15,
     "Al-Monitor": 60,
     "The Sun Nigeria": 1,
@@ -15146,7 +15146,7 @@
     "AP News": 44,
     "WSJ": 55,
     "Science Daily": 1,
-    "Reuters": 156,
+    "Reuters": 157,
     "BigGo Finance": 1,
     "Yahoo Sports": 3,
     "intlbm": 1,
@@ -15275,7 +15275,7 @@
     ],
     "Arab News": [
      0,
-     110,
+     112,
      0
     ],
     "The Washington Post": [
@@ -15320,7 +15320,7 @@
     ],
     "Reuters": [
      0,
-     156,
+     157,
      0
     ],
     "BigGo Finance": [
@@ -15921,16 +15921,16 @@
    }
   },
   "2026-11-19": {
-   "total": 1066,
-   "news": 1038,
+   "total": 1068,
+   "news": 1040,
    "articles": 28,
    "positive": 0,
-   "neutral": 1066,
+   "neutral": 1068,
    "critical": 0,
    "mbs": 26,
    "countries": {
-    "GB": 351,
-    "SA": 100,
+    "GB": 352,
+    "SA": 101,
     "US": 250,
     "FR": 108,
     "HK": 4,
@@ -15939,8 +15939,8 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Reuters": 113,
-    "Arab News": 78,
+    "Reuters": 114,
+    "Arab News": 79,
     "The Guardian": 26,
     "Yemen Online": 3,
     "AP News": 42,
@@ -16105,12 +16105,12 @@
     ],
     "Reuters": [
      0,
-     113,
+     114,
      0
     ],
     "Arab News": [
      0,
-     78,
+     79,
      0
     ],
     "The Guardian": [
@@ -16891,16 +16891,16 @@
    }
   },
   "2026-11-20": {
-   "total": 220,
-   "news": 216,
+   "total": 223,
+   "news": 219,
    "articles": 4,
    "positive": 0,
-   "neutral": 220,
+   "neutral": 223,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "US": 55,
-    "SA": 20,
+    "US": 56,
+    "SA": 22,
     "FR": 24,
     "GB": 25,
     "HK": 2,
@@ -16909,11 +16909,11 @@
    },
    "topics": {},
    "sources": {
-    "WSJ": 28,
+    "WSJ": 29,
     "The AFC": 1,
     "Atlantic Council": 2,
     "Al-Monitor": 3,
-    "Arab News": 12,
+    "Arab News": 14,
     "France 24": 24,
     "The New York Times": 5,
     "AP News": 7,
@@ -16994,7 +16994,7 @@
    "sourceTone": {
     "WSJ": [
      0,
-     28,
+     29,
      0
     ],
     "The AFC": [
@@ -17014,7 +17014,7 @@
     ],
     "Arab News": [
      0,
-     12,
+     14,
      0
     ],
     "France 24": [
