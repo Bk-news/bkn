@@ -15921,11 +15921,11 @@
    }
   },
   "2026-11-19": {
-   "total": 1068,
-   "news": 1040,
+   "total": 1069,
+   "news": 1041,
    "articles": 28,
    "positive": 0,
-   "neutral": 1068,
+   "neutral": 1069,
    "critical": 0,
    "mbs": 26,
    "countries": {
@@ -16095,7 +16095,8 @@
     "BBC Player": 1,
     "The Express Tribune": 1,
     "BioSpace": 1,
-    "shattered.io": 1
+    "shattered.io": 1,
+    "The Jerusalem Strategic Tribune": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -16887,20 +16888,25 @@
      0,
      1,
      0
+    ],
+    "The Jerusalem Strategic Tribune": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-20": {
-   "total": 226,
-   "news": 222,
+   "total": 227,
+   "news": 223,
    "articles": 4,
    "positive": 0,
-   "neutral": 226,
+   "neutral": 227,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "US": 56,
-    "SA": 23,
+    "SA": 24,
     "FR": 25,
     "GB": 25,
     "HK": 2,
@@ -16937,7 +16943,7 @@
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
-    "Saudi Gazette": 13,
+    "Saudi Gazette": 14,
     "The Economist": 2,
     "Daily Sabah": 2,
     "South China Morning Post": 2,
@@ -17135,7 +17141,7 @@
     ],
     "Saudi Gazette": [
      0,
-     13,
+     14,
      0
     ],
     "The Economist": [
