@@ -15921,32 +15921,32 @@
    }
   },
   "2026-11-19": {
-   "total": 1247,
-   "news": 1215,
+   "total": 1256,
+   "news": 1224,
    "articles": 32,
    "positive": 0,
-   "neutral": 1247,
+   "neutral": 1256,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 427,
-    "SA": 115,
-    "US": 311,
-    "FR": 126,
+    "GB": 432,
+    "SA": 116,
+    "US": 313,
+    "FR": 127,
     "HK": 6,
     "DE": 8
    },
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Reuters": 143,
-    "Arab News": 89,
+    "Reuters": 144,
+    "Arab News": 90,
     "The Guardian": 37,
     "Yemen Online": 3,
     "AP News": 49,
     "i24NEWS": 1,
-    "France 24": 113,
-    "Bloomberg": 2,
+    "France 24": 114,
+    "Bloomberg": 3,
     "South China Morning Post": 6,
     "Atlantic Council": 19,
     "WSJ": 117,
@@ -15962,7 +15962,7 @@
     "Crypto Briefing": 3,
     "Chosunbiz": 1,
     "Mezha.net": 2,
-    "Al-Monitor": 45,
+    "Al-Monitor": 46,
     "Critical Threats": 1,
     "DNE Africa": 1,
     "Wamda": 1,
@@ -15974,7 +15974,7 @@
     "The Independent": 2,
     "تسنیم": 1,
     "Bloomberg.com": 33,
-    "BBC": 108,
+    "BBC": 112,
     "Spiegel": 8,
     "The Washington Post": 9,
     "ASHARQ AL-AWSAT English": 3,
@@ -16109,12 +16109,12 @@
     ],
     "Reuters": [
      0,
-     143,
+     144,
      0
     ],
     "Arab News": [
      0,
-     89,
+     90,
      0
     ],
     "The Guardian": [
@@ -16139,12 +16139,12 @@
     ],
     "France 24": [
      0,
-     113,
+     114,
      0
     ],
     "Bloomberg": [
      0,
-     2,
+     3,
      0
     ],
     "South China Morning Post": [
@@ -16224,7 +16224,7 @@
     ],
     "Al-Monitor": [
      0,
-     45,
+     46,
      0
     ],
     "Critical Threats": [
@@ -16284,7 +16284,7 @@
     ],
     "BBC": [
      0,
-     108,
+     112,
      0
     ],
     "Spiegel": [
@@ -16915,25 +16915,25 @@
    }
   },
   "2026-11-20": {
-   "total": 466,
-   "news": 461,
+   "total": 470,
+   "news": 465,
    "articles": 5,
    "positive": 0,
-   "neutral": 466,
+   "neutral": 470,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 130,
+    "US": 131,
     "SA": 55,
     "FR": 38,
-    "GB": 73,
+    "GB": 76,
     "HK": 5,
     "DE": 4,
     "JP": 1
    },
    "topics": {},
    "sources": {
-    "WSJ": 62,
+    "WSJ": 63,
     "The AFC": 1,
     "Atlantic Council": 2,
     "Al-Monitor": 19,
@@ -16943,7 +16943,7 @@
     "AP News": 15,
     "The Guardian": 10,
     "Financial Times": 13,
-    "BBC": 16,
+    "BBC": 18,
     "Yeni Safak English": 4,
     "Middle East Eye": 4,
     "X": 1,
@@ -16957,7 +16957,7 @@
     "The New Arab": 2,
     "Al Jazeera": 2,
     "Bloomberg.com": 21,
-    "Reuters": 34,
+    "Reuters": 35,
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -17062,7 +17062,7 @@
    "sourceTone": {
     "WSJ": [
      0,
-     62,
+     63,
      0
     ],
     "The AFC": [
@@ -17112,7 +17112,7 @@
     ],
     "BBC": [
      0,
-     16,
+     18,
      0
     ],
     "Yeni Safak English": [
@@ -17182,7 +17182,7 @@
     ],
     "Reuters": [
      0,
-     34,
+     35,
      0
     ],
     "Bioengineer.org": [
