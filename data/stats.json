@@ -15921,18 +15921,18 @@
    }
   },
   "2026-11-19": {
-   "total": 1234,
-   "news": 1202,
+   "total": 1242,
+   "news": 1210,
    "articles": 32,
    "positive": 0,
-   "neutral": 1234,
+   "neutral": 1242,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 424,
-    "SA": 113,
-    "US": 305,
-    "FR": 124,
+    "GB": 426,
+    "SA": 114,
+    "US": 308,
+    "FR": 126,
     "HK": 6,
     "DE": 8
    },
@@ -15940,17 +15940,17 @@
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
     "Reuters": 143,
-    "Arab News": 87,
-    "The Guardian": 35,
+    "Arab News": 88,
+    "The Guardian": 36,
     "Yemen Online": 3,
     "AP News": 48,
     "i24NEWS": 1,
-    "France 24": 111,
+    "France 24": 113,
     "Bloomberg": 2,
     "South China Morning Post": 6,
     "Atlantic Council": 19,
     "WSJ": 117,
-    "Financial Times": 131,
+    "Financial Times": 132,
     "Belaaz": 1,
     "Middle East Eye": 11,
     "UA.NEWS": 1,
@@ -15962,14 +15962,14 @@
     "Crypto Briefing": 3,
     "Chosunbiz": 1,
     "Mezha.net": 2,
-    "Al-Monitor": 43,
+    "Al-Monitor": 45,
     "Critical Threats": 1,
     "DNE Africa": 1,
     "Wamda": 1,
     "National Herald": 1,
     "The Daily Star": 1,
     "www.jordannews.jo": 1,
-    "The New York Times": 33,
+    "The New York Times": 34,
     "Breakingthenews.net": 1,
     "The Independent": 2,
     "تسنیم": 1,
@@ -16114,12 +16114,12 @@
     ],
     "Arab News": [
      0,
-     87,
+     88,
      0
     ],
     "The Guardian": [
      0,
-     35,
+     36,
      0
     ],
     "Yemen Online": [
@@ -16139,7 +16139,7 @@
     ],
     "France 24": [
      0,
-     111,
+     113,
      0
     ],
     "Bloomberg": [
@@ -16164,7 +16164,7 @@
     ],
     "Financial Times": [
      0,
-     131,
+     132,
      0
     ],
     "Belaaz": [
@@ -16224,7 +16224,7 @@
     ],
     "Al-Monitor": [
      0,
-     43,
+     45,
      0
     ],
     "Critical Threats": [
@@ -16259,7 +16259,7 @@
     ],
     "The New York Times": [
      0,
-     33,
+     34,
      0
     ],
     "Breakingthenews.net": [
@@ -16915,15 +16915,15 @@
    }
   },
   "2026-11-20": {
-   "total": 465,
-   "news": 460,
+   "total": 466,
+   "news": 461,
    "articles": 5,
    "positive": 0,
-   "neutral": 465,
+   "neutral": 466,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 129,
+    "US": 130,
     "SA": 55,
     "FR": 38,
     "GB": 73,
@@ -16933,7 +16933,7 @@
    },
    "topics": {},
    "sources": {
-    "WSJ": 61,
+    "WSJ": 62,
     "The AFC": 1,
     "Atlantic Council": 2,
     "Al-Monitor": 19,
@@ -17062,7 +17062,7 @@
    "sourceTone": {
     "WSJ": [
      0,
-     61,
+     62,
      0
     ],
     "The AFC": [
