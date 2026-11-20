@@ -1,5 +1,17 @@
 [
  {
+  "id": "1ab19d9f777f2daf",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "رئيس وزراء أستراليا: علاقتنا إيجابية مع الصين ولا تحددها الخلافات",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/154621",
+  "published": "2026-11-20T03:10:19.000Z",
+  "subject": "saudi",
+  "added": "2026-11-20T03:10:19.000Z"
+ },
+ {
   "id": "e36cfaf68f0fbc40",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -106,17 +118,5 @@
   "published": "2026-11-20T02:18:02.000Z",
   "subject": "saudi",
   "added": "2026-11-20T02:18:02.000Z"
- },
- {
-  "id": "8de712f2cee86923",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "رويترز: سعر أوقية الذهب يهبط إلى نحو 3551.7 دولار",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/154611",
-  "published": "2026-11-20T02:11:02.000Z",
-  "subject": "saudi",
-  "added": "2026-11-20T02:11:02.000Z"
  }
 ]
