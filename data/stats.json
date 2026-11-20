@@ -16915,18 +16915,18 @@
    }
   },
   "2026-11-20": {
-   "total": 505,
-   "news": 499,
+   "total": 507,
+   "news": 501,
    "articles": 6,
    "positive": 0,
-   "neutral": 505,
+   "neutral": 507,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 151,
     "SA": 56,
     "FR": 39,
-    "GB": 85,
+    "GB": 86,
     "HK": 5,
     "DE": 4,
     "JP": 1
@@ -16957,7 +16957,7 @@
     "The New Arab": 2,
     "Al Jazeera": 2,
     "Bloomberg.com": 23,
-    "Reuters": 41,
+    "Reuters": 42,
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -17031,7 +17031,7 @@
     "The National": 1,
     "Screen Daily": 1,
     "Peoples Gazette Nigeria": 1,
-    "Global Arab Network": 1,
+    "Global Arab Network": 2,
     "shattered.io": 1,
     "Kurdistan24": 1,
     "news.sbs.co.kr": 1,
@@ -17186,7 +17186,7 @@
     ],
     "Reuters": [
      0,
-     41,
+     42,
      0
     ],
     "Bioengineer.org": [
@@ -17556,7 +17556,7 @@
     ],
     "Global Arab Network": [
      0,
-     1,
+     2,
      0
     ],
     "shattered.io": [
