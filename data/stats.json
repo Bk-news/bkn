@@ -15118,17 +15118,17 @@
    }
   },
   "2026-11-18": {
-   "total": 969,
-   "news": 946,
+   "total": 984,
+   "news": 961,
    "articles": 23,
    "positive": 0,
-   "neutral": 969,
+   "neutral": 984,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "GB": 430,
-    "SA": 99,
-    "US": 213,
+    "GB": 434,
+    "SA": 102,
+    "US": 221,
     "FR": 30,
     "HK": 10,
     "DE": 8,
@@ -15136,14 +15136,14 @@
    },
    "topics": {},
    "sources": {
-    "The Guardian": 104,
-    "Arab News": 90,
+    "The Guardian": 105,
+    "Arab News": 93,
     "The Washington Post": 15,
-    "Al-Monitor": 51,
+    "Al-Monitor": 55,
     "The Sun Nigeria": 1,
     "The New York Times": 28,
     "Arabian Gulf Business Insight | AGBI": 2,
-    "AP News": 36,
+    "AP News": 38,
     "WSJ": 50,
     "Science Daily": 1,
     "Reuters": 144,
@@ -15151,14 +15151,14 @@
     "Yahoo Sports": 3,
     "intlbm": 1,
     "Le Monde.fr": 11,
-    "Bloomberg.com": 23,
+    "Bloomberg.com": 25,
     "South China Morning Post": 10,
     "France 24": 16,
     "Saudi Gazette": 30,
-    "Financial Times": 80,
+    "Financial Times": 81,
     "Spiegel": 8,
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1,
-    "BBC": 89,
+    "BBC": 91,
     "The National Law Review": 1,
     "خبرگزاری بین المللی قرآن": 1,
     "Middle East Monitor": 1,
@@ -15270,12 +15270,12 @@
    "sourceTone": {
     "The Guardian": [
      0,
-     104,
+     105,
      0
     ],
     "Arab News": [
      0,
-     90,
+     93,
      0
     ],
     "The Washington Post": [
@@ -15285,7 +15285,7 @@
     ],
     "Al-Monitor": [
      0,
-     51,
+     55,
      0
     ],
     "The Sun Nigeria": [
@@ -15305,7 +15305,7 @@
     ],
     "AP News": [
      0,
-     36,
+     38,
      0
     ],
     "WSJ": [
@@ -15345,7 +15345,7 @@
     ],
     "Bloomberg.com": [
      0,
-     23,
+     25,
      0
     ],
     "South China Morning Post": [
@@ -15365,7 +15365,7 @@
     ],
     "Financial Times": [
      0,
-     80,
+     81,
      0
     ],
     "Spiegel": [
@@ -15380,7 +15380,7 @@
     ],
     "BBC": [
      0,
-     89,
+     91,
      0
     ],
     "The National Law Review": [
@@ -15921,17 +15921,17 @@
    }
   },
   "2026-11-19": {
-   "total": 1028,
-   "news": 1000,
+   "total": 1044,
+   "news": 1016,
    "articles": 28,
    "positive": 0,
-   "neutral": 1028,
+   "neutral": 1044,
    "critical": 0,
    "mbs": 26,
    "countries": {
-    "GB": 331,
+    "GB": 339,
     "SA": 100,
-    "US": 240,
+    "US": 244,
     "FR": 107,
     "HK": 4,
     "DE": 5
@@ -15939,7 +15939,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Reuters": 99,
+    "Reuters": 103,
     "Arab News": 78,
     "The Guardian": 26,
     "Yemen Online": 3,
@@ -15949,8 +15949,8 @@
     "Bloomberg": 2,
     "South China Morning Post": 4,
     "Atlantic Council": 16,
-    "WSJ": 97,
-    "Financial Times": 95,
+    "WSJ": 101,
+    "Financial Times": 98,
     "Belaaz": 1,
     "Middle East Eye": 11,
     "UA.NEWS": 1,
@@ -15994,7 +15994,7 @@
     "India Today": 1,
     "The AFC": 3,
     "سانا": 2,
-    "وكالة سوا الإخبارية": 1,
+    "وكالة سوا الإخبارية": 3,
     "Arab News PK": 2,
     "samaa tv": 1,
     "horn review": 1,
@@ -16090,7 +16090,10 @@
     "IndexBox": 1,
     "tippinsights": 1,
     "The Financial Express": 1,
-    "Firstpost": 1
+    "Firstpost": 1,
+    "Pakistan Today": 1,
+    "BBC Player": 1,
+    "The Express Tribune": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -16100,7 +16103,7 @@
     ],
     "Reuters": [
      0,
-     99,
+     103,
      0
     ],
     "Arab News": [
@@ -16150,12 +16153,12 @@
     ],
     "WSJ": [
      0,
-     97,
+     101,
      0
     ],
     "Financial Times": [
      0,
-     95,
+     98,
      0
     ],
     "Belaaz": [
@@ -16375,7 +16378,7 @@
     ],
     "وكالة سوا الإخبارية": [
      0,
-     1,
+     3,
      0
     ],
     "Arab News PK": [
@@ -16857,22 +16860,37 @@
      0,
      1,
      0
+    ],
+    "Pakistan Today": [
+     0,
+     1,
+     0
+    ],
+    "BBC Player": [
+     0,
+     1,
+     0
+    ],
+    "The Express Tribune": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-20": {
-   "total": 155,
-   "news": 151,
+   "total": 164,
+   "news": 160,
    "articles": 4,
    "positive": 0,
-   "neutral": 155,
+   "neutral": 164,
    "critical": 0,
    "mbs": 4,
    "countries": {
     "US": 52,
     "SA": 19,
-    "FR": 17,
-    "GB": 21,
+    "FR": 21,
+    "GB": 22,
     "HK": 2,
     "DE": 3,
     "JP": 1
@@ -16883,13 +16901,13 @@
     "The AFC": 1,
     "Atlantic Council": 2,
     "Al-Monitor": 3,
-    "Arab News": 9,
-    "France 24": 17,
+    "Arab News": 10,
+    "France 24": 21,
     "The New York Times": 5,
     "AP News": 5,
     "The Guardian": 4,
     "Financial Times": 6,
-    "BBC": 4,
+    "BBC": 5,
     "Yeni Safak English": 3,
     "Middle East Eye": 3,
     "X": 1,
@@ -16915,7 +16933,7 @@
     "Nikkei Asia": 1,
     "جريدة القدس": 1,
     "la Repubblica": 1,
-    "Gulf Business": 2,
+    "Gulf Business": 3,
     "The Region": 1,
     "DW.com": 1,
     "Eurasia Review": 1,
@@ -16924,7 +16942,9 @@
     "EIN Presswire": 1,
     "Connected to India": 1,
     "Moneycontrol.com": 1,
-    "Free Malaysia Today": 1
+    "Free Malaysia Today": 1,
+    "Yahoo": 1,
+    "Opinio Juris": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -16949,12 +16969,12 @@
     ],
     "Arab News": [
      0,
-     9,
+     10,
      0
     ],
     "France 24": [
      0,
-     17,
+     21,
      0
     ],
     "The New York Times": [
@@ -16979,7 +16999,7 @@
     ],
     "BBC": [
      0,
-     4,
+     5,
      0
     ],
     "Yeni Safak English": [
@@ -17109,7 +17129,7 @@
     ],
     "Gulf Business": [
      0,
-     2,
+     3,
      0
     ],
     "The Region": [
@@ -17153,6 +17173,16 @@
      0
     ],
     "Free Malaysia Today": [
+     0,
+     1,
+     0
+    ],
+    "Yahoo": [
+     0,
+     1,
+     0
+    ],
+    "Opinio Juris": [
      0,
      1,
      0
