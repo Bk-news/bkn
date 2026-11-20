@@ -15118,15 +15118,15 @@
    }
   },
   "2026-11-18": {
-   "total": 1093,
-   "news": 1065,
+   "total": 1094,
+   "news": 1066,
    "articles": 28,
    "positive": 0,
-   "neutral": 1093,
+   "neutral": 1094,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "GB": 469,
+    "GB": 470,
     "SA": 137,
     "US": 254,
     "FR": 35,
@@ -15146,7 +15146,7 @@
     "AP News": 45,
     "WSJ": 55,
     "Science Daily": 1,
-    "Reuters": 167,
+    "Reuters": 168,
     "BigGo Finance": 1,
     "Yahoo Sports": 3,
     "intlbm": 1,
@@ -15320,7 +15320,7 @@
     ],
     "Reuters": [
      0,
-     167,
+     168,
      0
     ],
     "BigGo Finance": [
@@ -16909,18 +16909,18 @@
    }
   },
   "2026-11-20": {
-   "total": 250,
-   "news": 246,
+   "total": 252,
+   "news": 248,
    "articles": 4,
    "positive": 0,
-   "neutral": 250,
+   "neutral": 252,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "US": 61,
+    "US": 62,
     "SA": 32,
     "FR": 25,
-    "GB": 30,
+    "GB": 31,
     "HK": 2,
     "DE": 3,
     "JP": 1
@@ -16933,7 +16933,7 @@
     "Al-Monitor": 5,
     "Arab News": 21,
     "France 24": 25,
-    "The New York Times": 6,
+    "The New York Times": 7,
     "AP News": 7,
     "The Guardian": 7,
     "Financial Times": 8,
@@ -16951,7 +16951,7 @@
     "The New Arab": 1,
     "Al Jazeera": 1,
     "Bloomberg.com": 11,
-    "Reuters": 9,
+    "Reuters": 10,
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -17045,7 +17045,7 @@
     ],
     "The New York Times": [
      0,
-     6,
+     7,
      0
     ],
     "AP News": [
@@ -17135,7 +17135,7 @@
     ],
     "Reuters": [
      0,
-     9,
+     10,
      0
     ],
     "Bioengineer.org": [
