@@ -15118,15 +15118,15 @@
    }
   },
   "2026-11-18": {
-   "total": 833,
-   "news": 816,
+   "total": 840,
+   "news": 823,
    "articles": 17,
    "positive": 0,
-   "neutral": 833,
+   "neutral": 840,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "GB": 390,
+    "GB": 397,
     "SA": 92,
     "US": 135,
     "FR": 26,
@@ -15146,7 +15146,7 @@
     "AP News": 30,
     "WSJ": 11,
     "Science Daily": 1,
-    "Reuters": 121,
+    "Reuters": 127,
     "BigGo Finance": 1,
     "Yahoo Sports": 3,
     "intlbm": 1,
@@ -15158,7 +15158,7 @@
     "Financial Times": 77,
     "Spiegel": 5,
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1,
-    "BBC": 83,
+    "BBC": 84,
     "The National Law Review": 1,
     "خبرگزاری بین المللی قرآن": 1,
     "Middle East Monitor": 1,
@@ -15320,7 +15320,7 @@
     ],
     "Reuters": [
      0,
-     121,
+     127,
      0
     ],
     "BigGo Finance": [
@@ -15380,7 +15380,7 @@
     ],
     "BBC": [
      0,
-     83,
+     84,
      0
     ],
     "The National Law Review": [
@@ -15921,40 +15921,40 @@
    }
   },
   "2026-11-19": {
-   "total": 869,
-   "news": 842,
+   "total": 901,
+   "news": 874,
    "articles": 27,
    "positive": 0,
-   "neutral": 869,
+   "neutral": 901,
    "critical": 0,
    "mbs": 25,
    "countries": {
-    "GB": 293,
+    "GB": 295,
     "SA": 94,
-    "US": 145,
-    "FR": 105,
+    "US": 170,
+    "FR": 107,
     "HK": 4,
     "DE": 5
    },
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Reuters": 74,
+    "Reuters": 76,
     "Arab News": 72,
     "The Guardian": 26,
     "Yemen Online": 3,
     "AP News": 25,
     "i24NEWS": 1,
-    "France 24": 97,
+    "France 24": 99,
     "Bloomberg": 2,
     "South China Morning Post": 4,
     "Atlantic Council": 15,
-    "WSJ": 24,
+    "WSJ": 48,
     "Financial Times": 86,
     "Belaaz": 1,
     "Middle East Eye": 10,
     "UA.NEWS": 1,
-    "Yahoo": 3,
+    "Yahoo": 4,
     "Charlotte Observer": 1,
     "X": 1,
     "Bioengineer.org": 7,
@@ -15969,7 +15969,7 @@
     "National Herald": 1,
     "The Daily Star": 1,
     "www.jordannews.jo": 1,
-    "The New York Times": 21,
+    "The New York Times": 22,
     "Breakingthenews.net": 1,
     "The Independent": 2,
     "تسنیم": 1,
@@ -16051,12 +16051,12 @@
     "BigGo Finance": 1,
     "Nacionale": 4,
     "Dave.Sport": 1,
-    "Arabian Business": 3,
+    "Arabian Business": 4,
     "Iran International": 2,
     "EnergyNow.com": 1,
     "news.sbs.co.kr": 1,
     "Middle East Monitor": 2,
-    "Fox News": 1,
+    "Fox News": 2,
     "Business Insider Africa": 1,
     "وكالة الأنباء السعودية": 2,
     "Atalayar": 1,
@@ -16092,7 +16092,7 @@
     ],
     "Reuters": [
      0,
-     74,
+     76,
      0
     ],
     "Arab News": [
@@ -16122,7 +16122,7 @@
     ],
     "France 24": [
      0,
-     97,
+     99,
      0
     ],
     "Bloomberg": [
@@ -16142,7 +16142,7 @@
     ],
     "WSJ": [
      0,
-     24,
+     48,
      0
     ],
     "Financial Times": [
@@ -16167,7 +16167,7 @@
     ],
     "Yahoo": [
      0,
-     3,
+     4,
      0
     ],
     "Charlotte Observer": [
@@ -16242,7 +16242,7 @@
     ],
     "The New York Times": [
      0,
-     21,
+     22,
      0
     ],
     "Breakingthenews.net": [
@@ -16652,7 +16652,7 @@
     ],
     "Arabian Business": [
      0,
-     3,
+     4,
      0
     ],
     "Iran International": [
@@ -16677,7 +16677,7 @@
     ],
     "Fox News": [
      0,
-     1,
+     2,
      0
     ],
     "Business Insider Africa": [
@@ -16813,11 +16813,11 @@
    }
   },
   "2026-11-20": {
-   "total": 34,
-   "news": 33,
+   "total": 35,
+   "news": 34,
    "articles": 1,
    "positive": 0,
-   "neutral": 34,
+   "neutral": 35,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -16847,7 +16847,8 @@
     "Crypto Briefing": 1,
     "الحرة": 1,
     "Fragomen": 1,
-    "Yahoo Sports": 1
+    "Yahoo Sports": 1,
+    "cwibc.co.id": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -16946,6 +16947,11 @@
      0
     ],
     "Yahoo Sports": [
+     0,
+     1,
+     0
+    ],
+    "cwibc.co.id": [
      0,
      1,
      0
