@@ -1,21 +1,24 @@
 {
- "run": "2026-11-20T19:15:38.577Z",
+ "run": "2026-11-20T19:16:38.942Z",
  "key": true,
  "model": "claude-haiku-5-5",
- "feedsOk": 24,
- "feedsFailed": [],
- "fetched": 1095,
- "fresh": 0,
- "world": 0,
- "analyzed": 0,
- "analyzeErrors": 0,
- "lastError": "Anthropic 401: {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChEiTFA9yjpdrphc9qy2z\"}",
+ "feedsOk": 23,
+ "feedsFailed": [
+  "The Wall Street Journal: HTTP 429"
+ ],
+ "fetched": 1000,
+ "fresh": 3,
+ "world": 3,
+ "analyzed": 2,
+ "analyzeErrors": 1,
+ "lastError": "Anthropic 401: {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChEiXhkvPccGnyXGzu1XX\"}",
  "telegram": 20,
  "royal": 0,
+ "mt": 3,
  "keyRejected": true,
- "pending": 744,
+ "pending": 747,
  "added": {
-  "news": 0,
+  "news": 3,
   "articles": 0,
   "breaking": 0
  }

@@ -15921,17 +15921,17 @@
    }
   },
   "2026-11-19": {
-   "total": 1314,
-   "news": 1282,
+   "total": 1316,
+   "news": 1284,
    "articles": 32,
    "positive": 0,
-   "neutral": 1314,
+   "neutral": 1316,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 446,
+    "GB": 447,
     "SA": 124,
-    "US": 330,
+    "US": 331,
     "FR": 146,
     "HK": 6,
     "DE": 8
@@ -15943,14 +15943,14 @@
     "Arab News": 97,
     "The Guardian": 37,
     "Yemen Online": 3,
-    "AP News": 49,
+    "AP News": 50,
     "i24NEWS": 1,
     "France 24": 133,
     "Bloomberg": 3,
     "South China Morning Post": 6,
     "Atlantic Council": 19,
     "WSJ": 121,
-    "Financial Times": 136,
+    "Financial Times": 137,
     "Belaaz": 1,
     "Middle East Eye": 11,
     "UA.NEWS": 1,
@@ -16129,7 +16129,7 @@
     ],
     "AP News": [
      0,
-     49,
+     50,
      0
     ],
     "i24NEWS": [
@@ -16164,7 +16164,7 @@
     ],
     "Financial Times": [
      0,
-     136,
+     137,
      0
     ],
     "Belaaz": [
@@ -16915,15 +16915,15 @@
    }
   },
   "2026-11-20": {
-   "total": 500,
-   "news": 494,
+   "total": 501,
+   "news": 495,
    "articles": 6,
    "positive": 0,
-   "neutral": 500,
+   "neutral": 501,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 148,
+    "US": 149,
     "SA": 56,
     "FR": 39,
     "GB": 85,
@@ -16940,7 +16940,7 @@
     "Arab News": 42,
     "France 24": 39,
     "The New York Times": 11,
-    "AP News": 15,
+    "AP News": 16,
     "The Guardian": 12,
     "Financial Times": 14,
     "BBC": 18,
@@ -17099,7 +17099,7 @@
     ],
     "AP News": [
      0,
-     15,
+     16,
      0
     ],
     "The Guardian": [
