@@ -16909,11 +16909,11 @@
    }
   },
   "2026-11-20": {
-   "total": 245,
-   "news": 241,
+   "total": 246,
+   "news": 242,
    "articles": 4,
    "positive": 0,
-   "neutral": 245,
+   "neutral": 246,
    "critical": 0,
    "mbs": 4,
    "countries": {
@@ -17009,7 +17009,8 @@
     "TradingView": 1,
     "Business Standard": 1,
     "Traders Union": 1,
-    "www.marketscreener.com": 1
+    "www.marketscreener.com": 1,
+    "Egyptian Gazette": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -17423,6 +17424,11 @@
      0
     ],
     "www.marketscreener.com": [
+     0,
+     1,
+     0
+    ],
+    "Egyptian Gazette": [
      0,
      1,
      0
