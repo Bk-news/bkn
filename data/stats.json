@@ -15118,15 +15118,15 @@
    }
   },
   "2026-11-18": {
-   "total": 1118,
-   "news": 1090,
+   "total": 1119,
+   "news": 1091,
    "articles": 28,
    "positive": 0,
-   "neutral": 1118,
+   "neutral": 1119,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "GB": 476,
+    "GB": 477,
     "SA": 142,
     "US": 266,
     "FR": 36,
@@ -15146,7 +15146,7 @@
     "AP News": 45,
     "WSJ": 63,
     "Science Daily": 1,
-    "Reuters": 172,
+    "Reuters": 173,
     "BigGo Finance": 1,
     "Yahoo Sports": 3,
     "intlbm": 1,
@@ -15320,7 +15320,7 @@
     ],
     "Reuters": [
      0,
-     172,
+     173,
      0
     ],
     "BigGo Finance": [
@@ -15921,31 +15921,31 @@
    }
   },
   "2026-11-19": {
-   "total": 1284,
-   "news": 1252,
+   "total": 1290,
+   "news": 1258,
    "articles": 32,
    "positive": 0,
-   "neutral": 1284,
+   "neutral": 1290,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 438,
+    "GB": 440,
     "SA": 121,
-    "US": 324,
-    "FR": 133,
+    "US": 326,
+    "FR": 135,
     "HK": 6,
     "DE": 8
    },
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Reuters": 147,
+    "Reuters": 148,
     "Arab News": 95,
     "The Guardian": 37,
     "Yemen Online": 3,
     "AP News": 49,
     "i24NEWS": 1,
-    "France 24": 120,
+    "France 24": 122,
     "Bloomberg": 3,
     "South China Morning Post": 6,
     "Atlantic Council": 19,
@@ -15962,19 +15962,19 @@
     "Crypto Briefing": 3,
     "Chosunbiz": 1,
     "Mezha.net": 2,
-    "Al-Monitor": 52,
+    "Al-Monitor": 53,
     "Critical Threats": 1,
     "DNE Africa": 1,
     "Wamda": 1,
     "National Herald": 1,
     "The Daily Star": 1,
     "www.jordannews.jo": 1,
-    "The New York Times": 36,
+    "The New York Times": 37,
     "Breakingthenews.net": 1,
     "The Independent": 2,
     "تسنیم": 1,
     "Bloomberg.com": 36,
-    "BBC": 114,
+    "BBC": 115,
     "Spiegel": 8,
     "The Washington Post": 9,
     "ASHARQ AL-AWSAT English": 3,
@@ -16109,7 +16109,7 @@
     ],
     "Reuters": [
      0,
-     147,
+     148,
      0
     ],
     "Arab News": [
@@ -16139,7 +16139,7 @@
     ],
     "France 24": [
      0,
-     120,
+     122,
      0
     ],
     "Bloomberg": [
@@ -16224,7 +16224,7 @@
     ],
     "Al-Monitor": [
      0,
-     52,
+     53,
      0
     ],
     "Critical Threats": [
@@ -16259,7 +16259,7 @@
     ],
     "The New York Times": [
      0,
-     36,
+     37,
      0
     ],
     "Breakingthenews.net": [
@@ -16284,7 +16284,7 @@
     ],
     "BBC": [
      0,
-     114,
+     115,
      0
     ],
     "Spiegel": [
