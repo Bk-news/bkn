@@ -15118,17 +15118,17 @@
    }
   },
   "2026-11-18": {
-   "total": 922,
-   "news": 905,
+   "total": 923,
+   "news": 906,
    "articles": 17,
    "positive": 0,
-   "neutral": 922,
+   "neutral": 923,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "GB": 414,
     "SA": 97,
-    "US": 191,
+    "US": 192,
     "FR": 28,
     "HK": 7,
     "DE": 6,
@@ -15144,7 +15144,7 @@
     "The New York Times": 24,
     "Arabian Gulf Business Insight | AGBI": 2,
     "AP News": 34,
-    "WSJ": 48,
+    "WSJ": 49,
     "Science Daily": 1,
     "Reuters": 139,
     "BigGo Finance": 1,
@@ -15310,7 +15310,7 @@
     ],
     "WSJ": [
      0,
-     48,
+     49,
      0
     ],
     "Science Daily": [
@@ -15921,17 +15921,17 @@
    }
   },
   "2026-11-19": {
-   "total": 980,
-   "news": 953,
+   "total": 986,
+   "news": 959,
    "articles": 27,
    "positive": 0,
-   "neutral": 980,
+   "neutral": 986,
    "critical": 0,
    "mbs": 25,
    "countries": {
-    "GB": 310,
+    "GB": 313,
     "SA": 99,
-    "US": 218,
+    "US": 221,
     "FR": 107,
     "HK": 4,
     "DE": 5
@@ -15939,17 +15939,17 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Reuters": 88,
+    "Reuters": 90,
     "Arab News": 77,
     "The Guardian": 26,
     "Yemen Online": 3,
-    "AP News": 31,
+    "AP News": 32,
     "i24NEWS": 1,
     "France 24": 99,
     "Bloomberg": 2,
     "South China Morning Post": 4,
     "Atlantic Council": 15,
-    "WSJ": 89,
+    "WSJ": 91,
     "Financial Times": 88,
     "Belaaz": 1,
     "Middle East Eye": 10,
@@ -15974,7 +15974,7 @@
     "The Independent": 2,
     "تسنیم": 1,
     "Bloomberg.com": 22,
-    "BBC": 103,
+    "BBC": 104,
     "Spiegel": 5,
     "The Washington Post": 5,
     "ASHARQ AL-AWSAT English": 3,
@@ -16097,7 +16097,7 @@
     ],
     "Reuters": [
      0,
-     88,
+     90,
      0
     ],
     "Arab News": [
@@ -16117,7 +16117,7 @@
     ],
     "AP News": [
      0,
-     31,
+     32,
      0
     ],
     "i24NEWS": [
@@ -16147,7 +16147,7 @@
     ],
     "WSJ": [
      0,
-     89,
+     91,
      0
     ],
     "Financial Times": [
@@ -16272,7 +16272,7 @@
     ],
     "BBC": [
      0,
-     103,
+     104,
      0
     ],
     "Spiegel": [
@@ -16843,11 +16843,11 @@
    }
   },
   "2026-11-20": {
-   "total": 59,
-   "news": 58,
+   "total": 60,
+   "news": 59,
    "articles": 1,
    "positive": 0,
-   "neutral": 59,
+   "neutral": 60,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -16870,7 +16870,7 @@
     "Financial Times": 2,
     "BBC": 1,
     "Yeni Safak English": 1,
-    "Middle East Eye": 2,
+    "Middle East Eye": 3,
     "X": 1,
     "Yemen Online": 2,
     "https://houseofsaud.com/": 1,
@@ -16949,7 +16949,7 @@
     ],
     "Middle East Eye": [
      0,
-     2,
+     3,
      0
     ],
     "X": [
