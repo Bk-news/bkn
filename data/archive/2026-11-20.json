@@ -2,6 +2,27 @@
  "day": "2026-11-20",
  "items": [
   {
+   "id": "4c4e6ed954ce9965",
+   "origin": "rss",
+   "source": "Insurance Journal",
+   "author": "",
+   "title_ar": "هجوم الحوثيين يدمر المباني في المركز المالي بالرياض",
+   "title_orig": "Houthi Attack Damaged Buildings in Riyadh Financial District",
+   "title_en": "Houthi Attack Damaged Buildings in Riyadh Financial District",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54UFJwWktYRW52ZWtpRXJ5TkNGTVlJU1p0MHAxcnA5bzZqT01taTB6eVhPQk9TSXU0ZVU3eFhSWm8yTDFWRTRtcTdQRUVZcUFDQTF1dTMzcUNXOEFURjhtcVRJOWZUX0xCQ1gxenlFYm5IZkRGaF9kbjE0Rzhvdw?oc=5",
+   "published": "2026-11-20T11:15:39.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "",
+   "pending": true,
+   "desc": "Houthi Attack Damaged Buildings in Riyadh Financial District &nbsp;&nbsp; Insurance Journal",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "9bea75f54fb129c3",
    "origin": "rss",
    "source": "Bloomberg.com",

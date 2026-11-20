@@ -15921,15 +15921,15 @@
    }
   },
   "2026-11-19": {
-   "total": 1106,
-   "news": 1078,
+   "total": 1107,
+   "news": 1079,
    "articles": 28,
    "positive": 0,
-   "neutral": 1106,
+   "neutral": 1107,
    "critical": 0,
    "mbs": 26,
    "countries": {
-    "GB": 380,
+    "GB": 381,
     "SA": 103,
     "US": 255,
     "FR": 108,
@@ -15939,7 +15939,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Reuters": 119,
+    "Reuters": 120,
     "Arab News": 81,
     "The Guardian": 27,
     "Yemen Online": 3,
@@ -16108,7 +16108,7 @@
     ],
     "Reuters": [
      0,
-     119,
+     120,
      0
     ],
     "Arab News": [
@@ -16909,11 +16909,11 @@
    }
   },
   "2026-11-20": {
-   "total": 259,
-   "news": 255,
+   "total": 260,
+   "news": 256,
    "articles": 4,
    "positive": 0,
-   "neutral": 259,
+   "neutral": 260,
    "critical": 0,
    "mbs": 4,
    "countries": {
@@ -17010,7 +17010,8 @@
     "Business Standard": 1,
     "Traders Union": 1,
     "www.marketscreener.com": 1,
-    "Egyptian Gazette": 1
+    "Egyptian Gazette": 1,
+    "Insurance Journal": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -17429,6 +17430,11 @@
      0
     ],
     "Egyptian Gazette": [
+     0,
+     1,
+     0
+    ],
+    "Insurance Journal": [
      0,
      1,
      0
