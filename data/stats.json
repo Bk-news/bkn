@@ -15921,18 +15921,18 @@
    }
   },
   "2026-11-19": {
-   "total": 1107,
-   "news": 1079,
+   "total": 1108,
+   "news": 1080,
    "articles": 28,
    "positive": 0,
-   "neutral": 1107,
+   "neutral": 1108,
    "critical": 0,
    "mbs": 26,
    "countries": {
     "GB": 381,
     "SA": 103,
     "US": 255,
-    "FR": 108,
+    "FR": 109,
     "HK": 4,
     "DE": 5
    },
@@ -15978,7 +15978,7 @@
     "Spiegel": 5,
     "The Washington Post": 6,
     "ASHARQ AL-AWSAT English": 3,
-    "Le Monde.fr": 9,
+    "Le Monde.fr": 10,
     "The Economist": 10,
     "CNN": 3,
     "Saudi Gazette": 34,
@@ -16303,7 +16303,7 @@
     ],
     "Le Monde.fr": [
      0,
-     9,
+     10,
      0
     ],
     "The Economist": [
@@ -16909,35 +16909,35 @@
    }
   },
   "2026-11-20": {
-   "total": 263,
-   "news": 259,
-   "articles": 4,
+   "total": 302,
+   "news": 297,
+   "articles": 5,
    "positive": 0,
-   "neutral": 263,
+   "neutral": 302,
    "critical": 0,
-   "mbs": 4,
+   "mbs": 6,
    "countries": {
-    "US": 64,
-    "SA": 32,
-    "FR": 28,
-    "GB": 31,
-    "HK": 2,
-    "DE": 3,
+    "US": 77,
+    "SA": 37,
+    "FR": 31,
+    "GB": 41,
+    "HK": 4,
+    "DE": 4,
     "JP": 1
    },
    "topics": {},
    "sources": {
-    "WSJ": 32,
+    "WSJ": 35,
     "The AFC": 1,
     "Atlantic Council": 2,
-    "Al-Monitor": 5,
-    "Arab News": 22,
-    "France 24": 28,
-    "The New York Times": 7,
-    "AP News": 7,
-    "The Guardian": 7,
-    "Financial Times": 8,
-    "BBC": 6,
+    "Al-Monitor": 7,
+    "Arab News": 25,
+    "France 24": 31,
+    "The New York Times": 9,
+    "AP News": 10,
+    "The Guardian": 9,
+    "Financial Times": 10,
+    "BBC": 8,
     "Yeni Safak English": 3,
     "Middle East Eye": 4,
     "X": 1,
@@ -16950,16 +16950,16 @@
     "cwibc.co.id": 1,
     "The New Arab": 1,
     "Al Jazeera": 1,
-    "Bloomberg.com": 12,
-    "Reuters": 10,
+    "Bloomberg.com": 14,
+    "Reuters": 13,
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
-    "Saudi Gazette": 16,
-    "The Economist": 2,
+    "Saudi Gazette": 18,
+    "The Economist": 3,
     "Daily Sabah": 2,
-    "South China Morning Post": 2,
-    "Spiegel": 3,
+    "South China Morning Post": 4,
+    "Spiegel": 4,
     "Nikkei Asia": 1,
     "جريدة القدس": 1,
     "la Repubblica": 1,
@@ -16968,7 +16968,7 @@
     "DW.com": 1,
     "Eurasia Review": 1,
     "ASHARQ AL-AWSAT English": 2,
-    "The Washington Post": 1,
+    "The Washington Post": 2,
     "EIN Presswire": 1,
     "Connected to India": 1,
     "Moneycontrol.com": 1,
@@ -16989,7 +16989,7 @@
     "fundsforNGOs - Grants and Resources for Sustainability": 1,
     "vijesti.me": 1,
     "Fana News -": 1,
-    "Anadolu Ajansı": 2,
+    "Anadolu Ajansı": 3,
     "Agenzia Nova": 1,
     "TRT World": 2,
     "Mehr News Agency": 1,
@@ -17011,12 +17011,16 @@
     "Traders Union": 1,
     "www.marketscreener.com": 1,
     "Egyptian Gazette": 1,
-    "Insurance Journal": 1
+    "Insurance Journal": 1,
+    "Livemint": 1,
+    "CNN": 1,
+    "Türkiye Today": 1,
+    "Legis1": 1
    },
    "sourceTone": {
     "WSJ": [
      0,
-     32,
+     35,
      0
     ],
     "The AFC": [
@@ -17031,42 +17035,42 @@
     ],
     "Al-Monitor": [
      0,
-     5,
+     7,
      0
     ],
     "Arab News": [
      0,
-     22,
+     25,
      0
     ],
     "France 24": [
      0,
-     28,
+     31,
      0
     ],
     "The New York Times": [
      0,
-     7,
+     9,
      0
     ],
     "AP News": [
      0,
-     7,
+     10,
      0
     ],
     "The Guardian": [
      0,
-     7,
+     9,
      0
     ],
     "Financial Times": [
      0,
-     8,
+     10,
      0
     ],
     "BBC": [
      0,
-     6,
+     8,
      0
     ],
     "Yeni Safak English": [
@@ -17131,12 +17135,12 @@
     ],
     "Bloomberg.com": [
      0,
-     12,
+     14,
      0
     ],
     "Reuters": [
      0,
-     10,
+     13,
      0
     ],
     "Bioengineer.org": [
@@ -17156,12 +17160,12 @@
     ],
     "Saudi Gazette": [
      0,
-     16,
+     18,
      0
     ],
     "The Economist": [
      0,
-     2,
+     3,
      0
     ],
     "Daily Sabah": [
@@ -17171,12 +17175,12 @@
     ],
     "South China Morning Post": [
      0,
-     2,
+     4,
      0
     ],
     "Spiegel": [
      0,
-     3,
+     4,
      0
     ],
     "Nikkei Asia": [
@@ -17221,7 +17225,7 @@
     ],
     "The Washington Post": [
      0,
-     1,
+     2,
      0
     ],
     "EIN Presswire": [
@@ -17326,7 +17330,7 @@
     ],
     "Anadolu Ajansı": [
      0,
-     2,
+     3,
      0
     ],
     "Agenzia Nova": [
@@ -17435,6 +17439,26 @@
      0
     ],
     "Insurance Journal": [
+     0,
+     1,
+     0
+    ],
+    "Livemint": [
+     0,
+     1,
+     0
+    ],
+    "CNN": [
+     0,
+     1,
+     0
+    ],
+    "Türkiye Today": [
+     0,
+     1,
+     0
+    ],
+    "Legis1": [
      0,
      1,
      0
