@@ -15118,15 +15118,15 @@
    }
   },
   "2026-11-18": {
-   "total": 1100,
-   "news": 1072,
+   "total": 1102,
+   "news": 1074,
    "articles": 28,
    "positive": 0,
-   "neutral": 1100,
+   "neutral": 1102,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "GB": 471,
+    "GB": 473,
     "SA": 137,
     "US": 258,
     "FR": 36,
@@ -15158,7 +15158,7 @@
     "Financial Times": 90,
     "Spiegel": 9,
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1,
-    "BBC": 92,
+    "BBC": 94,
     "The National Law Review": 1,
     "خبرگزاری بین المللی قرآن": 1,
     "Middle East Monitor": 1,
@@ -15380,7 +15380,7 @@
     ],
     "BBC": [
      0,
-     92,
+     94,
      0
     ],
     "The National Law Review": [
@@ -15921,18 +15921,18 @@
    }
   },
   "2026-11-19": {
-   "total": 1119,
-   "news": 1089,
+   "total": 1129,
+   "news": 1099,
    "articles": 30,
    "positive": 0,
-   "neutral": 1119,
+   "neutral": 1129,
    "critical": 0,
    "mbs": 27,
    "countries": {
-    "GB": 386,
-    "SA": 103,
-    "US": 259,
-    "FR": 109,
+    "GB": 388,
+    "SA": 104,
+    "US": 261,
+    "FR": 114,
     "HK": 5,
     "DE": 5
    },
@@ -15940,17 +15940,17 @@
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
     "Reuters": 120,
-    "Arab News": 81,
+    "Arab News": 82,
     "The Guardian": 29,
     "Yemen Online": 3,
     "AP News": 45,
     "i24NEWS": 1,
-    "France 24": 100,
+    "France 24": 105,
     "Bloomberg": 2,
     "South China Morning Post": 5,
     "Atlantic Council": 18,
     "WSJ": 105,
-    "Financial Times": 125,
+    "Financial Times": 126,
     "Belaaz": 1,
     "Middle East Eye": 11,
     "UA.NEWS": 1,
@@ -15962,7 +15962,7 @@
     "Crypto Briefing": 3,
     "Chosunbiz": 1,
     "Mezha.net": 2,
-    "Al-Monitor": 34,
+    "Al-Monitor": 35,
     "Critical Threats": 1,
     "DNE Africa": 1,
     "Wamda": 1,
@@ -15973,8 +15973,8 @@
     "Breakingthenews.net": 1,
     "The Independent": 2,
     "تسنیم": 1,
-    "Bloomberg.com": 24,
-    "BBC": 106,
+    "Bloomberg.com": 25,
+    "BBC": 107,
     "Spiegel": 5,
     "The Washington Post": 6,
     "ASHARQ AL-AWSAT English": 3,
@@ -16114,7 +16114,7 @@
     ],
     "Arab News": [
      0,
-     81,
+     82,
      0
     ],
     "The Guardian": [
@@ -16139,7 +16139,7 @@
     ],
     "France 24": [
      0,
-     100,
+     105,
      0
     ],
     "Bloomberg": [
@@ -16164,7 +16164,7 @@
     ],
     "Financial Times": [
      0,
-     125,
+     126,
      0
     ],
     "Belaaz": [
@@ -16224,7 +16224,7 @@
     ],
     "Al-Monitor": [
      0,
-     34,
+     35,
      0
     ],
     "Critical Threats": [
@@ -16279,12 +16279,12 @@
     ],
     "Bloomberg.com": [
      0,
-     24,
+     25,
      0
     ],
     "BBC": [
      0,
-     106,
+     107,
      0
     ],
     "Spiegel": [
@@ -16915,35 +16915,35 @@
    }
   },
   "2026-11-20": {
-   "total": 370,
-   "news": 365,
+   "total": 398,
+   "news": 393,
    "articles": 5,
    "positive": 0,
-   "neutral": 370,
+   "neutral": 398,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 100,
-    "SA": 49,
+    "US": 111,
+    "SA": 53,
     "FR": 38,
-    "GB": 58,
+    "GB": 65,
     "HK": 4,
     "DE": 4,
     "JP": 1
    },
    "topics": {},
    "sources": {
-    "WSJ": 42,
+    "WSJ": 47,
     "The AFC": 1,
     "Atlantic Council": 2,
-    "Al-Monitor": 14,
-    "Arab News": 32,
+    "Al-Monitor": 18,
+    "Arab News": 36,
     "France 24": 38,
-    "The New York Times": 9,
-    "AP News": 12,
+    "The New York Times": 10,
+    "AP News": 13,
     "The Guardian": 9,
     "Financial Times": 13,
-    "BBC": 15,
+    "BBC": 16,
     "Yeni Safak English": 4,
     "Middle East Eye": 4,
     "X": 1,
@@ -16957,7 +16957,7 @@
     "The New Arab": 1,
     "Al Jazeera": 1,
     "Bloomberg.com": 21,
-    "Reuters": 21,
+    "Reuters": 27,
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -17004,7 +17004,7 @@
     "CairoScene": 2,
     "Українські Національні Новини (УНН)": 1,
     "Amwaj.media": 1,
-    "Skift": 1,
+    "Skift": 2,
     "The Jerusalem Post": 1,
     "Pulse Ghana": 1,
     "The Economic Times": 1,
@@ -17026,12 +17026,17 @@
     "BNN Bloomberg": 1,
     "livetube.tv": 1,
     "Latin Times": 1,
-    "Tehran Times": 1
+    "Tehran Times": 1,
+    "وكالة الانباء العراقية (واع)": 1,
+    "The National": 1,
+    "Screen Daily": 1,
+    "Peoples Gazette Nigeria": 1,
+    "Global Arab Network": 1
    },
    "sourceTone": {
     "WSJ": [
      0,
-     42,
+     47,
      0
     ],
     "The AFC": [
@@ -17046,12 +17051,12 @@
     ],
     "Al-Monitor": [
      0,
-     14,
+     18,
      0
     ],
     "Arab News": [
      0,
-     32,
+     36,
      0
     ],
     "France 24": [
@@ -17061,12 +17066,12 @@
     ],
     "The New York Times": [
      0,
-     9,
+     10,
      0
     ],
     "AP News": [
      0,
-     12,
+     13,
      0
     ],
     "The Guardian": [
@@ -17081,7 +17086,7 @@
     ],
     "BBC": [
      0,
-     15,
+     16,
      0
     ],
     "Yeni Safak English": [
@@ -17151,7 +17156,7 @@
     ],
     "Reuters": [
      0,
-     21,
+     27,
      0
     ],
     "Bioengineer.org": [
@@ -17386,7 +17391,7 @@
     ],
     "Skift": [
      0,
-     1,
+     2,
      0
     ],
     "The Jerusalem Post": [
@@ -17495,6 +17500,31 @@
      0
     ],
     "Tehran Times": [
+     0,
+     1,
+     0
+    ],
+    "وكالة الانباء العراقية (واع)": [
+     0,
+     1,
+     0
+    ],
+    "The National": [
+     0,
+     1,
+     0
+    ],
+    "Screen Daily": [
+     0,
+     1,
+     0
+    ],
+    "Peoples Gazette Nigeria": [
+     0,
+     1,
+     0
+    ],
+    "Global Arab Network": [
      0,
      1,
      0
