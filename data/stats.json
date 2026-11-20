@@ -16909,15 +16909,15 @@
    }
   },
   "2026-11-20": {
-   "total": 254,
-   "news": 250,
+   "total": 259,
+   "news": 255,
    "articles": 4,
    "positive": 0,
-   "neutral": 254,
+   "neutral": 259,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "US": 62,
+    "US": 64,
     "SA": 32,
     "FR": 25,
     "GB": 31,
@@ -16927,7 +16927,7 @@
    },
    "topics": {},
    "sources": {
-    "WSJ": 31,
+    "WSJ": 32,
     "The AFC": 1,
     "Atlantic Council": 2,
     "Al-Monitor": 5,
@@ -16943,14 +16943,14 @@
     "X": 1,
     "Yemen Online": 3,
     "https://houseofsaud.com/": 4,
-    "Crypto Briefing": 1,
+    "Crypto Briefing": 2,
     "الحرة": 1,
     "Fragomen": 1,
     "Yahoo Sports": 1,
     "cwibc.co.id": 1,
     "The New Arab": 1,
     "Al Jazeera": 1,
-    "Bloomberg.com": 11,
+    "Bloomberg.com": 12,
     "Reuters": 10,
     "Bioengineer.org": 2,
     "The Independent": 1,
@@ -16995,7 +16995,7 @@
     "Mehr News Agency": 1,
     "LinkedIn": 1,
     "ch-aviation": 1,
-    "CairoScene": 1,
+    "CairoScene": 2,
     "Українські Національні Новини (УНН)": 1,
     "Amwaj.media": 1,
     "Skift": 1,
@@ -17006,7 +17006,7 @@
     "Dawn": 1,
     "Malay Mail": 1,
     "وكالة الأنباء السعودية": 1,
-    "TradingView": 1,
+    "TradingView": 2,
     "Business Standard": 1,
     "Traders Union": 1,
     "www.marketscreener.com": 1,
@@ -17015,7 +17015,7 @@
    "sourceTone": {
     "WSJ": [
      0,
-     31,
+     32,
      0
     ],
     "The AFC": [
@@ -17095,7 +17095,7 @@
     ],
     "Crypto Briefing": [
      0,
-     1,
+     2,
      0
     ],
     "الحرة": [
@@ -17130,7 +17130,7 @@
     ],
     "Bloomberg.com": [
      0,
-     11,
+     12,
      0
     ],
     "Reuters": [
@@ -17355,7 +17355,7 @@
     ],
     "CairoScene": [
      0,
-     1,
+     2,
      0
     ],
     "Українські Національні Новини (УНН)": [
@@ -17410,7 +17410,7 @@
     ],
     "TradingView": [
      0,
-     1,
+     2,
      0
     ],
     "Business Standard": [
