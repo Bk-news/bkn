@@ -15921,18 +15921,18 @@
    }
   },
   "2026-11-19": {
-   "total": 1268,
-   "news": 1236,
+   "total": 1271,
+   "news": 1239,
    "articles": 32,
    "positive": 0,
-   "neutral": 1268,
+   "neutral": 1271,
    "critical": 0,
    "mbs": 30,
    "countries": {
     "GB": 436,
     "SA": 119,
-    "US": 315,
-    "FR": 130,
+    "US": 317,
+    "FR": 131,
     "HK": 6,
     "DE": 8
    },
@@ -15945,7 +15945,7 @@
     "Yemen Online": 3,
     "AP News": 49,
     "i24NEWS": 1,
-    "France 24": 117,
+    "France 24": 118,
     "Bloomberg": 3,
     "South China Morning Post": 6,
     "Atlantic Council": 19,
@@ -15962,7 +15962,7 @@
     "Crypto Briefing": 3,
     "Chosunbiz": 1,
     "Mezha.net": 2,
-    "Al-Monitor": 46,
+    "Al-Monitor": 47,
     "Critical Threats": 1,
     "DNE Africa": 1,
     "Wamda": 1,
@@ -15973,7 +15973,7 @@
     "Breakingthenews.net": 1,
     "The Independent": 2,
     "تسنیم": 1,
-    "Bloomberg.com": 35,
+    "Bloomberg.com": 36,
     "BBC": 113,
     "Spiegel": 8,
     "The Washington Post": 9,
@@ -16139,7 +16139,7 @@
     ],
     "France 24": [
      0,
-     117,
+     118,
      0
     ],
     "Bloomberg": [
@@ -16224,7 +16224,7 @@
     ],
     "Al-Monitor": [
      0,
-     46,
+     47,
      0
     ],
     "Critical Threats": [
@@ -16279,7 +16279,7 @@
     ],
     "Bloomberg.com": [
      0,
-     35,
+     36,
      0
     ],
     "BBC": [
