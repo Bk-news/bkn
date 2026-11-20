@@ -15118,18 +15118,18 @@
    }
   },
   "2026-11-18": {
-   "total": 1099,
-   "news": 1071,
+   "total": 1100,
+   "news": 1072,
    "articles": 28,
    "positive": 0,
-   "neutral": 1099,
+   "neutral": 1100,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "GB": 471,
     "SA": 137,
     "US": 258,
-    "FR": 35,
+    "FR": 36,
     "HK": 10,
     "DE": 9,
     "JP": 3
@@ -15261,7 +15261,7 @@
     "Fightful": 1,
     "صحيفة سبق الإلكترونية": 1,
     "联合早报": 1,
-    "Le Monde Evénements Abonnés": 3,
+    "Le Monde Evénements Abonnés": 4,
     "Daily Racing Form": 1,
     "Hindustan Times": 1,
     "ECOticias.com - El Periódico Verde": 1,
@@ -15895,7 +15895,7 @@
     ],
     "Le Monde Evénements Abonnés": [
      0,
-     3,
+     4,
      0
     ],
     "Daily Racing Form": [
@@ -15921,19 +15921,19 @@
    }
   },
   "2026-11-19": {
-   "total": 1108,
-   "news": 1080,
-   "articles": 28,
+   "total": 1113,
+   "news": 1084,
+   "articles": 29,
    "positive": 0,
-   "neutral": 1108,
+   "neutral": 1113,
    "critical": 0,
-   "mbs": 26,
+   "mbs": 27,
    "countries": {
-    "GB": 381,
+    "GB": 382,
     "SA": 103,
-    "US": 255,
+    "US": 257,
     "FR": 109,
-    "HK": 4,
+    "HK": 5,
     "DE": 5
    },
    "topics": {},
@@ -15941,14 +15941,14 @@
     "Arabian Gulf Business Insight | AGBI": 3,
     "Reuters": 120,
     "Arab News": 81,
-    "The Guardian": 27,
+    "The Guardian": 28,
     "Yemen Online": 3,
-    "AP News": 43,
+    "AP News": 44,
     "i24NEWS": 1,
     "France 24": 100,
     "Bloomberg": 2,
-    "South China Morning Post": 4,
-    "Atlantic Council": 16,
+    "South China Morning Post": 5,
+    "Atlantic Council": 17,
     "WSJ": 105,
     "Financial Times": 122,
     "Belaaz": 1,
@@ -16098,7 +16098,8 @@
     "shattered.io": 1,
     "The Jerusalem Strategic Tribune": 1,
     "Bloom Pakistan": 1,
-    "Dubai Eye 103.8": 1
+    "Dubai Eye 103.8": 1,
+    "The Rahnuma Daily": 1
    },
    "sourceTone": {
     "Arabian Gulf Business Insight | AGBI": [
@@ -16118,7 +16119,7 @@
     ],
     "The Guardian": [
      0,
-     27,
+     28,
      0
     ],
     "Yemen Online": [
@@ -16128,7 +16129,7 @@
     ],
     "AP News": [
      0,
-     43,
+     44,
      0
     ],
     "i24NEWS": [
@@ -16148,12 +16149,12 @@
     ],
     "South China Morning Post": [
      0,
-     4,
+     5,
      0
     ],
     "Atlantic Council": [
      0,
-     16,
+     17,
      0
     ],
     "WSJ": [
@@ -16905,43 +16906,48 @@
      0,
      1,
      0
+    ],
+    "The Rahnuma Daily": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-20": {
-   "total": 302,
-   "news": 297,
+   "total": 336,
+   "news": 331,
    "articles": 5,
    "positive": 0,
-   "neutral": 302,
+   "neutral": 336,
    "critical": 0,
-   "mbs": 6,
+   "mbs": 7,
    "countries": {
-    "US": 77,
-    "SA": 37,
-    "FR": 31,
-    "GB": 41,
+    "US": 88,
+    "SA": 43,
+    "FR": 34,
+    "GB": 50,
     "HK": 4,
     "DE": 4,
     "JP": 1
    },
    "topics": {},
    "sources": {
-    "WSJ": 35,
+    "WSJ": 38,
     "The AFC": 1,
     "Atlantic Council": 2,
-    "Al-Monitor": 7,
-    "Arab News": 25,
-    "France 24": 31,
+    "Al-Monitor": 10,
+    "Arab News": 28,
+    "France 24": 34,
     "The New York Times": 9,
-    "AP News": 10,
+    "AP News": 12,
     "The Guardian": 9,
-    "Financial Times": 10,
-    "BBC": 8,
-    "Yeni Safak English": 3,
+    "Financial Times": 13,
+    "BBC": 11,
+    "Yeni Safak English": 4,
     "Middle East Eye": 4,
     "X": 1,
-    "Yemen Online": 3,
+    "Yemen Online": 4,
     "https://houseofsaud.com/": 4,
     "Crypto Briefing": 2,
     "الحرة": 1,
@@ -16950,12 +16956,12 @@
     "cwibc.co.id": 1,
     "The New Arab": 1,
     "Al Jazeera": 1,
-    "Bloomberg.com": 14,
-    "Reuters": 13,
+    "Bloomberg.com": 17,
+    "Reuters": 16,
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
-    "Saudi Gazette": 18,
+    "Saudi Gazette": 21,
     "The Economist": 3,
     "Daily Sabah": 2,
     "South China Morning Post": 4,
@@ -17015,12 +17021,15 @@
     "Livemint": 1,
     "CNN": 1,
     "Türkiye Today": 1,
-    "Legis1": 1
+    "Legis1": 1,
+    "Standardbred Canada": 1,
+    "BNN Bloomberg": 1,
+    "livetube.tv": 1
    },
    "sourceTone": {
     "WSJ": [
      0,
-     35,
+     38,
      0
     ],
     "The AFC": [
@@ -17035,17 +17044,17 @@
     ],
     "Al-Monitor": [
      0,
-     7,
+     10,
      0
     ],
     "Arab News": [
      0,
-     25,
+     28,
      0
     ],
     "France 24": [
      0,
-     31,
+     34,
      0
     ],
     "The New York Times": [
@@ -17055,7 +17064,7 @@
     ],
     "AP News": [
      0,
-     10,
+     12,
      0
     ],
     "The Guardian": [
@@ -17065,17 +17074,17 @@
     ],
     "Financial Times": [
      0,
-     10,
+     13,
      0
     ],
     "BBC": [
      0,
-     8,
+     11,
      0
     ],
     "Yeni Safak English": [
      0,
-     3,
+     4,
      0
     ],
     "Middle East Eye": [
@@ -17090,7 +17099,7 @@
     ],
     "Yemen Online": [
      0,
-     3,
+     4,
      0
     ],
     "https://houseofsaud.com/": [
@@ -17135,12 +17144,12 @@
     ],
     "Bloomberg.com": [
      0,
-     14,
+     17,
      0
     ],
     "Reuters": [
      0,
-     13,
+     16,
      0
     ],
     "Bioengineer.org": [
@@ -17160,7 +17169,7 @@
     ],
     "Saudi Gazette": [
      0,
-     18,
+     21,
      0
     ],
     "The Economist": [
@@ -17459,6 +17468,21 @@
      0
     ],
     "Legis1": [
+     0,
+     1,
+     0
+    ],
+    "Standardbred Canada": [
+     0,
+     1,
+     0
+    ],
+    "BNN Bloomberg": [
+     0,
+     1,
+     0
+    ],
+    "livetube.tv": [
      0,
      1,
      0
