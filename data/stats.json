@@ -15921,18 +15921,18 @@
    }
   },
   "2026-11-19": {
-   "total": 1299,
-   "news": 1267,
+   "total": 1300,
+   "news": 1268,
    "articles": 32,
    "positive": 0,
-   "neutral": 1299,
+   "neutral": 1300,
    "critical": 0,
    "mbs": 30,
    "countries": {
     "GB": 442,
     "SA": 121,
     "US": 327,
-    "FR": 141,
+    "FR": 142,
     "HK": 6,
     "DE": 8
    },
@@ -15945,7 +15945,7 @@
     "Yemen Online": 3,
     "AP News": 49,
     "i24NEWS": 1,
-    "France 24": 128,
+    "France 24": 129,
     "Bloomberg": 3,
     "South China Morning Post": 6,
     "Atlantic Council": 19,
@@ -16139,7 +16139,7 @@
     ],
     "France 24": [
      0,
-     128,
+     129,
      0
     ],
     "Bloomberg": [
@@ -16915,18 +16915,18 @@
    }
   },
   "2026-11-20": {
-   "total": 481,
-   "news": 475,
+   "total": 484,
+   "news": 478,
    "articles": 6,
    "positive": 0,
-   "neutral": 481,
+   "neutral": 484,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 134,
     "SA": 56,
     "FR": 39,
-    "GB": 82,
+    "GB": 84,
     "HK": 5,
     "DE": 4,
     "JP": 1
@@ -16957,7 +16957,7 @@
     "The New Arab": 2,
     "Al Jazeera": 2,
     "Bloomberg.com": 21,
-    "Reuters": 39,
+    "Reuters": 41,
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -17057,7 +17057,8 @@
     "BigGo Finance": 1,
     "NBC News": 1,
     "الهيئة العامة للاستعلامات": 1,
-    "Legal 500": 1
+    "Legal 500": 1,
+    "EnergyNow": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -17182,7 +17183,7 @@
     ],
     "Reuters": [
      0,
-     39,
+     41,
      0
     ],
     "Bioengineer.org": [
@@ -17681,6 +17682,11 @@
      0
     ],
     "Legal 500": [
+     0,
+     1,
+     0
+    ],
+    "EnergyNow": [
      0,
      1,
      0
