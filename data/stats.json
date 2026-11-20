@@ -15118,17 +15118,17 @@
    }
   },
   "2026-11-18": {
-   "total": 1029,
-   "news": 1006,
+   "total": 1034,
+   "news": 1011,
    "articles": 23,
    "positive": 0,
-   "neutral": 1029,
+   "neutral": 1034,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "GB": 449,
-    "SA": 118,
-    "US": 231,
+    "GB": 450,
+    "SA": 119,
+    "US": 234,
     "FR": 34,
     "HK": 10,
     "DE": 8,
@@ -15137,16 +15137,16 @@
    "topics": {},
    "sources": {
     "The Guardian": 105,
-    "Arab News": 107,
+    "Arab News": 108,
     "The Washington Post": 15,
     "Al-Monitor": 59,
     "The Sun Nigeria": 1,
     "The New York Times": 28,
     "Arabian Gulf Business Insight | AGBI": 2,
-    "AP News": 40,
+    "AP News": 43,
     "WSJ": 54,
     "Science Daily": 1,
-    "Reuters": 155,
+    "Reuters": 156,
     "BigGo Finance": 1,
     "Yahoo Sports": 3,
     "intlbm": 1,
@@ -15275,7 +15275,7 @@
     ],
     "Arab News": [
      0,
-     107,
+     108,
      0
     ],
     "The Washington Post": [
@@ -15305,7 +15305,7 @@
     ],
     "AP News": [
      0,
-     40,
+     43,
      0
     ],
     "WSJ": [
@@ -15320,7 +15320,7 @@
     ],
     "Reuters": [
      0,
-     155,
+     156,
      0
     ],
     "BigGo Finance": [
@@ -15921,17 +15921,17 @@
    }
   },
   "2026-11-19": {
-   "total": 1062,
-   "news": 1034,
+   "total": 1065,
+   "news": 1037,
    "articles": 28,
    "positive": 0,
-   "neutral": 1062,
+   "neutral": 1065,
    "critical": 0,
    "mbs": 26,
    "countries": {
     "GB": 350,
     "SA": 100,
-    "US": 247,
+    "US": 250,
     "FR": 108,
     "HK": 4,
     "DE": 5
@@ -15943,7 +15943,7 @@
     "Arab News": 78,
     "The Guardian": 26,
     "Yemen Online": 3,
-    "AP News": 39,
+    "AP News": 42,
     "i24NEWS": 1,
     "France 24": 100,
     "Bloomberg": 2,
@@ -16125,7 +16125,7 @@
     ],
     "AP News": [
      0,
-     39,
+     42,
      0
     ],
     "i24NEWS": [
@@ -16891,15 +16891,15 @@
    }
   },
   "2026-11-20": {
-   "total": 207,
-   "news": 203,
+   "total": 214,
+   "news": 210,
    "articles": 4,
    "positive": 0,
-   "neutral": 207,
+   "neutral": 214,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "US": 53,
+    "US": 54,
     "SA": 19,
     "FR": 24,
     "GB": 24,
@@ -16916,7 +16916,7 @@
     "Arab News": 12,
     "France 24": 24,
     "The New York Times": 5,
-    "AP News": 6,
+    "AP News": 7,
     "The Guardian": 4,
     "Financial Times": 7,
     "BBC": 5,
@@ -16981,7 +16981,13 @@
     "Українські Національні Новини (УНН)": 1,
     "Amwaj.media": 1,
     "Skift": 1,
-    "The Jerusalem Post": 1
+    "The Jerusalem Post": 1,
+    "Pulse Ghana": 1,
+    "The Economic Times": 1,
+    "adobo Magazine": 1,
+    "Dawn": 1,
+    "Malay Mail": 1,
+    "وكالة الأنباء السعودية": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -17021,7 +17027,7 @@
     ],
     "AP News": [
      0,
-     6,
+     7,
      0
     ],
     "The Guardian": [
@@ -17345,6 +17351,36 @@
      0
     ],
     "The Jerusalem Post": [
+     0,
+     1,
+     0
+    ],
+    "Pulse Ghana": [
+     0,
+     1,
+     0
+    ],
+    "The Economic Times": [
+     0,
+     1,
+     0
+    ],
+    "adobo Magazine": [
+     0,
+     1,
+     0
+    ],
+    "Dawn": [
+     0,
+     1,
+     0
+    ],
+    "Malay Mail": [
+     0,
+     1,
+     0
+    ],
+    "وكالة الأنباء السعودية": [
      0,
      1,
      0
