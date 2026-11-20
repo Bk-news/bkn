@@ -15118,17 +15118,17 @@
    }
   },
   "2026-11-18": {
-   "total": 1065,
-   "news": 1037,
+   "total": 1069,
+   "news": 1041,
    "articles": 28,
    "positive": 0,
-   "neutral": 1065,
+   "neutral": 1069,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "GB": 460,
-    "SA": 126,
-    "US": 246,
+    "SA": 128,
+    "US": 248,
     "FR": 35,
     "HK": 10,
     "DE": 9,
@@ -15137,7 +15137,7 @@
    "topics": {},
    "sources": {
     "The Guardian": 105,
-    "Arab News": 115,
+    "Arab News": 117,
     "The Washington Post": 15,
     "Al-Monitor": 63,
     "The Sun Nigeria": 1,
@@ -15151,7 +15151,7 @@
     "Yahoo Sports": 3,
     "intlbm": 1,
     "Le Monde.fr": 13,
-    "Bloomberg.com": 25,
+    "Bloomberg.com": 27,
     "South China Morning Post": 10,
     "France 24": 19,
     "Saudi Gazette": 32,
@@ -15275,7 +15275,7 @@
     ],
     "Arab News": [
      0,
-     115,
+     117,
      0
     ],
     "The Washington Post": [
@@ -15345,7 +15345,7 @@
     ],
     "Bloomberg.com": [
      0,
-     25,
+     27,
      0
     ],
     "South China Morning Post": [
@@ -15921,15 +15921,15 @@
    }
   },
   "2026-11-19": {
-   "total": 1100,
-   "news": 1072,
+   "total": 1101,
+   "news": 1073,
    "articles": 28,
    "positive": 0,
-   "neutral": 1100,
+   "neutral": 1101,
    "critical": 0,
    "mbs": 26,
    "countries": {
-    "GB": 375,
+    "GB": 376,
     "SA": 103,
     "US": 254,
     "FR": 108,
@@ -15941,7 +15941,7 @@
     "Arabian Gulf Business Insight | AGBI": 3,
     "Reuters": 115,
     "Arab News": 81,
-    "The Guardian": 26,
+    "The Guardian": 27,
     "Yemen Online": 3,
     "AP News": 43,
     "i24NEWS": 1,
@@ -16118,7 +16118,7 @@
     ],
     "The Guardian": [
      0,
-     26,
+     27,
      0
     ],
     "Yemen Online": [
@@ -16909,15 +16909,15 @@
    }
   },
   "2026-11-20": {
-   "total": 246,
-   "news": 242,
+   "total": 248,
+   "news": 244,
    "articles": 4,
    "positive": 0,
-   "neutral": 246,
+   "neutral": 248,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "US": 59,
+    "US": 61,
     "SA": 31,
     "FR": 25,
     "GB": 30,
@@ -16927,13 +16927,13 @@
    },
    "topics": {},
    "sources": {
-    "WSJ": 30,
+    "WSJ": 31,
     "The AFC": 1,
     "Atlantic Council": 2,
     "Al-Monitor": 5,
     "Arab News": 20,
     "France 24": 25,
-    "The New York Times": 5,
+    "The New York Times": 6,
     "AP News": 7,
     "The Guardian": 7,
     "Financial Times": 8,
@@ -17015,7 +17015,7 @@
    "sourceTone": {
     "WSJ": [
      0,
-     30,
+     31,
      0
     ],
     "The AFC": [
@@ -17045,7 +17045,7 @@
     ],
     "The New York Times": [
      0,
-     5,
+     6,
      0
     ],
     "AP News": [
