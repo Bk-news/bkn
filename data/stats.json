@@ -15118,17 +15118,17 @@
    }
   },
   "2026-11-18": {
-   "total": 914,
-   "news": 897,
+   "total": 916,
+   "news": 899,
    "articles": 17,
    "positive": 0,
-   "neutral": 914,
+   "neutral": 916,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "GB": 412,
     "SA": 97,
-    "US": 185,
+    "US": 187,
     "FR": 28,
     "HK": 7,
     "DE": 6,
@@ -15144,14 +15144,14 @@
     "The New York Times": 24,
     "Arabian Gulf Business Insight | AGBI": 2,
     "AP News": 34,
-    "WSJ": 45,
+    "WSJ": 46,
     "Science Daily": 1,
     "Reuters": 137,
     "BigGo Finance": 1,
     "Yahoo Sports": 3,
     "intlbm": 1,
     "Le Monde.fr": 9,
-    "Bloomberg.com": 19,
+    "Bloomberg.com": 20,
     "South China Morning Post": 7,
     "France 24": 16,
     "Saudi Gazette": 29,
@@ -15310,7 +15310,7 @@
     ],
     "WSJ": [
      0,
-     45,
+     46,
      0
     ],
     "Science Daily": [
@@ -15345,7 +15345,7 @@
     ],
     "Bloomberg.com": [
      0,
-     19,
+     20,
      0
     ],
     "South China Morning Post": [
@@ -15921,17 +15921,17 @@
    }
   },
   "2026-11-19": {
-   "total": 963,
-   "news": 936,
+   "total": 964,
+   "news": 937,
    "articles": 27,
    "positive": 0,
-   "neutral": 963,
+   "neutral": 964,
    "critical": 0,
    "mbs": 25,
    "countries": {
     "GB": 305,
     "SA": 99,
-    "US": 208,
+    "US": 209,
     "FR": 107,
     "HK": 4,
     "DE": 5
@@ -15973,7 +15973,7 @@
     "Breakingthenews.net": 1,
     "The Independent": 2,
     "تسنیم": 1,
-    "Bloomberg.com": 21,
+    "Bloomberg.com": 22,
     "BBC": 102,
     "Spiegel": 5,
     "The Washington Post": 5,
@@ -16266,7 +16266,7 @@
     ],
     "Bloomberg.com": [
      0,
-     21,
+     22,
      0
     ],
     "BBC": [
