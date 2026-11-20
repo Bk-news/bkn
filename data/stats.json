@@ -15921,17 +15921,17 @@
    }
   },
   "2026-11-19": {
-   "total": 1281,
-   "news": 1249,
+   "total": 1284,
+   "news": 1252,
    "articles": 32,
    "positive": 0,
-   "neutral": 1281,
+   "neutral": 1284,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 437,
+    "GB": 438,
     "SA": 121,
-    "US": 322,
+    "US": 324,
     "FR": 133,
     "HK": 6,
     "DE": 8
@@ -15939,7 +15939,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Reuters": 146,
+    "Reuters": 147,
     "Arab News": 95,
     "The Guardian": 37,
     "Yemen Online": 3,
@@ -15962,14 +15962,14 @@
     "Crypto Briefing": 3,
     "Chosunbiz": 1,
     "Mezha.net": 2,
-    "Al-Monitor": 51,
+    "Al-Monitor": 52,
     "Critical Threats": 1,
     "DNE Africa": 1,
     "Wamda": 1,
     "National Herald": 1,
     "The Daily Star": 1,
     "www.jordannews.jo": 1,
-    "The New York Times": 35,
+    "The New York Times": 36,
     "Breakingthenews.net": 1,
     "The Independent": 2,
     "تسنیم": 1,
@@ -16109,7 +16109,7 @@
     ],
     "Reuters": [
      0,
-     146,
+     147,
      0
     ],
     "Arab News": [
@@ -16224,7 +16224,7 @@
     ],
     "Al-Monitor": [
      0,
-     51,
+     52,
      0
     ],
     "Critical Threats": [
@@ -16259,7 +16259,7 @@
     ],
     "The New York Times": [
      0,
-     35,
+     36,
      0
     ],
     "Breakingthenews.net": [
@@ -16915,18 +16915,18 @@
    }
   },
   "2026-11-20": {
-   "total": 479,
-   "news": 473,
+   "total": 481,
+   "news": 475,
    "articles": 6,
    "positive": 0,
-   "neutral": 479,
+   "neutral": 481,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 134,
     "SA": 56,
     "FR": 39,
-    "GB": 80,
+    "GB": 82,
     "HK": 5,
     "DE": 4,
     "JP": 1
@@ -16957,7 +16957,7 @@
     "The New Arab": 2,
     "Al Jazeera": 2,
     "Bloomberg.com": 21,
-    "Reuters": 37,
+    "Reuters": 39,
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -17182,7 +17182,7 @@
     ],
     "Reuters": [
      0,
-     37,
+     39,
      0
     ],
     "Bioengineer.org": [
