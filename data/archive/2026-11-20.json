@@ -2,6 +2,27 @@
  "day": "2026-11-20",
  "items": [
   {
+   "id": "8db990213cef4e6f",
+   "origin": "rss",
+   "source": "WSJ",
+   "author": "",
+   "title_ar": "جنسن هوانغ يخرج عن صمته، ويشير إلى استعداده للعودة إلى منصب الرئيس التنفيذي لشركة Nvidia",
+   "title_orig": "Jensen Huang Breaks Silence, Signals Willingness to Return as Nvidia CEO",
+   "title_en": "Jensen Huang Breaks Silence, Signals Willingness to Return as Nvidia CEO",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QczVTbUQzdjZ0WHN0QjYwRXJidGl2YmJzeFVVOGhEV0FoZHp3QkJ1dng1REtUS21Qa2lYSGdUejlhbGtfNzlQT1V6Zm45NDltc2hKeEowZ3NtcHdsaUNvN2ttTTJXWUgzNkF3SGZUUjdFX1FiRHc?oc=5",
+   "published": "2026-11-20T03:34:47.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "Jensen Huang Breaks Silence, Signals Willingness to Return as Nvidia CEO &nbsp;&nbsp; WSJ",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "eb302bd2f4695539",
    "origin": "rss",
    "source": "WSJ",
