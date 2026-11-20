@@ -15118,17 +15118,17 @@
    }
   },
   "2026-11-18": {
-   "total": 1104,
-   "news": 1076,
+   "total": 1114,
+   "news": 1086,
    "articles": 28,
    "positive": 0,
-   "neutral": 1104,
+   "neutral": 1114,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "GB": 473,
+    "GB": 476,
     "SA": 139,
-    "US": 258,
+    "US": 265,
     "FR": 36,
     "HK": 10,
     "DE": 9,
@@ -15144,9 +15144,9 @@
     "The New York Times": 32,
     "Arabian Gulf Business Insight | AGBI": 2,
     "AP News": 45,
-    "WSJ": 55,
+    "WSJ": 62,
     "Science Daily": 1,
-    "Reuters": 169,
+    "Reuters": 172,
     "BigGo Finance": 1,
     "Yahoo Sports": 3,
     "intlbm": 1,
@@ -15310,7 +15310,7 @@
     ],
     "WSJ": [
      0,
-     55,
+     62,
      0
     ],
     "Science Daily": [
@@ -15320,7 +15320,7 @@
     ],
     "Reuters": [
      0,
-     169,
+     172,
      0
     ],
     "BigGo Finance": [
@@ -15921,34 +15921,34 @@
    }
   },
   "2026-11-19": {
-   "total": 1162,
-   "news": 1132,
-   "articles": 30,
+   "total": 1172,
+   "news": 1141,
+   "articles": 31,
    "positive": 0,
-   "neutral": 1162,
+   "neutral": 1172,
    "critical": 0,
    "mbs": 28,
    "countries": {
-    "GB": 407,
-    "SA": 104,
-    "US": 274,
-    "FR": 114,
-    "HK": 5,
-    "DE": 5
+    "GB": 411,
+    "SA": 105,
+    "US": 276,
+    "FR": 115,
+    "HK": 6,
+    "DE": 6
    },
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Reuters": 136,
-    "Arab News": 82,
-    "The Guardian": 30,
+    "Reuters": 139,
+    "Arab News": 83,
+    "The Guardian": 31,
     "Yemen Online": 3,
     "AP News": 45,
     "i24NEWS": 1,
-    "France 24": 105,
+    "France 24": 106,
     "Bloomberg": 2,
-    "South China Morning Post": 5,
-    "Atlantic Council": 18,
+    "South China Morning Post": 6,
+    "Atlantic Council": 19,
     "WSJ": 113,
     "Financial Times": 128,
     "Belaaz": 1,
@@ -15973,9 +15973,9 @@
     "Breakingthenews.net": 1,
     "The Independent": 2,
     "تسنیم": 1,
-    "Bloomberg.com": 25,
+    "Bloomberg.com": 26,
     "BBC": 107,
-    "Spiegel": 5,
+    "Spiegel": 6,
     "The Washington Post": 7,
     "ASHARQ AL-AWSAT English": 3,
     "Le Monde.fr": 10,
@@ -16109,17 +16109,17 @@
     ],
     "Reuters": [
      0,
-     136,
+     139,
      0
     ],
     "Arab News": [
      0,
-     82,
+     83,
      0
     ],
     "The Guardian": [
      0,
-     30,
+     31,
      0
     ],
     "Yemen Online": [
@@ -16139,7 +16139,7 @@
     ],
     "France 24": [
      0,
-     105,
+     106,
      0
     ],
     "Bloomberg": [
@@ -16149,12 +16149,12 @@
     ],
     "South China Morning Post": [
      0,
-     5,
+     6,
      0
     ],
     "Atlantic Council": [
      0,
-     18,
+     19,
      0
     ],
     "WSJ": [
@@ -16279,7 +16279,7 @@
     ],
     "Bloomberg.com": [
      0,
-     25,
+     26,
      0
     ],
     "BBC": [
@@ -16289,7 +16289,7 @@
     ],
     "Spiegel": [
      0,
-     5,
+     6,
      0
     ],
     "The Washington Post": [
@@ -16915,11 +16915,11 @@
    }
   },
   "2026-11-20": {
-   "total": 443,
-   "news": 438,
+   "total": 456,
+   "news": 451,
    "articles": 5,
    "positive": 0,
-   "neutral": 443,
+   "neutral": 456,
    "critical": 0,
    "mbs": 7,
    "countries": {
@@ -16954,7 +16954,7 @@
     "Fragomen": 2,
     "Yahoo Sports": 1,
     "cwibc.co.id": 1,
-    "The New Arab": 1,
+    "The New Arab": 2,
     "Al Jazeera": 2,
     "Bloomberg.com": 21,
     "Reuters": 32,
@@ -16973,7 +16973,7 @@
     "The Region": 1,
     "DW.com": 1,
     "Eurasia Review": 1,
-    "ASHARQ AL-AWSAT English": 3,
+    "ASHARQ AL-AWSAT English": 4,
     "The Washington Post": 2,
     "EIN Presswire": 1,
     "Connected to India": 1,
@@ -17041,10 +17041,20 @@
     "Apa.az": 1,
     "Democracy for the Arab World Now": 1,
     "ArchDaily": 1,
-    "Ahram Online": 1,
+    "Ahram Online": 2,
     "The American Conservative": 1,
     "Egypt Oil & Gas": 1,
-    "Washington Times": 1
+    "Washington Times": 1,
+    "صحيفة مال": 1,
+    "L'Orient Today": 1,
+    "SeeNews": 1,
+    "Tirana Times": 1,
+    "سانا": 1,
+    "Mezha.net": 1,
+    "arabinform.com": 1,
+    "Yale E360": 1,
+    "INDiplomacy": 1,
+    "BigGo Finance": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -17154,7 +17164,7 @@
     ],
     "The New Arab": [
      0,
-     1,
+     2,
      0
     ],
     "Al Jazeera": [
@@ -17249,7 +17259,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     3,
+     4,
      0
     ],
     "The Washington Post": [
@@ -17589,7 +17599,7 @@
     ],
     "Ahram Online": [
      0,
-     1,
+     2,
      0
     ],
     "The American Conservative": [
@@ -17603,6 +17613,56 @@
      0
     ],
     "Washington Times": [
+     0,
+     1,
+     0
+    ],
+    "صحيفة مال": [
+     0,
+     1,
+     0
+    ],
+    "L'Orient Today": [
+     0,
+     1,
+     0
+    ],
+    "SeeNews": [
+     0,
+     1,
+     0
+    ],
+    "Tirana Times": [
+     0,
+     1,
+     0
+    ],
+    "سانا": [
+     0,
+     1,
+     0
+    ],
+    "Mezha.net": [
+     0,
+     1,
+     0
+    ],
+    "arabinform.com": [
+     0,
+     1,
+     0
+    ],
+    "Yale E360": [
+     0,
+     1,
+     0
+    ],
+    "INDiplomacy": [
+     0,
+     1,
+     0
+    ],
+    "BigGo Finance": [
      0,
      1,
      0
