@@ -15118,17 +15118,17 @@
    }
   },
   "2026-11-18": {
-   "total": 1063,
-   "news": 1035,
+   "total": 1064,
+   "news": 1036,
    "articles": 28,
    "positive": 0,
-   "neutral": 1063,
+   "neutral": 1064,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "GB": 459,
     "SA": 126,
-    "US": 245,
+    "US": 246,
     "FR": 35,
     "HK": 10,
     "DE": 9,
@@ -15141,7 +15141,7 @@
     "The Washington Post": 15,
     "Al-Monitor": 63,
     "The Sun Nigeria": 1,
-    "The New York Times": 28,
+    "The New York Times": 29,
     "Arabian Gulf Business Insight | AGBI": 2,
     "AP News": 45,
     "WSJ": 55,
@@ -15295,7 +15295,7 @@
     ],
     "The New York Times": [
      0,
-     28,
+     29,
      0
     ],
     "Arabian Gulf Business Insight | AGBI": [
