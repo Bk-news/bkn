@@ -15921,18 +15921,18 @@
    }
   },
   "2026-11-19": {
-   "total": 1322,
-   "news": 1290,
+   "total": 1323,
+   "news": 1291,
    "articles": 32,
    "positive": 0,
-   "neutral": 1322,
+   "neutral": 1323,
    "critical": 0,
    "mbs": 30,
    "countries": {
     "GB": 448,
     "SA": 126,
     "US": 331,
-    "FR": 149,
+    "FR": 150,
     "HK": 6,
     "DE": 8
    },
@@ -15945,7 +15945,7 @@
     "Yemen Online": 3,
     "AP News": 50,
     "i24NEWS": 1,
-    "France 24": 136,
+    "France 24": 137,
     "Bloomberg": 3,
     "South China Morning Post": 6,
     "Atlantic Council": 19,
@@ -16139,7 +16139,7 @@
     ],
     "France 24": [
      0,
-     136,
+     137,
      0
     ],
     "Bloomberg": [
@@ -16915,11 +16915,11 @@
    }
   },
   "2026-11-20": {
-   "total": 509,
-   "news": 503,
+   "total": 510,
+   "news": 504,
    "articles": 6,
    "positive": 0,
-   "neutral": 509,
+   "neutral": 510,
    "critical": 0,
    "mbs": 7,
    "countries": {
@@ -17014,7 +17014,7 @@
     "وكالة الأنباء السعودية": 1,
     "TradingView": 2,
     "Business Standard": 1,
-    "Traders Union": 1,
+    "Traders Union": 2,
     "www.marketscreener.com": 1,
     "Egyptian Gazette": 2,
     "Insurance Journal": 1,
@@ -17471,7 +17471,7 @@
     ],
     "Traders Union": [
      0,
-     1,
+     2,
      0
     ],
     "www.marketscreener.com": [
