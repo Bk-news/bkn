@@ -422,6 +422,27 @@
    "mt": true
   },
   {
+   "id": "953060d25e094dbf",
+   "origin": "rss",
+   "source": "BBC",
+   "author": "",
+   "title_ar": "الهند | آخر الأخبار والمستجدات",
+   "title_orig": "India | Latest News & Updates",
+   "title_en": "India | Latest News & Updates",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BRS1adzJoeFlUU0FSNWktWG9WamR6dUJfRGREY2VUZ3FCVENXZkFseEhpZE1iakJRakt0cmJ0VWVsQm1ZSTJ0QjQ3QnBZdlpjcTZr?oc=5",
+   "published": "2026-11-19T22:53:50.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "India | Latest News & Updates &nbsp;&nbsp; BBC",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "137e372cb90cc848",
    "origin": "rss",
    "source": "France 24",
