@@ -15921,36 +15921,36 @@
    }
   },
   "2026-11-19": {
-   "total": 1220,
-   "news": 1188,
+   "total": 1234,
+   "news": 1202,
    "articles": 32,
    "positive": 0,
-   "neutral": 1220,
+   "neutral": 1234,
    "critical": 0,
-   "mbs": 29,
+   "mbs": 30,
    "countries": {
-    "GB": 420,
-    "SA": 110,
-    "US": 299,
-    "FR": 123,
+    "GB": 424,
+    "SA": 113,
+    "US": 305,
+    "FR": 124,
     "HK": 6,
     "DE": 8
    },
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Reuters": 142,
-    "Arab News": 85,
-    "The Guardian": 33,
+    "Reuters": 143,
+    "Arab News": 87,
+    "The Guardian": 35,
     "Yemen Online": 3,
-    "AP News": 47,
+    "AP News": 48,
     "i24NEWS": 1,
-    "France 24": 110,
+    "France 24": 111,
     "Bloomberg": 2,
     "South China Morning Post": 6,
     "Atlantic Council": 19,
-    "WSJ": 116,
-    "Financial Times": 130,
+    "WSJ": 117,
+    "Financial Times": 131,
     "Belaaz": 1,
     "Middle East Eye": 11,
     "UA.NEWS": 1,
@@ -15962,18 +15962,18 @@
     "Crypto Briefing": 3,
     "Chosunbiz": 1,
     "Mezha.net": 2,
-    "Al-Monitor": 42,
+    "Al-Monitor": 43,
     "Critical Threats": 1,
     "DNE Africa": 1,
     "Wamda": 1,
     "National Herald": 1,
     "The Daily Star": 1,
     "www.jordannews.jo": 1,
-    "The New York Times": 31,
+    "The New York Times": 33,
     "Breakingthenews.net": 1,
     "The Independent": 2,
     "تسنیم": 1,
-    "Bloomberg.com": 31,
+    "Bloomberg.com": 32,
     "BBC": 108,
     "Spiegel": 8,
     "The Washington Post": 9,
@@ -15981,7 +15981,7 @@
     "Le Monde.fr": 14,
     "The Economist": 11,
     "CNN": 4,
-    "Saudi Gazette": 37,
+    "Saudi Gazette": 38,
     "News of Bahrain": 2,
     "UkrMedia News": 1,
     "https://houseofsaud.com/": 3,
@@ -16109,17 +16109,17 @@
     ],
     "Reuters": [
      0,
-     142,
+     143,
      0
     ],
     "Arab News": [
      0,
-     85,
+     87,
      0
     ],
     "The Guardian": [
      0,
-     33,
+     35,
      0
     ],
     "Yemen Online": [
@@ -16129,7 +16129,7 @@
     ],
     "AP News": [
      0,
-     47,
+     48,
      0
     ],
     "i24NEWS": [
@@ -16139,7 +16139,7 @@
     ],
     "France 24": [
      0,
-     110,
+     111,
      0
     ],
     "Bloomberg": [
@@ -16159,12 +16159,12 @@
     ],
     "WSJ": [
      0,
-     116,
+     117,
      0
     ],
     "Financial Times": [
      0,
-     130,
+     131,
      0
     ],
     "Belaaz": [
@@ -16224,7 +16224,7 @@
     ],
     "Al-Monitor": [
      0,
-     42,
+     43,
      0
     ],
     "Critical Threats": [
@@ -16259,7 +16259,7 @@
     ],
     "The New York Times": [
      0,
-     31,
+     33,
      0
     ],
     "Breakingthenews.net": [
@@ -16279,7 +16279,7 @@
     ],
     "Bloomberg.com": [
      0,
-     31,
+     32,
      0
     ],
     "BBC": [
@@ -16319,7 +16319,7 @@
     ],
     "Saudi Gazette": [
      0,
-     37,
+     38,
      0
     ],
     "News of Bahrain": [
@@ -16915,18 +16915,18 @@
    }
   },
   "2026-11-20": {
-   "total": 458,
-   "news": 453,
+   "total": 465,
+   "news": 460,
    "articles": 5,
    "positive": 0,
-   "neutral": 458,
+   "neutral": 465,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 126,
+    "US": 129,
     "SA": 55,
     "FR": 38,
-    "GB": 71,
+    "GB": 73,
     "HK": 5,
     "DE": 4,
     "JP": 1
@@ -16940,7 +16940,7 @@
     "Arab News": 41,
     "France 24": 38,
     "The New York Times": 10,
-    "AP News": 13,
+    "AP News": 15,
     "The Guardian": 10,
     "Financial Times": 13,
     "BBC": 16,
@@ -16957,7 +16957,7 @@
     "The New Arab": 2,
     "Al Jazeera": 2,
     "Bloomberg.com": 21,
-    "Reuters": 32,
+    "Reuters": 34,
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -17019,7 +17019,7 @@
     "Egyptian Gazette": 2,
     "Insurance Journal": 1,
     "Livemint": 1,
-    "CNN": 1,
+    "CNN": 2,
     "Türkiye Today": 1,
     "Legis1": 1,
     "Standardbred Canada": 1,
@@ -17055,7 +17055,9 @@
     "Yale E360": 1,
     "INDiplomacy": 1,
     "BigGo Finance": 1,
-    "NBC News": 1
+    "NBC News": 1,
+    "الهيئة العامة للاستعلامات": 1,
+    "Legal 500": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -17095,7 +17097,7 @@
     ],
     "AP News": [
      0,
-     13,
+     15,
      0
     ],
     "The Guardian": [
@@ -17180,7 +17182,7 @@
     ],
     "Reuters": [
      0,
-     32,
+     34,
      0
     ],
     "Bioengineer.org": [
@@ -17490,7 +17492,7 @@
     ],
     "CNN": [
      0,
-     1,
+     2,
      0
     ],
     "Türkiye Today": [
@@ -17669,6 +17671,16 @@
      0
     ],
     "NBC News": [
+     0,
+     1,
+     0
+    ],
+    "الهيئة العامة للاستعلامات": [
+     0,
+     1,
+     0
+    ],
+    "Legal 500": [
      0,
      1,
      0
