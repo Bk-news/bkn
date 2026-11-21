@@ -15921,15 +15921,15 @@
    }
   },
   "2026-11-19": {
-   "total": 1471,
-   "news": 1424,
+   "total": 1481,
+   "news": 1434,
    "articles": 47,
    "positive": 0,
-   "neutral": 1471,
+   "neutral": 1481,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 504,
+    "GB": 514,
     "SA": 152,
     "US": 374,
     "FR": 172,
@@ -15939,7 +15939,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Reuters": 178,
+    "Reuters": 184,
     "Arab News": 117,
     "The Guardian": 44,
     "Yemen Online": 3,
@@ -15974,7 +15974,7 @@
     "The Independent": 2,
     "تسنیم": 1,
     "Bloomberg.com": 42,
-    "BBC": 124,
+    "BBC": 128,
     "Spiegel": 9,
     "The Washington Post": 9,
     "ASHARQ AL-AWSAT English": 3,
@@ -16109,7 +16109,7 @@
     ],
     "Reuters": [
      0,
-     178,
+     184,
      0
     ],
     "Arab News": [
@@ -16284,7 +16284,7 @@
     ],
     "BBC": [
      0,
-     124,
+     128,
      0
     ],
     "Spiegel": [
@@ -16915,18 +16915,18 @@
    }
   },
   "2026-11-20": {
-   "total": 678,
-   "news": 665,
+   "total": 681,
+   "news": 668,
    "articles": 13,
    "positive": 0,
-   "neutral": 678,
+   "neutral": 681,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 190,
     "SA": 82,
     "FR": 50,
-    "GB": 145,
+    "GB": 148,
     "HK": 6,
     "DE": 4,
     "JP": 3
@@ -16943,7 +16943,7 @@
     "AP News": 21,
     "The Guardian": 13,
     "Financial Times": 19,
-    "BBC": 21,
+    "BBC": 22,
     "Yeni Safak English": 4,
     "Middle East Eye": 5,
     "X": 1,
@@ -16957,7 +16957,7 @@
     "The New Arab": 2,
     "Al Jazeera": 2,
     "Bloomberg.com": 27,
-    "Reuters": 89,
+    "Reuters": 91,
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -17137,7 +17137,7 @@
     ],
     "BBC": [
      0,
-     21,
+     22,
      0
     ],
     "Yeni Safak English": [
@@ -17207,7 +17207,7 @@
     ],
     "Reuters": [
      0,
-     89,
+     91,
      0
     ],
     "Bioengineer.org": [
@@ -17838,17 +17838,17 @@
    }
   },
   "2026-11-21": {
-   "total": 52,
-   "news": 52,
+   "total": 55,
+   "news": 55,
    "articles": 0,
    "positive": 0,
-   "neutral": 52,
+   "neutral": 55,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "US": 8,
+    "US": 9,
     "SA": 5,
-    "GB": 5,
+    "GB": 7,
     "FR": 1
    },
    "topics": {},
@@ -17864,7 +17864,7 @@
     "Khaleej Times": 1,
     "Financial Times": 3,
     "The Guardian": 1,
-    "Al-Monitor": 2,
+    "Al-Monitor": 3,
     "WSJ": 1,
     "ASHARQ AL-AWSAT English": 1,
     "Anadolu Ajansı": 1,
@@ -17888,7 +17888,7 @@
     "Al Arabiya English": 1,
     "Dawn": 1,
     "blue News": 1,
-    "BBC": 1,
+    "BBC": 3,
     "Il Sole 24 ORE": 1,
     "The New Region": 1
    },
@@ -17950,7 +17950,7 @@
     ],
     "Al-Monitor": [
      0,
-     2,
+     3,
      0
     ],
     "WSJ": [
@@ -18070,7 +18070,7 @@
     ],
     "BBC": [
      0,
-     1,
+     3,
      0
     ],
     "Il Sole 24 ORE": [
