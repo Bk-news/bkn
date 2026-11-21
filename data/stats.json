@@ -15921,31 +15921,31 @@
    }
   },
   "2026-11-19": {
-   "total": 1468,
-   "news": 1421,
+   "total": 1471,
+   "news": 1424,
    "articles": 47,
    "positive": 0,
-   "neutral": 1468,
+   "neutral": 1471,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 503,
+    "GB": 504,
     "SA": 152,
-    "US": 373,
-    "FR": 171,
+    "US": 374,
+    "FR": 172,
     "HK": 6,
     "DE": 9
    },
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Reuters": 177,
+    "Reuters": 178,
     "Arab News": 117,
     "The Guardian": 44,
     "Yemen Online": 3,
     "AP News": 53,
     "i24NEWS": 1,
-    "France 24": 150,
+    "France 24": 151,
     "Bloomberg": 3,
     "South China Morning Post": 6,
     "Atlantic Council": 28,
@@ -15962,7 +15962,7 @@
     "Crypto Briefing": 3,
     "Chosunbiz": 1,
     "Mezha.net": 2,
-    "Al-Monitor": 62,
+    "Al-Monitor": 63,
     "Critical Threats": 1,
     "DNE Africa": 1,
     "Wamda": 1,
@@ -16109,7 +16109,7 @@
     ],
     "Reuters": [
      0,
-     177,
+     178,
      0
     ],
     "Arab News": [
@@ -16139,7 +16139,7 @@
     ],
     "France 24": [
      0,
-     150,
+     151,
      0
     ],
     "Bloomberg": [
@@ -16224,7 +16224,7 @@
     ],
     "Al-Monitor": [
      0,
-     62,
+     63,
      0
     ],
     "Critical Threats": [
