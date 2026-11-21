@@ -15921,17 +15921,17 @@
    }
   },
   "2026-11-19": {
-   "total": 1451,
-   "news": 1406,
-   "articles": 45,
+   "total": 1454,
+   "news": 1408,
+   "articles": 46,
    "positive": 0,
-   "neutral": 1451,
+   "neutral": 1454,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 499,
-    "SA": 146,
-    "US": 368,
+    "GB": 500,
+    "SA": 147,
+    "US": 369,
     "FR": 169,
     "HK": 6,
     "DE": 9
@@ -15941,14 +15941,14 @@
     "Arabian Gulf Business Insight | AGBI": 3,
     "Reuters": 177,
     "Arab News": 114,
-    "The Guardian": 43,
+    "The Guardian": 44,
     "Yemen Online": 3,
     "AP News": 53,
     "i24NEWS": 1,
     "France 24": 149,
     "Bloomberg": 3,
     "South China Morning Post": 6,
-    "Atlantic Council": 26,
+    "Atlantic Council": 27,
     "WSJ": 128,
     "Financial Times": 146,
     "Belaaz": 1,
@@ -15981,7 +15981,7 @@
     "Le Monde.fr": 21,
     "The Economist": 15,
     "CNN": 6,
-    "Saudi Gazette": 44,
+    "Saudi Gazette": 45,
     "News of Bahrain": 2,
     "UkrMedia News": 1,
     "https://houseofsaud.com/": 3,
@@ -16119,7 +16119,7 @@
     ],
     "The Guardian": [
      0,
-     43,
+     44,
      0
     ],
     "Yemen Online": [
@@ -16154,7 +16154,7 @@
     ],
     "Atlantic Council": [
      0,
-     26,
+     27,
      0
     ],
     "WSJ": [
@@ -16319,7 +16319,7 @@
     ],
     "Saudi Gazette": [
      0,
-     44,
+     45,
      0
     ],
     "News of Bahrain": [
