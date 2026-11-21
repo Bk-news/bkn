@@ -2,6 +2,27 @@
  "day": "2026-11-21",
  "items": [
   {
+   "id": "efddc01e3e96bf36",
+   "origin": "rss",
+   "source": "Saudi Gazette",
+   "author": "",
+   "title_ar": "السعودية تُرحّل 11915 مقيماً غير شرعي خلال أسبوع",
+   "title_orig": "Saudi Arabia deports 11,915 illegal residents in a week",
+   "title_en": "Saudi Arabia deports 11,915 illegal residents in a week",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeWtwbnBTV2RYdTZsS3I0dHF0b3F3b2VteEZYNkVSUnFodFVJVDJvU05nUENaZU9pNFdZVzZaeFI1WlotcF9hVU56WW5lSUdzYUI0U0M5RGpCdmlUY3phV2dQbmFERVpfOS1VNjRBbUY2T2tFazBjZlozbi1OTzBHVENYbWs3VExRNHhULWpEckpSZDJ6SjZPV0I3cjc2YnBmQnRtcWhaVXc2dlJEaXFj?oc=5",
+   "published": "2026-11-21T16:02:00.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "SA",
+   "pending": true,
+   "desc": "Saudi Arabia deports 11,915 illegal residents in a week &nbsp;&nbsp; Saudi Gazette",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "a68b4f604dbb98d3",
    "origin": "rss",
    "source": "houseofsaud.com",

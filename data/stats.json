@@ -17862,16 +17862,16 @@
    }
   },
   "2026-11-21": {
-   "total": 203,
-   "news": 202,
+   "total": 204,
+   "news": 203,
    "articles": 1,
    "positive": 0,
-   "neutral": 203,
+   "neutral": 204,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 17,
-    "SA": 31,
+    "SA": 32,
     "GB": 28,
     "FR": 27,
     "DE": 1,
@@ -17926,7 +17926,7 @@
     "Arab News PK": 1,
     "Reuters": 8,
     "Le Monde.fr": 1,
-    "Saudi Gazette": 8,
+    "Saudi Gazette": 9,
     "X": 1,
     "The New York Times": 1,
     "Spiegel": 1,
@@ -18204,7 +18204,7 @@
     ],
     "Saudi Gazette": [
      0,
-     8,
+     9,
      0
     ],
     "X": [
