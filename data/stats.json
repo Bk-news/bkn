@@ -16915,18 +16915,18 @@
    }
   },
   "2026-11-20": {
-   "total": 808,
-   "news": 793,
+   "total": 817,
+   "news": 802,
    "articles": 15,
    "positive": 0,
-   "neutral": 808,
+   "neutral": 817,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 206,
     "SA": 88,
     "FR": 72,
-    "GB": 225,
+    "GB": 234,
     "HK": 6,
     "DE": 4,
     "JP": 3
@@ -16957,7 +16957,7 @@
     "The New Arab": 3,
     "Al Jazeera": 2,
     "Bloomberg.com": 28,
-    "Reuters": 129,
+    "Reuters": 138,
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -17212,7 +17212,7 @@
     ],
     "Reuters": [
      0,
-     129,
+     138,
      0
     ],
     "Bioengineer.org": [
@@ -17868,17 +17868,17 @@
    }
   },
   "2026-11-21": {
-   "total": 306,
-   "news": 305,
+   "total": 311,
+   "news": 310,
    "articles": 1,
    "positive": 0,
-   "neutral": 306,
+   "neutral": 311,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 24,
     "SA": 51,
-    "GB": 58,
+    "GB": 63,
     "FR": 35,
     "DE": 1,
     "HK": 1
@@ -17930,7 +17930,7 @@
     "Nacionale": 1,
     "The Malaysian Reserve": 1,
     "Arab News PK": 1,
-    "Reuters": 24,
+    "Reuters": 29,
     "Le Monde.fr": 1,
     "Saudi Gazette": 13,
     "X": 1,
@@ -18218,7 +18218,7 @@
     ],
     "Reuters": [
      0,
-     24,
+     29,
      0
     ],
     "Le Monde.fr": [
