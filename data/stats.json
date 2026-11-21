@@ -16915,18 +16915,18 @@
    }
   },
   "2026-11-20": {
-   "total": 627,
-   "news": 615,
+   "total": 628,
+   "news": 616,
    "articles": 12,
    "positive": 0,
-   "neutral": 627,
+   "neutral": 628,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 183,
     "SA": 76,
     "FR": 46,
-    "GB": 125,
+    "GB": 126,
     "HK": 6,
     "DE": 4,
     "JP": 2
@@ -16957,7 +16957,7 @@
     "The New Arab": 2,
     "Al Jazeera": 2,
     "Bloomberg.com": 27,
-    "Reuters": 72,
+    "Reuters": 73,
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -17199,7 +17199,7 @@
     ],
     "Reuters": [
      0,
-     72,
+     73,
      0
     ],
     "Bioengineer.org": [
@@ -17790,20 +17790,22 @@
    }
   },
   "2026-11-21": {
-   "total": 2,
-   "news": 2,
+   "total": 3,
+   "news": 3,
    "articles": 0,
    "positive": 0,
-   "neutral": 2,
+   "neutral": 3,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "US": 1
+    "US": 1,
+    "SA": 1
    },
    "topics": {},
    "sources": {
     "The Washington Post": 1,
-    "www.marketscreener.com": 1
+    "www.marketscreener.com": 1,
+    "Arab News": 1
    },
    "sourceTone": {
     "The Washington Post": [
@@ -17812,6 +17814,11 @@
      0
     ],
     "www.marketscreener.com": [
+     0,
+     1,
+     0
+    ],
+    "Arab News": [
      0,
      1,
      0
