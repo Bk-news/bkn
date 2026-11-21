@@ -15921,17 +15921,17 @@
    }
   },
   "2026-11-19": {
-   "total": 1600,
-   "news": 1552,
+   "total": 1604,
+   "news": 1556,
    "articles": 48,
    "positive": 0,
-   "neutral": 1600,
+   "neutral": 1604,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 559,
+    "GB": 562,
     "SA": 189,
-    "US": 390,
+    "US": 391,
     "FR": 193,
     "HK": 6,
     "DE": 9
@@ -15939,7 +15939,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Reuters": 198,
+    "Reuters": 201,
     "Arab News": 141,
     "The Guardian": 44,
     "Yemen Online": 3,
@@ -15969,7 +15969,7 @@
     "National Herald": 1,
     "The Daily Star": 1,
     "www.jordannews.jo": 1,
-    "The New York Times": 43,
+    "The New York Times": 44,
     "Breakingthenews.net": 1,
     "The Independent": 2,
     "تسنیم": 1,
@@ -16109,7 +16109,7 @@
     ],
     "Reuters": [
      0,
-     198,
+     201,
      0
     ],
     "Arab News": [
@@ -16259,7 +16259,7 @@
     ],
     "The New York Times": [
      0,
-     43,
+     44,
      0
     ],
     "Breakingthenews.net": [
@@ -16915,18 +16915,18 @@
    }
   },
   "2026-11-20": {
-   "total": 719,
-   "news": 705,
-   "articles": 14,
+   "total": 728,
+   "news": 713,
+   "articles": 15,
    "positive": 0,
-   "neutral": 719,
+   "neutral": 728,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 195,
-    "SA": 85,
-    "FR": 53,
-    "GB": 171,
+    "US": 198,
+    "SA": 87,
+    "FR": 54,
+    "GB": 174,
     "HK": 6,
     "DE": 4,
     "JP": 3
@@ -16935,15 +16935,15 @@
    "sources": {
     "WSJ": 93,
     "The AFC": 1,
-    "Atlantic Council": 6,
+    "Atlantic Council": 7,
     "Al-Monitor": 26,
-    "Arab News": 71,
-    "France 24": 50,
+    "Arab News": 73,
+    "France 24": 51,
     "The New York Times": 16,
-    "AP News": 24,
+    "AP News": 26,
     "The Guardian": 13,
     "Financial Times": 20,
-    "BBC": 22,
+    "BBC": 23,
     "Yeni Safak English": 4,
     "Middle East Eye": 5,
     "X": 1,
@@ -16957,7 +16957,7 @@
     "The New Arab": 3,
     "Al Jazeera": 2,
     "Bloomberg.com": 27,
-    "Reuters": 112,
+    "Reuters": 114,
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -17100,7 +17100,7 @@
     ],
     "Atlantic Council": [
      0,
-     6,
+     7,
      0
     ],
     "Al-Monitor": [
@@ -17110,12 +17110,12 @@
     ],
     "Arab News": [
      0,
-     71,
+     73,
      0
     ],
     "France 24": [
      0,
-     50,
+     51,
      0
     ],
     "The New York Times": [
@@ -17125,7 +17125,7 @@
     ],
     "AP News": [
      0,
-     24,
+     26,
      0
     ],
     "The Guardian": [
@@ -17140,7 +17140,7 @@
     ],
     "BBC": [
      0,
-     22,
+     23,
      0
     ],
     "Yeni Safak English": [
@@ -17210,7 +17210,7 @@
     ],
     "Reuters": [
      0,
-     112,
+     114,
      0
     ],
     "Bioengineer.org": [
@@ -17856,16 +17856,16 @@
    }
   },
   "2026-11-21": {
-   "total": 177,
-   "news": 176,
+   "total": 181,
+   "news": 180,
    "articles": 1,
    "positive": 0,
-   "neutral": 177,
+   "neutral": 181,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 16,
-    "SA": 25,
+    "SA": 27,
     "GB": 26,
     "FR": 23,
     "DE": 1,
@@ -17875,7 +17875,7 @@
    "sources": {
     "The Washington Post": 1,
     "www.marketscreener.com": 1,
-    "Arab News": 24,
+    "Arab News": 26,
     "الحرة": 1,
     "The Jerusalem Post": 1,
     "Українські Національні Новини (УНН)": 1,
@@ -17947,7 +17947,9 @@
     "Khaama Press": 1,
     "8AM Media": 1,
     "جريدة القدس": 1,
-    "Business Standard": 1
+    "Business Standard": 1,
+    "LEADERSHIP Newspapers": 1,
+    "Issuewire": 1
    },
    "sourceTone": {
     "The Washington Post": [
@@ -17962,7 +17964,7 @@
     ],
     "Arab News": [
      0,
-     24,
+     26,
      0
     ],
     "الحرة": [
@@ -18321,6 +18323,16 @@
      0
     ],
     "Business Standard": [
+     0,
+     1,
+     0
+    ],
+    "LEADERSHIP Newspapers": [
+     0,
+     1,
+     0
+    ],
+    "Issuewire": [
      0,
      1,
      0
