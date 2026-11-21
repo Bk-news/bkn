@@ -16915,18 +16915,18 @@
    }
   },
   "2026-11-20": {
-   "total": 800,
-   "news": 785,
+   "total": 806,
+   "news": 791,
    "articles": 15,
    "positive": 0,
-   "neutral": 800,
+   "neutral": 806,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 206,
     "SA": 88,
     "FR": 72,
-    "GB": 217,
+    "GB": 223,
     "HK": 6,
     "DE": 4,
     "JP": 3
@@ -16941,7 +16941,7 @@
     "France 24": 69,
     "The New York Times": 17,
     "AP News": 26,
-    "The Guardian": 33,
+    "The Guardian": 39,
     "Financial Times": 22,
     "BBC": 29,
     "Yeni Safak English": 4,
@@ -17132,7 +17132,7 @@
     ],
     "The Guardian": [
      0,
-     33,
+     39,
      0
     ],
     "Financial Times": [
