@@ -16915,17 +16915,17 @@
    }
   },
   "2026-11-20": {
-   "total": 690,
-   "news": 676,
+   "total": 693,
+   "news": 679,
    "articles": 14,
    "positive": 0,
-   "neutral": 690,
+   "neutral": 693,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 191,
+    "US": 193,
     "SA": 82,
-    "FR": 51,
+    "FR": 52,
     "GB": 153,
     "HK": 6,
     "DE": 4,
@@ -16940,7 +16940,7 @@
     "Arab News": 68,
     "France 24": 49,
     "The New York Times": 16,
-    "AP News": 22,
+    "AP News": 24,
     "The Guardian": 13,
     "Financial Times": 20,
     "BBC": 22,
@@ -17063,7 +17063,7 @@
     "Crude Oil Prices Today | OilPrice.com": 1,
     "파이낸셜뉴스": 1,
     "bdnews24.com": 1,
-    "Le Monde.fr": 2,
+    "Le Monde.fr": 3,
     "Foreign Policy": 1,
     "Vietnam.vn": 1,
     "Breakingthenews.net": 1,
@@ -17123,7 +17123,7 @@
     ],
     "AP News": [
      0,
-     22,
+     24,
      0
     ],
     "The Guardian": [
@@ -17738,7 +17738,7 @@
     ],
     "Le Monde.fr": [
      0,
-     2,
+     3,
      0
     ],
     "Foreign Policy": [
@@ -17844,24 +17844,26 @@
    }
   },
   "2026-11-21": {
-   "total": 68,
-   "news": 68,
+   "total": 105,
+   "news": 105,
    "articles": 0,
    "positive": 0,
-   "neutral": 68,
+   "neutral": 105,
    "critical": 0,
-   "mbs": 0,
+   "mbs": 1,
    "countries": {
-    "US": 10,
-    "SA": 7,
-    "GB": 8,
-    "FR": 1
+    "US": 16,
+    "SA": 16,
+    "GB": 17,
+    "FR": 7,
+    "DE": 1,
+    "HK": 1
    },
    "topics": {},
    "sources": {
     "The Washington Post": 1,
     "www.marketscreener.com": 1,
-    "Arab News": 9,
+    "Arab News": 14,
     "الحرة": 1,
     "The Jerusalem Post": 1,
     "Українські Національні Новини (УНН)": 1,
@@ -17870,14 +17872,14 @@
     "Khaleej Times": 1,
     "Financial Times": 3,
     "The Guardian": 1,
-    "Al-Monitor": 4,
+    "Al-Monitor": 8,
     "WSJ": 1,
-    "ASHARQ AL-AWSAT English": 1,
+    "ASHARQ AL-AWSAT English": 2,
     "Anadolu Ajansı": 1,
     "Middle East Eye": 2,
-    "Yemen Online": 1,
+    "Yemen Online": 2,
     "Facebook": 1,
-    "South China Morning Post": 1,
+    "South China Morning Post": 2,
     "The Business Standard": 1,
     "Al Jazeera": 1,
     "Yeni Safak English": 3,
@@ -17889,12 +17891,12 @@
     "https://houseofsaud.com/": 1,
     "Gulf News": 1,
     "NDTV": 1,
-    "France 24": 1,
+    "France 24": 6,
     "Japan Today": 1,
     "Al Arabiya English": 1,
     "Dawn": 1,
     "blue News": 1,
-    "BBC": 4,
+    "BBC": 8,
     "Il Sole 24 ORE": 1,
     "The New Region": 1,
     "Yahoo": 1,
@@ -17903,7 +17905,16 @@
     "The Times of Israel": 1,
     "Nacionale": 1,
     "The Malaysian Reserve": 1,
-    "Arab News PK": 1
+    "Arab News PK": 1,
+    "Reuters": 5,
+    "Le Monde.fr": 1,
+    "Saudi Gazette": 4,
+    "X": 1,
+    "The New York Times": 1,
+    "Spiegel": 1,
+    "BurgasMedia": 1,
+    "CNN": 1,
+    "Investing.com": 1
    },
    "sourceTone": {
     "The Washington Post": [
@@ -17918,7 +17929,7 @@
     ],
     "Arab News": [
      0,
-     9,
+     14,
      0
     ],
     "الحرة": [
@@ -17963,7 +17974,7 @@
     ],
     "Al-Monitor": [
      0,
-     4,
+     8,
      0
     ],
     "WSJ": [
@@ -17973,7 +17984,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     1,
+     2,
      0
     ],
     "Anadolu Ajansı": [
@@ -17988,7 +17999,7 @@
     ],
     "Yemen Online": [
      0,
-     1,
+     2,
      0
     ],
     "Facebook": [
@@ -17998,7 +18009,7 @@
     ],
     "South China Morning Post": [
      0,
-     1,
+     2,
      0
     ],
     "The Business Standard": [
@@ -18058,7 +18069,7 @@
     ],
     "France 24": [
      0,
-     1,
+     6,
      0
     ],
     "Japan Today": [
@@ -18083,7 +18094,7 @@
     ],
     "BBC": [
      0,
-     4,
+     8,
      0
     ],
     "Il Sole 24 ORE": [
@@ -18127,6 +18138,51 @@
      0
     ],
     "Arab News PK": [
+     0,
+     1,
+     0
+    ],
+    "Reuters": [
+     0,
+     5,
+     0
+    ],
+    "Le Monde.fr": [
+     0,
+     1,
+     0
+    ],
+    "Saudi Gazette": [
+     0,
+     4,
+     0
+    ],
+    "X": [
+     0,
+     1,
+     0
+    ],
+    "The New York Times": [
+     0,
+     1,
+     0
+    ],
+    "Spiegel": [
+     0,
+     1,
+     0
+    ],
+    "BurgasMedia": [
+     0,
+     1,
+     0
+    ],
+    "CNN": [
+     0,
+     1,
+     0
+    ],
+    "Investing.com": [
      0,
      1,
      0
