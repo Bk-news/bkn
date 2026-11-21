@@ -15921,17 +15921,17 @@
    }
   },
   "2026-11-19": {
-   "total": 1596,
-   "news": 1548,
+   "total": 1600,
+   "news": 1552,
    "articles": 48,
    "positive": 0,
-   "neutral": 1596,
+   "neutral": 1600,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 557,
-    "SA": 188,
-    "US": 389,
+    "GB": 559,
+    "SA": 189,
+    "US": 390,
     "FR": 193,
     "HK": 6,
     "DE": 9
@@ -15939,11 +15939,11 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Reuters": 197,
-    "Arab News": 140,
+    "Reuters": 198,
+    "Arab News": 141,
     "The Guardian": 44,
     "Yemen Online": 3,
-    "AP News": 57,
+    "AP News": 58,
     "i24NEWS": 1,
     "France 24": 172,
     "Bloomberg": 3,
@@ -15974,7 +15974,7 @@
     "The Independent": 2,
     "تسنیم": 1,
     "Bloomberg.com": 45,
-    "BBC": 148,
+    "BBC": 149,
     "Spiegel": 9,
     "The Washington Post": 9,
     "ASHARQ AL-AWSAT English": 3,
@@ -16109,12 +16109,12 @@
     ],
     "Reuters": [
      0,
-     197,
+     198,
      0
     ],
     "Arab News": [
      0,
-     140,
+     141,
      0
     ],
     "The Guardian": [
@@ -16129,7 +16129,7 @@
     ],
     "AP News": [
      0,
-     57,
+     58,
      0
     ],
     "i24NEWS": [
@@ -16284,7 +16284,7 @@
     ],
     "BBC": [
      0,
-     148,
+     149,
      0
     ],
     "Spiegel": [
@@ -16915,15 +16915,15 @@
    }
   },
   "2026-11-20": {
-   "total": 716,
-   "news": 702,
+   "total": 719,
+   "news": 705,
    "articles": 14,
    "positive": 0,
-   "neutral": 716,
+   "neutral": 719,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 194,
+    "US": 195,
     "SA": 85,
     "FR": 53,
     "GB": 171,
@@ -16974,7 +16974,7 @@
     "DW.com": 2,
     "Eurasia Review": 1,
     "ASHARQ AL-AWSAT English": 4,
-    "The Washington Post": 4,
+    "The Washington Post": 5,
     "EIN Presswire": 1,
     "Connected to India": 1,
     "Moneycontrol.com": 1,
@@ -17083,7 +17083,9 @@
     "NewsNation": 1,
     "The Tribune-Democrat": 1,
     "WeeTracker": 1,
-    "CBC": 1
+    "CBC": 1,
+    "Investing.com": 1,
+    "NewsCord": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -17293,7 +17295,7 @@
     ],
     "The Washington Post": [
      0,
-     4,
+     5,
      0
     ],
     "EIN Presswire": [
@@ -17840,15 +17842,25 @@
      0,
      1,
      0
+    ],
+    "Investing.com": [
+     0,
+     1,
+     0
+    ],
+    "NewsCord": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-21": {
-   "total": 173,
-   "news": 172,
+   "total": 177,
+   "news": 176,
    "articles": 1,
    "positive": 0,
-   "neutral": 173,
+   "neutral": 177,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -17901,7 +17913,7 @@
     "The New Region": 1,
     "Yahoo": 1,
     "Bioengineer.org": 3,
-    "UA.NEWS": 2,
+    "UA.NEWS": 3,
     "The Times of Israel": 2,
     "Nacionale": 1,
     "The Malaysian Reserve": 1,
@@ -17932,7 +17944,10 @@
     "TodayPress.tv": 1,
     "Oil & Gas Middle East": 1,
     "Arise News": 1,
-    "Khaama Press": 1
+    "Khaama Press": 1,
+    "8AM Media": 1,
+    "جريدة القدس": 1,
+    "Business Standard": 1
    },
    "sourceTone": {
     "The Washington Post": [
@@ -18137,7 +18152,7 @@
     ],
     "UA.NEWS": [
      0,
-     2,
+     3,
      0
     ],
     "The Times of Israel": [
@@ -18291,6 +18306,21 @@
      0
     ],
     "Khaama Press": [
+     0,
+     1,
+     0
+    ],
+    "8AM Media": [
+     0,
+     1,
+     0
+    ],
+    "جريدة القدس": [
+     0,
+     1,
+     0
+    ],
+    "Business Standard": [
      0,
      1,
      0
