@@ -16915,19 +16915,19 @@
    }
   },
   "2026-11-20": {
-   "total": 842,
-   "news": 826,
-   "articles": 16,
+   "total": 846,
+   "news": 829,
+   "articles": 17,
    "positive": 0,
-   "neutral": 842,
+   "neutral": 846,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 207,
+    "US": 209,
     "SA": 90,
     "FR": 74,
-    "GB": 254,
-    "HK": 6,
+    "GB": 255,
+    "HK": 7,
     "DE": 4,
     "JP": 3
    },
@@ -16935,14 +16935,14 @@
    "sources": {
     "WSJ": 98,
     "The AFC": 1,
-    "Atlantic Council": 7,
-    "Al-Monitor": 27,
+    "Atlantic Council": 8,
+    "Al-Monitor": 28,
     "Arab News": 75,
     "France 24": 71,
     "The New York Times": 18,
     "AP News": 26,
     "The Guardian": 59,
-    "Financial Times": 22,
+    "Financial Times": 23,
     "BBC": 30,
     "Yeni Safak English": 4,
     "Middle East Eye": 5,
@@ -16964,7 +16964,7 @@
     "Saudi Gazette": 27,
     "The Economist": 8,
     "Daily Sabah": 2,
-    "South China Morning Post": 6,
+    "South China Morning Post": 7,
     "Spiegel": 4,
     "Nikkei Asia": 3,
     "جريدة القدس": 1,
@@ -17102,12 +17102,12 @@
     ],
     "Atlantic Council": [
      0,
-     7,
+     8,
      0
     ],
     "Al-Monitor": [
      0,
-     27,
+     28,
      0
     ],
     "Arab News": [
@@ -17137,7 +17137,7 @@
     ],
     "Financial Times": [
      0,
-     22,
+     23,
      0
     ],
     "BBC": [
@@ -17247,7 +17247,7 @@
     ],
     "South China Morning Post": [
      0,
-     6,
+     7,
      0
     ],
     "Spiegel": [
