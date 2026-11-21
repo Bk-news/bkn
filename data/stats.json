@@ -15921,17 +15921,17 @@
    }
   },
   "2026-11-19": {
-   "total": 1362,
-   "news": 1329,
-   "articles": 33,
+   "total": 1366,
+   "news": 1330,
+   "articles": 36,
    "positive": 0,
-   "neutral": 1362,
+   "neutral": 1366,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 473,
+    "GB": 475,
     "SA": 127,
-    "US": 339,
+    "US": 341,
     "FR": 154,
     "HK": 6,
     "DE": 9
@@ -15948,7 +15948,7 @@
     "France 24": 139,
     "Bloomberg": 3,
     "South China Morning Post": 6,
-    "Atlantic Council": 19,
+    "Atlantic Council": 20,
     "WSJ": 123,
     "Financial Times": 143,
     "Belaaz": 1,
@@ -15979,8 +15979,8 @@
     "The Washington Post": 9,
     "ASHARQ AL-AWSAT English": 3,
     "Le Monde.fr": 16,
-    "The Economist": 12,
-    "CNN": 4,
+    "The Economist": 14,
+    "CNN": 5,
     "Saudi Gazette": 39,
     "News of Bahrain": 2,
     "UkrMedia News": 1,
@@ -16154,7 +16154,7 @@
     ],
     "Atlantic Council": [
      0,
-     19,
+     20,
      0
     ],
     "WSJ": [
@@ -16309,12 +16309,12 @@
     ],
     "The Economist": [
      0,
-     12,
+     14,
      0
     ],
     "CNN": [
      0,
-     4,
+     5,
      0
     ],
     "Saudi Gazette": [
