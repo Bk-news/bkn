@@ -15921,15 +15921,15 @@
    }
   },
   "2026-11-19": {
-   "total": 1368,
-   "news": 1332,
+   "total": 1369,
+   "news": 1333,
    "articles": 36,
    "positive": 0,
-   "neutral": 1368,
+   "neutral": 1369,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 476,
+    "GB": 477,
     "SA": 127,
     "US": 341,
     "FR": 155,
@@ -15950,7 +15950,7 @@
     "South China Morning Post": 6,
     "Atlantic Council": 20,
     "WSJ": 123,
-    "Financial Times": 143,
+    "Financial Times": 144,
     "Belaaz": 1,
     "Middle East Eye": 11,
     "UA.NEWS": 1,
@@ -16164,7 +16164,7 @@
     ],
     "Financial Times": [
      0,
-     143,
+     144,
      0
     ],
     "Belaaz": [
@@ -16915,18 +16915,18 @@
    }
   },
   "2026-11-20": {
-   "total": 623,
-   "news": 611,
+   "total": 626,
+   "news": 614,
    "articles": 12,
    "positive": 0,
-   "neutral": 623,
+   "neutral": 626,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 183,
     "SA": 76,
     "FR": 46,
-    "GB": 122,
+    "GB": 124,
     "HK": 6,
     "DE": 4,
     "JP": 2
@@ -16942,12 +16942,12 @@
     "The New York Times": 12,
     "AP News": 20,
     "The Guardian": 13,
-    "Financial Times": 16,
+    "Financial Times": 18,
     "BBC": 20,
     "Yeni Safak English": 4,
     "Middle East Eye": 5,
     "X": 1,
-    "Yemen Online": 4,
+    "Yemen Online": 5,
     "https://houseofsaud.com/": 5,
     "Crypto Briefing": 2,
     "الحرة": 1,
@@ -17124,7 +17124,7 @@
     ],
     "Financial Times": [
      0,
-     16,
+     18,
      0
     ],
     "BBC": [
@@ -17149,7 +17149,7 @@
     ],
     "Yemen Online": [
      0,
-     4,
+     5,
      0
     ],
     "https://houseofsaud.com/": [
