@@ -15921,18 +15921,18 @@
    }
   },
   "2026-11-19": {
-   "total": 1615,
-   "news": 1564,
+   "total": 1616,
+   "news": 1565,
    "articles": 51,
    "positive": 0,
-   "neutral": 1615,
+   "neutral": 1616,
    "critical": 0,
    "mbs": 30,
    "countries": {
     "GB": 563,
     "SA": 192,
     "US": 397,
-    "FR": 193,
+    "FR": 194,
     "HK": 7,
     "DE": 9
    },
@@ -15945,7 +15945,7 @@
     "Yemen Online": 3,
     "AP News": 59,
     "i24NEWS": 1,
-    "France 24": 172,
+    "France 24": 173,
     "Bloomberg": 3,
     "South China Morning Post": 7,
     "Atlantic Council": 31,
@@ -16139,7 +16139,7 @@
     ],
     "France 24": [
      0,
-     172,
+     173,
      0
     ],
     "Bloomberg": [
@@ -16915,17 +16915,17 @@
    }
   },
   "2026-11-20": {
-   "total": 741,
-   "news": 726,
+   "total": 743,
+   "news": 728,
    "articles": 15,
    "positive": 0,
-   "neutral": 741,
+   "neutral": 743,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 201,
     "SA": 87,
-    "FR": 58,
+    "FR": 60,
     "GB": 179,
     "HK": 6,
     "DE": 4,
@@ -16938,7 +16938,7 @@
     "Atlantic Council": 7,
     "Al-Monitor": 27,
     "Arab News": 73,
-    "France 24": 55,
+    "France 24": 57,
     "The New York Times": 16,
     "AP News": 26,
     "The Guardian": 14,
@@ -17116,7 +17116,7 @@
     ],
     "France 24": [
      0,
-     55,
+     57,
      0
     ],
     "The New York Times": [
