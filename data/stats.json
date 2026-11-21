@@ -15921,15 +15921,15 @@
    }
   },
   "2026-11-19": {
-   "total": 1355,
-   "news": 1323,
+   "total": 1357,
+   "news": 1325,
    "articles": 32,
    "positive": 0,
-   "neutral": 1355,
+   "neutral": 1357,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 466,
+    "GB": 468,
     "SA": 127,
     "US": 339,
     "FR": 154,
@@ -15950,7 +15950,7 @@
     "South China Morning Post": 6,
     "Atlantic Council": 19,
     "WSJ": 123,
-    "Financial Times": 140,
+    "Financial Times": 142,
     "Belaaz": 1,
     "Middle East Eye": 11,
     "UA.NEWS": 1,
@@ -16164,7 +16164,7 @@
     ],
     "Financial Times": [
      0,
-     140,
+     142,
      0
     ],
     "Belaaz": [
@@ -16915,18 +16915,18 @@
    }
   },
   "2026-11-20": {
-   "total": 609,
-   "news": 597,
+   "total": 614,
+   "news": 602,
    "articles": 12,
    "positive": 0,
-   "neutral": 609,
+   "neutral": 614,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 180,
+    "US": 183,
     "SA": 68,
     "FR": 46,
-    "GB": 120,
+    "GB": 121,
     "HK": 6,
     "DE": 4,
     "JP": 2
@@ -16940,9 +16940,9 @@
     "Arab News": 55,
     "France 24": 45,
     "The New York Times": 12,
-    "AP News": 17,
+    "AP News": 20,
     "The Guardian": 13,
-    "Financial Times": 15,
+    "Financial Times": 16,
     "BBC": 20,
     "Yeni Safak English": 4,
     "Middle East Eye": 5,
@@ -17073,7 +17073,8 @@
     "Мілітарний": 1,
     "Kurdistan TV": 1,
     "DC News Now": 1,
-    "thenationalnews.com": 1
+    "thenationalnews.com": 1,
+    "Demócrata": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -17113,7 +17114,7 @@
     ],
     "AP News": [
      0,
-     17,
+     20,
      0
     ],
     "The Guardian": [
@@ -17123,7 +17124,7 @@
     ],
     "Financial Times": [
      0,
-     15,
+     16,
      0
     ],
     "BBC": [
@@ -17777,6 +17778,11 @@
      0
     ],
     "thenationalnews.com": [
+     0,
+     1,
+     0
+    ],
+    "Demócrata": [
      0,
      1,
      0
