@@ -17790,11 +17790,11 @@
    }
   },
   "2026-11-21": {
-   "total": 1,
-   "news": 1,
+   "total": 2,
+   "news": 2,
    "articles": 0,
    "positive": 0,
-   "neutral": 1,
+   "neutral": 2,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -17802,10 +17802,16 @@
    },
    "topics": {},
    "sources": {
-    "The Washington Post": 1
+    "The Washington Post": 1,
+    "www.marketscreener.com": 1
    },
    "sourceTone": {
     "The Washington Post": [
+     0,
+     1,
+     0
+    ],
+    "www.marketscreener.com": [
      0,
      1,
      0
