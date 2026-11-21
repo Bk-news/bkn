@@ -15921,36 +15921,36 @@
    }
   },
   "2026-11-19": {
-   "total": 1327,
-   "news": 1295,
+   "total": 1336,
+   "news": 1304,
    "articles": 32,
    "positive": 0,
-   "neutral": 1327,
+   "neutral": 1336,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 448,
+    "GB": 453,
     "SA": 126,
-    "US": 333,
-    "FR": 152,
+    "US": 335,
+    "FR": 153,
     "HK": 6,
-    "DE": 8
+    "DE": 9
    },
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
     "Reuters": 149,
     "Arab News": 99,
-    "The Guardian": 37,
+    "The Guardian": 39,
     "Yemen Online": 3,
     "AP News": 51,
     "i24NEWS": 1,
-    "France 24": 138,
+    "France 24": 139,
     "Bloomberg": 3,
     "South China Morning Post": 6,
     "Atlantic Council": 19,
     "WSJ": 121,
-    "Financial Times": 138,
+    "Financial Times": 140,
     "Belaaz": 1,
     "Middle East Eye": 11,
     "UA.NEWS": 1,
@@ -15973,9 +15973,9 @@
     "Breakingthenews.net": 1,
     "The Independent": 2,
     "تسنیم": 1,
-    "Bloomberg.com": 36,
-    "BBC": 117,
-    "Spiegel": 8,
+    "Bloomberg.com": 38,
+    "BBC": 118,
+    "Spiegel": 9,
     "The Washington Post": 9,
     "ASHARQ AL-AWSAT English": 3,
     "Le Monde.fr": 15,
@@ -16119,7 +16119,7 @@
     ],
     "The Guardian": [
      0,
-     37,
+     39,
      0
     ],
     "Yemen Online": [
@@ -16139,7 +16139,7 @@
     ],
     "France 24": [
      0,
-     138,
+     139,
      0
     ],
     "Bloomberg": [
@@ -16164,7 +16164,7 @@
     ],
     "Financial Times": [
      0,
-     138,
+     140,
      0
     ],
     "Belaaz": [
@@ -16279,17 +16279,17 @@
     ],
     "Bloomberg.com": [
      0,
-     36,
+     38,
      0
     ],
     "BBC": [
      0,
-     117,
+     118,
      0
     ],
     "Spiegel": [
      0,
-     8,
+     9,
      0
     ],
     "The Washington Post": [
@@ -16915,30 +16915,30 @@
    }
   },
   "2026-11-20": {
-   "total": 548,
-   "news": 536,
+   "total": 579,
+   "news": 567,
    "articles": 12,
    "positive": 0,
-   "neutral": 548,
+   "neutral": 579,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 167,
-    "SA": 60,
-    "FR": 43,
-    "GB": 95,
+    "US": 175,
+    "SA": 66,
+    "FR": 46,
+    "GB": 102,
     "HK": 6,
     "DE": 4,
     "JP": 2
    },
    "topics": {},
    "sources": {
-    "WSJ": 82,
+    "WSJ": 88,
     "The AFC": 1,
     "Atlantic Council": 6,
-    "Al-Monitor": 22,
-    "Arab News": 45,
-    "France 24": 42,
+    "Al-Monitor": 24,
+    "Arab News": 52,
+    "France 24": 45,
     "The New York Times": 12,
     "AP News": 16,
     "The Guardian": 12,
@@ -16956,8 +16956,8 @@
     "cwibc.co.id": 1,
     "The New Arab": 2,
     "Al Jazeera": 2,
-    "Bloomberg.com": 26,
-    "Reuters": 46,
+    "Bloomberg.com": 27,
+    "Reuters": 53,
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -16995,7 +16995,7 @@
     "fundsforNGOs - Grants and Resources for Sustainability": 1,
     "vijesti.me": 1,
     "Fana News -": 1,
-    "Anadolu Ajansı": 3,
+    "Anadolu Ajansı": 4,
     "Agenzia Nova": 1,
     "TRT World": 2,
     "Mehr News Agency": 1,
@@ -17066,12 +17066,16 @@
     "Le Monde.fr": 1,
     "Foreign Policy": 1,
     "Vietnam.vn": 1,
-    "Breakingthenews.net": 1
+    "Breakingthenews.net": 1,
+    "LBCI Lebanon": 1,
+    "Xinhua": 1,
+    "Star Beacon": 1,
+    "Мілітарний": 1
    },
    "sourceTone": {
     "WSJ": [
      0,
-     82,
+     88,
      0
     ],
     "The AFC": [
@@ -17086,17 +17090,17 @@
     ],
     "Al-Monitor": [
      0,
-     22,
+     24,
      0
     ],
     "Arab News": [
      0,
-     45,
+     52,
      0
     ],
     "France 24": [
      0,
-     42,
+     45,
      0
     ],
     "The New York Times": [
@@ -17186,12 +17190,12 @@
     ],
     "Bloomberg.com": [
      0,
-     26,
+     27,
      0
     ],
     "Reuters": [
      0,
-     46,
+     53,
      0
     ],
     "Bioengineer.org": [
@@ -17381,7 +17385,7 @@
     ],
     "Anadolu Ajansı": [
      0,
-     3,
+     4,
      0
     ],
     "Agenzia Nova": [
@@ -17735,6 +17739,26 @@
      0
     ],
     "Breakingthenews.net": [
+     0,
+     1,
+     0
+    ],
+    "LBCI Lebanon": [
+     0,
+     1,
+     0
+    ],
+    "Xinhua": [
+     0,
+     1,
+     0
+    ],
+    "Star Beacon": [
+     0,
+     1,
+     0
+    ],
+    "Мілітарний": [
      0,
      1,
      0
