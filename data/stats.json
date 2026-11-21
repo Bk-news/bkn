@@ -17868,11 +17868,11 @@
    }
   },
   "2026-11-21": {
-   "total": 312,
-   "news": 311,
+   "total": 314,
+   "news": 313,
    "articles": 1,
    "positive": 0,
-   "neutral": 312,
+   "neutral": 314,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -17924,7 +17924,7 @@
     "Il Sole 24 ORE": 1,
     "The New Region": 1,
     "Yahoo": 1,
-    "Bioengineer.org": 4,
+    "Bioengineer.org": 5,
     "UA.NEWS": 3,
     "The Times of Israel": 2,
     "Nacionale": 1,
@@ -17988,7 +17988,7 @@
     "thecradle.co": 1,
     "ANTARA News": 1,
     "Dhaka Tribune": 1,
-    "Critical Threats": 1
+    "Critical Threats": 2
    },
    "sourceTone": {
     "The Washington Post": [
@@ -18188,7 +18188,7 @@
     ],
     "Bioengineer.org": [
      0,
-     4,
+     5,
      0
     ],
     "UA.NEWS": [
@@ -18508,7 +18508,7 @@
     ],
     "Critical Threats": [
      0,
-     1,
+     2,
      0
     ]
    }
