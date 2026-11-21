@@ -15921,16 +15921,16 @@
    }
   },
   "2026-11-19": {
-   "total": 1532,
-   "news": 1485,
+   "total": 1533,
+   "news": 1486,
    "articles": 47,
    "positive": 0,
-   "neutral": 1532,
+   "neutral": 1533,
    "critical": 0,
    "mbs": 30,
    "countries": {
     "GB": 530,
-    "SA": 174,
+    "SA": 175,
     "US": 378,
     "FR": 181,
     "HK": 6,
@@ -15981,7 +15981,7 @@
     "Le Monde.fr": 22,
     "The Economist": 15,
     "CNN": 6,
-    "Saudi Gazette": 56,
+    "Saudi Gazette": 57,
     "News of Bahrain": 2,
     "UkrMedia News": 1,
     "https://houseofsaud.com/": 3,
@@ -16319,7 +16319,7 @@
     ],
     "Saudi Gazette": [
      0,
-     56,
+     57,
      0
     ],
     "News of Bahrain": [
