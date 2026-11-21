@@ -2,6 +2,27 @@
  "day": "2026-11-21",
  "items": [
   {
+   "id": "d2275a699c38628f",
+   "origin": "rss",
+   "source": "Arab News",
+   "author": "",
+   "title_ar": "الولايات المتحدة تنفي الرواية الإيرانية بأن الصاروخ ألحق أضرارا بطائرة F-16 فوق الخليج",
+   "title_orig": "US denies Iranian account that missile damaged F-16 over Gulf",
+   "title_en": "US denies Iranian account that missile damaged F-16 over Gulf",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVWJCVnZleWNoNTJoTWlWMjlSc01mcGNzRDhHdHZjSGhPbnBMU1Z5WmFCY3Q0UlhQVEx6enZlSlUzUGZqekdvN201Z3dJQnZWWHJrNklQM2tyZC1kVTNuT3RLUUg1X3MxMU1VN1drdjVFd2pzbTBTT2xBNHR0aEFBb2lTbFNMWG5UNzZxTkxaMDAwYXRiaDQzVTlZOVlFNi1ldFhERFFSNFM4dw?oc=5",
+   "published": "2026-11-21T15:33:20.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "SA",
+   "pending": true,
+   "desc": "US denies Iranian account that missile damaged F-16 over Gulf &nbsp;&nbsp; Arab News",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "20d1353d0935c30b",
    "origin": "rss",
    "source": "France 24",
