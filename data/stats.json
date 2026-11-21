@@ -16915,33 +16915,33 @@
    }
   },
   "2026-11-20": {
-   "total": 781,
-   "news": 766,
+   "total": 787,
+   "news": 772,
    "articles": 15,
    "positive": 0,
-   "neutral": 781,
+   "neutral": 787,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 203,
+    "US": 205,
     "SA": 88,
-    "FR": 70,
-    "GB": 203,
+    "FR": 71,
+    "GB": 206,
     "HK": 6,
     "DE": 4,
     "JP": 3
    },
    "topics": {},
    "sources": {
-    "WSJ": 95,
+    "WSJ": 97,
     "The AFC": 1,
     "Atlantic Council": 7,
     "Al-Monitor": 27,
     "Arab News": 74,
-    "France 24": 67,
+    "France 24": 68,
     "The New York Times": 17,
     "AP News": 26,
-    "The Guardian": 21,
+    "The Guardian": 23,
     "Financial Times": 22,
     "BBC": 28,
     "Yeni Safak English": 4,
@@ -16957,7 +16957,7 @@
     "The New Arab": 3,
     "Al Jazeera": 2,
     "Bloomberg.com": 28,
-    "Reuters": 128,
+    "Reuters": 129,
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -17092,7 +17092,7 @@
    "sourceTone": {
     "WSJ": [
      0,
-     95,
+     97,
      0
     ],
     "The AFC": [
@@ -17117,7 +17117,7 @@
     ],
     "France 24": [
      0,
-     67,
+     68,
      0
     ],
     "The New York Times": [
@@ -17132,7 +17132,7 @@
     ],
     "The Guardian": [
      0,
-     21,
+     23,
      0
     ],
     "Financial Times": [
@@ -17212,7 +17212,7 @@
     ],
     "Reuters": [
      0,
-     128,
+     129,
      0
     ],
     "Bioengineer.org": [
@@ -17868,17 +17868,17 @@
    }
   },
   "2026-11-21": {
-   "total": 283,
-   "news": 282,
+   "total": 284,
+   "news": 283,
    "articles": 1,
    "positive": 0,
-   "neutral": 283,
+   "neutral": 284,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 24,
     "SA": 49,
-    "GB": 51,
+    "GB": 52,
     "FR": 35,
     "DE": 1,
     "HK": 1
@@ -17895,7 +17895,7 @@
     "Bloomberg.com": 4,
     "Khaleej Times": 1,
     "Financial Times": 4,
-    "The Guardian": 5,
+    "The Guardian": 6,
     "Al-Monitor": 9,
     "WSJ": 2,
     "ASHARQ AL-AWSAT English": 4,
@@ -18036,7 +18036,7 @@
     ],
     "The Guardian": [
      0,
-     5,
+     6,
      0
     ],
     "Al-Monitor": [
