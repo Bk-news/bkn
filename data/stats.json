@@ -15921,17 +15921,17 @@
    }
   },
   "2026-11-19": {
-   "total": 1533,
-   "news": 1486,
+   "total": 1535,
+   "news": 1488,
    "articles": 47,
    "positive": 0,
-   "neutral": 1533,
+   "neutral": 1535,
    "critical": 0,
    "mbs": 30,
    "countries": {
     "GB": 530,
     "SA": 175,
-    "US": 378,
+    "US": 380,
     "FR": 181,
     "HK": 6,
     "DE": 9
@@ -15973,7 +15973,7 @@
     "Breakingthenews.net": 1,
     "The Independent": 2,
     "تسنیم": 1,
-    "Bloomberg.com": 42,
+    "Bloomberg.com": 44,
     "BBC": 132,
     "Spiegel": 9,
     "The Washington Post": 9,
@@ -16279,7 +16279,7 @@
     ],
     "Bloomberg.com": [
      0,
-     42,
+     44,
      0
     ],
     "BBC": [
@@ -17844,15 +17844,15 @@
    }
   },
   "2026-11-21": {
-   "total": 65,
-   "news": 65,
+   "total": 66,
+   "news": 66,
    "articles": 0,
    "positive": 0,
-   "neutral": 65,
+   "neutral": 66,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "US": 9,
+    "US": 10,
     "SA": 7,
     "GB": 8,
     "FR": 1
@@ -17866,7 +17866,7 @@
     "The Jerusalem Post": 1,
     "Українські Національні Новини (УНН)": 1,
     "AP News": 3,
-    "Bloomberg.com": 1,
+    "Bloomberg.com": 2,
     "Khaleej Times": 1,
     "Financial Times": 3,
     "The Guardian": 1,
@@ -17941,7 +17941,7 @@
     ],
     "Bloomberg.com": [
      0,
-     1,
+     2,
      0
     ],
     "Khaleej Times": [
