@@ -15921,15 +15921,15 @@
    }
   },
   "2026-11-19": {
-   "total": 1370,
-   "news": 1334,
+   "total": 1371,
+   "news": 1335,
    "articles": 36,
    "positive": 0,
-   "neutral": 1370,
+   "neutral": 1371,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 477,
+    "GB": 478,
     "SA": 128,
     "US": 341,
     "FR": 155,
@@ -15974,7 +15974,7 @@
     "The Independent": 2,
     "تسنیم": 1,
     "Bloomberg.com": 38,
-    "BBC": 119,
+    "BBC": 120,
     "Spiegel": 9,
     "The Washington Post": 9,
     "ASHARQ AL-AWSAT English": 3,
@@ -16284,7 +16284,7 @@
     ],
     "BBC": [
      0,
-     119,
+     120,
      0
     ],
     "Spiegel": [
@@ -16915,18 +16915,18 @@
    }
   },
   "2026-11-20": {
-   "total": 631,
-   "news": 619,
+   "total": 639,
+   "news": 627,
    "articles": 12,
    "positive": 0,
-   "neutral": 631,
+   "neutral": 639,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 183,
     "SA": 76,
     "FR": 46,
-    "GB": 128,
+    "GB": 129,
     "HK": 6,
     "DE": 4,
     "JP": 2
@@ -16947,7 +16947,7 @@
     "Yeni Safak English": 4,
     "Middle East Eye": 5,
     "X": 1,
-    "Yemen Online": 5,
+    "Yemen Online": 6,
     "https://houseofsaud.com/": 5,
     "Crypto Briefing": 2,
     "الحرة": 1,
@@ -16957,7 +16957,7 @@
     "The New Arab": 2,
     "Al Jazeera": 2,
     "Bloomberg.com": 27,
-    "Reuters": 75,
+    "Reuters": 76,
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -17040,7 +17040,7 @@
     "The New Indian Express": 1,
     "Apa.az": 1,
     "Democracy for the Arab World Now": 1,
-    "ArchDaily": 1,
+    "ArchDaily": 2,
     "Ahram Online": 2,
     "The American Conservative": 1,
     "Egypt Oil & Gas": 1,
@@ -17075,7 +17075,12 @@
     "DC News Now": 1,
     "thenationalnews.com": 1,
     "Demócrata": 1,
-    "News of Bahrain": 1
+    "News of Bahrain": 1,
+    "US Muslims": 1,
+    "Envanter Medya": 1,
+    "Egypt Independent": 1,
+    "International Trade Union Confederation": 1,
+    "NewsNation": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -17150,7 +17155,7 @@
     ],
     "Yemen Online": [
      0,
-     5,
+     6,
      0
     ],
     "https://houseofsaud.com/": [
@@ -17200,7 +17205,7 @@
     ],
     "Reuters": [
      0,
-     75,
+     76,
      0
     ],
     "Bioengineer.org": [
@@ -17615,7 +17620,7 @@
     ],
     "ArchDaily": [
      0,
-     1,
+     2,
      0
     ],
     "Ahram Online": [
@@ -17792,15 +17797,40 @@
      0,
      1,
      0
+    ],
+    "US Muslims": [
+     0,
+     1,
+     0
+    ],
+    "Envanter Medya": [
+     0,
+     1,
+     0
+    ],
+    "Egypt Independent": [
+     0,
+     1,
+     0
+    ],
+    "International Trade Union Confederation": [
+     0,
+     1,
+     0
+    ],
+    "NewsNation": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-21": {
-   "total": 4,
-   "news": 4,
+   "total": 5,
+   "news": 5,
    "articles": 0,
    "positive": 0,
-   "neutral": 4,
+   "neutral": 5,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -17811,7 +17841,8 @@
    "sources": {
     "The Washington Post": 1,
     "www.marketscreener.com": 1,
-    "Arab News": 2
+    "Arab News": 2,
+    "الحرة": 1
    },
    "sourceTone": {
     "The Washington Post": [
@@ -17827,6 +17858,11 @@
     "Arab News": [
      0,
      2,
+     0
+    ],
+    "الحرة": [
+     0,
+     1,
      0
     ]
    }
