@@ -15921,18 +15921,18 @@
    }
   },
   "2026-11-19": {
-   "total": 1398,
-   "news": 1362,
-   "articles": 36,
+   "total": 1407,
+   "news": 1370,
+   "articles": 37,
    "positive": 0,
-   "neutral": 1398,
+   "neutral": 1407,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 492,
-    "SA": 134,
-    "US": 344,
-    "FR": 159,
+    "GB": 493,
+    "SA": 137,
+    "US": 348,
+    "FR": 160,
     "HK": 6,
     "DE": 9
    },
@@ -15940,15 +15940,15 @@
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
     "Reuters": 174,
-    "Arab News": 107,
+    "Arab News": 109,
     "The Guardian": 42,
     "Yemen Online": 3,
-    "AP News": 52,
+    "AP News": 53,
     "i24NEWS": 1,
     "France 24": 144,
     "Bloomberg": 3,
     "South China Morning Post": 6,
-    "Atlantic Council": 20,
+    "Atlantic Council": 21,
     "WSJ": 124,
     "Financial Times": 145,
     "Belaaz": 1,
@@ -15969,19 +15969,19 @@
     "National Herald": 1,
     "The Daily Star": 1,
     "www.jordannews.jo": 1,
-    "The New York Times": 39,
+    "The New York Times": 40,
     "Breakingthenews.net": 1,
     "The Independent": 2,
     "تسنیم": 1,
-    "Bloomberg.com": 39,
-    "BBC": 121,
+    "Bloomberg.com": 40,
+    "BBC": 122,
     "Spiegel": 9,
     "The Washington Post": 9,
     "ASHARQ AL-AWSAT English": 3,
-    "Le Monde.fr": 16,
+    "Le Monde.fr": 17,
     "The Economist": 14,
     "CNN": 5,
-    "Saudi Gazette": 39,
+    "Saudi Gazette": 40,
     "News of Bahrain": 2,
     "UkrMedia News": 1,
     "https://houseofsaud.com/": 3,
@@ -16114,7 +16114,7 @@
     ],
     "Arab News": [
      0,
-     107,
+     109,
      0
     ],
     "The Guardian": [
@@ -16129,7 +16129,7 @@
     ],
     "AP News": [
      0,
-     52,
+     53,
      0
     ],
     "i24NEWS": [
@@ -16154,7 +16154,7 @@
     ],
     "Atlantic Council": [
      0,
-     20,
+     21,
      0
     ],
     "WSJ": [
@@ -16259,7 +16259,7 @@
     ],
     "The New York Times": [
      0,
-     39,
+     40,
      0
     ],
     "Breakingthenews.net": [
@@ -16279,12 +16279,12 @@
     ],
     "Bloomberg.com": [
      0,
-     39,
+     40,
      0
     ],
     "BBC": [
      0,
-     121,
+     122,
      0
     ],
     "Spiegel": [
@@ -16304,7 +16304,7 @@
     ],
     "Le Monde.fr": [
      0,
-     16,
+     17,
      0
     ],
     "The Economist": [
@@ -16319,7 +16319,7 @@
     ],
     "Saudi Gazette": [
      0,
-     39,
+     40,
      0
     ],
     "News of Bahrain": [
@@ -16915,15 +16915,15 @@
    }
   },
   "2026-11-20": {
-   "total": 670,
-   "news": 658,
+   "total": 671,
+   "news": 659,
    "articles": 12,
    "positive": 0,
-   "neutral": 670,
+   "neutral": 671,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 186,
+    "US": 187,
     "SA": 81,
     "FR": 50,
     "GB": 143,
@@ -16974,7 +16974,7 @@
     "DW.com": 2,
     "Eurasia Review": 1,
     "ASHARQ AL-AWSAT English": 4,
-    "The Washington Post": 3,
+    "The Washington Post": 4,
     "EIN Presswire": 1,
     "Connected to India": 1,
     "Moneycontrol.com": 1,
@@ -17292,7 +17292,7 @@
     ],
     "The Washington Post": [
      0,
-     3,
+     4,
      0
     ],
     "EIN Presswire": [
@@ -17838,23 +17838,24 @@
    }
   },
   "2026-11-21": {
-   "total": 39,
-   "news": 39,
+   "total": 43,
+   "news": 43,
    "articles": 0,
    "positive": 0,
-   "neutral": 39,
+   "neutral": 43,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 7,
-    "SA": 3,
-    "GB": 4
+    "SA": 4,
+    "GB": 4,
+    "FR": 1
    },
    "topics": {},
    "sources": {
     "The Washington Post": 1,
     "www.marketscreener.com": 1,
-    "Arab News": 4,
+    "Arab News": 6,
     "الحرة": 1,
     "The Jerusalem Post": 1,
     "Українські Національні Новини (УНН)": 1,
@@ -17867,7 +17868,7 @@
     "WSJ": 1,
     "ASHARQ AL-AWSAT English": 1,
     "Anadolu Ajansı": 1,
-    "Middle East Eye": 1,
+    "Middle East Eye": 2,
     "Yemen Online": 1,
     "Facebook": 1,
     "South China Morning Post": 1,
@@ -17881,7 +17882,8 @@
     "联合早报": 1,
     "https://houseofsaud.com/": 1,
     "Gulf News": 1,
-    "NDTV": 1
+    "NDTV": 1,
+    "France 24": 1
    },
    "sourceTone": {
     "The Washington Post": [
@@ -17896,7 +17898,7 @@
     ],
     "Arab News": [
      0,
-     4,
+     6,
      0
     ],
     "الحرة": [
@@ -17961,7 +17963,7 @@
     ],
     "Middle East Eye": [
      0,
-     1,
+     2,
      0
     ],
     "Yemen Online": [
@@ -18030,6 +18032,11 @@
      0
     ],
     "NDTV": [
+     0,
+     1,
+     0
+    ],
+    "France 24": [
      0,
      1,
      0
