@@ -16915,18 +16915,18 @@
    }
   },
   "2026-11-20": {
-   "total": 747,
-   "news": 732,
+   "total": 762,
+   "news": 747,
    "articles": 15,
    "positive": 0,
-   "neutral": 747,
+   "neutral": 762,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 202,
     "SA": 88,
-    "FR": 60,
-    "GB": 181,
+    "FR": 66,
+    "GB": 190,
     "HK": 6,
     "DE": 4,
     "JP": 3
@@ -16938,12 +16938,12 @@
     "Atlantic Council": 7,
     "Al-Monitor": 27,
     "Arab News": 74,
-    "France 24": 57,
+    "France 24": 63,
     "The New York Times": 17,
     "AP News": 26,
-    "The Guardian": 16,
+    "The Guardian": 21,
     "Financial Times": 21,
-    "BBC": 24,
+    "BBC": 28,
     "Yeni Safak English": 4,
     "Middle East Eye": 5,
     "X": 1,
@@ -17116,7 +17116,7 @@
     ],
     "France 24": [
      0,
-     57,
+     63,
      0
     ],
     "The New York Times": [
@@ -17131,7 +17131,7 @@
     ],
     "The Guardian": [
      0,
-     16,
+     21,
      0
     ],
     "Financial Times": [
@@ -17141,7 +17141,7 @@
     ],
     "BBC": [
      0,
-     24,
+     28,
      0
     ],
     "Yeni Safak English": [
@@ -17862,18 +17862,18 @@
    }
   },
   "2026-11-21": {
-   "total": 244,
-   "news": 243,
+   "total": 269,
+   "news": 268,
    "articles": 1,
    "positive": 0,
-   "neutral": 244,
+   "neutral": 269,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 24,
-    "SA": 39,
-    "GB": 41,
-    "FR": 33,
+    "SA": 47,
+    "GB": 48,
+    "FR": 35,
     "DE": 1,
     "HK": 1
    },
@@ -17881,14 +17881,14 @@
    "sources": {
     "The Washington Post": 2,
     "www.marketscreener.com": 1,
-    "Arab News": 37,
+    "Arab News": 45,
     "الحرة": 1,
     "The Jerusalem Post": 1,
     "Українські Національні Новини (УНН)": 1,
     "AP News": 5,
     "Bloomberg.com": 4,
     "Khaleej Times": 1,
-    "Financial Times": 3,
+    "Financial Times": 4,
     "The Guardian": 5,
     "Al-Monitor": 9,
     "WSJ": 2,
@@ -17900,16 +17900,16 @@
     "South China Morning Post": 2,
     "The Business Standard": 1,
     "Al Jazeera": 1,
-    "Yeni Safak English": 3,
+    "Yeni Safak English": 4,
     "Vietnam.vn": 2,
     "毎日新聞": 1,
     "CGTN": 1,
     "Pekingnology": 1,
     "联合早报": 1,
-    "https://houseofsaud.com/": 2,
+    "https://houseofsaud.com/": 3,
     "Gulf News": 2,
     "NDTV": 2,
-    "France 24": 33,
+    "France 24": 35,
     "Japan Today": 1,
     "Al Arabiya English": 1,
     "Dawn": 1,
@@ -17924,9 +17924,9 @@
     "Nacionale": 1,
     "The Malaysian Reserve": 1,
     "Arab News PK": 1,
-    "Reuters": 13,
+    "Reuters": 20,
     "Le Monde.fr": 1,
-    "Saudi Gazette": 10,
+    "Saudi Gazette": 11,
     "X": 1,
     "The New York Times": 2,
     "Spiegel": 1,
@@ -17957,7 +17957,7 @@
     "LEADERSHIP Newspapers": 1,
     "Issuewire": 1,
     "New Age BD": 1,
-    "Goal.com": 2,
+    "Goal.com": 3,
     "The Daily Star": 1,
     "Mercomindia.com": 1,
     "خبرگزاری بین المللی قدس": 1,
@@ -17967,7 +17967,10 @@
     "houseofsaud.com": 1,
     "Bombo Radyo Vigan": 1,
     "Daily Voice Of Asia": 1,
-    "Gulf Daily News (Bahrain)": 1
+    "Gulf Daily News (Bahrain)": 1,
+    "Genocide Watch": 1,
+    "Peoples Gazette Nigeria": 1,
+    "NewsCord": 1
    },
    "sourceTone": {
     "The Washington Post": [
@@ -17982,7 +17985,7 @@
     ],
     "Arab News": [
      0,
-     37,
+     45,
      0
     ],
     "الحرة": [
@@ -18017,7 +18020,7 @@
     ],
     "Financial Times": [
      0,
-     3,
+     4,
      0
     ],
     "The Guardian": [
@@ -18077,7 +18080,7 @@
     ],
     "Yeni Safak English": [
      0,
-     3,
+     4,
      0
     ],
     "Vietnam.vn": [
@@ -18107,7 +18110,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     2,
+     3,
      0
     ],
     "Gulf News": [
@@ -18122,7 +18125,7 @@
     ],
     "France 24": [
      0,
-     33,
+     35,
      0
     ],
     "Japan Today": [
@@ -18197,7 +18200,7 @@
     ],
     "Reuters": [
      0,
-     13,
+     20,
      0
     ],
     "Le Monde.fr": [
@@ -18207,7 +18210,7 @@
     ],
     "Saudi Gazette": [
      0,
-     10,
+     11,
      0
     ],
     "X": [
@@ -18362,7 +18365,7 @@
     ],
     "Goal.com": [
      0,
-     2,
+     3,
      0
     ],
     "The Daily Star": [
@@ -18411,6 +18414,21 @@
      0
     ],
     "Gulf Daily News (Bahrain)": [
+     0,
+     1,
+     0
+    ],
+    "Genocide Watch": [
+     0,
+     1,
+     0
+    ],
+    "Peoples Gazette Nigeria": [
+     0,
+     1,
+     0
+    ],
+    "NewsCord": [
      0,
      1,
      0
