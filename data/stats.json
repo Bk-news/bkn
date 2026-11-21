@@ -16915,18 +16915,18 @@
    }
   },
   "2026-11-20": {
-   "total": 834,
-   "news": 819,
+   "total": 836,
+   "news": 821,
    "articles": 15,
    "positive": 0,
-   "neutral": 834,
+   "neutral": 836,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 206,
     "SA": 89,
-    "FR": 73,
-    "GB": 249,
+    "FR": 74,
+    "GB": 250,
     "HK": 6,
     "DE": 4,
     "JP": 3
@@ -16938,10 +16938,10 @@
     "Atlantic Council": 7,
     "Al-Monitor": 27,
     "Arab News": 75,
-    "France 24": 70,
+    "France 24": 71,
     "The New York Times": 17,
     "AP News": 26,
-    "The Guardian": 56,
+    "The Guardian": 57,
     "Financial Times": 22,
     "BBC": 29,
     "Yeni Safak English": 4,
@@ -17117,7 +17117,7 @@
     ],
     "France 24": [
      0,
-     70,
+     71,
      0
     ],
     "The New York Times": [
@@ -17132,7 +17132,7 @@
     ],
     "The Guardian": [
      0,
-     56,
+     57,
      0
     ],
     "Financial Times": [
@@ -17868,17 +17868,17 @@
    }
   },
   "2026-11-21": {
-   "total": 340,
-   "news": 339,
+   "total": 343,
+   "news": 342,
    "articles": 1,
    "positive": 0,
-   "neutral": 340,
+   "neutral": 343,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 24,
     "SA": 58,
-    "GB": 81,
+    "GB": 82,
     "FR": 35,
     "DE": 1,
     "HK": 1
@@ -17895,7 +17895,7 @@
     "Bloomberg.com": 4,
     "Khaleej Times": 1,
     "Financial Times": 4,
-    "The Guardian": 29,
+    "The Guardian": 30,
     "Al-Monitor": 9,
     "WSJ": 2,
     "ASHARQ AL-AWSAT English": 4,
@@ -17904,7 +17904,7 @@
     "Yemen Online": 2,
     "Facebook": 1,
     "South China Morning Post": 2,
-    "The Business Standard": 1,
+    "The Business Standard": 2,
     "Al Jazeera": 1,
     "Yeni Safak English": 7,
     "Vietnam.vn": 2,
@@ -17990,7 +17990,8 @@
     "Dhaka Tribune": 1,
     "Critical Threats": 2,
     "TradeArabia": 1,
-    "Wisevoter": 1
+    "Wisevoter": 1,
+    "مركز سوث24": 1
    },
    "sourceTone": {
     "The Washington Post": [
@@ -18045,7 +18046,7 @@
     ],
     "The Guardian": [
      0,
-     29,
+     30,
      0
     ],
     "Al-Monitor": [
@@ -18090,7 +18091,7 @@
     ],
     "The Business Standard": [
      0,
-     1,
+     2,
      0
     ],
     "Al Jazeera": [
@@ -18519,6 +18520,11 @@
      0
     ],
     "Wisevoter": [
+     0,
+     1,
+     0
+    ],
+    "مركز سوث24": [
      0,
      1,
      0
