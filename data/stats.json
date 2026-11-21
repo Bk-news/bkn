@@ -15921,17 +15921,17 @@
    }
   },
   "2026-11-19": {
-   "total": 1457,
-   "news": 1411,
+   "total": 1461,
+   "news": 1415,
    "articles": 46,
    "positive": 0,
-   "neutral": 1457,
+   "neutral": 1461,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 500,
-    "SA": 148,
-    "US": 369,
+    "GB": 501,
+    "SA": 149,
+    "US": 371,
     "FR": 171,
     "HK": 6,
     "DE": 9
@@ -15940,7 +15940,7 @@
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
     "Reuters": 177,
-    "Arab News": 115,
+    "Arab News": 116,
     "The Guardian": 44,
     "Yemen Online": 3,
     "AP News": 53,
@@ -15950,7 +15950,7 @@
     "South China Morning Post": 6,
     "Atlantic Council": 27,
     "WSJ": 128,
-    "Financial Times": 146,
+    "Financial Times": 147,
     "Belaaz": 1,
     "Middle East Eye": 11,
     "UA.NEWS": 1,
@@ -15962,14 +15962,14 @@
     "Crypto Briefing": 3,
     "Chosunbiz": 1,
     "Mezha.net": 2,
-    "Al-Monitor": 60,
+    "Al-Monitor": 61,
     "Critical Threats": 1,
     "DNE Africa": 1,
     "Wamda": 1,
     "National Herald": 1,
     "The Daily Star": 1,
     "www.jordannews.jo": 1,
-    "The New York Times": 41,
+    "The New York Times": 42,
     "Breakingthenews.net": 1,
     "The Independent": 2,
     "تسنیم": 1,
@@ -16114,7 +16114,7 @@
     ],
     "Arab News": [
      0,
-     115,
+     116,
      0
     ],
     "The Guardian": [
@@ -16164,7 +16164,7 @@
     ],
     "Financial Times": [
      0,
-     146,
+     147,
      0
     ],
     "Belaaz": [
@@ -16224,7 +16224,7 @@
     ],
     "Al-Monitor": [
      0,
-     60,
+     61,
      0
     ],
     "Critical Threats": [
@@ -16259,7 +16259,7 @@
     ],
     "The New York Times": [
      0,
-     41,
+     42,
      0
     ],
     "Breakingthenews.net": [
@@ -17838,16 +17838,16 @@
    }
   },
   "2026-11-21": {
-   "total": 46,
-   "news": 46,
+   "total": 47,
+   "news": 47,
    "articles": 0,
    "positive": 0,
-   "neutral": 46,
+   "neutral": 47,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 7,
-    "SA": 4,
+    "SA": 5,
     "GB": 4,
     "FR": 1
    },
@@ -17855,7 +17855,7 @@
    "sources": {
     "The Washington Post": 1,
     "www.marketscreener.com": 1,
-    "Arab News": 6,
+    "Arab News": 7,
     "الحرة": 1,
     "The Jerusalem Post": 1,
     "Українські Національні Новини (УНН)": 1,
@@ -17901,7 +17901,7 @@
     ],
     "Arab News": [
      0,
-     6,
+     7,
      0
     ],
     "الحرة": [
