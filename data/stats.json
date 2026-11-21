@@ -15921,31 +15921,31 @@
    }
   },
   "2026-11-19": {
-   "total": 1395,
-   "news": 1359,
+   "total": 1398,
+   "news": 1362,
    "articles": 36,
    "positive": 0,
-   "neutral": 1395,
+   "neutral": 1398,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 491,
+    "GB": 492,
     "SA": 134,
-    "US": 343,
-    "FR": 158,
+    "US": 344,
+    "FR": 159,
     "HK": 6,
     "DE": 9
    },
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Reuters": 173,
+    "Reuters": 174,
     "Arab News": 107,
     "The Guardian": 42,
     "Yemen Online": 3,
     "AP News": 52,
     "i24NEWS": 1,
-    "France 24": 143,
+    "France 24": 144,
     "Bloomberg": 3,
     "South China Morning Post": 6,
     "Atlantic Council": 20,
@@ -15969,7 +15969,7 @@
     "National Herald": 1,
     "The Daily Star": 1,
     "www.jordannews.jo": 1,
-    "The New York Times": 38,
+    "The New York Times": 39,
     "Breakingthenews.net": 1,
     "The Independent": 2,
     "تسنیم": 1,
@@ -16109,7 +16109,7 @@
     ],
     "Reuters": [
      0,
-     173,
+     174,
      0
     ],
     "Arab News": [
@@ -16139,7 +16139,7 @@
     ],
     "France 24": [
      0,
-     143,
+     144,
      0
     ],
     "Bloomberg": [
@@ -16259,7 +16259,7 @@
     ],
     "The New York Times": [
      0,
-     38,
+     39,
      0
     ],
     "Breakingthenews.net": [
