@@ -16915,11 +16915,11 @@
    }
   },
   "2026-11-20": {
-   "total": 645,
-   "news": 633,
+   "total": 646,
+   "news": 634,
    "articles": 12,
    "positive": 0,
-   "neutral": 645,
+   "neutral": 646,
    "critical": 0,
    "mbs": 7,
    "countries": {
@@ -17080,7 +17080,8 @@
     "Envanter Medya": 1,
     "Egypt Independent": 1,
     "International Trade Union Confederation": 1,
-    "NewsNation": 1
+    "NewsNation": 1,
+    "The Tribune-Democrat": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -17819,6 +17820,11 @@
      0
     ],
     "NewsNation": [
+     0,
+     1,
+     0
+    ],
+    "The Tribune-Democrat": [
      0,
      1,
      0
