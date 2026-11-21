@@ -16915,11 +16915,11 @@
    }
   },
   "2026-11-20": {
-   "total": 740,
-   "news": 725,
+   "total": 741,
+   "news": 726,
    "articles": 15,
    "positive": 0,
-   "neutral": 740,
+   "neutral": 741,
    "critical": 0,
    "mbs": 7,
    "countries": {
@@ -17085,7 +17085,8 @@
     "WeeTracker": 1,
     "CBC": 1,
     "Investing.com": 1,
-    "NewsCord": 1
+    "NewsCord": 1,
+    "MRRORs": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -17852,22 +17853,27 @@
      0,
      1,
      0
+    ],
+    "MRRORs": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-21": {
-   "total": 186,
-   "news": 185,
+   "total": 195,
+   "news": 194,
    "articles": 1,
    "positive": 0,
-   "neutral": 186,
+   "neutral": 195,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 16,
-    "SA": 28,
+    "SA": 29,
     "GB": 26,
-    "FR": 26,
+    "FR": 27,
     "DE": 1,
     "HK": 1
    },
@@ -17875,7 +17881,7 @@
    "sources": {
     "The Washington Post": 1,
     "www.marketscreener.com": 1,
-    "Arab News": 27,
+    "Arab News": 28,
     "الحرة": 1,
     "The Jerusalem Post": 1,
     "Українські Національні Новини (УНН)": 1,
@@ -17903,7 +17909,7 @@
     "https://houseofsaud.com/": 2,
     "Gulf News": 2,
     "NDTV": 2,
-    "France 24": 26,
+    "France 24": 27,
     "Japan Today": 1,
     "Al Arabiya English": 1,
     "Dawn": 1,
@@ -17912,7 +17918,7 @@
     "Il Sole 24 ORE": 1,
     "The New Region": 1,
     "Yahoo": 1,
-    "Bioengineer.org": 3,
+    "Bioengineer.org": 4,
     "UA.NEWS": 3,
     "The Times of Israel": 2,
     "Nacionale": 1,
@@ -17950,7 +17956,12 @@
     "Business Standard": 1,
     "LEADERSHIP Newspapers": 1,
     "Issuewire": 1,
-    "New Age BD": 1
+    "New Age BD": 1,
+    "Goal.com": 2,
+    "The Daily Star": 1,
+    "Mercomindia.com": 1,
+    "خبرگزاری بین المللی قدس": 1,
+    "Kurdistan TV": 1
    },
    "sourceTone": {
     "The Washington Post": [
@@ -17965,7 +17976,7 @@
     ],
     "Arab News": [
      0,
-     27,
+     28,
      0
     ],
     "الحرة": [
@@ -18105,7 +18116,7 @@
     ],
     "France 24": [
      0,
-     26,
+     27,
      0
     ],
     "Japan Today": [
@@ -18150,7 +18161,7 @@
     ],
     "Bioengineer.org": [
      0,
-     3,
+     4,
      0
     ],
     "UA.NEWS": [
@@ -18339,6 +18350,31 @@
      0
     ],
     "New Age BD": [
+     0,
+     1,
+     0
+    ],
+    "Goal.com": [
+     0,
+     2,
+     0
+    ],
+    "The Daily Star": [
+     0,
+     1,
+     0
+    ],
+    "Mercomindia.com": [
+     0,
+     1,
+     0
+    ],
+    "خبرگزاری بین المللی قدس": [
+     0,
+     1,
+     0
+    ],
+    "Kurdistan TV": [
      0,
      1,
      0
