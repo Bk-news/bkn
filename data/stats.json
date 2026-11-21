@@ -15921,15 +15921,15 @@
    }
   },
   "2026-11-19": {
-   "total": 1359,
-   "news": 1326,
+   "total": 1362,
+   "news": 1329,
    "articles": 33,
    "positive": 0,
-   "neutral": 1359,
+   "neutral": 1362,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 470,
+    "GB": 473,
     "SA": 127,
     "US": 339,
     "FR": 154,
@@ -15939,7 +15939,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Reuters": 159,
+    "Reuters": 161,
     "Arab News": 100,
     "The Guardian": 42,
     "Yemen Online": 3,
@@ -15974,7 +15974,7 @@
     "The Independent": 2,
     "تسنیم": 1,
     "Bloomberg.com": 38,
-    "BBC": 118,
+    "BBC": 119,
     "Spiegel": 9,
     "The Washington Post": 9,
     "ASHARQ AL-AWSAT English": 3,
@@ -16109,7 +16109,7 @@
     ],
     "Reuters": [
      0,
-     159,
+     161,
      0
     ],
     "Arab News": [
@@ -16284,7 +16284,7 @@
     ],
     "BBC": [
      0,
-     118,
+     119,
      0
     ],
     "Spiegel": [
@@ -16915,18 +16915,18 @@
    }
   },
   "2026-11-20": {
-   "total": 614,
-   "news": 602,
+   "total": 622,
+   "news": 610,
    "articles": 12,
    "positive": 0,
-   "neutral": 614,
+   "neutral": 622,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 183,
-    "SA": 68,
+    "SA": 75,
     "FR": 46,
-    "GB": 121,
+    "GB": 122,
     "HK": 6,
     "DE": 4,
     "JP": 2
@@ -16937,7 +16937,7 @@
     "The AFC": 1,
     "Atlantic Council": 6,
     "Al-Monitor": 24,
-    "Arab News": 55,
+    "Arab News": 62,
     "France 24": 45,
     "The New York Times": 12,
     "AP News": 20,
@@ -16957,7 +16957,7 @@
     "The New Arab": 2,
     "Al Jazeera": 2,
     "Bloomberg.com": 27,
-    "Reuters": 70,
+    "Reuters": 71,
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -17099,7 +17099,7 @@
     ],
     "Arab News": [
      0,
-     55,
+     62,
      0
     ],
     "France 24": [
@@ -17199,7 +17199,7 @@
     ],
     "Reuters": [
      0,
-     70,
+     71,
      0
     ],
     "Bioengineer.org": [
