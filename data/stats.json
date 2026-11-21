@@ -15921,16 +15921,16 @@
    }
   },
   "2026-11-19": {
-   "total": 1376,
-   "news": 1340,
+   "total": 1380,
+   "news": 1344,
    "articles": 36,
    "positive": 0,
-   "neutral": 1376,
+   "neutral": 1380,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 480,
-    "SA": 130,
+    "GB": 481,
+    "SA": 133,
     "US": 342,
     "FR": 155,
     "HK": 6,
@@ -15939,8 +15939,8 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Reuters": 163,
-    "Arab News": 103,
+    "Reuters": 164,
+    "Arab News": 106,
     "The Guardian": 42,
     "Yemen Online": 3,
     "AP News": 52,
@@ -16109,12 +16109,12 @@
     ],
     "Reuters": [
      0,
-     163,
+     164,
      0
     ],
     "Arab News": [
      0,
-     103,
+     106,
      0
     ],
     "The Guardian": [
@@ -16915,16 +16915,16 @@
    }
   },
   "2026-11-20": {
-   "total": 647,
-   "news": 635,
+   "total": 651,
+   "news": 639,
    "articles": 12,
    "positive": 0,
-   "neutral": 647,
+   "neutral": 651,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 183,
-    "SA": 76,
+    "SA": 80,
     "FR": 46,
     "GB": 136,
     "HK": 6,
@@ -16937,7 +16937,7 @@
     "The AFC": 1,
     "Atlantic Council": 6,
     "Al-Monitor": 24,
-    "Arab News": 62,
+    "Arab News": 66,
     "France 24": 45,
     "The New York Times": 12,
     "AP News": 20,
@@ -17106,7 +17106,7 @@
     ],
     "Arab News": [
      0,
-     62,
+     66,
      0
     ],
     "France 24": [
