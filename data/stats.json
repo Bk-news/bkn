@@ -15921,18 +15921,18 @@
    }
   },
   "2026-11-19": {
-   "total": 1324,
-   "news": 1292,
+   "total": 1327,
+   "news": 1295,
    "articles": 32,
    "positive": 0,
-   "neutral": 1324,
+   "neutral": 1327,
    "critical": 0,
    "mbs": 30,
    "countries": {
     "GB": 448,
     "SA": 126,
-    "US": 331,
-    "FR": 151,
+    "US": 333,
+    "FR": 152,
     "HK": 6,
     "DE": 8
    },
@@ -15943,7 +15943,7 @@
     "Arab News": 99,
     "The Guardian": 37,
     "Yemen Online": 3,
-    "AP News": 50,
+    "AP News": 51,
     "i24NEWS": 1,
     "France 24": 138,
     "Bloomberg": 3,
@@ -15969,7 +15969,7 @@
     "National Herald": 1,
     "The Daily Star": 1,
     "www.jordannews.jo": 1,
-    "The New York Times": 37,
+    "The New York Times": 38,
     "Breakingthenews.net": 1,
     "The Independent": 2,
     "تسنیم": 1,
@@ -15978,7 +15978,7 @@
     "Spiegel": 8,
     "The Washington Post": 9,
     "ASHARQ AL-AWSAT English": 3,
-    "Le Monde.fr": 14,
+    "Le Monde.fr": 15,
     "The Economist": 11,
     "CNN": 4,
     "Saudi Gazette": 39,
@@ -16129,7 +16129,7 @@
     ],
     "AP News": [
      0,
-     50,
+     51,
      0
     ],
     "i24NEWS": [
@@ -16259,7 +16259,7 @@
     ],
     "The New York Times": [
      0,
-     37,
+     38,
      0
     ],
     "Breakingthenews.net": [
@@ -16304,7 +16304,7 @@
     ],
     "Le Monde.fr": [
      0,
-     14,
+     15,
      0
     ],
     "The Economist": [
@@ -16915,37 +16915,37 @@
    }
   },
   "2026-11-20": {
-   "total": 512,
-   "news": 506,
-   "articles": 6,
+   "total": 548,
+   "news": 536,
+   "articles": 12,
    "positive": 0,
-   "neutral": 512,
+   "neutral": 548,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 153,
-    "SA": 57,
-    "FR": 39,
-    "GB": 86,
-    "HK": 5,
+    "US": 167,
+    "SA": 60,
+    "FR": 43,
+    "GB": 95,
+    "HK": 6,
     "DE": 4,
-    "JP": 1
+    "JP": 2
    },
    "topics": {},
    "sources": {
-    "WSJ": 79,
+    "WSJ": 82,
     "The AFC": 1,
-    "Atlantic Council": 3,
-    "Al-Monitor": 19,
-    "Arab News": 42,
-    "France 24": 39,
+    "Atlantic Council": 6,
+    "Al-Monitor": 22,
+    "Arab News": 45,
+    "France 24": 42,
     "The New York Times": 12,
     "AP News": 16,
     "The Guardian": 12,
-    "Financial Times": 14,
-    "BBC": 18,
+    "Financial Times": 15,
+    "BBC": 20,
     "Yeni Safak English": 4,
-    "Middle East Eye": 4,
+    "Middle East Eye": 5,
     "X": 1,
     "Yemen Online": 4,
     "https://houseofsaud.com/": 5,
@@ -16956,17 +16956,17 @@
     "cwibc.co.id": 1,
     "The New Arab": 2,
     "Al Jazeera": 2,
-    "Bloomberg.com": 23,
-    "Reuters": 42,
+    "Bloomberg.com": 26,
+    "Reuters": 46,
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
     "Saudi Gazette": 25,
-    "The Economist": 3,
+    "The Economist": 5,
     "Daily Sabah": 2,
-    "South China Morning Post": 5,
+    "South China Morning Post": 6,
     "Spiegel": 4,
-    "Nikkei Asia": 1,
+    "Nikkei Asia": 2,
     "جريدة القدس": 1,
     "la Repubblica": 1,
     "Gulf Business": 5,
@@ -16974,7 +16974,7 @@
     "DW.com": 1,
     "Eurasia Review": 1,
     "ASHARQ AL-AWSAT English": 4,
-    "The Washington Post": 2,
+    "The Washington Post": 3,
     "EIN Presswire": 1,
     "Connected to India": 1,
     "Moneycontrol.com": 1,
@@ -17009,7 +17009,7 @@
     "Pulse Ghana": 1,
     "The Economic Times": 1,
     "adobo Magazine": 1,
-    "Dawn": 1,
+    "Dawn": 2,
     "Malay Mail": 1,
     "وكالة الأنباء السعودية": 1,
     "TradingView": 2,
@@ -17062,12 +17062,16 @@
     "MillenniumPost": 1,
     "Crude Oil Prices Today | OilPrice.com": 1,
     "파이낸셜뉴스": 1,
-    "bdnews24.com": 1
+    "bdnews24.com": 1,
+    "Le Monde.fr": 1,
+    "Foreign Policy": 1,
+    "Vietnam.vn": 1,
+    "Breakingthenews.net": 1
    },
    "sourceTone": {
     "WSJ": [
      0,
-     79,
+     82,
      0
     ],
     "The AFC": [
@@ -17077,22 +17081,22 @@
     ],
     "Atlantic Council": [
      0,
-     3,
+     6,
      0
     ],
     "Al-Monitor": [
      0,
-     19,
+     22,
      0
     ],
     "Arab News": [
      0,
-     42,
+     45,
      0
     ],
     "France 24": [
      0,
-     39,
+     42,
      0
     ],
     "The New York Times": [
@@ -17112,12 +17116,12 @@
     ],
     "Financial Times": [
      0,
-     14,
+     15,
      0
     ],
     "BBC": [
      0,
-     18,
+     20,
      0
     ],
     "Yeni Safak English": [
@@ -17127,7 +17131,7 @@
     ],
     "Middle East Eye": [
      0,
-     4,
+     5,
      0
     ],
     "X": [
@@ -17182,12 +17186,12 @@
     ],
     "Bloomberg.com": [
      0,
-     23,
+     26,
      0
     ],
     "Reuters": [
      0,
-     42,
+     46,
      0
     ],
     "Bioengineer.org": [
@@ -17212,7 +17216,7 @@
     ],
     "The Economist": [
      0,
-     3,
+     5,
      0
     ],
     "Daily Sabah": [
@@ -17222,7 +17226,7 @@
     ],
     "South China Morning Post": [
      0,
-     5,
+     6,
      0
     ],
     "Spiegel": [
@@ -17232,7 +17236,7 @@
     ],
     "Nikkei Asia": [
      0,
-     1,
+     2,
      0
     ],
     "جريدة القدس": [
@@ -17272,7 +17276,7 @@
     ],
     "The Washington Post": [
      0,
-     2,
+     3,
      0
     ],
     "EIN Presswire": [
@@ -17447,7 +17451,7 @@
     ],
     "Dawn": [
      0,
-     1,
+     2,
      0
     ],
     "Malay Mail": [
@@ -17711,6 +17715,49 @@
      0
     ],
     "bdnews24.com": [
+     0,
+     1,
+     0
+    ],
+    "Le Monde.fr": [
+     0,
+     1,
+     0
+    ],
+    "Foreign Policy": [
+     0,
+     1,
+     0
+    ],
+    "Vietnam.vn": [
+     0,
+     1,
+     0
+    ],
+    "Breakingthenews.net": [
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "2026-11-21": {
+   "total": 1,
+   "news": 1,
+   "articles": 0,
+   "positive": 0,
+   "neutral": 1,
+   "critical": 0,
+   "mbs": 0,
+   "countries": {
+    "US": 1
+   },
+   "topics": {},
+   "sources": {
+    "The Washington Post": 1
+   },
+   "sourceTone": {
+    "The Washington Post": [
      0,
      1,
      0
