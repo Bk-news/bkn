@@ -16915,18 +16915,18 @@
    }
   },
   "2026-11-20": {
-   "total": 644,
-   "news": 632,
+   "total": 645,
+   "news": 633,
    "articles": 12,
    "positive": 0,
-   "neutral": 644,
+   "neutral": 645,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 183,
     "SA": 76,
     "FR": 46,
-    "GB": 134,
+    "GB": 135,
     "HK": 6,
     "DE": 4,
     "JP": 2
@@ -16943,7 +16943,7 @@
     "AP News": 20,
     "The Guardian": 13,
     "Financial Times": 18,
-    "BBC": 20,
+    "BBC": 21,
     "Yeni Safak English": 4,
     "Middle East Eye": 5,
     "X": 1,
@@ -17135,7 +17135,7 @@
     ],
     "BBC": [
      0,
-     20,
+     21,
      0
     ],
     "Yeni Safak English": [
