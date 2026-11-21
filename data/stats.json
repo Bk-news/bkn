@@ -15921,18 +15921,18 @@
    }
   },
   "2026-11-19": {
-   "total": 1491,
-   "news": 1444,
+   "total": 1499,
+   "news": 1452,
    "articles": 47,
    "positive": 0,
-   "neutral": 1491,
+   "neutral": 1499,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 519,
-    "SA": 155,
-    "US": 374,
-    "FR": 174,
+    "GB": 522,
+    "SA": 158,
+    "US": 375,
+    "FR": 175,
     "HK": 6,
     "DE": 9
    },
@@ -15940,17 +15940,17 @@
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
     "Reuters": 186,
-    "Arab News": 119,
+    "Arab News": 120,
     "The Guardian": 44,
     "Yemen Online": 3,
     "AP News": 53,
     "i24NEWS": 1,
-    "France 24": 153,
+    "France 24": 154,
     "Bloomberg": 3,
     "South China Morning Post": 6,
     "Atlantic Council": 28,
     "WSJ": 128,
-    "Financial Times": 148,
+    "Financial Times": 149,
     "Belaaz": 1,
     "Middle East Eye": 11,
     "UA.NEWS": 1,
@@ -15962,7 +15962,7 @@
     "Crypto Briefing": 3,
     "Chosunbiz": 1,
     "Mezha.net": 2,
-    "Al-Monitor": 63,
+    "Al-Monitor": 64,
     "Critical Threats": 1,
     "DNE Africa": 1,
     "Wamda": 1,
@@ -15974,14 +15974,14 @@
     "The Independent": 2,
     "تسنیم": 1,
     "Bloomberg.com": 42,
-    "BBC": 130,
+    "BBC": 132,
     "Spiegel": 9,
     "The Washington Post": 9,
     "ASHARQ AL-AWSAT English": 3,
     "Le Monde.fr": 22,
     "The Economist": 15,
     "CNN": 6,
-    "Saudi Gazette": 48,
+    "Saudi Gazette": 50,
     "News of Bahrain": 2,
     "UkrMedia News": 1,
     "https://houseofsaud.com/": 3,
@@ -16114,7 +16114,7 @@
     ],
     "Arab News": [
      0,
-     119,
+     120,
      0
     ],
     "The Guardian": [
@@ -16139,7 +16139,7 @@
     ],
     "France 24": [
      0,
-     153,
+     154,
      0
     ],
     "Bloomberg": [
@@ -16164,7 +16164,7 @@
     ],
     "Financial Times": [
      0,
-     148,
+     149,
      0
     ],
     "Belaaz": [
@@ -16224,7 +16224,7 @@
     ],
     "Al-Monitor": [
      0,
-     63,
+     64,
      0
     ],
     "Critical Threats": [
@@ -16284,7 +16284,7 @@
     ],
     "BBC": [
      0,
-     130,
+     132,
      0
     ],
     "Spiegel": [
@@ -16319,7 +16319,7 @@
     ],
     "Saudi Gazette": [
      0,
-     48,
+     50,
      0
     ],
     "News of Bahrain": [
