@@ -17862,11 +17862,11 @@
    }
   },
   "2026-11-21": {
-   "total": 200,
-   "news": 199,
+   "total": 201,
+   "news": 200,
    "articles": 1,
    "positive": 0,
-   "neutral": 200,
+   "neutral": 201,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -17962,7 +17962,8 @@
     "Mercomindia.com": 1,
     "خبرگزاری بین المللی قدس": 1,
     "Kurdistan TV": 1,
-    "fundsforNGOs - Grants and Resources for Sustainability": 1
+    "fundsforNGOs - Grants and Resources for Sustainability": 1,
+    "EIN Presswire": 1
    },
    "sourceTone": {
     "The Washington Post": [
@@ -18381,6 +18382,11 @@
      0
     ],
     "fundsforNGOs - Grants and Resources for Sustainability": [
+     0,
+     1,
+     0
+    ],
+    "EIN Presswire": [
      0,
      1,
      0
