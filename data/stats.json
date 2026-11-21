@@ -17796,11 +17796,11 @@
    }
   },
   "2026-11-21": {
-   "total": 3,
-   "news": 3,
+   "total": 4,
+   "news": 4,
    "articles": 0,
    "positive": 0,
-   "neutral": 3,
+   "neutral": 4,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -17811,7 +17811,7 @@
    "sources": {
     "The Washington Post": 1,
     "www.marketscreener.com": 1,
-    "Arab News": 1
+    "Arab News": 2
    },
    "sourceTone": {
     "The Washington Post": [
@@ -17826,7 +17826,7 @@
     ],
     "Arab News": [
      0,
-     1,
+     2,
      0
     ]
    }
