@@ -17856,11 +17856,11 @@
    }
   },
   "2026-11-21": {
-   "total": 181,
-   "news": 180,
+   "total": 182,
+   "news": 181,
    "articles": 1,
    "positive": 0,
-   "neutral": 181,
+   "neutral": 182,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -17949,7 +17949,8 @@
     "جريدة القدس": 1,
     "Business Standard": 1,
     "LEADERSHIP Newspapers": 1,
-    "Issuewire": 1
+    "Issuewire": 1,
+    "New Age BD": 1
    },
    "sourceTone": {
     "The Washington Post": [
@@ -18333,6 +18334,11 @@
      0
     ],
     "Issuewire": [
+     0,
+     1,
+     0
+    ],
+    "New Age BD": [
      0,
      1,
      0
