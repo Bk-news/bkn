@@ -15921,16 +15921,16 @@
    }
   },
   "2026-11-19": {
-   "total": 1373,
-   "news": 1337,
+   "total": 1374,
+   "news": 1338,
    "articles": 36,
    "positive": 0,
-   "neutral": 1373,
+   "neutral": 1374,
    "critical": 0,
    "mbs": 30,
    "countries": {
     "GB": 479,
-    "SA": 128,
+    "SA": 129,
     "US": 342,
     "FR": 155,
     "HK": 6,
@@ -15940,7 +15940,7 @@
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
     "Reuters": 163,
-    "Arab News": 101,
+    "Arab News": 102,
     "The Guardian": 42,
     "Yemen Online": 3,
     "AP News": 52,
@@ -16114,7 +16114,7 @@
     ],
     "Arab News": [
      0,
-     101,
+     102,
      0
     ],
     "The Guardian": [
