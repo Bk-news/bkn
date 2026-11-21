@@ -16915,18 +16915,18 @@
    }
   },
   "2026-11-20": {
-   "total": 798,
-   "news": 783,
+   "total": 799,
+   "news": 784,
    "articles": 15,
    "positive": 0,
-   "neutral": 798,
+   "neutral": 799,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 205,
     "SA": 88,
     "FR": 72,
-    "GB": 216,
+    "GB": 217,
     "HK": 6,
     "DE": 4,
     "JP": 3
@@ -16941,7 +16941,7 @@
     "France 24": 69,
     "The New York Times": 17,
     "AP News": 26,
-    "The Guardian": 32,
+    "The Guardian": 33,
     "Financial Times": 22,
     "BBC": 29,
     "Yeni Safak English": 4,
@@ -17132,7 +17132,7 @@
     ],
     "The Guardian": [
      0,
-     32,
+     33,
      0
     ],
     "Financial Times": [
@@ -17868,17 +17868,17 @@
    }
   },
   "2026-11-21": {
-   "total": 292,
-   "news": 291,
+   "total": 305,
+   "news": 304,
    "articles": 1,
    "positive": 0,
-   "neutral": 292,
+   "neutral": 305,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 24,
     "SA": 51,
-    "GB": 57,
+    "GB": 58,
     "FR": 35,
     "DE": 1,
     "HK": 1
@@ -17895,7 +17895,7 @@
     "Bloomberg.com": 4,
     "Khaleej Times": 1,
     "Financial Times": 4,
-    "The Guardian": 10,
+    "The Guardian": 11,
     "Al-Monitor": 9,
     "WSJ": 2,
     "ASHARQ AL-AWSAT English": 4,
@@ -17906,7 +17906,7 @@
     "South China Morning Post": 2,
     "The Business Standard": 1,
     "Al Jazeera": 1,
-    "Yeni Safak English": 4,
+    "Yeni Safak English": 7,
     "Vietnam.vn": 2,
     "毎日新聞": 1,
     "CGTN": 1,
@@ -17939,7 +17939,7 @@
     "BurgasMedia": 1,
     "CNN": 1,
     "Investing.com": 1,
-    "The National": 1,
+    "The National": 2,
     "Forbes Middle East": 2,
     "Britannica": 2,
     "The AFC": 2,
@@ -17953,7 +17953,7 @@
     "The Peninsula Qatar": 1,
     "アラブニュース": 1,
     "The Arab Weekly": 1,
-    "TodayPress.tv": 1,
+    "TodayPress.tv": 2,
     "Oil & Gas Middle East": 1,
     "Arise News": 1,
     "Khaama Press": 1,
@@ -17978,11 +17978,16 @@
     "Peoples Gazette Nigeria": 1,
     "NewsCord": 1,
     "Website Resmi Polri": 1,
-    "БТА": 1,
+    "БТА": 2,
     "The Detroit News": 1,
     "Brujulabike.com": 1,
     "Yahoo! Finance Canada": 1,
-    "www.wam.ae": 1
+    "www.wam.ae": 1,
+    "KarloBag.eu": 2,
+    "The Manila Times": 1,
+    "thecradle.co": 1,
+    "ANTARA News": 1,
+    "Dhaka Tribune": 1
    },
    "sourceTone": {
     "The Washington Post": [
@@ -18037,7 +18042,7 @@
     ],
     "The Guardian": [
      0,
-     10,
+     11,
      0
     ],
     "Al-Monitor": [
@@ -18092,7 +18097,7 @@
     ],
     "Yeni Safak English": [
      0,
-     4,
+     7,
      0
     ],
     "Vietnam.vn": [
@@ -18257,7 +18262,7 @@
     ],
     "The National": [
      0,
-     1,
+     2,
      0
     ],
     "Forbes Middle East": [
@@ -18327,7 +18332,7 @@
     ],
     "TodayPress.tv": [
      0,
-     1,
+     2,
      0
     ],
     "Oil & Gas Middle East": [
@@ -18452,7 +18457,7 @@
     ],
     "БТА": [
      0,
-     1,
+     2,
      0
     ],
     "The Detroit News": [
@@ -18471,6 +18476,31 @@
      0
     ],
     "www.wam.ae": [
+     0,
+     1,
+     0
+    ],
+    "KarloBag.eu": [
+     0,
+     2,
+     0
+    ],
+    "The Manila Times": [
+     0,
+     1,
+     0
+    ],
+    "thecradle.co": [
+     0,
+     1,
+     0
+    ],
+    "ANTARA News": [
+     0,
+     1,
+     0
+    ],
+    "Dhaka Tribune": [
      0,
      1,
      0
