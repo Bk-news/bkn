@@ -15921,31 +15921,31 @@
    }
   },
   "2026-11-19": {
-   "total": 1386,
-   "news": 1350,
+   "total": 1395,
+   "news": 1359,
    "articles": 36,
    "positive": 0,
-   "neutral": 1386,
+   "neutral": 1395,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 485,
+    "GB": 491,
     "SA": 134,
-    "US": 342,
-    "FR": 156,
+    "US": 343,
+    "FR": 158,
     "HK": 6,
     "DE": 9
    },
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Reuters": 167,
+    "Reuters": 173,
     "Arab News": 107,
     "The Guardian": 42,
     "Yemen Online": 3,
     "AP News": 52,
     "i24NEWS": 1,
-    "France 24": 141,
+    "France 24": 143,
     "Bloomberg": 3,
     "South China Morning Post": 6,
     "Atlantic Council": 20,
@@ -15973,7 +15973,7 @@
     "Breakingthenews.net": 1,
     "The Independent": 2,
     "تسنیم": 1,
-    "Bloomberg.com": 38,
+    "Bloomberg.com": 39,
     "BBC": 121,
     "Spiegel": 9,
     "The Washington Post": 9,
@@ -16109,7 +16109,7 @@
     ],
     "Reuters": [
      0,
-     167,
+     173,
      0
     ],
     "Arab News": [
@@ -16139,7 +16139,7 @@
     ],
     "France 24": [
      0,
-     141,
+     143,
      0
     ],
     "Bloomberg": [
@@ -16279,7 +16279,7 @@
     ],
     "Bloomberg.com": [
      0,
-     38,
+     39,
      0
     ],
     "BBC": [
@@ -16915,11 +16915,11 @@
    }
   },
   "2026-11-20": {
-   "total": 667,
-   "news": 655,
+   "total": 670,
+   "news": 658,
    "articles": 12,
    "positive": 0,
-   "neutral": 667,
+   "neutral": 670,
    "critical": 0,
    "mbs": 7,
    "countries": {
@@ -16936,7 +16936,7 @@
     "WSJ": 92,
     "The AFC": 1,
     "Atlantic Council": 6,
-    "Al-Monitor": 24,
+    "Al-Monitor": 25,
     "Arab News": 67,
     "France 24": 48,
     "The New York Times": 15,
@@ -17009,7 +17009,7 @@
     "Pulse Ghana": 1,
     "The Economic Times": 1,
     "adobo Magazine": 1,
-    "Dawn": 2,
+    "Dawn": 3,
     "Malay Mail": 1,
     "وكالة الأنباء السعودية": 1,
     "TradingView": 2,
@@ -17081,7 +17081,8 @@
     "Egypt Independent": 1,
     "International Trade Union Confederation": 1,
     "NewsNation": 1,
-    "The Tribune-Democrat": 1
+    "The Tribune-Democrat": 1,
+    "WeeTracker": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -17101,7 +17102,7 @@
     ],
     "Al-Monitor": [
      0,
-     24,
+     25,
      0
     ],
     "Arab News": [
@@ -17466,7 +17467,7 @@
     ],
     "Dawn": [
      0,
-     2,
+     3,
      0
     ],
     "Malay Mail": [
@@ -17828,15 +17829,20 @@
      0,
      1,
      0
+    ],
+    "WeeTracker": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-21": {
-   "total": 28,
-   "news": 28,
+   "total": 39,
+   "news": 39,
    "articles": 0,
    "positive": 0,
-   "neutral": 28,
+   "neutral": 39,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -17866,7 +17872,16 @@
     "Facebook": 1,
     "South China Morning Post": 1,
     "The Business Standard": 1,
-    "Al Jazeera": 1
+    "Al Jazeera": 1,
+    "Yeni Safak English": 2,
+    "Vietnam.vn": 2,
+    "毎日新聞": 1,
+    "CGTN": 1,
+    "Pekingnology": 1,
+    "联合早报": 1,
+    "https://houseofsaud.com/": 1,
+    "Gulf News": 1,
+    "NDTV": 1
    },
    "sourceTone": {
     "The Washington Post": [
@@ -17970,6 +17985,51 @@
      0
     ],
     "Al Jazeera": [
+     0,
+     1,
+     0
+    ],
+    "Yeni Safak English": [
+     0,
+     2,
+     0
+    ],
+    "Vietnam.vn": [
+     0,
+     2,
+     0
+    ],
+    "毎日新聞": [
+     0,
+     1,
+     0
+    ],
+    "CGTN": [
+     0,
+     1,
+     0
+    ],
+    "Pekingnology": [
+     0,
+     1,
+     0
+    ],
+    "联合早报": [
+     0,
+     1,
+     0
+    ],
+    "https://houseofsaud.com/": [
+     0,
+     1,
+     0
+    ],
+    "Gulf News": [
+     0,
+     1,
+     0
+    ],
+    "NDTV": [
      0,
      1,
      0
