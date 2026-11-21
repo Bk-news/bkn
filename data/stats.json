@@ -15921,17 +15921,17 @@
    }
   },
   "2026-11-19": {
-   "total": 1461,
-   "news": 1415,
-   "articles": 46,
+   "total": 1464,
+   "news": 1417,
+   "articles": 47,
    "positive": 0,
-   "neutral": 1461,
+   "neutral": 1464,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 501,
-    "SA": 149,
-    "US": 371,
+    "GB": 502,
+    "SA": 150,
+    "US": 372,
     "FR": 171,
     "HK": 6,
     "DE": 9
@@ -15948,7 +15948,7 @@
     "France 24": 150,
     "Bloomberg": 3,
     "South China Morning Post": 6,
-    "Atlantic Council": 27,
+    "Atlantic Council": 28,
     "WSJ": 128,
     "Financial Times": 147,
     "Belaaz": 1,
@@ -15974,14 +15974,14 @@
     "The Independent": 2,
     "تسنیم": 1,
     "Bloomberg.com": 42,
-    "BBC": 122,
+    "BBC": 123,
     "Spiegel": 9,
     "The Washington Post": 9,
     "ASHARQ AL-AWSAT English": 3,
     "Le Monde.fr": 22,
     "The Economist": 15,
     "CNN": 6,
-    "Saudi Gazette": 45,
+    "Saudi Gazette": 46,
     "News of Bahrain": 2,
     "UkrMedia News": 1,
     "https://houseofsaud.com/": 3,
@@ -16154,7 +16154,7 @@
     ],
     "Atlantic Council": [
      0,
-     27,
+     28,
      0
     ],
     "WSJ": [
@@ -16284,7 +16284,7 @@
     ],
     "BBC": [
      0,
-     122,
+     123,
      0
     ],
     "Spiegel": [
@@ -16319,7 +16319,7 @@
     ],
     "Saudi Gazette": [
      0,
-     45,
+     46,
      0
     ],
     "News of Bahrain": [
