@@ -15921,17 +15921,17 @@
    }
   },
   "2026-11-19": {
-   "total": 1464,
-   "news": 1417,
+   "total": 1466,
+   "news": 1419,
    "articles": 47,
    "positive": 0,
-   "neutral": 1464,
+   "neutral": 1466,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 502,
+    "GB": 503,
     "SA": 150,
-    "US": 372,
+    "US": 373,
     "FR": 171,
     "HK": 6,
     "DE": 9
@@ -15962,7 +15962,7 @@
     "Crypto Briefing": 3,
     "Chosunbiz": 1,
     "Mezha.net": 2,
-    "Al-Monitor": 61,
+    "Al-Monitor": 62,
     "Critical Threats": 1,
     "DNE Africa": 1,
     "Wamda": 1,
@@ -15974,7 +15974,7 @@
     "The Independent": 2,
     "تسنیم": 1,
     "Bloomberg.com": 42,
-    "BBC": 123,
+    "BBC": 124,
     "Spiegel": 9,
     "The Washington Post": 9,
     "ASHARQ AL-AWSAT English": 3,
@@ -16224,7 +16224,7 @@
     ],
     "Al-Monitor": [
      0,
-     61,
+     62,
      0
     ],
     "Critical Threats": [
@@ -16284,7 +16284,7 @@
     ],
     "BBC": [
      0,
-     123,
+     124,
      0
     ],
     "Spiegel": [
