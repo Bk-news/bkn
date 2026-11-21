@@ -15921,18 +15921,18 @@
    }
   },
   "2026-11-19": {
-   "total": 1531,
-   "news": 1484,
+   "total": 1532,
+   "news": 1485,
    "articles": 47,
    "positive": 0,
-   "neutral": 1531,
+   "neutral": 1532,
    "critical": 0,
    "mbs": 30,
    "countries": {
     "GB": 530,
     "SA": 174,
     "US": 378,
-    "FR": 180,
+    "FR": 181,
     "HK": 6,
     "DE": 9
    },
@@ -15945,7 +15945,7 @@
     "Yemen Online": 3,
     "AP News": 53,
     "i24NEWS": 1,
-    "France 24": 159,
+    "France 24": 160,
     "Bloomberg": 3,
     "South China Morning Post": 6,
     "Atlantic Council": 28,
@@ -16139,7 +16139,7 @@
     ],
     "France 24": [
      0,
-     159,
+     160,
      0
     ],
     "Bloomberg": [
@@ -16915,18 +16915,18 @@
    }
   },
   "2026-11-20": {
-   "total": 685,
-   "news": 671,
+   "total": 686,
+   "news": 672,
    "articles": 14,
    "positive": 0,
-   "neutral": 685,
+   "neutral": 686,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 190,
     "SA": 82,
     "FR": 50,
-    "GB": 150,
+    "GB": 151,
     "HK": 6,
     "DE": 4,
     "JP": 3
@@ -16942,7 +16942,7 @@
     "The New York Times": 16,
     "AP News": 21,
     "The Guardian": 13,
-    "Financial Times": 19,
+    "Financial Times": 20,
     "BBC": 22,
     "Yeni Safak English": 4,
     "Middle East Eye": 5,
@@ -17133,7 +17133,7 @@
     ],
     "Financial Times": [
      0,
-     19,
+     20,
      0
     ],
     "BBC": [
@@ -17844,11 +17844,11 @@
    }
   },
   "2026-11-21": {
-   "total": 64,
-   "news": 64,
+   "total": 65,
+   "news": 65,
    "articles": 0,
    "positive": 0,
-   "neutral": 64,
+   "neutral": 65,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -17900,7 +17900,8 @@
     "Yahoo": 1,
     "Bioengineer.org": 1,
     "UA.NEWS": 1,
-    "The Times of Israel": 1
+    "The Times of Israel": 1,
+    "Nacionale": 1
    },
    "sourceTone": {
     "The Washington Post": [
@@ -18109,6 +18110,11 @@
      0
     ],
     "The Times of Israel": [
+     0,
+     1,
+     0
+    ],
+    "Nacionale": [
      0,
      1,
      0
