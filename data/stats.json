@@ -15921,16 +15921,16 @@
    }
   },
   "2026-11-19": {
-   "total": 1614,
-   "news": 1563,
+   "total": 1615,
+   "news": 1564,
    "articles": 51,
    "positive": 0,
-   "neutral": 1614,
+   "neutral": 1615,
    "critical": 0,
    "mbs": 30,
    "countries": {
     "GB": 563,
-    "SA": 191,
+    "SA": 192,
     "US": 397,
     "FR": 193,
     "HK": 7,
@@ -15940,7 +15940,7 @@
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
     "Reuters": 201,
-    "Arab News": 142,
+    "Arab News": 143,
     "The Guardian": 44,
     "Yemen Online": 3,
     "AP News": 59,
@@ -16114,7 +16114,7 @@
     ],
     "Arab News": [
      0,
-     142,
+     143,
      0
     ],
     "The Guardian": [
@@ -16915,15 +16915,15 @@
    }
   },
   "2026-11-20": {
-   "total": 733,
-   "news": 718,
+   "total": 734,
+   "news": 719,
    "articles": 15,
    "positive": 0,
-   "neutral": 733,
+   "neutral": 734,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 199,
+    "US": 200,
     "SA": 87,
     "FR": 55,
     "GB": 177,
@@ -16933,7 +16933,7 @@
    },
    "topics": {},
    "sources": {
-    "WSJ": 94,
+    "WSJ": 95,
     "The AFC": 1,
     "Atlantic Council": 7,
     "Al-Monitor": 26,
@@ -17090,7 +17090,7 @@
    "sourceTone": {
     "WSJ": [
      0,
-     94,
+     95,
      0
     ],
     "The AFC": [
