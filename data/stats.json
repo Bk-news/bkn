@@ -17862,11 +17862,11 @@
    }
   },
   "2026-11-21": {
-   "total": 195,
-   "news": 194,
+   "total": 196,
+   "news": 195,
    "articles": 1,
    "positive": 0,
-   "neutral": 195,
+   "neutral": 196,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -17961,7 +17961,8 @@
     "The Daily Star": 1,
     "Mercomindia.com": 1,
     "خبرگزاری بین المللی قدس": 1,
-    "Kurdistan TV": 1
+    "Kurdistan TV": 1,
+    "fundsforNGOs - Grants and Resources for Sustainability": 1
    },
    "sourceTone": {
     "The Washington Post": [
@@ -18375,6 +18376,11 @@
      0
     ],
     "Kurdistan TV": [
+     0,
+     1,
+     0
+    ],
+    "fundsforNGOs - Grants and Resources for Sustainability": [
      0,
      1,
      0
