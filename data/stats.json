@@ -15921,16 +15921,16 @@
    }
   },
   "2026-11-19": {
-   "total": 1530,
-   "news": 1483,
+   "total": 1531,
+   "news": 1484,
    "articles": 47,
    "positive": 0,
-   "neutral": 1530,
+   "neutral": 1531,
    "critical": 0,
    "mbs": 30,
    "countries": {
     "GB": 530,
-    "SA": 173,
+    "SA": 174,
     "US": 378,
     "FR": 180,
     "HK": 6,
@@ -15940,7 +15940,7 @@
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
     "Reuters": 187,
-    "Arab News": 129,
+    "Arab News": 130,
     "The Guardian": 44,
     "Yemen Online": 3,
     "AP News": 53,
@@ -16114,7 +16114,7 @@
     ],
     "Arab News": [
      0,
-     129,
+     130,
      0
     ],
     "The Guardian": [
@@ -17844,17 +17844,17 @@
    }
   },
   "2026-11-21": {
-   "total": 63,
-   "news": 63,
+   "total": 64,
+   "news": 64,
    "articles": 0,
    "positive": 0,
-   "neutral": 63,
+   "neutral": 64,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 9,
     "SA": 7,
-    "GB": 7,
+    "GB": 8,
     "FR": 1
    },
    "topics": {},
@@ -17894,7 +17894,7 @@
     "Al Arabiya English": 1,
     "Dawn": 1,
     "blue News": 1,
-    "BBC": 3,
+    "BBC": 4,
     "Il Sole 24 ORE": 1,
     "The New Region": 1,
     "Yahoo": 1,
@@ -18080,7 +18080,7 @@
     ],
     "BBC": [
      0,
-     3,
+     4,
      0
     ],
     "Il Sole 24 ORE": [
