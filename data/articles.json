@@ -546,6 +546,27 @@
   "mt": true
  },
  {
+  "id": "281571af1ed23ded",
+  "origin": "rss",
+  "source": "The Economist",
+  "author": "",
+  "title_ar": "الحرب في الشرق الأوسط",
+  "title_orig": "War in the Middle East",
+  "title_en": "War in the Middle East",
+  "summary_ar": [],
+  "summary_en": [],
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPczBoaXdBZmRvTExXN19kZUR4X0F0dXcyNlJ3QTZvbGtXZEhZbHpkek41dW0tbnUwWldMTFBfQ196eDhjZXM0VUVlMWRlTVI0YXpNUjlueFFPU2EtZ0VHbEFnVDRmME9ZcHRHQkd0T053V28tVFpWalRSTHpsaUtSX1lOU3lHa3VyNGFreHJTQ01yMzdjNkMwS0hiV3BrelE?oc=5",
+  "published": "2026-11-19T20:16:22.000Z",
+  "subject": "saudi",
+  "tone": "neutral",
+  "topic": "",
+  "country": "GB",
+  "pending": true,
+  "desc": "War in the Middle East &nbsp;&nbsp; The Economist",
+  "lang": "en",
+  "mt": true
+ },
+ {
   "id": "26bfb76a35128f31",
   "origin": "rss",
   "source": "Atlantic Council",
