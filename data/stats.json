@@ -15921,17 +15921,17 @@
    }
   },
   "2026-11-19": {
-   "total": 1527,
-   "news": 1480,
+   "total": 1529,
+   "news": 1482,
    "articles": 47,
    "positive": 0,
-   "neutral": 1527,
+   "neutral": 1529,
    "critical": 0,
    "mbs": 30,
    "countries": {
     "GB": 530,
-    "SA": 171,
-    "US": 377,
+    "SA": 172,
+    "US": 378,
     "FR": 180,
     "HK": 6,
     "DE": 9
@@ -15962,7 +15962,7 @@
     "Crypto Briefing": 3,
     "Chosunbiz": 1,
     "Mezha.net": 2,
-    "Al-Monitor": 65,
+    "Al-Monitor": 66,
     "Critical Threats": 1,
     "DNE Africa": 1,
     "Wamda": 1,
@@ -15981,7 +15981,7 @@
     "Le Monde.fr": 22,
     "The Economist": 15,
     "CNN": 6,
-    "Saudi Gazette": 55,
+    "Saudi Gazette": 56,
     "News of Bahrain": 2,
     "UkrMedia News": 1,
     "https://houseofsaud.com/": 3,
@@ -16224,7 +16224,7 @@
     ],
     "Al-Monitor": [
      0,
-     65,
+     66,
      0
     ],
     "Critical Threats": [
@@ -16319,7 +16319,7 @@
     ],
     "Saudi Gazette": [
      0,
-     55,
+     56,
      0
     ],
     "News of Bahrain": [
