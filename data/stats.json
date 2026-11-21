@@ -15921,18 +15921,18 @@
    }
   },
   "2026-11-19": {
-   "total": 1454,
-   "news": 1408,
+   "total": 1457,
+   "news": 1411,
    "articles": 46,
    "positive": 0,
-   "neutral": 1454,
+   "neutral": 1457,
    "critical": 0,
    "mbs": 30,
    "countries": {
     "GB": 500,
-    "SA": 147,
+    "SA": 148,
     "US": 369,
-    "FR": 169,
+    "FR": 171,
     "HK": 6,
     "DE": 9
    },
@@ -15940,12 +15940,12 @@
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
     "Reuters": 177,
-    "Arab News": 114,
+    "Arab News": 115,
     "The Guardian": 44,
     "Yemen Online": 3,
     "AP News": 53,
     "i24NEWS": 1,
-    "France 24": 149,
+    "France 24": 150,
     "Bloomberg": 3,
     "South China Morning Post": 6,
     "Atlantic Council": 27,
@@ -15978,7 +15978,7 @@
     "Spiegel": 9,
     "The Washington Post": 9,
     "ASHARQ AL-AWSAT English": 3,
-    "Le Monde.fr": 21,
+    "Le Monde.fr": 22,
     "The Economist": 15,
     "CNN": 6,
     "Saudi Gazette": 45,
@@ -16114,7 +16114,7 @@
     ],
     "Arab News": [
      0,
-     114,
+     115,
      0
     ],
     "The Guardian": [
@@ -16139,7 +16139,7 @@
     ],
     "France 24": [
      0,
-     149,
+     150,
      0
     ],
     "Bloomberg": [
@@ -16304,7 +16304,7 @@
     ],
     "Le Monde.fr": [
      0,
-     21,
+     22,
      0
     ],
     "The Economist": [
