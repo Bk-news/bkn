@@ -16915,18 +16915,18 @@
    }
   },
   "2026-11-20": {
-   "total": 629,
-   "news": 617,
+   "total": 631,
+   "news": 619,
    "articles": 12,
    "positive": 0,
-   "neutral": 629,
+   "neutral": 631,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 183,
     "SA": 76,
     "FR": 46,
-    "GB": 127,
+    "GB": 128,
     "HK": 6,
     "DE": 4,
     "JP": 2
@@ -16957,7 +16957,7 @@
     "The New Arab": 2,
     "Al Jazeera": 2,
     "Bloomberg.com": 27,
-    "Reuters": 74,
+    "Reuters": 75,
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -17074,7 +17074,8 @@
     "Kurdistan TV": 1,
     "DC News Now": 1,
     "thenationalnews.com": 1,
-    "Demócrata": 1
+    "Demócrata": 1,
+    "News of Bahrain": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -17199,7 +17200,7 @@
     ],
     "Reuters": [
      0,
-     74,
+     75,
      0
     ],
     "Bioengineer.org": [
@@ -17783,6 +17784,11 @@
      0
     ],
     "Demócrata": [
+     0,
+     1,
+     0
+    ],
+    "News of Bahrain": [
      0,
      1,
      0
