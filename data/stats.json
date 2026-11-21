@@ -15921,18 +15921,18 @@
    }
   },
   "2026-11-19": {
-   "total": 1420,
-   "news": 1380,
-   "articles": 40,
+   "total": 1426,
+   "news": 1384,
+   "articles": 42,
    "positive": 0,
-   "neutral": 1420,
+   "neutral": 1426,
    "critical": 0,
    "mbs": 30,
    "countries": {
     "GB": 496,
-    "SA": 139,
-    "US": 354,
-    "FR": 162,
+    "SA": 140,
+    "US": 358,
+    "FR": 163,
     "HK": 6,
     "DE": 9
    },
@@ -15945,11 +15945,11 @@
     "Yemen Online": 3,
     "AP News": 53,
     "i24NEWS": 1,
-    "France 24": 145,
+    "France 24": 146,
     "Bloomberg": 3,
     "South China Morning Post": 6,
-    "Atlantic Council": 22,
-    "WSJ": 124,
+    "Atlantic Council": 23,
+    "WSJ": 125,
     "Financial Times": 145,
     "Belaaz": 1,
     "Middle East Eye": 11,
@@ -15962,7 +15962,7 @@
     "Crypto Briefing": 3,
     "Chosunbiz": 1,
     "Mezha.net": 2,
-    "Al-Monitor": 56,
+    "Al-Monitor": 57,
     "Critical Threats": 1,
     "DNE Africa": 1,
     "Wamda": 1,
@@ -15981,7 +15981,7 @@
     "Le Monde.fr": 18,
     "The Economist": 15,
     "CNN": 6,
-    "Saudi Gazette": 41,
+    "Saudi Gazette": 42,
     "News of Bahrain": 2,
     "UkrMedia News": 1,
     "https://houseofsaud.com/": 3,
@@ -16046,7 +16046,7 @@
     "Kurdistan24": 1,
     "Newsweek Rankings": 1,
     "The Africa Report": 1,
-    "Foreign Policy": 1,
+    "Foreign Policy": 2,
     "Foreign Affairs": 2,
     "BigGo Finance": 1,
     "Nacionale": 4,
@@ -16139,7 +16139,7 @@
     ],
     "France 24": [
      0,
-     145,
+     146,
      0
     ],
     "Bloomberg": [
@@ -16154,12 +16154,12 @@
     ],
     "Atlantic Council": [
      0,
-     22,
+     23,
      0
     ],
     "WSJ": [
      0,
-     124,
+     125,
      0
     ],
     "Financial Times": [
@@ -16224,7 +16224,7 @@
     ],
     "Al-Monitor": [
      0,
-     56,
+     57,
      0
     ],
     "Critical Threats": [
@@ -16319,7 +16319,7 @@
     ],
     "Saudi Gazette": [
      0,
-     41,
+     42,
      0
     ],
     "News of Bahrain": [
@@ -16644,7 +16644,7 @@
     ],
     "Foreign Policy": [
      0,
-     1,
+     2,
      0
     ],
     "Foreign Affairs": [
@@ -16915,15 +16915,15 @@
    }
   },
   "2026-11-20": {
-   "total": 674,
-   "news": 662,
+   "total": 675,
+   "news": 663,
    "articles": 12,
    "positive": 0,
-   "neutral": 674,
+   "neutral": 675,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 189,
+    "US": 190,
     "SA": 81,
     "FR": 50,
     "GB": 143,
@@ -16939,7 +16939,7 @@
     "Al-Monitor": 25,
     "Arab News": 67,
     "France 24": 48,
-    "The New York Times": 15,
+    "The New York Times": 16,
     "AP News": 21,
     "The Guardian": 13,
     "Financial Times": 19,
@@ -17117,7 +17117,7 @@
     ],
     "The New York Times": [
      0,
-     15,
+     16,
      0
     ],
     "AP News": [
