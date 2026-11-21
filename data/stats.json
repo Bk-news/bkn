@@ -16915,21 +16915,21 @@
    }
   },
   "2026-11-20": {
-   "total": 846,
-   "news": 829,
+   "total": 849,
+   "news": 832,
    "articles": 17,
    "positive": 0,
-   "neutral": 846,
+   "neutral": 849,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 209,
     "SA": 90,
     "FR": 74,
-    "GB": 255,
+    "GB": 256,
     "HK": 7,
-    "DE": 4,
-    "JP": 3
+    "DE": 5,
+    "JP": 4
    },
    "topics": {},
    "sources": {
@@ -16941,7 +16941,7 @@
     "France 24": 71,
     "The New York Times": 18,
     "AP News": 26,
-    "The Guardian": 59,
+    "The Guardian": 60,
     "Financial Times": 23,
     "BBC": 30,
     "Yeni Safak English": 4,
@@ -16965,8 +16965,8 @@
     "The Economist": 8,
     "Daily Sabah": 2,
     "South China Morning Post": 7,
-    "Spiegel": 4,
-    "Nikkei Asia": 3,
+    "Spiegel": 5,
+    "Nikkei Asia": 4,
     "جريدة القدس": 1,
     "la Repubblica": 1,
     "Gulf Business": 5,
@@ -17132,7 +17132,7 @@
     ],
     "The Guardian": [
      0,
-     59,
+     60,
      0
     ],
     "Financial Times": [
@@ -17252,12 +17252,12 @@
     ],
     "Spiegel": [
      0,
-     4,
+     5,
      0
     ],
     "Nikkei Asia": [
      0,
-     3,
+     4,
      0
     ],
     "جريدة القدس": [
@@ -17868,17 +17868,17 @@
    }
   },
   "2026-11-21": {
-   "total": 348,
-   "news": 346,
+   "total": 350,
+   "news": 348,
    "articles": 2,
    "positive": 0,
-   "neutral": 348,
+   "neutral": 350,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 24,
     "SA": 58,
-    "GB": 87,
+    "GB": 88,
     "FR": 35,
     "DE": 1,
     "HK": 1
@@ -17895,7 +17895,7 @@
     "Bloomberg.com": 4,
     "Khaleej Times": 1,
     "Financial Times": 4,
-    "The Guardian": 34,
+    "The Guardian": 35,
     "Al-Monitor": 9,
     "WSJ": 2,
     "ASHARQ AL-AWSAT English": 4,
@@ -17991,7 +17991,8 @@
     "Critical Threats": 2,
     "TradeArabia": 1,
     "Wisevoter": 1,
-    "مركز سوث24": 1
+    "مركز سوث24": 1,
+    "BBC Wildlife Magazine": 1
    },
    "sourceTone": {
     "The Washington Post": [
@@ -18046,7 +18047,7 @@
     ],
     "The Guardian": [
      0,
-     34,
+     35,
      0
     ],
     "Al-Monitor": [
@@ -18525,6 +18526,11 @@
      0
     ],
     "مركز سوث24": [
+     0,
+     1,
+     0
+    ],
+    "BBC Wildlife Magazine": [
      0,
      1,
      0
