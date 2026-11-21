@@ -15921,15 +15921,15 @@
    }
   },
   "2026-11-19": {
-   "total": 1348,
-   "news": 1316,
+   "total": 1355,
+   "news": 1323,
    "articles": 32,
    "positive": 0,
-   "neutral": 1348,
+   "neutral": 1355,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 459,
+    "GB": 466,
     "SA": 127,
     "US": 339,
     "FR": 154,
@@ -15939,9 +15939,9 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Reuters": 155,
+    "Reuters": 159,
     "Arab News": 100,
-    "The Guardian": 39,
+    "The Guardian": 42,
     "Yemen Online": 3,
     "AP News": 52,
     "i24NEWS": 1,
@@ -16109,7 +16109,7 @@
     ],
     "Reuters": [
      0,
-     155,
+     159,
      0
     ],
     "Arab News": [
@@ -16119,7 +16119,7 @@
     ],
     "The Guardian": [
      0,
-     39,
+     42,
      0
     ],
     "Yemen Online": [
@@ -16915,18 +16915,18 @@
    }
   },
   "2026-11-20": {
-   "total": 607,
-   "news": 595,
+   "total": 609,
+   "news": 597,
    "articles": 12,
    "positive": 0,
-   "neutral": 607,
+   "neutral": 609,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 180,
     "SA": 68,
     "FR": 46,
-    "GB": 119,
+    "GB": 120,
     "HK": 6,
     "DE": 4,
     "JP": 2
@@ -16941,7 +16941,7 @@
     "France 24": 45,
     "The New York Times": 12,
     "AP News": 17,
-    "The Guardian": 12,
+    "The Guardian": 13,
     "Financial Times": 15,
     "BBC": 20,
     "Yeni Safak English": 4,
@@ -17072,7 +17072,8 @@
     "Star Beacon": 1,
     "Мілітарний": 1,
     "Kurdistan TV": 1,
-    "DC News Now": 1
+    "DC News Now": 1,
+    "thenationalnews.com": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -17117,7 +17118,7 @@
     ],
     "The Guardian": [
      0,
-     12,
+     13,
      0
     ],
     "Financial Times": [
@@ -17771,6 +17772,11 @@
      0
     ],
     "DC News Now": [
+     0,
+     1,
+     0
+    ],
+    "thenationalnews.com": [
      0,
      1,
      0
