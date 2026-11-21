@@ -16915,17 +16915,17 @@
    }
   },
   "2026-11-20": {
-   "total": 817,
-   "news": 802,
+   "total": 818,
+   "news": 803,
    "articles": 15,
    "positive": 0,
-   "neutral": 817,
+   "neutral": 818,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 206,
     "SA": 88,
-    "FR": 72,
+    "FR": 73,
     "GB": 234,
     "HK": 6,
     "DE": 4,
@@ -16938,7 +16938,7 @@
     "Atlantic Council": 7,
     "Al-Monitor": 27,
     "Arab News": 74,
-    "France 24": 69,
+    "France 24": 70,
     "The New York Times": 17,
     "AP News": 26,
     "The Guardian": 41,
@@ -17117,7 +17117,7 @@
     ],
     "France 24": [
      0,
-     69,
+     70,
      0
     ],
     "The New York Times": [
@@ -17868,17 +17868,17 @@
    }
   },
   "2026-11-21": {
-   "total": 314,
-   "news": 313,
+   "total": 316,
+   "news": 315,
    "articles": 1,
    "positive": 0,
-   "neutral": 314,
+   "neutral": 316,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 24,
-    "SA": 51,
-    "GB": 64,
+    "SA": 52,
+    "GB": 65,
     "FR": 35,
     "DE": 1,
     "HK": 1
@@ -17887,7 +17887,7 @@
    "sources": {
     "The Washington Post": 2,
     "www.marketscreener.com": 1,
-    "Arab News": 49,
+    "Arab News": 50,
     "الحرة": 1,
     "The Jerusalem Post": 1,
     "Українські Національні Новини (УНН)": 1,
@@ -17895,7 +17895,7 @@
     "Bloomberg.com": 4,
     "Khaleej Times": 1,
     "Financial Times": 4,
-    "The Guardian": 12,
+    "The Guardian": 13,
     "Al-Monitor": 9,
     "WSJ": 2,
     "ASHARQ AL-AWSAT English": 4,
@@ -18003,7 +18003,7 @@
     ],
     "Arab News": [
      0,
-     49,
+     50,
      0
     ],
     "الحرة": [
@@ -18043,7 +18043,7 @@
     ],
     "The Guardian": [
      0,
-     12,
+     13,
      0
     ],
     "Al-Monitor": [
