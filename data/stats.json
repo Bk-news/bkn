@@ -15921,16 +15921,16 @@
    }
   },
   "2026-11-19": {
-   "total": 1623,
-   "news": 1572,
+   "total": 1626,
+   "news": 1575,
    "articles": 51,
    "positive": 0,
-   "neutral": 1623,
+   "neutral": 1626,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 567,
-    "SA": 192,
+    "GB": 568,
+    "SA": 194,
     "US": 398,
     "FR": 196,
     "HK": 7,
@@ -15939,8 +15939,8 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Reuters": 203,
-    "Arab News": 143,
+    "Reuters": 204,
+    "Arab News": 145,
     "The Guardian": 44,
     "Yemen Online": 3,
     "AP News": 59,
@@ -16109,12 +16109,12 @@
     ],
     "Reuters": [
      0,
-     203,
+     204,
      0
     ],
     "Arab News": [
      0,
-     143,
+     145,
      0
     ],
     "The Guardian": [
@@ -16915,18 +16915,18 @@
    }
   },
   "2026-11-20": {
-   "total": 762,
-   "news": 747,
+   "total": 781,
+   "news": 766,
    "articles": 15,
    "positive": 0,
-   "neutral": 762,
+   "neutral": 781,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 202,
+    "US": 203,
     "SA": 88,
-    "FR": 66,
-    "GB": 190,
+    "FR": 70,
+    "GB": 203,
     "HK": 6,
     "DE": 4,
     "JP": 3
@@ -16938,11 +16938,11 @@
     "Atlantic Council": 7,
     "Al-Monitor": 27,
     "Arab News": 74,
-    "France 24": 63,
+    "France 24": 67,
     "The New York Times": 17,
     "AP News": 26,
     "The Guardian": 21,
-    "Financial Times": 21,
+    "Financial Times": 22,
     "BBC": 28,
     "Yeni Safak English": 4,
     "Middle East Eye": 5,
@@ -16956,8 +16956,8 @@
     "cwibc.co.id": 1,
     "The New Arab": 3,
     "Al Jazeera": 2,
-    "Bloomberg.com": 27,
-    "Reuters": 116,
+    "Bloomberg.com": 28,
+    "Reuters": 128,
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -17086,7 +17086,8 @@
     "CBC": 1,
     "Investing.com": 1,
     "NewsCord": 1,
-    "MRRORs": 1
+    "MRRORs": 1,
+    "The Seattle Times": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -17116,7 +17117,7 @@
     ],
     "France 24": [
      0,
-     63,
+     67,
      0
     ],
     "The New York Times": [
@@ -17136,7 +17137,7 @@
     ],
     "Financial Times": [
      0,
-     21,
+     22,
      0
     ],
     "BBC": [
@@ -17206,12 +17207,12 @@
     ],
     "Bloomberg.com": [
      0,
-     27,
+     28,
      0
     ],
     "Reuters": [
      0,
-     116,
+     128,
      0
     ],
     "Bioengineer.org": [
@@ -17858,21 +17859,26 @@
      0,
      1,
      0
+    ],
+    "The Seattle Times": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-21": {
-   "total": 269,
-   "news": 268,
+   "total": 283,
+   "news": 282,
    "articles": 1,
    "positive": 0,
-   "neutral": 269,
+   "neutral": 283,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 24,
-    "SA": 47,
-    "GB": 48,
+    "SA": 49,
+    "GB": 51,
     "FR": 35,
     "DE": 1,
     "HK": 1
@@ -17881,7 +17887,7 @@
    "sources": {
     "The Washington Post": 2,
     "www.marketscreener.com": 1,
-    "Arab News": 45,
+    "Arab News": 47,
     "الحرة": 1,
     "The Jerusalem Post": 1,
     "Українські Національні Новини (УНН)": 1,
@@ -17892,7 +17898,7 @@
     "The Guardian": 5,
     "Al-Monitor": 9,
     "WSJ": 2,
-    "ASHARQ AL-AWSAT English": 3,
+    "ASHARQ AL-AWSAT English": 4,
     "Anadolu Ajansı": 3,
     "Middle East Eye": 2,
     "Yemen Online": 2,
@@ -17924,9 +17930,9 @@
     "Nacionale": 1,
     "The Malaysian Reserve": 1,
     "Arab News PK": 1,
-    "Reuters": 20,
+    "Reuters": 23,
     "Le Monde.fr": 1,
-    "Saudi Gazette": 11,
+    "Saudi Gazette": 13,
     "X": 1,
     "The New York Times": 2,
     "Spiegel": 1,
@@ -17936,7 +17942,7 @@
     "The National": 1,
     "Forbes Middle East": 2,
     "Britannica": 2,
-    "The AFC": 1,
+    "The AFC": 2,
     "The Economist": 1,
     "Fubo": 1,
     "The Atlantic": 1,
@@ -17970,7 +17976,12 @@
     "Gulf Daily News (Bahrain)": 1,
     "Genocide Watch": 1,
     "Peoples Gazette Nigeria": 1,
-    "NewsCord": 1
+    "NewsCord": 1,
+    "Website Resmi Polri": 1,
+    "БТА": 1,
+    "The Detroit News": 1,
+    "Brujulabike.com": 1,
+    "Yahoo! Finance Canada": 1
    },
    "sourceTone": {
     "The Washington Post": [
@@ -17985,7 +17996,7 @@
     ],
     "Arab News": [
      0,
-     45,
+     47,
      0
     ],
     "الحرة": [
@@ -18040,7 +18051,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     3,
+     4,
      0
     ],
     "Anadolu Ajansı": [
@@ -18200,7 +18211,7 @@
     ],
     "Reuters": [
      0,
-     20,
+     23,
      0
     ],
     "Le Monde.fr": [
@@ -18210,7 +18221,7 @@
     ],
     "Saudi Gazette": [
      0,
-     11,
+     13,
      0
     ],
     "X": [
@@ -18260,7 +18271,7 @@
     ],
     "The AFC": [
      0,
-     1,
+     2,
      0
     ],
     "The Economist": [
@@ -18429,6 +18440,31 @@
      0
     ],
     "NewsCord": [
+     0,
+     1,
+     0
+    ],
+    "Website Resmi Polri": [
+     0,
+     1,
+     0
+    ],
+    "БТА": [
+     0,
+     1,
+     0
+    ],
+    "The Detroit News": [
+     0,
+     1,
+     0
+    ],
+    "Brujulabike.com": [
+     0,
+     1,
+     0
+    ],
+    "Yahoo! Finance Canada": [
      0,
      1,
      0
