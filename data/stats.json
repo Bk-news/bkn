@@ -15921,35 +15921,35 @@
    }
   },
   "2026-11-19": {
-   "total": 1336,
-   "news": 1304,
+   "total": 1348,
+   "news": 1316,
    "articles": 32,
    "positive": 0,
-   "neutral": 1336,
+   "neutral": 1348,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 453,
-    "SA": 126,
-    "US": 335,
-    "FR": 153,
+    "GB": 459,
+    "SA": 127,
+    "US": 339,
+    "FR": 154,
     "HK": 6,
     "DE": 9
    },
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Reuters": 149,
-    "Arab News": 99,
+    "Reuters": 155,
+    "Arab News": 100,
     "The Guardian": 39,
     "Yemen Online": 3,
-    "AP News": 51,
+    "AP News": 52,
     "i24NEWS": 1,
     "France 24": 139,
     "Bloomberg": 3,
     "South China Morning Post": 6,
     "Atlantic Council": 19,
-    "WSJ": 121,
+    "WSJ": 123,
     "Financial Times": 140,
     "Belaaz": 1,
     "Middle East Eye": 11,
@@ -15962,7 +15962,7 @@
     "Crypto Briefing": 3,
     "Chosunbiz": 1,
     "Mezha.net": 2,
-    "Al-Monitor": 54,
+    "Al-Monitor": 55,
     "Critical Threats": 1,
     "DNE Africa": 1,
     "Wamda": 1,
@@ -15978,7 +15978,7 @@
     "Spiegel": 9,
     "The Washington Post": 9,
     "ASHARQ AL-AWSAT English": 3,
-    "Le Monde.fr": 15,
+    "Le Monde.fr": 16,
     "The Economist": 11,
     "CNN": 4,
     "Saudi Gazette": 39,
@@ -16109,12 +16109,12 @@
     ],
     "Reuters": [
      0,
-     149,
+     155,
      0
     ],
     "Arab News": [
      0,
-     99,
+     100,
      0
     ],
     "The Guardian": [
@@ -16129,7 +16129,7 @@
     ],
     "AP News": [
      0,
-     51,
+     52,
      0
     ],
     "i24NEWS": [
@@ -16159,7 +16159,7 @@
     ],
     "WSJ": [
      0,
-     121,
+     123,
      0
     ],
     "Financial Times": [
@@ -16224,7 +16224,7 @@
     ],
     "Al-Monitor": [
      0,
-     54,
+     55,
      0
     ],
     "Critical Threats": [
@@ -16304,7 +16304,7 @@
     ],
     "Le Monde.fr": [
      0,
-     15,
+     16,
      0
     ],
     "The Economist": [
@@ -16915,32 +16915,32 @@
    }
   },
   "2026-11-20": {
-   "total": 579,
-   "news": 567,
+   "total": 607,
+   "news": 595,
    "articles": 12,
    "positive": 0,
-   "neutral": 579,
+   "neutral": 607,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 175,
-    "SA": 66,
+    "US": 180,
+    "SA": 68,
     "FR": 46,
-    "GB": 102,
+    "GB": 119,
     "HK": 6,
     "DE": 4,
     "JP": 2
    },
    "topics": {},
    "sources": {
-    "WSJ": 88,
+    "WSJ": 92,
     "The AFC": 1,
     "Atlantic Council": 6,
     "Al-Monitor": 24,
-    "Arab News": 52,
+    "Arab News": 55,
     "France 24": 45,
     "The New York Times": 12,
-    "AP News": 16,
+    "AP News": 17,
     "The Guardian": 12,
     "Financial Times": 15,
     "BBC": 20,
@@ -16957,7 +16957,7 @@
     "The New Arab": 2,
     "Al Jazeera": 2,
     "Bloomberg.com": 27,
-    "Reuters": 53,
+    "Reuters": 70,
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -17019,7 +17019,7 @@
     "Egyptian Gazette": 2,
     "Insurance Journal": 1,
     "Livemint": 1,
-    "CNN": 2,
+    "CNN": 3,
     "Türkiye Today": 1,
     "Legis1": 1,
     "Standardbred Canada": 1,
@@ -17070,12 +17070,14 @@
     "LBCI Lebanon": 1,
     "Xinhua": 1,
     "Star Beacon": 1,
-    "Мілітарний": 1
+    "Мілітарний": 1,
+    "Kurdistan TV": 1,
+    "DC News Now": 1
    },
    "sourceTone": {
     "WSJ": [
      0,
-     88,
+     92,
      0
     ],
     "The AFC": [
@@ -17095,7 +17097,7 @@
     ],
     "Arab News": [
      0,
-     52,
+     55,
      0
     ],
     "France 24": [
@@ -17110,7 +17112,7 @@
     ],
     "AP News": [
      0,
-     16,
+     17,
      0
     ],
     "The Guardian": [
@@ -17195,7 +17197,7 @@
     ],
     "Reuters": [
      0,
-     53,
+     70,
      0
     ],
     "Bioengineer.org": [
@@ -17505,7 +17507,7 @@
     ],
     "CNN": [
      0,
-     2,
+     3,
      0
     ],
     "Türkiye Today": [
@@ -17759,6 +17761,16 @@
      0
     ],
     "Мілітарний": [
+     0,
+     1,
+     0
+    ],
+    "Kurdistan TV": [
+     0,
+     1,
+     0
+    ],
+    "DC News Now": [
      0,
      1,
      0
