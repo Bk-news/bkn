@@ -16915,18 +16915,18 @@
    }
   },
   "2026-11-20": {
-   "total": 839,
+   "total": 840,
    "news": 824,
-   "articles": 15,
+   "articles": 16,
    "positive": 0,
-   "neutral": 839,
+   "neutral": 840,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 207,
     "SA": 90,
     "FR": 74,
-    "GB": 251,
+    "GB": 252,
     "HK": 6,
     "DE": 4,
     "JP": 3
@@ -16962,7 +16962,7 @@
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
     "Saudi Gazette": 27,
-    "The Economist": 7,
+    "The Economist": 8,
     "Daily Sabah": 2,
     "South China Morning Post": 6,
     "Spiegel": 4,
@@ -17237,7 +17237,7 @@
     ],
     "The Economist": [
      0,
-     7,
+     8,
      0
     ],
     "Daily Sabah": [
