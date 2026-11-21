@@ -17832,15 +17832,15 @@
    }
   },
   "2026-11-21": {
-   "total": 8,
-   "news": 8,
+   "total": 9,
+   "news": 9,
    "articles": 0,
    "positive": 0,
-   "neutral": 8,
+   "neutral": 9,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "US": 2,
+    "US": 3,
     "SA": 1
    },
    "topics": {},
@@ -17851,7 +17851,8 @@
     "الحرة": 1,
     "The Jerusalem Post": 1,
     "Українські Національні Новини (УНН)": 1,
-    "AP News": 1
+    "AP News": 1,
+    "Bloomberg.com": 1
    },
    "sourceTone": {
     "The Washington Post": [
@@ -17885,6 +17886,11 @@
      0
     ],
     "AP News": [
+     0,
+     1,
+     0
+    ],
+    "Bloomberg.com": [
      0,
      1,
      0

@@ -1,5 +1,26 @@
 [
  {
+  "id": "aa70b7289f005483",
+  "origin": "rss",
+  "source": "Bloomberg.com",
+  "author": "",
+  "title_ar": "لقد أرسل ترامب وشي وبوتين للتو رسالة إلى القوى الأصغر مثل سنغافورة",
+  "title_orig": "Trump, Xi and Putin Just Sent a Message to Smaller Powers Like Singapore",
+  "title_en": "Trump, Xi and Putin Just Sent a Message to Smaller Powers Like Singapore",
+  "summary_ar": [],
+  "summary_en": [],
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTHVGT2ZBUzhXT3BJMkJzY1BfWHF4XzJac1daQXo5SlA0SFpPNm16WDJmYlN2bGM3SlNxT3JDcTlJNlNoZG5pM2lfUHJXbEk1VDJaaTZaeEI3RTBxZ1dVR2pHOEJoTzFQV204dnhaLWMwSTVYQm9jejFjeHpKY0h0T193SkowSXJHLXBNcHFoQm9KR0hJaUJ2ZUo3MV80RE9GSjJhdW0taHk4cURiU1p6M0VrZlI5VDI0VGdr?oc=5",
+  "published": "2026-11-21T01:02:07.000Z",
+  "subject": "saudi",
+  "tone": "neutral",
+  "topic": "",
+  "country": "US",
+  "pending": true,
+  "desc": "Trump, Xi and Putin Just Sent a Message to Smaller Powers Like Singapore &nbsp;&nbsp; Bloomberg.com",
+  "lang": "en",
+  "mt": true
+ },
+ {
   "id": "09526f74f123cb11",
   "origin": "rss",
   "source": "Українські Національні Новини (УНН)",
@@ -10476,27 +10497,6 @@
   "pending": true,
   "desc": "UPDATES: US War on Iran, Day 267 — Houthi Missile Attacks on Saudi Arabia &nbsp;&nbsp; EA WorldView",
   "lang": "en",
-  "mt": true
- },
- {
-  "id": "23fd5dd51659e105",
-  "origin": "rss",
-  "source": "Spiegel",
-  "author": "",
-  "title_ar": "السعودية: الحوثيون-أنجريف beschädigt höchsten Wolkenkratzer في الرياض",
-  "title_orig": "Saudi-Arabien: Huthi-Angriff beschädigt höchsten Wolkenkratzer in Riad",
-  "title_en": "",
-  "summary_ar": [],
-  "summary_en": [],
-  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYzNZYkNodkFPMzNocGQ2T2ZOQlFsTnk5WVRZWXVJcm40dDB0dUs2SElzMUx6Tnd4VkxmYzdJWDYwNEh6NHh0UVNnUkh4c2Y2cHc3SFM5ckhsZnZiU1ZmMjdFYlBzdi1zeHllM3RKT2Nlb2ZCTE5sUnE4NlRZQWIyX2RNd0owWURfOXBidmdxM1ZzVXhYT29kLTl5ZVZfZnY4N3lQQzR4VTdLZ21vbFp2M2lUbnhlZi04VjZiUlpTTXVKY3NLVUZKbDZYa3VkMnNNOTFOTVJjMk8?oc=5",
-  "published": "2026-11-20T06:14:00.000Z",
-  "subject": "saudi",
-  "tone": "neutral",
-  "topic": "",
-  "country": "DE",
-  "pending": true,
-  "desc": "Saudi-Arabien: Huthi-Angriff beschädigt höchsten Wolkenkratzer in Riad &nbsp;&nbsp; Spiegel",
-  "lang": "de",
   "mt": true
  }
 ]
