@@ -17862,16 +17862,16 @@
    }
   },
   "2026-11-21": {
-   "total": 201,
-   "news": 200,
+   "total": 202,
+   "news": 201,
    "articles": 1,
    "positive": 0,
-   "neutral": 201,
+   "neutral": 202,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 17,
-    "SA": 30,
+    "SA": 31,
     "GB": 28,
     "FR": 27,
     "DE": 1,
@@ -17881,7 +17881,7 @@
    "sources": {
     "The Washington Post": 1,
     "www.marketscreener.com": 1,
-    "Arab News": 29,
+    "Arab News": 30,
     "الحرة": 1,
     "The Jerusalem Post": 1,
     "Українські Національні Новини (УНН)": 1,
@@ -17978,7 +17978,7 @@
     ],
     "Arab News": [
      0,
-     29,
+     30,
      0
     ],
     "الحرة": [
