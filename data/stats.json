@@ -15921,16 +15921,16 @@
    }
   },
   "2026-11-19": {
-   "total": 1542,
-   "news": 1495,
+   "total": 1543,
+   "news": 1496,
    "articles": 47,
    "positive": 0,
-   "neutral": 1542,
+   "neutral": 1543,
    "critical": 0,
    "mbs": 30,
    "countries": {
     "GB": 531,
-    "SA": 178,
+    "SA": 179,
     "US": 380,
     "FR": 184,
     "HK": 6,
@@ -15940,7 +15940,7 @@
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
     "Reuters": 188,
-    "Arab News": 133,
+    "Arab News": 134,
     "The Guardian": 44,
     "Yemen Online": 3,
     "AP News": 53,
@@ -16114,7 +16114,7 @@
     ],
     "Arab News": [
      0,
-     133,
+     134,
      0
     ],
     "The Guardian": [
@@ -17844,11 +17844,11 @@
    }
   },
   "2026-11-21": {
-   "total": 66,
-   "news": 66,
+   "total": 67,
+   "news": 67,
    "articles": 0,
    "positive": 0,
-   "neutral": 66,
+   "neutral": 67,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -17901,7 +17901,8 @@
     "Bioengineer.org": 1,
     "UA.NEWS": 1,
     "The Times of Israel": 1,
-    "Nacionale": 1
+    "Nacionale": 1,
+    "The Malaysian Reserve": 1
    },
    "sourceTone": {
     "The Washington Post": [
@@ -18115,6 +18116,11 @@
      0
     ],
     "Nacionale": [
+     0,
+     1,
+     0
+    ],
+    "The Malaysian Reserve": [
      0,
      1,
      0
