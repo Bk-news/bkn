@@ -15921,15 +15921,15 @@
    }
   },
   "2026-11-19": {
-   "total": 1621,
-   "news": 1570,
+   "total": 1623,
+   "news": 1572,
    "articles": 51,
    "positive": 0,
-   "neutral": 1621,
+   "neutral": 1623,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 565,
+    "GB": 567,
     "SA": 192,
     "US": 398,
     "FR": 196,
@@ -15939,7 +15939,7 @@
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Reuters": 201,
+    "Reuters": 203,
     "Arab News": 143,
     "The Guardian": 44,
     "Yemen Online": 3,
@@ -16109,7 +16109,7 @@
     ],
     "Reuters": [
      0,
-     201,
+     203,
      0
     ],
     "Arab News": [
@@ -17862,15 +17862,15 @@
    }
   },
   "2026-11-21": {
-   "total": 196,
-   "news": 195,
+   "total": 197,
+   "news": 196,
    "articles": 1,
    "positive": 0,
-   "neutral": 196,
+   "neutral": 197,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "US": 16,
+    "US": 17,
     "SA": 29,
     "GB": 26,
     "FR": 27,
@@ -17886,7 +17886,7 @@
     "The Jerusalem Post": 1,
     "Українські Національні Новини (УНН)": 1,
     "AP News": 3,
-    "Bloomberg.com": 2,
+    "Bloomberg.com": 3,
     "Khaleej Times": 1,
     "Financial Times": 3,
     "The Guardian": 1,
@@ -18002,7 +18002,7 @@
     ],
     "Bloomberg.com": [
      0,
-     2,
+     3,
      0
     ],
     "Khaleej Times": [
