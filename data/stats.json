@@ -15921,17 +15921,17 @@
    }
   },
   "2026-11-19": {
-   "total": 1612,
-   "news": 1562,
-   "articles": 50,
+   "total": 1614,
+   "news": 1563,
+   "articles": 51,
    "positive": 0,
-   "neutral": 1612,
+   "neutral": 1614,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 562,
+    "GB": 563,
     "SA": 191,
-    "US": 396,
+    "US": 397,
     "FR": 193,
     "HK": 7,
     "DE": 9
@@ -15948,9 +15948,9 @@
     "France 24": 172,
     "Bloomberg": 3,
     "South China Morning Post": 7,
-    "Atlantic Council": 30,
+    "Atlantic Council": 31,
     "WSJ": 130,
-    "Financial Times": 156,
+    "Financial Times": 157,
     "Belaaz": 1,
     "Middle East Eye": 11,
     "UA.NEWS": 1,
@@ -16154,7 +16154,7 @@
     ],
     "Atlantic Council": [
      0,
-     30,
+     31,
      0
     ],
     "WSJ": [
@@ -16164,7 +16164,7 @@
     ],
     "Financial Times": [
      0,
-     156,
+     157,
      0
     ],
     "Belaaz": [
@@ -16915,15 +16915,15 @@
    }
   },
   "2026-11-20": {
-   "total": 732,
-   "news": 717,
+   "total": 733,
+   "news": 718,
    "articles": 15,
    "positive": 0,
-   "neutral": 732,
+   "neutral": 733,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 198,
+    "US": 199,
     "SA": 87,
     "FR": 55,
     "GB": 177,
@@ -16933,7 +16933,7 @@
    },
    "topics": {},
    "sources": {
-    "WSJ": 93,
+    "WSJ": 94,
     "The AFC": 1,
     "Atlantic Council": 7,
     "Al-Monitor": 26,
@@ -17090,7 +17090,7 @@
    "sourceTone": {
     "WSJ": [
      0,
-     93,
+     94,
      0
     ],
     "The AFC": [
