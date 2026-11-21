@@ -15921,16 +15921,16 @@
    }
   },
   "2026-11-19": {
-   "total": 1511,
-   "news": 1464,
+   "total": 1522,
+   "news": 1475,
    "articles": 47,
    "positive": 0,
-   "neutral": 1511,
+   "neutral": 1522,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 523,
-    "SA": 164,
+    "GB": 530,
+    "SA": 168,
     "US": 377,
     "FR": 178,
     "HK": 6,
@@ -15940,7 +15940,7 @@
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
     "Reuters": 187,
-    "Arab News": 123,
+    "Arab News": 127,
     "The Guardian": 44,
     "Yemen Online": 3,
     "AP News": 53,
@@ -15950,7 +15950,7 @@
     "South China Morning Post": 6,
     "Atlantic Council": 28,
     "WSJ": 129,
-    "Financial Times": 149,
+    "Financial Times": 156,
     "Belaaz": 1,
     "Middle East Eye": 11,
     "UA.NEWS": 1,
@@ -16114,7 +16114,7 @@
     ],
     "Arab News": [
      0,
-     123,
+     127,
      0
     ],
     "The Guardian": [
@@ -16164,7 +16164,7 @@
     ],
     "Financial Times": [
      0,
-     149,
+     156,
      0
     ],
     "Belaaz": [
@@ -17844,16 +17844,16 @@
    }
   },
   "2026-11-21": {
-   "total": 60,
-   "news": 60,
+   "total": 62,
+   "news": 62,
    "articles": 0,
    "positive": 0,
-   "neutral": 60,
+   "neutral": 62,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 9,
-    "SA": 6,
+    "SA": 7,
     "GB": 7,
     "FR": 1
    },
@@ -17861,7 +17861,7 @@
    "sources": {
     "The Washington Post": 1,
     "www.marketscreener.com": 1,
-    "Arab News": 8,
+    "Arab News": 9,
     "الحرة": 1,
     "The Jerusalem Post": 1,
     "Українські Національні Новини (УНН)": 1,
@@ -17870,7 +17870,7 @@
     "Khaleej Times": 1,
     "Financial Times": 3,
     "The Guardian": 1,
-    "Al-Monitor": 3,
+    "Al-Monitor": 4,
     "WSJ": 1,
     "ASHARQ AL-AWSAT English": 1,
     "Anadolu Ajansı": 1,
@@ -17915,7 +17915,7 @@
     ],
     "Arab News": [
      0,
-     8,
+     9,
      0
     ],
     "الحرة": [
@@ -17960,7 +17960,7 @@
     ],
     "Al-Monitor": [
      0,
-     3,
+     4,
      0
     ],
     "WSJ": [
