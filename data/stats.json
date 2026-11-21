@@ -15921,18 +15921,18 @@
    }
   },
   "2026-11-19": {
-   "total": 1433,
-   "news": 1391,
-   "articles": 42,
+   "total": 1446,
+   "news": 1402,
+   "articles": 44,
    "positive": 0,
-   "neutral": 1433,
+   "neutral": 1446,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 497,
-    "SA": 142,
-    "US": 360,
-    "FR": 165,
+    "GB": 498,
+    "SA": 145,
+    "US": 366,
+    "FR": 168,
     "HK": 6,
     "DE": 9
    },
@@ -15940,17 +15940,17 @@
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
     "Reuters": 176,
-    "Arab News": 112,
+    "Arab News": 113,
     "The Guardian": 43,
     "Yemen Online": 3,
     "AP News": 53,
     "i24NEWS": 1,
-    "France 24": 147,
+    "France 24": 148,
     "Bloomberg": 3,
     "South China Morning Post": 6,
-    "Atlantic Council": 23,
-    "WSJ": 126,
-    "Financial Times": 145,
+    "Atlantic Council": 25,
+    "WSJ": 128,
+    "Financial Times": 146,
     "Belaaz": 1,
     "Middle East Eye": 11,
     "UA.NEWS": 1,
@@ -15962,7 +15962,7 @@
     "Crypto Briefing": 3,
     "Chosunbiz": 1,
     "Mezha.net": 2,
-    "Al-Monitor": 57,
+    "Al-Monitor": 59,
     "Critical Threats": 1,
     "DNE Africa": 1,
     "Wamda": 1,
@@ -15978,10 +15978,10 @@
     "Spiegel": 9,
     "The Washington Post": 9,
     "ASHARQ AL-AWSAT English": 3,
-    "Le Monde.fr": 19,
+    "Le Monde.fr": 21,
     "The Economist": 15,
     "CNN": 6,
-    "Saudi Gazette": 42,
+    "Saudi Gazette": 44,
     "News of Bahrain": 2,
     "UkrMedia News": 1,
     "https://houseofsaud.com/": 3,
@@ -16114,7 +16114,7 @@
     ],
     "Arab News": [
      0,
-     112,
+     113,
      0
     ],
     "The Guardian": [
@@ -16139,7 +16139,7 @@
     ],
     "France 24": [
      0,
-     147,
+     148,
      0
     ],
     "Bloomberg": [
@@ -16154,17 +16154,17 @@
     ],
     "Atlantic Council": [
      0,
-     23,
+     25,
      0
     ],
     "WSJ": [
      0,
-     126,
+     128,
      0
     ],
     "Financial Times": [
      0,
-     145,
+     146,
      0
     ],
     "Belaaz": [
@@ -16224,7 +16224,7 @@
     ],
     "Al-Monitor": [
      0,
-     57,
+     59,
      0
     ],
     "Critical Threats": [
@@ -16304,7 +16304,7 @@
     ],
     "Le Monde.fr": [
      0,
-     19,
+     21,
      0
     ],
     "The Economist": [
@@ -16319,7 +16319,7 @@
     ],
     "Saudi Gazette": [
      0,
-     42,
+     44,
      0
     ],
     "News of Bahrain": [
