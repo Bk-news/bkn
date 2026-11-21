@@ -15921,15 +15921,15 @@
    }
   },
   "2026-11-19": {
-   "total": 1375,
-   "news": 1339,
+   "total": 1376,
+   "news": 1340,
    "articles": 36,
    "positive": 0,
-   "neutral": 1375,
+   "neutral": 1376,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 479,
+    "GB": 480,
     "SA": 130,
     "US": 342,
     "FR": 155,
@@ -15974,7 +15974,7 @@
     "The Independent": 2,
     "تسنیم": 1,
     "Bloomberg.com": 38,
-    "BBC": 120,
+    "BBC": 121,
     "Spiegel": 9,
     "The Washington Post": 9,
     "ASHARQ AL-AWSAT English": 3,
@@ -16284,7 +16284,7 @@
     ],
     "BBC": [
      0,
-     120,
+     121,
      0
     ],
     "Spiegel": [
