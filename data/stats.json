@@ -15921,35 +15921,35 @@
    }
   },
   "2026-11-19": {
-   "total": 1499,
-   "news": 1452,
+   "total": 1506,
+   "news": 1459,
    "articles": 47,
    "positive": 0,
-   "neutral": 1499,
+   "neutral": 1506,
    "critical": 0,
    "mbs": 30,
    "countries": {
-    "GB": 522,
-    "SA": 158,
-    "US": 375,
-    "FR": 175,
+    "GB": 523,
+    "SA": 161,
+    "US": 377,
+    "FR": 176,
     "HK": 6,
     "DE": 9
    },
    "topics": {},
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
-    "Reuters": 186,
-    "Arab News": 120,
+    "Reuters": 187,
+    "Arab News": 122,
     "The Guardian": 44,
     "Yemen Online": 3,
     "AP News": 53,
     "i24NEWS": 1,
-    "France 24": 154,
+    "France 24": 155,
     "Bloomberg": 3,
     "South China Morning Post": 6,
     "Atlantic Council": 28,
-    "WSJ": 128,
+    "WSJ": 129,
     "Financial Times": 149,
     "Belaaz": 1,
     "Middle East Eye": 11,
@@ -15962,7 +15962,7 @@
     "Crypto Briefing": 3,
     "Chosunbiz": 1,
     "Mezha.net": 2,
-    "Al-Monitor": 64,
+    "Al-Monitor": 65,
     "Critical Threats": 1,
     "DNE Africa": 1,
     "Wamda": 1,
@@ -15981,7 +15981,7 @@
     "Le Monde.fr": 22,
     "The Economist": 15,
     "CNN": 6,
-    "Saudi Gazette": 50,
+    "Saudi Gazette": 51,
     "News of Bahrain": 2,
     "UkrMedia News": 1,
     "https://houseofsaud.com/": 3,
@@ -16109,12 +16109,12 @@
     ],
     "Reuters": [
      0,
-     186,
+     187,
      0
     ],
     "Arab News": [
      0,
-     120,
+     122,
      0
     ],
     "The Guardian": [
@@ -16139,7 +16139,7 @@
     ],
     "France 24": [
      0,
-     154,
+     155,
      0
     ],
     "Bloomberg": [
@@ -16159,7 +16159,7 @@
     ],
     "WSJ": [
      0,
-     128,
+     129,
      0
     ],
     "Financial Times": [
@@ -16224,7 +16224,7 @@
     ],
     "Al-Monitor": [
      0,
-     64,
+     65,
      0
     ],
     "Critical Threats": [
@@ -16319,7 +16319,7 @@
     ],
     "Saudi Gazette": [
      0,
-     50,
+     51,
      0
     ],
     "News of Bahrain": [
@@ -16915,11 +16915,11 @@
    }
   },
   "2026-11-20": {
-   "total": 681,
-   "news": 668,
+   "total": 683,
+   "news": 670,
    "articles": 13,
    "positive": 0,
-   "neutral": 681,
+   "neutral": 683,
    "critical": 0,
    "mbs": 7,
    "countries": {
@@ -16954,7 +16954,7 @@
     "Fragomen": 2,
     "Yahoo Sports": 1,
     "cwibc.co.id": 1,
-    "The New Arab": 2,
+    "The New Arab": 3,
     "Al Jazeera": 2,
     "Bloomberg.com": 27,
     "Reuters": 91,
@@ -17082,7 +17082,8 @@
     "International Trade Union Confederation": 1,
     "NewsNation": 1,
     "The Tribune-Democrat": 1,
-    "WeeTracker": 1
+    "WeeTracker": 1,
+    "CBC": 1
    },
    "sourceTone": {
     "WSJ": [
@@ -17192,7 +17193,7 @@
     ],
     "The New Arab": [
      0,
-     2,
+     3,
      0
     ],
     "Al Jazeera": [
@@ -17834,20 +17835,25 @@
      0,
      1,
      0
+    ],
+    "CBC": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-21": {
-   "total": 55,
-   "news": 55,
+   "total": 60,
+   "news": 60,
    "articles": 0,
    "positive": 0,
-   "neutral": 55,
+   "neutral": 60,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 9,
-    "SA": 5,
+    "SA": 6,
     "GB": 7,
     "FR": 1
    },
@@ -17855,7 +17861,7 @@
    "sources": {
     "The Washington Post": 1,
     "www.marketscreener.com": 1,
-    "Arab News": 7,
+    "Arab News": 8,
     "الحرة": 1,
     "The Jerusalem Post": 1,
     "Українські Національні Новини (УНН)": 1,
@@ -17890,7 +17896,11 @@
     "blue News": 1,
     "BBC": 3,
     "Il Sole 24 ORE": 1,
-    "The New Region": 1
+    "The New Region": 1,
+    "Yahoo": 1,
+    "Bioengineer.org": 1,
+    "UA.NEWS": 1,
+    "The Times of Israel": 1
    },
    "sourceTone": {
     "The Washington Post": [
@@ -17905,7 +17915,7 @@
     ],
     "Arab News": [
      0,
-     7,
+     8,
      0
     ],
     "الحرة": [
@@ -18079,6 +18089,26 @@
      0
     ],
     "The New Region": [
+     0,
+     1,
+     0
+    ],
+    "Yahoo": [
+     0,
+     1,
+     0
+    ],
+    "Bioengineer.org": [
+     0,
+     1,
+     0
+    ],
+    "UA.NEWS": [
+     0,
+     1,
+     0
+    ],
+    "The Times of Israel": [
      0,
      1,
      0
