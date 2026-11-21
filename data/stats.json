@@ -16915,17 +16915,17 @@
    }
   },
   "2026-11-20": {
-   "total": 688,
-   "news": 674,
+   "total": 689,
+   "news": 675,
    "articles": 14,
    "positive": 0,
-   "neutral": 688,
+   "neutral": 689,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 190,
     "SA": 82,
-    "FR": 50,
+    "FR": 51,
     "GB": 153,
     "HK": 6,
     "DE": 4,
@@ -16938,7 +16938,7 @@
     "Atlantic Council": 6,
     "Al-Monitor": 25,
     "Arab News": 68,
-    "France 24": 48,
+    "France 24": 49,
     "The New York Times": 16,
     "AP News": 21,
     "The Guardian": 13,
@@ -17113,7 +17113,7 @@
     ],
     "France 24": [
      0,
-     48,
+     49,
      0
     ],
     "The New York Times": [
@@ -17844,11 +17844,11 @@
    }
   },
   "2026-11-21": {
-   "total": 67,
-   "news": 67,
+   "total": 68,
+   "news": 68,
    "articles": 0,
    "positive": 0,
-   "neutral": 67,
+   "neutral": 68,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -17902,7 +17902,8 @@
     "UA.NEWS": 1,
     "The Times of Israel": 1,
     "Nacionale": 1,
-    "The Malaysian Reserve": 1
+    "The Malaysian Reserve": 1,
+    "Arab News PK": 1
    },
    "sourceTone": {
     "The Washington Post": [
@@ -18121,6 +18122,11 @@
      0
     ],
     "The Malaysian Reserve": [
+     0,
+     1,
+     0
+    ],
+    "Arab News PK": [
      0,
      1,
      0
