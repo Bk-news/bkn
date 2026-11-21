@@ -16915,18 +16915,18 @@
    }
   },
   "2026-11-20": {
-   "total": 833,
-   "news": 818,
+   "total": 834,
+   "news": 819,
    "articles": 15,
    "positive": 0,
-   "neutral": 833,
+   "neutral": 834,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 206,
     "SA": 89,
     "FR": 73,
-    "GB": 248,
+    "GB": 249,
     "HK": 6,
     "DE": 4,
     "JP": 3
@@ -16941,7 +16941,7 @@
     "France 24": 70,
     "The New York Times": 17,
     "AP News": 26,
-    "The Guardian": 55,
+    "The Guardian": 56,
     "Financial Times": 22,
     "BBC": 29,
     "Yeni Safak English": 4,
@@ -17132,7 +17132,7 @@
     ],
     "The Guardian": [
      0,
-     55,
+     56,
      0
     ],
     "Financial Times": [
@@ -17868,17 +17868,17 @@
    }
   },
   "2026-11-21": {
-   "total": 334,
-   "news": 333,
+   "total": 339,
+   "news": 338,
    "articles": 1,
    "positive": 0,
-   "neutral": 334,
+   "neutral": 339,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 24,
     "SA": 58,
-    "GB": 76,
+    "GB": 80,
     "FR": 35,
     "DE": 1,
     "HK": 1
@@ -17895,7 +17895,7 @@
     "Bloomberg.com": 4,
     "Khaleej Times": 1,
     "Financial Times": 4,
-    "The Guardian": 24,
+    "The Guardian": 28,
     "Al-Monitor": 9,
     "WSJ": 2,
     "ASHARQ AL-AWSAT English": 4,
@@ -17989,7 +17989,8 @@
     "ANTARA News": 1,
     "Dhaka Tribune": 1,
     "Critical Threats": 2,
-    "TradeArabia": 1
+    "TradeArabia": 1,
+    "Wisevoter": 1
    },
    "sourceTone": {
     "The Washington Post": [
@@ -18044,7 +18045,7 @@
     ],
     "The Guardian": [
      0,
-     24,
+     28,
      0
     ],
     "Al-Monitor": [
@@ -18513,6 +18514,11 @@
      0
     ],
     "TradeArabia": [
+     0,
+     1,
+     0
+    ],
+    "Wisevoter": [
      0,
      1,
      0
