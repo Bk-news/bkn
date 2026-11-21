@@ -17862,17 +17862,17 @@
    }
   },
   "2026-11-21": {
-   "total": 198,
-   "news": 197,
+   "total": 200,
+   "news": 199,
    "articles": 1,
    "positive": 0,
-   "neutral": 198,
+   "neutral": 200,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 17,
     "SA": 30,
-    "GB": 26,
+    "GB": 28,
     "FR": 27,
     "DE": 1,
     "HK": 1
@@ -17914,7 +17914,7 @@
     "Al Arabiya English": 1,
     "Dawn": 1,
     "blue News": 1,
-    "BBC": 13,
+    "BBC": 15,
     "Il Sole 24 ORE": 1,
     "The New Region": 1,
     "Yahoo": 1,
@@ -18142,7 +18142,7 @@
     ],
     "BBC": [
      0,
-     13,
+     15,
      0
     ],
     "Il Sole 24 ORE": [
