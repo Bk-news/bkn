@@ -15921,17 +15921,17 @@
    }
   },
   "2026-11-19": {
-   "total": 1449,
-   "news": 1404,
+   "total": 1451,
+   "news": 1406,
    "articles": 45,
    "positive": 0,
-   "neutral": 1449,
+   "neutral": 1451,
    "critical": 0,
    "mbs": 30,
    "countries": {
     "GB": 499,
-    "SA": 145,
-    "US": 367,
+    "SA": 146,
+    "US": 368,
     "FR": 169,
     "HK": 6,
     "DE": 9
@@ -15940,7 +15940,7 @@
    "sources": {
     "Arabian Gulf Business Insight | AGBI": 3,
     "Reuters": 177,
-    "Arab News": 113,
+    "Arab News": 114,
     "The Guardian": 43,
     "Yemen Online": 3,
     "AP News": 53,
@@ -15962,7 +15962,7 @@
     "Crypto Briefing": 3,
     "Chosunbiz": 1,
     "Mezha.net": 2,
-    "Al-Monitor": 59,
+    "Al-Monitor": 60,
     "Critical Threats": 1,
     "DNE Africa": 1,
     "Wamda": 1,
@@ -16114,7 +16114,7 @@
     ],
     "Arab News": [
      0,
-     113,
+     114,
      0
     ],
     "The Guardian": [
@@ -16224,7 +16224,7 @@
     ],
     "Al-Monitor": [
      0,
-     59,
+     60,
      0
     ],
     "Critical Threats": [
@@ -17838,11 +17838,11 @@
    }
   },
   "2026-11-21": {
-   "total": 45,
-   "news": 45,
+   "total": 46,
+   "news": 46,
    "articles": 0,
    "positive": 0,
-   "neutral": 45,
+   "neutral": 46,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -17885,7 +17885,8 @@
     "NDTV": 1,
     "France 24": 1,
     "Japan Today": 1,
-    "Al Arabiya English": 1
+    "Al Arabiya English": 1,
+    "Dawn": 1
    },
    "sourceTone": {
     "The Washington Post": [
@@ -18049,6 +18050,11 @@
      0
     ],
     "Al Arabiya English": [
+     0,
+     1,
+     0
+    ],
+    "Dawn": [
      0,
      1,
      0
