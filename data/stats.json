@@ -17862,11 +17862,11 @@
    }
   },
   "2026-11-21": {
-   "total": 205,
-   "news": 204,
+   "total": 207,
+   "news": 206,
    "articles": 1,
    "positive": 0,
-   "neutral": 205,
+   "neutral": 207,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -17964,7 +17964,9 @@
     "Kurdistan TV": 1,
     "fundsforNGOs - Grants and Resources for Sustainability": 1,
     "EIN Presswire": 1,
-    "houseofsaud.com": 1
+    "houseofsaud.com": 1,
+    "Bombo Radyo Vigan": 1,
+    "Daily Voice Of Asia": 1
    },
    "sourceTone": {
     "The Washington Post": [
@@ -18393,6 +18395,16 @@
      0
     ],
     "houseofsaud.com": [
+     0,
+     1,
+     0
+    ],
+    "Bombo Radyo Vigan": [
+     0,
+     1,
+     0
+    ],
+    "Daily Voice Of Asia": [
      0,
      1,
      0
