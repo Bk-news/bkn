@@ -16915,18 +16915,18 @@
    }
   },
   "2026-11-20": {
-   "total": 684,
-   "news": 670,
+   "total": 685,
+   "news": 671,
    "articles": 14,
    "positive": 0,
-   "neutral": 684,
+   "neutral": 685,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 190,
     "SA": 82,
     "FR": 50,
-    "GB": 149,
+    "GB": 150,
     "HK": 6,
     "DE": 4,
     "JP": 3
@@ -16957,7 +16957,7 @@
     "The New Arab": 3,
     "Al Jazeera": 2,
     "Bloomberg.com": 27,
-    "Reuters": 91,
+    "Reuters": 92,
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -17208,7 +17208,7 @@
     ],
     "Reuters": [
      0,
-     91,
+     92,
      0
     ],
     "Bioengineer.org": [
@@ -17844,11 +17844,11 @@
    }
   },
   "2026-11-21": {
-   "total": 62,
-   "news": 62,
+   "total": 63,
+   "news": 63,
    "articles": 0,
    "positive": 0,
-   "neutral": 62,
+   "neutral": 63,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -17880,7 +17880,7 @@
     "South China Morning Post": 1,
     "The Business Standard": 1,
     "Al Jazeera": 1,
-    "Yeni Safak English": 2,
+    "Yeni Safak English": 3,
     "Vietnam.vn": 2,
     "毎日新聞": 1,
     "CGTN": 1,
@@ -18010,7 +18010,7 @@
     ],
     "Yeni Safak English": [
      0,
-     2,
+     3,
      0
     ],
     "Vietnam.vn": [
