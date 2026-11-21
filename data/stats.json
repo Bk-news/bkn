@@ -17868,11 +17868,11 @@
    }
   },
   "2026-11-21": {
-   "total": 305,
-   "news": 304,
+   "total": 306,
+   "news": 305,
    "articles": 1,
    "positive": 0,
-   "neutral": 305,
+   "neutral": 306,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -17987,7 +17987,8 @@
     "The Manila Times": 1,
     "thecradle.co": 1,
     "ANTARA News": 1,
-    "Dhaka Tribune": 1
+    "Dhaka Tribune": 1,
+    "Critical Threats": 1
    },
    "sourceTone": {
     "The Washington Post": [
@@ -18501,6 +18502,11 @@
      0
     ],
     "Dhaka Tribune": [
+     0,
+     1,
+     0
+    ],
+    "Critical Threats": [
      0,
      1,
      0
