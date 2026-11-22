@@ -16915,17 +16915,17 @@
    }
   },
   "2026-11-20": {
-   "total": 940,
-   "news": 923,
+   "total": 942,
+   "news": 925,
    "articles": 17,
    "positive": 0,
-   "neutral": 940,
+   "neutral": 942,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 226,
     "SA": 111,
-    "FR": 84,
+    "FR": 86,
     "GB": 298,
     "HK": 7,
     "DE": 6,
@@ -16938,7 +16938,7 @@
     "Atlantic Council": 8,
     "Al-Monitor": 29,
     "Arab News": 86,
-    "France 24": 81,
+    "France 24": 83,
     "The New York Times": 21,
     "AP News": 30,
     "The Guardian": 91,
@@ -17117,7 +17117,7 @@
     ],
     "France 24": [
      0,
-     81,
+     83,
      0
     ],
     "The New York Times": [
@@ -17868,18 +17868,18 @@
    }
   },
   "2026-11-21": {
-   "total": 411,
-   "news": 409,
+   "total": 414,
+   "news": 412,
    "articles": 2,
    "positive": 0,
-   "neutral": 411,
+   "neutral": 414,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 26,
     "SA": 65,
     "GB": 107,
-    "FR": 43,
+    "FR": 46,
     "DE": 1,
     "HK": 1
    },
@@ -17915,7 +17915,7 @@
     "https://houseofsaud.com/": 4,
     "Gulf News": 2,
     "NDTV": 2,
-    "France 24": 42,
+    "France 24": 45,
     "Japan Today": 1,
     "Al Arabiya English": 1,
     "Dawn": 1,
@@ -18160,7 +18160,7 @@
     ],
     "France 24": [
      0,
-     42,
+     45,
      0
     ],
     "Japan Today": [
