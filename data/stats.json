@@ -16915,16 +16915,16 @@
    }
   },
   "2026-11-20": {
-   "total": 972,
-   "news": 955,
+   "total": 973,
+   "news": 956,
    "articles": 17,
    "positive": 0,
-   "neutral": 972,
+   "neutral": 973,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 227,
-    "SA": 116,
+    "SA": 117,
     "FR": 104,
     "GB": 303,
     "HK": 7,
@@ -16937,7 +16937,7 @@
     "The AFC": 1,
     "Atlantic Council": 8,
     "Al-Monitor": 30,
-    "Arab News": 88,
+    "Arab News": 89,
     "France 24": 101,
     "The New York Times": 21,
     "AP News": 30,
@@ -17112,7 +17112,7 @@
     ],
     "Arab News": [
      0,
-     88,
+     89,
      0
     ],
     "France 24": [
@@ -17868,11 +17868,11 @@
    }
   },
   "2026-11-21": {
-   "total": 450,
-   "news": 447,
+   "total": 453,
+   "news": 450,
    "articles": 3,
    "positive": 0,
-   "neutral": 450,
+   "neutral": 453,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -18012,7 +18012,9 @@
     "EnterpriseAM": 2,
     "UkrMedia News": 1,
     "Fragomen": 1,
-    "Fast Company Middle East": 1
+    "Fast Company Middle East": 1,
+    "JournalArta": 1,
+    "Türkiye Today": 2
    },
    "sourceTone": {
     "The Washington Post": [
@@ -18654,15 +18656,25 @@
      0,
      1,
      0
+    ],
+    "JournalArta": [
+     0,
+     1,
+     0
+    ],
+    "Türkiye Today": [
+     0,
+     2,
+     0
     ]
    }
   },
   "2026-11-22": {
-   "total": 74,
-   "news": 74,
+   "total": 76,
+   "news": 76,
    "articles": 0,
    "positive": 0,
-   "neutral": 74,
+   "neutral": 76,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -18712,7 +18724,9 @@
     "The Business Standard": 1,
     "Yeni Safak English": 1,
     "Middle East Online": 1,
-    "Gulf Today": 1
+    "Gulf Today": 1,
+    "Madhyamam": 1,
+    "Firstpost": 1
    },
    "sourceTone": {
     "Breakingthenews.net": [
@@ -18901,6 +18915,16 @@
      0
     ],
     "Gulf Today": [
+     0,
+     1,
+     0
+    ],
+    "Madhyamam": [
+     0,
+     1,
+     0
+    ],
+    "Firstpost": [
      0,
      1,
      0
