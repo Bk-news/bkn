@@ -16915,16 +16915,16 @@
    }
   },
   "2026-11-20": {
-   "total": 935,
-   "news": 918,
+   "total": 938,
+   "news": 921,
    "articles": 17,
    "positive": 0,
-   "neutral": 935,
+   "neutral": 938,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 225,
-    "SA": 108,
+    "US": 226,
+    "SA": 110,
     "FR": 83,
     "GB": 298,
     "HK": 7,
@@ -16937,10 +16937,10 @@
     "The AFC": 1,
     "Atlantic Council": 8,
     "Al-Monitor": 29,
-    "Arab News": 83,
+    "Arab News": 85,
     "France 24": 80,
     "The New York Times": 21,
-    "AP News": 29,
+    "AP News": 30,
     "The Guardian": 91,
     "Financial Times": 26,
     "BBC": 33,
@@ -17112,7 +17112,7 @@
     ],
     "Arab News": [
      0,
-     83,
+     85,
      0
     ],
     "France 24": [
@@ -17127,7 +17127,7 @@
     ],
     "AP News": [
      0,
-     29,
+     30,
      0
     ],
     "The Guardian": [
@@ -17868,16 +17868,16 @@
    }
   },
   "2026-11-21": {
-   "total": 406,
-   "news": 404,
+   "total": 408,
+   "news": 406,
    "articles": 2,
    "positive": 0,
-   "neutral": 406,
+   "neutral": 408,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 26,
-    "SA": 63,
+    "SA": 65,
     "GB": 105,
     "FR": 43,
     "DE": 1,
@@ -17887,7 +17887,7 @@
    "sources": {
     "The Washington Post": 2,
     "www.marketscreener.com": 1,
-    "Arab News": 60,
+    "Arab News": 62,
     "الحرة": 1,
     "The Jerusalem Post": 1,
     "Українські Національні Новини (УНН)": 1,
@@ -18020,7 +18020,7 @@
     ],
     "Arab News": [
      0,
-     60,
+     62,
      0
     ],
     "الحرة": [
