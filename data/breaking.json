@@ -1,5 +1,17 @@
 [
  {
+  "id": "040779d10c4a3e2b",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "مصادر العربية: استهداف مركز لتوجيه المسيرات والصواريخ الحوثية بمديرية المواسط جنوب تعز",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/154978",
+  "published": "2026-11-22T21:54:32.000Z",
+  "subject": "saudi",
+  "added": "2026-11-22T21:54:32.000Z"
+ },
+ {
   "id": "75007d03b6bedce4",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -22,17 +34,5 @@
   "published": "2026-11-22T21:24:39.000Z",
   "subject": "saudi",
   "added": "2026-11-22T21:24:39.000Z"
- },
- {
-  "id": "62bc95bfb7ed9f28",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "حكومة شرق ليبيا: ندعو بالتحقيق في شبهات استخدام مواقع عسكرية غرب ليبيا لإطلاق مسيرات",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/154975",
-  "published": "2026-11-22T20:54:40.000Z",
-  "subject": "saudi",
-  "added": "2026-11-22T20:54:40.000Z"
  }
 ]
