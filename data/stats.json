@@ -17868,18 +17868,18 @@
    }
   },
   "2026-11-21": {
-   "total": 513,
-   "news": 510,
+   "total": 514,
+   "news": 511,
    "articles": 3,
    "positive": 0,
-   "neutral": 513,
+   "neutral": 514,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 45,
     "SA": 70,
     "GB": 139,
-    "FR": 74,
+    "FR": 75,
     "DE": 1,
     "HK": 1
    },
@@ -17931,7 +17931,7 @@
     "The Malaysian Reserve": 1,
     "Arab News PK": 1,
     "Reuters": 52,
-    "Le Monde.fr": 3,
+    "Le Monde.fr": 4,
     "Saudi Gazette": 14,
     "X": 1,
     "The New York Times": 5,
@@ -18250,7 +18250,7 @@
     ],
     "Le Monde.fr": [
      0,
-     3,
+     4,
      0
     ],
     "Saudi Gazette": [
@@ -18676,15 +18676,15 @@
    }
   },
   "2026-11-22": {
-   "total": 406,
-   "news": 404,
+   "total": 410,
+   "news": 408,
    "articles": 2,
    "positive": 0,
-   "neutral": 406,
+   "neutral": 410,
    "critical": 0,
    "mbs": 6,
    "countries": {
-    "GB": 83,
+    "GB": 86,
     "SA": 70,
     "FR": 16,
     "US": 46,
@@ -18696,7 +18696,7 @@
    "sources": {
     "Breakingthenews.net": 3,
     "Reuters": 30,
-    "The Guardian": 38,
+    "The Guardian": 41,
     "Arab News": 64,
     "Anadolu Ajansı": 3,
     "France 24": 10,
@@ -18768,7 +18768,7 @@
     "Finimize": 1,
     "Gulf News": 3,
     "Investing.com UK": 1,
-    "Arab News PK": 3,
+    "Arab News PK": 4,
     "Traders Union": 1,
     "AzerNews": 1,
     "European External Action Service (EEAS)": 1,
@@ -18825,7 +18825,7 @@
     ],
     "The Guardian": [
      0,
-     38,
+     41,
      0
     ],
     "Arab News": [
@@ -19185,7 +19185,7 @@
     ],
     "Arab News PK": [
      0,
-     3,
+     4,
      0
     ],
     "Traders Union": [

@@ -1178,6 +1178,27 @@
    "mt": true
   },
   {
+   "id": "3f73d311236fe87b",
+   "origin": "rss",
+   "source": "Le Monde.fr",
+   "author": "",
+   "title_ar": "الثقافة والأسلوب الأفريقي",
+   "title_orig": "Culture & Style d'Afrique",
+   "title_en": "",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wYzBIdFRNWXRQS2J0OFpIaVMtTV9iUkpuQ1c2MGFwcGFTTXVjNUZtQ3BKbWszYmJaYXNXbHZmSHc4U0FUT1FYX0lwNzNwZEY0elZ2OGVDTXI?oc=5",
+   "published": "2026-11-21T20:30:45.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "FR",
+   "pending": true,
+   "desc": "Culture & Style d'Afrique &nbsp;&nbsp; Le Monde.fr",
+   "lang": "fr",
+   "mt": true
+  },
+  {
    "id": "b854cca945d58946",
    "origin": "rss",
    "source": "Arab News",
