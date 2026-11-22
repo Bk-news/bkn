@@ -16915,18 +16915,18 @@
    }
   },
   "2026-11-20": {
-   "total": 887,
-   "news": 870,
+   "total": 908,
+   "news": 891,
    "articles": 17,
    "positive": 0,
-   "neutral": 887,
+   "neutral": 908,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 216,
-    "SA": 98,
-    "FR": 76,
-    "GB": 276,
+    "US": 222,
+    "SA": 101,
+    "FR": 77,
+    "GB": 287,
     "HK": 7,
     "DE": 6,
     "JP": 4
@@ -16938,10 +16938,10 @@
     "Atlantic Council": 8,
     "Al-Monitor": 29,
     "Arab News": 79,
-    "France 24": 73,
+    "France 24": 74,
     "The New York Times": 21,
-    "AP News": 26,
-    "The Guardian": 75,
+    "AP News": 28,
+    "The Guardian": 85,
     "Financial Times": 25,
     "BBC": 31,
     "Yeni Safak English": 4,
@@ -16956,12 +16956,12 @@
     "cwibc.co.id": 1,
     "The New Arab": 3,
     "Al Jazeera": 2,
-    "Bloomberg.com": 30,
-    "Reuters": 140,
+    "Bloomberg.com": 33,
+    "Reuters": 141,
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
-    "Saudi Gazette": 31,
+    "Saudi Gazette": 34,
     "The Economist": 8,
     "Daily Sabah": 2,
     "South China Morning Post": 7,
@@ -16974,7 +16974,7 @@
     "DW.com": 2,
     "Eurasia Review": 1,
     "ASHARQ AL-AWSAT English": 4,
-    "The Washington Post": 5,
+    "The Washington Post": 6,
     "EIN Presswire": 1,
     "Connected to India": 1,
     "Moneycontrol.com": 1,
@@ -17117,7 +17117,7 @@
     ],
     "France 24": [
      0,
-     73,
+     74,
      0
     ],
     "The New York Times": [
@@ -17127,12 +17127,12 @@
     ],
     "AP News": [
      0,
-     26,
+     28,
      0
     ],
     "The Guardian": [
      0,
-     75,
+     85,
      0
     ],
     "Financial Times": [
@@ -17207,12 +17207,12 @@
     ],
     "Bloomberg.com": [
      0,
-     30,
+     33,
      0
     ],
     "Reuters": [
      0,
-     140,
+     141,
      0
     ],
     "Bioengineer.org": [
@@ -17232,7 +17232,7 @@
     ],
     "Saudi Gazette": [
      0,
-     31,
+     34,
      0
     ],
     "The Economist": [
@@ -17297,7 +17297,7 @@
     ],
     "The Washington Post": [
      0,
-     5,
+     6,
      0
     ],
     "EIN Presswire": [
@@ -17868,11 +17868,11 @@
    }
   },
   "2026-11-21": {
-   "total": 391,
-   "news": 389,
+   "total": 393,
+   "news": 391,
    "articles": 2,
    "positive": 0,
-   "neutral": 391,
+   "neutral": 393,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -17898,7 +17898,7 @@
     "The Guardian": 49,
     "Al-Monitor": 10,
     "WSJ": 2,
-    "ASHARQ AL-AWSAT English": 4,
+    "ASHARQ AL-AWSAT English": 5,
     "Anadolu Ajansı": 4,
     "Middle East Eye": 4,
     "Yemen Online": 3,
@@ -17994,7 +17994,7 @@
     "مركز سوث24": 1,
     "BBC Wildlife Magazine": 1,
     "وكالة الأنباء السعودية": 1,
-    "Fakti.bg": 1,
+    "Fakti.bg": 2,
     "Crypto Briefing": 1,
     "Qatar news agency": 1,
     "Egyptian Gazette": 1,
@@ -18068,7 +18068,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     4,
+     5,
      0
     ],
     "Anadolu Ajansı": [
@@ -18548,7 +18548,7 @@
     ],
     "Fakti.bg": [
      0,
-     1,
+     2,
      0
     ],
     "Crypto Briefing": [
