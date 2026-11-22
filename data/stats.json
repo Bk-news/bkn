@@ -16915,15 +16915,15 @@
    }
   },
   "2026-11-20": {
-   "total": 1013,
-   "news": 996,
+   "total": 1014,
+   "news": 997,
    "articles": 17,
    "positive": 0,
-   "neutral": 1013,
+   "neutral": 1014,
    "critical": 0,
    "mbs": 8,
    "countries": {
-    "US": 240,
+    "US": 241,
     "SA": 125,
     "FR": 112,
     "GB": 313,
@@ -16936,7 +16936,7 @@
     "WSJ": 102,
     "The AFC": 1,
     "Atlantic Council": 8,
-    "Al-Monitor": 33,
+    "Al-Monitor": 34,
     "Arab News": 97,
     "France 24": 109,
     "The New York Times": 23,
@@ -17107,7 +17107,7 @@
     ],
     "Al-Monitor": [
      0,
-     33,
+     34,
      0
     ],
     "Arab News": [
@@ -18676,11 +18676,11 @@
    }
   },
   "2026-11-22": {
-   "total": 274,
-   "news": 273,
+   "total": 276,
+   "news": 275,
    "articles": 1,
    "positive": 0,
-   "neutral": 274,
+   "neutral": 276,
    "critical": 0,
    "mbs": 5,
    "countries": {
@@ -18689,7 +18689,7 @@
     "FR": 9,
     "US": 34,
     "HK": 4,
-    "DE": 7,
+    "DE": 8,
     "JP": 1
    },
    "topics": {},
@@ -18708,7 +18708,7 @@
     "Financial Times": 3,
     "The New York Times": 8,
     "South China Morning Post": 4,
-    "Spiegel": 7,
+    "Spiegel": 8,
     "US Muslims": 2,
     "The AFC": 3,
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 2,
@@ -18791,7 +18791,8 @@
     "The National Law Review": 1,
     "The Independent": 1,
     "وكالة سبأ": 1,
-    "IndexBox": 1
+    "IndexBox": 1,
+    "شبكة تواصل الإخبارية": 1
    },
    "sourceTone": {
     "Breakingthenews.net": [
@@ -18866,7 +18867,7 @@
     ],
     "Spiegel": [
      0,
-     7,
+     8,
      0
     ],
     "US Muslims": [
@@ -19280,6 +19281,11 @@
      0
     ],
     "IndexBox": [
+     0,
+     1,
+     0
+    ],
+    "شبكة تواصل الإخبارية": [
      0,
      1,
      0
