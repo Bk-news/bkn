@@ -18676,15 +18676,15 @@
    }
   },
   "2026-11-22": {
-   "total": 257,
-   "news": 256,
+   "total": 259,
+   "news": 258,
    "articles": 1,
    "positive": 0,
-   "neutral": 257,
+   "neutral": 259,
    "critical": 0,
    "mbs": 5,
    "countries": {
-    "GB": 34,
+    "GB": 35,
     "SA": 44,
     "FR": 9,
     "US": 33,
@@ -18696,7 +18696,7 @@
    "sources": {
     "Breakingthenews.net": 3,
     "Reuters": 6,
-    "The Guardian": 18,
+    "The Guardian": 19,
     "Arab News": 38,
     "Anadolu Ajansı": 2,
     "France 24": 6,
@@ -18752,7 +18752,7 @@
     "ANTARA News": 1,
     "The Arab Weekly": 1,
     "Sports Illustrated": 1,
-    "وكالة الأنباء السعودية": 7,
+    "وكالة الأنباء السعودية": 8,
     "Jerusalem Center for Security and Foreign Affairs": 1,
     "Iran International": 1,
     "The Des Moines Register": 1,
@@ -18803,7 +18803,7 @@
     ],
     "The Guardian": [
      0,
-     18,
+     19,
      0
     ],
     "Arab News": [
@@ -19083,7 +19083,7 @@
     ],
     "وكالة الأنباء السعودية": [
      0,
-     7,
+     8,
      0
     ],
     "Jerusalem Center for Security and Foreign Affairs": [
