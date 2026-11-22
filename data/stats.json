@@ -17868,15 +17868,15 @@
    }
   },
   "2026-11-21": {
-   "total": 517,
-   "news": 514,
+   "total": 518,
+   "news": 515,
    "articles": 3,
    "positive": 0,
-   "neutral": 517,
+   "neutral": 518,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "US": 45,
+    "US": 46,
     "SA": 70,
     "GB": 141,
     "FR": 76,
@@ -17891,7 +17891,7 @@
     "الحرة": 1,
     "The Jerusalem Post": 1,
     "Українські Національні Новини (УНН)": 1,
-    "AP News": 15,
+    "AP News": 16,
     "Bloomberg.com": 6,
     "Khaleej Times": 1,
     "Financial Times": 5,
@@ -18050,7 +18050,7 @@
     ],
     "AP News": [
      0,
-     15,
+     16,
      0
     ],
     "Bloomberg.com": [
@@ -18676,11 +18676,11 @@
    }
   },
   "2026-11-22": {
-   "total": 435,
-   "news": 433,
+   "total": 436,
+   "news": 434,
    "articles": 2,
    "positive": 0,
-   "neutral": 435,
+   "neutral": 436,
    "critical": 0,
    "mbs": 6,
    "countries": {
@@ -18815,7 +18815,8 @@
     "Daily Sun": 1,
     "Defence Industry Europe": 1,
     "Dallas Express": 1,
-    "Luxurious Magazine": 1
+    "Luxurious Magazine": 1,
+    "BurgasMedia": 1
    },
    "sourceTone": {
     "Breakingthenews.net": [
@@ -19424,6 +19425,11 @@
      0
     ],
     "Luxurious Magazine": [
+     0,
+     1,
+     0
+    ],
+    "BurgasMedia": [
      0,
      1,
      0
