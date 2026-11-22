@@ -17868,15 +17868,15 @@
    }
   },
   "2026-11-21": {
-   "total": 454,
-   "news": 451,
+   "total": 456,
+   "news": 453,
    "articles": 3,
    "positive": 0,
-   "neutral": 454,
+   "neutral": 456,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "US": 31,
+    "US": 33,
     "SA": 66,
     "GB": 114,
     "FR": 58,
@@ -17891,8 +17891,8 @@
     "الحرة": 1,
     "The Jerusalem Post": 1,
     "Українські Національні Новини (УНН)": 1,
-    "AP News": 9,
-    "Bloomberg.com": 4,
+    "AP News": 10,
+    "Bloomberg.com": 5,
     "Khaleej Times": 1,
     "Financial Times": 4,
     "The Guardian": 60,
@@ -18050,12 +18050,12 @@
     ],
     "AP News": [
      0,
-     9,
+     10,
      0
     ],
     "Bloomberg.com": [
      0,
-     4,
+     5,
      0
     ],
     "Khaleej Times": [
