@@ -17868,17 +17868,17 @@
    }
   },
   "2026-11-21": {
-   "total": 514,
-   "news": 511,
+   "total": 515,
+   "news": 512,
    "articles": 3,
    "positive": 0,
-   "neutral": 514,
+   "neutral": 515,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 45,
     "SA": 70,
-    "GB": 139,
+    "GB": 140,
     "FR": 75,
     "DE": 1,
     "HK": 1
@@ -17930,7 +17930,7 @@
     "Nacionale": 1,
     "The Malaysian Reserve": 1,
     "Arab News PK": 1,
-    "Reuters": 52,
+    "Reuters": 53,
     "Le Monde.fr": 4,
     "Saudi Gazette": 14,
     "X": 1,
@@ -18245,7 +18245,7 @@
     ],
     "Reuters": [
      0,
-     52,
+     53,
      0
     ],
     "Le Monde.fr": [
@@ -18676,15 +18676,15 @@
    }
   },
   "2026-11-22": {
-   "total": 410,
-   "news": 408,
+   "total": 414,
+   "news": 412,
    "articles": 2,
    "positive": 0,
-   "neutral": 410,
+   "neutral": 414,
    "critical": 0,
    "mbs": 6,
    "countries": {
-    "GB": 86,
+    "GB": 89,
     "SA": 70,
     "FR": 16,
     "US": 46,
@@ -18695,7 +18695,7 @@
    "topics": {},
    "sources": {
     "Breakingthenews.net": 3,
-    "Reuters": 30,
+    "Reuters": 33,
     "The Guardian": 41,
     "Arab News": 64,
     "Anadolu Ajansı": 3,
@@ -18810,7 +18810,8 @@
     "파이낸셜뉴스": 1,
     "Briefs Finance": 1,
     "The Times": 1,
-    "CNN": 1
+    "CNN": 1,
+    "Bankingnews": 1
    },
    "sourceTone": {
     "Breakingthenews.net": [
@@ -18820,7 +18821,7 @@
     ],
     "Reuters": [
      0,
-     30,
+     33,
      0
     ],
     "The Guardian": [
@@ -19394,6 +19395,11 @@
      0
     ],
     "CNN": [
+     0,
+     1,
+     0
+    ],
+    "Bankingnews": [
      0,
      1,
      0
