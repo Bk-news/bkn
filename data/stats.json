@@ -16915,17 +16915,17 @@
    }
   },
   "2026-11-20": {
-   "total": 925,
-   "news": 908,
+   "total": 927,
+   "news": 910,
    "articles": 17,
    "positive": 0,
-   "neutral": 925,
+   "neutral": 927,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 224,
     "SA": 105,
-    "FR": 79,
+    "FR": 81,
     "GB": 296,
     "HK": 7,
     "DE": 6,
@@ -16938,7 +16938,7 @@
     "Atlantic Council": 8,
     "Al-Monitor": 29,
     "Arab News": 80,
-    "France 24": 76,
+    "France 24": 78,
     "The New York Times": 21,
     "AP News": 28,
     "The Guardian": 90,
@@ -17117,7 +17117,7 @@
     ],
     "France 24": [
      0,
-     76,
+     78,
      0
     ],
     "The New York Times": [
@@ -17868,11 +17868,11 @@
    }
   },
   "2026-11-21": {
-   "total": 405,
-   "news": 403,
+   "total": 406,
+   "news": 404,
    "articles": 2,
    "positive": 0,
-   "neutral": 405,
+   "neutral": 406,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -18004,7 +18004,8 @@
     "US Muslims": 1,
     "lovin.co": 1,
     "اسلام تايمز": 1,
-    "thenationalnews.com": 1
+    "thenationalnews.com": 1,
+    "Times of Suriname": 1
    },
    "sourceTone": {
     "The Washington Post": [
@@ -18603,6 +18604,11 @@
      0
     ],
     "thenationalnews.com": [
+     0,
+     1,
+     0
+    ],
+    "Times of Suriname": [
      0,
      1,
      0
