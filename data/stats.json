@@ -17868,17 +17868,17 @@
    }
   },
   "2026-11-21": {
-   "total": 493,
-   "news": 490,
+   "total": 508,
+   "news": 505,
    "articles": 3,
    "positive": 0,
-   "neutral": 493,
+   "neutral": 508,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 45,
     "SA": 70,
-    "GB": 119,
+    "GB": 134,
     "FR": 74,
     "DE": 1,
     "HK": 1
@@ -17930,7 +17930,7 @@
     "Nacionale": 1,
     "The Malaysian Reserve": 1,
     "Arab News PK": 1,
-    "Reuters": 32,
+    "Reuters": 47,
     "Le Monde.fr": 3,
     "Saudi Gazette": 14,
     "X": 1,
@@ -18245,7 +18245,7 @@
     ],
     "Reuters": [
      0,
-     32,
+     47,
      0
     ],
     "Le Monde.fr": [
@@ -18676,15 +18676,15 @@
    }
   },
   "2026-11-22": {
-   "total": 375,
-   "news": 373,
+   "total": 400,
+   "news": 398,
    "articles": 2,
    "positive": 0,
-   "neutral": 375,
+   "neutral": 400,
    "critical": 0,
    "mbs": 6,
    "countries": {
-    "GB": 73,
+    "GB": 81,
     "SA": 68,
     "FR": 16,
     "US": 45,
@@ -18695,10 +18695,10 @@
    "topics": {},
    "sources": {
     "Breakingthenews.net": 3,
-    "Reuters": 20,
+    "Reuters": 29,
     "The Guardian": 37,
-    "Arab News": 62,
-    "Anadolu Ajansı": 2,
+    "Arab News": 64,
+    "Anadolu Ajansı": 3,
     "France 24": 10,
     "Al-Monitor": 16,
     "TRT World": 1,
@@ -18710,11 +18710,11 @@
     "South China Morning Post": 4,
     "Spiegel": 11,
     "US Muslims": 2,
-    "The AFC": 3,
+    "The AFC": 4,
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 2,
     "ASHARQ AL-AWSAT English": 3,
     "Deccan Chronicle": 1,
-    "https://houseofsaud.com/": 5,
+    "https://houseofsaud.com/": 6,
     "ABNA English": 2,
     "i24NEWS": 1,
     "Українські Національні Новини (УНН)": 1,
@@ -18752,31 +18752,31 @@
     "ANTARA News": 1,
     "The Arab Weekly": 1,
     "Sports Illustrated": 1,
-    "وكالة الأنباء السعودية": 8,
+    "وكالة الأنباء السعودية": 9,
     "Jerusalem Center for Security and Foreign Affairs": 1,
     "Iran International": 1,
     "The Des Moines Register": 1,
     "A News": 3,
     "Kurdistan24": 1,
     "Fortune": 1,
-    "ESPN": 1,
+    "ESPN": 2,
     "La Revue des Hôtels": 1,
     "联合早报": 1,
-    "Middle East Eye": 1,
+    "Middle East Eye": 2,
     "CNBC": 1,
     "Al Jazeera": 1,
     "Finimize": 1,
     "Gulf News": 3,
     "Investing.com UK": 1,
-    "Arab News PK": 2,
+    "Arab News PK": 3,
     "Traders Union": 1,
     "AzerNews": 1,
     "European External Action Service (EEAS)": 1,
     "سانا": 1,
-    "MLQ.ai": 1,
+    "MLQ.ai": 2,
     "DW.com": 1,
     "Investing.com India": 1,
-    "Daily Observer": 1,
+    "Daily Observer": 2,
     "Los Angeles Times": 1,
     "巴士的報": 1,
     "Egypt Independent": 1,
@@ -18790,8 +18790,8 @@
     "Daily Sabah": 1,
     "The National Law Review": 1,
     "The Independent": 1,
-    "وكالة سبأ": 1,
-    "IndexBox": 1,
+    "وكالة سبأ": 2,
+    "IndexBox": 2,
     "شبكة تواصل الإخبارية": 1,
     "www.marketscreener.com": 1,
     "www.thenationalnews.com": 1,
@@ -18805,7 +18805,10 @@
     "PressReader": 1,
     "UA.NEWS": 1,
     "https://hrtoday.in/": 1,
-    "Yahoo Sports": 1
+    "Yahoo Sports": 1,
+    "Internazionale": 1,
+    "파이낸셜뉴스": 1,
+    "Briefs Finance": 1
    },
    "sourceTone": {
     "Breakingthenews.net": [
@@ -18815,7 +18818,7 @@
     ],
     "Reuters": [
      0,
-     20,
+     29,
      0
     ],
     "The Guardian": [
@@ -18825,12 +18828,12 @@
     ],
     "Arab News": [
      0,
-     62,
+     64,
      0
     ],
     "Anadolu Ajansı": [
      0,
-     2,
+     3,
      0
     ],
     "France 24": [
@@ -18890,7 +18893,7 @@
     ],
     "The AFC": [
      0,
-     3,
+     4,
      0
     ],
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": [
@@ -18910,7 +18913,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     5,
+     6,
      0
     ],
     "ABNA English": [
@@ -19100,7 +19103,7 @@
     ],
     "وكالة الأنباء السعودية": [
      0,
-     8,
+     9,
      0
     ],
     "Jerusalem Center for Security and Foreign Affairs": [
@@ -19135,7 +19138,7 @@
     ],
     "ESPN": [
      0,
-     1,
+     2,
      0
     ],
     "La Revue des Hôtels": [
@@ -19150,7 +19153,7 @@
     ],
     "Middle East Eye": [
      0,
-     1,
+     2,
      0
     ],
     "CNBC": [
@@ -19180,7 +19183,7 @@
     ],
     "Arab News PK": [
      0,
-     2,
+     3,
      0
     ],
     "Traders Union": [
@@ -19205,7 +19208,7 @@
     ],
     "MLQ.ai": [
      0,
-     1,
+     2,
      0
     ],
     "DW.com": [
@@ -19220,7 +19223,7 @@
     ],
     "Daily Observer": [
      0,
-     1,
+     2,
      0
     ],
     "Los Angeles Times": [
@@ -19290,12 +19293,12 @@
     ],
     "وكالة سبأ": [
      0,
-     1,
+     2,
      0
     ],
     "IndexBox": [
      0,
-     1,
+     2,
      0
     ],
     "شبكة تواصل الإخبارية": [
@@ -19364,6 +19367,21 @@
      0
     ],
     "Yahoo Sports": [
+     0,
+     1,
+     0
+    ],
+    "Internazionale": [
+     0,
+     1,
+     0
+    ],
+    "파이낸셜뉴스": [
+     0,
+     1,
+     0
+    ],
+    "Briefs Finance": [
      0,
      1,
      0
