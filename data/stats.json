@@ -18676,18 +18676,18 @@
    }
   },
   "2026-11-22": {
-   "total": 262,
-   "news": 261,
+   "total": 263,
+   "news": 262,
    "articles": 1,
    "positive": 0,
-   "neutral": 262,
+   "neutral": 263,
    "critical": 0,
    "mbs": 5,
    "countries": {
     "GB": 35,
     "SA": 45,
     "FR": 9,
-    "US": 33,
+    "US": 34,
     "HK": 4,
     "DE": 7,
     "JP": 1
@@ -18736,7 +18736,7 @@
     "Firstpost": 1,
     "KLSE Screener": 1,
     "Saudi Gazette": 21,
-    "AP News": 4,
+    "AP News": 5,
     "Investing.com": 2,
     "EA WorldView": 1,
     "News On AIR": 1,
@@ -19004,7 +19004,7 @@
     ],
     "AP News": [
      0,
-     4,
+     5,
      0
     ],
     "Investing.com": [
