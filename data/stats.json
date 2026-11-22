@@ -17868,16 +17868,16 @@
    }
   },
   "2026-11-21": {
-   "total": 485,
-   "news": 482,
+   "total": 486,
+   "news": 483,
    "articles": 3,
    "positive": 0,
-   "neutral": 485,
+   "neutral": 486,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 42,
-    "SA": 69,
+    "SA": 70,
     "GB": 119,
     "FR": 70,
     "DE": 1,
@@ -17887,7 +17887,7 @@
    "sources": {
     "The Washington Post": 2,
     "www.marketscreener.com": 1,
-    "Arab News": 66,
+    "Arab News": 67,
     "الحرة": 1,
     "The Jerusalem Post": 1,
     "Українські Національні Новини (УНН)": 1,
@@ -18030,7 +18030,7 @@
     ],
     "Arab News": [
      0,
-     66,
+     67,
      0
     ],
     "الحرة": [
@@ -18676,17 +18676,17 @@
    }
   },
   "2026-11-22": {
-   "total": 295,
-   "news": 294,
+   "total": 298,
+   "news": 297,
    "articles": 1,
    "positive": 0,
-   "neutral": 295,
+   "neutral": 298,
    "critical": 0,
    "mbs": 5,
    "countries": {
     "GB": 44,
-    "SA": 52,
-    "FR": 10,
+    "SA": 54,
+    "FR": 11,
     "US": 35,
     "HK": 4,
     "DE": 8,
@@ -18697,9 +18697,9 @@
     "Breakingthenews.net": 3,
     "Reuters": 6,
     "The Guardian": 28,
-    "Arab News": 46,
+    "Arab News": 48,
     "Anadolu Ajansı": 2,
-    "France 24": 6,
+    "France 24": 7,
     "Al-Monitor": 14,
     "TRT World": 1,
     "The Washington Post": 3,
@@ -18817,7 +18817,7 @@
     ],
     "Arab News": [
      0,
-     46,
+     48,
      0
     ],
     "Anadolu Ajansı": [
@@ -18827,7 +18827,7 @@
     ],
     "France 24": [
      0,
-     6,
+     7,
      0
     ],
     "Al-Monitor": [
