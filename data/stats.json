@@ -16915,18 +16915,18 @@
    }
   },
   "2026-11-20": {
-   "total": 1019,
-   "news": 1002,
+   "total": 1025,
+   "news": 1008,
    "articles": 17,
    "positive": 0,
-   "neutral": 1019,
+   "neutral": 1025,
    "critical": 0,
    "mbs": 8,
    "countries": {
     "US": 244,
     "SA": 125,
     "FR": 113,
-    "GB": 314,
+    "GB": 320,
     "HK": 7,
     "DE": 7,
     "JP": 5
@@ -16957,7 +16957,7 @@
     "The New Arab": 3,
     "Al Jazeera": 2,
     "Bloomberg.com": 37,
-    "Reuters": 149,
+    "Reuters": 155,
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -17212,7 +17212,7 @@
     ],
     "Reuters": [
      0,
-     149,
+     155,
      0
     ],
     "Bioengineer.org": [
@@ -17868,17 +17868,17 @@
    }
   },
   "2026-11-21": {
-   "total": 508,
-   "news": 505,
+   "total": 513,
+   "news": 510,
    "articles": 3,
    "positive": 0,
-   "neutral": 508,
+   "neutral": 513,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 45,
     "SA": 70,
-    "GB": 134,
+    "GB": 139,
     "FR": 74,
     "DE": 1,
     "HK": 1
@@ -17930,7 +17930,7 @@
     "Nacionale": 1,
     "The Malaysian Reserve": 1,
     "Arab News PK": 1,
-    "Reuters": 47,
+    "Reuters": 52,
     "Le Monde.fr": 3,
     "Saudi Gazette": 14,
     "X": 1,
@@ -18245,7 +18245,7 @@
     ],
     "Reuters": [
      0,
-     47,
+     52,
      0
     ],
     "Le Monde.fr": [
@@ -18676,11 +18676,11 @@
    }
   },
   "2026-11-22": {
-   "total": 400,
-   "news": 398,
+   "total": 401,
+   "news": 399,
    "articles": 2,
    "positive": 0,
-   "neutral": 400,
+   "neutral": 401,
    "critical": 0,
    "mbs": 6,
    "countries": {
@@ -18808,7 +18808,8 @@
     "Yahoo Sports": 1,
     "Internazionale": 1,
     "파이낸셜뉴스": 1,
-    "Briefs Finance": 1
+    "Briefs Finance": 1,
+    "The Times": 1
    },
    "sourceTone": {
     "Breakingthenews.net": [
@@ -19382,6 +19383,11 @@
      0
     ],
     "Briefs Finance": [
+     0,
+     1,
+     0
+    ],
+    "The Times": [
      0,
      1,
      0
