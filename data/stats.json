@@ -18616,22 +18616,22 @@
    }
   },
   "2026-11-22": {
-   "total": 5,
-   "news": 5,
+   "total": 6,
+   "news": 6,
    "articles": 0,
    "positive": 0,
-   "neutral": 5,
+   "neutral": 6,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 3,
+    "GB": 4,
     "SA": 1
    },
    "topics": {},
    "sources": {
     "Breakingthenews.net": 1,
     "Reuters": 1,
-    "The Guardian": 2,
+    "The Guardian": 3,
     "Arab News": 1
    },
    "sourceTone": {
@@ -18647,7 +18647,7 @@
     ],
     "The Guardian": [
      0,
-     2,
+     3,
      0
     ],
     "Arab News": [
