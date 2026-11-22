@@ -1,5 +1,17 @@
 [
  {
+  "id": "077d30750f342fbd",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "مصدر للعربية ينفي تعرض سفينة تجارية أخرى للاستهداف بزورق مسير قبالة بنغازي",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/154976",
+  "published": "2026-11-22T21:24:39.000Z",
+  "subject": "saudi",
+  "added": "2026-11-22T21:24:39.000Z"
+ },
+ {
   "id": "62bc95bfb7ed9f28",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -118,17 +130,5 @@
   "published": "2026-11-22T20:26:01.000Z",
   "subject": "saudi",
   "added": "2026-11-22T20:26:01.000Z"
- },
- {
-  "id": "6b0bf7c31117788b",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "حكومة شرق ليبيا تقدم شكوى لمجلس الأمن بشأن هجوم بنغازي",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/154965",
-  "published": "2026-11-22T20:25:22.000Z",
-  "subject": "saudi",
-  "added": "2026-11-22T20:25:22.000Z"
  }
 ]
