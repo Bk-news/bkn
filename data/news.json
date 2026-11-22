@@ -21,6 +21,27 @@
   "mt": true
  },
  {
+  "id": "2799634a39e50c55",
+  "origin": "rss",
+  "source": "The Guardian",
+  "author": "",
+  "title_ar": "مسؤولو الاتحاد الأوروبي يرفضون صفقة Cop31 لأنها \"لا تتحدث عن واقع أزمة المناخ\" - فيديو",
+  "title_orig": "EU officials reject Cop31 deal as it 'doesn't speak to reality of the climate crisis' – video",
+  "title_en": "EU officials reject Cop31 deal as it 'doesn't speak to reality of the climate crisis' – video",
+  "summary_ar": [],
+  "summary_en": [],
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTHFyWklRZ1dOTllhNUM1MGd4bDdiR0JKM0xGU2w4MFRNZ296Uk05MVAydzZYOGFabkg5QUpITTZlQ1VuNGNGdDU3S2RfcW91d3VvRHZ0TzJYZWljRkNzSjlWMk8waHpvSEx0WlByRDJiVFM1aFVua1htbkM3SUlsekVIcnJOVG0ycVRISVk1alVaWjgxWldLSXFIMUQxd3JoY3lPS0NmcE5CQnhKN3Y0X1NybkdSMTFfNUMtRnRiVnBEMk53bTUwb2hMS2VRVG94SUNyUWd4cVE5OE1SdEVN?oc=5",
+  "published": "2026-11-22T16:08:00.000Z",
+  "subject": "saudi",
+  "tone": "neutral",
+  "topic": "",
+  "country": "GB",
+  "pending": true,
+  "desc": "EU officials reject Cop31 deal as it 'doesn't speak to reality of the climate crisis' – video &nbsp;&nbsp; The Guardian",
+  "lang": "en",
+  "mt": true
+ },
+ {
   "id": "3e079b1e1ebb818a",
   "origin": "rss",
   "source": "ASHARQ AL-AWSAT English",
@@ -10476,27 +10497,6 @@
   "pending": true,
   "desc": "Maritime agency says 2 tankers struck in Hormuz, as Iran says ship on fire &nbsp;&nbsp; Arab News",
   "lang": "en",
-  "mt": true
- },
- {
-  "id": "bdc91afa0d017cca",
-  "origin": "rss",
-  "source": "Spiegel",
-  "author": "",
-  "title_ar": "مؤتمر المناخ الموحد في أنطاليا: المواجهة النهائية للتحدي والتحدي",
-  "title_orig": "Uno-Klimakonferenz in Antalya: Frust und verhärtete Fronten beim Verhandlungsfinale",
-  "title_en": "",
-  "summary_ar": [],
-  "summary_en": [],
-  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYWFOcWk2WTBlV2U5UlBTUW9aajNrcUtOMTlLeFY0T01wXzhEZ05oUUEtUkN6bzQ2cGpubDROWjE4eXBSRzc4MUhzTkt0aGQ2aTFzdm5rcEhkdWN6dkRHdzdGc0FmMWJpeFlnbHZOdjZjMDJBOHQ1YmZIaE56dnlrcTR5Vk9RZTFheEpLVE4wUXJSSzJnUTlFNnJwYXE2djdzUU5qZDhlb0p0ZWU1WTVMZDlFVXphUWkwWkhFSUxCRXYzX0NzUGFudTA0cVBCTHk1MnNJQ2p1bXZreV9McmpvcDB4UHQ2VVRBTXNYV2tzWQ?oc=5",
-  "published": "2026-11-21T13:40:00.000Z",
-  "subject": "saudi",
-  "tone": "neutral",
-  "topic": "",
-  "country": "DE",
-  "pending": true,
-  "desc": "Uno-Klimakonferenz in Antalya: Frust und verhärtete Fronten beim Verhandlungsfinale &nbsp;&nbsp; Spiegel",
-  "lang": "de",
   "mt": true
  }
 ]
