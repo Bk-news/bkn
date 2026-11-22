@@ -18670,17 +18670,17 @@
    }
   },
   "2026-11-22": {
-   "total": 76,
-   "news": 76,
+   "total": 77,
+   "news": 77,
    "articles": 0,
    "positive": 0,
-   "neutral": 76,
+   "neutral": 77,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 15,
     "SA": 7,
-    "FR": 3,
+    "FR": 4,
     "US": 7,
     "HK": 1,
     "DE": 1
@@ -18692,7 +18692,7 @@
     "The Guardian": 10,
     "Arab News": 8,
     "Anadolu Ajansı": 1,
-    "France 24": 2,
+    "France 24": 3,
     "Al-Monitor": 5,
     "TRT World": 1,
     "The Washington Post": 1,
@@ -18756,7 +18756,7 @@
     ],
     "France 24": [
      0,
-     2,
+     3,
      0
     ],
     "Al-Monitor": [
