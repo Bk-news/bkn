@@ -16915,16 +16915,16 @@
    }
   },
   "2026-11-20": {
-   "total": 920,
-   "news": 903,
+   "total": 921,
+   "news": 904,
    "articles": 17,
    "positive": 0,
-   "neutral": 920,
+   "neutral": 921,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 224,
-    "SA": 104,
+    "SA": 105,
     "FR": 79,
     "GB": 292,
     "HK": 7,
@@ -16961,7 +16961,7 @@
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
-    "Saudi Gazette": 36,
+    "Saudi Gazette": 37,
     "The Economist": 8,
     "Daily Sabah": 2,
     "South China Morning Post": 7,
@@ -17232,7 +17232,7 @@
     ],
     "Saudi Gazette": [
      0,
-     36,
+     37,
      0
     ],
     "The Economist": [
