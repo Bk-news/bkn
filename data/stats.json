@@ -16915,11 +16915,11 @@
    }
   },
   "2026-11-20": {
-   "total": 945,
-   "news": 928,
+   "total": 946,
+   "news": 929,
    "articles": 17,
    "positive": 0,
-   "neutral": 945,
+   "neutral": 946,
    "critical": 0,
    "mbs": 7,
    "countries": {
@@ -16929,7 +16929,7 @@
     "GB": 298,
     "HK": 7,
     "DE": 6,
-    "JP": 4
+    "JP": 5
    },
    "topics": {},
    "sources": {
@@ -16966,7 +16966,7 @@
     "Daily Sabah": 2,
     "South China Morning Post": 7,
     "Spiegel": 6,
-    "Nikkei Asia": 4,
+    "Nikkei Asia": 5,
     "جريدة القدس": 1,
     "la Repubblica": 1,
     "Gulf Business": 5,
@@ -17257,7 +17257,7 @@
     ],
     "Nikkei Asia": [
      0,
-     4,
+     5,
      0
     ],
     "جريدة القدس": [
