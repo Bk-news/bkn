@@ -16915,17 +16915,17 @@
    }
   },
   "2026-11-20": {
-   "total": 983,
-   "news": 966,
+   "total": 987,
+   "news": 970,
    "articles": 17,
    "positive": 0,
-   "neutral": 983,
+   "neutral": 987,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 230,
+    "US": 231,
     "SA": 119,
-    "FR": 106,
+    "FR": 109,
     "GB": 306,
     "HK": 7,
     "DE": 6,
@@ -16933,12 +16933,12 @@
    },
    "topics": {},
    "sources": {
-    "WSJ": 100,
+    "WSJ": 101,
     "The AFC": 1,
     "Atlantic Council": 8,
     "Al-Monitor": 30,
     "Arab News": 91,
-    "France 24": 103,
+    "France 24": 106,
     "The New York Times": 22,
     "AP News": 30,
     "The Guardian": 96,
@@ -17092,7 +17092,7 @@
    "sourceTone": {
     "WSJ": [
      0,
-     100,
+     101,
      0
     ],
     "The AFC": [
@@ -17117,7 +17117,7 @@
     ],
     "France 24": [
      0,
-     103,
+     106,
      0
     ],
     "The New York Times": [
@@ -17868,16 +17868,16 @@
    }
   },
   "2026-11-21": {
-   "total": 471,
-   "news": 468,
+   "total": 475,
+   "news": 472,
    "articles": 3,
    "positive": 0,
-   "neutral": 471,
+   "neutral": 475,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "US": 38,
-    "SA": 66,
+    "US": 39,
+    "SA": 69,
     "GB": 116,
     "FR": 66,
     "DE": 1,
@@ -17887,12 +17887,12 @@
    "sources": {
     "The Washington Post": 2,
     "www.marketscreener.com": 1,
-    "Arab News": 63,
+    "Arab News": 66,
     "الحرة": 1,
     "The Jerusalem Post": 1,
     "Українські Національні Новини (УНН)": 1,
     "AP News": 12,
-    "Bloomberg.com": 5,
+    "Bloomberg.com": 6,
     "Khaleej Times": 1,
     "Financial Times": 4,
     "The Guardian": 62,
@@ -18030,7 +18030,7 @@
     ],
     "Arab News": [
      0,
-     63,
+     66,
      0
     ],
     "الحرة": [
@@ -18055,7 +18055,7 @@
     ],
     "Bloomberg.com": [
      0,
-     5,
+     6,
      0
     ],
     "Khaleej Times": [
@@ -18676,16 +18676,16 @@
    }
   },
   "2026-11-22": {
-   "total": 189,
-   "news": 188,
+   "total": 221,
+   "news": 220,
    "articles": 1,
    "positive": 0,
-   "neutral": 189,
+   "neutral": 221,
    "critical": 0,
-   "mbs": 3,
+   "mbs": 5,
    "countries": {
     "GB": 33,
-    "SA": 37,
+    "SA": 44,
     "FR": 9,
     "US": 30,
     "HK": 4,
@@ -18694,10 +18694,10 @@
    },
    "topics": {},
    "sources": {
-    "Breakingthenews.net": 2,
+    "Breakingthenews.net": 3,
     "Reuters": 6,
     "The Guardian": 17,
-    "Arab News": 26,
+    "Arab News": 33,
     "Anadolu Ajansı": 1,
     "France 24": 6,
     "Al-Monitor": 14,
@@ -18714,7 +18714,7 @@
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 2,
     "ASHARQ AL-AWSAT English": 1,
     "Deccan Chronicle": 1,
-    "https://houseofsaud.com/": 2,
+    "https://houseofsaud.com/": 3,
     "ABNA English": 1,
     "i24NEWS": 1,
     "Українські Національні Новини (УНН)": 1,
@@ -18735,19 +18735,19 @@
     "Madhyamam": 1,
     "Firstpost": 1,
     "KLSE Screener": 1,
-    "Saudi Gazette": 15,
+    "Saudi Gazette": 21,
     "AP News": 3,
-    "Investing.com": 1,
+    "Investing.com": 2,
     "EA WorldView": 1,
     "News On AIR": 1,
     "8AM Media": 1,
     "Investing.com South Africa": 1,
     "Goal.com": 1,
-    "Bloomberg.com": 4,
+    "Bloomberg.com": 5,
     "WE News English": 1,
     "Nikkei Asia": 1,
     "WSJ": 1,
-    "The Economist": 1,
+    "The Economist": 2,
     "Inshorts": 1,
     "ANTARA News": 1,
     "The Arab Weekly": 1,
@@ -18758,12 +18758,26 @@
     "The Des Moines Register": 1,
     "A News": 1,
     "Kurdistan24": 1,
-    "Fortune": 1
+    "Fortune": 1,
+    "ESPN": 1,
+    "La Revue des Hôtels": 1,
+    "联合早报": 1,
+    "Middle East Eye": 1,
+    "CNBC": 1,
+    "Al Jazeera": 1,
+    "Finimize": 1,
+    "Gulf News": 1,
+    "Investing.com UK": 1,
+    "Arab News PK": 1,
+    "Traders Union": 1,
+    "AzerNews": 1,
+    "European External Action Service (EEAS)": 1,
+    "سانا": 1
    },
    "sourceTone": {
     "Breakingthenews.net": [
      0,
-     2,
+     3,
      0
     ],
     "Reuters": [
@@ -18778,7 +18792,7 @@
     ],
     "Arab News": [
      0,
-     26,
+     33,
      0
     ],
     "Anadolu Ajansı": [
@@ -18863,7 +18877,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     2,
+     3,
      0
     ],
     "ABNA English": [
@@ -18968,7 +18982,7 @@
     ],
     "Saudi Gazette": [
      0,
-     15,
+     21,
      0
     ],
     "AP News": [
@@ -18978,7 +18992,7 @@
     ],
     "Investing.com": [
      0,
-     1,
+     2,
      0
     ],
     "EA WorldView": [
@@ -19008,7 +19022,7 @@
     ],
     "Bloomberg.com": [
      0,
-     4,
+     5,
      0
     ],
     "WE News English": [
@@ -19028,7 +19042,7 @@
     ],
     "The Economist": [
      0,
-     1,
+     2,
      0
     ],
     "Inshorts": [
@@ -19082,6 +19096,76 @@
      0
     ],
     "Fortune": [
+     0,
+     1,
+     0
+    ],
+    "ESPN": [
+     0,
+     1,
+     0
+    ],
+    "La Revue des Hôtels": [
+     0,
+     1,
+     0
+    ],
+    "联合早报": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Eye": [
+     0,
+     1,
+     0
+    ],
+    "CNBC": [
+     0,
+     1,
+     0
+    ],
+    "Al Jazeera": [
+     0,
+     1,
+     0
+    ],
+    "Finimize": [
+     0,
+     1,
+     0
+    ],
+    "Gulf News": [
+     0,
+     1,
+     0
+    ],
+    "Investing.com UK": [
+     0,
+     1,
+     0
+    ],
+    "Arab News PK": [
+     0,
+     1,
+     0
+    ],
+    "Traders Union": [
+     0,
+     1,
+     0
+    ],
+    "AzerNews": [
+     0,
+     1,
+     0
+    ],
+    "European External Action Service (EEAS)": [
+     0,
+     1,
+     0
+    ],
+    "سانا": [
      0,
      1,
      0
