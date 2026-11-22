@@ -2,6 +2,27 @@
  "day": "2026-11-21",
  "items": [
   {
+   "id": "168ac10589ff6f77",
+   "origin": "rss",
+   "source": "The Guardian",
+   "author": "",
+   "title_ar": "تم توجيه الاتهام إلى امرأتين من ولاية نيو جيرسي بسبب ادعاءات كاذبة مزعومة بارتكاب هجوم عنيف",
+   "title_orig": "Two New Jersey women indicted over alleged false claims of violent attack",
+   "title_en": "Two New Jersey women indicted over alleged false claims of violent attack",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUllxRDFtbnhkTmZzblN4Skw5bzdDNkpDZnlaYW8zUldXSHV4bWIwT1I5YmdmMy1wQ1oxY3h1ZmJvbFhDYl9ybjZIVzRDZFZPV25adG9xYVk4OEV6aGM0R0NieUk0THZUeUR2b3hDTVNjWjZQbUdlMUpHajgydjNtXzVBSQ?oc=5",
+   "published": "2026-11-21T23:46:00.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "Two New Jersey women indicted over alleged false claims of violent attack &nbsp;&nbsp; The Guardian",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "4262cf40e8c1d7ab",
    "origin": "rss",
    "source": "Arab News",
