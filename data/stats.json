@@ -16915,16 +16915,16 @@
    }
   },
   "2026-11-20": {
-   "total": 964,
-   "news": 947,
+   "total": 966,
+   "news": 949,
    "articles": 17,
    "positive": 0,
-   "neutral": 964,
+   "neutral": 966,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 226,
-    "SA": 113,
+    "US": 227,
+    "SA": 114,
     "FR": 100,
     "GB": 303,
     "HK": 7,
@@ -16936,7 +16936,7 @@
     "WSJ": 99,
     "The AFC": 1,
     "Atlantic Council": 8,
-    "Al-Monitor": 29,
+    "Al-Monitor": 30,
     "Arab News": 88,
     "France 24": 97,
     "The New York Times": 21,
@@ -16961,7 +16961,7 @@
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
-    "Saudi Gazette": 37,
+    "Saudi Gazette": 38,
     "The Economist": 8,
     "Daily Sabah": 2,
     "South China Morning Post": 7,
@@ -17107,7 +17107,7 @@
     ],
     "Al-Monitor": [
      0,
-     29,
+     30,
      0
     ],
     "Arab News": [
@@ -17232,7 +17232,7 @@
     ],
     "Saudi Gazette": [
      0,
-     37,
+     38,
      0
     ],
     "The Economist": [
@@ -18658,11 +18658,11 @@
    }
   },
   "2026-11-22": {
-   "total": 66,
-   "news": 66,
+   "total": 67,
+   "news": 67,
    "articles": 0,
    "positive": 0,
-   "neutral": 66,
+   "neutral": 67,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -18709,7 +18709,8 @@
     "Global Advisory Experts": 4,
     "DD News": 1,
     "Marine News Magazine": 2,
-    "The Business Standard": 1
+    "The Business Standard": 1,
+    "Yeni Safak English": 1
    },
    "sourceTone": {
     "Breakingthenews.net": [
@@ -18883,6 +18884,11 @@
      0
     ],
     "The Business Standard": [
+     0,
+     1,
+     0
+    ],
+    "Yeni Safak English": [
      0,
      1,
      0

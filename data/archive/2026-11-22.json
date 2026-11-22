@@ -2,6 +2,27 @@
  "day": "2026-11-22",
  "items": [
   {
+   "id": "8d6c3db63a0b20ae",
+   "origin": "rss",
+   "source": "Yeni Safak English",
+   "author": "",
+   "title_ar": "أعلن التحالف الذي تقوده السعودية أنه دمر صاروخا أطلقه الحوثيون على غرب السعودية",
+   "title_orig": "Saudi-led coalition says it destroyed Houthi missile aimed at western Saudi Arabia",
+   "title_en": "Saudi-led coalition says it destroyed Houthi missile aimed at western Saudi Arabia",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVGhQRHlzRlJDMjhwamcxWXk0WnBkVEwwb3Z0VDFjcS04eE1NY3N4M2psZlBuRld0Mm5aOC1RcjFENFJzUDBWMHBqVHRWYTBESmpxUVBZUUh1UmNxdlczeHVWRXdIa1VrMjFYeDdIZFNQN1BrYlA4RXdOMEZxbkhybUFEMHZveGFXVnk4TWNDNFFnS0FTb2NJUE1IelhlaXF1dF9fNm4tZ0N0YkZqZnFJZGZMaWZzcktrVWJqWHl3?oc=5",
+   "published": "2026-11-22T07:35:19.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "",
+   "pending": true,
+   "desc": "Saudi-led coalition says it destroyed Houthi missile aimed at western Saudi Arabia &nbsp;&nbsp; Yeni Safak English",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "955e3fad9d160b24",
    "origin": "rss",
    "source": "Al-Monitor",
