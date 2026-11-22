@@ -16915,18 +16915,18 @@
    }
   },
   "2026-11-20": {
-   "total": 1014,
-   "news": 997,
+   "total": 1015,
+   "news": 998,
    "articles": 17,
    "positive": 0,
-   "neutral": 1014,
+   "neutral": 1015,
    "critical": 0,
    "mbs": 8,
    "countries": {
     "US": 241,
     "SA": 125,
     "FR": 112,
-    "GB": 313,
+    "GB": 314,
     "HK": 7,
     "DE": 7,
     "JP": 5
@@ -16957,7 +16957,7 @@
     "The New Arab": 3,
     "Al Jazeera": 2,
     "Bloomberg.com": 37,
-    "Reuters": 148,
+    "Reuters": 149,
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -17212,7 +17212,7 @@
     ],
     "Reuters": [
      0,
-     148,
+     149,
      0
     ],
     "Bioengineer.org": [
