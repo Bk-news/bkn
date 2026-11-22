@@ -18676,18 +18676,18 @@
    }
   },
   "2026-11-22": {
-   "total": 293,
-   "news": 292,
+   "total": 294,
+   "news": 293,
    "articles": 1,
    "positive": 0,
-   "neutral": 293,
+   "neutral": 294,
    "critical": 0,
    "mbs": 5,
    "countries": {
     "GB": 44,
     "SA": 51,
     "FR": 10,
-    "US": 34,
+    "US": 35,
     "HK": 4,
     "DE": 8,
     "JP": 1
@@ -18743,7 +18743,7 @@
     "8AM Media": 1,
     "Investing.com South Africa": 1,
     "Goal.com": 2,
-    "Bloomberg.com": 5,
+    "Bloomberg.com": 6,
     "WE News English": 1,
     "Nikkei Asia": 1,
     "WSJ": 1,
@@ -19047,7 +19047,7 @@
     ],
     "Bloomberg.com": [
      0,
-     5,
+     6,
      0
     ],
     "WE News English": [
