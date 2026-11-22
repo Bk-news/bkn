@@ -18676,16 +18676,16 @@
    }
   },
   "2026-11-22": {
-   "total": 286,
-   "news": 285,
+   "total": 288,
+   "news": 287,
    "articles": 1,
    "positive": 0,
-   "neutral": 286,
+   "neutral": 288,
    "critical": 0,
    "mbs": 5,
    "countries": {
     "GB": 43,
-    "SA": 50,
+    "SA": 51,
     "FR": 10,
     "US": 34,
     "HK": 4,
@@ -18697,7 +18697,7 @@
     "Breakingthenews.net": 3,
     "Reuters": 6,
     "The Guardian": 27,
-    "Arab News": 44,
+    "Arab News": 45,
     "Anadolu Ajansı": 2,
     "France 24": 6,
     "Al-Monitor": 14,
@@ -18712,7 +18712,7 @@
     "US Muslims": 2,
     "The AFC": 3,
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 2,
-    "ASHARQ AL-AWSAT English": 2,
+    "ASHARQ AL-AWSAT English": 3,
     "Deccan Chronicle": 1,
     "https://houseofsaud.com/": 4,
     "ABNA English": 2,
@@ -18814,7 +18814,7 @@
     ],
     "Arab News": [
      0,
-     44,
+     45,
      0
     ],
     "Anadolu Ajansı": [
@@ -18889,7 +18889,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     2,
+     3,
      0
     ],
     "Deccan Chronicle": [
