@@ -18676,11 +18676,11 @@
    }
   },
   "2026-11-22": {
-   "total": 89,
-   "news": 89,
+   "total": 91,
+   "news": 91,
    "articles": 0,
    "positive": 0,
-   "neutral": 89,
+   "neutral": 91,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -18734,12 +18734,13 @@
     "Madhyamam": 1,
     "Firstpost": 1,
     "KLSE Screener": 1,
-    "Saudi Gazette": 1,
+    "Saudi Gazette": 2,
     "AP News": 1,
     "Investing.com": 1,
     "EA WorldView": 1,
     "News On AIR": 1,
-    "8AM Media": 1
+    "8AM Media": 1,
+    "Investing.com South Africa": 1
    },
    "sourceTone": {
     "Breakingthenews.net": [
@@ -18949,7 +18950,7 @@
     ],
     "Saudi Gazette": [
      0,
-     1,
+     2,
      0
     ],
     "AP News": [
@@ -18973,6 +18974,11 @@
      0
     ],
     "8AM Media": [
+     0,
+     1,
+     0
+    ],
+    "Investing.com South Africa": [
      0,
      1,
      0
