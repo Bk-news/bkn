@@ -18676,16 +18676,16 @@
    }
   },
   "2026-11-22": {
-   "total": 403,
-   "news": 401,
+   "total": 404,
+   "news": 402,
    "articles": 2,
    "positive": 0,
-   "neutral": 403,
+   "neutral": 404,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "GB": 82,
-    "SA": 68,
+    "SA": 69,
     "FR": 16,
     "US": 46,
     "HK": 4,
@@ -18735,7 +18735,7 @@
     "Madhyamam": 1,
     "Firstpost": 1,
     "KLSE Screener": 1,
-    "Saudi Gazette": 26,
+    "Saudi Gazette": 27,
     "AP News": 7,
     "Investing.com": 2,
     "EA WorldView": 1,
@@ -19020,7 +19020,7 @@
     ],
     "Saudi Gazette": [
      0,
-     26,
+     27,
      0
     ],
     "AP News": [
