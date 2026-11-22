@@ -18676,18 +18676,18 @@
    }
   },
   "2026-11-22": {
-   "total": 298,
-   "news": 297,
+   "total": 303,
+   "news": 302,
    "articles": 1,
    "positive": 0,
-   "neutral": 298,
+   "neutral": 303,
    "critical": 0,
    "mbs": 5,
    "countries": {
-    "GB": 44,
+    "GB": 47,
     "SA": 54,
     "FR": 11,
-    "US": 35,
+    "US": 36,
     "HK": 4,
     "DE": 8,
     "JP": 1
@@ -18696,14 +18696,14 @@
    "sources": {
     "Breakingthenews.net": 3,
     "Reuters": 6,
-    "The Guardian": 28,
+    "The Guardian": 30,
     "Arab News": 48,
     "Anadolu Ajansı": 2,
     "France 24": 7,
     "Al-Monitor": 14,
     "TRT World": 1,
     "The Washington Post": 3,
-    "BBC": 6,
+    "BBC": 7,
     "Le Monde.fr": 4,
     "Financial Times": 3,
     "The New York Times": 8,
@@ -18735,8 +18735,8 @@
     "Madhyamam": 1,
     "Firstpost": 1,
     "KLSE Screener": 1,
-    "Saudi Gazette": 21,
-    "AP News": 5,
+    "Saudi Gazette": 22,
+    "AP News": 6,
     "Investing.com": 2,
     "EA WorldView": 1,
     "News On AIR": 1,
@@ -18812,7 +18812,7 @@
     ],
     "The Guardian": [
      0,
-     28,
+     30,
      0
     ],
     "Arab News": [
@@ -18847,7 +18847,7 @@
     ],
     "BBC": [
      0,
-     6,
+     7,
      0
     ],
     "Le Monde.fr": [
@@ -19007,12 +19007,12 @@
     ],
     "Saudi Gazette": [
      0,
-     21,
+     22,
      0
     ],
     "AP News": [
      0,
-     5,
+     6,
      0
     ],
     "Investing.com": [
