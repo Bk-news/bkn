@@ -17868,18 +17868,18 @@
    }
   },
   "2026-11-21": {
-   "total": 515,
-   "news": 512,
+   "total": 516,
+   "news": 513,
    "articles": 3,
    "positive": 0,
-   "neutral": 515,
+   "neutral": 516,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 45,
     "SA": 70,
     "GB": 140,
-    "FR": 75,
+    "FR": 76,
     "DE": 1,
     "HK": 1
    },
@@ -17915,7 +17915,7 @@
     "https://houseofsaud.com/": 4,
     "Gulf News": 2,
     "NDTV": 2,
-    "France 24": 72,
+    "France 24": 73,
     "Japan Today": 1,
     "Al Arabiya English": 1,
     "Dawn": 1,
@@ -18170,7 +18170,7 @@
     ],
     "France 24": [
      0,
-     72,
+     73,
      0
     ],
     "Japan Today": [
