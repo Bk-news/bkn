@@ -18676,11 +18676,11 @@
    }
   },
   "2026-11-22": {
-   "total": 425,
-   "news": 423,
+   "total": 426,
+   "news": 424,
    "articles": 2,
    "positive": 0,
-   "neutral": 425,
+   "neutral": 426,
    "critical": 0,
    "mbs": 6,
    "countries": {
@@ -18754,7 +18754,7 @@
     "Sports Illustrated": 1,
     "وكالة الأنباء السعودية": 9,
     "Jerusalem Center for Security and Foreign Affairs": 1,
-    "Iran International": 1,
+    "Iran International": 2,
     "The Des Moines Register": 1,
     "A News": 3,
     "Kurdistan24": 1,
@@ -19120,7 +19120,7 @@
     ],
     "Iran International": [
      0,
-     1,
+     2,
      0
     ],
     "The Des Moines Register": [
