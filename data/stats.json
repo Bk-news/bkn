@@ -18616,11 +18616,11 @@
    }
   },
   "2026-11-22": {
-   "total": 7,
-   "news": 7,
+   "total": 8,
+   "news": 8,
    "articles": 0,
    "positive": 0,
-   "neutral": 7,
+   "neutral": 8,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -18632,7 +18632,8 @@
     "Breakingthenews.net": 1,
     "Reuters": 1,
     "The Guardian": 3,
-    "Arab News": 2
+    "Arab News": 2,
+    "Anadolu Ajansı": 1
    },
    "sourceTone": {
     "Breakingthenews.net": [
@@ -18653,6 +18654,11 @@
     "Arab News": [
      0,
      2,
+     0
+    ],
+    "Anadolu Ajansı": [
+     0,
+     1,
      0
     ]
    }
