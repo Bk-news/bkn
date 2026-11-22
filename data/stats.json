@@ -16915,16 +16915,16 @@
    }
   },
   "2026-11-20": {
-   "total": 971,
-   "news": 954,
+   "total": 972,
+   "news": 955,
    "articles": 17,
    "positive": 0,
-   "neutral": 971,
+   "neutral": 972,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 227,
-    "SA": 115,
+    "SA": 116,
     "FR": 104,
     "GB": 303,
     "HK": 7,
@@ -16961,7 +16961,7 @@
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
-    "Saudi Gazette": 39,
+    "Saudi Gazette": 40,
     "The Economist": 8,
     "Daily Sabah": 2,
     "South China Morning Post": 7,
@@ -17232,7 +17232,7 @@
     ],
     "Saudi Gazette": [
      0,
-     39,
+     40,
      0
     ],
     "The Economist": [
@@ -17868,15 +17868,15 @@
    }
   },
   "2026-11-21": {
-   "total": 449,
-   "news": 446,
+   "total": 450,
+   "news": 447,
    "articles": 3,
    "positive": 0,
-   "neutral": 449,
+   "neutral": 450,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "US": 30,
+    "US": 31,
     "SA": 66,
     "GB": 114,
     "FR": 58,
@@ -17891,7 +17891,7 @@
     "الحرة": 1,
     "The Jerusalem Post": 1,
     "Українські Національні Новини (УНН)": 1,
-    "AP News": 8,
+    "AP News": 9,
     "Bloomberg.com": 4,
     "Khaleej Times": 1,
     "Financial Times": 4,
@@ -18047,7 +18047,7 @@
     ],
     "AP News": [
      0,
-     8,
+     9,
      0
     ],
     "Bloomberg.com": [
@@ -18658,11 +18658,11 @@
    }
   },
   "2026-11-22": {
-   "total": 72,
-   "news": 72,
+   "total": 74,
+   "news": 74,
    "articles": 0,
    "positive": 0,
-   "neutral": 72,
+   "neutral": 74,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -18706,7 +18706,7 @@
     "CairoScene": 1,
     "Devdiscourse": 1,
     "Independent Observer": 1,
-    "Global Advisory Experts": 4,
+    "Global Advisory Experts": 6,
     "DD News": 1,
     "Marine News Magazine": 2,
     "The Business Standard": 1,
@@ -18872,7 +18872,7 @@
     ],
     "Global Advisory Experts": [
      0,
-     4,
+     6,
      0
     ],
     "DD News": [
