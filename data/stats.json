@@ -18658,11 +18658,11 @@
    }
   },
   "2026-11-22": {
-   "total": 70,
-   "news": 70,
+   "total": 71,
+   "news": 71,
    "articles": 0,
    "positive": 0,
-   "neutral": 70,
+   "neutral": 71,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -18711,7 +18711,8 @@
     "Marine News Magazine": 2,
     "The Business Standard": 1,
     "Yeni Safak English": 1,
-    "Middle East Online": 1
+    "Middle East Online": 1,
+    "Gulf Today": 1
    },
    "sourceTone": {
     "Breakingthenews.net": [
@@ -18895,6 +18896,11 @@
      0
     ],
     "Middle East Online": [
+     0,
+     1,
+     0
+    ],
+    "Gulf Today": [
      0,
      1,
      0
