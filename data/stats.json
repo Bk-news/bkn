@@ -16915,15 +16915,15 @@
    }
   },
   "2026-11-20": {
-   "total": 976,
-   "news": 959,
+   "total": 978,
+   "news": 961,
    "articles": 17,
    "positive": 0,
-   "neutral": 976,
+   "neutral": 978,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 227,
+    "US": 229,
     "SA": 119,
     "FR": 104,
     "GB": 304,
@@ -16933,7 +16933,7 @@
    },
    "topics": {},
    "sources": {
-    "WSJ": 99,
+    "WSJ": 100,
     "The AFC": 1,
     "Atlantic Council": 8,
     "Al-Monitor": 30,
@@ -17019,7 +17019,7 @@
     "Egyptian Gazette": 2,
     "Insurance Journal": 1,
     "Livemint": 1,
-    "CNN": 3,
+    "CNN": 4,
     "Türkiye Today": 1,
     "Legis1": 1,
     "Standardbred Canada": 1,
@@ -17092,7 +17092,7 @@
    "sourceTone": {
     "WSJ": [
      0,
-     99,
+     100,
      0
     ],
     "The AFC": [
@@ -17522,7 +17522,7 @@
     ],
     "CNN": [
      0,
-     3,
+     4,
      0
     ],
     "Türkiye Today": [
@@ -18676,38 +18676,39 @@
    }
   },
   "2026-11-22": {
-   "total": 91,
-   "news": 91,
-   "articles": 0,
+   "total": 129,
+   "news": 128,
+   "articles": 1,
    "positive": 0,
-   "neutral": 91,
+   "neutral": 129,
    "critical": 0,
-   "mbs": 0,
+   "mbs": 2,
    "countries": {
-    "GB": 16,
-    "SA": 12,
-    "FR": 4,
-    "US": 8,
-    "HK": 1,
-    "DE": 1
+    "GB": 24,
+    "SA": 17,
+    "FR": 8,
+    "US": 19,
+    "HK": 3,
+    "DE": 3,
+    "JP": 1
    },
    "topics": {},
    "sources": {
     "Breakingthenews.net": 2,
-    "Reuters": 1,
-    "The Guardian": 11,
-    "Arab News": 12,
+    "Reuters": 3,
+    "The Guardian": 13,
+    "Arab News": 16,
     "Anadolu Ajansı": 1,
-    "France 24": 3,
-    "Al-Monitor": 5,
+    "France 24": 5,
+    "Al-Monitor": 7,
     "TRT World": 1,
-    "The Washington Post": 1,
-    "BBC": 2,
-    "Le Monde.fr": 1,
-    "Financial Times": 2,
-    "The New York Times": 2,
-    "South China Morning Post": 1,
-    "Spiegel": 1,
+    "The Washington Post": 3,
+    "BBC": 4,
+    "Le Monde.fr": 3,
+    "Financial Times": 3,
+    "The New York Times": 4,
+    "South China Morning Post": 3,
+    "Spiegel": 3,
     "US Muslims": 2,
     "The AFC": 3,
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 2,
@@ -18734,13 +18735,20 @@
     "Madhyamam": 1,
     "Firstpost": 1,
     "KLSE Screener": 1,
-    "Saudi Gazette": 2,
-    "AP News": 1,
+    "Saudi Gazette": 5,
+    "AP News": 3,
     "Investing.com": 1,
     "EA WorldView": 1,
     "News On AIR": 1,
     "8AM Media": 1,
-    "Investing.com South Africa": 1
+    "Investing.com South Africa": 1,
+    "Goal.com": 1,
+    "Bloomberg.com": 2,
+    "WE News English": 1,
+    "Nikkei Asia": 1,
+    "WSJ": 1,
+    "The Economist": 1,
+    "Inshorts": 1
    },
    "sourceTone": {
     "Breakingthenews.net": [
@@ -18750,17 +18758,17 @@
     ],
     "Reuters": [
      0,
-     1,
+     3,
      0
     ],
     "The Guardian": [
      0,
-     11,
+     13,
      0
     ],
     "Arab News": [
      0,
-     12,
+     16,
      0
     ],
     "Anadolu Ajansı": [
@@ -18770,12 +18778,12 @@
     ],
     "France 24": [
      0,
-     3,
+     5,
      0
     ],
     "Al-Monitor": [
      0,
-     5,
+     7,
      0
     ],
     "TRT World": [
@@ -18785,37 +18793,37 @@
     ],
     "The Washington Post": [
      0,
-     1,
+     3,
      0
     ],
     "BBC": [
      0,
-     2,
+     4,
      0
     ],
     "Le Monde.fr": [
      0,
-     1,
+     3,
      0
     ],
     "Financial Times": [
      0,
-     2,
+     3,
      0
     ],
     "The New York Times": [
      0,
-     2,
+     4,
      0
     ],
     "South China Morning Post": [
      0,
-     1,
+     3,
      0
     ],
     "Spiegel": [
      0,
-     1,
+     3,
      0
     ],
     "US Muslims": [
@@ -18950,12 +18958,12 @@
     ],
     "Saudi Gazette": [
      0,
-     2,
+     5,
      0
     ],
     "AP News": [
      0,
-     1,
+     3,
      0
     ],
     "Investing.com": [
@@ -18979,6 +18987,41 @@
      0
     ],
     "Investing.com South Africa": [
+     0,
+     1,
+     0
+    ],
+    "Goal.com": [
+     0,
+     1,
+     0
+    ],
+    "Bloomberg.com": [
+     0,
+     2,
+     0
+    ],
+    "WE News English": [
+     0,
+     1,
+     0
+    ],
+    "Nikkei Asia": [
+     0,
+     1,
+     0
+    ],
+    "WSJ": [
+     0,
+     1,
+     0
+    ],
+    "The Economist": [
+     0,
+     1,
+     0
+    ],
+    "Inshorts": [
      0,
      1,
      0

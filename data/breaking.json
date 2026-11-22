@@ -1,26 +1,122 @@
 [
  {
-  "id": "74a011dc5ea525ff",
+  "id": "e69ce879cf4b90ed",
   "origin": "telegram",
   "source": "العربية عاجل",
   "country": "SA",
-  "title_ar": "مصدر بالجيش السوداني: المسيرات التي انطلقت من إثيوبيا هدفها كان مهاجمة مطار الخرطوم",
+  "title_ar": "الدفاع الروسية: ضربنا محطة كهرباء في دنيبروبيتروفيسك تابعة للجيش الأوكراني",
   "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/154854",
-  "published": "2026-11-22T08:05:35.000Z",
+  "url": "https://t.me/alarabiyaBr/154912",
+  "published": "2026-11-22T15:28:43.000Z",
   "subject": "saudi",
-  "added": "2026-11-22T08:05:35.000Z"
+  "added": "2026-11-22T15:28:43.000Z"
  },
  {
-  "id": "0e7f50f7ed5c9406",
+  "id": "40093cfd0a656c3a",
   "origin": "telegram",
   "source": "العربية عاجل",
   "country": "SA",
-  "title_ar": "مصدر بالجيش السوداني للعربية: المسيرات التي حاولت استهداف الخرطوم انطلقت من إثيوبيا",
+  "title_ar": "مصادر العربية: لا إصابات بين طاقم السفينة التي استهدفها هجوم بنغازي",
   "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/154853",
-  "published": "2026-11-22T08:01:02.000Z",
+  "url": "https://t.me/alarabiyaBr/154911",
+  "published": "2026-11-22T15:20:01.000Z",
   "subject": "saudi",
-  "added": "2026-11-22T08:01:02.000Z"
+  "added": "2026-11-22T15:20:01.000Z"
+ },
+ {
+  "id": "66878964b98b1914",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "مصادر العربية: يتم تعقب وسائل اتصال كانت على متن الزوارق المهاجمة في بنغازي",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/154910",
+  "published": "2026-11-22T15:18:29.000Z",
+  "subject": "saudi",
+  "added": "2026-11-22T15:18:29.000Z"
+ },
+ {
+  "id": "3527cd20d21231c4",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "مصادر العربية: زورق استهدف سفينة بميناء بنغازي وزورق ثان أصاب مخزن أسلحة",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/154909",
+  "published": "2026-11-22T15:17:32.000Z",
+  "subject": "saudi",
+  "added": "2026-11-22T15:17:32.000Z"
+ },
+ {
+  "id": "3955b705a9a73ce0",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "مصادر العربية: الجيش الليبي اعترض زورقين وتم التشويش على 4",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/154908",
+  "published": "2026-11-22T15:14:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-22T15:14:01.000Z"
+ },
+ {
+  "id": "e61ccb66f1a02c78",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "مصادر العربية: الهجوم على ميناء بنغازي بليبيا تم باستخدام 6 زوارق",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/154907",
+  "published": "2026-11-22T15:12:49.000Z",
+  "subject": "saudi",
+  "added": "2026-11-22T15:12:49.000Z"
+ },
+ {
+  "id": "fcf608bfd4157563",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "أكسيوس عن مصدر: جهاز الأمن الأوكراني نفذ ضربة بعيدة المدي استهدفت سفينة روسية في ليبيا",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/154906",
+  "published": "2026-11-22T15:07:02.000Z",
+  "subject": "saudi",
+  "added": "2026-11-22T15:07:02.000Z"
+ },
+ {
+  "id": "043fd3cd955d3a1b",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "صور بالأقمار الصناعية لآثار الانفجار بسفينة روسية في ميناء بنغازي",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/154905",
+  "published": "2026-11-22T15:01:02.000Z",
+  "subject": "saudi",
+  "added": "2026-11-22T15:01:02.000Z"
+ },
+ {
+  "id": "f3a8e492c1a8cd7c",
+  "origin": "royal",
+  "source": "واس الملكية",
+  "country": "SA",
+  "title_ar": "سمو #ولي_العهد ودولة رئيس وزراء جمهورية بلغاريا يعقدان جلسة مباحثات رسمية",
+  "summary_ar": [],
+  "url": "https://www.youtube.com/watch?v=7LNV2oQsRr8",
+  "published": "2026-11-22T13:53:32.000Z",
+  "subject": "saudi",
+  "added": "2026-11-22T15:39:36.693Z"
+ },
+ {
+  "id": "db121bfb972bb4cd",
+  "origin": "royal",
+  "source": "واس الملكية",
+  "country": "SA",
+  "title_ar": "سمو #ولي_العهد يستقبل دولة رئيس وزراء جمهورية بلغاريا.",
+  "summary_ar": [],
+  "url": "https://www.youtube.com/watch?v=bjW5K6F67zI",
+  "published": "2026-11-22T13:40:52.000Z",
+  "subject": "saudi",
+  "added": "2026-11-22T15:39:36.693Z"
  }
 ]
