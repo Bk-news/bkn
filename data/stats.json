@@ -16915,16 +16915,16 @@
    }
   },
   "2026-11-20": {
-   "total": 1008,
-   "news": 991,
+   "total": 1011,
+   "news": 994,
    "articles": 17,
    "positive": 0,
-   "neutral": 1008,
+   "neutral": 1011,
    "critical": 0,
    "mbs": 8,
    "countries": {
-    "US": 238,
-    "SA": 123,
+    "US": 240,
+    "SA": 124,
     "FR": 112,
     "GB": 312,
     "HK": 7,
@@ -16933,11 +16933,11 @@
    },
    "topics": {},
    "sources": {
-    "WSJ": 101,
+    "WSJ": 102,
     "The AFC": 1,
     "Atlantic Council": 8,
-    "Al-Monitor": 32,
-    "Arab News": 95,
+    "Al-Monitor": 33,
+    "Arab News": 96,
     "France 24": 109,
     "The New York Times": 23,
     "AP News": 31,
@@ -17092,7 +17092,7 @@
    "sourceTone": {
     "WSJ": [
      0,
-     101,
+     102,
      0
     ],
     "The AFC": [
@@ -17107,12 +17107,12 @@
     ],
     "Al-Monitor": [
      0,
-     32,
+     33,
      0
     ],
     "Arab News": [
      0,
-     95,
+     96,
      0
     ],
     "France 24": [
@@ -17868,18 +17868,18 @@
    }
   },
   "2026-11-21": {
-   "total": 478,
-   "news": 475,
+   "total": 479,
+   "news": 476,
    "articles": 3,
    "positive": 0,
-   "neutral": 478,
+   "neutral": 479,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 41,
     "SA": 69,
     "GB": 117,
-    "FR": 66,
+    "FR": 67,
     "DE": 1,
     "HK": 1
    },
@@ -17915,7 +17915,7 @@
     "https://houseofsaud.com/": 4,
     "Gulf News": 2,
     "NDTV": 2,
-    "France 24": 64,
+    "France 24": 65,
     "Japan Today": 1,
     "Al Arabiya English": 1,
     "Dawn": 1,
@@ -18170,7 +18170,7 @@
     ],
     "France 24": [
      0,
-     64,
+     65,
      0
     ],
     "Japan Today": [
@@ -18676,18 +18676,18 @@
    }
   },
   "2026-11-22": {
-   "total": 251,
-   "news": 250,
+   "total": 257,
+   "news": 256,
    "articles": 1,
    "positive": 0,
-   "neutral": 251,
+   "neutral": 257,
    "critical": 0,
    "mbs": 5,
    "countries": {
-    "GB": 33,
+    "GB": 34,
     "SA": 44,
     "FR": 9,
-    "US": 32,
+    "US": 33,
     "HK": 4,
     "DE": 6,
     "JP": 1
@@ -18696,7 +18696,7 @@
    "sources": {
     "Breakingthenews.net": 3,
     "Reuters": 6,
-    "The Guardian": 17,
+    "The Guardian": 18,
     "Arab News": 38,
     "Anadolu Ajansı": 2,
     "France 24": 6,
@@ -18706,7 +18706,7 @@
     "BBC": 6,
     "Le Monde.fr": 3,
     "Financial Times": 3,
-    "The New York Times": 7,
+    "The New York Times": 8,
     "South China Morning Post": 4,
     "Spiegel": 6,
     "US Muslims": 2,
@@ -18725,7 +18725,7 @@
     "CairoScene": 1,
     "Devdiscourse": 1,
     "Independent Observer": 1,
-    "Global Advisory Experts": 6,
+    "Global Advisory Experts": 7,
     "DD News": 1,
     "Marine News Magazine": 2,
     "The Business Standard": 1,
@@ -18783,10 +18783,12 @@
     "The Times of India": 1,
     "Carbon Copy": 1,
     "fundsforNGOs - Grants and Resources for Sustainability": 1,
-    "Al Arabiya English": 1,
+    "Al Arabiya English": 2,
     "houseofsaud.com": 1,
     "DAZN": 1,
-    "BroadcastPro ME": 1
+    "BroadcastPro ME": 1,
+    "Daily Sabah": 1,
+    "The National Law Review": 1
    },
    "sourceTone": {
     "Breakingthenews.net": [
@@ -18801,7 +18803,7 @@
     ],
     "The Guardian": [
      0,
-     17,
+     18,
      0
     ],
     "Arab News": [
@@ -18851,7 +18853,7 @@
     ],
     "The New York Times": [
      0,
-     7,
+     8,
      0
     ],
     "South China Morning Post": [
@@ -18946,7 +18948,7 @@
     ],
     "Global Advisory Experts": [
      0,
-     6,
+     7,
      0
     ],
     "DD News": [
@@ -19236,7 +19238,7 @@
     ],
     "Al Arabiya English": [
      0,
-     1,
+     2,
      0
     ],
     "houseofsaud.com": [
@@ -19250,6 +19252,16 @@
      0
     ],
     "BroadcastPro ME": [
+     0,
+     1,
+     0
+    ],
+    "Daily Sabah": [
+     0,
+     1,
+     0
+    ],
+    "The National Law Review": [
      0,
      1,
      0
