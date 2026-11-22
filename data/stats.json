@@ -17868,18 +17868,18 @@
    }
   },
   "2026-11-21": {
-   "total": 456,
-   "news": 453,
+   "total": 462,
+   "news": 459,
    "articles": 3,
    "positive": 0,
-   "neutral": 456,
+   "neutral": 462,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "US": 33,
+    "US": 36,
     "SA": 66,
     "GB": 114,
-    "FR": 58,
+    "FR": 61,
     "DE": 1,
     "HK": 1
    },
@@ -17891,7 +17891,7 @@
     "الحرة": 1,
     "The Jerusalem Post": 1,
     "Українські Національні Новини (УНН)": 1,
-    "AP News": 10,
+    "AP News": 12,
     "Bloomberg.com": 5,
     "Khaleej Times": 1,
     "Financial Times": 4,
@@ -17915,7 +17915,7 @@
     "https://houseofsaud.com/": 4,
     "Gulf News": 2,
     "NDTV": 2,
-    "France 24": 57,
+    "France 24": 59,
     "Japan Today": 1,
     "Al Arabiya English": 1,
     "Dawn": 1,
@@ -17931,10 +17931,10 @@
     "The Malaysian Reserve": 1,
     "Arab News PK": 1,
     "Reuters": 29,
-    "Le Monde.fr": 2,
+    "Le Monde.fr": 3,
     "Saudi Gazette": 14,
     "X": 1,
-    "The New York Times": 3,
+    "The New York Times": 4,
     "Spiegel": 1,
     "BurgasMedia": 1,
     "CNN": 1,
@@ -18050,7 +18050,7 @@
     ],
     "AP News": [
      0,
-     10,
+     12,
      0
     ],
     "Bloomberg.com": [
@@ -18170,7 +18170,7 @@
     ],
     "France 24": [
      0,
-     57,
+     59,
      0
     ],
     "Japan Today": [
@@ -18250,7 +18250,7 @@
     ],
     "Le Monde.fr": [
      0,
-     2,
+     3,
      0
     ],
     "Saudi Gazette": [
@@ -18265,7 +18265,7 @@
     ],
     "The New York Times": [
      0,
-     3,
+     4,
      0
     ],
     "Spiegel": [
@@ -18676,39 +18676,39 @@
    }
   },
   "2026-11-22": {
-   "total": 129,
-   "news": 128,
+   "total": 163,
+   "news": 162,
    "articles": 1,
    "positive": 0,
-   "neutral": 129,
+   "neutral": 163,
    "critical": 0,
-   "mbs": 2,
+   "mbs": 3,
    "countries": {
-    "GB": 24,
-    "SA": 17,
-    "FR": 8,
-    "US": 19,
-    "HK": 3,
-    "DE": 3,
+    "GB": 33,
+    "SA": 23,
+    "FR": 9,
+    "US": 26,
+    "HK": 4,
+    "DE": 6,
     "JP": 1
    },
    "topics": {},
    "sources": {
     "Breakingthenews.net": 2,
-    "Reuters": 3,
-    "The Guardian": 13,
-    "Arab News": 16,
+    "Reuters": 6,
+    "The Guardian": 17,
+    "Arab News": 19,
     "Anadolu Ajansı": 1,
-    "France 24": 5,
-    "Al-Monitor": 7,
+    "France 24": 6,
+    "Al-Monitor": 10,
     "TRT World": 1,
     "The Washington Post": 3,
-    "BBC": 4,
+    "BBC": 6,
     "Le Monde.fr": 3,
     "Financial Times": 3,
-    "The New York Times": 4,
-    "South China Morning Post": 3,
-    "Spiegel": 3,
+    "The New York Times": 6,
+    "South China Morning Post": 4,
+    "Spiegel": 6,
     "US Muslims": 2,
     "The AFC": 3,
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 2,
@@ -18735,7 +18735,7 @@
     "Madhyamam": 1,
     "Firstpost": 1,
     "KLSE Screener": 1,
-    "Saudi Gazette": 5,
+    "Saudi Gazette": 8,
     "AP News": 3,
     "Investing.com": 1,
     "EA WorldView": 1,
@@ -18743,12 +18743,17 @@
     "8AM Media": 1,
     "Investing.com South Africa": 1,
     "Goal.com": 1,
-    "Bloomberg.com": 2,
+    "Bloomberg.com": 4,
     "WE News English": 1,
     "Nikkei Asia": 1,
     "WSJ": 1,
     "The Economist": 1,
-    "Inshorts": 1
+    "Inshorts": 1,
+    "ANTARA News": 1,
+    "The Arab Weekly": 1,
+    "Sports Illustrated": 1,
+    "وكالة الأنباء السعودية": 3,
+    "Jerusalem Center for Security and Foreign Affairs": 1
    },
    "sourceTone": {
     "Breakingthenews.net": [
@@ -18758,17 +18763,17 @@
     ],
     "Reuters": [
      0,
-     3,
+     6,
      0
     ],
     "The Guardian": [
      0,
-     13,
+     17,
      0
     ],
     "Arab News": [
      0,
-     16,
+     19,
      0
     ],
     "Anadolu Ajansı": [
@@ -18778,12 +18783,12 @@
     ],
     "France 24": [
      0,
-     5,
+     6,
      0
     ],
     "Al-Monitor": [
      0,
-     7,
+     10,
      0
     ],
     "TRT World": [
@@ -18798,7 +18803,7 @@
     ],
     "BBC": [
      0,
-     4,
+     6,
      0
     ],
     "Le Monde.fr": [
@@ -18813,17 +18818,17 @@
     ],
     "The New York Times": [
      0,
-     4,
+     6,
      0
     ],
     "South China Morning Post": [
      0,
-     3,
+     4,
      0
     ],
     "Spiegel": [
      0,
-     3,
+     6,
      0
     ],
     "US Muslims": [
@@ -18958,7 +18963,7 @@
     ],
     "Saudi Gazette": [
      0,
-     5,
+     8,
      0
     ],
     "AP News": [
@@ -18998,7 +19003,7 @@
     ],
     "Bloomberg.com": [
      0,
-     2,
+     4,
      0
     ],
     "WE News English": [
@@ -19022,6 +19027,31 @@
      0
     ],
     "Inshorts": [
+     0,
+     1,
+     0
+    ],
+    "ANTARA News": [
+     0,
+     1,
+     0
+    ],
+    "The Arab Weekly": [
+     0,
+     1,
+     0
+    ],
+    "Sports Illustrated": [
+     0,
+     1,
+     0
+    ],
+    "وكالة الأنباء السعودية": [
+     0,
+     3,
+     0
+    ],
+    "Jerusalem Center for Security and Foreign Affairs": [
      0,
      1,
      0
