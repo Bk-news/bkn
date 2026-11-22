@@ -16915,18 +16915,18 @@
    }
   },
   "2026-11-20": {
-   "total": 999,
-   "news": 982,
+   "total": 1008,
+   "news": 991,
    "articles": 17,
    "positive": 0,
-   "neutral": 999,
+   "neutral": 1008,
    "critical": 0,
-   "mbs": 7,
+   "mbs": 8,
    "countries": {
-    "US": 236,
-    "SA": 120,
-    "FR": 110,
-    "GB": 310,
+    "US": 238,
+    "SA": 123,
+    "FR": 112,
+    "GB": 312,
     "HK": 7,
     "DE": 7,
     "JP": 5
@@ -16936,14 +16936,14 @@
     "WSJ": 101,
     "The AFC": 1,
     "Atlantic Council": 8,
-    "Al-Monitor": 31,
-    "Arab News": 92,
-    "France 24": 107,
+    "Al-Monitor": 32,
+    "Arab News": 95,
+    "France 24": 109,
     "The New York Times": 23,
     "AP News": 31,
     "The Guardian": 97,
     "Financial Times": 27,
-    "BBC": 34,
+    "BBC": 35,
     "Yeni Safak English": 4,
     "Middle East Eye": 5,
     "X": 1,
@@ -16956,8 +16956,8 @@
     "cwibc.co.id": 1,
     "The New Arab": 3,
     "Al Jazeera": 2,
-    "Bloomberg.com": 36,
-    "Reuters": 147,
+    "Bloomberg.com": 37,
+    "Reuters": 148,
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -17107,17 +17107,17 @@
     ],
     "Al-Monitor": [
      0,
-     31,
+     32,
      0
     ],
     "Arab News": [
      0,
-     92,
+     95,
      0
     ],
     "France 24": [
      0,
-     107,
+     109,
      0
     ],
     "The New York Times": [
@@ -17142,7 +17142,7 @@
     ],
     "BBC": [
      0,
-     34,
+     35,
      0
     ],
     "Yeni Safak English": [
@@ -17207,12 +17207,12 @@
     ],
     "Bloomberg.com": [
      0,
-     36,
+     37,
      0
     ],
     "Reuters": [
      0,
-     147,
+     148,
      0
     ],
     "Bioengineer.org": [
@@ -17868,15 +17868,15 @@
    }
   },
   "2026-11-21": {
-   "total": 476,
-   "news": 473,
+   "total": 478,
+   "news": 475,
    "articles": 3,
    "positive": 0,
-   "neutral": 476,
+   "neutral": 478,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "US": 39,
+    "US": 41,
     "SA": 69,
     "GB": 117,
     "FR": 66,
@@ -17897,7 +17897,7 @@
     "Financial Times": 4,
     "The Guardian": 62,
     "Al-Monitor": 13,
-    "WSJ": 2,
+    "WSJ": 3,
     "ASHARQ AL-AWSAT English": 5,
     "Anadolu Ajansı": 5,
     "Middle East Eye": 4,
@@ -17934,7 +17934,7 @@
     "Le Monde.fr": 3,
     "Saudi Gazette": 14,
     "X": 1,
-    "The New York Times": 4,
+    "The New York Times": 5,
     "Spiegel": 1,
     "BurgasMedia": 1,
     "CNN": 1,
@@ -18080,7 +18080,7 @@
     ],
     "WSJ": [
      0,
-     2,
+     3,
      0
     ],
     "ASHARQ AL-AWSAT English": [
@@ -18265,7 +18265,7 @@
     ],
     "The New York Times": [
      0,
-     4,
+     5,
      0
     ],
     "Spiegel": [
@@ -18676,18 +18676,18 @@
    }
   },
   "2026-11-22": {
-   "total": 248,
-   "news": 247,
+   "total": 251,
+   "news": 250,
    "articles": 1,
    "positive": 0,
-   "neutral": 248,
+   "neutral": 251,
    "critical": 0,
    "mbs": 5,
    "countries": {
     "GB": 33,
     "SA": 44,
     "FR": 9,
-    "US": 31,
+    "US": 32,
     "HK": 4,
     "DE": 6,
     "JP": 1
@@ -18706,7 +18706,7 @@
     "BBC": 6,
     "Le Monde.fr": 3,
     "Financial Times": 3,
-    "The New York Times": 6,
+    "The New York Times": 7,
     "South China Morning Post": 4,
     "Spiegel": 6,
     "US Muslims": 2,
@@ -18784,7 +18784,9 @@
     "Carbon Copy": 1,
     "fundsforNGOs - Grants and Resources for Sustainability": 1,
     "Al Arabiya English": 1,
-    "houseofsaud.com": 1
+    "houseofsaud.com": 1,
+    "DAZN": 1,
+    "BroadcastPro ME": 1
    },
    "sourceTone": {
     "Breakingthenews.net": [
@@ -18849,7 +18851,7 @@
     ],
     "The New York Times": [
      0,
-     6,
+     7,
      0
     ],
     "South China Morning Post": [
@@ -19238,6 +19240,16 @@
      0
     ],
     "houseofsaud.com": [
+     0,
+     1,
+     0
+    ],
+    "DAZN": [
+     0,
+     1,
+     0
+    ],
+    "BroadcastPro ME": [
      0,
      1,
      0
