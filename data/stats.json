@@ -16915,16 +16915,16 @@
    }
   },
   "2026-11-20": {
-   "total": 1011,
-   "news": 994,
+   "total": 1012,
+   "news": 995,
    "articles": 17,
    "positive": 0,
-   "neutral": 1011,
+   "neutral": 1012,
    "critical": 0,
    "mbs": 8,
    "countries": {
     "US": 240,
-    "SA": 124,
+    "SA": 125,
     "FR": 112,
     "GB": 312,
     "HK": 7,
@@ -16937,7 +16937,7 @@
     "The AFC": 1,
     "Atlantic Council": 8,
     "Al-Monitor": 33,
-    "Arab News": 96,
+    "Arab News": 97,
     "France 24": 109,
     "The New York Times": 23,
     "AP News": 31,
@@ -17112,7 +17112,7 @@
     ],
     "Arab News": [
      0,
-     96,
+     97,
      0
     ],
     "France 24": [
