@@ -16915,15 +16915,15 @@
    }
   },
   "2026-11-20": {
-   "total": 1016,
-   "news": 999,
+   "total": 1017,
+   "news": 1000,
    "articles": 17,
    "positive": 0,
-   "neutral": 1016,
+   "neutral": 1017,
    "critical": 0,
    "mbs": 8,
    "countries": {
-    "US": 242,
+    "US": 243,
     "SA": 125,
     "FR": 112,
     "GB": 314,
@@ -16936,7 +16936,7 @@
     "WSJ": 102,
     "The AFC": 1,
     "Atlantic Council": 8,
-    "Al-Monitor": 34,
+    "Al-Monitor": 35,
     "Arab News": 97,
     "France 24": 109,
     "The New York Times": 23,
@@ -17107,7 +17107,7 @@
     ],
     "Al-Monitor": [
      0,
-     34,
+     35,
      0
     ],
     "Arab News": [
@@ -18676,11 +18676,11 @@
    }
   },
   "2026-11-22": {
-   "total": 289,
-   "news": 288,
+   "total": 293,
+   "news": 292,
    "articles": 1,
    "positive": 0,
-   "neutral": 289,
+   "neutral": 293,
    "critical": 0,
    "mbs": 5,
    "countries": {
@@ -18729,7 +18729,7 @@
     "DD News": 1,
     "Marine News Magazine": 2,
     "The Business Standard": 1,
-    "Yeni Safak English": 1,
+    "Yeni Safak English": 2,
     "Middle East Online": 2,
     "Gulf Today": 1,
     "Madhyamam": 1,
@@ -18794,7 +18794,10 @@
     "IndexBox": 1,
     "شبكة تواصل الإخبارية": 1,
     "www.marketscreener.com": 1,
-    "www.thenationalnews.com": 1
+    "www.thenationalnews.com": 1,
+    "The Rahnuma Daily": 1,
+    "نورنیوز": 1,
+    "IraqiNews": 1
    },
    "sourceTone": {
     "Breakingthenews.net": [
@@ -18974,7 +18977,7 @@
     ],
     "Yeni Safak English": [
      0,
-     1,
+     2,
      0
     ],
     "Middle East Online": [
@@ -19298,6 +19301,21 @@
      0
     ],
     "www.thenationalnews.com": [
+     0,
+     1,
+     0
+    ],
+    "The Rahnuma Daily": [
+     0,
+     1,
+     0
+    ],
+    "نورنیوز": [
+     0,
+     1,
+     0
+    ],
+    "IraqiNews": [
      0,
      1,
      0
