@@ -17868,17 +17868,17 @@
    }
   },
   "2026-11-21": {
-   "total": 408,
-   "news": 406,
+   "total": 409,
+   "news": 407,
    "articles": 2,
    "positive": 0,
-   "neutral": 408,
+   "neutral": 409,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 26,
     "SA": 65,
-    "GB": 105,
+    "GB": 106,
     "FR": 43,
     "DE": 1,
     "HK": 1
@@ -17895,7 +17895,7 @@
     "Bloomberg.com": 4,
     "Khaleej Times": 1,
     "Financial Times": 4,
-    "The Guardian": 52,
+    "The Guardian": 53,
     "Al-Monitor": 10,
     "WSJ": 2,
     "ASHARQ AL-AWSAT English": 5,
@@ -18060,7 +18060,7 @@
     ],
     "The Guardian": [
      0,
-     52,
+     53,
      0
     ],
     "Al-Monitor": [
