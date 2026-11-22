@@ -2,6 +2,27 @@
  "day": "2026-11-22",
  "items": [
   {
+   "id": "a6434e2b182c7726",
+   "origin": "rss",
+   "source": "Arab News",
+   "author": "",
+   "title_ar": "يقول بيسنت إن الولايات المتحدة تسعى للحصول على إجابات بشأن مبيعات Nvidia للرقائق إلى الصين",
+   "title_orig": "US seeks answers on Nvidia’s sale of chips to China, Bessent says",
+   "title_en": "US seeks answers on Nvidia’s sale of chips to China, Bessent says",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQblhqSkMzclJkakpfeV91UV9YLTZULTRQcFk2YnI0clcwR19jZWJYbFZjTEdaWHJQWGFKWXNhdG9zYkpzVzI5Vlc0cEhSQ1BrU2tPYVFkYVdORTdicFRtVWJhY1FzR2VnbFpzaDR0SHBrOUtWWmlmMjEtdDNzUko4YlhaZFRXWVJkYkZPRWt3aTY3M1B1Unc1eXVBZkRlLUR0R3RZTg?oc=5",
+   "published": "2026-11-22T16:20:35.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "SA",
+   "pending": true,
+   "desc": "US seeks answers on Nvidia’s sale of chips to China, Bessent says &nbsp;&nbsp; Arab News",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "608c14fad5702d58",
    "origin": "rss",
    "source": "Bloomberg.com",
