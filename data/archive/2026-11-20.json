@@ -3257,6 +3257,27 @@
    "mt": true
   },
   {
+   "id": "33c20287aa2f70d8",
+   "origin": "rss",
+   "source": "The Guardian",
+   "author": "",
+   "title_ar": "لجنة المراجعة: قرار مجهول المصدر",
+   "title_orig": "The review panel: anonymised decision",
+   "title_en": "The review panel: anonymised decision",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcTZENUxqV2w4ZTJPNk9OY0NNMXZQRTB2WGxMMkpGUDVWV29zOGhjUzgzMGtpZXpWZHpYcE8yS1NRclVEbHFqd0VRSnhrUi14Y0VsNXg0SHlidDkwQ0xFcl8tXzQxX0N2WW8xeDBSeWxPWkVPQ3Q0LVo2Qk53a1piQjFRRzZLcS1D?oc=5",
+   "published": "2026-11-20T18:37:00.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "The review panel: anonymised decision &nbsp;&nbsp; The Guardian",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "f662410c89e9e0d9",
    "origin": "rss",
    "source": "France 24",

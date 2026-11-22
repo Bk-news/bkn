@@ -16915,18 +16915,18 @@
    }
   },
   "2026-11-20": {
-   "total": 1012,
-   "news": 995,
+   "total": 1013,
+   "news": 996,
    "articles": 17,
    "positive": 0,
-   "neutral": 1012,
+   "neutral": 1013,
    "critical": 0,
    "mbs": 8,
    "countries": {
     "US": 240,
     "SA": 125,
     "FR": 112,
-    "GB": 312,
+    "GB": 313,
     "HK": 7,
     "DE": 7,
     "JP": 5
@@ -16941,7 +16941,7 @@
     "France 24": 109,
     "The New York Times": 23,
     "AP News": 31,
-    "The Guardian": 97,
+    "The Guardian": 98,
     "Financial Times": 27,
     "BBC": 35,
     "Yeni Safak English": 4,
@@ -17132,7 +17132,7 @@
     ],
     "The Guardian": [
      0,
-     97,
+     98,
      0
     ],
     "Financial Times": [
@@ -18676,16 +18676,16 @@
    }
   },
   "2026-11-22": {
-   "total": 263,
-   "news": 262,
+   "total": 272,
+   "news": 271,
    "articles": 1,
    "positive": 0,
-   "neutral": 263,
+   "neutral": 272,
    "critical": 0,
    "mbs": 5,
    "countries": {
-    "GB": 35,
-    "SA": 45,
+    "GB": 38,
+    "SA": 49,
     "FR": 9,
     "US": 34,
     "HK": 4,
@@ -18696,8 +18696,8 @@
    "sources": {
     "Breakingthenews.net": 3,
     "Reuters": 6,
-    "The Guardian": 19,
-    "Arab News": 39,
+    "The Guardian": 22,
+    "Arab News": 43,
     "Anadolu Ajansı": 2,
     "France 24": 6,
     "Al-Monitor": 14,
@@ -18712,7 +18712,7 @@
     "US Muslims": 2,
     "The AFC": 3,
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 2,
-    "ASHARQ AL-AWSAT English": 1,
+    "ASHARQ AL-AWSAT English": 2,
     "Deccan Chronicle": 1,
     "https://houseofsaud.com/": 4,
     "ABNA English": 2,
@@ -18784,7 +18784,7 @@
     "Carbon Copy": 1,
     "fundsforNGOs - Grants and Resources for Sustainability": 1,
     "Al Arabiya English": 2,
-    "houseofsaud.com": 1,
+    "houseofsaud.com": 2,
     "DAZN": 1,
     "BroadcastPro ME": 1,
     "Daily Sabah": 1,
@@ -18804,12 +18804,12 @@
     ],
     "The Guardian": [
      0,
-     19,
+     22,
      0
     ],
     "Arab News": [
      0,
-     39,
+     43,
      0
     ],
     "Anadolu Ajansı": [
@@ -18884,7 +18884,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     1,
+     2,
      0
     ],
     "Deccan Chronicle": [
@@ -19244,7 +19244,7 @@
     ],
     "houseofsaud.com": [
      0,
-     1,
+     2,
      0
     ],
     "DAZN": [
