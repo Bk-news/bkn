@@ -16915,17 +16915,17 @@
    }
   },
   "2026-11-20": {
-   "total": 968,
-   "news": 951,
+   "total": 969,
+   "news": 952,
    "articles": 17,
    "positive": 0,
-   "neutral": 968,
+   "neutral": 969,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 227,
     "SA": 114,
-    "FR": 102,
+    "FR": 103,
     "GB": 303,
     "HK": 7,
     "DE": 6,
@@ -16938,7 +16938,7 @@
     "Atlantic Council": 8,
     "Al-Monitor": 30,
     "Arab News": 88,
-    "France 24": 99,
+    "France 24": 100,
     "The New York Times": 21,
     "AP News": 30,
     "The Guardian": 95,
@@ -17117,7 +17117,7 @@
     ],
     "France 24": [
      0,
-     99,
+     100,
      0
     ],
     "The New York Times": [
@@ -17868,18 +17868,18 @@
    }
   },
   "2026-11-21": {
-   "total": 446,
-   "news": 443,
+   "total": 449,
+   "news": 446,
    "articles": 3,
    "positive": 0,
-   "neutral": 446,
+   "neutral": 449,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 30,
     "SA": 66,
     "GB": 114,
-    "FR": 55,
+    "FR": 58,
     "DE": 1,
     "HK": 1
    },
@@ -17915,7 +17915,7 @@
     "https://houseofsaud.com/": 4,
     "Gulf News": 2,
     "NDTV": 2,
-    "France 24": 54,
+    "France 24": 57,
     "Japan Today": 1,
     "Al Arabiya English": 1,
     "Dawn": 1,
@@ -18167,7 +18167,7 @@
     ],
     "France 24": [
      0,
-     54,
+     57,
      0
     ],
     "Japan Today": [
@@ -18658,11 +18658,11 @@
    }
   },
   "2026-11-22": {
-   "total": 68,
-   "news": 68,
+   "total": 69,
+   "news": 69,
    "articles": 0,
    "positive": 0,
-   "neutral": 68,
+   "neutral": 69,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -18710,7 +18710,8 @@
     "DD News": 1,
     "Marine News Magazine": 2,
     "The Business Standard": 1,
-    "Yeni Safak English": 1
+    "Yeni Safak English": 1,
+    "Middle East Online": 1
    },
    "sourceTone": {
     "Breakingthenews.net": [
@@ -18889,6 +18890,11 @@
      0
     ],
     "Yeni Safak English": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Online": [
      0,
      1,
      0

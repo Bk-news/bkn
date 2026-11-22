@@ -2,6 +2,27 @@
  "day": "2026-11-22",
  "items": [
   {
+   "id": "e6db6b1b6977eea6",
+   "origin": "rss",
+   "source": "Middle East Online",
+   "author": "",
+   "title_ar": "هجمات الحوثيين تعقد مساعي ترامب للتوصل إلى اتفاق نووي سعودي",
+   "title_orig": "Houthi attacks complicate Trump’s push for Saudi nuclear deal",
+   "title_en": "Houthi attacks complicate Trump’s push for Saudi nuclear deal",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUnFoOE5LS3BnOVdUajhJdUFtUWhDNFNUT0tJUjZmQ01PRUlNckJZdlBmY0lBemg2TGxSQ09WZi14QmFsTkptTndJcnFBdlU4dzZjWWliY1dORVgxNXdBZFgzSUtETlNBdVlCMmJYeEd2cC1xY2xhRzQtcUlpMGdWYnhXTUV2amxjY3RVc1YyOFlMcjcwTEVOY1NEWGhPT3pV?oc=5",
+   "published": "2026-11-22T07:48:15.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "",
+   "pending": true,
+   "desc": "Houthi attacks complicate Trump’s push for Saudi nuclear deal &nbsp;&nbsp; Middle East Online",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "8d6c3db63a0b20ae",
    "origin": "rss",
    "source": "Yeni Safak English",
