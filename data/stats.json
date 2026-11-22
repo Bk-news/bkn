@@ -18676,16 +18676,16 @@
    }
   },
   "2026-11-22": {
-   "total": 414,
-   "news": 412,
+   "total": 423,
+   "news": 421,
    "articles": 2,
    "positive": 0,
-   "neutral": 414,
+   "neutral": 423,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "GB": 89,
-    "SA": 70,
+    "SA": 72,
     "FR": 16,
     "US": 46,
     "HK": 4,
@@ -18697,7 +18697,7 @@
     "Breakingthenews.net": 3,
     "Reuters": 33,
     "The Guardian": 41,
-    "Arab News": 64,
+    "Arab News": 66,
     "Anadolu Ajansı": 3,
     "France 24": 10,
     "Al-Monitor": 16,
@@ -18725,7 +18725,7 @@
     "CairoScene": 1,
     "Devdiscourse": 1,
     "Independent Observer": 1,
-    "Global Advisory Experts": 7,
+    "Global Advisory Experts": 8,
     "DD News": 1,
     "Marine News Magazine": 2,
     "The Business Standard": 1,
@@ -18799,7 +18799,7 @@
     "نورنیوز": 1,
     "IraqiNews": 1,
     "A&E Magazine": 1,
-    "Fana News -": 1,
+    "Fana News -": 3,
     "Yemen Online": 1,
     "Critical Threats": 1,
     "PressReader": 1,
@@ -18811,7 +18811,11 @@
     "Briefs Finance": 1,
     "The Times": 1,
     "CNN": 1,
-    "Bankingnews": 1
+    "Bankingnews": 1,
+    "Daily Sun": 1,
+    "Defence Industry Europe": 1,
+    "Dallas Express": 1,
+    "Luxurious Magazine": 1
    },
    "sourceTone": {
     "Breakingthenews.net": [
@@ -18831,7 +18835,7 @@
     ],
     "Arab News": [
      0,
-     64,
+     66,
      0
     ],
     "Anadolu Ajansı": [
@@ -18971,7 +18975,7 @@
     ],
     "Global Advisory Experts": [
      0,
-     7,
+     8,
      0
     ],
     "DD News": [
@@ -19341,7 +19345,7 @@
     ],
     "Fana News -": [
      0,
-     1,
+     3,
      0
     ],
     "Yemen Online": [
@@ -19400,6 +19404,26 @@
      0
     ],
     "Bankingnews": [
+     0,
+     1,
+     0
+    ],
+    "Daily Sun": [
+     0,
+     1,
+     0
+    ],
+    "Defence Industry Europe": [
+     0,
+     1,
+     0
+    ],
+    "Dallas Express": [
+     0,
+     1,
+     0
+    ],
+    "Luxurious Magazine": [
      0,
      1,
      0
