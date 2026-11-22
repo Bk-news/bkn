@@ -17868,11 +17868,11 @@
    }
   },
   "2026-11-21": {
-   "total": 409,
-   "news": 407,
+   "total": 410,
+   "news": 408,
    "articles": 2,
    "positive": 0,
-   "neutral": 409,
+   "neutral": 410,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -17949,7 +17949,7 @@
     "Rigzone": 1,
     "MorungExpress": 1,
     "Middle East Monitor": 1,
-    "Breakingthenews.net": 2,
+    "Breakingthenews.net": 3,
     "The Peninsula Qatar": 1,
     "アラブニュース": 1,
     "The Arab Weekly": 1,
@@ -18330,7 +18330,7 @@
     ],
     "Breakingthenews.net": [
      0,
-     2,
+     3,
      0
     ],
     "The Peninsula Qatar": [
