@@ -17868,17 +17868,17 @@
    }
   },
   "2026-11-21": {
-   "total": 482,
-   "news": 479,
+   "total": 484,
+   "news": 481,
    "articles": 3,
    "positive": 0,
-   "neutral": 482,
+   "neutral": 484,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 42,
     "SA": 69,
-    "GB": 117,
+    "GB": 119,
     "FR": 69,
     "DE": 1,
     "HK": 1
@@ -17930,7 +17930,7 @@
     "Nacionale": 1,
     "The Malaysian Reserve": 1,
     "Arab News PK": 1,
-    "Reuters": 30,
+    "Reuters": 32,
     "Le Monde.fr": 3,
     "Saudi Gazette": 14,
     "X": 1,
@@ -18245,7 +18245,7 @@
     ],
     "Reuters": [
      0,
-     30,
+     32,
      0
     ],
     "Le Monde.fr": [
@@ -18676,11 +18676,11 @@
    }
   },
   "2026-11-22": {
-   "total": 272,
-   "news": 271,
+   "total": 274,
+   "news": 273,
    "articles": 1,
    "positive": 0,
-   "neutral": 272,
+   "neutral": 274,
    "critical": 0,
    "mbs": 5,
    "countries": {
@@ -18789,7 +18789,9 @@
     "BroadcastPro ME": 1,
     "Daily Sabah": 1,
     "The National Law Review": 1,
-    "The Independent": 1
+    "The Independent": 1,
+    "وكالة سبأ": 1,
+    "IndexBox": 1
    },
    "sourceTone": {
     "Breakingthenews.net": [
@@ -19268,6 +19270,16 @@
      0
     ],
     "The Independent": [
+     0,
+     1,
+     0
+    ],
+    "وكالة سبأ": [
+     0,
+     1,
+     0
+    ],
+    "IndexBox": [
      0,
      1,
      0
