@@ -18676,18 +18676,18 @@
    }
   },
   "2026-11-22": {
-   "total": 402,
-   "news": 400,
+   "total": 403,
+   "news": 401,
    "articles": 2,
    "positive": 0,
-   "neutral": 402,
+   "neutral": 403,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "GB": 82,
     "SA": 68,
     "FR": 16,
-    "US": 45,
+    "US": 46,
     "HK": 4,
     "DE": 11,
     "JP": 1
@@ -18809,7 +18809,8 @@
     "Internazionale": 1,
     "파이낸셜뉴스": 1,
     "Briefs Finance": 1,
-    "The Times": 1
+    "The Times": 1,
+    "CNN": 1
    },
    "sourceTone": {
     "Breakingthenews.net": [
@@ -19388,6 +19389,11 @@
      0
     ],
     "The Times": [
+     0,
+     1,
+     0
+    ],
+    "CNN": [
      0,
      1,
      0
