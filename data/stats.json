@@ -17868,11 +17868,11 @@
    }
   },
   "2026-11-21": {
-   "total": 453,
-   "news": 450,
+   "total": 454,
+   "news": 451,
    "articles": 3,
    "positive": 0,
-   "neutral": 453,
+   "neutral": 454,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -18014,7 +18014,8 @@
     "Fragomen": 1,
     "Fast Company Middle East": 1,
     "JournalArta": 1,
-    "Türkiye Today": 2
+    "Türkiye Today": 2,
+    "Arab Times Kuwait News": 1
    },
    "sourceTone": {
     "The Washington Post": [
@@ -18665,6 +18666,11 @@
     "Türkiye Today": [
      0,
      2,
+     0
+    ],
+    "Arab Times Kuwait News": [
+     0,
+     1,
      0
     ]
    }
