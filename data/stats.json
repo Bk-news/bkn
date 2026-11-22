@@ -17868,11 +17868,11 @@
    }
   },
   "2026-11-21": {
-   "total": 416,
-   "news": 414,
+   "total": 418,
+   "news": 416,
    "articles": 2,
    "positive": 0,
-   "neutral": 416,
+   "neutral": 418,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -17989,7 +17989,7 @@
     "ANTARA News": 1,
     "Dhaka Tribune": 1,
     "Critical Threats": 2,
-    "TradeArabia": 2,
+    "TradeArabia": 3,
     "Wisevoter": 1,
     "مركز سوث24": 1,
     "BBC Wildlife Magazine": 1,
@@ -18003,7 +18003,7 @@
     "SaudiGulf Projects": 1,
     "US Muslims": 1,
     "lovin.co": 1,
-    "اسلام تايمز": 1,
+    "اسلام تايمز": 2,
     "thenationalnews.com": 1,
     "Times of Suriname": 1
    },
@@ -18530,7 +18530,7 @@
     ],
     "TradeArabia": [
      0,
-     2,
+     3,
      0
     ],
     "Wisevoter": [
@@ -18600,7 +18600,7 @@
     ],
     "اسلام تايمز": [
      0,
-     1,
+     2,
      0
     ],
     "thenationalnews.com": [
