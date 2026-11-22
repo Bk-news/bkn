@@ -18676,11 +18676,11 @@
    }
   },
   "2026-11-22": {
-   "total": 285,
-   "news": 284,
+   "total": 286,
+   "news": 285,
    "articles": 1,
    "positive": 0,
-   "neutral": 285,
+   "neutral": 286,
    "critical": 0,
    "mbs": 5,
    "countries": {
@@ -18793,7 +18793,8 @@
     "وكالة سبأ": 1,
     "IndexBox": 1,
     "شبكة تواصل الإخبارية": 1,
-    "www.marketscreener.com": 1
+    "www.marketscreener.com": 1,
+    "www.thenationalnews.com": 1
    },
    "sourceTone": {
     "Breakingthenews.net": [
@@ -19292,6 +19293,11 @@
      0
     ],
     "www.marketscreener.com": [
+     0,
+     1,
+     0
+    ],
+    "www.thenationalnews.com": [
      0,
      1,
      0
