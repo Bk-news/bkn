@@ -18676,17 +18676,17 @@
    }
   },
   "2026-11-22": {
-   "total": 282,
-   "news": 281,
+   "total": 284,
+   "news": 283,
    "articles": 1,
    "positive": 0,
-   "neutral": 282,
+   "neutral": 284,
    "critical": 0,
    "mbs": 5,
    "countries": {
     "GB": 43,
     "SA": 50,
-    "FR": 9,
+    "FR": 10,
     "US": 34,
     "HK": 4,
     "DE": 8,
@@ -18704,7 +18704,7 @@
     "TRT World": 1,
     "The Washington Post": 3,
     "BBC": 6,
-    "Le Monde.fr": 3,
+    "Le Monde.fr": 4,
     "Financial Times": 3,
     "The New York Times": 8,
     "South China Morning Post": 4,
@@ -18742,7 +18742,7 @@
     "News On AIR": 1,
     "8AM Media": 1,
     "Investing.com South Africa": 1,
-    "Goal.com": 1,
+    "Goal.com": 2,
     "Bloomberg.com": 5,
     "WE News English": 1,
     "Nikkei Asia": 1,
@@ -18847,7 +18847,7 @@
     ],
     "Le Monde.fr": [
      0,
-     3,
+     4,
      0
     ],
     "Financial Times": [
@@ -19037,7 +19037,7 @@
     ],
     "Goal.com": [
      0,
-     1,
+     2,
      0
     ],
     "Bloomberg.com": [
