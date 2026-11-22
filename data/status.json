@@ -1,21 +1,26 @@
 {
- "run": "2026-11-22T08:14:54.172Z",
+ "run": "2026-11-22T08:15:54.335Z",
  "key": true,
  "model": "claude-haiku-5-5",
- "feedsOk": 24,
- "feedsFailed": [],
- "fetched": 782,
- "fresh": 0,
- "world": 0,
+ "feedsOk": 21,
+ "feedsFailed": [
+  "Global – Crown Prince: HTTP 429",
+  "AP: HTTP 429",
+  "Financial Times: HTTP 429"
+ ],
+ "fetched": 735,
+ "fresh": 1,
+ "world": 1,
  "analyzed": 0,
- "analyzeErrors": 0,
- "lastError": "Anthropic 401: {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChHdggXBHzY7FhTWthZX3\"}",
+ "analyzeErrors": 1,
+ "lastError": "Anthropic 401: {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChHdm91VaN1FdPbJV22s5\"}",
  "telegram": 20,
  "royal": 0,
+ "mt": 1,
  "keyRejected": true,
- "pending": 777,
+ "pending": 778,
  "added": {
-  "news": 0,
+  "news": 1,
   "articles": 0,
   "breaking": 0
  }
