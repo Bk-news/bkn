@@ -16915,15 +16915,15 @@
    }
   },
   "2026-11-20": {
-   "total": 934,
-   "news": 917,
+   "total": 935,
+   "news": 918,
    "articles": 17,
    "positive": 0,
-   "neutral": 934,
+   "neutral": 935,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 224,
+    "US": 225,
     "SA": 108,
     "FR": 83,
     "GB": 298,
@@ -16940,7 +16940,7 @@
     "Arab News": 83,
     "France 24": 80,
     "The New York Times": 21,
-    "AP News": 28,
+    "AP News": 29,
     "The Guardian": 91,
     "Financial Times": 26,
     "BBC": 33,
@@ -17127,7 +17127,7 @@
     ],
     "AP News": [
      0,
-     28,
+     29,
      0
     ],
     "The Guardian": [
