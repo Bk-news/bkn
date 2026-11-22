@@ -16915,18 +16915,18 @@
    }
   },
   "2026-11-20": {
-   "total": 949,
-   "news": 932,
+   "total": 962,
+   "news": 945,
    "articles": 17,
    "positive": 0,
-   "neutral": 949,
+   "neutral": 962,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 226,
-    "SA": 112,
-    "FR": 90,
-    "GB": 299,
+    "SA": 113,
+    "FR": 99,
+    "GB": 302,
     "HK": 7,
     "DE": 6,
     "JP": 5
@@ -16937,11 +16937,11 @@
     "The AFC": 1,
     "Atlantic Council": 8,
     "Al-Monitor": 29,
-    "Arab News": 87,
-    "France 24": 87,
+    "Arab News": 88,
+    "France 24": 96,
     "The New York Times": 21,
     "AP News": 30,
-    "The Guardian": 92,
+    "The Guardian": 95,
     "Financial Times": 26,
     "BBC": 33,
     "Yeni Safak English": 4,
@@ -17112,12 +17112,12 @@
     ],
     "Arab News": [
      0,
-     87,
+     88,
      0
     ],
     "France 24": [
      0,
-     87,
+     96,
      0
     ],
     "The New York Times": [
@@ -17132,7 +17132,7 @@
     ],
     "The Guardian": [
      0,
-     92,
+     95,
      0
     ],
     "Financial Times": [
@@ -17868,18 +17868,18 @@
    }
   },
   "2026-11-21": {
-   "total": 432,
-   "news": 430,
+   "total": 438,
+   "news": 436,
    "articles": 2,
    "positive": 0,
-   "neutral": 432,
+   "neutral": 438,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 29,
     "SA": 66,
     "GB": 112,
-    "FR": 53,
+    "FR": 55,
     "DE": 1,
     "HK": 1
    },
@@ -17915,7 +17915,7 @@
     "https://houseofsaud.com/": 4,
     "Gulf News": 2,
     "NDTV": 2,
-    "France 24": 52,
+    "France 24": 54,
     "Japan Today": 1,
     "Al Arabiya English": 1,
     "Dawn": 1,
@@ -17939,7 +17939,7 @@
     "BurgasMedia": 1,
     "CNN": 1,
     "Investing.com": 1,
-    "The National": 2,
+    "The National": 3,
     "Forbes Middle East": 2,
     "Britannica": 2,
     "The AFC": 2,
@@ -18005,7 +18005,10 @@
     "lovin.co": 1,
     "اسلام تايمز": 2,
     "thenationalnews.com": 1,
-    "Times of Suriname": 1
+    "Times of Suriname": 1,
+    "Flightradar24": 1,
+    "Daily Sun": 1,
+    "Taipei Times": 1
    },
    "sourceTone": {
     "The Washington Post": [
@@ -18160,7 +18163,7 @@
     ],
     "France 24": [
      0,
-     52,
+     54,
      0
     ],
     "Japan Today": [
@@ -18280,7 +18283,7 @@
     ],
     "The National": [
      0,
-     2,
+     3,
      0
     ],
     "Forbes Middle East": [
@@ -18612,15 +18615,30 @@
      0,
      1,
      0
+    ],
+    "Flightradar24": [
+     0,
+     1,
+     0
+    ],
+    "Daily Sun": [
+     0,
+     1,
+     0
+    ],
+    "Taipei Times": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-22": {
-   "total": 40,
-   "news": 40,
+   "total": 50,
+   "news": 50,
    "articles": 0,
    "positive": 0,
-   "neutral": 40,
+   "neutral": 50,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -18636,7 +18654,7 @@
     "Breakingthenews.net": 2,
     "Reuters": 1,
     "The Guardian": 8,
-    "Arab News": 4,
+    "Arab News": 5,
     "Anadolu Ajansı": 1,
     "France 24": 2,
     "Al-Monitor": 5,
@@ -18649,11 +18667,18 @@
     "South China Morning Post": 1,
     "Spiegel": 1,
     "US Muslims": 1,
-    "The AFC": 2,
+    "The AFC": 3,
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1,
     "ASHARQ AL-AWSAT English": 1,
     "Deccan Chronicle": 1,
-    "https://houseofsaud.com/": 1
+    "https://houseofsaud.com/": 2,
+    "ABNA English": 1,
+    "i24NEWS": 1,
+    "Українські Національні Новини (УНН)": 1,
+    "Mehr News Agency": 1,
+    "Telangana Today": 1,
+    "www.sportingnews.com": 1,
+    "Fubo": 1
    },
    "sourceTone": {
     "Breakingthenews.net": [
@@ -18673,7 +18698,7 @@
     ],
     "Arab News": [
      0,
-     4,
+     5,
      0
     ],
     "Anadolu Ajansı": [
@@ -18738,7 +18763,7 @@
     ],
     "The AFC": [
      0,
-     2,
+     3,
      0
     ],
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": [
@@ -18757,6 +18782,41 @@
      0
     ],
     "https://houseofsaud.com/": [
+     0,
+     2,
+     0
+    ],
+    "ABNA English": [
+     0,
+     1,
+     0
+    ],
+    "i24NEWS": [
+     0,
+     1,
+     0
+    ],
+    "Українські Національні Новини (УНН)": [
+     0,
+     1,
+     0
+    ],
+    "Mehr News Agency": [
+     0,
+     1,
+     0
+    ],
+    "Telangana Today": [
+     0,
+     1,
+     0
+    ],
+    "www.sportingnews.com": [
+     0,
+     1,
+     0
+    ],
+    "Fubo": [
      0,
      1,
      0
