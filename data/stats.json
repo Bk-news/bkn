@@ -17868,18 +17868,18 @@
    }
   },
   "2026-11-21": {
-   "total": 419,
-   "news": 417,
+   "total": 432,
+   "news": 430,
    "articles": 2,
    "positive": 0,
-   "neutral": 419,
+   "neutral": 432,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "US": 26,
-    "SA": 65,
-    "GB": 110,
-    "FR": 46,
+    "US": 29,
+    "SA": 66,
+    "GB": 112,
+    "FR": 53,
     "DE": 1,
     "HK": 1
    },
@@ -17887,16 +17887,16 @@
    "sources": {
     "The Washington Post": 2,
     "www.marketscreener.com": 1,
-    "Arab News": 62,
+    "Arab News": 63,
     "الحرة": 1,
     "The Jerusalem Post": 1,
     "Українські Національні Новини (УНН)": 1,
-    "AP News": 6,
+    "AP News": 7,
     "Bloomberg.com": 4,
     "Khaleej Times": 1,
     "Financial Times": 4,
-    "The Guardian": 57,
-    "Al-Monitor": 10,
+    "The Guardian": 59,
+    "Al-Monitor": 11,
     "WSJ": 2,
     "ASHARQ AL-AWSAT English": 5,
     "Anadolu Ajansı": 5,
@@ -17915,7 +17915,7 @@
     "https://houseofsaud.com/": 4,
     "Gulf News": 2,
     "NDTV": 2,
-    "France 24": 45,
+    "France 24": 52,
     "Japan Today": 1,
     "Al Arabiya English": 1,
     "Dawn": 1,
@@ -17934,7 +17934,7 @@
     "Le Monde.fr": 2,
     "Saudi Gazette": 14,
     "X": 1,
-    "The New York Times": 2,
+    "The New York Times": 3,
     "Spiegel": 1,
     "BurgasMedia": 1,
     "CNN": 1,
@@ -18020,7 +18020,7 @@
     ],
     "Arab News": [
      0,
-     62,
+     63,
      0
     ],
     "الحرة": [
@@ -18040,7 +18040,7 @@
     ],
     "AP News": [
      0,
-     6,
+     7,
      0
     ],
     "Bloomberg.com": [
@@ -18060,12 +18060,12 @@
     ],
     "The Guardian": [
      0,
-     57,
+     59,
      0
     ],
     "Al-Monitor": [
      0,
-     10,
+     11,
      0
     ],
     "WSJ": [
@@ -18160,7 +18160,7 @@
     ],
     "France 24": [
      0,
-     45,
+     52,
      0
     ],
     "Japan Today": [
@@ -18255,7 +18255,7 @@
     ],
     "The New York Times": [
      0,
-     2,
+     3,
      0
     ],
     "Spiegel": [
@@ -18616,34 +18616,49 @@
    }
   },
   "2026-11-22": {
-   "total": 13,
-   "news": 13,
+   "total": 40,
+   "news": 40,
    "articles": 0,
    "positive": 0,
-   "neutral": 13,
+   "neutral": 40,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 4,
-    "SA": 2,
-    "FR": 2,
-    "US": 2
+    "GB": 13,
+    "SA": 4,
+    "FR": 3,
+    "US": 6,
+    "HK": 1,
+    "DE": 1
    },
    "topics": {},
    "sources": {
-    "Breakingthenews.net": 1,
+    "Breakingthenews.net": 2,
     "Reuters": 1,
-    "The Guardian": 3,
-    "Arab News": 2,
+    "The Guardian": 8,
+    "Arab News": 4,
     "Anadolu Ajansı": 1,
     "France 24": 2,
-    "Al-Monitor": 2,
-    "TRT World": 1
+    "Al-Monitor": 5,
+    "TRT World": 1,
+    "The Washington Post": 1,
+    "BBC": 2,
+    "Le Monde.fr": 1,
+    "Financial Times": 2,
+    "The New York Times": 1,
+    "South China Morning Post": 1,
+    "Spiegel": 1,
+    "US Muslims": 1,
+    "The AFC": 2,
+    "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1,
+    "ASHARQ AL-AWSAT English": 1,
+    "Deccan Chronicle": 1,
+    "https://houseofsaud.com/": 1
    },
    "sourceTone": {
     "Breakingthenews.net": [
      0,
-     1,
+     2,
      0
     ],
     "Reuters": [
@@ -18653,12 +18668,12 @@
     ],
     "The Guardian": [
      0,
-     3,
+     8,
      0
     ],
     "Arab News": [
      0,
-     2,
+     4,
      0
     ],
     "Anadolu Ajansı": [
@@ -18673,10 +18688,75 @@
     ],
     "Al-Monitor": [
      0,
-     2,
+     5,
      0
     ],
     "TRT World": [
+     0,
+     1,
+     0
+    ],
+    "The Washington Post": [
+     0,
+     1,
+     0
+    ],
+    "BBC": [
+     0,
+     2,
+     0
+    ],
+    "Le Monde.fr": [
+     0,
+     1,
+     0
+    ],
+    "Financial Times": [
+     0,
+     2,
+     0
+    ],
+    "The New York Times": [
+     0,
+     1,
+     0
+    ],
+    "South China Morning Post": [
+     0,
+     1,
+     0
+    ],
+    "Spiegel": [
+     0,
+     1,
+     0
+    ],
+    "US Muslims": [
+     0,
+     1,
+     0
+    ],
+    "The AFC": [
+     0,
+     2,
+     0
+    ],
+    "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": [
+     0,
+     1,
+     0
+    ],
+    "ASHARQ AL-AWSAT English": [
+     0,
+     1,
+     0
+    ],
+    "Deccan Chronicle": [
+     0,
+     1,
+     0
+    ],
+    "https://houseofsaud.com/": [
      0,
      1,
      0
