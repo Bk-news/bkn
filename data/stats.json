@@ -16915,18 +16915,18 @@
    }
   },
   "2026-11-20": {
-   "total": 908,
-   "news": 891,
+   "total": 915,
+   "news": 898,
    "articles": 17,
    "positive": 0,
-   "neutral": 908,
+   "neutral": 915,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 222,
-    "SA": 101,
-    "FR": 77,
-    "GB": 287,
+    "US": 223,
+    "SA": 103,
+    "FR": 78,
+    "GB": 290,
     "HK": 7,
     "DE": 6,
     "JP": 4
@@ -16937,12 +16937,12 @@
     "The AFC": 1,
     "Atlantic Council": 8,
     "Al-Monitor": 29,
-    "Arab News": 79,
-    "France 24": 74,
+    "Arab News": 80,
+    "France 24": 75,
     "The New York Times": 21,
     "AP News": 28,
-    "The Guardian": 85,
-    "Financial Times": 25,
+    "The Guardian": 87,
+    "Financial Times": 26,
     "BBC": 31,
     "Yeni Safak English": 4,
     "Middle East Eye": 5,
@@ -16956,12 +16956,12 @@
     "cwibc.co.id": 1,
     "The New Arab": 3,
     "Al Jazeera": 2,
-    "Bloomberg.com": 33,
+    "Bloomberg.com": 34,
     "Reuters": 141,
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
-    "Saudi Gazette": 34,
+    "Saudi Gazette": 35,
     "The Economist": 8,
     "Daily Sabah": 2,
     "South China Morning Post": 7,
@@ -17112,12 +17112,12 @@
     ],
     "Arab News": [
      0,
-     79,
+     80,
      0
     ],
     "France 24": [
      0,
-     74,
+     75,
      0
     ],
     "The New York Times": [
@@ -17132,12 +17132,12 @@
     ],
     "The Guardian": [
      0,
-     85,
+     87,
      0
     ],
     "Financial Times": [
      0,
-     25,
+     26,
      0
     ],
     "BBC": [
@@ -17207,7 +17207,7 @@
     ],
     "Bloomberg.com": [
      0,
-     33,
+     34,
      0
     ],
     "Reuters": [
@@ -17232,7 +17232,7 @@
     ],
     "Saudi Gazette": [
      0,
-     34,
+     35,
      0
     ],
     "The Economist": [
@@ -17868,17 +17868,17 @@
    }
   },
   "2026-11-21": {
-   "total": 393,
-   "news": 391,
+   "total": 394,
+   "news": 392,
    "articles": 2,
    "positive": 0,
-   "neutral": 393,
+   "neutral": 394,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 26,
     "SA": 63,
-    "GB": 102,
+    "GB": 103,
     "FR": 43,
     "DE": 1,
     "HK": 1
@@ -17895,7 +17895,7 @@
     "Bloomberg.com": 4,
     "Khaleej Times": 1,
     "Financial Times": 4,
-    "The Guardian": 49,
+    "The Guardian": 50,
     "Al-Monitor": 10,
     "WSJ": 2,
     "ASHARQ AL-AWSAT English": 5,
@@ -18053,7 +18053,7 @@
     ],
     "The Guardian": [
      0,
-     49,
+     50,
      0
     ],
     "Al-Monitor": [
