@@ -18676,15 +18676,15 @@
    }
   },
   "2026-11-22": {
-   "total": 426,
-   "news": 424,
+   "total": 427,
+   "news": 425,
    "articles": 2,
    "positive": 0,
-   "neutral": 426,
+   "neutral": 427,
    "critical": 0,
    "mbs": 6,
    "countries": {
-    "GB": 90,
+    "GB": 91,
     "SA": 73,
     "FR": 16,
     "US": 46,
@@ -18696,7 +18696,7 @@
    "sources": {
     "Breakingthenews.net": 3,
     "Reuters": 34,
-    "The Guardian": 41,
+    "The Guardian": 42,
     "Arab News": 67,
     "Anadolu Ajansı": 3,
     "France 24": 10,
@@ -18830,7 +18830,7 @@
     ],
     "The Guardian": [
      0,
-     41,
+     42,
      0
     ],
     "Arab News": [
