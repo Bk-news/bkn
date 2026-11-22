@@ -16915,18 +16915,18 @@
    }
   },
   "2026-11-20": {
-   "total": 978,
-   "news": 961,
+   "total": 983,
+   "news": 966,
    "articles": 17,
    "positive": 0,
-   "neutral": 978,
+   "neutral": 983,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 229,
+    "US": 230,
     "SA": 119,
-    "FR": 104,
-    "GB": 304,
+    "FR": 106,
+    "GB": 306,
     "HK": 7,
     "DE": 6,
     "JP": 5
@@ -16938,10 +16938,10 @@
     "Atlantic Council": 8,
     "Al-Monitor": 30,
     "Arab News": 91,
-    "France 24": 101,
-    "The New York Times": 21,
+    "France 24": 103,
+    "The New York Times": 22,
     "AP News": 30,
-    "The Guardian": 95,
+    "The Guardian": 96,
     "Financial Times": 26,
     "BBC": 33,
     "Yeni Safak English": 4,
@@ -16957,7 +16957,7 @@
     "The New Arab": 3,
     "Al Jazeera": 2,
     "Bloomberg.com": 35,
-    "Reuters": 145,
+    "Reuters": 146,
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -17117,12 +17117,12 @@
     ],
     "France 24": [
      0,
-     101,
+     103,
      0
     ],
     "The New York Times": [
      0,
-     21,
+     22,
      0
     ],
     "AP News": [
@@ -17132,7 +17132,7 @@
     ],
     "The Guardian": [
      0,
-     95,
+     96,
      0
     ],
     "Financial Times": [
@@ -17212,7 +17212,7 @@
     ],
     "Reuters": [
      0,
-     145,
+     146,
      0
     ],
     "Bioengineer.org": [
@@ -17868,18 +17868,18 @@
    }
   },
   "2026-11-21": {
-   "total": 462,
-   "news": 459,
+   "total": 471,
+   "news": 468,
    "articles": 3,
    "positive": 0,
-   "neutral": 462,
+   "neutral": 471,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "US": 36,
+    "US": 38,
     "SA": 66,
-    "GB": 114,
-    "FR": 61,
+    "GB": 116,
+    "FR": 66,
     "DE": 1,
     "HK": 1
    },
@@ -17895,8 +17895,8 @@
     "Bloomberg.com": 5,
     "Khaleej Times": 1,
     "Financial Times": 4,
-    "The Guardian": 60,
-    "Al-Monitor": 11,
+    "The Guardian": 62,
+    "Al-Monitor": 13,
     "WSJ": 2,
     "ASHARQ AL-AWSAT English": 5,
     "Anadolu Ajansı": 5,
@@ -17915,7 +17915,7 @@
     "https://houseofsaud.com/": 4,
     "Gulf News": 2,
     "NDTV": 2,
-    "France 24": 59,
+    "France 24": 64,
     "Japan Today": 1,
     "Al Arabiya English": 1,
     "Dawn": 1,
@@ -18070,12 +18070,12 @@
     ],
     "The Guardian": [
      0,
-     60,
+     62,
      0
     ],
     "Al-Monitor": [
      0,
-     11,
+     13,
      0
     ],
     "WSJ": [
@@ -18170,7 +18170,7 @@
     ],
     "France 24": [
      0,
-     59,
+     64,
      0
     ],
     "Japan Today": [
@@ -18676,18 +18676,18 @@
    }
   },
   "2026-11-22": {
-   "total": 163,
-   "news": 162,
+   "total": 189,
+   "news": 188,
    "articles": 1,
    "positive": 0,
-   "neutral": 163,
+   "neutral": 189,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "GB": 33,
-    "SA": 23,
+    "SA": 37,
     "FR": 9,
-    "US": 26,
+    "US": 30,
     "HK": 4,
     "DE": 6,
     "JP": 1
@@ -18697,10 +18697,10 @@
     "Breakingthenews.net": 2,
     "Reuters": 6,
     "The Guardian": 17,
-    "Arab News": 19,
+    "Arab News": 26,
     "Anadolu Ajansı": 1,
     "France 24": 6,
-    "Al-Monitor": 10,
+    "Al-Monitor": 14,
     "TRT World": 1,
     "The Washington Post": 3,
     "BBC": 6,
@@ -18735,7 +18735,7 @@
     "Madhyamam": 1,
     "Firstpost": 1,
     "KLSE Screener": 1,
-    "Saudi Gazette": 8,
+    "Saudi Gazette": 15,
     "AP News": 3,
     "Investing.com": 1,
     "EA WorldView": 1,
@@ -18752,8 +18752,13 @@
     "ANTARA News": 1,
     "The Arab Weekly": 1,
     "Sports Illustrated": 1,
-    "وكالة الأنباء السعودية": 3,
-    "Jerusalem Center for Security and Foreign Affairs": 1
+    "وكالة الأنباء السعودية": 6,
+    "Jerusalem Center for Security and Foreign Affairs": 1,
+    "Iran International": 1,
+    "The Des Moines Register": 1,
+    "A News": 1,
+    "Kurdistan24": 1,
+    "Fortune": 1
    },
    "sourceTone": {
     "Breakingthenews.net": [
@@ -18773,7 +18778,7 @@
     ],
     "Arab News": [
      0,
-     19,
+     26,
      0
     ],
     "Anadolu Ajansı": [
@@ -18788,7 +18793,7 @@
     ],
     "Al-Monitor": [
      0,
-     10,
+     14,
      0
     ],
     "TRT World": [
@@ -18963,7 +18968,7 @@
     ],
     "Saudi Gazette": [
      0,
-     8,
+     15,
      0
     ],
     "AP News": [
@@ -19048,10 +19053,35 @@
     ],
     "وكالة الأنباء السعودية": [
      0,
-     3,
+     6,
      0
     ],
     "Jerusalem Center for Security and Foreign Affairs": [
+     0,
+     1,
+     0
+    ],
+    "Iran International": [
+     0,
+     1,
+     0
+    ],
+    "The Des Moines Register": [
+     0,
+     1,
+     0
+    ],
+    "A News": [
+     0,
+     1,
+     0
+    ],
+    "Kurdistan24": [
+     0,
+     1,
+     0
+    ],
+    "Fortune": [
      0,
      1,
      0
