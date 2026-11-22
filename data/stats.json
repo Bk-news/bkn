@@ -16915,18 +16915,18 @@
    }
   },
   "2026-11-20": {
-   "total": 849,
-   "news": 832,
+   "total": 857,
+   "news": 840,
    "articles": 17,
    "positive": 0,
-   "neutral": 849,
+   "neutral": 857,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 209,
-    "SA": 90,
+    "US": 211,
+    "SA": 94,
     "FR": 74,
-    "GB": 256,
+    "GB": 258,
     "HK": 7,
     "DE": 5,
     "JP": 4
@@ -16937,9 +16937,9 @@
     "The AFC": 1,
     "Atlantic Council": 8,
     "Al-Monitor": 28,
-    "Arab News": 75,
+    "Arab News": 78,
     "France 24": 71,
-    "The New York Times": 18,
+    "The New York Times": 19,
     "AP News": 26,
     "The Guardian": 60,
     "Financial Times": 23,
@@ -16956,12 +16956,12 @@
     "cwibc.co.id": 1,
     "The New Arab": 3,
     "Al Jazeera": 2,
-    "Bloomberg.com": 28,
-    "Reuters": 138,
+    "Bloomberg.com": 29,
+    "Reuters": 140,
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
-    "Saudi Gazette": 27,
+    "Saudi Gazette": 28,
     "The Economist": 8,
     "Daily Sabah": 2,
     "South China Morning Post": 7,
@@ -17112,7 +17112,7 @@
     ],
     "Arab News": [
      0,
-     75,
+     78,
      0
     ],
     "France 24": [
@@ -17122,7 +17122,7 @@
     ],
     "The New York Times": [
      0,
-     18,
+     19,
      0
     ],
     "AP News": [
@@ -17207,12 +17207,12 @@
     ],
     "Bloomberg.com": [
      0,
-     28,
+     29,
      0
     ],
     "Reuters": [
      0,
-     138,
+     140,
      0
     ],
     "Bioengineer.org": [
@@ -17232,7 +17232,7 @@
     ],
     "Saudi Gazette": [
      0,
-     27,
+     28,
      0
     ],
     "The Economist": [
@@ -17868,18 +17868,18 @@
    }
   },
   "2026-11-21": {
-   "total": 350,
-   "news": 348,
+   "total": 381,
+   "news": 379,
    "articles": 2,
    "positive": 0,
-   "neutral": 350,
+   "neutral": 381,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "US": 24,
-    "SA": 58,
-    "GB": 88,
-    "FR": 35,
+    "US": 26,
+    "SA": 63,
+    "GB": 95,
+    "FR": 43,
     "DE": 1,
     "HK": 1
    },
@@ -17887,21 +17887,21 @@
    "sources": {
     "The Washington Post": 2,
     "www.marketscreener.com": 1,
-    "Arab News": 56,
+    "Arab News": 60,
     "الحرة": 1,
     "The Jerusalem Post": 1,
     "Українські Національні Новини (УНН)": 1,
-    "AP News": 5,
+    "AP News": 6,
     "Bloomberg.com": 4,
     "Khaleej Times": 1,
     "Financial Times": 4,
-    "The Guardian": 35,
-    "Al-Monitor": 9,
+    "The Guardian": 42,
+    "Al-Monitor": 10,
     "WSJ": 2,
     "ASHARQ AL-AWSAT English": 4,
-    "Anadolu Ajansı": 3,
-    "Middle East Eye": 2,
-    "Yemen Online": 2,
+    "Anadolu Ajansı": 4,
+    "Middle East Eye": 4,
+    "Yemen Online": 3,
     "Facebook": 1,
     "South China Morning Post": 2,
     "The Business Standard": 2,
@@ -17915,7 +17915,7 @@
     "https://houseofsaud.com/": 3,
     "Gulf News": 2,
     "NDTV": 2,
-    "France 24": 35,
+    "France 24": 42,
     "Japan Today": 1,
     "Al Arabiya English": 1,
     "Dawn": 1,
@@ -17931,8 +17931,8 @@
     "The Malaysian Reserve": 1,
     "Arab News PK": 1,
     "Reuters": 29,
-    "Le Monde.fr": 1,
-    "Saudi Gazette": 13,
+    "Le Monde.fr": 2,
+    "Saudi Gazette": 14,
     "X": 1,
     "The New York Times": 2,
     "Spiegel": 1,
@@ -17992,7 +17992,12 @@
     "TradeArabia": 1,
     "Wisevoter": 1,
     "مركز سوث24": 1,
-    "BBC Wildlife Magazine": 1
+    "BBC Wildlife Magazine": 1,
+    "وكالة الأنباء السعودية": 1,
+    "Fakti.bg": 1,
+    "Crypto Briefing": 1,
+    "Qatar news agency": 1,
+    "Egyptian Gazette": 1
    },
    "sourceTone": {
     "The Washington Post": [
@@ -18007,7 +18012,7 @@
     ],
     "Arab News": [
      0,
-     56,
+     60,
      0
     ],
     "الحرة": [
@@ -18027,7 +18032,7 @@
     ],
     "AP News": [
      0,
-     5,
+     6,
      0
     ],
     "Bloomberg.com": [
@@ -18047,12 +18052,12 @@
     ],
     "The Guardian": [
      0,
-     35,
+     42,
      0
     ],
     "Al-Monitor": [
      0,
-     9,
+     10,
      0
     ],
     "WSJ": [
@@ -18067,17 +18072,17 @@
     ],
     "Anadolu Ajansı": [
      0,
-     3,
+     4,
      0
     ],
     "Middle East Eye": [
      0,
-     2,
+     4,
      0
     ],
     "Yemen Online": [
      0,
-     2,
+     3,
      0
     ],
     "Facebook": [
@@ -18147,7 +18152,7 @@
     ],
     "France 24": [
      0,
-     35,
+     42,
      0
     ],
     "Japan Today": [
@@ -18227,12 +18232,12 @@
     ],
     "Le Monde.fr": [
      0,
-     1,
+     2,
      0
     ],
     "Saudi Gazette": [
      0,
-     13,
+     14,
      0
     ],
     "X": [
@@ -18531,6 +18536,52 @@
      0
     ],
     "BBC Wildlife Magazine": [
+     0,
+     1,
+     0
+    ],
+    "وكالة الأنباء السعودية": [
+     0,
+     1,
+     0
+    ],
+    "Fakti.bg": [
+     0,
+     1,
+     0
+    ],
+    "Crypto Briefing": [
+     0,
+     1,
+     0
+    ],
+    "Qatar news agency": [
+     0,
+     1,
+     0
+    ],
+    "Egyptian Gazette": [
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "2026-11-22": {
+   "total": 1,
+   "news": 1,
+   "articles": 0,
+   "positive": 0,
+   "neutral": 1,
+   "critical": 0,
+   "mbs": 0,
+   "countries": {},
+   "topics": {},
+   "sources": {
+    "Breakingthenews.net": 1
+   },
+   "sourceTone": {
+    "Breakingthenews.net": [
      0,
      1,
      0
