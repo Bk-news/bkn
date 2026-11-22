@@ -18676,11 +18676,11 @@
    }
   },
   "2026-11-22": {
-   "total": 83,
-   "news": 83,
+   "total": 87,
+   "news": 87,
    "articles": 0,
    "positive": 0,
-   "neutral": 83,
+   "neutral": 87,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -18735,7 +18735,11 @@
     "Firstpost": 1,
     "KLSE Screener": 1,
     "Saudi Gazette": 1,
-    "AP News": 1
+    "AP News": 1,
+    "Investing.com": 1,
+    "EA WorldView": 1,
+    "News On AIR": 1,
+    "8AM Media": 1
    },
    "sourceTone": {
     "Breakingthenews.net": [
@@ -18949,6 +18953,26 @@
      0
     ],
     "AP News": [
+     0,
+     1,
+     0
+    ],
+    "Investing.com": [
+     0,
+     1,
+     0
+    ],
+    "EA WorldView": [
+     0,
+     1,
+     0
+    ],
+    "News On AIR": [
+     0,
+     1,
+     0
+    ],
+    "8AM Media": [
      0,
      1,
      0
