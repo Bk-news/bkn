@@ -18658,18 +18658,18 @@
    }
   },
   "2026-11-22": {
-   "total": 71,
-   "news": 71,
+   "total": 72,
+   "news": 72,
    "articles": 0,
    "positive": 0,
-   "neutral": 71,
+   "neutral": 72,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 15,
     "SA": 7,
     "FR": 3,
-    "US": 6,
+    "US": 7,
     "HK": 1,
     "DE": 1
    },
@@ -18687,7 +18687,7 @@
     "BBC": 2,
     "Le Monde.fr": 1,
     "Financial Times": 2,
-    "The New York Times": 1,
+    "The New York Times": 2,
     "South China Morning Post": 1,
     "Spiegel": 1,
     "US Muslims": 2,
@@ -18777,7 +18777,7 @@
     ],
     "The New York Times": [
      0,
-     1,
+     2,
      0
     ],
     "South China Morning Post": [
