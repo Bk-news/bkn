@@ -16915,18 +16915,18 @@
    }
   },
   "2026-11-20": {
-   "total": 915,
-   "news": 898,
+   "total": 920,
+   "news": 903,
    "articles": 17,
    "positive": 0,
-   "neutral": 915,
+   "neutral": 920,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 223,
-    "SA": 103,
-    "FR": 78,
-    "GB": 290,
+    "US": 224,
+    "SA": 104,
+    "FR": 79,
+    "GB": 292,
     "HK": 7,
     "DE": 6,
     "JP": 4
@@ -16938,12 +16938,12 @@
     "Atlantic Council": 8,
     "Al-Monitor": 29,
     "Arab News": 80,
-    "France 24": 75,
+    "France 24": 76,
     "The New York Times": 21,
     "AP News": 28,
     "The Guardian": 87,
     "Financial Times": 26,
-    "BBC": 31,
+    "BBC": 33,
     "Yeni Safak English": 4,
     "Middle East Eye": 5,
     "X": 1,
@@ -16956,12 +16956,12 @@
     "cwibc.co.id": 1,
     "The New Arab": 3,
     "Al Jazeera": 2,
-    "Bloomberg.com": 34,
+    "Bloomberg.com": 35,
     "Reuters": 141,
     "Bioengineer.org": 2,
     "The Independent": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
-    "Saudi Gazette": 35,
+    "Saudi Gazette": 36,
     "The Economist": 8,
     "Daily Sabah": 2,
     "South China Morning Post": 7,
@@ -17117,7 +17117,7 @@
     ],
     "France 24": [
      0,
-     75,
+     76,
      0
     ],
     "The New York Times": [
@@ -17142,7 +17142,7 @@
     ],
     "BBC": [
      0,
-     31,
+     33,
      0
     ],
     "Yeni Safak English": [
@@ -17207,7 +17207,7 @@
     ],
     "Bloomberg.com": [
      0,
-     34,
+     35,
      0
     ],
     "Reuters": [
@@ -17232,7 +17232,7 @@
     ],
     "Saudi Gazette": [
      0,
-     35,
+     36,
      0
     ],
     "The Economist": [
@@ -18574,20 +18574,28 @@
    }
   },
   "2026-11-22": {
-   "total": 1,
-   "news": 1,
+   "total": 2,
+   "news": 2,
    "articles": 0,
    "positive": 0,
-   "neutral": 1,
+   "neutral": 2,
    "critical": 0,
    "mbs": 0,
-   "countries": {},
+   "countries": {
+    "GB": 1
+   },
    "topics": {},
    "sources": {
-    "Breakingthenews.net": 1
+    "Breakingthenews.net": 1,
+    "Reuters": 1
    },
    "sourceTone": {
     "Breakingthenews.net": [
+     0,
+     1,
+     0
+    ],
+    "Reuters": [
      0,
      1,
      0
