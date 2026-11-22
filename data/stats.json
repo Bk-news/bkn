@@ -17868,11 +17868,11 @@
    }
   },
   "2026-11-21": {
-   "total": 441,
-   "news": 438,
+   "total": 446,
+   "news": 443,
    "articles": 3,
    "positive": 0,
-   "neutral": 441,
+   "neutral": 446,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -18008,7 +18008,11 @@
     "Times of Suriname": 1,
     "Flightradar24": 1,
     "Daily Sun": 1,
-    "Taipei Times": 1
+    "Taipei Times": 1,
+    "EnterpriseAM": 2,
+    "UkrMedia News": 1,
+    "Fragomen": 1,
+    "Fast Company Middle East": 1
    },
    "sourceTone": {
     "The Washington Post": [
@@ -18630,15 +18634,35 @@
      0,
      1,
      0
+    ],
+    "EnterpriseAM": [
+     0,
+     2,
+     0
+    ],
+    "UkrMedia News": [
+     0,
+     1,
+     0
+    ],
+    "Fragomen": [
+     0,
+     1,
+     0
+    ],
+    "Fast Company Middle East": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-22": {
-   "total": 56,
-   "news": 56,
+   "total": 66,
+   "news": 66,
    "articles": 0,
    "positive": 0,
-   "neutral": 56,
+   "neutral": 66,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -18666,7 +18690,7 @@
     "The New York Times": 1,
     "South China Morning Post": 1,
     "Spiegel": 1,
-    "US Muslims": 1,
+    "US Muslims": 2,
     "The AFC": 3,
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1,
     "ASHARQ AL-AWSAT English": 1,
@@ -18680,7 +18704,12 @@
     "www.sportingnews.com": 1,
     "Fubo": 1,
     "CairoScene": 1,
-    "Devdiscourse": 1
+    "Devdiscourse": 1,
+    "Independent Observer": 1,
+    "Global Advisory Experts": 4,
+    "DD News": 1,
+    "Marine News Magazine": 2,
+    "The Business Standard": 1
    },
    "sourceTone": {
     "Breakingthenews.net": [
@@ -18760,7 +18789,7 @@
     ],
     "US Muslims": [
      0,
-     1,
+     2,
      0
     ],
     "The AFC": [
@@ -18829,6 +18858,31 @@
      0
     ],
     "Devdiscourse": [
+     0,
+     1,
+     0
+    ],
+    "Independent Observer": [
+     0,
+     1,
+     0
+    ],
+    "Global Advisory Experts": [
+     0,
+     4,
+     0
+    ],
+    "DD News": [
+     0,
+     1,
+     0
+    ],
+    "Marine News Magazine": [
+     0,
+     2,
+     0
+    ],
+    "The Business Standard": [
      0,
      1,
      0
