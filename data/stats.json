@@ -18676,18 +18676,18 @@
    }
   },
   "2026-11-22": {
-   "total": 81,
-   "news": 81,
+   "total": 83,
+   "news": 83,
    "articles": 0,
    "positive": 0,
-   "neutral": 81,
+   "neutral": 83,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 15,
-    "SA": 10,
+    "SA": 11,
     "FR": 4,
-    "US": 7,
+    "US": 8,
     "HK": 1,
     "DE": 1
    },
@@ -18733,7 +18733,9 @@
     "Gulf Today": 1,
     "Madhyamam": 1,
     "Firstpost": 1,
-    "KLSE Screener": 1
+    "KLSE Screener": 1,
+    "Saudi Gazette": 1,
+    "AP News": 1
    },
    "sourceTone": {
     "Breakingthenews.net": [
@@ -18937,6 +18939,16 @@
      0
     ],
     "KLSE Screener": [
+     0,
+     1,
+     0
+    ],
+    "Saudi Gazette": [
+     0,
+     1,
+     0
+    ],
+    "AP News": [
      0,
      1,
      0
