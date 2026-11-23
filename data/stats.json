@@ -17868,17 +17868,17 @@
    }
   },
   "2026-11-21": {
-   "total": 525,
-   "news": 522,
+   "total": 527,
+   "news": 524,
    "articles": 3,
    "positive": 0,
-   "neutral": 525,
+   "neutral": 527,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 49,
     "SA": 71,
-    "GB": 144,
+    "GB": 146,
     "FR": 76,
     "DE": 1,
     "HK": 1
@@ -17930,7 +17930,7 @@
     "Nacionale": 1,
     "The Malaysian Reserve": 1,
     "Arab News PK": 1,
-    "Reuters": 55,
+    "Reuters": 57,
     "Le Monde.fr": 4,
     "Saudi Gazette": 14,
     "X": 1,
@@ -18245,7 +18245,7 @@
     ],
     "Reuters": [
      0,
-     55,
+     57,
      0
     ],
     "Le Monde.fr": [
@@ -18676,18 +18676,18 @@
    }
   },
   "2026-11-22": {
-   "total": 477,
-   "news": 474,
+   "total": 483,
+   "news": 480,
    "articles": 3,
    "positive": 0,
-   "neutral": 477,
+   "neutral": 483,
    "critical": 0,
    "mbs": 6,
    "countries": {
-    "GB": 98,
+    "GB": 103,
     "SA": 90,
     "FR": 18,
-    "US": 58,
+    "US": 59,
     "HK": 4,
     "DE": 11,
     "JP": 1
@@ -18695,8 +18695,8 @@
    "topics": {},
    "sources": {
     "Breakingthenews.net": 3,
-    "Reuters": 34,
-    "The Guardian": 47,
+    "Reuters": 38,
+    "The Guardian": 48,
     "Arab News": 83,
     "Anadolu Ajansı": 3,
     "France 24": 12,
@@ -18743,7 +18743,7 @@
     "8AM Media": 1,
     "Investing.com South Africa": 1,
     "Goal.com": 2,
-    "Bloomberg.com": 9,
+    "Bloomberg.com": 10,
     "WE News English": 1,
     "Nikkei Asia": 1,
     "WSJ": 3,
@@ -18833,12 +18833,12 @@
     ],
     "Reuters": [
      0,
-     34,
+     38,
      0
     ],
     "The Guardian": [
      0,
-     47,
+     48,
      0
     ],
     "Arab News": [
@@ -19073,7 +19073,7 @@
     ],
     "Bloomberg.com": [
      0,
-     9,
+     10,
      0
     ],
     "WE News English": [
@@ -19479,18 +19479,18 @@
    }
   },
   "2026-11-23": {
-   "total": 102,
-   "news": 102,
+   "total": 134,
+   "news": 134,
    "articles": 0,
    "positive": 0,
-   "neutral": 102,
+   "neutral": 134,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "US": 24,
+    "US": 36,
     "SA": 18,
     "DE": 3,
-    "GB": 30,
+    "GB": 36,
     "FR": 2,
     "JP": 1
    },
@@ -19498,7 +19498,7 @@
    "sources": {
     "وكالة الأنباء السعودية": 2,
     "WSJ": 5,
-    "Arab News": 11,
+    "Arab News": 12,
     "Spiegel": 3,
     "Sports Gambling Podcast": 1,
     "Arabian Gulf Business Insight | AGBI": 2,
@@ -19508,15 +19508,15 @@
     "The New Arab": 1,
     "FXStreet": 1,
     "TradingView": 1,
-    "Bloomberg.com": 10,
-    "The Guardian": 9,
+    "Bloomberg.com": 22,
+    "The Guardian": 10,
     "Yeni Safak English": 2,
     "BBC": 3,
     "www.tmgm.com": 1,
-    "Reuters": 12,
+    "Reuters": 17,
     "The Washington Post": 1,
-    "Gulf Business": 1,
-    "Saudi Gazette": 7,
+    "Gulf Business": 3,
+    "Saudi Gazette": 8,
     "Le Monde.fr": 1,
     "Al-Monitor": 4,
     "AP News": 2,
@@ -19531,7 +19531,16 @@
     "The Mercury News": 1,
     "ASHARQ AL-AWSAT English": 2,
     "سانا": 1,
-    "The New Region": 1
+    "The New Region": 1,
+    "Fast Company Middle East": 1,
+    "The National": 2,
+    "EnergyNow": 1,
+    "БНР Новини": 1,
+    "IDNFinancials": 1,
+    "Arabian Business": 1,
+    "Kalkine": 1,
+    "Caterer Middle East": 1,
+    "Il Sole 24 ORE": 1
    },
    "sourceTone": {
     "وكالة الأنباء السعودية": [
@@ -19546,7 +19555,7 @@
     ],
     "Arab News": [
      0,
-     11,
+     12,
      0
     ],
     "Spiegel": [
@@ -19596,12 +19605,12 @@
     ],
     "Bloomberg.com": [
      0,
-     10,
+     22,
      0
     ],
     "The Guardian": [
      0,
-     9,
+     10,
      0
     ],
     "Yeni Safak English": [
@@ -19621,7 +19630,7 @@
     ],
     "Reuters": [
      0,
-     12,
+     17,
      0
     ],
     "The Washington Post": [
@@ -19631,12 +19640,12 @@
     ],
     "Gulf Business": [
      0,
-     1,
+     3,
      0
     ],
     "Saudi Gazette": [
      0,
-     7,
+     8,
      0
     ],
     "Le Monde.fr": [
@@ -19710,6 +19719,51 @@
      0
     ],
     "The New Region": [
+     0,
+     1,
+     0
+    ],
+    "Fast Company Middle East": [
+     0,
+     1,
+     0
+    ],
+    "The National": [
+     0,
+     2,
+     0
+    ],
+    "EnergyNow": [
+     0,
+     1,
+     0
+    ],
+    "БНР Новини": [
+     0,
+     1,
+     0
+    ],
+    "IDNFinancials": [
+     0,
+     1,
+     0
+    ],
+    "Arabian Business": [
+     0,
+     1,
+     0
+    ],
+    "Kalkine": [
+     0,
+     1,
+     0
+    ],
+    "Caterer Middle East": [
+     0,
+     1,
+     0
+    ],
+    "Il Sole 24 ORE": [
      0,
      1,
      0
