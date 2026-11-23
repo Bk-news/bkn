@@ -19485,50 +19485,50 @@
    }
   },
   "2026-11-23": {
-   "total": 266,
-   "news": 261,
+   "total": 306,
+   "news": 301,
    "articles": 5,
    "positive": 0,
-   "neutral": 266,
+   "neutral": 306,
    "critical": 0,
-   "mbs": 3,
+   "mbs": 5,
    "countries": {
-    "US": 68,
-    "SA": 33,
+    "US": 80,
+    "SA": 41,
     "DE": 4,
-    "GB": 60,
-    "FR": 9,
+    "GB": 70,
+    "FR": 12,
     "JP": 1
    },
    "topics": {},
    "sources": {
-    "وكالة الأنباء السعودية": 2,
-    "WSJ": 8,
-    "Arab News": 24,
+    "وكالة الأنباء السعودية": 3,
+    "WSJ": 9,
+    "Arab News": 28,
     "Spiegel": 4,
     "Sports Gambling Podcast": 1,
     "Arabian Gulf Business Insight | AGBI": 4,
     "Central Oregon Daily": 1,
-    "Bioengineer.org": 2,
+    "Bioengineer.org": 3,
     "Breakingthenews.net": 1,
     "The New Arab": 1,
     "FXStreet": 1,
     "TradingView": 2,
-    "Bloomberg.com": 33,
-    "The Guardian": 17,
+    "Bloomberg.com": 36,
+    "The Guardian": 20,
     "Yeni Safak English": 3,
-    "BBC": 11,
+    "BBC": 12,
     "www.tmgm.com": 1,
-    "Reuters": 23,
+    "Reuters": 27,
     "The Washington Post": 4,
     "Gulf Business": 3,
-    "Saudi Gazette": 15,
+    "Saudi Gazette": 19,
     "Le Monde.fr": 3,
-    "Al-Monitor": 6,
-    "AP News": 6,
-    "Financial Times": 8,
-    "France 24": 6,
-    "The New York Times": 5,
+    "Al-Monitor": 10,
+    "AP News": 7,
+    "Financial Times": 10,
+    "France 24": 9,
+    "The New York Times": 8,
     "Nikkei Asia": 1,
     "Condé Nast Traveller Middle East": 1,
     "pv magazine Global": 1,
@@ -19540,7 +19540,7 @@
     "The New Region": 1,
     "Fast Company Middle East": 1,
     "The National": 3,
-    "EnergyNow": 1,
+    "EnergyNow": 2,
     "БНР Новини": 1,
     "IDNFinancials": 1,
     "Arabian Business": 1,
@@ -19582,22 +19582,26 @@
     "Atlantic Council": 3,
     "Foreign Policy": 1,
     "The Economist": 1,
-    "CNN": 2
+    "CNN": 2,
+    "خبرگزاری اطلس": 1,
+    "The Media Line": 1,
+    "Apa.az": 1,
+    "Middle East Eye": 1
    },
    "sourceTone": {
     "وكالة الأنباء السعودية": [
      0,
-     2,
+     3,
      0
     ],
     "WSJ": [
      0,
-     8,
+     9,
      0
     ],
     "Arab News": [
      0,
-     24,
+     28,
      0
     ],
     "Spiegel": [
@@ -19622,7 +19626,7 @@
     ],
     "Bioengineer.org": [
      0,
-     2,
+     3,
      0
     ],
     "Breakingthenews.net": [
@@ -19647,12 +19651,12 @@
     ],
     "Bloomberg.com": [
      0,
-     33,
+     36,
      0
     ],
     "The Guardian": [
      0,
-     17,
+     20,
      0
     ],
     "Yeni Safak English": [
@@ -19662,7 +19666,7 @@
     ],
     "BBC": [
      0,
-     11,
+     12,
      0
     ],
     "www.tmgm.com": [
@@ -19672,7 +19676,7 @@
     ],
     "Reuters": [
      0,
-     23,
+     27,
      0
     ],
     "The Washington Post": [
@@ -19687,7 +19691,7 @@
     ],
     "Saudi Gazette": [
      0,
-     15,
+     19,
      0
     ],
     "Le Monde.fr": [
@@ -19697,27 +19701,27 @@
     ],
     "Al-Monitor": [
      0,
-     6,
+     10,
      0
     ],
     "AP News": [
      0,
-     6,
+     7,
      0
     ],
     "Financial Times": [
      0,
-     8,
+     10,
      0
     ],
     "France 24": [
      0,
-     6,
+     9,
      0
     ],
     "The New York Times": [
      0,
-     5,
+     8,
      0
     ],
     "Nikkei Asia": [
@@ -19777,7 +19781,7 @@
     ],
     "EnergyNow": [
      0,
-     1,
+     2,
      0
     ],
     "БНР Новини": [
@@ -19988,6 +19992,26 @@
     "CNN": [
      0,
      2,
+     0
+    ],
+    "خبرگزاری اطلس": [
+     0,
+     1,
+     0
+    ],
+    "The Media Line": [
+     0,
+     1,
+     0
+    ],
+    "Apa.az": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Eye": [
+     0,
+     1,
      0
     ]
    }
