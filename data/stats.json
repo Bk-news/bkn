@@ -19485,11 +19485,11 @@
    }
   },
   "2026-11-23": {
-   "total": 205,
-   "news": 205,
+   "total": 207,
+   "news": 207,
    "articles": 0,
    "positive": 0,
-   "neutral": 205,
+   "neutral": 207,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -19574,7 +19574,9 @@
     "chinadailyhk": 1,
     "https://houseofsaud.com/": 1,
     "Upstream Online": 1,
-    "Dhaka Tribune": 1
+    "Dhaka Tribune": 1,
+    "Decode39": 1,
+    "EADaily": 1
    },
    "sourceTone": {
     "وكالة الأنباء السعودية": [
@@ -19938,6 +19940,16 @@
      0
     ],
     "Dhaka Tribune": [
+     0,
+     1,
+     0
+    ],
+    "Decode39": [
+     0,
+     1,
+     0
+    ],
+    "EADaily": [
      0,
      1,
      0
