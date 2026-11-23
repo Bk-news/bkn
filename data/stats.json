@@ -19485,26 +19485,26 @@
    }
   },
   "2026-11-23": {
-   "total": 223,
-   "news": 223,
+   "total": 225,
+   "news": 225,
    "articles": 0,
    "positive": 0,
-   "neutral": 223,
+   "neutral": 225,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 50,
-    "SA": 28,
+    "SA": 29,
     "DE": 3,
     "GB": 51,
-    "FR": 4,
+    "FR": 5,
     "JP": 1
    },
    "topics": {},
    "sources": {
     "وكالة الأنباء السعودية": 2,
     "WSJ": 6,
-    "Arab News": 19,
+    "Arab News": 20,
     "Spiegel": 3,
     "Sports Gambling Podcast": 1,
     "Arabian Gulf Business Insight | AGBI": 4,
@@ -19523,7 +19523,7 @@
     "The Washington Post": 2,
     "Gulf Business": 3,
     "Saudi Gazette": 12,
-    "Le Monde.fr": 1,
+    "Le Monde.fr": 2,
     "Al-Monitor": 4,
     "AP News": 4,
     "Financial Times": 6,
@@ -19592,7 +19592,7 @@
     ],
     "Arab News": [
      0,
-     19,
+     20,
      0
     ],
     "Spiegel": [
@@ -19687,7 +19687,7 @@
     ],
     "Le Monde.fr": [
      0,
-     1,
+     2,
      0
     ],
     "Al-Monitor": [
