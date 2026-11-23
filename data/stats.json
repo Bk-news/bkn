@@ -17868,15 +17868,15 @@
    }
   },
   "2026-11-21": {
-   "total": 523,
-   "news": 520,
+   "total": 524,
+   "news": 521,
    "articles": 3,
    "positive": 0,
-   "neutral": 523,
+   "neutral": 524,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "US": 47,
+    "US": 48,
     "SA": 71,
     "GB": 144,
     "FR": 76,
@@ -17934,7 +17934,7 @@
     "Le Monde.fr": 4,
     "Saudi Gazette": 14,
     "X": 1,
-    "The New York Times": 5,
+    "The New York Times": 6,
     "Spiegel": 1,
     "BurgasMedia": 1,
     "CNN": 1,
@@ -18265,7 +18265,7 @@
     ],
     "The New York Times": [
      0,
-     5,
+     6,
      0
     ],
     "Spiegel": [
@@ -19479,18 +19479,18 @@
    }
   },
   "2026-11-23": {
-   "total": 22,
-   "news": 22,
+   "total": 23,
+   "news": 23,
    "articles": 0,
    "positive": 0,
-   "neutral": 22,
+   "neutral": 23,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 3,
     "SA": 4,
     "DE": 1,
-    "GB": 2
+    "GB": 3
    },
    "topics": {},
    "sources": {
@@ -19507,7 +19507,7 @@
     "FXStreet": 1,
     "TradingView": 1,
     "Bloomberg.com": 1,
-    "The Guardian": 1,
+    "The Guardian": 2,
     "Yeni Safak English": 1,
     "BBC": 1,
     "www.tmgm.com": 1
@@ -19580,7 +19580,7 @@
     ],
     "The Guardian": [
      0,
-     1,
+     2,
      0
     ],
     "Yeni Safak English": [

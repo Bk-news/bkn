@@ -2,6 +2,27 @@
  "day": "2026-11-23",
  "items": [
   {
+   "id": "489abc8893ee114b",
+   "origin": "rss",
+   "source": "The Guardian",
+   "author": "",
+   "title_ar": "موجز عن الحرب في أوكرانيا: سباق للعثور على الناجين بعد الهجوم الروسي على مبنى سكني الذي أسفر عن مقتل تسعة أشخاص على الأقل",
+   "title_orig": "Ukraine war briefing: Race to find survivors after Russian attack on apartment block kills at least nine",
+   "title_en": "Ukraine war briefing: Race to find survivors after Russian attack on apartment block kills at least nine",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOM0o3bHlPSG5VTk5id1NhTHhCeXVJbmIxTzJ2bVVfdVBLeldIUm1aZXdmbjA4Ry1aWWt5UUFYNUtJRWlCcTJiSVFzMTFteDUzSHBrXzBtR3hWUDdlRE5ZWl9pQWZSNUNndnVBbGJhNGp1bzFPTXM2ZlNlRkhzRmVNeU5OQ2NjUTVmWkxibmZFemNEdUl4RmRjWjRGMXpZUVUwTGF5NkdHQndaU2IzbWpxamthM2RzRVF3M0pNYXNZX2JHeTdILW5GUEZHOHhZeE8yVGZLUEdvTjFXLXUwdUNENnIwUQ?oc=5",
+   "published": "2026-11-23T02:10:00.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "Ukraine war briefing: Race to find survivors after Russian attack on apartment block kills at least nine &nbsp;&nbsp; The Guardian",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "41ff5d8085a916fc",
    "origin": "rss",
    "source": "Arab News",
