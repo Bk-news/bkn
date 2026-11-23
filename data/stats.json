@@ -19485,18 +19485,18 @@
    }
   },
   "2026-11-23": {
-   "total": 463,
-   "news": 458,
+   "total": 481,
+   "news": 476,
    "articles": 5,
    "positive": 0,
-   "neutral": 463,
+   "neutral": 481,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 112,
     "SA": 73,
     "DE": 4,
-    "GB": 106,
+    "GB": 108,
     "FR": 17,
     "JP": 1
    },
@@ -19509,17 +19509,17 @@
     "Sports Gambling Podcast": 1,
     "Arabian Gulf Business Insight | AGBI": 4,
     "Central Oregon Daily": 1,
-    "Bioengineer.org": 4,
+    "Bioengineer.org": 5,
     "Breakingthenews.net": 1,
-    "The New Arab": 1,
+    "The New Arab": 2,
     "FXStreet": 1,
     "TradingView": 2,
     "Bloomberg.com": 45,
     "The Guardian": 21,
-    "Yeni Safak English": 4,
+    "Yeni Safak English": 5,
     "BBC": 12,
     "www.tmgm.com": 2,
-    "Reuters": 62,
+    "Reuters": 64,
     "The Washington Post": 4,
     "Gulf Business": 4,
     "Saudi Gazette": 29,
@@ -19532,7 +19532,7 @@
     "Nikkei Asia": 1,
     "Condé Nast Traveller Middle East": 1,
     "pv magazine Global": 1,
-    "The Arab Weekly": 2,
+    "The Arab Weekly": 3,
     "شفق نيوز": 1,
     "The Mercury News": 1,
     "ASHARQ AL-AWSAT English": 7,
@@ -19563,7 +19563,7 @@
     "The Maritime Executive": 1,
     "Xinhua": 1,
     "CNBC Africa": 1,
-    "Global Advisory Experts": 7,
+    "Global Advisory Experts": 8,
     "TMCnet": 1,
     "IndulgExpress": 1,
     "Mehr News Agency": 1,
@@ -19600,7 +19600,7 @@
     "Cato Institute": 1,
     "Yahoo Sports": 1,
     "ChemAnalyst": 1,
-    "IndexBox": 2,
+    "IndexBox": 4,
     "Investing.com": 1,
     "Hungarian Conservative": 1,
     "Muslim Network TV": 1,
@@ -19611,12 +19611,19 @@
     "Daily Sabah": 1,
     "energynews.pro": 1,
     "Egypt Today": 1,
-    "Avi-Go": 1,
+    "Avi-Go": 2,
     "Crypto Briefing": 1,
     "Middle East Monitor": 1,
     "Hürriyet Daily News": 1,
     "A News": 1,
-    "allAfrica.com": 1
+    "allAfrica.com": 1,
+    "Traders Union": 1,
+    "UA.NEWS": 1,
+    "Magzter": 2,
+    "Atalayar": 1,
+    "waya.media": 1,
+    "TradeArabia": 1,
+    "PressReader": 1
    },
    "sourceTone": {
     "وكالة الأنباء السعودية": [
@@ -19656,7 +19663,7 @@
     ],
     "Bioengineer.org": [
      0,
-     4,
+     5,
      0
     ],
     "Breakingthenews.net": [
@@ -19666,7 +19673,7 @@
     ],
     "The New Arab": [
      0,
-     1,
+     2,
      0
     ],
     "FXStreet": [
@@ -19691,7 +19698,7 @@
     ],
     "Yeni Safak English": [
      0,
-     4,
+     5,
      0
     ],
     "BBC": [
@@ -19706,7 +19713,7 @@
     ],
     "Reuters": [
      0,
-     62,
+     64,
      0
     ],
     "The Washington Post": [
@@ -19771,7 +19778,7 @@
     ],
     "The Arab Weekly": [
      0,
-     2,
+     3,
      0
     ],
     "شفق نيوز": [
@@ -19926,7 +19933,7 @@
     ],
     "Global Advisory Experts": [
      0,
-     7,
+     8,
      0
     ],
     "TMCnet": [
@@ -20111,7 +20118,7 @@
     ],
     "IndexBox": [
      0,
-     2,
+     4,
      0
     ],
     "Investing.com": [
@@ -20166,7 +20173,7 @@
     ],
     "Avi-Go": [
      0,
-     1,
+     2,
      0
     ],
     "Crypto Briefing": [
@@ -20190,6 +20197,41 @@
      0
     ],
     "allAfrica.com": [
+     0,
+     1,
+     0
+    ],
+    "Traders Union": [
+     0,
+     1,
+     0
+    ],
+    "UA.NEWS": [
+     0,
+     1,
+     0
+    ],
+    "Magzter": [
+     0,
+     2,
+     0
+    ],
+    "Atalayar": [
+     0,
+     1,
+     0
+    ],
+    "waya.media": [
+     0,
+     1,
+     0
+    ],
+    "TradeArabia": [
+     0,
+     1,
+     0
+    ],
+    "PressReader": [
      0,
      1,
      0
