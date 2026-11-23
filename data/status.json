@@ -1,17 +1,17 @@
 {
- "run": "2026-11-23T10:09:21.505Z",
+ "run": "2026-11-23T10:10:21.315Z",
  "key": true,
  "model": "claude-haiku-5-5",
  "feedsOk": 23,
  "feedsFailed": [
-  "Bloomberg: HTTP 429"
+  "Al-Monitor: HTTP 429"
  ],
- "fetched": 682,
+ "fetched": 645,
  "fresh": 0,
  "world": 0,
  "analyzed": 0,
  "analyzeErrors": 0,
- "lastError": "Anthropic 401: {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChKgDqQ5a9khesCuNkcww\"}",
+ "lastError": "Anthropic 401: {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChKgJEhQfDNiBbNbCRNEU\"}",
  "telegram": 20,
  "royal": 0,
  "keyRejected": true,
