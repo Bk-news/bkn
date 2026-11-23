@@ -19485,15 +19485,15 @@
    }
   },
   "2026-11-23": {
-   "total": 485,
-   "news": 480,
+   "total": 486,
+   "news": 481,
    "articles": 5,
    "positive": 0,
-   "neutral": 485,
+   "neutral": 486,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 113,
+    "US": 114,
     "SA": 73,
     "DE": 4,
     "GB": 108,
@@ -19503,7 +19503,7 @@
    "topics": {},
    "sources": {
     "وكالة الأنباء السعودية": 3,
-    "WSJ": 13,
+    "WSJ": 14,
     "Arab News": 54,
     "Spiegel": 4,
     "Sports Gambling Podcast": 1,
@@ -19635,7 +19635,7 @@
     ],
     "WSJ": [
      0,
-     13,
+     14,
      0
     ],
     "Arab News": [
