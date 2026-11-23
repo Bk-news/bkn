@@ -19485,11 +19485,11 @@
    }
   },
   "2026-11-23": {
-   "total": 492,
-   "news": 487,
+   "total": 493,
+   "news": 488,
    "articles": 5,
    "positive": 0,
-   "neutral": 492,
+   "neutral": 493,
    "critical": 0,
    "mbs": 7,
    "countries": {
@@ -19625,7 +19625,8 @@
     "TradeArabia": 1,
     "PressReader": 1,
     "The Hindu": 1,
-    "アラブニュース": 1
+    "アラブニュース": 1,
+    "HESPRESS English - Morocco News": 1
    },
    "sourceTone": {
     "وكالة الأنباء السعودية": [
@@ -20244,6 +20245,11 @@
      0
     ],
     "アラブニュース": [
+     0,
+     1,
+     0
+    ],
+    "HESPRESS English - Morocco News": [
      0,
      1,
      0
