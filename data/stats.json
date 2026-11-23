@@ -18676,15 +18676,15 @@
    }
   },
   "2026-11-22": {
-   "total": 498,
+   "total": 499,
    "news": 494,
-   "articles": 4,
+   "articles": 5,
    "positive": 0,
-   "neutral": 498,
+   "neutral": 499,
    "critical": 0,
    "mbs": 6,
    "countries": {
-    "GB": 107,
+    "GB": 108,
     "SA": 91,
     "FR": 18,
     "US": 66,
@@ -18747,7 +18747,7 @@
     "WE News English": 1,
     "Nikkei Asia": 1,
     "WSJ": 3,
-    "The Economist": 4,
+    "The Economist": 5,
     "Inshorts": 1,
     "ANTARA News": 1,
     "The Arab Weekly": 1,
@@ -19094,7 +19094,7 @@
     ],
     "The Economist": [
      0,
-     4,
+     5,
      0
     ],
     "Inshorts": [
@@ -19485,15 +19485,15 @@
    }
   },
   "2026-11-23": {
-   "total": 459,
-   "news": 454,
+   "total": 463,
+   "news": 458,
    "articles": 5,
    "positive": 0,
-   "neutral": 459,
+   "neutral": 463,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 111,
+    "US": 112,
     "SA": 73,
     "DE": 4,
     "GB": 106,
@@ -19503,7 +19503,7 @@
    "topics": {},
    "sources": {
     "وكالة الأنباء السعودية": 3,
-    "WSJ": 12,
+    "WSJ": 13,
     "Arab News": 54,
     "Spiegel": 4,
     "Sports Gambling Podcast": 1,
@@ -19613,7 +19613,10 @@
     "Egypt Today": 1,
     "Avi-Go": 1,
     "Crypto Briefing": 1,
-    "Middle East Monitor": 1
+    "Middle East Monitor": 1,
+    "Hürriyet Daily News": 1,
+    "A News": 1,
+    "allAfrica.com": 1
    },
    "sourceTone": {
     "وكالة الأنباء السعودية": [
@@ -19623,7 +19626,7 @@
     ],
     "WSJ": [
      0,
-     12,
+     13,
      0
     ],
     "Arab News": [
@@ -20172,6 +20175,21 @@
      0
     ],
     "Middle East Monitor": [
+     0,
+     1,
+     0
+    ],
+    "Hürriyet Daily News": [
+     0,
+     1,
+     0
+    ],
+    "A News": [
+     0,
+     1,
+     0
+    ],
+    "allAfrica.com": [
      0,
      1,
      0
