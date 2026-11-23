@@ -18676,11 +18676,11 @@
    }
   },
   "2026-11-22": {
-   "total": 466,
-   "news": 463,
+   "total": 468,
+   "news": 465,
    "articles": 3,
    "positive": 0,
-   "neutral": 466,
+   "neutral": 468,
    "critical": 0,
    "mbs": 6,
    "countries": {
@@ -18820,7 +18820,9 @@
     "Avi-Go": 1,
     "Sudan Tribune": 1,
     "The Media Line": 1,
-    "The New Arab": 1
+    "The New Arab": 1,
+    "JNS": 1,
+    "Japan Today": 1
    },
    "sourceTone": {
     "Breakingthenews.net": [
@@ -19454,6 +19456,16 @@
      0
     ],
     "The New Arab": [
+     0,
+     1,
+     0
+    ],
+    "JNS": [
+     0,
+     1,
+     0
+    ],
+    "Japan Today": [
      0,
      1,
      0
