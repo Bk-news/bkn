@@ -19485,11 +19485,11 @@
    }
   },
   "2026-11-23": {
-   "total": 495,
-   "news": 490,
+   "total": 497,
+   "news": 492,
    "articles": 5,
    "positive": 0,
-   "neutral": 495,
+   "neutral": 497,
    "critical": 0,
    "mbs": 7,
    "countries": {
@@ -19626,7 +19626,9 @@
     "PressReader": 1,
     "The Hindu": 1,
     "アラブニュース": 1,
-    "HESPRESS English - Morocco News": 1
+    "HESPRESS English - Morocco News": 1,
+    "www.marketscreener.com": 1,
+    "Iran International": 1
    },
    "sourceTone": {
     "وكالة الأنباء السعودية": [
@@ -20250,6 +20252,16 @@
      0
     ],
     "HESPRESS English - Morocco News": [
+     0,
+     1,
+     0
+    ],
+    "www.marketscreener.com": [
+     0,
+     1,
+     0
+    ],
+    "Iran International": [
      0,
      1,
      0
