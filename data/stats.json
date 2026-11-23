@@ -19485,20 +19485,20 @@
    }
   },
   "2026-11-23": {
-   "total": 486,
-   "news": 481,
+   "total": 489,
+   "news": 484,
    "articles": 5,
    "positive": 0,
-   "neutral": 486,
+   "neutral": 489,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 114,
+    "US": 115,
     "SA": 73,
     "DE": 4,
-    "GB": 108,
+    "GB": 109,
     "FR": 17,
-    "JP": 1
+    "JP": 2
    },
    "topics": {},
    "sources": {
@@ -19515,7 +19515,7 @@
     "FXStreet": 1,
     "TradingView": 2,
     "Bloomberg.com": 46,
-    "The Guardian": 21,
+    "The Guardian": 22,
     "Yeni Safak English": 5,
     "BBC": 12,
     "www.tmgm.com": 2,
@@ -19528,8 +19528,8 @@
     "AP News": 8,
     "Financial Times": 10,
     "France 24": 14,
-    "The New York Times": 10,
-    "Nikkei Asia": 1,
+    "The New York Times": 11,
+    "Nikkei Asia": 2,
     "Condé Nast Traveller Middle East": 1,
     "pv magazine Global": 1,
     "The Arab Weekly": 3,
@@ -19695,7 +19695,7 @@
     ],
     "The Guardian": [
      0,
-     21,
+     22,
      0
     ],
     "Yeni Safak English": [
@@ -19760,12 +19760,12 @@
     ],
     "The New York Times": [
      0,
-     10,
+     11,
      0
     ],
     "Nikkei Asia": [
      0,
-     1,
+     2,
      0
     ],
     "Condé Nast Traveller Middle East": [
