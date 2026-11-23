@@ -19479,18 +19479,18 @@
    }
   },
   "2026-11-23": {
-   "total": 20,
-   "news": 20,
+   "total": 21,
+   "news": 21,
    "articles": 0,
    "positive": 0,
-   "neutral": 20,
+   "neutral": 21,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 3,
     "SA": 4,
     "DE": 1,
-    "GB": 1
+    "GB": 2
    },
    "topics": {},
    "sources": {
@@ -19508,7 +19508,8 @@
     "TradingView": 1,
     "Bloomberg.com": 1,
     "The Guardian": 1,
-    "Yeni Safak English": 1
+    "Yeni Safak English": 1,
+    "BBC": 1
    },
    "sourceTone": {
     "وكالة الأنباء السعودية": [
@@ -19582,6 +19583,11 @@
      0
     ],
     "Yeni Safak English": [
+     0,
+     1,
+     0
+    ],
+    "BBC": [
      0,
      1,
      0
