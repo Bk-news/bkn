@@ -19479,18 +19479,18 @@
    }
   },
   "2026-11-23": {
-   "total": 23,
-   "news": 23,
+   "total": 24,
+   "news": 24,
    "articles": 0,
    "positive": 0,
-   "neutral": 23,
+   "neutral": 24,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 3,
     "SA": 4,
     "DE": 1,
-    "GB": 3
+    "GB": 4
    },
    "topics": {},
    "sources": {
@@ -19510,7 +19510,8 @@
     "The Guardian": 2,
     "Yeni Safak English": 1,
     "BBC": 1,
-    "www.tmgm.com": 1
+    "www.tmgm.com": 1,
+    "Reuters": 1
    },
    "sourceTone": {
     "وكالة الأنباء السعودية": [
@@ -19594,6 +19595,11 @@
      0
     ],
     "www.tmgm.com": [
+     0,
+     1,
+     0
+    ],
+    "Reuters": [
      0,
      1,
      0

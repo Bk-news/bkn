@@ -2,6 +2,27 @@
  "day": "2026-11-23",
  "items": [
   {
+   "id": "19400f1234e9c4de",
+   "origin": "rss",
+   "source": "Reuters",
+   "author": "",
+   "title_ar": "تنخفض أسعار النفط وسط عمليات بيع للأسهم على الرغم من أن هجمات الحرب على إيران تحد من الخسائر",
+   "title_orig": "Oil prices fall amid equity selloff though Iran war attacks limit losses",
+   "title_en": "Oil prices fall amid equity selloff though Iran war attacks limit losses",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb016TW1Rc3N2Q0h6TVJZUFBSeXZqWklRWXgwZ2QyUnRCa0tnWnI4b0Z2YkVVZlVGWTJwa0E3SEVqNnotSE4zOFpOdjJUSE5GcjB5RHJxaklsM0I2U1owemZ4aUJmYkRhUUM2VjVFd09paWhIWHhFUWxmcmhzT3Y5RWhCTENfNE00a3RaYnhnOGgweEJoNEVtNTVKS0pLTWNiY2ZfM1pvbFNieG5DbWpGcUdOM19xZFF5QXl5LWZXNVRrZw?oc=5",
+   "published": "2026-11-23T02:24:00.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "Oil prices fall amid equity selloff though Iran war attacks limit losses &nbsp;&nbsp; Reuters",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "489abc8893ee114b",
    "origin": "rss",
    "source": "The Guardian",
