@@ -18676,16 +18676,16 @@
    }
   },
   "2026-11-22": {
-   "total": 495,
-   "news": 491,
+   "total": 496,
+   "news": 492,
    "articles": 4,
    "positive": 0,
-   "neutral": 495,
+   "neutral": 496,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "GB": 105,
-    "SA": 90,
+    "SA": 91,
     "FR": 18,
     "US": 66,
     "HK": 4,
@@ -18697,7 +18697,7 @@
     "Breakingthenews.net": 3,
     "Reuters": 38,
     "The Guardian": 50,
-    "Arab News": 84,
+    "Arab News": 85,
     "Anadolu Ajansı": 3,
     "France 24": 12,
     "Al-Monitor": 18,
@@ -18844,7 +18844,7 @@
     ],
     "Arab News": [
      0,
-     84,
+     85,
      0
     ],
     "Anadolu Ajansı": [
@@ -19485,18 +19485,18 @@
    }
   },
   "2026-11-23": {
-   "total": 382,
-   "news": 377,
+   "total": 421,
+   "news": 416,
    "articles": 5,
    "positive": 0,
-   "neutral": 382,
+   "neutral": 421,
    "critical": 0,
-   "mbs": 6,
+   "mbs": 7,
    "countries": {
-    "US": 104,
-    "SA": 63,
+    "US": 107,
+    "SA": 71,
     "DE": 4,
-    "GB": 83,
+    "GB": 97,
     "FR": 17,
     "JP": 1
    },
@@ -19504,7 +19504,7 @@
    "sources": {
     "وكالة الأنباء السعودية": 3,
     "WSJ": 12,
-    "Arab News": 40,
+    "Arab News": 50,
     "Spiegel": 4,
     "Sports Gambling Podcast": 1,
     "Arabian Gulf Business Insight | AGBI": 4,
@@ -19516,15 +19516,15 @@
     "TradingView": 2,
     "Bloomberg.com": 43,
     "The Guardian": 21,
-    "Yeni Safak English": 3,
+    "Yeni Safak English": 4,
     "BBC": 12,
     "www.tmgm.com": 1,
-    "Reuters": 39,
+    "Reuters": 53,
     "The Washington Post": 4,
     "Gulf Business": 3,
     "Saudi Gazette": 29,
     "Le Monde.fr": 3,
-    "Al-Monitor": 22,
+    "Al-Monitor": 25,
     "AP News": 7,
     "Financial Times": 10,
     "France 24": 14,
@@ -19535,7 +19535,7 @@
     "The Arab Weekly": 2,
     "شفق نيوز": 1,
     "The Mercury News": 1,
-    "ASHARQ AL-AWSAT English": 6,
+    "ASHARQ AL-AWSAT English": 7,
     "سانا": 1,
     "The New Region": 1,
     "Fast Company Middle East": 1,
@@ -19572,7 +19572,7 @@
     "Responsible Statecraft": 1,
     "Zawya": 1,
     "chinadailyhk": 1,
-    "https://houseofsaud.com/": 2,
+    "https://houseofsaud.com/": 3,
     "Upstream Online": 1,
     "Dhaka Tribune": 1,
     "Decode39": 1,
@@ -19588,11 +19588,18 @@
     "Apa.az": 1,
     "Middle East Eye": 2,
     "Eurasia Review": 1,
-    "thecradle.co": 2,
+    "thecradle.co": 4,
     "Facebook": 1,
     "Daily News Egypt": 1,
     "CNA": 1,
-    "The Times": 1
+    "The Times": 1,
+    "Ynetnews": 1,
+    "GOV.UK": 1,
+    "Legis1": 1,
+    "press.on-running.com": 1,
+    "Cato Institute": 1,
+    "Yahoo Sports": 1,
+    "ChemAnalyst": 1
    },
    "sourceTone": {
     "وكالة الأنباء السعودية": [
@@ -19607,7 +19614,7 @@
     ],
     "Arab News": [
      0,
-     40,
+     50,
      0
     ],
     "Spiegel": [
@@ -19667,7 +19674,7 @@
     ],
     "Yeni Safak English": [
      0,
-     3,
+     4,
      0
     ],
     "BBC": [
@@ -19682,7 +19689,7 @@
     ],
     "Reuters": [
      0,
-     39,
+     53,
      0
     ],
     "The Washington Post": [
@@ -19707,7 +19714,7 @@
     ],
     "Al-Monitor": [
      0,
-     22,
+     25,
      0
     ],
     "AP News": [
@@ -19762,7 +19769,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     6,
+     7,
      0
     ],
     "سانا": [
@@ -19947,7 +19954,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     2,
+     3,
      0
     ],
     "Upstream Online": [
@@ -20027,7 +20034,7 @@
     ],
     "thecradle.co": [
      0,
-     2,
+     4,
      0
     ],
     "Facebook": [
@@ -20046,6 +20053,41 @@
      0
     ],
     "The Times": [
+     0,
+     1,
+     0
+    ],
+    "Ynetnews": [
+     0,
+     1,
+     0
+    ],
+    "GOV.UK": [
+     0,
+     1,
+     0
+    ],
+    "Legis1": [
+     0,
+     1,
+     0
+    ],
+    "press.on-running.com": [
+     0,
+     1,
+     0
+    ],
+    "Cato Institute": [
+     0,
+     1,
+     0
+    ],
+    "Yahoo Sports": [
+     0,
+     1,
+     0
+    ],
+    "ChemAnalyst": [
      0,
      1,
      0
