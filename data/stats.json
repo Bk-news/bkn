@@ -17868,18 +17868,18 @@
    }
   },
   "2026-11-21": {
-   "total": 527,
-   "news": 524,
+   "total": 528,
+   "news": 525,
    "articles": 3,
    "positive": 0,
-   "neutral": 527,
+   "neutral": 528,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 49,
     "SA": 71,
     "GB": 146,
-    "FR": 76,
+    "FR": 77,
     "DE": 1,
     "HK": 1
    },
@@ -17915,7 +17915,7 @@
     "https://houseofsaud.com/": 4,
     "Gulf News": 2,
     "NDTV": 2,
-    "France 24": 73,
+    "France 24": 74,
     "Japan Today": 1,
     "Al Arabiya English": 1,
     "Dawn": 1,
@@ -18170,7 +18170,7 @@
     ],
     "France 24": [
      0,
-     73,
+     74,
      0
     ],
     "Japan Today": [
@@ -18676,18 +18676,18 @@
    }
   },
   "2026-11-22": {
-   "total": 494,
-   "news": 490,
+   "total": 495,
+   "news": 491,
    "articles": 4,
    "positive": 0,
-   "neutral": 494,
+   "neutral": 495,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "GB": 105,
     "SA": 90,
     "FR": 18,
-    "US": 65,
+    "US": 66,
     "HK": 4,
     "DE": 11,
     "JP": 1
@@ -18743,7 +18743,7 @@
     "8AM Media": 1,
     "Investing.com South Africa": 1,
     "Goal.com": 2,
-    "Bloomberg.com": 12,
+    "Bloomberg.com": 13,
     "WE News English": 1,
     "Nikkei Asia": 1,
     "WSJ": 3,
@@ -19074,7 +19074,7 @@
     ],
     "Bloomberg.com": [
      0,
-     12,
+     13,
      0
     ],
     "WE News English": [
@@ -19485,46 +19485,46 @@
    }
   },
   "2026-11-23": {
-   "total": 344,
-   "news": 339,
+   "total": 382,
+   "news": 377,
    "articles": 5,
    "positive": 0,
-   "neutral": 344,
+   "neutral": 382,
    "critical": 0,
    "mbs": 6,
    "countries": {
-    "US": 92,
-    "SA": 51,
+    "US": 104,
+    "SA": 63,
     "DE": 4,
-    "GB": 76,
+    "GB": 83,
     "FR": 17,
     "JP": 1
    },
    "topics": {},
    "sources": {
     "وكالة الأنباء السعودية": 3,
-    "WSJ": 9,
-    "Arab News": 33,
+    "WSJ": 12,
+    "Arab News": 40,
     "Spiegel": 4,
     "Sports Gambling Podcast": 1,
     "Arabian Gulf Business Insight | AGBI": 4,
     "Central Oregon Daily": 1,
-    "Bioengineer.org": 3,
+    "Bioengineer.org": 4,
     "Breakingthenews.net": 1,
     "The New Arab": 1,
     "FXStreet": 1,
     "TradingView": 2,
-    "Bloomberg.com": 41,
+    "Bloomberg.com": 43,
     "The Guardian": 21,
     "Yeni Safak English": 3,
     "BBC": 12,
     "www.tmgm.com": 1,
-    "Reuters": 32,
+    "Reuters": 39,
     "The Washington Post": 4,
     "Gulf Business": 3,
-    "Saudi Gazette": 24,
+    "Saudi Gazette": 29,
     "Le Monde.fr": 3,
-    "Al-Monitor": 15,
+    "Al-Monitor": 22,
     "AP News": 7,
     "Financial Times": 10,
     "France 24": 14,
@@ -19586,9 +19586,13 @@
     "خبرگزاری اطلس": 1,
     "The Media Line": 1,
     "Apa.az": 1,
-    "Middle East Eye": 1,
+    "Middle East Eye": 2,
     "Eurasia Review": 1,
-    "thecradle.co": 1
+    "thecradle.co": 2,
+    "Facebook": 1,
+    "Daily News Egypt": 1,
+    "CNA": 1,
+    "The Times": 1
    },
    "sourceTone": {
     "وكالة الأنباء السعودية": [
@@ -19598,12 +19602,12 @@
     ],
     "WSJ": [
      0,
-     9,
+     12,
      0
     ],
     "Arab News": [
      0,
-     33,
+     40,
      0
     ],
     "Spiegel": [
@@ -19628,7 +19632,7 @@
     ],
     "Bioengineer.org": [
      0,
-     3,
+     4,
      0
     ],
     "Breakingthenews.net": [
@@ -19653,7 +19657,7 @@
     ],
     "Bloomberg.com": [
      0,
-     41,
+     43,
      0
     ],
     "The Guardian": [
@@ -19678,7 +19682,7 @@
     ],
     "Reuters": [
      0,
-     32,
+     39,
      0
     ],
     "The Washington Post": [
@@ -19693,7 +19697,7 @@
     ],
     "Saudi Gazette": [
      0,
-     24,
+     29,
      0
     ],
     "Le Monde.fr": [
@@ -19703,7 +19707,7 @@
     ],
     "Al-Monitor": [
      0,
-     15,
+     22,
      0
     ],
     "AP News": [
@@ -20013,7 +20017,7 @@
     ],
     "Middle East Eye": [
      0,
-     1,
+     2,
      0
     ],
     "Eurasia Review": [
@@ -20022,6 +20026,26 @@
      0
     ],
     "thecradle.co": [
+     0,
+     2,
+     0
+    ],
+    "Facebook": [
+     0,
+     1,
+     0
+    ],
+    "Daily News Egypt": [
+     0,
+     1,
+     0
+    ],
+    "CNA": [
+     0,
+     1,
+     0
+    ],
+    "The Times": [
      0,
      1,
      0
