@@ -18676,15 +18676,15 @@
    }
   },
   "2026-11-22": {
-   "total": 496,
-   "news": 492,
+   "total": 498,
+   "news": 494,
    "articles": 4,
    "positive": 0,
-   "neutral": 496,
+   "neutral": 498,
    "critical": 0,
    "mbs": 6,
    "countries": {
-    "GB": 105,
+    "GB": 107,
     "SA": 91,
     "FR": 18,
     "US": 66,
@@ -18695,7 +18695,7 @@
    "topics": {},
    "sources": {
     "Breakingthenews.net": 3,
-    "Reuters": 38,
+    "Reuters": 40,
     "The Guardian": 50,
     "Arab News": 85,
     "Anadolu Ajansı": 3,
@@ -18834,7 +18834,7 @@
     ],
     "Reuters": [
      0,
-     38,
+     40,
      0
     ],
     "The Guardian": [
@@ -19485,18 +19485,18 @@
    }
   },
   "2026-11-23": {
-   "total": 421,
-   "news": 416,
+   "total": 459,
+   "news": 454,
    "articles": 5,
    "positive": 0,
-   "neutral": 421,
+   "neutral": 459,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 107,
-    "SA": 71,
+    "US": 111,
+    "SA": 73,
     "DE": 4,
-    "GB": 97,
+    "GB": 106,
     "FR": 17,
     "JP": 1
    },
@@ -19504,7 +19504,7 @@
    "sources": {
     "وكالة الأنباء السعودية": 3,
     "WSJ": 12,
-    "Arab News": 50,
+    "Arab News": 54,
     "Spiegel": 4,
     "Sports Gambling Podcast": 1,
     "Arabian Gulf Business Insight | AGBI": 4,
@@ -19514,18 +19514,18 @@
     "The New Arab": 1,
     "FXStreet": 1,
     "TradingView": 2,
-    "Bloomberg.com": 43,
+    "Bloomberg.com": 45,
     "The Guardian": 21,
     "Yeni Safak English": 4,
     "BBC": 12,
-    "www.tmgm.com": 1,
-    "Reuters": 53,
+    "www.tmgm.com": 2,
+    "Reuters": 62,
     "The Washington Post": 4,
-    "Gulf Business": 3,
+    "Gulf Business": 4,
     "Saudi Gazette": 29,
     "Le Monde.fr": 3,
-    "Al-Monitor": 25,
-    "AP News": 7,
+    "Al-Monitor": 26,
+    "AP News": 8,
     "Financial Times": 10,
     "France 24": 14,
     "The New York Times": 10,
@@ -19540,14 +19540,14 @@
     "The New Region": 1,
     "Fast Company Middle East": 1,
     "The National": 3,
-    "EnergyNow": 2,
+    "EnergyNow": 3,
     "БНР Новини": 1,
     "IDNFinancials": 1,
     "Arabian Business": 2,
     "Kalkine": 1,
     "Caterer Middle East": 1,
     "Il Sole 24 ORE": 1,
-    "Finimize": 1,
+    "Finimize": 2,
     "TRT World": 1,
     "Quantum Commodity Intelligence": 1,
     "marketscreener.com": 2,
@@ -19570,9 +19570,9 @@
     "CairoScene": 1,
     "BioSpace": 1,
     "Responsible Statecraft": 1,
-    "Zawya": 1,
+    "Zawya": 2,
     "chinadailyhk": 1,
-    "https://houseofsaud.com/": 3,
+    "https://houseofsaud.com/": 4,
     "Upstream Online": 1,
     "Dhaka Tribune": 1,
     "Decode39": 1,
@@ -19599,7 +19599,21 @@
     "press.on-running.com": 1,
     "Cato Institute": 1,
     "Yahoo Sports": 1,
-    "ChemAnalyst": 1
+    "ChemAnalyst": 1,
+    "IndexBox": 2,
+    "Investing.com": 1,
+    "Hungarian Conservative": 1,
+    "Muslim Network TV": 1,
+    "Business Insider Africa": 1,
+    "Daily Cal": 1,
+    "Wamda": 1,
+    "The AFC": 1,
+    "Daily Sabah": 1,
+    "energynews.pro": 1,
+    "Egypt Today": 1,
+    "Avi-Go": 1,
+    "Crypto Briefing": 1,
+    "Middle East Monitor": 1
    },
    "sourceTone": {
     "وكالة الأنباء السعودية": [
@@ -19614,7 +19628,7 @@
     ],
     "Arab News": [
      0,
-     50,
+     54,
      0
     ],
     "Spiegel": [
@@ -19664,7 +19678,7 @@
     ],
     "Bloomberg.com": [
      0,
-     43,
+     45,
      0
     ],
     "The Guardian": [
@@ -19684,12 +19698,12 @@
     ],
     "www.tmgm.com": [
      0,
-     1,
+     2,
      0
     ],
     "Reuters": [
      0,
-     53,
+     62,
      0
     ],
     "The Washington Post": [
@@ -19699,7 +19713,7 @@
     ],
     "Gulf Business": [
      0,
-     3,
+     4,
      0
     ],
     "Saudi Gazette": [
@@ -19714,12 +19728,12 @@
     ],
     "Al-Monitor": [
      0,
-     25,
+     26,
      0
     ],
     "AP News": [
      0,
-     7,
+     8,
      0
     ],
     "Financial Times": [
@@ -19794,7 +19808,7 @@
     ],
     "EnergyNow": [
      0,
-     2,
+     3,
      0
     ],
     "БНР Новини": [
@@ -19829,7 +19843,7 @@
     ],
     "Finimize": [
      0,
-     1,
+     2,
      0
     ],
     "TRT World": [
@@ -19944,7 +19958,7 @@
     ],
     "Zawya": [
      0,
-     1,
+     2,
      0
     ],
     "chinadailyhk": [
@@ -19954,7 +19968,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     3,
+     4,
      0
     ],
     "Upstream Online": [
@@ -20088,6 +20102,76 @@
      0
     ],
     "ChemAnalyst": [
+     0,
+     1,
+     0
+    ],
+    "IndexBox": [
+     0,
+     2,
+     0
+    ],
+    "Investing.com": [
+     0,
+     1,
+     0
+    ],
+    "Hungarian Conservative": [
+     0,
+     1,
+     0
+    ],
+    "Muslim Network TV": [
+     0,
+     1,
+     0
+    ],
+    "Business Insider Africa": [
+     0,
+     1,
+     0
+    ],
+    "Daily Cal": [
+     0,
+     1,
+     0
+    ],
+    "Wamda": [
+     0,
+     1,
+     0
+    ],
+    "The AFC": [
+     0,
+     1,
+     0
+    ],
+    "Daily Sabah": [
+     0,
+     1,
+     0
+    ],
+    "energynews.pro": [
+     0,
+     1,
+     0
+    ],
+    "Egypt Today": [
+     0,
+     1,
+     0
+    ],
+    "Avi-Go": [
+     0,
+     1,
+     0
+    ],
+    "Crypto Briefing": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Monitor": [
      0,
      1,
      0
