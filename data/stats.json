@@ -19485,15 +19485,15 @@
    }
   },
   "2026-11-23": {
-   "total": 199,
-   "news": 199,
+   "total": 203,
+   "news": 203,
    "articles": 0,
    "positive": 0,
-   "neutral": 199,
+   "neutral": 203,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "US": 42,
+    "US": 44,
     "SA": 26,
     "DE": 3,
     "GB": 45,
@@ -19514,13 +19514,13 @@
     "The New Arab": 1,
     "FXStreet": 1,
     "TradingView": 2,
-    "Bloomberg.com": 25,
+    "Bloomberg.com": 26,
     "The Guardian": 14,
     "Yeni Safak English": 2,
     "BBC": 5,
     "www.tmgm.com": 1,
     "Reuters": 20,
-    "The Washington Post": 1,
+    "The Washington Post": 2,
     "Gulf Business": 3,
     "Saudi Gazette": 11,
     "Le Monde.fr": 1,
@@ -19572,7 +19572,9 @@
     "Responsible Statecraft": 1,
     "Zawya": 1,
     "chinadailyhk": 1,
-    "https://houseofsaud.com/": 1
+    "https://houseofsaud.com/": 1,
+    "Upstream Online": 1,
+    "Dhaka Tribune": 1
    },
    "sourceTone": {
     "وكالة الأنباء السعودية": [
@@ -19637,7 +19639,7 @@
     ],
     "Bloomberg.com": [
      0,
-     25,
+     26,
      0
     ],
     "The Guardian": [
@@ -19667,7 +19669,7 @@
     ],
     "The Washington Post": [
      0,
-     1,
+     2,
      0
     ],
     "Gulf Business": [
@@ -19926,6 +19928,16 @@
      0
     ],
     "https://houseofsaud.com/": [
+     0,
+     1,
+     0
+    ],
+    "Upstream Online": [
+     0,
+     1,
+     0
+    ],
+    "Dhaka Tribune": [
      0,
      1,
      0
