@@ -19485,15 +19485,15 @@
    }
   },
   "2026-11-23": {
-   "total": 221,
-   "news": 221,
+   "total": 223,
+   "news": 223,
    "articles": 0,
    "positive": 0,
-   "neutral": 221,
+   "neutral": 223,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "US": 49,
+    "US": 50,
     "SA": 28,
     "DE": 3,
     "GB": 51,
@@ -19514,9 +19514,9 @@
     "The New Arab": 1,
     "FXStreet": 1,
     "TradingView": 2,
-    "Bloomberg.com": 30,
+    "Bloomberg.com": 31,
     "The Guardian": 15,
-    "Yeni Safak English": 2,
+    "Yeni Safak English": 3,
     "BBC": 9,
     "www.tmgm.com": 1,
     "Reuters": 21,
@@ -19642,7 +19642,7 @@
     ],
     "Bloomberg.com": [
      0,
-     30,
+     31,
      0
     ],
     "The Guardian": [
@@ -19652,7 +19652,7 @@
     ],
     "Yeni Safak English": [
      0,
-     2,
+     3,
      0
     ],
     "BBC": [
