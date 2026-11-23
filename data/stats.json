@@ -19479,18 +19479,18 @@
    }
   },
   "2026-11-23": {
-   "total": 170,
-   "news": 170,
+   "total": 173,
+   "news": 173,
    "articles": 0,
    "positive": 0,
-   "neutral": 170,
+   "neutral": 173,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 41,
-    "SA": 19,
+    "SA": 21,
     "DE": 3,
-    "GB": 41,
+    "GB": 42,
     "FR": 3,
     "JP": 1
    },
@@ -19498,7 +19498,7 @@
    "sources": {
     "وكالة الأنباء السعودية": 2,
     "WSJ": 6,
-    "Arab News": 13,
+    "Arab News": 15,
     "Spiegel": 3,
     "Sports Gambling Podcast": 1,
     "Arabian Gulf Business Insight | AGBI": 4,
@@ -19509,7 +19509,7 @@
     "FXStreet": 1,
     "TradingView": 2,
     "Bloomberg.com": 24,
-    "The Guardian": 12,
+    "The Guardian": 13,
     "Yeni Safak English": 2,
     "BBC": 3,
     "www.tmgm.com": 1,
@@ -19570,7 +19570,7 @@
     ],
     "Arab News": [
      0,
-     13,
+     15,
      0
     ],
     "Spiegel": [
@@ -19625,7 +19625,7 @@
     ],
     "The Guardian": [
      0,
-     12,
+     13,
      0
     ],
     "Yeni Safak English": [
