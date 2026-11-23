@@ -16915,15 +16915,15 @@
    }
   },
   "2026-11-20": {
-   "total": 1025,
-   "news": 1008,
+   "total": 1026,
+   "news": 1009,
    "articles": 17,
    "positive": 0,
-   "neutral": 1025,
+   "neutral": 1026,
    "critical": 0,
    "mbs": 8,
    "countries": {
-    "US": 244,
+    "US": 245,
     "SA": 125,
     "FR": 113,
     "GB": 320,
@@ -16936,7 +16936,7 @@
     "WSJ": 102,
     "The AFC": 1,
     "Atlantic Council": 8,
-    "Al-Monitor": 36,
+    "Al-Monitor": 37,
     "Arab News": 97,
     "France 24": 110,
     "The New York Times": 23,
@@ -17107,7 +17107,7 @@
     ],
     "Al-Monitor": [
      0,
-     36,
+     37,
      0
     ],
     "Arab News": [
@@ -17868,17 +17868,17 @@
    }
   },
   "2026-11-21": {
-   "total": 518,
-   "news": 515,
+   "total": 521,
+   "news": 518,
    "articles": 3,
    "positive": 0,
-   "neutral": 518,
+   "neutral": 521,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 46,
-    "SA": 70,
-    "GB": 141,
+    "SA": 71,
+    "GB": 143,
     "FR": 76,
     "DE": 1,
     "HK": 1
@@ -17887,7 +17887,7 @@
    "sources": {
     "The Washington Post": 2,
     "www.marketscreener.com": 1,
-    "Arab News": 67,
+    "Arab News": 68,
     "الحرة": 1,
     "The Jerusalem Post": 1,
     "Українські Національні Новини (УНН)": 1,
@@ -17930,7 +17930,7 @@
     "Nacionale": 1,
     "The Malaysian Reserve": 1,
     "Arab News PK": 1,
-    "Reuters": 53,
+    "Reuters": 55,
     "Le Monde.fr": 4,
     "Saudi Gazette": 14,
     "X": 1,
@@ -18030,7 +18030,7 @@
     ],
     "Arab News": [
      0,
-     67,
+     68,
      0
     ],
     "الحرة": [
@@ -18245,7 +18245,7 @@
     ],
     "Reuters": [
      0,
-     53,
+     55,
      0
     ],
     "Le Monde.fr": [
@@ -18676,18 +18676,18 @@
    }
   },
   "2026-11-22": {
-   "total": 438,
-   "news": 436,
-   "articles": 2,
+   "total": 460,
+   "news": 457,
+   "articles": 3,
    "positive": 0,
-   "neutral": 438,
+   "neutral": 460,
    "critical": 0,
    "mbs": 6,
    "countries": {
-    "GB": 95,
-    "SA": 78,
-    "FR": 16,
-    "US": 47,
+    "GB": 98,
+    "SA": 83,
+    "FR": 18,
+    "US": 54,
     "HK": 4,
     "DE": 11,
     "JP": 1
@@ -18696,17 +18696,17 @@
    "sources": {
     "Breakingthenews.net": 3,
     "Reuters": 34,
-    "The Guardian": 46,
-    "Arab News": 72,
+    "The Guardian": 47,
+    "Arab News": 76,
     "Anadolu Ajansı": 3,
-    "France 24": 10,
-    "Al-Monitor": 17,
+    "France 24": 12,
+    "Al-Monitor": 18,
     "TRT World": 1,
     "The Washington Post": 4,
     "BBC": 9,
-    "Le Monde.fr": 6,
-    "Financial Times": 5,
-    "The New York Times": 10,
+    "Le Monde.fr": 7,
+    "Financial Times": 6,
+    "The New York Times": 13,
     "South China Morning Post": 4,
     "Spiegel": 11,
     "US Muslims": 2,
@@ -18735,7 +18735,7 @@
     "Madhyamam": 1,
     "Firstpost": 1,
     "KLSE Screener": 1,
-    "Saudi Gazette": 28,
+    "Saudi Gazette": 29,
     "AP News": 7,
     "Investing.com": 2,
     "EA WorldView": 1,
@@ -18743,11 +18743,11 @@
     "8AM Media": 1,
     "Investing.com South Africa": 1,
     "Goal.com": 2,
-    "Bloomberg.com": 8,
+    "Bloomberg.com": 9,
     "WE News English": 1,
     "Nikkei Asia": 1,
-    "WSJ": 2,
-    "The Economist": 3,
+    "WSJ": 3,
+    "The Economist": 4,
     "Inshorts": 1,
     "ANTARA News": 1,
     "The Arab Weekly": 1,
@@ -18810,13 +18810,17 @@
     "파이낸셜뉴스": 1,
     "Briefs Finance": 1,
     "The Times": 1,
-    "CNN": 1,
+    "CNN": 2,
     "Bankingnews": 1,
     "Daily Sun": 1,
     "Defence Industry Europe": 1,
     "Dallas Express": 1,
     "Luxurious Magazine": 1,
-    "BurgasMedia": 1
+    "BurgasMedia": 1,
+    "Avi-Go": 1,
+    "Sudan Tribune": 1,
+    "The Media Line": 1,
+    "The New Arab": 1
    },
    "sourceTone": {
     "Breakingthenews.net": [
@@ -18831,12 +18835,12 @@
     ],
     "The Guardian": [
      0,
-     46,
+     47,
      0
     ],
     "Arab News": [
      0,
-     72,
+     76,
      0
     ],
     "Anadolu Ajansı": [
@@ -18846,12 +18850,12 @@
     ],
     "France 24": [
      0,
-     10,
+     12,
      0
     ],
     "Al-Monitor": [
      0,
-     17,
+     18,
      0
     ],
     "TRT World": [
@@ -18871,17 +18875,17 @@
     ],
     "Le Monde.fr": [
      0,
-     6,
+     7,
      0
     ],
     "Financial Times": [
      0,
-     5,
+     6,
      0
     ],
     "The New York Times": [
      0,
-     10,
+     13,
      0
     ],
     "South China Morning Post": [
@@ -19026,7 +19030,7 @@
     ],
     "Saudi Gazette": [
      0,
-     28,
+     29,
      0
     ],
     "AP News": [
@@ -19066,7 +19070,7 @@
     ],
     "Bloomberg.com": [
      0,
-     8,
+     9,
      0
     ],
     "WE News English": [
@@ -19081,12 +19085,12 @@
     ],
     "WSJ": [
      0,
-     2,
+     3,
      0
     ],
     "The Economist": [
      0,
-     3,
+     4,
      0
     ],
     "Inshorts": [
@@ -19401,7 +19405,7 @@
     ],
     "CNN": [
      0,
-     1,
+     2,
      0
     ],
     "Bankingnews": [
@@ -19430,6 +19434,111 @@
      0
     ],
     "BurgasMedia": [
+     0,
+     1,
+     0
+    ],
+    "Avi-Go": [
+     0,
+     1,
+     0
+    ],
+    "Sudan Tribune": [
+     0,
+     1,
+     0
+    ],
+    "The Media Line": [
+     0,
+     1,
+     0
+    ],
+    "The New Arab": [
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "2026-11-23": {
+   "total": 14,
+   "news": 14,
+   "articles": 0,
+   "positive": 0,
+   "neutral": 14,
+   "critical": 0,
+   "mbs": 0,
+   "countries": {
+    "US": 2,
+    "SA": 2,
+    "DE": 1
+   },
+   "topics": {},
+   "sources": {
+    "وكالة الأنباء السعودية": 2,
+    "WSJ": 2,
+    "Arab News": 2,
+    "Spiegel": 1,
+    "Sports Gambling Podcast": 1,
+    "Arabian Gulf Business Insight | AGBI": 1,
+    "Central Oregon Daily": 1,
+    "Bioengineer.org": 1,
+    "Breakingthenews.net": 1,
+    "The New Arab": 1,
+    "FXStreet": 1
+   },
+   "sourceTone": {
+    "وكالة الأنباء السعودية": [
+     0,
+     2,
+     0
+    ],
+    "WSJ": [
+     0,
+     2,
+     0
+    ],
+    "Arab News": [
+     0,
+     2,
+     0
+    ],
+    "Spiegel": [
+     0,
+     1,
+     0
+    ],
+    "Sports Gambling Podcast": [
+     0,
+     1,
+     0
+    ],
+    "Arabian Gulf Business Insight | AGBI": [
+     0,
+     1,
+     0
+    ],
+    "Central Oregon Daily": [
+     0,
+     1,
+     0
+    ],
+    "Bioengineer.org": [
+     0,
+     1,
+     0
+    ],
+    "Breakingthenews.net": [
+     0,
+     1,
+     0
+    ],
+    "The New Arab": [
+     0,
+     1,
+     0
+    ],
+    "FXStreet": [
      0,
      1,
      0
