@@ -19485,15 +19485,15 @@
    }
   },
   "2026-11-23": {
-   "total": 211,
-   "news": 211,
+   "total": 213,
+   "news": 213,
    "articles": 0,
    "positive": 0,
-   "neutral": 211,
+   "neutral": 213,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "US": 46,
+    "US": 47,
     "SA": 27,
     "DE": 3,
     "GB": 47,
@@ -19514,7 +19514,7 @@
     "The New Arab": 1,
     "FXStreet": 1,
     "TradingView": 2,
-    "Bloomberg.com": 28,
+    "Bloomberg.com": 29,
     "The Guardian": 15,
     "Yeni Safak English": 2,
     "BBC": 5,
@@ -19576,7 +19576,8 @@
     "Upstream Online": 1,
     "Dhaka Tribune": 1,
     "Decode39": 1,
-    "EADaily": 1
+    "EADaily": 1,
+    "Kurdistan24": 1
    },
    "sourceTone": {
     "وكالة الأنباء السعودية": [
@@ -19641,7 +19642,7 @@
     ],
     "Bloomberg.com": [
      0,
-     28,
+     29,
      0
     ],
     "The Guardian": [
@@ -19950,6 +19951,11 @@
      0
     ],
     "EADaily": [
+     0,
+     1,
+     0
+    ],
+    "Kurdistan24": [
      0,
      1,
      0
