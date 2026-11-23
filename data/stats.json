@@ -18676,11 +18676,11 @@
    }
   },
   "2026-11-22": {
-   "total": 499,
-   "news": 494,
+   "total": 500,
+   "news": 495,
    "articles": 5,
    "positive": 0,
-   "neutral": 499,
+   "neutral": 500,
    "critical": 0,
    "mbs": 6,
    "countries": {
@@ -18688,7 +18688,7 @@
     "SA": 91,
     "FR": 18,
     "US": 66,
-    "HK": 4,
+    "HK": 5,
     "DE": 11,
     "JP": 1
    },
@@ -18707,7 +18707,7 @@
     "Le Monde.fr": 7,
     "Financial Times": 6,
     "The New York Times": 18,
-    "South China Morning Post": 4,
+    "South China Morning Post": 5,
     "Spiegel": 11,
     "US Muslims": 2,
     "The AFC": 4,
@@ -18894,7 +18894,7 @@
     ],
     "South China Morning Post": [
      0,
-     4,
+     5,
      0
     ],
     "Spiegel": [
