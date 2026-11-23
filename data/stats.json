@@ -19485,11 +19485,11 @@
    }
   },
   "2026-11-23": {
-   "total": 501,
-   "news": 496,
+   "total": 502,
+   "news": 497,
    "articles": 5,
    "positive": 0,
-   "neutral": 501,
+   "neutral": 502,
    "critical": 0,
    "mbs": 7,
    "countries": {
@@ -19504,7 +19504,7 @@
    "sources": {
     "وكالة الأنباء السعودية": 3,
     "WSJ": 16,
-    "Arab News": 55,
+    "Arab News": 56,
     "Spiegel": 4,
     "Sports Gambling Podcast": 1,
     "Arabian Gulf Business Insight | AGBI": 4,
@@ -19645,7 +19645,7 @@
     ],
     "Arab News": [
      0,
-     55,
+     56,
      0
     ],
     "Spiegel": [
