@@ -19485,27 +19485,27 @@
    }
   },
   "2026-11-23": {
-   "total": 226,
-   "news": 226,
-   "articles": 0,
+   "total": 266,
+   "news": 261,
+   "articles": 5,
    "positive": 0,
-   "neutral": 226,
+   "neutral": 266,
    "critical": 0,
-   "mbs": 1,
+   "mbs": 3,
    "countries": {
-    "US": 50,
-    "SA": 29,
-    "DE": 3,
-    "GB": 51,
-    "FR": 6,
+    "US": 68,
+    "SA": 33,
+    "DE": 4,
+    "GB": 60,
+    "FR": 9,
     "JP": 1
    },
    "topics": {},
    "sources": {
     "وكالة الأنباء السعودية": 2,
-    "WSJ": 6,
-    "Arab News": 20,
-    "Spiegel": 3,
+    "WSJ": 8,
+    "Arab News": 24,
+    "Spiegel": 4,
     "Sports Gambling Podcast": 1,
     "Arabian Gulf Business Insight | AGBI": 4,
     "Central Oregon Daily": 1,
@@ -19514,28 +19514,28 @@
     "The New Arab": 1,
     "FXStreet": 1,
     "TradingView": 2,
-    "Bloomberg.com": 31,
-    "The Guardian": 15,
+    "Bloomberg.com": 33,
+    "The Guardian": 17,
     "Yeni Safak English": 3,
-    "BBC": 9,
+    "BBC": 11,
     "www.tmgm.com": 1,
-    "Reuters": 21,
-    "The Washington Post": 2,
+    "Reuters": 23,
+    "The Washington Post": 4,
     "Gulf Business": 3,
-    "Saudi Gazette": 12,
-    "Le Monde.fr": 2,
-    "Al-Monitor": 4,
-    "AP News": 4,
-    "Financial Times": 6,
-    "France 24": 4,
-    "The New York Times": 3,
+    "Saudi Gazette": 15,
+    "Le Monde.fr": 3,
+    "Al-Monitor": 6,
+    "AP News": 6,
+    "Financial Times": 8,
+    "France 24": 6,
+    "The New York Times": 5,
     "Nikkei Asia": 1,
     "Condé Nast Traveller Middle East": 1,
     "pv magazine Global": 1,
     "The Arab Weekly": 2,
     "شفق نيوز": 1,
     "The Mercury News": 1,
-    "ASHARQ AL-AWSAT English": 4,
+    "ASHARQ AL-AWSAT English": 5,
     "سانا": 1,
     "The New Region": 1,
     "Fast Company Middle East": 1,
@@ -19577,7 +19577,12 @@
     "Dhaka Tribune": 1,
     "Decode39": 1,
     "EADaily": 1,
-    "Kurdistan24": 1
+    "Kurdistan24": 1,
+    "Goal.com": 1,
+    "Atlantic Council": 3,
+    "Foreign Policy": 1,
+    "The Economist": 1,
+    "CNN": 2
    },
    "sourceTone": {
     "وكالة الأنباء السعودية": [
@@ -19587,17 +19592,17 @@
     ],
     "WSJ": [
      0,
-     6,
+     8,
      0
     ],
     "Arab News": [
      0,
-     20,
+     24,
      0
     ],
     "Spiegel": [
      0,
-     3,
+     4,
      0
     ],
     "Sports Gambling Podcast": [
@@ -19642,12 +19647,12 @@
     ],
     "Bloomberg.com": [
      0,
-     31,
+     33,
      0
     ],
     "The Guardian": [
      0,
-     15,
+     17,
      0
     ],
     "Yeni Safak English": [
@@ -19657,7 +19662,7 @@
     ],
     "BBC": [
      0,
-     9,
+     11,
      0
     ],
     "www.tmgm.com": [
@@ -19667,12 +19672,12 @@
     ],
     "Reuters": [
      0,
-     21,
+     23,
      0
     ],
     "The Washington Post": [
      0,
-     2,
+     4,
      0
     ],
     "Gulf Business": [
@@ -19682,37 +19687,37 @@
     ],
     "Saudi Gazette": [
      0,
-     12,
+     15,
      0
     ],
     "Le Monde.fr": [
      0,
-     2,
+     3,
      0
     ],
     "Al-Monitor": [
      0,
-     4,
+     6,
      0
     ],
     "AP News": [
      0,
-     4,
+     6,
      0
     ],
     "Financial Times": [
      0,
-     6,
+     8,
      0
     ],
     "France 24": [
      0,
-     4,
+     6,
      0
     ],
     "The New York Times": [
      0,
-     3,
+     5,
      0
     ],
     "Nikkei Asia": [
@@ -19747,7 +19752,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     4,
+     5,
      0
     ],
     "سانا": [
@@ -19958,6 +19963,31 @@
     "Kurdistan24": [
      0,
      1,
+     0
+    ],
+    "Goal.com": [
+     0,
+     1,
+     0
+    ],
+    "Atlantic Council": [
+     0,
+     3,
+     0
+    ],
+    "Foreign Policy": [
+     0,
+     1,
+     0
+    ],
+    "The Economist": [
+     0,
+     1,
+     0
+    ],
+    "CNN": [
+     0,
+     2,
      0
     ]
    }
