@@ -19485,11 +19485,11 @@
    }
   },
   "2026-11-23": {
-   "total": 498,
-   "news": 493,
+   "total": 501,
+   "news": 496,
    "articles": 5,
    "positive": 0,
-   "neutral": 498,
+   "neutral": 501,
    "critical": 0,
    "mbs": 7,
    "countries": {
@@ -19572,7 +19572,7 @@
     "Responsible Statecraft": 1,
     "Zawya": 2,
     "chinadailyhk": 1,
-    "https://houseofsaud.com/": 4,
+    "https://houseofsaud.com/": 5,
     "Upstream Online": 1,
     "Dhaka Tribune": 1,
     "Decode39": 1,
@@ -19628,7 +19628,9 @@
     "アラブニュース": 1,
     "HESPRESS English - Morocco News": 1,
     "www.marketscreener.com": 1,
-    "Iran International": 1
+    "Iran International": 1,
+    "Council on Foreign Relations": 1,
+    "thenationalnews.com": 1
    },
    "sourceTone": {
     "وكالة الأنباء السعودية": [
@@ -19983,7 +19985,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     4,
+     5,
      0
     ],
     "Upstream Online": [
@@ -20262,6 +20264,16 @@
      0
     ],
     "Iran International": [
+     0,
+     1,
+     0
+    ],
+    "Council on Foreign Relations": [
+     0,
+     1,
+     0
+    ],
+    "thenationalnews.com": [
      0,
      1,
      0
