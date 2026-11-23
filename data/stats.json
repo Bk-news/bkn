@@ -19479,11 +19479,11 @@
    }
   },
   "2026-11-23": {
-   "total": 21,
-   "news": 21,
+   "total": 22,
+   "news": 22,
    "articles": 0,
    "positive": 0,
-   "neutral": 21,
+   "neutral": 22,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -19509,7 +19509,8 @@
     "Bloomberg.com": 1,
     "The Guardian": 1,
     "Yeni Safak English": 1,
-    "BBC": 1
+    "BBC": 1,
+    "www.tmgm.com": 1
    },
    "sourceTone": {
     "وكالة الأنباء السعودية": [
@@ -19588,6 +19589,11 @@
      0
     ],
     "BBC": [
+     0,
+     1,
+     0
+    ],
+    "www.tmgm.com": [
      0,
      1,
      0
