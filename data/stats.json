@@ -19485,16 +19485,16 @@
    }
   },
   "2026-11-23": {
-   "total": 195,
-   "news": 195,
+   "total": 196,
+   "news": 196,
    "articles": 0,
    "positive": 0,
-   "neutral": 195,
+   "neutral": 196,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 42,
-    "SA": 23,
+    "SA": 24,
     "DE": 3,
     "GB": 45,
     "FR": 3,
@@ -19522,7 +19522,7 @@
     "Reuters": 20,
     "The Washington Post": 1,
     "Gulf Business": 3,
-    "Saudi Gazette": 9,
+    "Saudi Gazette": 10,
     "Le Monde.fr": 1,
     "Al-Monitor": 4,
     "AP News": 4,
@@ -19676,7 +19676,7 @@
     ],
     "Saudi Gazette": [
      0,
-     9,
+     10,
      0
     ],
     "Le Monde.fr": [
