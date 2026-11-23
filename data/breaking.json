@@ -1,5 +1,17 @@
 [
  {
+  "id": "7c0c43907b3f4f24",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "مجلس الأمن القومي الليبي: نتمسك بحقنا في الرد على الاعتداء على ميناء بنغازي",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/155047",
+  "published": "2026-11-23T10:01:19.000Z",
+  "subject": "saudi",
+  "added": "2026-11-23T10:01:19.000Z"
+ },
+ {
   "id": "4478ee2fa5fc35a1",
   "origin": "royal",
   "source": "واس الملكية",
@@ -82,17 +94,5 @@
   "published": "2026-11-23T09:03:02.000Z",
   "subject": "saudi",
   "added": "2026-11-23T09:03:02.000Z"
- },
- {
-  "id": "8a7a4347fb35cf39",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "زيلينسكي: روسيا تطمع في المزيد من أراضي أوكرانيا",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/155040",
-  "published": "2026-11-23T09:01:42.000Z",
-  "subject": "saudi",
-  "added": "2026-11-23T09:01:42.000Z"
  }
 ]
