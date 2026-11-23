@@ -19485,16 +19485,16 @@
    }
   },
   "2026-11-23": {
-   "total": 196,
-   "news": 196,
+   "total": 199,
+   "news": 199,
    "articles": 0,
    "positive": 0,
-   "neutral": 196,
+   "neutral": 199,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 42,
-    "SA": 24,
+    "SA": 26,
     "DE": 3,
     "GB": 45,
     "FR": 3,
@@ -19504,7 +19504,7 @@
    "sources": {
     "وكالة الأنباء السعودية": 2,
     "WSJ": 6,
-    "Arab News": 17,
+    "Arab News": 18,
     "Spiegel": 3,
     "Sports Gambling Podcast": 1,
     "Arabian Gulf Business Insight | AGBI": 4,
@@ -19522,7 +19522,7 @@
     "Reuters": 20,
     "The Washington Post": 1,
     "Gulf Business": 3,
-    "Saudi Gazette": 10,
+    "Saudi Gazette": 11,
     "Le Monde.fr": 1,
     "Al-Monitor": 4,
     "AP News": 4,
@@ -19571,7 +19571,8 @@
     "BioSpace": 1,
     "Responsible Statecraft": 1,
     "Zawya": 1,
-    "chinadailyhk": 1
+    "chinadailyhk": 1,
+    "https://houseofsaud.com/": 1
    },
    "sourceTone": {
     "وكالة الأنباء السعودية": [
@@ -19586,7 +19587,7 @@
     ],
     "Arab News": [
      0,
-     17,
+     18,
      0
     ],
     "Spiegel": [
@@ -19676,7 +19677,7 @@
     ],
     "Saudi Gazette": [
      0,
-     10,
+     11,
      0
     ],
     "Le Monde.fr": [
@@ -19920,6 +19921,11 @@
      0
     ],
     "chinadailyhk": [
+     0,
+     1,
+     0
+    ],
+    "https://houseofsaud.com/": [
      0,
      1,
      0
