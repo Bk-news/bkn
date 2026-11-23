@@ -18676,11 +18676,11 @@
    }
   },
   "2026-11-22": {
-   "total": 460,
-   "news": 457,
+   "total": 462,
+   "news": 459,
    "articles": 3,
    "positive": 0,
-   "neutral": 460,
+   "neutral": 462,
    "critical": 0,
    "mbs": 6,
    "countries": {
@@ -18714,7 +18714,7 @@
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 2,
     "ASHARQ AL-AWSAT English": 3,
     "Deccan Chronicle": 1,
-    "https://houseofsaud.com/": 6,
+    "https://houseofsaud.com/": 7,
     "ABNA English": 2,
     "i24NEWS": 1,
     "Українські Національні Новини (УНН)": 1,
@@ -18752,7 +18752,7 @@
     "ANTARA News": 1,
     "The Arab Weekly": 1,
     "Sports Illustrated": 1,
-    "وكالة الأنباء السعودية": 9,
+    "وكالة الأنباء السعودية": 10,
     "Jerusalem Center for Security and Foreign Affairs": 1,
     "Iran International": 2,
     "The Des Moines Register": 1,
@@ -18925,7 +18925,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     6,
+     7,
      0
     ],
     "ABNA English": [
@@ -19115,7 +19115,7 @@
     ],
     "وكالة الأنباء السعودية": [
      0,
-     9,
+     10,
      0
     ],
     "Jerusalem Center for Security and Foreign Affairs": [
