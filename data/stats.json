@@ -18676,16 +18676,16 @@
    }
   },
   "2026-11-22": {
-   "total": 470,
-   "news": 467,
+   "total": 471,
+   "news": 468,
    "articles": 3,
    "positive": 0,
-   "neutral": 470,
+   "neutral": 471,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "GB": 98,
-    "SA": 85,
+    "SA": 86,
     "FR": 18,
     "US": 56,
     "HK": 4,
@@ -18697,7 +18697,7 @@
     "Breakingthenews.net": 3,
     "Reuters": 34,
     "The Guardian": 47,
-    "Arab News": 78,
+    "Arab News": 79,
     "Anadolu Ajansı": 3,
     "France 24": 12,
     "Al-Monitor": 18,
@@ -18843,7 +18843,7 @@
     ],
     "Arab News": [
      0,
-     78,
+     79,
      0
     ],
     "Anadolu Ajansı": [
@@ -19479,17 +19479,18 @@
    }
   },
   "2026-11-23": {
-   "total": 17,
-   "news": 17,
+   "total": 18,
+   "news": 18,
    "articles": 0,
    "positive": 0,
-   "neutral": 17,
+   "neutral": 18,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 3,
     "SA": 3,
-    "DE": 1
+    "DE": 1,
+    "GB": 1
    },
    "topics": {},
    "sources": {
@@ -19505,7 +19506,8 @@
     "The New Arab": 1,
     "FXStreet": 1,
     "TradingView": 1,
-    "Bloomberg.com": 1
+    "Bloomberg.com": 1,
+    "The Guardian": 1
    },
    "sourceTone": {
     "وكالة الأنباء السعودية": [
@@ -19569,6 +19571,11 @@
      0
     ],
     "Bloomberg.com": [
+     0,
+     1,
+     0
+    ],
+    "The Guardian": [
      0,
      1,
      0
