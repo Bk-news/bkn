@@ -1,22 +1,26 @@
 {
- "run": "2026-11-23T10:31:21.513Z",
+ "run": "2026-11-23T10:32:21.737Z",
  "key": true,
  "model": "claude-haiku-5-5",
- "feedsOk": 24,
- "feedsFailed": [],
- "fetched": 728,
- "fresh": 0,
- "world": 0,
- "analyzed": 0,
- "analyzeErrors": 0,
- "lastError": "Anthropic 401: {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChKhu74cYPBSbVnV5zfzW\"}",
+ "feedsOk": 22,
+ "feedsFailed": [
+  "BBC: HTTP 429",
+  "Foreign Policy: HTTP 429"
+ ],
+ "fetched": 709,
+ "fresh": 4,
+ "world": 4,
+ "analyzed": 3,
+ "analyzeErrors": 1,
+ "lastError": "Anthropic 401: {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChKhybYVp6CtjYYUNXUiB\"}",
  "telegram": 20,
  "royal": 0,
+ "mt": 4,
  "keyRejected": true,
- "pending": 781,
+ "pending": 785,
  "added": {
-  "news": 0,
+  "news": 4,
   "articles": 0,
-  "breaking": 2
+  "breaking": 0
  }
 }
