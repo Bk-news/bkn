@@ -18676,11 +18676,11 @@
    }
   },
   "2026-11-22": {
-   "total": 468,
-   "news": 465,
+   "total": 470,
+   "news": 467,
    "articles": 3,
    "positive": 0,
-   "neutral": 468,
+   "neutral": 470,
    "critical": 0,
    "mbs": 6,
    "countries": {
@@ -18733,7 +18733,7 @@
     "Middle East Online": 2,
     "Gulf Today": 1,
     "Madhyamam": 1,
-    "Firstpost": 1,
+    "Firstpost": 2,
     "KLSE Screener": 1,
     "Saudi Gazette": 29,
     "AP News": 9,
@@ -18822,7 +18822,8 @@
     "The Media Line": 1,
     "The New Arab": 1,
     "JNS": 1,
-    "Japan Today": 1
+    "Japan Today": 1,
+    "Newswav": 1
    },
    "sourceTone": {
     "Breakingthenews.net": [
@@ -19022,7 +19023,7 @@
     ],
     "Firstpost": [
      0,
-     1,
+     2,
      0
     ],
     "KLSE Screener": [
@@ -19466,6 +19467,11 @@
      0
     ],
     "Japan Today": [
+     0,
+     1,
+     0
+    ],
+    "Newswav": [
      0,
      1,
      0
