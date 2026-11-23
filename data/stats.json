@@ -18676,18 +18676,18 @@
    }
   },
   "2026-11-22": {
-   "total": 490,
-   "news": 487,
-   "articles": 3,
+   "total": 492,
+   "news": 488,
+   "articles": 4,
    "positive": 0,
-   "neutral": 490,
+   "neutral": 492,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "GB": 105,
     "SA": 90,
     "FR": 18,
-    "US": 61,
+    "US": 63,
     "HK": 4,
     "DE": 11,
     "JP": 1
@@ -18706,7 +18706,7 @@
     "BBC": 9,
     "Le Monde.fr": 7,
     "Financial Times": 6,
-    "The New York Times": 15,
+    "The New York Times": 16,
     "South China Morning Post": 4,
     "Spiegel": 11,
     "US Muslims": 2,
@@ -18823,7 +18823,8 @@
     "The New Arab": 1,
     "JNS": 1,
     "Japan Today": 1,
-    "Newswav": 1
+    "Newswav": 1,
+    "Atlantic Council": 1
    },
    "sourceTone": {
     "Breakingthenews.net": [
@@ -18888,7 +18889,7 @@
     ],
     "The New York Times": [
      0,
-     15,
+     16,
      0
     ],
     "South China Morning Post": [
@@ -19475,20 +19476,25 @@
      0,
      1,
      0
+    ],
+    "Atlantic Council": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-23": {
-   "total": 193,
-   "news": 193,
+   "total": 195,
+   "news": 195,
    "articles": 0,
    "positive": 0,
-   "neutral": 193,
+   "neutral": 195,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "US": 41,
-    "SA": 22,
+    "US": 42,
+    "SA": 23,
     "DE": 3,
     "GB": 45,
     "FR": 3,
@@ -19498,7 +19504,7 @@
    "sources": {
     "وكالة الأنباء السعودية": 2,
     "WSJ": 6,
-    "Arab News": 16,
+    "Arab News": 17,
     "Spiegel": 3,
     "Sports Gambling Podcast": 1,
     "Arabian Gulf Business Insight | AGBI": 4,
@@ -19508,7 +19514,7 @@
     "The New Arab": 1,
     "FXStreet": 1,
     "TradingView": 2,
-    "Bloomberg.com": 24,
+    "Bloomberg.com": 25,
     "The Guardian": 14,
     "Yeni Safak English": 2,
     "BBC": 5,
@@ -19580,7 +19586,7 @@
     ],
     "Arab News": [
      0,
-     16,
+     17,
      0
     ],
     "Spiegel": [
@@ -19630,7 +19636,7 @@
     ],
     "Bloomberg.com": [
      0,
-     24,
+     25,
      0
     ],
     "The Guardian": [
