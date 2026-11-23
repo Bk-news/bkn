@@ -18676,18 +18676,18 @@
    }
   },
   "2026-11-22": {
-   "total": 492,
-   "news": 488,
+   "total": 494,
+   "news": 490,
    "articles": 4,
    "positive": 0,
-   "neutral": 492,
+   "neutral": 494,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "GB": 105,
     "SA": 90,
     "FR": 18,
-    "US": 63,
+    "US": 65,
     "HK": 4,
     "DE": 11,
     "JP": 1
@@ -18706,7 +18706,7 @@
     "BBC": 9,
     "Le Monde.fr": 7,
     "Financial Times": 6,
-    "The New York Times": 16,
+    "The New York Times": 18,
     "South China Morning Post": 4,
     "Spiegel": 11,
     "US Muslims": 2,
@@ -18889,7 +18889,7 @@
     ],
     "The New York Times": [
      0,
-     16,
+     18,
      0
     ],
     "South China Morning Post": [
@@ -19485,26 +19485,26 @@
    }
   },
   "2026-11-23": {
-   "total": 306,
-   "news": 301,
+   "total": 344,
+   "news": 339,
    "articles": 5,
    "positive": 0,
-   "neutral": 306,
+   "neutral": 344,
    "critical": 0,
-   "mbs": 5,
+   "mbs": 6,
    "countries": {
-    "US": 80,
-    "SA": 41,
+    "US": 92,
+    "SA": 51,
     "DE": 4,
-    "GB": 70,
-    "FR": 12,
+    "GB": 76,
+    "FR": 17,
     "JP": 1
    },
    "topics": {},
    "sources": {
     "وكالة الأنباء السعودية": 3,
     "WSJ": 9,
-    "Arab News": 28,
+    "Arab News": 33,
     "Spiegel": 4,
     "Sports Gambling Podcast": 1,
     "Arabian Gulf Business Insight | AGBI": 4,
@@ -19514,28 +19514,28 @@
     "The New Arab": 1,
     "FXStreet": 1,
     "TradingView": 2,
-    "Bloomberg.com": 36,
-    "The Guardian": 20,
+    "Bloomberg.com": 41,
+    "The Guardian": 21,
     "Yeni Safak English": 3,
     "BBC": 12,
     "www.tmgm.com": 1,
-    "Reuters": 27,
+    "Reuters": 32,
     "The Washington Post": 4,
     "Gulf Business": 3,
-    "Saudi Gazette": 19,
+    "Saudi Gazette": 24,
     "Le Monde.fr": 3,
-    "Al-Monitor": 10,
+    "Al-Monitor": 15,
     "AP News": 7,
     "Financial Times": 10,
-    "France 24": 9,
-    "The New York Times": 8,
+    "France 24": 14,
+    "The New York Times": 10,
     "Nikkei Asia": 1,
     "Condé Nast Traveller Middle East": 1,
     "pv magazine Global": 1,
     "The Arab Weekly": 2,
     "شفق نيوز": 1,
     "The Mercury News": 1,
-    "ASHARQ AL-AWSAT English": 5,
+    "ASHARQ AL-AWSAT English": 6,
     "سانا": 1,
     "The New Region": 1,
     "Fast Company Middle East": 1,
@@ -19543,7 +19543,7 @@
     "EnergyNow": 2,
     "БНР Новини": 1,
     "IDNFinancials": 1,
-    "Arabian Business": 1,
+    "Arabian Business": 2,
     "Kalkine": 1,
     "Caterer Middle East": 1,
     "Il Sole 24 ORE": 1,
@@ -19572,7 +19572,7 @@
     "Responsible Statecraft": 1,
     "Zawya": 1,
     "chinadailyhk": 1,
-    "https://houseofsaud.com/": 1,
+    "https://houseofsaud.com/": 2,
     "Upstream Online": 1,
     "Dhaka Tribune": 1,
     "Decode39": 1,
@@ -19586,7 +19586,9 @@
     "خبرگزاری اطلس": 1,
     "The Media Line": 1,
     "Apa.az": 1,
-    "Middle East Eye": 1
+    "Middle East Eye": 1,
+    "Eurasia Review": 1,
+    "thecradle.co": 1
    },
    "sourceTone": {
     "وكالة الأنباء السعودية": [
@@ -19601,7 +19603,7 @@
     ],
     "Arab News": [
      0,
-     28,
+     33,
      0
     ],
     "Spiegel": [
@@ -19651,12 +19653,12 @@
     ],
     "Bloomberg.com": [
      0,
-     36,
+     41,
      0
     ],
     "The Guardian": [
      0,
-     20,
+     21,
      0
     ],
     "Yeni Safak English": [
@@ -19676,7 +19678,7 @@
     ],
     "Reuters": [
      0,
-     27,
+     32,
      0
     ],
     "The Washington Post": [
@@ -19691,7 +19693,7 @@
     ],
     "Saudi Gazette": [
      0,
-     19,
+     24,
      0
     ],
     "Le Monde.fr": [
@@ -19701,7 +19703,7 @@
     ],
     "Al-Monitor": [
      0,
-     10,
+     15,
      0
     ],
     "AP News": [
@@ -19716,12 +19718,12 @@
     ],
     "France 24": [
      0,
-     9,
+     14,
      0
     ],
     "The New York Times": [
      0,
-     8,
+     10,
      0
     ],
     "Nikkei Asia": [
@@ -19756,7 +19758,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     5,
+     6,
      0
     ],
     "سانا": [
@@ -19796,7 +19798,7 @@
     ],
     "Arabian Business": [
      0,
-     1,
+     2,
      0
     ],
     "Kalkine": [
@@ -19941,7 +19943,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     1,
+     2,
      0
     ],
     "Upstream Online": [
@@ -20010,6 +20012,16 @@
      0
     ],
     "Middle East Eye": [
+     0,
+     1,
+     0
+    ],
+    "Eurasia Review": [
+     0,
+     1,
+     0
+    ],
+    "thecradle.co": [
      0,
      1,
      0
