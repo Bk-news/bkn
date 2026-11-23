@@ -16915,15 +16915,15 @@
    }
   },
   "2026-11-20": {
-   "total": 1026,
-   "news": 1009,
+   "total": 1027,
+   "news": 1010,
    "articles": 17,
    "positive": 0,
-   "neutral": 1026,
+   "neutral": 1027,
    "critical": 0,
    "mbs": 8,
    "countries": {
-    "US": 245,
+    "US": 246,
     "SA": 125,
     "FR": 113,
     "GB": 320,
@@ -16936,7 +16936,7 @@
     "WSJ": 102,
     "The AFC": 1,
     "Atlantic Council": 8,
-    "Al-Monitor": 37,
+    "Al-Monitor": 38,
     "Arab News": 97,
     "France 24": 110,
     "The New York Times": 23,
@@ -17107,7 +17107,7 @@
     ],
     "Al-Monitor": [
      0,
-     37,
+     38,
      0
     ],
     "Arab News": [
@@ -19485,16 +19485,16 @@
    }
   },
   "2026-11-23": {
-   "total": 203,
-   "news": 203,
+   "total": 205,
+   "news": 205,
    "articles": 0,
    "positive": 0,
-   "neutral": 203,
+   "neutral": 205,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 44,
-    "SA": 26,
+    "SA": 27,
     "DE": 3,
     "GB": 45,
     "FR": 3,
@@ -19522,7 +19522,7 @@
     "Reuters": 20,
     "The Washington Post": 2,
     "Gulf Business": 3,
-    "Saudi Gazette": 11,
+    "Saudi Gazette": 12,
     "Le Monde.fr": 1,
     "Al-Monitor": 4,
     "AP News": 4,
@@ -19532,7 +19532,7 @@
     "Nikkei Asia": 1,
     "Condé Nast Traveller Middle East": 1,
     "pv magazine Global": 1,
-    "The Arab Weekly": 1,
+    "The Arab Weekly": 2,
     "شفق نيوز": 1,
     "The Mercury News": 1,
     "ASHARQ AL-AWSAT English": 4,
@@ -19679,7 +19679,7 @@
     ],
     "Saudi Gazette": [
      0,
-     11,
+     12,
      0
     ],
     "Le Monde.fr": [
@@ -19729,7 +19729,7 @@
     ],
     "The Arab Weekly": [
      0,
-     1,
+     2,
      0
     ],
     "شفق نيوز": [
