@@ -1,5 +1,17 @@
 [
  {
+  "id": "4478ee2fa5fc35a1",
+  "origin": "royal",
+  "source": "واس الملكية",
+  "country": "SA",
+  "title_ar": "سمو ولي العهد يهنئ رئيس الجمهورية اللبنانية بذكرى استقلال بلاده",
+  "summary_ar": [],
+  "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBOazNITGtrQnFhRXdpU2ZnTFA3aWgyR1BqcDhLN0x3MjVGQXlvOWRPQ1lvYmEwaHo2cjM2LWJBdnoydEw3NHB6ak53?oc=5",
+  "published": "2026-11-23T09:58:24.000Z",
+  "subject": "mbs",
+  "added": "2026-11-23T10:00:21.562Z"
+ },
+ {
   "id": "7e8eb91de11ec91b",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -94,29 +106,5 @@
   "published": "2026-11-23T09:01:23.000Z",
   "subject": "saudi",
   "added": "2026-11-23T09:01:23.000Z"
- },
- {
-  "id": "d24340f9283ec693",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "زيلينسكي: نحن بحاجة لدعم حلف الناتو",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/155038",
-  "published": "2026-11-23T09:00:21.000Z",
-  "subject": "saudi",
-  "added": "2026-11-23T09:00:21.000Z"
- },
- {
-  "id": "4465c61d499feee4",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "زيلينسكي: يمكننا مشاركة خبراتنا في صناعات الأسلحة والمسيّرات مع الناتو",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/155037",
-  "published": "2026-11-23T09:00:02.000Z",
-  "subject": "saudi",
-  "added": "2026-11-23T09:00:02.000Z"
  }
 ]
