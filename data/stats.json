@@ -19485,11 +19485,11 @@
    }
   },
   "2026-11-23": {
-   "total": 225,
-   "news": 225,
+   "total": 226,
+   "news": 226,
    "articles": 0,
    "positive": 0,
-   "neutral": 225,
+   "neutral": 226,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -19497,7 +19497,7 @@
     "SA": 29,
     "DE": 3,
     "GB": 51,
-    "FR": 5,
+    "FR": 6,
     "JP": 1
    },
    "topics": {},
@@ -19527,7 +19527,7 @@
     "Al-Monitor": 4,
     "AP News": 4,
     "Financial Times": 6,
-    "France 24": 3,
+    "France 24": 4,
     "The New York Times": 3,
     "Nikkei Asia": 1,
     "Condé Nast Traveller Middle East": 1,
@@ -19707,7 +19707,7 @@
     ],
     "France 24": [
      0,
-     3,
+     4,
      0
     ],
     "The New York Times": [
