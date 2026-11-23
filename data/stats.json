@@ -19485,15 +19485,15 @@
    }
   },
   "2026-11-23": {
-   "total": 481,
-   "news": 476,
+   "total": 485,
+   "news": 480,
    "articles": 5,
    "positive": 0,
-   "neutral": 481,
+   "neutral": 485,
    "critical": 0,
    "mbs": 7,
    "countries": {
-    "US": 112,
+    "US": 113,
     "SA": 73,
     "DE": 4,
     "GB": 108,
@@ -19514,7 +19514,7 @@
     "The New Arab": 2,
     "FXStreet": 1,
     "TradingView": 2,
-    "Bloomberg.com": 45,
+    "Bloomberg.com": 46,
     "The Guardian": 21,
     "Yeni Safak English": 5,
     "BBC": 12,
@@ -19607,7 +19607,7 @@
     "Business Insider Africa": 1,
     "Daily Cal": 1,
     "Wamda": 1,
-    "The AFC": 1,
+    "The AFC": 2,
     "Daily Sabah": 1,
     "energynews.pro": 1,
     "Egypt Today": 1,
@@ -19623,7 +19623,9 @@
     "Atalayar": 1,
     "waya.media": 1,
     "TradeArabia": 1,
-    "PressReader": 1
+    "PressReader": 1,
+    "The Hindu": 1,
+    "アラブニュース": 1
    },
    "sourceTone": {
     "وكالة الأنباء السعودية": [
@@ -19688,7 +19690,7 @@
     ],
     "Bloomberg.com": [
      0,
-     45,
+     46,
      0
     ],
     "The Guardian": [
@@ -20153,7 +20155,7 @@
     ],
     "The AFC": [
      0,
-     1,
+     2,
      0
     ],
     "Daily Sabah": [
@@ -20232,6 +20234,16 @@
      0
     ],
     "PressReader": [
+     0,
+     1,
+     0
+    ],
+    "The Hindu": [
+     0,
+     1,
+     0
+    ],
+    "アラブニュース": [
      0,
      1,
      0
