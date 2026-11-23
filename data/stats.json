@@ -19485,11 +19485,11 @@
    }
   },
   "2026-11-23": {
-   "total": 505,
-   "news": 500,
+   "total": 506,
+   "news": 501,
    "articles": 5,
    "positive": 0,
-   "neutral": 505,
+   "neutral": 506,
    "critical": 0,
    "mbs": 7,
    "countries": {
@@ -19516,7 +19516,7 @@
     "TradingView": 2,
     "Bloomberg.com": 46,
     "The Guardian": 22,
-    "Yeni Safak English": 5,
+    "Yeni Safak English": 6,
     "BBC": 12,
     "www.tmgm.com": 2,
     "Reuters": 66,
@@ -19705,7 +19705,7 @@
     ],
     "Yeni Safak English": [
      0,
-     5,
+     6,
      0
     ],
     "BBC": [
