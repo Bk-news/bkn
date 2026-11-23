@@ -18676,11 +18676,11 @@
    }
   },
   "2026-11-22": {
-   "total": 489,
-   "news": 486,
+   "total": 490,
+   "news": 487,
    "articles": 3,
    "positive": 0,
-   "neutral": 489,
+   "neutral": 490,
    "critical": 0,
    "mbs": 6,
    "countries": {
@@ -18729,7 +18729,7 @@
     "DD News": 1,
     "Marine News Magazine": 2,
     "The Business Standard": 1,
-    "Yeni Safak English": 3,
+    "Yeni Safak English": 4,
     "Middle East Online": 2,
     "Gulf Today": 1,
     "Madhyamam": 1,
@@ -19003,7 +19003,7 @@
     ],
     "Yeni Safak English": [
      0,
-     3,
+     4,
      0
     ],
     "Middle East Online": [
@@ -19479,18 +19479,18 @@
    }
   },
   "2026-11-23": {
-   "total": 176,
-   "news": 176,
+   "total": 193,
+   "news": 193,
    "articles": 0,
    "positive": 0,
-   "neutral": 176,
+   "neutral": 193,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 41,
     "SA": 22,
     "DE": 3,
-    "GB": 44,
+    "GB": 45,
     "FR": 3,
     "JP": 1
    },
@@ -19509,7 +19509,7 @@
     "FXStreet": 1,
     "TradingView": 2,
     "Bloomberg.com": 24,
-    "The Guardian": 13,
+    "The Guardian": 14,
     "Yeni Safak English": 2,
     "BBC": 5,
     "www.tmgm.com": 1,
@@ -19555,7 +19555,17 @@
     "LATTE Luxury News": 1,
     "Internazionale": 1,
     "The Maritime Executive": 1,
-    "Xinhua": 1
+    "Xinhua": 1,
+    "CNBC Africa": 1,
+    "Global Advisory Experts": 7,
+    "TMCnet": 1,
+    "IndulgExpress": 1,
+    "Mehr News Agency": 1,
+    "CairoScene": 1,
+    "BioSpace": 1,
+    "Responsible Statecraft": 1,
+    "Zawya": 1,
+    "chinadailyhk": 1
    },
    "sourceTone": {
     "وكالة الأنباء السعودية": [
@@ -19625,7 +19635,7 @@
     ],
     "The Guardian": [
      0,
-     13,
+     14,
      0
     ],
     "Yeni Safak English": [
@@ -19854,6 +19864,56 @@
      0
     ],
     "Xinhua": [
+     0,
+     1,
+     0
+    ],
+    "CNBC Africa": [
+     0,
+     1,
+     0
+    ],
+    "Global Advisory Experts": [
+     0,
+     7,
+     0
+    ],
+    "TMCnet": [
+     0,
+     1,
+     0
+    ],
+    "IndulgExpress": [
+     0,
+     1,
+     0
+    ],
+    "Mehr News Agency": [
+     0,
+     1,
+     0
+    ],
+    "CairoScene": [
+     0,
+     1,
+     0
+    ],
+    "BioSpace": [
+     0,
+     1,
+     0
+    ],
+    "Responsible Statecraft": [
+     0,
+     1,
+     0
+    ],
+    "Zawya": [
+     0,
+     1,
+     0
+    ],
+    "chinadailyhk": [
      0,
      1,
      0
