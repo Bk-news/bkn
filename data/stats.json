@@ -19485,18 +19485,18 @@
    }
   },
   "2026-11-23": {
-   "total": 217,
-   "news": 217,
+   "total": 221,
+   "news": 221,
    "articles": 0,
    "positive": 0,
-   "neutral": 217,
+   "neutral": 221,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 49,
     "SA": 28,
     "DE": 3,
-    "GB": 47,
+    "GB": 51,
     "FR": 4,
     "JP": 1
    },
@@ -19517,7 +19517,7 @@
     "Bloomberg.com": 30,
     "The Guardian": 15,
     "Yeni Safak English": 2,
-    "BBC": 5,
+    "BBC": 9,
     "www.tmgm.com": 1,
     "Reuters": 21,
     "The Washington Post": 2,
@@ -19657,7 +19657,7 @@
     ],
     "BBC": [
      0,
-     5,
+     9,
      0
     ],
     "www.tmgm.com": [
