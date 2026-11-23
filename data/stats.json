@@ -18676,18 +18676,18 @@
    }
   },
   "2026-11-22": {
-   "total": 464,
-   "news": 461,
+   "total": 465,
+   "news": 462,
    "articles": 3,
    "positive": 0,
-   "neutral": 464,
+   "neutral": 465,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "GB": 98,
     "SA": 85,
     "FR": 18,
-    "US": 54,
+    "US": 55,
     "HK": 4,
     "DE": 11,
     "JP": 1
@@ -18736,7 +18736,7 @@
     "Firstpost": 1,
     "KLSE Screener": 1,
     "Saudi Gazette": 29,
-    "AP News": 7,
+    "AP News": 8,
     "Investing.com": 2,
     "EA WorldView": 1,
     "News On AIR": 1,
@@ -19035,7 +19035,7 @@
     ],
     "AP News": [
      0,
-     7,
+     8,
      0
     ],
     "Investing.com": [
@@ -19461,11 +19461,11 @@
    }
   },
   "2026-11-23": {
-   "total": 15,
-   "news": 15,
+   "total": 16,
+   "news": 16,
    "articles": 0,
    "positive": 0,
-   "neutral": 15,
+   "neutral": 16,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -19485,7 +19485,8 @@
     "Bioengineer.org": 1,
     "Breakingthenews.net": 1,
     "The New Arab": 1,
-    "FXStreet": 1
+    "FXStreet": 1,
+    "TradingView": 1
    },
    "sourceTone": {
     "وكالة الأنباء السعودية": [
@@ -19539,6 +19540,11 @@
      0
     ],
     "FXStreet": [
+     0,
+     1,
+     0
+    ],
+    "TradingView": [
      0,
      1,
      0
