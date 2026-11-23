@@ -17868,15 +17868,15 @@
    }
   },
   "2026-11-21": {
-   "total": 524,
-   "news": 521,
+   "total": 525,
+   "news": 522,
    "articles": 3,
    "positive": 0,
-   "neutral": 524,
+   "neutral": 525,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "US": 48,
+    "US": 49,
     "SA": 71,
     "GB": 144,
     "FR": 76,
@@ -17934,7 +17934,7 @@
     "Le Monde.fr": 4,
     "Saudi Gazette": 14,
     "X": 1,
-    "The New York Times": 6,
+    "The New York Times": 7,
     "Spiegel": 1,
     "BurgasMedia": 1,
     "CNN": 1,
@@ -18265,7 +18265,7 @@
     ],
     "The New York Times": [
      0,
-     6,
+     7,
      0
     ],
     "Spiegel": [
@@ -18676,18 +18676,18 @@
    }
   },
   "2026-11-22": {
-   "total": 476,
-   "news": 473,
+   "total": 477,
+   "news": 474,
    "articles": 3,
    "positive": 0,
-   "neutral": 476,
+   "neutral": 477,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "GB": 98,
     "SA": 90,
     "FR": 18,
-    "US": 57,
+    "US": 58,
     "HK": 4,
     "DE": 11,
     "JP": 1
@@ -18706,7 +18706,7 @@
     "BBC": 9,
     "Le Monde.fr": 7,
     "Financial Times": 6,
-    "The New York Times": 14,
+    "The New York Times": 15,
     "South China Morning Post": 4,
     "Spiegel": 11,
     "US Muslims": 2,
@@ -18888,7 +18888,7 @@
     ],
     "The New York Times": [
      0,
-     14,
+     15,
      0
     ],
     "South China Morning Post": [
@@ -19479,18 +19479,18 @@
    }
   },
   "2026-11-23": {
-   "total": 64,
-   "news": 64,
+   "total": 102,
+   "news": 102,
    "articles": 0,
    "positive": 0,
-   "neutral": 64,
+   "neutral": 102,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "US": 17,
-    "SA": 11,
+    "US": 24,
+    "SA": 18,
     "DE": 3,
-    "GB": 13,
+    "GB": 30,
     "FR": 2,
     "JP": 1
    },
@@ -19498,7 +19498,7 @@
    "sources": {
     "وكالة الأنباء السعودية": 2,
     "WSJ": 5,
-    "Arab News": 7,
+    "Arab News": 11,
     "Spiegel": 3,
     "Sports Gambling Podcast": 1,
     "Arabian Gulf Business Insight | AGBI": 2,
@@ -19508,24 +19508,30 @@
     "The New Arab": 1,
     "FXStreet": 1,
     "TradingView": 1,
-    "Bloomberg.com": 4,
-    "The Guardian": 2,
+    "Bloomberg.com": 10,
+    "The Guardian": 9,
     "Yeni Safak English": 2,
     "BBC": 3,
     "www.tmgm.com": 1,
-    "Reuters": 5,
+    "Reuters": 12,
     "The Washington Post": 1,
     "Gulf Business": 1,
-    "Saudi Gazette": 4,
+    "Saudi Gazette": 7,
     "Le Monde.fr": 1,
-    "Al-Monitor": 3,
+    "Al-Monitor": 4,
     "AP News": 2,
-    "Financial Times": 3,
+    "Financial Times": 6,
     "France 24": 1,
     "The New York Times": 2,
     "Nikkei Asia": 1,
     "Condé Nast Traveller Middle East": 1,
-    "pv magazine Global": 1
+    "pv magazine Global": 1,
+    "The Arab Weekly": 1,
+    "شفق نيوز": 1,
+    "The Mercury News": 1,
+    "ASHARQ AL-AWSAT English": 2,
+    "سانا": 1,
+    "The New Region": 1
    },
    "sourceTone": {
     "وكالة الأنباء السعودية": [
@@ -19540,7 +19546,7 @@
     ],
     "Arab News": [
      0,
-     7,
+     11,
      0
     ],
     "Spiegel": [
@@ -19590,12 +19596,12 @@
     ],
     "Bloomberg.com": [
      0,
-     4,
+     10,
      0
     ],
     "The Guardian": [
      0,
-     2,
+     9,
      0
     ],
     "Yeni Safak English": [
@@ -19615,7 +19621,7 @@
     ],
     "Reuters": [
      0,
-     5,
+     12,
      0
     ],
     "The Washington Post": [
@@ -19630,7 +19636,7 @@
     ],
     "Saudi Gazette": [
      0,
-     4,
+     7,
      0
     ],
     "Le Monde.fr": [
@@ -19640,7 +19646,7 @@
     ],
     "Al-Monitor": [
      0,
-     3,
+     4,
      0
     ],
     "AP News": [
@@ -19650,7 +19656,7 @@
     ],
     "Financial Times": [
      0,
-     3,
+     6,
      0
     ],
     "France 24": [
@@ -19674,6 +19680,36 @@
      0
     ],
     "pv magazine Global": [
+     0,
+     1,
+     0
+    ],
+    "The Arab Weekly": [
+     0,
+     1,
+     0
+    ],
+    "شفق نيوز": [
+     0,
+     1,
+     0
+    ],
+    "The Mercury News": [
+     0,
+     1,
+     0
+    ],
+    "ASHARQ AL-AWSAT English": [
+     0,
+     2,
+     0
+    ],
+    "سانا": [
+     0,
+     1,
+     0
+    ],
+    "The New Region": [
      0,
      1,
      0
