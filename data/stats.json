@@ -19479,11 +19479,11 @@
    }
   },
   "2026-11-23": {
-   "total": 165,
-   "news": 165,
+   "total": 166,
+   "news": 166,
    "articles": 0,
    "positive": 0,
-   "neutral": 165,
+   "neutral": 166,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -19503,7 +19503,7 @@
     "Sports Gambling Podcast": 1,
     "Arabian Gulf Business Insight | AGBI": 4,
     "Central Oregon Daily": 1,
-    "Bioengineer.org": 1,
+    "Bioengineer.org": 2,
     "Breakingthenews.net": 1,
     "The New Arab": 1,
     "FXStreet": 1,
@@ -19595,7 +19595,7 @@
     ],
     "Bioengineer.org": [
      0,
-     1,
+     2,
      0
     ],
     "Breakingthenews.net": [
