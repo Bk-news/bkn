@@ -17868,17 +17868,17 @@
    }
   },
   "2026-11-21": {
-   "total": 521,
-   "news": 518,
+   "total": 522,
+   "news": 519,
    "articles": 3,
    "positive": 0,
-   "neutral": 521,
+   "neutral": 522,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 46,
     "SA": 71,
-    "GB": 143,
+    "GB": 144,
     "FR": 76,
     "DE": 1,
     "HK": 1
@@ -17920,7 +17920,7 @@
     "Al Arabiya English": 1,
     "Dawn": 1,
     "blue News": 1,
-    "BBC": 20,
+    "BBC": 21,
     "Il Sole 24 ORE": 1,
     "The New Region": 1,
     "Yahoo": 1,
@@ -18195,7 +18195,7 @@
     ],
     "BBC": [
      0,
-     20,
+     21,
      0
     ],
     "Il Sole 24 ORE": [
@@ -18676,16 +18676,16 @@
    }
   },
   "2026-11-22": {
-   "total": 462,
-   "news": 459,
+   "total": 464,
+   "news": 461,
    "articles": 3,
    "positive": 0,
-   "neutral": 462,
+   "neutral": 464,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "GB": 98,
-    "SA": 83,
+    "SA": 85,
     "FR": 18,
     "US": 54,
     "HK": 4,
@@ -18697,7 +18697,7 @@
     "Breakingthenews.net": 3,
     "Reuters": 34,
     "The Guardian": 47,
-    "Arab News": 76,
+    "Arab News": 78,
     "Anadolu Ajansı": 3,
     "France 24": 12,
     "Al-Monitor": 18,
@@ -18840,7 +18840,7 @@
     ],
     "Arab News": [
      0,
-     76,
+     78,
      0
     ],
     "Anadolu Ajansı": [
@@ -19461,23 +19461,23 @@
    }
   },
   "2026-11-23": {
-   "total": 14,
-   "news": 14,
+   "total": 15,
+   "news": 15,
    "articles": 0,
    "positive": 0,
-   "neutral": 14,
+   "neutral": 15,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 2,
-    "SA": 2,
+    "SA": 3,
     "DE": 1
    },
    "topics": {},
    "sources": {
     "وكالة الأنباء السعودية": 2,
     "WSJ": 2,
-    "Arab News": 2,
+    "Arab News": 3,
     "Spiegel": 1,
     "Sports Gambling Podcast": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -19500,7 +19500,7 @@
     ],
     "Arab News": [
      0,
-     2,
+     3,
      0
     ],
     "Spiegel": [
