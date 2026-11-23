@@ -18676,18 +18676,18 @@
    }
   },
   "2026-11-22": {
-   "total": 484,
-   "news": 481,
+   "total": 487,
+   "news": 484,
    "articles": 3,
    "positive": 0,
-   "neutral": 484,
+   "neutral": 487,
    "critical": 0,
    "mbs": 6,
    "countries": {
-    "GB": 103,
+    "GB": 105,
     "SA": 90,
     "FR": 18,
-    "US": 59,
+    "US": 60,
     "HK": 4,
     "DE": 11,
     "JP": 1
@@ -18696,7 +18696,7 @@
    "sources": {
     "Breakingthenews.net": 3,
     "Reuters": 38,
-    "The Guardian": 48,
+    "The Guardian": 50,
     "Arab News": 84,
     "Anadolu Ajansı": 3,
     "France 24": 12,
@@ -18743,7 +18743,7 @@
     "8AM Media": 1,
     "Investing.com South Africa": 1,
     "Goal.com": 2,
-    "Bloomberg.com": 10,
+    "Bloomberg.com": 11,
     "WE News English": 1,
     "Nikkei Asia": 1,
     "WSJ": 3,
@@ -18838,7 +18838,7 @@
     ],
     "The Guardian": [
      0,
-     48,
+     50,
      0
     ],
     "Arab News": [
@@ -19073,7 +19073,7 @@
     ],
     "Bloomberg.com": [
      0,
-     10,
+     11,
      0
     ],
     "WE News English": [
@@ -19479,18 +19479,18 @@
    }
   },
   "2026-11-23": {
-   "total": 164,
-   "news": 164,
+   "total": 165,
+   "news": 165,
    "articles": 0,
    "positive": 0,
-   "neutral": 164,
+   "neutral": 165,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "US": 38,
     "SA": 19,
     "DE": 3,
-    "GB": 39,
+    "GB": 40,
     "FR": 3,
     "JP": 1
    },
@@ -19509,7 +19509,7 @@
     "FXStreet": 1,
     "TradingView": 2,
     "Bloomberg.com": 23,
-    "The Guardian": 11,
+    "The Guardian": 12,
     "Yeni Safak English": 2,
     "BBC": 3,
     "www.tmgm.com": 1,
@@ -19625,7 +19625,7 @@
     ],
     "The Guardian": [
      0,
-     11,
+     12,
      0
     ],
     "Yeni Safak English": [
