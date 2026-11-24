@@ -8087,6 +8087,26 @@
    "mt": true
   },
   {
+   "id": "c340e6ba7d2cfb10",
+   "origin": "rss",
+   "source": "CNN",
+   "author": "",
+   "title_ar": "COP31 Climate Summit Collapses Over Fossil Fuels",
+   "title_orig": "COP31 Climate Summit Collapses Over Fossil Fuels",
+   "title_en": "COP31 Climate Summit Collapses Over Fossil Fuels",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU2wtd0o3RXAxS1pMSFBjcS1vVDFGaFdXcWtVblRNOFJZX0diMF93V25yNlR0bFVrcDJPMGM0eXhsTlhhRDd5cC1Ya1pBVFAybHZFQ3FIb2FDUENyZTNTM2tKUHRLeVdUUmtjVjhPeDdENWYtb0ZiZFJPN3FqSnBCQWVQWjNZWDFpallwd2ZfaElqdEE?oc=5",
+   "published": "2026-11-23T08:00:00.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "COP31 Climate Summit Collapses Over Fossil Fuels &nbsp;&nbsp; CNN",
+   "lang": "en"
+  },
+  {
    "id": "98c976cd1c1f29a7",
    "origin": "rss",
    "source": "Arab News",
@@ -8673,6 +8693,26 @@
    "desc": "10-billion deals between Italia and Saudi Arabia: the current situation two years on from the signing &nbsp;&nbsp; Il Sole 24 ORE",
    "lang": "en",
    "mt": true
+  },
+  {
+   "id": "c5e4555159d0a8b9",
+   "origin": "rss",
+   "source": "Le Monde.fr",
+   "author": "",
+   "title_ar": "Le Monde - Toute l’actualité en continu",
+   "title_orig": "Le Monde - Toute l’actualité en continu",
+   "title_en": "",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TU1JOZUJjNmdWQUd0a0kzT2txMVAxSXRRcGdhcHFBa01JN192NlRCbks3a3BJaUtsTENaUnJTWWNWTUFrUDdteXJhcFNiUkluMmNoWHFrb0hCTkEwYlNUT0RGbno?oc=5",
+   "published": "2026-11-23T06:57:22.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "FR",
+   "pending": true,
+   "desc": "Le Monde - Toute l’actualité en continu &nbsp;&nbsp; Le Monde.fr",
+   "lang": "fr"
   },
   {
    "id": "03bceae4382fc7d2",

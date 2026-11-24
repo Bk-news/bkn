@@ -18676,17 +18676,17 @@
    }
   },
   "2026-11-22": {
-   "total": 502,
-   "news": 497,
+   "total": 503,
+   "news": 498,
    "articles": 5,
    "positive": 0,
-   "neutral": 502,
+   "neutral": 503,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "GB": 108,
     "SA": 92,
-    "FR": 18,
+    "FR": 19,
     "US": 67,
     "HK": 5,
     "DE": 11,
@@ -18699,7 +18699,7 @@
     "The Guardian": 50,
     "Arab News": 86,
     "Anadolu Ajansı": 3,
-    "France 24": 12,
+    "France 24": 13,
     "Al-Monitor": 18,
     "TRT World": 1,
     "The Washington Post": 4,
@@ -18854,7 +18854,7 @@
     ],
     "France 24": [
      0,
-     12,
+     13,
      0
     ],
     "Al-Monitor": [
@@ -19485,19 +19485,19 @@
    }
   },
   "2026-11-23": {
-   "total": 569,
-   "news": 563,
+   "total": 571,
+   "news": 565,
    "articles": 6,
    "positive": 0,
-   "neutral": 569,
+   "neutral": 571,
    "critical": 0,
    "mbs": 8,
    "countries": {
-    "US": 152,
+    "US": 153,
     "SA": 84,
     "DE": 4,
     "GB": 114,
-    "FR": 18,
+    "FR": 19,
     "JP": 2
    },
    "topics": {},
@@ -19523,7 +19523,7 @@
     "The Washington Post": 4,
     "Gulf Business": 4,
     "Saudi Gazette": 30,
-    "Le Monde.fr": 4,
+    "Le Monde.fr": 5,
     "Al-Monitor": 27,
     "AP News": 11,
     "Financial Times": 10,
@@ -19582,7 +19582,7 @@
     "Atlantic Council": 4,
     "Foreign Policy": 1,
     "The Economist": 1,
-    "CNN": 2,
+    "CNN": 3,
     "خبرگزاری اطلس": 1,
     "The Media Line": 1,
     "Apa.az": 1,
@@ -19748,7 +19748,7 @@
     ],
     "Le Monde.fr": [
      0,
-     4,
+     5,
      0
     ],
     "Al-Monitor": [
@@ -20043,7 +20043,7 @@
     ],
     "CNN": [
      0,
-     2,
+     3,
      0
     ],
     "خبرگزاری اطلس": [
@@ -20329,36 +20329,38 @@
    }
   },
   "2026-11-24": {
-   "total": 94,
-   "news": 94,
-   "articles": 0,
+   "total": 131,
+   "news": 128,
+   "articles": 3,
    "positive": 0,
-   "neutral": 94,
+   "neutral": 131,
    "critical": 0,
-   "mbs": 1,
+   "mbs": 2,
    "countries": {
-    "SA": 5,
-    "US": 24,
-    "GB": 19,
+    "SA": 10,
+    "US": 38,
+    "GB": 30,
     "JP": 1,
-    "FR": 1
+    "FR": 1,
+    "HK": 1,
+    "DE": 1
    },
    "topics": {},
    "sources": {
-    "Saudi Gazette": 4,
+    "Saudi Gazette": 6,
     "SolarQuarter": 1,
     "The Washington Post": 2,
-    "Financial Times": 6,
-    "BBC": 2,
-    "Reuters": 10,
+    "Financial Times": 9,
+    "BBC": 5,
+    "Reuters": 13,
     "Nikkei Asia": 1,
     "Bloomberg.com": 12,
-    "Al-Monitor": 2,
-    "WSJ": 2,
-    "The New York Times": 4,
-    "Arab News": 1,
+    "Al-Monitor": 5,
+    "WSJ": 4,
+    "The New York Times": 7,
+    "Arab News": 5,
     "France 24": 1,
-    "AP News": 2,
+    "AP News": 4,
     "sanad.uk": 1,
     "The Age": 1,
     "The Duke Chronicle": 1,
@@ -20379,18 +20381,27 @@
     "CGTN": 1,
     "www.tmgm.com": 2,
     "Yeni Safak English": 1,
-    "The Guardian": 1,
+    "The Guardian": 2,
     "Kurdistan24": 1,
     "Al Jazeera": 1,
     "Travel & Tourism News Middle East": 1,
     "The New Region": 1,
     "ASHARQ AL-AWSAT English": 1,
-    "Avi-Go": 1
+    "Avi-Go": 1,
+    "Atlantic Council": 2,
+    "صحيفة سبق الإلكترونية": 1,
+    "Bloomberg": 2,
+    "South China Morning Post": 1,
+    "Spiegel": 1,
+    "The Economist": 1,
+    "CP24": 1,
+    "Anadolu Ajansı": 1,
+    "houseofsaud.com": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
      0,
-     4,
+     6,
      0
     ],
     "SolarQuarter": [
@@ -20405,17 +20416,17 @@
     ],
     "Financial Times": [
      0,
-     6,
+     9,
      0
     ],
     "BBC": [
      0,
-     2,
+     5,
      0
     ],
     "Reuters": [
      0,
-     10,
+     13,
      0
     ],
     "Nikkei Asia": [
@@ -20430,22 +20441,22 @@
     ],
     "Al-Monitor": [
      0,
-     2,
+     5,
      0
     ],
     "WSJ": [
      0,
-     2,
+     4,
      0
     ],
     "The New York Times": [
      0,
-     4,
+     7,
      0
     ],
     "Arab News": [
      0,
-     1,
+     5,
      0
     ],
     "France 24": [
@@ -20455,7 +20466,7 @@
     ],
     "AP News": [
      0,
-     2,
+     4,
      0
     ],
     "sanad.uk": [
@@ -20560,7 +20571,7 @@
     ],
     "The Guardian": [
      0,
-     1,
+     2,
      0
     ],
     "Kurdistan24": [
@@ -20589,6 +20600,51 @@
      0
     ],
     "Avi-Go": [
+     0,
+     1,
+     0
+    ],
+    "Atlantic Council": [
+     0,
+     2,
+     0
+    ],
+    "صحيفة سبق الإلكترونية": [
+     0,
+     1,
+     0
+    ],
+    "Bloomberg": [
+     0,
+     2,
+     0
+    ],
+    "South China Morning Post": [
+     0,
+     1,
+     0
+    ],
+    "Spiegel": [
+     0,
+     1,
+     0
+    ],
+    "The Economist": [
+     0,
+     1,
+     0
+    ],
+    "CP24": [
+     0,
+     1,
+     0
+    ],
+    "Anadolu Ajansı": [
+     0,
+     1,
+     0
+    ],
+    "houseofsaud.com": [
      0,
      1,
      0
