@@ -19485,11 +19485,11 @@
    }
   },
   "2026-11-23": {
-   "total": 553,
-   "news": 547,
+   "total": 554,
+   "news": 548,
    "articles": 6,
    "positive": 0,
-   "neutral": 553,
+   "neutral": 554,
    "critical": 0,
    "mbs": 8,
    "countries": {
@@ -19600,7 +19600,7 @@
     "Cato Institute": 1,
     "Yahoo Sports": 1,
     "ChemAnalyst": 1,
-    "IndexBox": 4,
+    "IndexBox": 5,
     "Investing.com": 1,
     "Hungarian Conservative": 1,
     "Muslim Network TV": 1,
@@ -20131,7 +20131,7 @@
     ],
     "IndexBox": [
      0,
-     4,
+     5,
      0
     ],
     "Investing.com": [
@@ -20317,11 +20317,11 @@
    }
   },
   "2026-11-24": {
-   "total": 59,
-   "news": 59,
+   "total": 74,
+   "news": 74,
    "articles": 0,
    "positive": 0,
-   "neutral": 59,
+   "neutral": 74,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -20353,7 +20353,7 @@
     "Crypto Briefing": 1,
     "Mehr News Agency": 1,
     "The AFC": 1,
-    "https://houseofsaud.com/": 1,
+    "https://houseofsaud.com/": 2,
     "AKIpress News Agency": 1,
     "The National": 2,
     "Gulf News": 2,
@@ -20361,7 +20361,11 @@
     "Dawn": 1,
     "MMA Junkie": 1,
     "Bioengineer.org": 2,
-    "Arabian Gulf Business Insight | AGBI": 1
+    "Arabian Gulf Business Insight | AGBI": 1,
+    "TradingView": 1,
+    "Global Advisory Experts": 11,
+    "CGTN": 1,
+    "www.tmgm.com": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -20466,7 +20470,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     1,
+     2,
      0
     ],
     "AKIpress News Agency": [
@@ -20505,6 +20509,26 @@
      0
     ],
     "Arabian Gulf Business Insight | AGBI": [
+     0,
+     1,
+     0
+    ],
+    "TradingView": [
+     0,
+     1,
+     0
+    ],
+    "Global Advisory Experts": [
+     0,
+     11,
+     0
+    ],
+    "CGTN": [
+     0,
+     1,
+     0
+    ],
+    "www.tmgm.com": [
      0,
      1,
      0
