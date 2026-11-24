@@ -18676,18 +18676,18 @@
    }
   },
   "2026-11-22": {
-   "total": 504,
+   "total": 505,
    "news": 499,
-   "articles": 5,
+   "articles": 6,
    "positive": 0,
-   "neutral": 504,
+   "neutral": 505,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "GB": 109,
     "SA": 92,
     "FR": 19,
-    "US": 67,
+    "US": 68,
     "HK": 5,
     "DE": 11,
     "JP": 1
@@ -18824,7 +18824,7 @@
     "JNS": 1,
     "Japan Today": 1,
     "Newswav": 1,
-    "Atlantic Council": 1
+    "Atlantic Council": 2
    },
    "sourceTone": {
     "Breakingthenews.net": [
@@ -19479,24 +19479,24 @@
     ],
     "Atlantic Council": [
      0,
-     1,
+     2,
      0
     ]
    }
   },
   "2026-11-23": {
-   "total": 600,
-   "news": 594,
+   "total": 602,
+   "news": 596,
    "articles": 6,
    "positive": 0,
-   "neutral": 600,
+   "neutral": 602,
    "critical": 0,
    "mbs": 8,
    "countries": {
     "US": 164,
     "SA": 86,
     "DE": 4,
-    "GB": 130,
+    "GB": 131,
     "FR": 19,
     "JP": 2
    },
@@ -19519,7 +19519,7 @@
     "Yeni Safak English": 7,
     "BBC": 13,
     "www.tmgm.com": 2,
-    "Reuters": 84,
+    "Reuters": 85,
     "The Washington Post": 4,
     "Gulf Business": 4,
     "Saudi Gazette": 30,
@@ -19639,7 +19639,8 @@
     "The Straits Times": 1,
     "DD News": 1,
     "EnterpriseAM": 1,
-    "Bloomberg": 1
+    "Bloomberg": 1,
+    "Fakti.bg": 1
    },
    "sourceTone": {
     "وكالة الأنباء السعودية": [
@@ -19729,7 +19730,7 @@
     ],
     "Reuters": [
      0,
-     84,
+     85,
      0
     ],
     "The Washington Post": [
@@ -20331,15 +20332,20 @@
      0,
      1,
      0
+    ],
+    "Fakti.bg": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-24": {
-   "total": 368,
-   "news": 365,
+   "total": 371,
+   "news": 368,
    "articles": 3,
    "positive": 0,
-   "neutral": 368,
+   "neutral": 371,
    "critical": 0,
    "mbs": 14,
    "countries": {
@@ -20391,9 +20397,9 @@
     "Kurdistan24": 1,
     "Al Jazeera": 2,
     "Travel & Tourism News Middle East": 1,
-    "The New Region": 1,
+    "The New Region": 2,
     "ASHARQ AL-AWSAT English": 5,
-    "Avi-Go": 3,
+    "Avi-Go": 4,
     "Atlantic Council": 2,
     "صحيفة سبق الإلكترونية": 1,
     "Bloomberg": 8,
@@ -20457,7 +20463,8 @@
     "Military.com": 1,
     "Radio Tamazuj": 1,
     "fundsforNGOs - Grants and Resources for Sustainability": 1,
-    "Engadget": 1
+    "Engadget": 1,
+    "Tom's Hardware": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -20652,7 +20659,7 @@
     ],
     "The New Region": [
      0,
-     1,
+     2,
      0
     ],
     "ASHARQ AL-AWSAT English": [
@@ -20662,7 +20669,7 @@
     ],
     "Avi-Go": [
      0,
-     3,
+     4,
      0
     ],
     "Atlantic Council": [
@@ -20981,6 +20988,11 @@
      0
     ],
     "Engadget": [
+     0,
+     1,
+     0
+    ],
+    "Tom's Hardware": [
      0,
      1,
      0
