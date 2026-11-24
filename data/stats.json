@@ -19485,15 +19485,15 @@
    }
   },
   "2026-11-23": {
-   "total": 603,
-   "news": 597,
+   "total": 604,
+   "news": 598,
    "articles": 6,
    "positive": 0,
-   "neutral": 603,
+   "neutral": 604,
    "critical": 0,
    "mbs": 8,
    "countries": {
-    "US": 164,
+    "US": 165,
     "SA": 86,
     "DE": 4,
     "GB": 132,
@@ -19514,7 +19514,7 @@
     "The New Arab": 2,
     "FXStreet": 1,
     "TradingView": 3,
-    "Bloomberg.com": 73,
+    "Bloomberg.com": 74,
     "The Guardian": 22,
     "Yeni Safak English": 7,
     "BBC": 13,
@@ -19705,7 +19705,7 @@
     ],
     "Bloomberg.com": [
      0,
-     73,
+     74,
      0
     ],
     "The Guardian": [
@@ -20341,17 +20341,17 @@
    }
   },
   "2026-11-24": {
-   "total": 384,
-   "news": 381,
+   "total": 389,
+   "news": 386,
    "articles": 3,
    "positive": 0,
-   "neutral": 384,
+   "neutral": 389,
    "critical": 0,
    "mbs": 14,
    "countries": {
-    "SA": 56,
+    "SA": 57,
     "US": 70,
-    "GB": 89,
+    "GB": 92,
     "JP": 1,
     "FR": 2,
     "HK": 1,
@@ -20359,12 +20359,12 @@
    },
    "topics": {},
    "sources": {
-    "Saudi Gazette": 20,
+    "Saudi Gazette": 21,
     "SolarQuarter": 1,
     "The Washington Post": 2,
     "Financial Times": 13,
     "BBC": 7,
-    "Reuters": 67,
+    "Reuters": 70,
     "Nikkei Asia": 1,
     "Bloomberg.com": 15,
     "Al-Monitor": 21,
@@ -20469,12 +20469,13 @@
     "EnergyNow.com": 1,
     "Salaam Gateway": 1,
     "Le Monde.fr": 1,
-    "PocketGamer.biz": 1
+    "PocketGamer.biz": 1,
+    "NST Online": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
      0,
-     20,
+     21,
      0
     ],
     "SolarQuarter": [
@@ -20499,7 +20500,7 @@
     ],
     "Reuters": [
      0,
-     67,
+     70,
      0
     ],
     "Nikkei Asia": [
@@ -21023,6 +21024,11 @@
      0
     ],
     "PocketGamer.biz": [
+     0,
+     1,
+     0
+    ],
+    "NST Online": [
      0,
      1,
      0
