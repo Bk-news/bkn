@@ -19485,15 +19485,15 @@
    }
   },
   "2026-11-23": {
-   "total": 576,
-   "news": 570,
+   "total": 579,
+   "news": 573,
    "articles": 6,
    "positive": 0,
-   "neutral": 576,
+   "neutral": 579,
    "critical": 0,
    "mbs": 8,
    "countries": {
-    "US": 157,
+    "US": 160,
     "SA": 84,
     "DE": 4,
     "GB": 115,
@@ -19503,7 +19503,7 @@
    "topics": {},
    "sources": {
     "وكالة الأنباء السعودية": 4,
-    "WSJ": 19,
+    "WSJ": 20,
     "Arab News": 66,
     "Spiegel": 4,
     "Sports Gambling Podcast": 1,
@@ -19514,7 +19514,7 @@
     "The New Arab": 2,
     "FXStreet": 1,
     "TradingView": 3,
-    "Bloomberg.com": 68,
+    "Bloomberg.com": 69,
     "The Guardian": 22,
     "Yeni Safak English": 7,
     "BBC": 13,
@@ -19638,7 +19638,8 @@
     "EnergyNow.com": 1,
     "The Straits Times": 1,
     "DD News": 1,
-    "EnterpriseAM": 1
+    "EnterpriseAM": 1,
+    "Bloomberg": 1
    },
    "sourceTone": {
     "وكالة الأنباء السعودية": [
@@ -19648,7 +19649,7 @@
     ],
     "WSJ": [
      0,
-     19,
+     20,
      0
     ],
     "Arab News": [
@@ -19703,7 +19704,7 @@
     ],
     "Bloomberg.com": [
      0,
-     68,
+     69,
      0
     ],
     "The Guardian": [
@@ -20325,21 +20326,26 @@
      0,
      1,
      0
+    ],
+    "Bloomberg": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-24": {
-   "total": 166,
-   "news": 163,
+   "total": 203,
+   "news": 200,
    "articles": 3,
    "positive": 0,
-   "neutral": 166,
+   "neutral": 203,
    "critical": 0,
-   "mbs": 4,
+   "mbs": 9,
    "countries": {
-    "SA": 17,
-    "US": 50,
-    "GB": 39,
+    "SA": 28,
+    "US": 59,
+    "GB": 44,
     "JP": 1,
     "FR": 1,
     "HK": 1,
@@ -20347,24 +20353,24 @@
    },
    "topics": {},
    "sources": {
-    "Saudi Gazette": 9,
+    "Saudi Gazette": 14,
     "SolarQuarter": 1,
     "The Washington Post": 2,
     "Financial Times": 12,
     "BBC": 7,
-    "Reuters": 17,
+    "Reuters": 22,
     "Nikkei Asia": 1,
     "Bloomberg.com": 13,
-    "Al-Monitor": 9,
-    "WSJ": 8,
+    "Al-Monitor": 16,
+    "WSJ": 10,
     "The New York Times": 8,
-    "Arab News": 9,
+    "Arab News": 15,
     "France 24": 1,
     "AP News": 5,
     "sanad.uk": 1,
     "The Age": 1,
     "The Duke Chronicle": 1,
-    "Crypto Briefing": 1,
+    "Crypto Briefing": 2,
     "Mehr News Agency": 1,
     "The AFC": 1,
     "https://houseofsaud.com/": 2,
@@ -20390,8 +20396,8 @@
     "Avi-Go": 1,
     "Atlantic Council": 2,
     "صحيفة سبق الإلكترونية": 1,
-    "Bloomberg": 4,
-    "South China Morning Post": 1,
+    "Bloomberg": 5,
+    "South China Morning Post": 2,
     "Spiegel": 1,
     "The Economist": 1,
     "CP24": 1,
@@ -20402,12 +20408,19 @@
     "Apa.az": 1,
     "WE News English": 1,
     "شفق نيوز": 1,
-    "Daily Beirut": 1
+    "Daily Beirut": 2,
+    "Middle East Eye": 1,
+    "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1,
+    "L'Orient Today": 1,
+    "MTV Lebanon": 2,
+    "Traders Union": 1,
+    "Business Upturn": 1,
+    "MEAWW News": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
      0,
-     9,
+     14,
      0
     ],
     "SolarQuarter": [
@@ -20432,7 +20445,7 @@
     ],
     "Reuters": [
      0,
-     17,
+     22,
      0
     ],
     "Nikkei Asia": [
@@ -20447,12 +20460,12 @@
     ],
     "Al-Monitor": [
      0,
-     9,
+     16,
      0
     ],
     "WSJ": [
      0,
-     8,
+     10,
      0
     ],
     "The New York Times": [
@@ -20462,7 +20475,7 @@
     ],
     "Arab News": [
      0,
-     9,
+     15,
      0
     ],
     "France 24": [
@@ -20492,7 +20505,7 @@
     ],
     "Crypto Briefing": [
      0,
-     1,
+     2,
      0
     ],
     "Mehr News Agency": [
@@ -20622,12 +20635,12 @@
     ],
     "Bloomberg": [
      0,
-     4,
+     5,
      0
     ],
     "South China Morning Post": [
      0,
-     1,
+     2,
      0
     ],
     "Spiegel": [
@@ -20681,6 +20694,41 @@
      0
     ],
     "Daily Beirut": [
+     0,
+     2,
+     0
+    ],
+    "Middle East Eye": [
+     0,
+     1,
+     0
+    ],
+    "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": [
+     0,
+     1,
+     0
+    ],
+    "L'Orient Today": [
+     0,
+     1,
+     0
+    ],
+    "MTV Lebanon": [
+     0,
+     2,
+     0
+    ],
+    "Traders Union": [
+     0,
+     1,
+     0
+    ],
+    "Business Upturn": [
+     0,
+     1,
+     0
+    ],
+    "MEAWW News": [
      0,
      1,
      0
