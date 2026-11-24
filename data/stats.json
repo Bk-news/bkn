@@ -20341,17 +20341,17 @@
    }
   },
   "2026-11-24": {
-   "total": 394,
-   "news": 391,
+   "total": 397,
+   "news": 394,
    "articles": 3,
    "positive": 0,
-   "neutral": 394,
+   "neutral": 397,
    "critical": 0,
    "mbs": 14,
    "countries": {
     "SA": 57,
     "US": 71,
-    "GB": 93,
+    "GB": 95,
     "JP": 1,
     "FR": 2,
     "HK": 1,
@@ -20364,7 +20364,7 @@
     "The Washington Post": 2,
     "Financial Times": 13,
     "BBC": 7,
-    "Reuters": 71,
+    "Reuters": 73,
     "Nikkei Asia": 1,
     "Bloomberg.com": 15,
     "Al-Monitor": 22,
@@ -20472,7 +20472,8 @@
     "PocketGamer.biz": 1,
     "NST Online": 1,
     "KarloBag.eu": 1,
-    "Naharnet": 1
+    "Naharnet": 1,
+    "Democracy Now!": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -20502,7 +20503,7 @@
     ],
     "Reuters": [
      0,
-     71,
+     73,
      0
     ],
     "Nikkei Asia": [
@@ -21041,6 +21042,11 @@
      0
     ],
     "Naharnet": [
+     0,
+     1,
+     0
+    ],
+    "Democracy Now!": [
      0,
      1,
      0
