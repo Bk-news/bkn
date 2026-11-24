@@ -1,5 +1,17 @@
 [
  {
+  "id": "bf73b01c4dd62dd1",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "بوتين: إجراءات أوروبا لتقييد موارد الطاقة الروسية تعرضها لمزيد من المشاكل",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/155305",
+  "published": "2026-11-24T16:41:24.000Z",
+  "subject": "saudi",
+  "added": "2026-11-24T16:41:24.000Z"
+ },
+ {
   "id": "25de6b0478e40e5d",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -118,17 +130,5 @@
   "published": "2026-11-24T15:43:41.000Z",
   "subject": "saudi",
   "added": "2026-11-24T15:43:41.000Z"
- },
- {
-  "id": "a14659ecc81cdea2",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "إثيوبيا تدعو الأطراف السودانية إلى حوار شامل وتعرض استضافته ورعايته",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/155294",
-  "published": "2026-11-24T15:41:19.000Z",
-  "subject": "saudi",
-  "added": "2026-11-24T15:41:19.000Z"
  }
 ]
