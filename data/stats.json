@@ -20323,17 +20323,17 @@
    }
   },
   "2026-11-24": {
-   "total": 80,
-   "news": 80,
+   "total": 81,
+   "news": 81,
    "articles": 0,
    "positive": 0,
-   "neutral": 80,
+   "neutral": 81,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 3,
     "US": 23,
-    "GB": 16,
+    "GB": 17,
     "JP": 1,
     "FR": 1
    },
@@ -20372,7 +20372,8 @@
     "Global Advisory Experts": 11,
     "CGTN": 1,
     "www.tmgm.com": 1,
-    "Yeni Safak English": 1
+    "Yeni Safak English": 1,
+    "The Guardian": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -20541,6 +20542,11 @@
      0
     ],
     "Yeni Safak English": [
+     0,
+     1,
+     0
+    ],
+    "The Guardian": [
      0,
      1,
      0
