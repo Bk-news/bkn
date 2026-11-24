@@ -20341,19 +20341,19 @@
    }
   },
   "2026-11-24": {
-   "total": 400,
-   "news": 397,
+   "total": 402,
+   "news": 399,
    "articles": 3,
    "positive": 0,
-   "neutral": 400,
+   "neutral": 402,
    "critical": 0,
    "mbs": 15,
    "countries": {
     "SA": 57,
     "US": 71,
-    "GB": 95,
+    "GB": 96,
     "JP": 1,
-    "FR": 2,
+    "FR": 3,
     "HK": 1,
     "DE": 1
    },
@@ -20364,14 +20364,14 @@
     "The Washington Post": 2,
     "Financial Times": 13,
     "BBC": 7,
-    "Reuters": 73,
+    "Reuters": 74,
     "Nikkei Asia": 1,
     "Bloomberg.com": 15,
     "Al-Monitor": 22,
     "WSJ": 11,
     "The New York Times": 9,
     "Arab News": 46,
-    "France 24": 1,
+    "France 24": 2,
     "AP News": 6,
     "sanad.uk": 1,
     "The Age": 1,
@@ -20505,7 +20505,7 @@
     ],
     "Reuters": [
      0,
-     73,
+     74,
      0
     ],
     "Nikkei Asia": [
@@ -20540,7 +20540,7 @@
     ],
     "France 24": [
      0,
-     1,
+     2,
      0
     ],
     "AP News": [

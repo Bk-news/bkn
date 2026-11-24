@@ -2,6 +2,26 @@
  "day": "2026-11-24",
  "items": [
   {
+   "id": "6c304b4c89c00014",
+   "origin": "rss",
+   "source": "France 24",
+   "author": "",
+   "title_ar": "Yemen’s army says Houthi fighters closing in on government stronghold of Aden",
+   "title_orig": "Yemen’s army says Houthi fighters closing in on government stronghold of Aden",
+   "title_en": "Yemen’s army says Houthi fighters closing in on government stronghold of Aden",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT3ItY3RJMnduMGtUTjN0S1lVTjdNQjd5WWVPcnhPRzgxRkp3djNGUWZDb3ZlSG5UdUVqNmo5NC1uLS1DNGlOVTl5UEFvX2ZPLTV2Tl9hcENwQnBfVnVYWHJzanV5NHgzU3lQaUNvZ0c3bXBzeHhJQi1hMkJZemZuM0pVNVc?oc=5",
+   "published": "2026-11-24T16:51:30.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "FR",
+   "pending": true,
+   "desc": "Yemen’s army says Houthi fighters closing in on government stronghold of Aden &nbsp;&nbsp; France 24",
+   "lang": "en"
+  },
+  {
    "id": "3c29da6960866e7c",
    "origin": "rss",
    "source": "Salaam Gateway",
@@ -2639,6 +2659,26 @@
    "country": "",
    "pending": true,
    "desc": "Saudis See Economy Taking Smaller Hit From War as Oil Flows Rise &nbsp;&nbsp; Bloomberg",
+   "lang": "en"
+  },
+  {
+   "id": "3d168b4d95bfa310",
+   "origin": "rss",
+   "source": "Reuters",
+   "author": "",
+   "title_ar": "Nigeria's central bank keeps key rate on hold at last meeting before election",
+   "title_orig": "Nigeria's central bank keeps key rate on hold at last meeting before election",
+   "title_en": "Nigeria's central bank keeps key rate on hold at last meeting before election",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdExfVUpxeTN1S202cWY3bGJqVGZPUHVUM2NiNVphc3pLWGhIeGxMVjdmaHZQejEtdjNid0FuWGZTRy1aZHA4dDlRcWlUbVB6UkRUN1FBdFBTMnFPRUEzV3dvemF2MV9aaWtZeVpWNTBGSkV1SXBqbXZUT0ZkLUlYTWw2Q19jZ0dtVmpwQWc1dllIc18yMGE2NktLWTczQzZtd19zRGNlT0ExaF9JMWF5WHdHanVKU2dHbkFv?oc=5",
+   "published": "2026-11-24T13:36:50.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "Nigeria's central bank keeps key rate on hold at last meeting before election &nbsp;&nbsp; Reuters",
    "lang": "en"
   },
   {
