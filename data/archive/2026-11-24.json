@@ -2,6 +2,27 @@
  "day": "2026-11-24",
  "items": [
   {
+   "id": "e57a532b639d0fbe",
+   "origin": "rss",
+   "source": "Al Jazeera",
+   "author": "",
+   "title_ar": "مقتل ثمانية أشخاص على الأقل في غارات جوية يمنية على مدينة الحديدة التي يسيطر عليها الحوثيون",
+   "title_orig": "At least eight killed in Yemen air raids on Houthi-held Hodeidah",
+   "title_en": "At least eight killed in Yemen air raids on Houthi-held Hodeidah",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa0RMUU1wbF8wcUtVQWRuRUdZdHNKNmJHNkZ5TkhjbEdoMVU1RUhHRFZlekJQWHFZZ0pNYkI5eVVoR1hMcGF4cHIzZEtNU01KeTFfYmVCX3hROUVsYURad1g0MUpCX2tIcEhCbEFUU29EcXFQQmxwcjRTb0RJaTctNWI3cjhDWktBMzk4V2RIOUxMdm5ld18zN19aWWJqcGI3VGN5bHBpZWxHd9IBrwFBVV95cUxQaUstOXlHQ1NndmFyTXNISkl4THByaUhHYlF0Z2FCWEUyb2o0aThvN0E4NWxkS2ZIS0JDbGhoanJXYWtoeXo1d3hDcVpudGVTdDRkcnNnY3ZHdkR0a053MmpqM21GTUtZUGoyTmlwaWVKMGR5c0IzSFRodmEtb3EtcWlmUkRrYTNjMG5zRnBhVzNpaVhyRk5EdGtMS1lxRmdwZTdua2ZIc1ptamVNYnQ4?oc=5",
+   "published": "2026-11-24T06:01:56.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "",
+   "pending": true,
+   "desc": "At least eight killed in Yemen air raids on Houthi-held Hodeidah &nbsp;&nbsp; Al Jazeera",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "62dab41953e7d87a",
    "origin": "rss",
    "source": "Saudi Gazette",
