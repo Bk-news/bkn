@@ -17868,15 +17868,15 @@
    }
   },
   "2026-11-21": {
-   "total": 529,
-   "news": 526,
+   "total": 530,
+   "news": 527,
    "articles": 3,
    "positive": 0,
-   "neutral": 529,
+   "neutral": 530,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "US": 49,
+    "US": 50,
     "SA": 71,
     "GB": 147,
     "FR": 77,
@@ -17896,7 +17896,7 @@
     "Khaleej Times": 1,
     "Financial Times": 5,
     "The Guardian": 62,
-    "Al-Monitor": 13,
+    "Al-Monitor": 14,
     "WSJ": 4,
     "ASHARQ AL-AWSAT English": 5,
     "Anadolu Ajansı": 5,
@@ -18075,7 +18075,7 @@
     ],
     "Al-Monitor": [
      0,
-     13,
+     14,
      0
     ],
     "WSJ": [
@@ -19485,15 +19485,15 @@
    }
   },
   "2026-11-23": {
-   "total": 559,
-   "news": 553,
+   "total": 564,
+   "news": 558,
    "articles": 6,
    "positive": 0,
-   "neutral": 559,
+   "neutral": 564,
    "critical": 0,
    "mbs": 8,
    "countries": {
-    "US": 145,
+    "US": 150,
     "SA": 83,
     "DE": 4,
     "GB": 114,
@@ -19514,7 +19514,7 @@
     "The New Arab": 2,
     "FXStreet": 1,
     "TradingView": 3,
-    "Bloomberg.com": 64,
+    "Bloomberg.com": 68,
     "The Guardian": 22,
     "Yeni Safak English": 7,
     "BBC": 12,
@@ -19528,7 +19528,7 @@
     "AP News": 11,
     "Financial Times": 10,
     "France 24": 14,
-    "The New York Times": 13,
+    "The New York Times": 14,
     "Nikkei Asia": 2,
     "Condé Nast Traveller Middle East": 1,
     "pv magazine Global": 1,
@@ -19701,7 +19701,7 @@
     ],
     "Bloomberg.com": [
      0,
-     64,
+     68,
      0
     ],
     "The Guardian": [
@@ -19771,7 +19771,7 @@
     ],
     "The New York Times": [
      0,
-     13,
+     14,
      0
     ],
     "Nikkei Asia": [
@@ -20317,17 +20317,17 @@
    }
   },
   "2026-11-24": {
-   "total": 75,
-   "news": 75,
+   "total": 76,
+   "news": 76,
    "articles": 0,
    "positive": 0,
-   "neutral": 75,
+   "neutral": 76,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 3,
     "US": 22,
-    "GB": 14,
+    "GB": 15,
     "JP": 1,
     "FR": 1
    },
@@ -20338,7 +20338,7 @@
     "The Washington Post": 2,
     "Financial Times": 6,
     "BBC": 1,
-    "Reuters": 7,
+    "Reuters": 8,
     "Nikkei Asia": 1,
     "Bloomberg.com": 11,
     "Al-Monitor": 2,
@@ -20395,7 +20395,7 @@
     ],
     "Reuters": [
      0,
-     7,
+     8,
      0
     ],
     "Nikkei Asia": [
