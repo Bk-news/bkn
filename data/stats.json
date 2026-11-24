@@ -20341,17 +20341,17 @@
    }
   },
   "2026-11-24": {
-   "total": 389,
-   "news": 386,
+   "total": 394,
+   "news": 391,
    "articles": 3,
    "positive": 0,
-   "neutral": 389,
+   "neutral": 394,
    "critical": 0,
    "mbs": 14,
    "countries": {
     "SA": 57,
-    "US": 70,
-    "GB": 92,
+    "US": 71,
+    "GB": 93,
     "JP": 1,
     "FR": 2,
     "HK": 1,
@@ -20364,10 +20364,10 @@
     "The Washington Post": 2,
     "Financial Times": 13,
     "BBC": 7,
-    "Reuters": 70,
+    "Reuters": 71,
     "Nikkei Asia": 1,
     "Bloomberg.com": 15,
-    "Al-Monitor": 21,
+    "Al-Monitor": 22,
     "WSJ": 11,
     "The New York Times": 9,
     "Arab News": 46,
@@ -20438,7 +20438,7 @@
     "talkSPORT": 1,
     "Israel Hayom": 1,
     "NDTV": 1,
-    "Goal.com": 3,
+    "Goal.com": 4,
     "Zawya": 2,
     "Investing.com": 1,
     "BioSpace": 1,
@@ -20470,7 +20470,9 @@
     "Salaam Gateway": 1,
     "Le Monde.fr": 1,
     "PocketGamer.biz": 1,
-    "NST Online": 1
+    "NST Online": 1,
+    "KarloBag.eu": 1,
+    "Naharnet": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -20500,7 +20502,7 @@
     ],
     "Reuters": [
      0,
-     70,
+     71,
      0
     ],
     "Nikkei Asia": [
@@ -20515,7 +20517,7 @@
     ],
     "Al-Monitor": [
      0,
-     21,
+     22,
      0
     ],
     "WSJ": [
@@ -20870,7 +20872,7 @@
     ],
     "Goal.com": [
      0,
-     3,
+     4,
      0
     ],
     "Zawya": [
@@ -21029,6 +21031,16 @@
      0
     ],
     "NST Online": [
+     0,
+     1,
+     0
+    ],
+    "KarloBag.eu": [
+     0,
+     1,
+     0
+    ],
+    "Naharnet": [
      0,
      1,
      0
