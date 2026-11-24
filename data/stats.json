@@ -19485,16 +19485,16 @@
    }
   },
   "2026-11-23": {
-   "total": 530,
-   "news": 524,
+   "total": 553,
+   "news": 547,
    "articles": 6,
    "positive": 0,
-   "neutral": 530,
+   "neutral": 553,
    "critical": 0,
    "mbs": 8,
    "countries": {
-    "US": 130,
-    "SA": 81,
+    "US": 141,
+    "SA": 82,
     "DE": 4,
     "GB": 114,
     "FR": 18,
@@ -19502,19 +19502,19 @@
    },
    "topics": {},
    "sources": {
-    "وكالة الأنباء السعودية": 3,
+    "وكالة الأنباء السعودية": 4,
     "WSJ": 18,
-    "Arab News": 63,
+    "Arab News": 64,
     "Spiegel": 4,
     "Sports Gambling Podcast": 1,
     "Arabian Gulf Business Insight | AGBI": 4,
     "Central Oregon Daily": 1,
     "Bioengineer.org": 5,
-    "Breakingthenews.net": 1,
+    "Breakingthenews.net": 2,
     "The New Arab": 2,
     "FXStreet": 1,
-    "TradingView": 2,
-    "Bloomberg.com": 51,
+    "TradingView": 3,
+    "Bloomberg.com": 62,
     "The Guardian": 22,
     "Yeni Safak English": 7,
     "BBC": 12,
@@ -19604,15 +19604,15 @@
     "Investing.com": 1,
     "Hungarian Conservative": 1,
     "Muslim Network TV": 1,
-    "Business Insider Africa": 1,
+    "Business Insider Africa": 2,
     "Daily Cal": 1,
     "Wamda": 1,
-    "The AFC": 2,
+    "The AFC": 3,
     "Daily Sabah": 1,
     "energynews.pro": 1,
     "Egypt Today": 1,
     "Avi-Go": 2,
-    "Crypto Briefing": 1,
+    "Crypto Briefing": 2,
     "Middle East Monitor": 1,
     "Hürriyet Daily News": 1,
     "A News": 1,
@@ -19631,12 +19631,17 @@
     "Iran International": 1,
     "Council on Foreign Relations": 1,
     "thenationalnews.com": 1,
-    "Daily Mail": 1
+    "Daily Mail": 1,
+    "CGTN": 1,
+    "Sudan Tribune": 1,
+    "Oil & Gas 360": 1,
+    "EnergyNow.com": 1,
+    "The Straits Times": 1
    },
    "sourceTone": {
     "وكالة الأنباء السعودية": [
      0,
-     3,
+     4,
      0
     ],
     "WSJ": [
@@ -19646,7 +19651,7 @@
     ],
     "Arab News": [
      0,
-     63,
+     64,
      0
     ],
     "Spiegel": [
@@ -19676,7 +19681,7 @@
     ],
     "Breakingthenews.net": [
      0,
-     1,
+     2,
      0
     ],
     "The New Arab": [
@@ -19691,12 +19696,12 @@
     ],
     "TradingView": [
      0,
-     2,
+     3,
      0
     ],
     "Bloomberg.com": [
      0,
-     51,
+     62,
      0
     ],
     "The Guardian": [
@@ -20146,7 +20151,7 @@
     ],
     "Business Insider Africa": [
      0,
-     1,
+     2,
      0
     ],
     "Daily Cal": [
@@ -20161,7 +20166,7 @@
     ],
     "The AFC": [
      0,
-     2,
+     3,
      0
     ],
     "Daily Sabah": [
@@ -20186,7 +20191,7 @@
     ],
     "Crypto Briefing": [
      0,
-     1,
+     2,
      0
     ],
     "Middle East Monitor": [
@@ -20280,6 +20285,31 @@
      0
     ],
     "Daily Mail": [
+     0,
+     1,
+     0
+    ],
+    "CGTN": [
+     0,
+     1,
+     0
+    ],
+    "Sudan Tribune": [
+     0,
+     1,
+     0
+    ],
+    "Oil & Gas 360": [
+     0,
+     1,
+     0
+    ],
+    "EnergyNow.com": [
+     0,
+     1,
+     0
+    ],
+    "The Straits Times": [
      0,
      1,
      0
