@@ -19485,16 +19485,16 @@
    }
   },
   "2026-11-23": {
-   "total": 579,
-   "news": 573,
+   "total": 581,
+   "news": 575,
    "articles": 6,
    "positive": 0,
-   "neutral": 579,
+   "neutral": 581,
    "critical": 0,
    "mbs": 8,
    "countries": {
     "US": 160,
-    "SA": 84,
+    "SA": 86,
     "DE": 4,
     "GB": 115,
     "FR": 19,
@@ -19504,7 +19504,7 @@
    "sources": {
     "وكالة الأنباء السعودية": 4,
     "WSJ": 20,
-    "Arab News": 66,
+    "Arab News": 68,
     "Spiegel": 4,
     "Sports Gambling Podcast": 1,
     "Arabian Gulf Business Insight | AGBI": 4,
@@ -19654,7 +19654,7 @@
     ],
     "Arab News": [
      0,
-     66,
+     68,
      0
     ],
     "Spiegel": [
@@ -20335,17 +20335,17 @@
    }
   },
   "2026-11-24": {
-   "total": 243,
-   "news": 240,
+   "total": 281,
+   "news": 278,
    "articles": 3,
    "positive": 0,
-   "neutral": 243,
+   "neutral": 281,
    "critical": 0,
-   "mbs": 10,
+   "mbs": 11,
    "countries": {
-    "SA": 43,
+    "SA": 50,
     "US": 66,
-    "GB": 53,
+    "GB": 68,
     "JP": 1,
     "FR": 1,
     "HK": 1,
@@ -20358,13 +20358,13 @@
     "The Washington Post": 2,
     "Financial Times": 13,
     "BBC": 7,
-    "Reuters": 31,
+    "Reuters": 46,
     "Nikkei Asia": 1,
     "Bloomberg.com": 13,
     "Al-Monitor": 21,
     "WSJ": 10,
     "The New York Times": 8,
-    "Arab News": 27,
+    "Arab News": 34,
     "France 24": 1,
     "AP News": 6,
     "sanad.uk": 1,
@@ -20382,21 +20382,21 @@
     "MMA Junkie": 1,
     "Bioengineer.org": 2,
     "Arabian Gulf Business Insight | AGBI": 1,
-    "TradingView": 2,
+    "TradingView": 3,
     "Global Advisory Experts": 12,
     "CGTN": 1,
     "www.tmgm.com": 2,
     "Yeni Safak English": 1,
     "The Guardian": 2,
     "Kurdistan24": 1,
-    "Al Jazeera": 1,
+    "Al Jazeera": 2,
     "Travel & Tourism News Middle East": 1,
     "The New Region": 1,
-    "ASHARQ AL-AWSAT English": 1,
+    "ASHARQ AL-AWSAT English": 2,
     "Avi-Go": 1,
     "Atlantic Council": 2,
     "صحيفة سبق الإلكترونية": 1,
-    "Bloomberg": 7,
+    "Bloomberg": 8,
     "South China Morning Post": 2,
     "Spiegel": 1,
     "The Economist": 1,
@@ -20407,9 +20407,9 @@
     "The Arab Weekly": 1,
     "Apa.az": 1,
     "WE News English": 1,
-    "شفق نيوز": 1,
+    "شفق نيوز": 2,
     "Daily Beirut": 2,
-    "Middle East Eye": 1,
+    "Middle East Eye": 2,
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1,
     "L'Orient Today": 1,
     "MTV Lebanon": 2,
@@ -20418,7 +20418,17 @@
     "MEAWW News": 1,
     "Yemen Online": 1,
     "MMA Mania": 1,
-    "markets.businessinsider.com": 1
+    "markets.businessinsider.com": 1,
+    "صحيفة مال": 1,
+    "US Muslims": 1,
+    "Tomorrow's Affairs": 1,
+    "Morningstar": 1,
+    "Forbes Middle East": 1,
+    "Streetwise Reports": 1,
+    "AOL.com": 1,
+    "Gulf Business": 1,
+    "Captive Insurance Times": 1,
+    "Al Arabiya English": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -20448,7 +20458,7 @@
     ],
     "Reuters": [
      0,
-     31,
+     46,
      0
     ],
     "Nikkei Asia": [
@@ -20478,7 +20488,7 @@
     ],
     "Arab News": [
      0,
-     27,
+     34,
      0
     ],
     "France 24": [
@@ -20568,7 +20578,7 @@
     ],
     "TradingView": [
      0,
-     2,
+     3,
      0
     ],
     "Global Advisory Experts": [
@@ -20603,7 +20613,7 @@
     ],
     "Al Jazeera": [
      0,
-     1,
+     2,
      0
     ],
     "Travel & Tourism News Middle East": [
@@ -20618,7 +20628,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     1,
+     2,
      0
     ],
     "Avi-Go": [
@@ -20638,7 +20648,7 @@
     ],
     "Bloomberg": [
      0,
-     7,
+     8,
      0
     ],
     "South China Morning Post": [
@@ -20693,7 +20703,7 @@
     ],
     "شفق نيوز": [
      0,
-     1,
+     2,
      0
     ],
     "Daily Beirut": [
@@ -20703,7 +20713,7 @@
     ],
     "Middle East Eye": [
      0,
-     1,
+     2,
      0
     ],
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": [
@@ -20747,6 +20757,56 @@
      0
     ],
     "markets.businessinsider.com": [
+     0,
+     1,
+     0
+    ],
+    "صحيفة مال": [
+     0,
+     1,
+     0
+    ],
+    "US Muslims": [
+     0,
+     1,
+     0
+    ],
+    "Tomorrow's Affairs": [
+     0,
+     1,
+     0
+    ],
+    "Morningstar": [
+     0,
+     1,
+     0
+    ],
+    "Forbes Middle East": [
+     0,
+     1,
+     0
+    ],
+    "Streetwise Reports": [
+     0,
+     1,
+     0
+    ],
+    "AOL.com": [
+     0,
+     1,
+     0
+    ],
+    "Gulf Business": [
+     0,
+     1,
+     0
+    ],
+    "Captive Insurance Times": [
+     0,
+     1,
+     0
+    ],
+    "Al Arabiya English": [
      0,
      1,
      0

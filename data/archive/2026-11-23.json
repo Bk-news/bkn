@@ -254,6 +254,26 @@
    "mt": true
   },
   {
+   "id": "8618b4d75c7bab82",
+   "origin": "rss",
+   "source": "Arab News",
+   "author": "",
+   "title_ar": "Israeli forces carry out major military operation in Al-Amari refugee camp",
+   "title_orig": "Israeli forces carry out major military operation in Al-Amari refugee camp",
+   "title_en": "Israeli forces carry out major military operation in Al-Amari refugee camp",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMk81d2tNTzIybG5Qb3kteHhRcUhqaEoxa2o1SEtMYTA3WE00WEVGN1BaZ0V3Wl84SkM4aGxkcThpNEtfS0N1X3NjUG9hclI2QVNkZ1lWWlRjNlRnQWFad2lJTkJWblpLMVl1ZjVuWnVCUXE5XzNxLVFWQ2VWMXRmby1IbUFCbktqTGNyWVZQZFp2ODhoX2lOZW41UmdBWXdWQ0pfN056aW1lRWx5c3RCclBxQnBUREdIb1Zv?oc=5",
+   "published": "2026-11-23T22:50:28.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "SA",
+   "pending": true,
+   "desc": "Israeli forces carry out major military operation in Al-Amari refugee camp &nbsp;&nbsp; Arab News",
+   "lang": "en"
+  },
+  {
    "id": "d9fd6b32501d9d47",
    "origin": "rss",
    "source": "وكالة الأنباء السعودية",
@@ -1930,6 +1950,26 @@
    "desc": "The Guardian view on Cop31: a just transition needs more than fine words | Editorial &nbsp;&nbsp; The Guardian",
    "lang": "en",
    "mt": true
+  },
+  {
+   "id": "3375f802eb13dfba",
+   "origin": "rss",
+   "source": "Arab News",
+   "author": "",
+   "title_ar": "Attacks on grain ships, Hormuz crisis drive hunger in Yemen and Sudan, UN food agency boss warns",
+   "title_orig": "Attacks on grain ships, Hormuz crisis drive hunger in Yemen and Sudan, UN food agency boss warns",
+   "title_en": "Attacks on grain ships, Hormuz crisis drive hunger in Yemen and Sudan, UN food agency boss warns",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeHYzLVZkNUh3Y3VTVG1KeGVwdldNTW1oSkFSYmk1RlJ1NTI3WjNOVkIyWVlRVGcwT3hkM1N4ZXpVNTFSOUc5YTdGcFVCZ2UzU19RQ2VUS0JweEhVSG5jMS1BX0JiM0kwRTZSd3ZzN1hDSFVZZnpySEQxR09zWEtjWTQzYTlaM0NhUGYyak5ZN3J0emRzcEcwbUNBY1dZd0QxYVdSNmxKWVZmXzFuT3dhbjYtV3NKOW9qV1FNMDJSdlNQRXBmMkFjaUlwOHFkSTFhVVQ5X0Z3?oc=5",
+   "published": "2026-11-23T19:26:53.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "SA",
+   "pending": true,
+   "desc": "Attacks on grain ships, Hormuz crisis drive hunger in Yemen and Sudan, UN food agency boss warns &nbsp;&nbsp; Arab News",
+   "lang": "en"
   },
   {
    "id": "f20358976ca3bbda",
