@@ -20341,16 +20341,16 @@
    }
   },
   "2026-11-24": {
-   "total": 409,
-   "news": 406,
+   "total": 412,
+   "news": 409,
    "articles": 3,
    "positive": 0,
-   "neutral": 409,
+   "neutral": 412,
    "critical": 0,
-   "mbs": 15,
+   "mbs": 16,
    "countries": {
     "SA": 58,
-    "US": 71,
+    "US": 72,
     "GB": 98,
     "JP": 1,
     "FR": 3,
@@ -20369,7 +20369,7 @@
     "Bloomberg.com": 15,
     "Al-Monitor": 22,
     "WSJ": 11,
-    "The New York Times": 9,
+    "The New York Times": 10,
     "Arab News": 48,
     "France 24": 2,
     "AP News": 6,
@@ -20401,7 +20401,7 @@
     "ASHARQ AL-AWSAT English": 5,
     "Avi-Go": 4,
     "Atlantic Council": 2,
-    "صحيفة سبق الإلكترونية": 1,
+    "صحيفة سبق الإلكترونية": 2,
     "Bloomberg": 8,
     "South China Morning Post": 2,
     "Spiegel": 1,
@@ -20478,7 +20478,8 @@
     "شبكة تواصل الإخبارية": 1,
     "https://theins.press/en": 1,
     "ARYnews.tv": 1,
-    "Word on the Street | Jeremy Ben-Ami": 1
+    "Word on the Street | Jeremy Ben-Ami": 1,
+    "middle-east-online.com": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -20533,7 +20534,7 @@
     ],
     "The New York Times": [
      0,
-     9,
+     10,
      0
     ],
     "Arab News": [
@@ -20693,7 +20694,7 @@
     ],
     "صحيفة سبق الإلكترونية": [
      0,
-     1,
+     2,
      0
     ],
     "Bloomberg": [
@@ -21077,6 +21078,11 @@
      0
     ],
     "Word on the Street | Jeremy Ben-Ami": [
+     0,
+     1,
+     0
+    ],
+    "middle-east-online.com": [
      0,
      1,
      0
