@@ -20341,17 +20341,17 @@
    }
   },
   "2026-11-24": {
-   "total": 375,
-   "news": 372,
+   "total": 378,
+   "news": 375,
    "articles": 3,
    "positive": 0,
-   "neutral": 375,
+   "neutral": 378,
    "critical": 0,
    "mbs": 14,
    "countries": {
     "SA": 54,
     "US": 70,
-    "GB": 88,
+    "GB": 89,
     "JP": 1,
     "FR": 1,
     "HK": 1,
@@ -20364,7 +20364,7 @@
     "The Washington Post": 2,
     "Financial Times": 13,
     "BBC": 7,
-    "Reuters": 66,
+    "Reuters": 67,
     "Nikkei Asia": 1,
     "Bloomberg.com": 15,
     "Al-Monitor": 21,
@@ -20382,7 +20382,7 @@
     "https://houseofsaud.com/": 2,
     "AKIpress News Agency": 1,
     "The National": 5,
-    "Gulf News": 3,
+    "Gulf News": 4,
     "Golf Industry Asia": 1,
     "Dawn": 1,
     "MMA Junkie": 1,
@@ -20456,7 +20456,7 @@
     "Defensehere": 1,
     "SOFREP": 1,
     "POLITICO Pro": 1,
-    "India Today": 1,
+    "India Today": 2,
     "Breakingthenews.net": 1,
     "Arabian Business": 1,
     "Construction Review": 1,
@@ -20496,7 +20496,7 @@
     ],
     "Reuters": [
      0,
-     66,
+     67,
      0
     ],
     "Nikkei Asia": [
@@ -20586,7 +20586,7 @@
     ],
     "Gulf News": [
      0,
-     3,
+     4,
      0
     ],
     "Golf Industry Asia": [
@@ -20956,7 +20956,7 @@
     ],
     "India Today": [
      0,
-     1,
+     2,
      0
     ],
     "Breakingthenews.net": [
