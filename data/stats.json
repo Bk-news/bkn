@@ -20323,15 +20323,15 @@
    }
   },
   "2026-11-24": {
-   "total": 82,
-   "news": 82,
+   "total": 84,
+   "news": 84,
    "articles": 0,
    "positive": 0,
-   "neutral": 82,
+   "neutral": 84,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 3,
+    "SA": 4,
     "US": 24,
     "GB": 17,
     "JP": 1,
@@ -20339,7 +20339,7 @@
    },
    "topics": {},
    "sources": {
-    "Saudi Gazette": 2,
+    "Saudi Gazette": 3,
     "SolarQuarter": 1,
     "The Washington Post": 2,
     "Financial Times": 6,
@@ -20373,12 +20373,13 @@
     "CGTN": 1,
     "www.tmgm.com": 1,
     "Yeni Safak English": 1,
-    "The Guardian": 1
+    "The Guardian": 1,
+    "Kurdistan24": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
      0,
-     2,
+     3,
      0
     ],
     "SolarQuarter": [
@@ -20547,6 +20548,11 @@
      0
     ],
     "The Guardian": [
+     0,
+     1,
+     0
+    ],
+    "Kurdistan24": [
      0,
      1,
      0
