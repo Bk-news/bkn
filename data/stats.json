@@ -18676,16 +18676,16 @@
    }
   },
   "2026-11-22": {
-   "total": 501,
-   "news": 496,
+   "total": 502,
+   "news": 497,
    "articles": 5,
    "positive": 0,
-   "neutral": 501,
+   "neutral": 502,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "GB": 108,
-    "SA": 91,
+    "SA": 92,
     "FR": 18,
     "US": 67,
     "HK": 5,
@@ -18697,7 +18697,7 @@
     "Breakingthenews.net": 3,
     "Reuters": 40,
     "The Guardian": 50,
-    "Arab News": 85,
+    "Arab News": 86,
     "Anadolu Ajansı": 3,
     "France 24": 12,
     "Al-Monitor": 18,
@@ -18844,7 +18844,7 @@
     ],
     "Arab News": [
      0,
-     85,
+     86,
      0
     ],
     "Anadolu Ajansı": [
@@ -19485,16 +19485,16 @@
    }
   },
   "2026-11-23": {
-   "total": 568,
-   "news": 562,
+   "total": 569,
+   "news": 563,
    "articles": 6,
    "positive": 0,
-   "neutral": 568,
+   "neutral": 569,
    "critical": 0,
    "mbs": 8,
    "countries": {
     "US": 152,
-    "SA": 83,
+    "SA": 84,
     "DE": 4,
     "GB": 114,
     "FR": 18,
@@ -19504,7 +19504,7 @@
    "sources": {
     "وكالة الأنباء السعودية": 4,
     "WSJ": 19,
-    "Arab News": 65,
+    "Arab News": 66,
     "Spiegel": 4,
     "Sports Gambling Podcast": 1,
     "Arabian Gulf Business Insight | AGBI": 4,
@@ -19653,7 +19653,7 @@
     ],
     "Arab News": [
      0,
-     65,
+     66,
      0
     ],
     "Spiegel": [
