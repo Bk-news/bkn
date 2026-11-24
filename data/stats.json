@@ -19485,15 +19485,15 @@
    }
   },
   "2026-11-23": {
-   "total": 604,
-   "news": 598,
+   "total": 605,
+   "news": 599,
    "articles": 6,
    "positive": 0,
-   "neutral": 604,
+   "neutral": 605,
    "critical": 0,
    "mbs": 8,
    "countries": {
-    "US": 165,
+    "US": 166,
     "SA": 86,
     "DE": 4,
     "GB": 132,
@@ -19528,7 +19528,7 @@
     "AP News": 13,
     "Financial Times": 10,
     "France 24": 14,
-    "The New York Times": 18,
+    "The New York Times": 19,
     "Nikkei Asia": 2,
     "Condé Nast Traveller Middle East": 1,
     "pv magazine Global": 1,
@@ -19775,7 +19775,7 @@
     ],
     "The New York Times": [
      0,
-     18,
+     19,
      0
     ],
     "Nikkei Asia": [
@@ -20341,11 +20341,11 @@
    }
   },
   "2026-11-24": {
-   "total": 412,
-   "news": 409,
+   "total": 415,
+   "news": 412,
    "articles": 3,
    "positive": 0,
-   "neutral": 412,
+   "neutral": 415,
    "critical": 0,
    "mbs": 16,
    "countries": {
@@ -20479,7 +20479,10 @@
     "https://theins.press/en": 1,
     "ARYnews.tv": 1,
     "Word on the Street | Jeremy Ben-Ami": 1,
-    "middle-east-online.com": 1
+    "middle-east-online.com": 1,
+    "CNA": 1,
+    "scanx.trade": 1,
+    "Business Day": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -21083,6 +21086,21 @@
      0
     ],
     "middle-east-online.com": [
+     0,
+     1,
+     0
+    ],
+    "CNA": [
+     0,
+     1,
+     0
+    ],
+    "scanx.trade": [
+     0,
+     1,
+     0
+    ],
+    "Business Day": [
      0,
      1,
      0
