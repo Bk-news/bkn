@@ -19485,18 +19485,18 @@
    }
   },
   "2026-11-23": {
-   "total": 571,
-   "news": 565,
+   "total": 576,
+   "news": 570,
    "articles": 6,
    "positive": 0,
-   "neutral": 571,
+   "neutral": 576,
    "critical": 0,
    "mbs": 8,
    "countries": {
-    "US": 153,
+    "US": 157,
     "SA": 84,
     "DE": 4,
-    "GB": 114,
+    "GB": 115,
     "FR": 19,
     "JP": 2
    },
@@ -19517,7 +19517,7 @@
     "Bloomberg.com": 68,
     "The Guardian": 22,
     "Yeni Safak English": 7,
-    "BBC": 12,
+    "BBC": 13,
     "www.tmgm.com": 2,
     "Reuters": 69,
     "The Washington Post": 4,
@@ -19525,10 +19525,10 @@
     "Saudi Gazette": 30,
     "Le Monde.fr": 5,
     "Al-Monitor": 27,
-    "AP News": 11,
+    "AP News": 13,
     "Financial Times": 10,
     "France 24": 14,
-    "The New York Times": 16,
+    "The New York Times": 18,
     "Nikkei Asia": 2,
     "Condé Nast Traveller Middle East": 1,
     "pv magazine Global": 1,
@@ -19718,7 +19718,7 @@
     ],
     "BBC": [
      0,
-     12,
+     13,
      0
     ],
     "www.tmgm.com": [
@@ -19758,7 +19758,7 @@
     ],
     "AP News": [
      0,
-     11,
+     13,
      0
     ],
     "Financial Times": [
@@ -19773,7 +19773,7 @@
     ],
     "The New York Times": [
      0,
-     16,
+     18,
      0
     ],
     "Nikkei Asia": [
@@ -20329,17 +20329,17 @@
    }
   },
   "2026-11-24": {
-   "total": 131,
-   "news": 128,
+   "total": 166,
+   "news": 163,
    "articles": 3,
    "positive": 0,
-   "neutral": 131,
+   "neutral": 166,
    "critical": 0,
-   "mbs": 2,
+   "mbs": 4,
    "countries": {
-    "SA": 10,
-    "US": 38,
-    "GB": 30,
+    "SA": 17,
+    "US": 50,
+    "GB": 39,
     "JP": 1,
     "FR": 1,
     "HK": 1,
@@ -20347,20 +20347,20 @@
    },
    "topics": {},
    "sources": {
-    "Saudi Gazette": 6,
+    "Saudi Gazette": 9,
     "SolarQuarter": 1,
     "The Washington Post": 2,
-    "Financial Times": 9,
-    "BBC": 5,
-    "Reuters": 13,
+    "Financial Times": 12,
+    "BBC": 7,
+    "Reuters": 17,
     "Nikkei Asia": 1,
-    "Bloomberg.com": 12,
-    "Al-Monitor": 5,
-    "WSJ": 4,
-    "The New York Times": 7,
-    "Arab News": 5,
+    "Bloomberg.com": 13,
+    "Al-Monitor": 9,
+    "WSJ": 8,
+    "The New York Times": 8,
+    "Arab News": 9,
     "France 24": 1,
-    "AP News": 4,
+    "AP News": 5,
     "sanad.uk": 1,
     "The Age": 1,
     "The Duke Chronicle": 1,
@@ -20390,18 +20390,24 @@
     "Avi-Go": 1,
     "Atlantic Council": 2,
     "صحيفة سبق الإلكترونية": 1,
-    "Bloomberg": 2,
+    "Bloomberg": 4,
     "South China Morning Post": 1,
     "Spiegel": 1,
     "The Economist": 1,
     "CP24": 1,
     "Anadolu Ajansı": 1,
-    "houseofsaud.com": 1
+    "houseofsaud.com": 1,
+    "Forbes": 1,
+    "The Arab Weekly": 1,
+    "Apa.az": 1,
+    "WE News English": 1,
+    "شفق نيوز": 1,
+    "Daily Beirut": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
      0,
-     6,
+     9,
      0
     ],
     "SolarQuarter": [
@@ -20416,17 +20422,17 @@
     ],
     "Financial Times": [
      0,
-     9,
+     12,
      0
     ],
     "BBC": [
      0,
-     5,
+     7,
      0
     ],
     "Reuters": [
      0,
-     13,
+     17,
      0
     ],
     "Nikkei Asia": [
@@ -20436,27 +20442,27 @@
     ],
     "Bloomberg.com": [
      0,
-     12,
+     13,
      0
     ],
     "Al-Monitor": [
      0,
-     5,
+     9,
      0
     ],
     "WSJ": [
      0,
-     4,
+     8,
      0
     ],
     "The New York Times": [
      0,
-     7,
+     8,
      0
     ],
     "Arab News": [
      0,
-     5,
+     9,
      0
     ],
     "France 24": [
@@ -20466,7 +20472,7 @@
     ],
     "AP News": [
      0,
-     4,
+     5,
      0
     ],
     "sanad.uk": [
@@ -20616,7 +20622,7 @@
     ],
     "Bloomberg": [
      0,
-     2,
+     4,
      0
     ],
     "South China Morning Post": [
@@ -20645,6 +20651,36 @@
      0
     ],
     "houseofsaud.com": [
+     0,
+     1,
+     0
+    ],
+    "Forbes": [
+     0,
+     1,
+     0
+    ],
+    "The Arab Weekly": [
+     0,
+     1,
+     0
+    ],
+    "Apa.az": [
+     0,
+     1,
+     0
+    ],
+    "WE News English": [
+     0,
+     1,
+     0
+    ],
+    "شفق نيوز": [
+     0,
+     1,
+     0
+    ],
+    "Daily Beirut": [
      0,
      1,
      0
