@@ -19485,11 +19485,11 @@
    }
   },
   "2026-11-23": {
-   "total": 565,
-   "news": 559,
+   "total": 566,
+   "news": 560,
    "articles": 6,
    "positive": 0,
-   "neutral": 565,
+   "neutral": 566,
    "critical": 0,
    "mbs": 8,
    "countries": {
@@ -19636,7 +19636,8 @@
     "Sudan Tribune": 1,
     "Oil & Gas 360": 1,
     "EnergyNow.com": 1,
-    "The Straits Times": 1
+    "The Straits Times": 1,
+    "DD News": 1
    },
    "sourceTone": {
     "وكالة الأنباء السعودية": [
@@ -20310,6 +20311,11 @@
      0
     ],
     "The Straits Times": [
+     0,
+     1,
+     0
+    ],
+    "DD News": [
      0,
      1,
      0
