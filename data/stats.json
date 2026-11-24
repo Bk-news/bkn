@@ -20341,15 +20341,15 @@
    }
   },
   "2026-11-24": {
-   "total": 418,
-   "news": 415,
+   "total": 419,
+   "news": 416,
    "articles": 3,
    "positive": 0,
-   "neutral": 418,
+   "neutral": 419,
    "critical": 0,
    "mbs": 16,
    "countries": {
-    "SA": 58,
+    "SA": 59,
     "US": 72,
     "GB": 99,
     "JP": 1,
@@ -20370,7 +20370,7 @@
     "Al-Monitor": 22,
     "WSJ": 11,
     "The New York Times": 10,
-    "Arab News": 48,
+    "Arab News": 49,
     "France 24": 2,
     "AP News": 6,
     "sanad.uk": 1,
@@ -20543,7 +20543,7 @@
     ],
     "Arab News": [
      0,
-     48,
+     49,
      0
     ],
     "France 24": [

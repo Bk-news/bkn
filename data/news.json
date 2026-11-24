@@ -1,5 +1,25 @@
 [
  {
+  "id": "1af0680389446056",
+  "origin": "rss",
+  "source": "Arab News",
+  "author": "",
+  "title_ar": "Ackerman hits quickfire 150 as South Africa take 265-run lead",
+  "title_orig": "Ackerman hits quickfire 150 as South Africa take 265-run lead",
+  "title_en": "Ackerman hits quickfire 150 as South Africa take 265-run lead",
+  "summary_ar": [],
+  "summary_en": [],
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPby1Xb25sellMZmw1RnppaTNfMjgzNkNGNkl3WTdDMXA3cVR6aEVyZTlQb1FlemlnY1I3amRmRWY2TWgzbmlsM04yeXgyczM3VC1pZEJEWHJKY2hRVV91UHBjVkxZYUg1MVBrVl9SQ3lhaGdEM000Nlp6eFdqalMxOEZ0XzcxRUxkMEM2VEFLY1JRem8zbkUwZmZSZjFBc3V4Z3RrTQ?oc=5",
+  "published": "2026-11-24T17:05:27.000Z",
+  "subject": "saudi",
+  "tone": "neutral",
+  "topic": "",
+  "country": "SA",
+  "pending": true,
+  "desc": "Ackerman hits quickfire 150 as South Africa take 265-run lead &nbsp;&nbsp; Arab News",
+  "lang": "en"
+ },
+ {
   "id": "458e248b4f2577ff",
   "origin": "rss",
   "source": "middle-east-online.com",
@@ -10143,27 +10163,6 @@
   "country": "",
   "pending": true,
   "desc": "Saudi Crown Prince Calls Kuwait Emir on Health After US Medical Checks &nbsp;&nbsp; https://houseofsaud.com/",
-  "lang": "en",
-  "mt": true
- },
- {
-  "id": "10347a6f1eb3aafb",
-  "origin": "rss",
-  "source": "Reuters",
-  "author": "",
-  "title_ar": "انعكاس هوانغ المذهل من Nvidia يحقق \"نية\" ترامب | حديث السوق",
-  "title_orig": "Nvidia's stunning Huang reversal fulfills Trump's 'intent' | Market Talk",
-  "title_en": "Nvidia's stunning Huang reversal fulfills Trump's 'intent' | Market Talk",
-  "summary_ar": [],
-  "summary_en": [],
-  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3SEtoWDdVQTh4QlByMHR3T19qVXZZYzNxVU9WdUVCR0ppNFYwcENQUFl2ckFoWllOVEhLR1ZyT1RhR3pGYXdCTktBX1NQeG1kcm9YM01oMG55NUtmRkhBei1nZnFNWkk?oc=5",
-  "published": "2026-11-23T20:15:25.000Z",
-  "subject": "saudi",
-  "tone": "neutral",
-  "topic": "",
-  "country": "GB",
-  "pending": true,
-  "desc": "Nvidia's stunning Huang reversal fulfills Trump's 'intent' | Market Talk &nbsp;&nbsp; Reuters",
   "lang": "en",
   "mt": true
  }
