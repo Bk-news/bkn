@@ -1,5 +1,25 @@
 [
  {
+  "id": "7a83c25b8689b05f",
+  "origin": "rss",
+  "source": "Arab News",
+  "author": "",
+  "title_ar": "Saudi Conjoined Twins Program a ‘beacon of hope and global cooperation,’ says Al-Rabeeah",
+  "title_orig": "Saudi Conjoined Twins Program a ‘beacon of hope and global cooperation,’ says Al-Rabeeah",
+  "title_en": "Saudi Conjoined Twins Program a ‘beacon of hope and global cooperation,’ says Al-Rabeeah",
+  "summary_ar": [],
+  "summary_en": [],
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOFN1cDdJOF9tYXJVZExnRjF6NEd2RWRiS0xnMm9vdHFlRVNRQ2pRRG5lTDZLQXB3cGE4dm9NZFBYSnFWcXRqeHAwV2ZVaTNSQUNmZUJia0pNZmpEb2t0dFg3Z3JUSkR2SHNKeDlLbUo0T2NjTVVfVmt2U3EySklnSGx0VlV4dGdzQWdENzNlYVFkZGpZaEVIdGhmTU9WQ0VlV3VUV0Rpel9yZExmVEtkT1JWZDdGeWtIYklYaXZDT1ZrdXBKLUpXTEgwZw?oc=5",
+  "published": "2026-11-24T16:53:29.000Z",
+  "subject": "saudi",
+  "tone": "neutral",
+  "topic": "",
+  "country": "",
+  "pending": true,
+  "desc": "Saudi Conjoined Twins Program a ‘beacon of hope and global cooperation,’ says Al-Rabeeah &nbsp;&nbsp; Arab News",
+  "lang": "en"
+ },
+ {
   "id": "6c304b4c89c00014",
   "origin": "rss",
   "source": "France 24",
@@ -10159,26 +10179,5 @@
   "pending": true,
   "desc": "Attacks on grain ships, Hormuz crisis drive hunger in Yemen and Sudan, UN food agency boss warns &nbsp;&nbsp; Arab News",
   "lang": "en"
- },
- {
-  "id": "f20358976ca3bbda",
-  "origin": "rss",
-  "source": "Bloomberg.com",
-  "author": "",
-  "title_ar": "تبدأ المقارنة المرجعية الواثقة مع مؤشرات بلومبرج للدخل الثابت",
-  "title_orig": "Confident benchmarking starts with Bloomberg Fixed Income Indices",
-  "title_en": "Confident benchmarking starts with Bloomberg Fixed Income Indices",
-  "summary_ar": [],
-  "summary_en": [],
-  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tUEpzRFhTMGt4SnY3dDVQd1VLUzBzRkhJd2tObDE2UWhoQ04xc0dDUURqYVBwM04zb2NkSU5BWDBuU2l6QWEzQmRVQkQwR25NcGJNaFUwdkhKWjdSemlQeUtXLWdyMkFjZTc2WjZtZG1QRDg?oc=5",
-  "published": "2026-11-23T19:24:14.000Z",
-  "subject": "saudi",
-  "tone": "neutral",
-  "topic": "",
-  "country": "US",
-  "pending": true,
-  "desc": "Confident benchmarking starts with Bloomberg Fixed Income Indices &nbsp;&nbsp; Bloomberg.com",
-  "lang": "en",
-  "mt": true
  }
 ]
