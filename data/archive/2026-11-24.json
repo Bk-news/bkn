@@ -2,6 +2,27 @@
  "day": "2026-11-24",
  "items": [
   {
+   "id": "980aee58880338c1",
+   "origin": "rss",
+   "source": "Travel & Tourism News Middle East",
+   "author": "",
+   "title_ar": "أخبار السفر والسياحة الشرق الأوسط",
+   "title_orig": "Travel & Tourism News Middle East",
+   "title_en": "Travel & Tourism News Middle East",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN3RjbDRpcVZ0QjRTbWEyQ0Y3bDhkNXpYSVRvQXR5ZXQ3MjJMNmxhUWQ4VWU5MjczMzU1Sk96dGpPQktDNEJRQUw5a0dfdXEtMHpGbWVzeTRrOEJDRVNlNWl2NzIwTmcyc2J0Z2JFa051NElnRFJYT2FhRjEzWS1VTjdjS1BQRThMeEt6ZGgwX09wN1E3SUV2eVAzT0t1R2sweUZheC1wU3M5N01lMU0tbmlNcEE0VmgzcGtz?oc=5",
+   "published": "2026-11-24T06:16:11.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "",
+   "pending": true,
+   "desc": "Travel & Tourism News Middle East &nbsp;&nbsp; Travel & Tourism News Middle East",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "e57a532b639d0fbe",
    "origin": "rss",
    "source": "Al Jazeera",

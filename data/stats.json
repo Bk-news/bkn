@@ -20323,11 +20323,11 @@
    }
   },
   "2026-11-24": {
-   "total": 85,
-   "news": 85,
+   "total": 86,
+   "news": 86,
    "articles": 0,
    "positive": 0,
-   "neutral": 85,
+   "neutral": 86,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -20375,7 +20375,8 @@
     "Yeni Safak English": 1,
     "The Guardian": 1,
     "Kurdistan24": 1,
-    "Al Jazeera": 1
+    "Al Jazeera": 1,
+    "Travel & Tourism News Middle East": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -20559,6 +20560,11 @@
      0
     ],
     "Al Jazeera": [
+     0,
+     1,
+     0
+    ],
+    "Travel & Tourism News Middle East": [
      0,
      1,
      0
