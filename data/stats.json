@@ -20341,17 +20341,17 @@
    }
   },
   "2026-11-24": {
-   "total": 403,
-   "news": 400,
+   "total": 409,
+   "news": 406,
    "articles": 3,
    "positive": 0,
-   "neutral": 403,
+   "neutral": 409,
    "critical": 0,
    "mbs": 15,
    "countries": {
-    "SA": 57,
+    "SA": 58,
     "US": 71,
-    "GB": 96,
+    "GB": 98,
     "JP": 1,
     "FR": 3,
     "HK": 1,
@@ -20364,13 +20364,13 @@
     "The Washington Post": 2,
     "Financial Times": 13,
     "BBC": 7,
-    "Reuters": 74,
+    "Reuters": 75,
     "Nikkei Asia": 1,
     "Bloomberg.com": 15,
     "Al-Monitor": 22,
     "WSJ": 11,
     "The New York Times": 9,
-    "Arab News": 47,
+    "Arab News": 48,
     "France 24": 2,
     "AP News": 6,
     "sanad.uk": 1,
@@ -20393,7 +20393,7 @@
     "CGTN": 1,
     "www.tmgm.com": 3,
     "Yeni Safak English": 3,
-    "The Guardian": 3,
+    "The Guardian": 4,
     "Kurdistan24": 1,
     "Al Jazeera": 2,
     "Travel & Tourism News Middle East": 1,
@@ -20475,7 +20475,10 @@
     "Naharnet": 1,
     "Democracy Now!": 1,
     "The Times of Israel": 1,
-    "شبكة تواصل الإخبارية": 1
+    "شبكة تواصل الإخبارية": 1,
+    "https://theins.press/en": 1,
+    "ARYnews.tv": 1,
+    "Word on the Street | Jeremy Ben-Ami": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -20505,7 +20508,7 @@
     ],
     "Reuters": [
      0,
-     74,
+     75,
      0
     ],
     "Nikkei Asia": [
@@ -20535,7 +20538,7 @@
     ],
     "Arab News": [
      0,
-     47,
+     48,
      0
     ],
     "France 24": [
@@ -20650,7 +20653,7 @@
     ],
     "The Guardian": [
      0,
-     3,
+     4,
      0
     ],
     "Kurdistan24": [
@@ -21059,6 +21062,21 @@
      0
     ],
     "شبكة تواصل الإخبارية": [
+     0,
+     1,
+     0
+    ],
+    "https://theins.press/en": [
+     0,
+     1,
+     0
+    ],
+    "ARYnews.tv": [
+     0,
+     1,
+     0
+    ],
+    "Word on the Street | Jeremy Ben-Ami": [
      0,
      1,
      0
