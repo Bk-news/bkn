@@ -20317,16 +20317,16 @@
    }
   },
   "2026-11-24": {
-   "total": 74,
-   "news": 74,
+   "total": 75,
+   "news": 75,
    "articles": 0,
    "positive": 0,
-   "neutral": 74,
+   "neutral": 75,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 3,
-    "US": 21,
+    "US": 22,
     "GB": 14,
     "JP": 1,
     "FR": 1
@@ -20335,7 +20335,7 @@
    "sources": {
     "Saudi Gazette": 2,
     "SolarQuarter": 1,
-    "The Washington Post": 1,
+    "The Washington Post": 2,
     "Financial Times": 6,
     "BBC": 1,
     "Reuters": 7,
@@ -20380,7 +20380,7 @@
     ],
     "The Washington Post": [
      0,
-     1,
+     2,
      0
     ],
     "Financial Times": [
