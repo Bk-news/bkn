@@ -19485,15 +19485,15 @@
    }
   },
   "2026-11-23": {
-   "total": 564,
-   "news": 558,
+   "total": 565,
+   "news": 559,
    "articles": 6,
    "positive": 0,
-   "neutral": 564,
+   "neutral": 565,
    "critical": 0,
    "mbs": 8,
    "countries": {
-    "US": 150,
+    "US": 151,
     "SA": 83,
     "DE": 4,
     "GB": 114,
@@ -19528,7 +19528,7 @@
     "AP News": 11,
     "Financial Times": 10,
     "France 24": 14,
-    "The New York Times": 14,
+    "The New York Times": 15,
     "Nikkei Asia": 2,
     "Condé Nast Traveller Middle East": 1,
     "pv magazine Global": 1,
@@ -19771,7 +19771,7 @@
     ],
     "The New York Times": [
      0,
-     14,
+     15,
      0
     ],
     "Nikkei Asia": [
@@ -20317,16 +20317,16 @@
    }
   },
   "2026-11-24": {
-   "total": 76,
-   "news": 76,
+   "total": 77,
+   "news": 77,
    "articles": 0,
    "positive": 0,
-   "neutral": 76,
+   "neutral": 77,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 3,
-    "US": 22,
+    "US": 23,
     "GB": 15,
     "JP": 1,
     "FR": 1
@@ -20340,7 +20340,7 @@
     "BBC": 1,
     "Reuters": 8,
     "Nikkei Asia": 1,
-    "Bloomberg.com": 11,
+    "Bloomberg.com": 12,
     "Al-Monitor": 2,
     "WSJ": 2,
     "The New York Times": 3,
@@ -20405,7 +20405,7 @@
     ],
     "Bloomberg.com": [
      0,
-     11,
+     12,
      0
     ],
     "Al-Monitor": [
