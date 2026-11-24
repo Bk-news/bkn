@@ -19485,18 +19485,18 @@
    }
   },
   "2026-11-23": {
-   "total": 587,
-   "news": 581,
+   "total": 594,
+   "news": 588,
    "articles": 6,
    "positive": 0,
-   "neutral": 587,
+   "neutral": 594,
    "critical": 0,
    "mbs": 8,
    "countries": {
     "US": 161,
     "SA": 86,
     "DE": 4,
-    "GB": 120,
+    "GB": 127,
     "FR": 19,
     "JP": 2
    },
@@ -19519,7 +19519,7 @@
     "Yeni Safak English": 7,
     "BBC": 13,
     "www.tmgm.com": 2,
-    "Reuters": 74,
+    "Reuters": 81,
     "The Washington Post": 4,
     "Gulf Business": 4,
     "Saudi Gazette": 30,
@@ -19729,7 +19729,7 @@
     ],
     "Reuters": [
      0,
-     74,
+     81,
      0
     ],
     "The Washington Post": [
@@ -20335,17 +20335,17 @@
    }
   },
   "2026-11-24": {
-   "total": 315,
-   "news": 312,
+   "total": 338,
+   "news": 335,
    "articles": 3,
    "positive": 0,
-   "neutral": 315,
+   "neutral": 338,
    "critical": 0,
    "mbs": 12,
    "countries": {
     "SA": 50,
     "US": 67,
-    "GB": 81,
+    "GB": 83,
     "JP": 1,
     "FR": 1,
     "HK": 1,
@@ -20358,13 +20358,13 @@
     "The Washington Post": 2,
     "Financial Times": 13,
     "BBC": 7,
-    "Reuters": 60,
+    "Reuters": 62,
     "Nikkei Asia": 1,
     "Bloomberg.com": 13,
     "Al-Monitor": 21,
     "WSJ": 10,
     "The New York Times": 9,
-    "Arab News": 35,
+    "Arab News": 39,
     "France 24": 1,
     "AP News": 6,
     "sanad.uk": 1,
@@ -20375,7 +20375,7 @@
     "The AFC": 1,
     "https://houseofsaud.com/": 2,
     "AKIpress News Agency": 1,
-    "The National": 4,
+    "The National": 5,
     "Gulf News": 2,
     "Golf Industry Asia": 1,
     "Dawn": 1,
@@ -20383,17 +20383,17 @@
     "Bioengineer.org": 2,
     "Arabian Gulf Business Insight | AGBI": 1,
     "TradingView": 3,
-    "Global Advisory Experts": 12,
+    "Global Advisory Experts": 16,
     "CGTN": 1,
-    "www.tmgm.com": 2,
+    "www.tmgm.com": 3,
     "Yeni Safak English": 2,
     "The Guardian": 2,
     "Kurdistan24": 1,
     "Al Jazeera": 2,
     "Travel & Tourism News Middle East": 1,
     "The New Region": 1,
-    "ASHARQ AL-AWSAT English": 2,
-    "Avi-Go": 2,
+    "ASHARQ AL-AWSAT English": 3,
+    "Avi-Go": 3,
     "Atlantic Council": 2,
     "صحيفة سبق الإلكترونية": 1,
     "Bloomberg": 8,
@@ -20401,7 +20401,7 @@
     "Spiegel": 1,
     "The Economist": 1,
     "CP24": 1,
-    "Anadolu Ajansı": 1,
+    "Anadolu Ajansı": 2,
     "houseofsaud.com": 1,
     "Forbes": 1,
     "The Arab Weekly": 1,
@@ -20442,7 +20442,14 @@
     "Semafor": 1,
     "Plataforma Media": 1,
     "Fair Observer": 1,
-    "ProPublica": 1
+    "ProPublica": 1,
+    "Garowe Online": 1,
+    "Telecompaper": 1,
+    "Golf Digest Middle East": 1,
+    "The Jerusalem Post": 2,
+    "Defensehere": 1,
+    "SOFREP": 1,
+    "POLITICO Pro": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -20472,7 +20479,7 @@
     ],
     "Reuters": [
      0,
-     60,
+     62,
      0
     ],
     "Nikkei Asia": [
@@ -20502,7 +20509,7 @@
     ],
     "Arab News": [
      0,
-     35,
+     39,
      0
     ],
     "France 24": [
@@ -20557,7 +20564,7 @@
     ],
     "The National": [
      0,
-     4,
+     5,
      0
     ],
     "Gulf News": [
@@ -20597,7 +20604,7 @@
     ],
     "Global Advisory Experts": [
      0,
-     12,
+     16,
      0
     ],
     "CGTN": [
@@ -20607,7 +20614,7 @@
     ],
     "www.tmgm.com": [
      0,
-     2,
+     3,
      0
     ],
     "Yeni Safak English": [
@@ -20642,12 +20649,12 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     2,
+     3,
      0
     ],
     "Avi-Go": [
      0,
-     2,
+     3,
      0
     ],
     "Atlantic Council": [
@@ -20687,7 +20694,7 @@
     ],
     "Anadolu Ajansı": [
      0,
-     1,
+     2,
      0
     ],
     "houseofsaud.com": [
@@ -20891,6 +20898,41 @@
      0
     ],
     "ProPublica": [
+     0,
+     1,
+     0
+    ],
+    "Garowe Online": [
+     0,
+     1,
+     0
+    ],
+    "Telecompaper": [
+     0,
+     1,
+     0
+    ],
+    "Golf Digest Middle East": [
+     0,
+     1,
+     0
+    ],
+    "The Jerusalem Post": [
+     0,
+     2,
+     0
+    ],
+    "Defensehere": [
+     0,
+     1,
+     0
+    ],
+    "SOFREP": [
+     0,
+     1,
+     0
+    ],
+    "POLITICO Pro": [
      0,
      1,
      0
