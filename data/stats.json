@@ -19485,26 +19485,26 @@
    }
   },
   "2026-11-23": {
-   "total": 509,
-   "news": 504,
-   "articles": 5,
+   "total": 517,
+   "news": 511,
+   "articles": 6,
    "positive": 0,
-   "neutral": 509,
+   "neutral": 517,
    "critical": 0,
-   "mbs": 7,
+   "mbs": 8,
    "countries": {
-    "US": 117,
-    "SA": 77,
+    "US": 121,
+    "SA": 79,
     "DE": 4,
     "GB": 112,
-    "FR": 17,
+    "FR": 18,
     "JP": 2
    },
    "topics": {},
    "sources": {
     "وكالة الأنباء السعودية": 3,
-    "WSJ": 16,
-    "Arab News": 59,
+    "WSJ": 17,
+    "Arab News": 61,
     "Spiegel": 4,
     "Sports Gambling Podcast": 1,
     "Arabian Gulf Business Insight | AGBI": 4,
@@ -19523,9 +19523,9 @@
     "The Washington Post": 4,
     "Gulf Business": 4,
     "Saudi Gazette": 30,
-    "Le Monde.fr": 3,
-    "Al-Monitor": 26,
-    "AP News": 8,
+    "Le Monde.fr": 4,
+    "Al-Monitor": 27,
+    "AP News": 9,
     "Financial Times": 10,
     "France 24": 14,
     "The New York Times": 11,
@@ -19579,7 +19579,7 @@
     "EADaily": 1,
     "Kurdistan24": 1,
     "Goal.com": 1,
-    "Atlantic Council": 3,
+    "Atlantic Council": 4,
     "Foreign Policy": 1,
     "The Economist": 1,
     "CNN": 2,
@@ -19630,7 +19630,8 @@
     "www.marketscreener.com": 1,
     "Iran International": 1,
     "Council on Foreign Relations": 1,
-    "thenationalnews.com": 1
+    "thenationalnews.com": 1,
+    "Daily Mail": 1
    },
    "sourceTone": {
     "وكالة الأنباء السعودية": [
@@ -19640,12 +19641,12 @@
     ],
     "WSJ": [
      0,
-     16,
+     17,
      0
     ],
     "Arab News": [
      0,
-     59,
+     61,
      0
     ],
     "Spiegel": [
@@ -19740,17 +19741,17 @@
     ],
     "Le Monde.fr": [
      0,
-     3,
+     4,
      0
     ],
     "Al-Monitor": [
      0,
-     26,
+     27,
      0
     ],
     "AP News": [
      0,
-     8,
+     9,
      0
     ],
     "Financial Times": [
@@ -20020,7 +20021,7 @@
     ],
     "Atlantic Council": [
      0,
-     3,
+     4,
      0
     ],
     "Foreign Policy": [
@@ -20274,6 +20275,140 @@
      0
     ],
     "thenationalnews.com": [
+     0,
+     1,
+     0
+    ],
+    "Daily Mail": [
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "2026-11-24": {
+   "total": 32,
+   "news": 32,
+   "articles": 0,
+   "positive": 0,
+   "neutral": 32,
+   "critical": 0,
+   "mbs": 1,
+   "countries": {
+    "SA": 3,
+    "US": 13,
+    "GB": 9,
+    "JP": 1,
+    "FR": 1
+   },
+   "topics": {},
+   "sources": {
+    "Saudi Gazette": 2,
+    "SolarQuarter": 1,
+    "The Washington Post": 1,
+    "Financial Times": 4,
+    "BBC": 1,
+    "Reuters": 4,
+    "Nikkei Asia": 1,
+    "Bloomberg.com": 3,
+    "Al-Monitor": 2,
+    "WSJ": 2,
+    "The New York Times": 3,
+    "Arab News": 1,
+    "France 24": 1,
+    "AP News": 2,
+    "sanad.uk": 1,
+    "The Age": 1,
+    "The Duke Chronicle": 1,
+    "Crypto Briefing": 1
+   },
+   "sourceTone": {
+    "Saudi Gazette": [
+     0,
+     2,
+     0
+    ],
+    "SolarQuarter": [
+     0,
+     1,
+     0
+    ],
+    "The Washington Post": [
+     0,
+     1,
+     0
+    ],
+    "Financial Times": [
+     0,
+     4,
+     0
+    ],
+    "BBC": [
+     0,
+     1,
+     0
+    ],
+    "Reuters": [
+     0,
+     4,
+     0
+    ],
+    "Nikkei Asia": [
+     0,
+     1,
+     0
+    ],
+    "Bloomberg.com": [
+     0,
+     3,
+     0
+    ],
+    "Al-Monitor": [
+     0,
+     2,
+     0
+    ],
+    "WSJ": [
+     0,
+     2,
+     0
+    ],
+    "The New York Times": [
+     0,
+     3,
+     0
+    ],
+    "Arab News": [
+     0,
+     1,
+     0
+    ],
+    "France 24": [
+     0,
+     1,
+     0
+    ],
+    "AP News": [
+     0,
+     2,
+     0
+    ],
+    "sanad.uk": [
+     0,
+     1,
+     0
+    ],
+    "The Age": [
+     0,
+     1,
+     0
+    ],
+    "The Duke Chronicle": [
+     0,
+     1,
+     0
+    ],
+    "Crypto Briefing": [
      0,
      1,
      0

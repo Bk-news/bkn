@@ -1,38 +1,122 @@
 [
  {
-  "id": "f4eb60d91adb7872",
+  "id": "965d042ea00ded24",
   "origin": "telegram",
   "source": "العربية عاجل",
   "country": "SA",
-  "title_ar": "التحالف: تدمير مسيرة أطلقتها الميليشيا الحوثية باتجاه المنطقة الجنوبية",
+  "title_ar": "الدفاع الروسية: استهداف سفينة تحمل شحنة عسكرية جنوب غربي أوديسا",
   "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/155155",
-  "published": "2026-11-23T22:31:21.000Z",
+  "url": "https://t.me/alarabiyaBr/155180",
+  "published": "2026-11-24T05:10:23.000Z",
   "subject": "saudi",
-  "added": "2026-11-23T22:31:21.000Z"
+  "added": "2026-11-24T05:10:23.000Z"
  },
  {
-  "id": "759dd5187fc544a2",
+  "id": "9ea9bc23ab6cc4de",
   "origin": "telegram",
   "source": "العربية عاجل",
   "country": "SA",
-  "title_ar": "سنتكوم: حاملة الطائرات روزفلت تواصل عملياتها على مدار الساعة بالشرق الأوسط",
+  "title_ar": "وزير الدفاع الأوكراني: دمرنا 17 منصة إطلاق صواريخ إسكندر وإس 400 في روسيا",
   "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/155154",
-  "published": "2026-11-23T22:27:39.000Z",
+  "url": "https://t.me/alarabiyaBr/155179",
+  "published": "2026-11-24T05:09:37.000Z",
   "subject": "saudi",
-  "added": "2026-11-23T22:27:39.000Z"
+  "added": "2026-11-24T05:09:37.000Z"
  },
  {
-  "id": "9df90290a6348b3e",
+  "id": "73a4b0fdf181f112",
   "origin": "telegram",
   "source": "العربية عاجل",
   "country": "SA",
-  "title_ar": "مصادر العربية: دوي انفجار في مدينة الحديدة باليمن",
+  "title_ar": "وزير الدفاع الأوكراني: روسيا أطلقت 153 صاروخا باليستيا في أكتوبر الماضي",
   "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/155153",
-  "published": "2026-11-23T22:16:22.000Z",
+  "url": "https://t.me/alarabiyaBr/155178",
+  "published": "2026-11-24T05:09:19.000Z",
   "subject": "saudi",
-  "added": "2026-11-23T22:16:22.000Z"
+  "added": "2026-11-24T05:09:19.000Z"
+ },
+ {
+  "id": "721c4d7df5dd5d83",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "وزير الدفاع الأوكراني: روسيا تصنع صاروخا باليستيا كل 5 ساعات وتسرع من وتيرة الإنتاج",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/155177",
+  "published": "2026-11-24T05:09:02.000Z",
+  "subject": "saudi",
+  "added": "2026-11-24T05:09:02.000Z"
+ },
+ {
+  "id": "7092fb0111dfc04f",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "فاينانشال تايمز: هيغسيث لم يوافق على إرسال 60 صاروخا من طراز باتريوت لأوكرانيا",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/155176",
+  "published": "2026-11-24T05:08:35.000Z",
+  "subject": "saudi",
+  "added": "2026-11-24T05:08:35.000Z"
+ },
+ {
+  "id": "0e1f9a289ca69b38",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "فاينانشال تايمز: البنتاغون يؤجل تسليم شحنات صواريخ باتريوت لأوكرانيا",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/155175",
+  "published": "2026-11-24T05:07:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-24T05:07:01.000Z"
+ },
+ {
+  "id": "70c9d4958beef41f",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "مسؤول إسرائيلي للقناة 12: قد نتحرك بشكل منفرد إذا تجاوزت إيران أحد خطوطنا الحمراء",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/155174",
+  "published": "2026-11-24T04:58:23.000Z",
+  "subject": "saudi",
+  "added": "2026-11-24T04:58:23.000Z"
+ },
+ {
+  "id": "e0afadc7a395b288",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "مسؤول إسرائيلي للقناة 12: لا نستبعد مبادرة إيران نحو توجيه الضربة الأولى",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/155173",
+  "published": "2026-11-24T04:58:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-24T04:58:01.000Z"
+ },
+ {
+  "id": "403477fadc7b3d68",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "مسؤول إسرائيلي للقناة 12: تقديرات تشير إلى أن صبر أميركا تجاه إيران آخذ في النفاد",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/155172",
+  "published": "2026-11-24T04:57:37.000Z",
+  "subject": "saudi",
+  "added": "2026-11-24T04:57:37.000Z"
+ },
+ {
+  "id": "4a0fc2a5f153347f",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "القناة 12: إسرائيل تستعد لتصعيد سريع ضد إيران وتدرس إمكانية التحرك منفردة",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/155171",
+  "published": "2026-11-24T04:57:22.000Z",
+  "subject": "saudi",
+  "added": "2026-11-24T04:57:22.000Z"
  }
 ]
