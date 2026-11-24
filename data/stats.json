@@ -19485,15 +19485,15 @@
    }
   },
   "2026-11-23": {
-   "total": 605,
-   "news": 599,
+   "total": 606,
+   "news": 600,
    "articles": 6,
    "positive": 0,
-   "neutral": 605,
+   "neutral": 606,
    "critical": 0,
    "mbs": 8,
    "countries": {
-    "US": 166,
+    "US": 167,
     "SA": 86,
     "DE": 4,
     "GB": 132,
@@ -19514,7 +19514,7 @@
     "The New Arab": 2,
     "FXStreet": 1,
     "TradingView": 3,
-    "Bloomberg.com": 74,
+    "Bloomberg.com": 75,
     "The Guardian": 22,
     "Yeni Safak English": 7,
     "BBC": 13,
@@ -19705,7 +19705,7 @@
     ],
     "Bloomberg.com": [
      0,
-     74,
+     75,
      0
     ],
     "The Guardian": [
@@ -20341,16 +20341,16 @@
    }
   },
   "2026-11-24": {
-   "total": 419,
-   "news": 416,
+   "total": 422,
+   "news": 419,
    "articles": 3,
    "positive": 0,
-   "neutral": 419,
+   "neutral": 422,
    "critical": 0,
    "mbs": 16,
    "countries": {
     "SA": 59,
-    "US": 72,
+    "US": 74,
     "GB": 99,
     "JP": 1,
     "FR": 3,
@@ -20368,7 +20368,7 @@
     "Nikkei Asia": 1,
     "Bloomberg.com": 15,
     "Al-Monitor": 22,
-    "WSJ": 11,
+    "WSJ": 12,
     "The New York Times": 10,
     "Arab News": 49,
     "France 24": 2,
@@ -20402,7 +20402,7 @@
     "Avi-Go": 4,
     "Atlantic Council": 2,
     "صحيفة سبق الإلكترونية": 2,
-    "Bloomberg": 8,
+    "Bloomberg": 9,
     "South China Morning Post": 2,
     "Spiegel": 1,
     "The Economist": 1,
@@ -20483,7 +20483,8 @@
     "CNA": 1,
     "scanx.trade": 1,
     "Business Day": 1,
-    "الأمانة العامة لمجلس التعاون لدول الخليج العربية": 1
+    "الأمانة العامة لمجلس التعاون لدول الخليج العربية": 1,
+    "Deccan Herald": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -20533,7 +20534,7 @@
     ],
     "WSJ": [
      0,
-     11,
+     12,
      0
     ],
     "The New York Times": [
@@ -20703,7 +20704,7 @@
     ],
     "Bloomberg": [
      0,
-     8,
+     9,
      0
     ],
     "South China Morning Post": [
@@ -21107,6 +21108,11 @@
      0
     ],
     "الأمانة العامة لمجلس التعاون لدول الخليج العربية": [
+     0,
+     1,
+     0
+    ],
+    "Deccan Herald": [
      0,
      1,
      0
