@@ -20341,11 +20341,11 @@
    }
   },
   "2026-11-24": {
-   "total": 416,
-   "news": 413,
+   "total": 418,
+   "news": 415,
    "articles": 3,
    "positive": 0,
-   "neutral": 416,
+   "neutral": 418,
    "critical": 0,
    "mbs": 16,
    "countries": {
@@ -20392,7 +20392,7 @@
     "Global Advisory Experts": 16,
     "CGTN": 1,
     "www.tmgm.com": 3,
-    "Yeni Safak English": 3,
+    "Yeni Safak English": 4,
     "The Guardian": 4,
     "Kurdistan24": 1,
     "Al Jazeera": 2,
@@ -20482,7 +20482,8 @@
     "middle-east-online.com": 1,
     "CNA": 1,
     "scanx.trade": 1,
-    "Business Day": 1
+    "Business Day": 1,
+    "الأمانة العامة لمجلس التعاون لدول الخليج العربية": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -20652,7 +20653,7 @@
     ],
     "Yeni Safak English": [
      0,
-     3,
+     4,
      0
     ],
     "The Guardian": [
@@ -21101,6 +21102,11 @@
      0
     ],
     "Business Day": [
+     0,
+     1,
+     0
+    ],
+    "الأمانة العامة لمجلس التعاون لدول الخليج العربية": [
      0,
      1,
      0

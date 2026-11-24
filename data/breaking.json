@@ -1,5 +1,29 @@
 [
  {
+  "id": "d7aa7ec5fdac1a97",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "وثائق استخباراتية عراقية: رصد 5 آبار نفطية غير رسمية قرب الحدود مع سوريا",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/155328",
+  "published": "2026-11-24T17:06:43.000Z",
+  "subject": "saudi",
+  "added": "2026-11-24T17:06:43.000Z"
+ },
+ {
+  "id": "90174b2a841d4216",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "تقرير استخباراتي عراقي يكشف تهريب النفط على الحدود مع سوريا من 2020 حتى بداية 2026",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/155327",
+  "published": "2026-11-24T17:05:41.000Z",
+  "subject": "saudi",
+  "added": "2026-11-24T17:05:41.000Z"
+ },
+ {
   "id": "43b377a31c9d2454",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -286,41 +310,5 @@
   "published": "2026-11-24T16:07:02.000Z",
   "subject": "saudi",
   "added": "2026-11-24T16:07:02.000Z"
- },
- {
-  "id": "9f916523a6f2f2b8",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "المتحدث باسم القوات المسلحة اليمنية: المعركة ليست مع الحوثيين فقط بل معركة إيرانية أيضا",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/155302",
-  "published": "2026-11-24T16:06:40.000Z",
-  "subject": "saudi",
-  "added": "2026-11-24T16:06:40.000Z"
- },
- {
-  "id": "8c64b12f31bf96b0",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "مستشار وزيرة خارجية اليمن: نطلب من شركائنا إنفاذ العقوبات على ميليشيات الحوثي",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/155301",
-  "published": "2026-11-24T16:06:20.000Z",
-  "subject": "saudi",
-  "added": "2026-11-24T16:06:20.000Z"
- },
- {
-  "id": "784fbe523aa7106f",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "مستشار وزيرة خارجية اليمن: الحوثي يبني شبكة عبر البحر الأحمر بالتعاون مع حركة الشباب",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/155300",
-  "published": "2026-11-24T16:06:01.000Z",
-  "subject": "saudi",
-  "added": "2026-11-24T16:06:01.000Z"
  }
 ]
