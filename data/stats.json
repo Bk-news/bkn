@@ -20341,13 +20341,13 @@
    }
   },
   "2026-11-24": {
-   "total": 397,
-   "news": 394,
+   "total": 400,
+   "news": 397,
    "articles": 3,
    "positive": 0,
-   "neutral": 397,
+   "neutral": 400,
    "critical": 0,
-   "mbs": 14,
+   "mbs": 15,
    "countries": {
     "SA": 57,
     "US": 71,
@@ -20359,7 +20359,7 @@
    },
    "topics": {},
    "sources": {
-    "Saudi Gazette": 21,
+    "Saudi Gazette": 22,
     "SolarQuarter": 1,
     "The Washington Post": 2,
     "Financial Times": 13,
@@ -20473,12 +20473,14 @@
     "NST Online": 1,
     "KarloBag.eu": 1,
     "Naharnet": 1,
-    "Democracy Now!": 1
+    "Democracy Now!": 1,
+    "The Times of Israel": 1,
+    "شبكة تواصل الإخبارية": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
      0,
-     21,
+     22,
      0
     ],
     "SolarQuarter": [
@@ -21047,6 +21049,16 @@
      0
     ],
     "Democracy Now!": [
+     0,
+     1,
+     0
+    ],
+    "The Times of Israel": [
+     0,
+     1,
+     0
+    ],
+    "شبكة تواصل الإخبارية": [
      0,
      1,
      0
