@@ -19485,18 +19485,18 @@
    }
   },
   "2026-11-23": {
-   "total": 581,
-   "news": 575,
+   "total": 587,
+   "news": 581,
    "articles": 6,
    "positive": 0,
-   "neutral": 581,
+   "neutral": 587,
    "critical": 0,
    "mbs": 8,
    "countries": {
-    "US": 160,
+    "US": 161,
     "SA": 86,
     "DE": 4,
-    "GB": 115,
+    "GB": 120,
     "FR": 19,
     "JP": 2
    },
@@ -19514,12 +19514,12 @@
     "The New Arab": 2,
     "FXStreet": 1,
     "TradingView": 3,
-    "Bloomberg.com": 69,
+    "Bloomberg.com": 70,
     "The Guardian": 22,
     "Yeni Safak English": 7,
     "BBC": 13,
     "www.tmgm.com": 2,
-    "Reuters": 69,
+    "Reuters": 74,
     "The Washington Post": 4,
     "Gulf Business": 4,
     "Saudi Gazette": 30,
@@ -19704,7 +19704,7 @@
     ],
     "Bloomberg.com": [
      0,
-     69,
+     70,
      0
     ],
     "The Guardian": [
@@ -19729,7 +19729,7 @@
     ],
     "Reuters": [
      0,
-     69,
+     74,
      0
     ],
     "The Washington Post": [
@@ -20335,17 +20335,17 @@
    }
   },
   "2026-11-24": {
-   "total": 281,
-   "news": 278,
+   "total": 315,
+   "news": 312,
    "articles": 3,
    "positive": 0,
-   "neutral": 281,
+   "neutral": 315,
    "critical": 0,
-   "mbs": 11,
+   "mbs": 12,
    "countries": {
     "SA": 50,
-    "US": 66,
-    "GB": 68,
+    "US": 67,
+    "GB": 81,
     "JP": 1,
     "FR": 1,
     "HK": 1,
@@ -20358,19 +20358,19 @@
     "The Washington Post": 2,
     "Financial Times": 13,
     "BBC": 7,
-    "Reuters": 46,
+    "Reuters": 60,
     "Nikkei Asia": 1,
     "Bloomberg.com": 13,
     "Al-Monitor": 21,
     "WSJ": 10,
-    "The New York Times": 8,
-    "Arab News": 34,
+    "The New York Times": 9,
+    "Arab News": 35,
     "France 24": 1,
     "AP News": 6,
     "sanad.uk": 1,
     "The Age": 1,
     "The Duke Chronicle": 1,
-    "Crypto Briefing": 2,
+    "Crypto Briefing": 3,
     "Mehr News Agency": 1,
     "The AFC": 1,
     "https://houseofsaud.com/": 2,
@@ -20386,14 +20386,14 @@
     "Global Advisory Experts": 12,
     "CGTN": 1,
     "www.tmgm.com": 2,
-    "Yeni Safak English": 1,
+    "Yeni Safak English": 2,
     "The Guardian": 2,
     "Kurdistan24": 1,
     "Al Jazeera": 2,
     "Travel & Tourism News Middle East": 1,
     "The New Region": 1,
     "ASHARQ AL-AWSAT English": 2,
-    "Avi-Go": 1,
+    "Avi-Go": 2,
     "Atlantic Council": 2,
     "صحيفة سبق الإلكترونية": 1,
     "Bloomberg": 8,
@@ -20428,7 +20428,21 @@
     "AOL.com": 1,
     "Gulf Business": 1,
     "Captive Insurance Times": 1,
-    "Al Arabiya English": 1
+    "Al Arabiya English": 2,
+    "talkSPORT": 1,
+    "Israel Hayom": 1,
+    "NDTV": 1,
+    "Goal.com": 1,
+    "Zawya": 1,
+    "Investing.com": 1,
+    "BioSpace": 1,
+    "MLQ.ai": 1,
+    "RealClearWorld": 1,
+    "CairoScene": 1,
+    "Semafor": 1,
+    "Plataforma Media": 1,
+    "Fair Observer": 1,
+    "ProPublica": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -20458,7 +20472,7 @@
     ],
     "Reuters": [
      0,
-     46,
+     60,
      0
     ],
     "Nikkei Asia": [
@@ -20483,12 +20497,12 @@
     ],
     "The New York Times": [
      0,
-     8,
+     9,
      0
     ],
     "Arab News": [
      0,
-     34,
+     35,
      0
     ],
     "France 24": [
@@ -20518,7 +20532,7 @@
     ],
     "Crypto Briefing": [
      0,
-     2,
+     3,
      0
     ],
     "Mehr News Agency": [
@@ -20598,7 +20612,7 @@
     ],
     "Yeni Safak English": [
      0,
-     1,
+     2,
      0
     ],
     "The Guardian": [
@@ -20633,7 +20647,7 @@
     ],
     "Avi-Go": [
      0,
-     1,
+     2,
      0
     ],
     "Atlantic Council": [
@@ -20807,6 +20821,76 @@
      0
     ],
     "Al Arabiya English": [
+     0,
+     2,
+     0
+    ],
+    "talkSPORT": [
+     0,
+     1,
+     0
+    ],
+    "Israel Hayom": [
+     0,
+     1,
+     0
+    ],
+    "NDTV": [
+     0,
+     1,
+     0
+    ],
+    "Goal.com": [
+     0,
+     1,
+     0
+    ],
+    "Zawya": [
+     0,
+     1,
+     0
+    ],
+    "Investing.com": [
+     0,
+     1,
+     0
+    ],
+    "BioSpace": [
+     0,
+     1,
+     0
+    ],
+    "MLQ.ai": [
+     0,
+     1,
+     0
+    ],
+    "RealClearWorld": [
+     0,
+     1,
+     0
+    ],
+    "CairoScene": [
+     0,
+     1,
+     0
+    ],
+    "Semafor": [
+     0,
+     1,
+     0
+    ],
+    "Plataforma Media": [
+     0,
+     1,
+     0
+    ],
+    "Fair Observer": [
+     0,
+     1,
+     0
+    ],
+    "ProPublica": [
      0,
      1,
      0
