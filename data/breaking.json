@@ -1,5 +1,17 @@
 [
  {
+  "id": "dccae7b46d2311a8",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "الإطار التنسيقي: يجب ضمان عدم إفلات أي جهة أو شخص من المساءلة القانونية",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/155308",
+  "published": "2026-11-24T16:44:21.000Z",
+  "subject": "saudi",
+  "added": "2026-11-24T16:44:21.000Z"
+ },
+ {
   "id": "4a22c317ad9749eb",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -130,17 +142,5 @@
   "published": "2026-11-24T15:52:01.000Z",
   "subject": "saudi",
   "added": "2026-11-24T15:52:01.000Z"
- },
- {
-  "id": "8d1aa2251944e448",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "إثيوبيا: نقف على مسافة واحدة من جميع الأطراف السودانية",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/155296",
-  "published": "2026-11-24T15:44:22.000Z",
-  "subject": "saudi",
-  "added": "2026-11-24T15:44:22.000Z"
  }
 ]
