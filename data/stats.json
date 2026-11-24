@@ -18676,18 +18676,18 @@
    }
   },
   "2026-11-22": {
-   "total": 500,
-   "news": 495,
+   "total": 501,
+   "news": 496,
    "articles": 5,
    "positive": 0,
-   "neutral": 500,
+   "neutral": 501,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "GB": 108,
     "SA": 91,
     "FR": 18,
-    "US": 66,
+    "US": 67,
     "HK": 5,
     "DE": 11,
     "JP": 1
@@ -18736,7 +18736,7 @@
     "Firstpost": 2,
     "KLSE Screener": 1,
     "Saudi Gazette": 29,
-    "AP News": 9,
+    "AP News": 10,
     "Investing.com": 2,
     "EA WorldView": 1,
     "News On AIR": 1,
@@ -19039,7 +19039,7 @@
     ],
     "AP News": [
      0,
-     9,
+     10,
      0
     ],
     "Investing.com": [
@@ -20317,11 +20317,11 @@
    }
   },
   "2026-11-24": {
-   "total": 77,
-   "news": 77,
+   "total": 78,
+   "news": 78,
    "articles": 0,
    "positive": 0,
-   "neutral": 77,
+   "neutral": 78,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -20365,7 +20365,8 @@
     "TradingView": 1,
     "Global Advisory Experts": 11,
     "CGTN": 1,
-    "www.tmgm.com": 1
+    "www.tmgm.com": 1,
+    "Yeni Safak English": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -20529,6 +20530,11 @@
      0
     ],
     "www.tmgm.com": [
+     0,
+     1,
+     0
+    ],
+    "Yeni Safak English": [
      0,
      1,
      0
