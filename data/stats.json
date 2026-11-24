@@ -19485,26 +19485,26 @@
    }
   },
   "2026-11-23": {
-   "total": 517,
-   "news": 511,
+   "total": 530,
+   "news": 524,
    "articles": 6,
    "positive": 0,
-   "neutral": 517,
+   "neutral": 530,
    "critical": 0,
    "mbs": 8,
    "countries": {
-    "US": 121,
-    "SA": 79,
+    "US": 130,
+    "SA": 81,
     "DE": 4,
-    "GB": 112,
+    "GB": 114,
     "FR": 18,
     "JP": 2
    },
    "topics": {},
    "sources": {
     "وكالة الأنباء السعودية": 3,
-    "WSJ": 17,
-    "Arab News": 61,
+    "WSJ": 18,
+    "Arab News": 63,
     "Spiegel": 4,
     "Sports Gambling Podcast": 1,
     "Arabian Gulf Business Insight | AGBI": 4,
@@ -19514,21 +19514,21 @@
     "The New Arab": 2,
     "FXStreet": 1,
     "TradingView": 2,
-    "Bloomberg.com": 46,
+    "Bloomberg.com": 51,
     "The Guardian": 22,
     "Yeni Safak English": 7,
     "BBC": 12,
     "www.tmgm.com": 2,
-    "Reuters": 67,
+    "Reuters": 69,
     "The Washington Post": 4,
     "Gulf Business": 4,
     "Saudi Gazette": 30,
     "Le Monde.fr": 4,
     "Al-Monitor": 27,
-    "AP News": 9,
+    "AP News": 11,
     "Financial Times": 10,
     "France 24": 14,
-    "The New York Times": 11,
+    "The New York Times": 12,
     "Nikkei Asia": 2,
     "Condé Nast Traveller Middle East": 1,
     "pv magazine Global": 1,
@@ -19641,12 +19641,12 @@
     ],
     "WSJ": [
      0,
-     17,
+     18,
      0
     ],
     "Arab News": [
      0,
-     61,
+     63,
      0
     ],
     "Spiegel": [
@@ -19696,7 +19696,7 @@
     ],
     "Bloomberg.com": [
      0,
-     46,
+     51,
      0
     ],
     "The Guardian": [
@@ -19721,7 +19721,7 @@
     ],
     "Reuters": [
      0,
-     67,
+     69,
      0
     ],
     "The Washington Post": [
@@ -19751,7 +19751,7 @@
     ],
     "AP News": [
      0,
-     9,
+     11,
      0
     ],
     "Financial Times": [
@@ -19766,7 +19766,7 @@
     ],
     "The New York Times": [
      0,
-     11,
+     12,
      0
     ],
     "Nikkei Asia": [
@@ -20287,17 +20287,17 @@
    }
   },
   "2026-11-24": {
-   "total": 32,
-   "news": 32,
+   "total": 59,
+   "news": 59,
    "articles": 0,
    "positive": 0,
-   "neutral": 32,
+   "neutral": 59,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 3,
-    "US": 13,
-    "GB": 9,
+    "US": 21,
+    "GB": 14,
     "JP": 1,
     "FR": 1
    },
@@ -20306,11 +20306,11 @@
     "Saudi Gazette": 2,
     "SolarQuarter": 1,
     "The Washington Post": 1,
-    "Financial Times": 4,
+    "Financial Times": 6,
     "BBC": 1,
-    "Reuters": 4,
+    "Reuters": 7,
     "Nikkei Asia": 1,
-    "Bloomberg.com": 3,
+    "Bloomberg.com": 11,
     "Al-Monitor": 2,
     "WSJ": 2,
     "The New York Times": 3,
@@ -20320,7 +20320,18 @@
     "sanad.uk": 1,
     "The Age": 1,
     "The Duke Chronicle": 1,
-    "Crypto Briefing": 1
+    "Crypto Briefing": 1,
+    "Mehr News Agency": 1,
+    "The AFC": 1,
+    "https://houseofsaud.com/": 1,
+    "AKIpress News Agency": 1,
+    "The National": 2,
+    "Gulf News": 2,
+    "Golf Industry Asia": 1,
+    "Dawn": 1,
+    "MMA Junkie": 1,
+    "Bioengineer.org": 2,
+    "Arabian Gulf Business Insight | AGBI": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -20340,7 +20351,7 @@
     ],
     "Financial Times": [
      0,
-     4,
+     6,
      0
     ],
     "BBC": [
@@ -20350,7 +20361,7 @@
     ],
     "Reuters": [
      0,
-     4,
+     7,
      0
     ],
     "Nikkei Asia": [
@@ -20360,7 +20371,7 @@
     ],
     "Bloomberg.com": [
      0,
-     3,
+     11,
      0
     ],
     "Al-Monitor": [
@@ -20409,6 +20420,61 @@
      0
     ],
     "Crypto Briefing": [
+     0,
+     1,
+     0
+    ],
+    "Mehr News Agency": [
+     0,
+     1,
+     0
+    ],
+    "The AFC": [
+     0,
+     1,
+     0
+    ],
+    "https://houseofsaud.com/": [
+     0,
+     1,
+     0
+    ],
+    "AKIpress News Agency": [
+     0,
+     1,
+     0
+    ],
+    "The National": [
+     0,
+     2,
+     0
+    ],
+    "Gulf News": [
+     0,
+     2,
+     0
+    ],
+    "Golf Industry Asia": [
+     0,
+     1,
+     0
+    ],
+    "Dawn": [
+     0,
+     1,
+     0
+    ],
+    "MMA Junkie": [
+     0,
+     1,
+     0
+    ],
+    "Bioengineer.org": [
+     0,
+     2,
+     0
+    ],
+    "Arabian Gulf Business Insight | AGBI": [
      0,
      1,
      0
