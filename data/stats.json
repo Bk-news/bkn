@@ -20341,17 +20341,17 @@
    }
   },
   "2026-11-24": {
-   "total": 371,
-   "news": 368,
+   "total": 375,
+   "news": 372,
    "articles": 3,
    "positive": 0,
-   "neutral": 371,
+   "neutral": 375,
    "critical": 0,
    "mbs": 14,
    "countries": {
     "SA": 54,
     "US": 70,
-    "GB": 87,
+    "GB": 88,
     "JP": 1,
     "FR": 1,
     "HK": 1,
@@ -20364,7 +20364,7 @@
     "The Washington Post": 2,
     "Financial Times": 13,
     "BBC": 7,
-    "Reuters": 65,
+    "Reuters": 66,
     "Nikkei Asia": 1,
     "Bloomberg.com": 15,
     "Al-Monitor": 21,
@@ -20415,7 +20415,7 @@
     "WE News English": 1,
     "شفق نيوز": 2,
     "Daily Beirut": 2,
-    "Middle East Eye": 2,
+    "Middle East Eye": 3,
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1,
     "L'Orient Today": 1,
     "MTV Lebanon": 2,
@@ -20464,7 +20464,9 @@
     "Radio Tamazuj": 1,
     "fundsforNGOs - Grants and Resources for Sustainability": 1,
     "Engadget": 1,
-    "Tom's Hardware": 1
+    "Tom's Hardware": 1,
+    "Agência de Notícias Brasil-Árabe - ANBA": 1,
+    "EnergyNow.com": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -20494,7 +20496,7 @@
     ],
     "Reuters": [
      0,
-     65,
+     66,
      0
     ],
     "Nikkei Asia": [
@@ -20749,7 +20751,7 @@
     ],
     "Middle East Eye": [
      0,
-     2,
+     3,
      0
     ],
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": [
@@ -20993,6 +20995,16 @@
      0
     ],
     "Tom's Hardware": [
+     0,
+     1,
+     0
+    ],
+    "Agência de Notícias Brasil-Árabe - ANBA": [
+     0,
+     1,
+     0
+    ],
+    "EnergyNow.com": [
      0,
      1,
      0
