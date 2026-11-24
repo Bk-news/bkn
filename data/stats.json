@@ -20335,17 +20335,17 @@
    }
   },
   "2026-11-24": {
-   "total": 203,
-   "news": 200,
+   "total": 243,
+   "news": 240,
    "articles": 3,
    "positive": 0,
-   "neutral": 203,
+   "neutral": 243,
    "critical": 0,
-   "mbs": 9,
+   "mbs": 10,
    "countries": {
-    "SA": 28,
-    "US": 59,
-    "GB": 44,
+    "SA": 43,
+    "US": 66,
+    "GB": 53,
     "JP": 1,
     "FR": 1,
     "HK": 1,
@@ -20353,20 +20353,20 @@
    },
    "topics": {},
    "sources": {
-    "Saudi Gazette": 14,
+    "Saudi Gazette": 19,
     "SolarQuarter": 1,
     "The Washington Post": 2,
-    "Financial Times": 12,
+    "Financial Times": 13,
     "BBC": 7,
-    "Reuters": 22,
+    "Reuters": 31,
     "Nikkei Asia": 1,
     "Bloomberg.com": 13,
-    "Al-Monitor": 16,
+    "Al-Monitor": 21,
     "WSJ": 10,
     "The New York Times": 8,
-    "Arab News": 15,
+    "Arab News": 27,
     "France 24": 1,
-    "AP News": 5,
+    "AP News": 6,
     "sanad.uk": 1,
     "The Age": 1,
     "The Duke Chronicle": 1,
@@ -20375,7 +20375,7 @@
     "The AFC": 1,
     "https://houseofsaud.com/": 2,
     "AKIpress News Agency": 1,
-    "The National": 2,
+    "The National": 4,
     "Gulf News": 2,
     "Golf Industry Asia": 1,
     "Dawn": 1,
@@ -20396,7 +20396,7 @@
     "Avi-Go": 1,
     "Atlantic Council": 2,
     "صحيفة سبق الإلكترونية": 1,
-    "Bloomberg": 5,
+    "Bloomberg": 7,
     "South China Morning Post": 2,
     "Spiegel": 1,
     "The Economist": 1,
@@ -20415,12 +20415,15 @@
     "MTV Lebanon": 2,
     "Traders Union": 1,
     "Business Upturn": 1,
-    "MEAWW News": 1
+    "MEAWW News": 1,
+    "Yemen Online": 1,
+    "MMA Mania": 1,
+    "markets.businessinsider.com": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
      0,
-     14,
+     19,
      0
     ],
     "SolarQuarter": [
@@ -20435,7 +20438,7 @@
     ],
     "Financial Times": [
      0,
-     12,
+     13,
      0
     ],
     "BBC": [
@@ -20445,7 +20448,7 @@
     ],
     "Reuters": [
      0,
-     22,
+     31,
      0
     ],
     "Nikkei Asia": [
@@ -20460,7 +20463,7 @@
     ],
     "Al-Monitor": [
      0,
-     16,
+     21,
      0
     ],
     "WSJ": [
@@ -20475,7 +20478,7 @@
     ],
     "Arab News": [
      0,
-     15,
+     27,
      0
     ],
     "France 24": [
@@ -20485,7 +20488,7 @@
     ],
     "AP News": [
      0,
-     5,
+     6,
      0
     ],
     "sanad.uk": [
@@ -20530,7 +20533,7 @@
     ],
     "The National": [
      0,
-     2,
+     4,
      0
     ],
     "Gulf News": [
@@ -20635,7 +20638,7 @@
     ],
     "Bloomberg": [
      0,
-     5,
+     7,
      0
     ],
     "South China Morning Post": [
@@ -20729,6 +20732,21 @@
      0
     ],
     "MEAWW News": [
+     0,
+     1,
+     0
+    ],
+    "Yemen Online": [
+     0,
+     1,
+     0
+    ],
+    "MMA Mania": [
+     0,
+     1,
+     0
+    ],
+    "markets.businessinsider.com": [
      0,
      1,
      0
