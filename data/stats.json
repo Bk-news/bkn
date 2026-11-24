@@ -18676,15 +18676,15 @@
    }
   },
   "2026-11-22": {
-   "total": 503,
-   "news": 498,
+   "total": 504,
+   "news": 499,
    "articles": 5,
    "positive": 0,
-   "neutral": 503,
+   "neutral": 504,
    "critical": 0,
    "mbs": 6,
    "countries": {
-    "GB": 108,
+    "GB": 109,
     "SA": 92,
     "FR": 19,
     "US": 67,
@@ -18695,7 +18695,7 @@
    "topics": {},
    "sources": {
     "Breakingthenews.net": 3,
-    "Reuters": 40,
+    "Reuters": 41,
     "The Guardian": 50,
     "Arab News": 86,
     "Anadolu Ajansı": 3,
@@ -18834,7 +18834,7 @@
     ],
     "Reuters": [
      0,
-     40,
+     41,
      0
     ],
     "The Guardian": [
@@ -19485,18 +19485,18 @@
    }
   },
   "2026-11-23": {
-   "total": 599,
-   "news": 593,
+   "total": 600,
+   "news": 594,
    "articles": 6,
    "positive": 0,
-   "neutral": 599,
+   "neutral": 600,
    "critical": 0,
    "mbs": 8,
    "countries": {
     "US": 164,
     "SA": 86,
     "DE": 4,
-    "GB": 129,
+    "GB": 130,
     "FR": 19,
     "JP": 2
    },
@@ -19519,7 +19519,7 @@
     "Yeni Safak English": 7,
     "BBC": 13,
     "www.tmgm.com": 2,
-    "Reuters": 83,
+    "Reuters": 84,
     "The Washington Post": 4,
     "Gulf Business": 4,
     "Saudi Gazette": 30,
@@ -19729,7 +19729,7 @@
     ],
     "Reuters": [
      0,
-     83,
+     84,
      0
     ],
     "The Washington Post": [
@@ -20335,17 +20335,17 @@
    }
   },
   "2026-11-24": {
-   "total": 358,
-   "news": 355,
+   "total": 368,
+   "news": 365,
    "articles": 3,
    "positive": 0,
-   "neutral": 358,
+   "neutral": 368,
    "critical": 0,
    "mbs": 14,
    "countries": {
-    "SA": 50,
+    "SA": 54,
     "US": 70,
-    "GB": 86,
+    "GB": 87,
     "JP": 1,
     "FR": 1,
     "HK": 1,
@@ -20353,18 +20353,18 @@
    },
    "topics": {},
    "sources": {
-    "Saudi Gazette": 19,
+    "Saudi Gazette": 20,
     "SolarQuarter": 1,
     "The Washington Post": 2,
     "Financial Times": 13,
     "BBC": 7,
-    "Reuters": 64,
+    "Reuters": 65,
     "Nikkei Asia": 1,
     "Bloomberg.com": 15,
     "Al-Monitor": 21,
     "WSJ": 11,
     "The New York Times": 9,
-    "Arab News": 39,
+    "Arab News": 44,
     "France 24": 1,
     "AP News": 6,
     "sanad.uk": 1,
@@ -20386,7 +20386,7 @@
     "Global Advisory Experts": 16,
     "CGTN": 1,
     "www.tmgm.com": 3,
-    "Yeni Safak English": 2,
+    "Yeni Safak English": 3,
     "The Guardian": 3,
     "Kurdistan24": 1,
     "Al Jazeera": 2,
@@ -20432,7 +20432,7 @@
     "talkSPORT": 1,
     "Israel Hayom": 1,
     "NDTV": 1,
-    "Goal.com": 1,
+    "Goal.com": 2,
     "Zawya": 2,
     "Investing.com": 1,
     "BioSpace": 1,
@@ -20456,12 +20456,13 @@
     "Construction Review": 1,
     "Military.com": 1,
     "Radio Tamazuj": 1,
-    "fundsforNGOs - Grants and Resources for Sustainability": 1
+    "fundsforNGOs - Grants and Resources for Sustainability": 1,
+    "Engadget": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
      0,
-     19,
+     20,
      0
     ],
     "SolarQuarter": [
@@ -20486,7 +20487,7 @@
     ],
     "Reuters": [
      0,
-     64,
+     65,
      0
     ],
     "Nikkei Asia": [
@@ -20516,7 +20517,7 @@
     ],
     "Arab News": [
      0,
-     39,
+     44,
      0
     ],
     "France 24": [
@@ -20626,7 +20627,7 @@
     ],
     "Yeni Safak English": [
      0,
-     2,
+     3,
      0
     ],
     "The Guardian": [
@@ -20856,7 +20857,7 @@
     ],
     "Goal.com": [
      0,
-     1,
+     2,
      0
     ],
     "Zawya": [
@@ -20975,6 +20976,11 @@
      0
     ],
     "fundsforNGOs - Grants and Resources for Sustainability": [
+     0,
+     1,
+     0
+    ],
+    "Engadget": [
      0,
      1,
      0
