@@ -20335,17 +20335,17 @@
    }
   },
   "2026-11-24": {
-   "total": 338,
-   "news": 335,
+   "total": 339,
+   "news": 336,
    "articles": 3,
    "positive": 0,
-   "neutral": 338,
+   "neutral": 339,
    "critical": 0,
    "mbs": 12,
    "countries": {
     "SA": 50,
     "US": 67,
-    "GB": 83,
+    "GB": 84,
     "JP": 1,
     "FR": 1,
     "HK": 1,
@@ -20387,7 +20387,7 @@
     "CGTN": 1,
     "www.tmgm.com": 3,
     "Yeni Safak English": 2,
-    "The Guardian": 2,
+    "The Guardian": 3,
     "Kurdistan24": 1,
     "Al Jazeera": 2,
     "Travel & Tourism News Middle East": 1,
@@ -20624,7 +20624,7 @@
     ],
     "The Guardian": [
      0,
-     2,
+     3,
      0
     ],
     "Kurdistan24": [
