@@ -19485,18 +19485,18 @@
    }
   },
   "2026-11-23": {
-   "total": 602,
-   "news": 596,
+   "total": 603,
+   "news": 597,
    "articles": 6,
    "positive": 0,
-   "neutral": 602,
+   "neutral": 603,
    "critical": 0,
    "mbs": 8,
    "countries": {
     "US": 164,
     "SA": 86,
     "DE": 4,
-    "GB": 131,
+    "GB": 132,
     "FR": 19,
     "JP": 2
    },
@@ -19519,7 +19519,7 @@
     "Yeni Safak English": 7,
     "BBC": 13,
     "www.tmgm.com": 2,
-    "Reuters": 85,
+    "Reuters": 86,
     "The Washington Post": 4,
     "Gulf Business": 4,
     "Saudi Gazette": 30,
@@ -19730,7 +19730,7 @@
     ],
     "Reuters": [
      0,
-     85,
+     86,
      0
     ],
     "The Washington Post": [
@@ -20341,19 +20341,19 @@
    }
   },
   "2026-11-24": {
-   "total": 378,
-   "news": 375,
+   "total": 384,
+   "news": 381,
    "articles": 3,
    "positive": 0,
-   "neutral": 378,
+   "neutral": 384,
    "critical": 0,
    "mbs": 14,
    "countries": {
-    "SA": 54,
+    "SA": 56,
     "US": 70,
     "GB": 89,
     "JP": 1,
-    "FR": 1,
+    "FR": 2,
     "HK": 1,
     "DE": 1
    },
@@ -20370,7 +20370,7 @@
     "Al-Monitor": 21,
     "WSJ": 11,
     "The New York Times": 9,
-    "Arab News": 44,
+    "Arab News": 46,
     "France 24": 1,
     "AP News": 6,
     "sanad.uk": 1,
@@ -20438,7 +20438,7 @@
     "talkSPORT": 1,
     "Israel Hayom": 1,
     "NDTV": 1,
-    "Goal.com": 2,
+    "Goal.com": 3,
     "Zawya": 2,
     "Investing.com": 1,
     "BioSpace": 1,
@@ -20466,7 +20466,10 @@
     "Engadget": 1,
     "Tom's Hardware": 1,
     "Agência de Notícias Brasil-Árabe - ANBA": 1,
-    "EnergyNow.com": 1
+    "EnergyNow.com": 1,
+    "Salaam Gateway": 1,
+    "Le Monde.fr": 1,
+    "PocketGamer.biz": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -20526,7 +20529,7 @@
     ],
     "Arab News": [
      0,
-     44,
+     46,
      0
     ],
     "France 24": [
@@ -20866,7 +20869,7 @@
     ],
     "Goal.com": [
      0,
-     2,
+     3,
      0
     ],
     "Zawya": [
@@ -21005,6 +21008,21 @@
      0
     ],
     "EnergyNow.com": [
+     0,
+     1,
+     0
+    ],
+    "Salaam Gateway": [
+     0,
+     1,
+     0
+    ],
+    "Le Monde.fr": [
+     0,
+     1,
+     0
+    ],
+    "PocketGamer.biz": [
      0,
      1,
      0
