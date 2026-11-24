@@ -20329,28 +20329,28 @@
    }
   },
   "2026-11-24": {
-   "total": 90,
-   "news": 90,
+   "total": 94,
+   "news": 94,
    "articles": 0,
    "positive": 0,
-   "neutral": 90,
+   "neutral": 94,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 4,
+    "SA": 5,
     "US": 24,
-    "GB": 17,
+    "GB": 19,
     "JP": 1,
     "FR": 1
    },
    "topics": {},
    "sources": {
-    "Saudi Gazette": 3,
+    "Saudi Gazette": 4,
     "SolarQuarter": 1,
     "The Washington Post": 2,
     "Financial Times": 6,
-    "BBC": 1,
-    "Reuters": 9,
+    "BBC": 2,
+    "Reuters": 10,
     "Nikkei Asia": 1,
     "Bloomberg.com": 12,
     "Al-Monitor": 2,
@@ -20375,7 +20375,7 @@
     "Bioengineer.org": 2,
     "Arabian Gulf Business Insight | AGBI": 1,
     "TradingView": 2,
-    "Global Advisory Experts": 11,
+    "Global Advisory Experts": 12,
     "CGTN": 1,
     "www.tmgm.com": 2,
     "Yeni Safak English": 1,
@@ -20390,7 +20390,7 @@
    "sourceTone": {
     "Saudi Gazette": [
      0,
-     3,
+     4,
      0
     ],
     "SolarQuarter": [
@@ -20410,12 +20410,12 @@
     ],
     "BBC": [
      0,
-     1,
+     2,
      0
     ],
     "Reuters": [
      0,
-     9,
+     10,
      0
     ],
     "Nikkei Asia": [
@@ -20540,7 +20540,7 @@
     ],
     "Global Advisory Experts": [
      0,
-     11,
+     12,
      0
     ],
     "CGTN": [
