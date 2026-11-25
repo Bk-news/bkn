@@ -20341,17 +20341,17 @@
    }
   },
   "2026-11-24": {
-   "total": 744,
-   "news": 730,
+   "total": 745,
+   "news": 731,
    "articles": 14,
    "positive": 0,
-   "neutral": 744,
+   "neutral": 745,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "SA": 114,
     "US": 169,
-    "GB": 193,
+    "GB": 194,
     "JP": 1,
     "FR": 5,
     "HK": 3,
@@ -20393,7 +20393,7 @@
     "CGTN": 1,
     "www.tmgm.com": 3,
     "Yeni Safak English": 4,
-    "The Guardian": 20,
+    "The Guardian": 21,
     "Kurdistan24": 1,
     "Al Jazeera": 2,
     "Travel & Tourism News Middle East": 1,
@@ -20698,7 +20698,7 @@
     ],
     "The Guardian": [
      0,
-     20,
+     21,
      0
     ],
     "Kurdistan24": [
@@ -21354,16 +21354,16 @@
    }
   },
   "2026-11-25": {
-   "total": 517,
-   "news": 509,
+   "total": 519,
+   "news": 511,
    "articles": 8,
    "positive": 0,
-   "neutral": 517,
+   "neutral": 519,
    "critical": 0,
    "mbs": 12,
    "countries": {
-    "US": 124,
-    "GB": 75,
+    "US": 125,
+    "GB": 76,
     "SA": 82,
     "DE": 2,
     "HK": 2,
@@ -21388,7 +21388,7 @@
     "WSJ": 17,
     "Spiegel": 2,
     "Al-Monitor": 20,
-    "BBC": 14,
+    "BBC": 15,
     "The Guardian": 16,
     "Reuters": 42,
     "South China Morning Post": 2,
@@ -21454,7 +21454,7 @@
     "الخبر اليمني": 1,
     "اسلام تايمز": 1,
     "Firstpost": 2,
-    "Bloomberg": 33,
+    "Bloomberg": 34,
     "The New Arab": 2,
     "DW.com": 2,
     "The Washington Post": 1,
@@ -21613,7 +21613,7 @@
     ],
     "BBC": [
      0,
-     14,
+     15,
      0
     ],
     "The Guardian": [
@@ -21943,7 +21943,7 @@
     ],
     "Bloomberg": [
      0,
-     33,
+     34,
      0
     ],
     "The New Arab": [
