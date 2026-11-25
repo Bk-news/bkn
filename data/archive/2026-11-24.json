@@ -1132,6 +1132,27 @@
    "mt": true
   },
   {
+   "id": "8646c7b63d1ddc22",
+   "origin": "rss",
+   "source": "AP News",
+   "author": "",
+   "title_ar": "نتائج التنس والأخبار والإحصائيات",
+   "title_orig": "Tennis Scores, News & Stats",
+   "title_en": "Tennis Scores, News & Stats",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1EbzBXMF9LTzNjVndrTjNjcVkwZFdxclRGRzFrVUFQcHJ2NXhUbDhCUnVFZzR5UHNSeGtsbmRxQTNDbkE?oc=5",
+   "published": "2026-11-24T21:02:32.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "Tennis Scores, News & Stats &nbsp;&nbsp; AP News",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "526b9f23a2a9fb57",
    "origin": "rss",
    "source": "Reuters",
