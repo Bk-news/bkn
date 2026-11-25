@@ -21354,16 +21354,16 @@
    }
   },
   "2026-11-25": {
-   "total": 524,
-   "news": 516,
+   "total": 526,
+   "news": 518,
    "articles": 8,
    "positive": 0,
-   "neutral": 524,
+   "neutral": 526,
    "critical": 0,
    "mbs": 12,
    "countries": {
     "US": 125,
-    "GB": 80,
+    "GB": 81,
     "SA": 83,
     "DE": 2,
     "HK": 2,
@@ -21377,7 +21377,7 @@
     "www.tmgm.com": 1,
     "FXEmpire": 2,
     "Global Advisory Experts": 9,
-    "Middle East Eye": 3,
+    "Middle East Eye": 4,
     "The Express Tribune": 1,
     "Manara Magazine": 1,
     "Saudi Gazette": 33,
@@ -21389,7 +21389,7 @@
     "Spiegel": 2,
     "Al-Monitor": 20,
     "BBC": 15,
-    "The Guardian": 19,
+    "The Guardian": 20,
     "Reuters": 42,
     "South China Morning Post": 2,
     "Fakti.bg": 1,
@@ -21558,7 +21558,7 @@
     ],
     "Middle East Eye": [
      0,
-     3,
+     4,
      0
     ],
     "The Express Tribune": [
@@ -21618,7 +21618,7 @@
     ],
     "The Guardian": [
      0,
-     19,
+     20,
      0
     ],
     "Reuters": [
