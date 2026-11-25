@@ -20341,16 +20341,16 @@
    }
   },
   "2026-11-24": {
-   "total": 705,
-   "news": 691,
+   "total": 709,
+   "news": 695,
    "articles": 14,
    "positive": 0,
-   "neutral": 705,
+   "neutral": 709,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "SA": 111,
-    "US": 154,
+    "US": 158,
     "GB": 173,
     "JP": 1,
     "FR": 5,
@@ -20366,13 +20366,13 @@
     "BBC": 11,
     "Reuters": 138,
     "Nikkei Asia": 1,
-    "Bloomberg.com": 62,
+    "Bloomberg.com": 65,
     "Al-Monitor": 33,
     "WSJ": 21,
     "The New York Times": 14,
     "Arab News": 97,
     "France 24": 3,
-    "AP News": 9,
+    "AP News": 10,
     "sanad.uk": 1,
     "The Age": 1,
     "The Duke Chronicle": 1,
@@ -20562,7 +20562,7 @@
     ],
     "Bloomberg.com": [
      0,
-     62,
+     65,
      0
     ],
     "Al-Monitor": [
@@ -20592,7 +20592,7 @@
     ],
     "AP News": [
      0,
-     9,
+     10,
      0
     ],
     "sanad.uk": [
@@ -21348,11 +21348,11 @@
    }
   },
   "2026-11-25": {
-   "total": 167,
-   "news": 167,
+   "total": 168,
+   "news": 168,
    "articles": 0,
    "positive": 0,
-   "neutral": 167,
+   "neutral": 168,
    "critical": 0,
    "mbs": 5,
    "countries": {
@@ -21444,7 +21444,7 @@
     "Open Magazine": 1,
     "طقس العرب": 1,
     "Middle East Council on Global Affairs": 1,
-    "ASHARQ AL-AWSAT English": 1
+    "ASHARQ AL-AWSAT English": 2
    },
    "sourceTone": {
     "Yemen Online": [
@@ -21844,7 +21844,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     1,
+     2,
      0
     ]
    }
