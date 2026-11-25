@@ -21348,11 +21348,11 @@
    }
   },
   "2026-11-25": {
-   "total": 191,
-   "news": 191,
+   "total": 192,
+   "news": 192,
    "articles": 0,
    "positive": 0,
-   "neutral": 191,
+   "neutral": 192,
    "critical": 0,
    "mbs": 8,
    "countries": {
@@ -21406,7 +21406,7 @@
     "The Business Times": 1,
     "Kurdistan24": 1,
     "TRT World": 1,
-    "Finimize": 1,
+    "Finimize": 2,
     "Free Press Kashmir": 2,
     "The Telegraph": 1,
     "https://houseofsaud.com/": 3,
@@ -21666,7 +21666,7 @@
     ],
     "Finimize": [
      0,
-     1,
+     2,
      0
     ],
     "Free Press Kashmir": [
