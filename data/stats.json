@@ -20341,16 +20341,16 @@
    }
   },
   "2026-11-24": {
-   "total": 567,
-   "news": 553,
+   "total": 576,
+   "news": 562,
    "articles": 14,
    "positive": 0,
-   "neutral": 567,
+   "neutral": 576,
    "critical": 0,
    "mbs": 17,
    "countries": {
-    "SA": 88,
-    "US": 107,
+    "SA": 94,
+    "US": 108,
     "GB": 130,
     "JP": 1,
     "FR": 5,
@@ -20367,10 +20367,10 @@
     "Reuters": 97,
     "Nikkei Asia": 1,
     "Bloomberg.com": 22,
-    "Al-Monitor": 31,
+    "Al-Monitor": 32,
     "WSJ": 19,
     "The New York Times": 13,
-    "Arab News": 73,
+    "Arab News": 79,
     "France 24": 3,
     "AP News": 7,
     "sanad.uk": 1,
@@ -20510,7 +20510,9 @@
     "New York Post": 1,
     "Crude Oil Prices Today | OilPrice.com": 1,
     "www.marketscreener.com": 1,
-    "Yahoo": 1
+    "Yahoo": 1,
+    "Institutional Investor": 1,
+    "Xinhua": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -20555,7 +20557,7 @@
     ],
     "Al-Monitor": [
      0,
-     31,
+     32,
      0
     ],
     "WSJ": [
@@ -20570,7 +20572,7 @@
     ],
     "Arab News": [
      0,
-     73,
+     79,
      0
     ],
     "France 24": [
@@ -21269,6 +21271,16 @@
      0
     ],
     "Yahoo": [
+     0,
+     1,
+     0
+    ],
+    "Institutional Investor": [
+     0,
+     1,
+     0
+    ],
+    "Xinhua": [
      0,
      1,
      0
