@@ -20341,17 +20341,17 @@
    }
   },
   "2026-11-24": {
-   "total": 741,
-   "news": 727,
+   "total": 743,
+   "news": 729,
    "articles": 14,
    "positive": 0,
-   "neutral": 741,
+   "neutral": 743,
    "critical": 0,
    "mbs": 19,
    "countries": {
-    "SA": 113,
+    "SA": 114,
     "US": 169,
-    "GB": 192,
+    "GB": 193,
     "JP": 1,
     "FR": 5,
     "HK": 3,
@@ -20370,7 +20370,7 @@
     "Al-Monitor": 33,
     "WSJ": 21,
     "The New York Times": 14,
-    "Arab News": 99,
+    "Arab News": 100,
     "France 24": 3,
     "AP News": 11,
     "sanad.uk": 1,
@@ -20393,7 +20393,7 @@
     "CGTN": 1,
     "www.tmgm.com": 3,
     "Yeni Safak English": 4,
-    "The Guardian": 19,
+    "The Guardian": 20,
     "Kurdistan24": 1,
     "Al Jazeera": 2,
     "Travel & Tourism News Middle East": 1,
@@ -20582,7 +20582,7 @@
     ],
     "Arab News": [
      0,
-     99,
+     100,
      0
     ],
     "France 24": [
@@ -20697,7 +20697,7 @@
     ],
     "The Guardian": [
      0,
-     19,
+     20,
      0
     ],
     "Kurdistan24": [
@@ -21348,17 +21348,17 @@
    }
   },
   "2026-11-25": {
-   "total": 495,
-   "news": 488,
-   "articles": 7,
+   "total": 504,
+   "news": 496,
+   "articles": 8,
    "positive": 0,
-   "neutral": 495,
+   "neutral": 504,
    "critical": 0,
    "mbs": 12,
    "countries": {
-    "US": 121,
-    "GB": 72,
-    "SA": 75,
+    "US": 122,
+    "GB": 73,
+    "SA": 80,
     "DE": 2,
     "HK": 2,
     "FR": 11
@@ -21378,12 +21378,12 @@
     "Semafor": 2,
     "Yahoo": 1,
     "Chosunbiz": 1,
-    "Arab News": 50,
+    "Arab News": 55,
     "WSJ": 17,
     "Spiegel": 2,
     "Al-Monitor": 20,
     "BBC": 13,
-    "The Guardian": 14,
+    "The Guardian": 15,
     "Reuters": 42,
     "South China Morning Post": 2,
     "Fakti.bg": 1,
@@ -21460,7 +21460,7 @@
     "WE News English": 1,
     "Modern Ghana": 1,
     "Atlantic Council": 5,
-    "Foreign Policy": 1,
+    "Foreign Policy": 2,
     "CNN": 3,
     "France 24": 10,
     "The Economist": 1,
@@ -21514,7 +21514,9 @@
     "FOX Sports": 1,
     "Avi-Go": 1,
     "Marine Insight": 1,
-    "Haaretz": 1
+    "Haaretz": 1,
+    "Variety": 1,
+    "The Mirror US": 1
    },
    "sourceTone": {
     "Yemen Online": [
@@ -21584,7 +21586,7 @@
     ],
     "Arab News": [
      0,
-     50,
+     55,
      0
     ],
     "WSJ": [
@@ -21609,7 +21611,7 @@
     ],
     "The Guardian": [
      0,
-     14,
+     15,
      0
     ],
     "Reuters": [
@@ -21994,7 +21996,7 @@
     ],
     "Foreign Policy": [
      0,
-     1,
+     2,
      0
     ],
     "CNN": [
@@ -22263,6 +22265,16 @@
      0
     ],
     "Haaretz": [
+     0,
+     1,
+     0
+    ],
+    "Variety": [
+     0,
+     1,
+     0
+    ],
+    "The Mirror US": [
      0,
      1,
      0
