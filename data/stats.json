@@ -19485,18 +19485,18 @@
    }
   },
   "2026-11-23": {
-   "total": 651,
-   "news": 645,
+   "total": 652,
+   "news": 646,
    "articles": 6,
    "positive": 0,
-   "neutral": 651,
+   "neutral": 652,
    "critical": 0,
    "mbs": 8,
    "countries": {
     "US": 179,
     "SA": 88,
     "DE": 4,
-    "GB": 163,
+    "GB": 164,
     "FR": 19,
     "JP": 2
    },
@@ -19515,7 +19515,7 @@
     "FXStreet": 1,
     "TradingView": 3,
     "Bloomberg.com": 81,
-    "The Guardian": 25,
+    "The Guardian": 26,
     "Yeni Safak English": 7,
     "BBC": 20,
     "www.tmgm.com": 2,
@@ -19710,7 +19710,7 @@
     ],
     "The Guardian": [
      0,
-     25,
+     26,
      0
     ],
     "Yeni Safak English": [
@@ -20341,17 +20341,17 @@
    }
   },
   "2026-11-24": {
-   "total": 717,
-   "news": 703,
+   "total": 720,
+   "news": 706,
    "articles": 14,
    "positive": 0,
-   "neutral": 717,
+   "neutral": 720,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "SA": 112,
     "US": 160,
-    "GB": 178,
+    "GB": 181,
     "JP": 1,
     "FR": 5,
     "HK": 3,
@@ -20364,7 +20364,7 @@
     "The Washington Post": 2,
     "Financial Times": 14,
     "BBC": 11,
-    "Reuters": 139,
+    "Reuters": 140,
     "Nikkei Asia": 1,
     "Bloomberg.com": 65,
     "Al-Monitor": 33,
@@ -20393,7 +20393,7 @@
     "CGTN": 1,
     "www.tmgm.com": 3,
     "Yeni Safak English": 4,
-    "The Guardian": 12,
+    "The Guardian": 14,
     "Kurdistan24": 1,
     "Al Jazeera": 2,
     "Travel & Tourism News Middle East": 1,
@@ -20552,7 +20552,7 @@
     ],
     "Reuters": [
      0,
-     139,
+     140,
      0
     ],
     "Nikkei Asia": [
@@ -20697,7 +20697,7 @@
     ],
     "The Guardian": [
      0,
-     12,
+     14,
      0
     ],
     "Kurdistan24": [
@@ -21348,17 +21348,17 @@
    }
   },
   "2026-11-25": {
-   "total": 347,
-   "news": 340,
+   "total": 383,
+   "news": 376,
    "articles": 7,
    "positive": 0,
-   "neutral": 347,
+   "neutral": 383,
    "critical": 0,
-   "mbs": 9,
+   "mbs": 10,
    "countries": {
-    "US": 87,
-    "GB": 57,
-    "SA": 57,
+    "US": 97,
+    "GB": 63,
+    "SA": 67,
     "DE": 2,
     "HK": 2,
     "FR": 11
@@ -21366,25 +21366,25 @@
    "topics": {},
    "sources": {
     "Yemen Online": 3,
-    "Bloomberg.com": 27,
+    "Bloomberg.com": 30,
     "Financial Times": 5,
     "www.tmgm.com": 1,
     "FXEmpire": 2,
     "Global Advisory Experts": 7,
-    "Middle East Eye": 1,
+    "Middle East Eye": 3,
     "The Express Tribune": 1,
     "Manara Magazine": 1,
-    "Saudi Gazette": 30,
+    "Saudi Gazette": 32,
     "Semafor": 1,
     "Yahoo": 1,
     "Chosunbiz": 1,
-    "Arab News": 30,
+    "Arab News": 39,
     "WSJ": 14,
     "Spiegel": 2,
-    "Al-Monitor": 17,
+    "Al-Monitor": 19,
     "BBC": 13,
-    "The Guardian": 12,
-    "Reuters": 28,
+    "The Guardian": 13,
+    "Reuters": 34,
     "South China Morning Post": 2,
     "Fakti.bg": 1,
     "سانا": 2,
@@ -21405,7 +21405,7 @@
     "Seatrade Maritime News": 1,
     "The Business Times": 1,
     "Kurdistan24": 1,
-    "TRT World": 1,
+    "TRT World": 2,
     "Finimize": 2,
     "Free Press Kashmir": 2,
     "The Telegraph": 1,
@@ -21418,7 +21418,7 @@
     "MUFG Research": 1,
     "AP News": 4,
     "Crypto Briefing": 2,
-    "Al Arabiya English": 1,
+    "Al Arabiya English": 2,
     "TradingView": 1,
     "Mehr News Agency": 1,
     "Jordan News": 1,
@@ -21448,7 +21448,7 @@
     "الخبر اليمني": 1,
     "اسلام تايمز": 1,
     "Firstpost": 1,
-    "Bloomberg": 11,
+    "Bloomberg": 16,
     "The New Arab": 1,
     "DW.com": 1,
     "The Washington Post": 1,
@@ -21476,7 +21476,11 @@
     "The Korea Herald": 1,
     "شفق نيوز": 1,
     "Wisevoter": 1,
-    "Malay Mail": 1
+    "Malay Mail": 1,
+    "Devdiscourse": 1,
+    "Sharjah24": 1,
+    "A News": 1,
+    "Yahoo Sports": 1
    },
    "sourceTone": {
     "Yemen Online": [
@@ -21486,7 +21490,7 @@
     ],
     "Bloomberg.com": [
      0,
-     27,
+     30,
      0
     ],
     "Financial Times": [
@@ -21511,7 +21515,7 @@
     ],
     "Middle East Eye": [
      0,
-     1,
+     3,
      0
     ],
     "The Express Tribune": [
@@ -21526,7 +21530,7 @@
     ],
     "Saudi Gazette": [
      0,
-     30,
+     32,
      0
     ],
     "Semafor": [
@@ -21546,7 +21550,7 @@
     ],
     "Arab News": [
      0,
-     30,
+     39,
      0
     ],
     "WSJ": [
@@ -21561,7 +21565,7 @@
     ],
     "Al-Monitor": [
      0,
-     17,
+     19,
      0
     ],
     "BBC": [
@@ -21571,12 +21575,12 @@
     ],
     "The Guardian": [
      0,
-     12,
+     13,
      0
     ],
     "Reuters": [
      0,
-     28,
+     34,
      0
     ],
     "South China Morning Post": [
@@ -21681,7 +21685,7 @@
     ],
     "TRT World": [
      0,
-     1,
+     2,
      0
     ],
     "Finimize": [
@@ -21746,7 +21750,7 @@
     ],
     "Al Arabiya English": [
      0,
-     1,
+     2,
      0
     ],
     "TradingView": [
@@ -21896,7 +21900,7 @@
     ],
     "Bloomberg": [
      0,
-     11,
+     16,
      0
     ],
     "The New Arab": [
@@ -22035,6 +22039,26 @@
      0
     ],
     "Malay Mail": [
+     0,
+     1,
+     0
+    ],
+    "Devdiscourse": [
+     0,
+     1,
+     0
+    ],
+    "Sharjah24": [
+     0,
+     1,
+     0
+    ],
+    "A News": [
+     0,
+     1,
+     0
+    ],
+    "Yahoo Sports": [
      0,
      1,
      0
