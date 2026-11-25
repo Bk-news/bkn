@@ -21348,11 +21348,11 @@
    }
   },
   "2026-11-25": {
-   "total": 177,
-   "news": 177,
+   "total": 178,
+   "news": 178,
    "articles": 0,
    "positive": 0,
-   "neutral": 177,
+   "neutral": 178,
    "critical": 0,
    "mbs": 7,
    "countries": {
@@ -21448,7 +21448,8 @@
     "الخبر اليمني": 1,
     "اسلام تايمز": 1,
     "Firstpost": 1,
-    "Bloomberg": 2
+    "Bloomberg": 2,
+    "The New Arab": 1
    },
    "sourceTone": {
     "Yemen Online": [
@@ -21869,6 +21870,11 @@
     "Bloomberg": [
      0,
      2,
+     0
+    ],
+    "The New Arab": [
+     0,
+     1,
      0
     ]
    }
