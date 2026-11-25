@@ -20341,17 +20341,17 @@
    }
   },
   "2026-11-24": {
-   "total": 735,
-   "news": 721,
+   "total": 736,
+   "news": 722,
    "articles": 14,
    "positive": 0,
-   "neutral": 735,
+   "neutral": 736,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "SA": 113,
     "US": 166,
-    "GB": 189,
+    "GB": 190,
     "JP": 1,
     "FR": 5,
     "HK": 3,
@@ -20393,7 +20393,7 @@
     "CGTN": 1,
     "www.tmgm.com": 3,
     "Yeni Safak English": 4,
-    "The Guardian": 16,
+    "The Guardian": 17,
     "Kurdistan24": 1,
     "Al Jazeera": 2,
     "Travel & Tourism News Middle East": 1,
@@ -20697,7 +20697,7 @@
     ],
     "The Guardian": [
      0,
-     16,
+     17,
      0
     ],
     "Kurdistan24": [
@@ -21348,15 +21348,15 @@
    }
   },
   "2026-11-25": {
-   "total": 454,
-   "news": 447,
+   "total": 474,
+   "news": 467,
    "articles": 7,
    "positive": 0,
-   "neutral": 454,
+   "neutral": 474,
    "critical": 0,
    "mbs": 11,
    "countries": {
-    "US": 101,
+    "US": 109,
     "GB": 69,
     "SA": 72,
     "DE": 2,
@@ -21365,12 +21365,12 @@
    },
    "topics": {},
    "sources": {
-    "Yemen Online": 4,
-    "Bloomberg.com": 33,
+    "Yemen Online": 5,
+    "Bloomberg.com": 35,
     "Financial Times": 6,
     "www.tmgm.com": 1,
     "FXEmpire": 2,
-    "Global Advisory Experts": 7,
+    "Global Advisory Experts": 8,
     "Middle East Eye": 3,
     "The Express Tribune": 1,
     "Manara Magazine": 1,
@@ -21395,7 +21395,7 @@
     "Le Monde.fr": 1,
     "JNS": 1,
     "NDTV Sports": 1,
-    "Anadolu Ajansı": 3,
+    "Anadolu Ajansı": 4,
     "The Jerusalem Post": 3,
     "The Times of India": 1,
     "The AFC": 4,
@@ -21448,9 +21448,9 @@
     "الخبر اليمني": 1,
     "اسلام تايمز": 1,
     "Firstpost": 1,
-    "Bloomberg": 17,
+    "Bloomberg": 23,
     "The New Arab": 2,
-    "DW.com": 1,
+    "DW.com": 2,
     "The Washington Post": 1,
     "The Arab Weekly": 2,
     "Arabian Business": 1,
@@ -21483,14 +21483,14 @@
     "Yahoo Sports": 1,
     "Middle East Online": 2,
     "Full Fact": 1,
-    "Daily Sabah": 1,
+    "Daily Sabah": 2,
     "Goal.com": 1,
     "SeeNews": 1,
     "Democracy Now!": 1,
     "Crude Oil Prices Today | OilPrice.com": 1,
     "Pinsent Masons": 1,
     "Dove Medical Press": 1,
-    "www.marketscreener.com": 3,
+    "www.marketscreener.com": 4,
     "Ocean News & Technology": 1,
     "TodayPress.tv": 1,
     "houseofsaud.com": 1,
@@ -21508,17 +21508,23 @@
     "Defence Industry Europe": 1,
     "Forbes Middle East": 1,
     "Fortune": 1,
-    "https://debuglies.com": 1
+    "https://debuglies.com": 1,
+    "NewsCord": 1,
+    "Fana News -": 1,
+    "FOX Sports": 1,
+    "Avi-Go": 1,
+    "Marine Insight": 1,
+    "Haaretz": 1
    },
    "sourceTone": {
     "Yemen Online": [
      0,
-     4,
+     5,
      0
     ],
     "Bloomberg.com": [
      0,
-     33,
+     35,
      0
     ],
     "Financial Times": [
@@ -21538,7 +21544,7 @@
     ],
     "Global Advisory Experts": [
      0,
-     7,
+     8,
      0
     ],
     "Middle East Eye": [
@@ -21663,7 +21669,7 @@
     ],
     "Anadolu Ajansı": [
      0,
-     3,
+     4,
      0
     ],
     "The Jerusalem Post": [
@@ -21928,7 +21934,7 @@
     ],
     "Bloomberg": [
      0,
-     17,
+     23,
      0
     ],
     "The New Arab": [
@@ -21938,7 +21944,7 @@
     ],
     "DW.com": [
      0,
-     1,
+     2,
      0
     ],
     "The Washington Post": [
@@ -22103,7 +22109,7 @@
     ],
     "Daily Sabah": [
      0,
-     1,
+     2,
      0
     ],
     "Goal.com": [
@@ -22138,7 +22144,7 @@
     ],
     "www.marketscreener.com": [
      0,
-     3,
+     4,
      0
     ],
     "Ocean News & Technology": [
@@ -22227,6 +22233,36 @@
      0
     ],
     "https://debuglies.com": [
+     0,
+     1,
+     0
+    ],
+    "NewsCord": [
+     0,
+     1,
+     0
+    ],
+    "Fana News -": [
+     0,
+     1,
+     0
+    ],
+    "FOX Sports": [
+     0,
+     1,
+     0
+    ],
+    "Avi-Go": [
+     0,
+     1,
+     0
+    ],
+    "Marine Insight": [
+     0,
+     1,
+     0
+    ],
+    "Haaretz": [
      0,
      1,
      0
