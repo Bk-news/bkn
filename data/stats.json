@@ -20341,15 +20341,15 @@
    }
   },
   "2026-11-24": {
-   "total": 710,
-   "news": 696,
+   "total": 711,
+   "news": 697,
    "articles": 14,
    "positive": 0,
-   "neutral": 710,
+   "neutral": 711,
    "critical": 0,
    "mbs": 19,
    "countries": {
-    "SA": 111,
+    "SA": 112,
     "US": 158,
     "GB": 174,
     "JP": 1,
@@ -20370,7 +20370,7 @@
     "Al-Monitor": 33,
     "WSJ": 21,
     "The New York Times": 14,
-    "Arab News": 97,
+    "Arab News": 98,
     "France 24": 3,
     "AP News": 10,
     "sanad.uk": 1,
@@ -20582,7 +20582,7 @@
     ],
     "Arab News": [
      0,
-     97,
+     98,
      0
     ],
     "France 24": [
@@ -21348,17 +21348,17 @@
    }
   },
   "2026-11-25": {
-   "total": 174,
-   "news": 174,
+   "total": 176,
+   "news": 176,
    "articles": 0,
    "positive": 0,
-   "neutral": 174,
+   "neutral": 176,
    "critical": 0,
-   "mbs": 6,
+   "mbs": 7,
    "countries": {
     "US": 30,
     "GB": 20,
-    "SA": 27,
+    "SA": 28,
     "DE": 2,
     "HK": 2,
     "FR": 1
@@ -21378,7 +21378,7 @@
     "Semafor": 1,
     "Yahoo": 1,
     "Chosunbiz": 1,
-    "Arab News": 13,
+    "Arab News": 14,
     "WSJ": 3,
     "Spiegel": 2,
     "Al-Monitor": 3,
@@ -21436,7 +21436,7 @@
     "아시아경제": 1,
     "DNE Africa": 1,
     "Diari ARA": 1,
-    "Yeni Safak English": 2,
+    "Yeni Safak English": 3,
     "Dubai Eye 103.8": 1,
     "The Filipino Times": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -21518,7 +21518,7 @@
     ],
     "Arab News": [
      0,
-     13,
+     14,
      0
     ],
     "WSJ": [
@@ -21808,7 +21808,7 @@
     ],
     "Yeni Safak English": [
      0,
-     2,
+     3,
      0
     ],
     "Dubai Eye 103.8": [
