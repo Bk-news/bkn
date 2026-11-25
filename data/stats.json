@@ -21348,11 +21348,11 @@
    }
   },
   "2026-11-25": {
-   "total": 510,
-   "news": 502,
+   "total": 511,
+   "news": 503,
    "articles": 8,
    "positive": 0,
-   "neutral": 510,
+   "neutral": 511,
    "critical": 0,
    "mbs": 12,
    "countries": {
@@ -21395,7 +21395,7 @@
     "Le Monde.fr": 1,
     "JNS": 1,
     "NDTV Sports": 1,
-    "Anadolu Ajansı": 4,
+    "Anadolu Ajansı": 5,
     "The Jerusalem Post": 3,
     "The Times of India": 1,
     "The AFC": 4,
@@ -21671,7 +21671,7 @@
     ],
     "Anadolu Ajansı": [
      0,
-     4,
+     5,
      0
     ],
     "The Jerusalem Post": [
