@@ -20341,17 +20341,17 @@
    }
   },
   "2026-11-24": {
-   "total": 601,
-   "news": 587,
+   "total": 603,
+   "news": 589,
    "articles": 14,
    "positive": 0,
-   "neutral": 601,
+   "neutral": 603,
    "critical": 0,
    "mbs": 17,
    "countries": {
     "SA": 95,
     "US": 110,
-    "GB": 142,
+    "GB": 143,
     "JP": 1,
     "FR": 5,
     "HK": 3,
@@ -20364,7 +20364,7 @@
     "The Washington Post": 2,
     "Financial Times": 14,
     "BBC": 9,
-    "Reuters": 109,
+    "Reuters": 110,
     "Nikkei Asia": 1,
     "Bloomberg.com": 22,
     "Al-Monitor": 33,
@@ -20516,7 +20516,8 @@
     "NZ Herald": 1,
     "The New Indian Express": 1,
     "News of Bahrain": 1,
-    "WPLG Local 10": 2
+    "WPLG Local 10": 2,
+    "Fana News -": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -20546,7 +20547,7 @@
     ],
     "Reuters": [
      0,
-     109,
+     110,
      0
     ],
     "Nikkei Asia": [
@@ -21308,15 +21309,20 @@
      0,
      2,
      0
+    ],
+    "Fana News -": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-25": {
-   "total": 9,
-   "news": 9,
+   "total": 10,
+   "news": 10,
    "articles": 0,
    "positive": 0,
-   "neutral": 9,
+   "neutral": 10,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -21330,7 +21336,7 @@
     "Financial Times": 1,
     "www.tmgm.com": 1,
     "FXEmpire": 1,
-    "Global Advisory Experts": 1,
+    "Global Advisory Experts": 2,
     "Middle East Eye": 1,
     "The Express Tribune": 1,
     "Manara Magazine": 1
@@ -21363,7 +21369,7 @@
     ],
     "Global Advisory Experts": [
      0,
-     1,
+     2,
      0
     ],
     "Middle East Eye": [
