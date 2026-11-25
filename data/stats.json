@@ -20341,17 +20341,17 @@
    }
   },
   "2026-11-24": {
-   "total": 609,
-   "news": 595,
+   "total": 610,
+   "news": 596,
    "articles": 14,
    "positive": 0,
-   "neutral": 609,
+   "neutral": 610,
    "critical": 0,
    "mbs": 17,
    "countries": {
     "SA": 96,
     "US": 112,
-    "GB": 144,
+    "GB": 145,
     "JP": 1,
     "FR": 5,
     "HK": 3,
@@ -20364,7 +20364,7 @@
     "The Washington Post": 2,
     "Financial Times": 14,
     "BBC": 9,
-    "Reuters": 111,
+    "Reuters": 112,
     "Nikkei Asia": 1,
     "Bloomberg.com": 23,
     "Al-Monitor": 33,
@@ -20547,7 +20547,7 @@
     ],
     "Reuters": [
      0,
-     111,
+     112,
      0
     ],
     "Nikkei Asia": [
@@ -21318,13 +21318,13 @@
    }
   },
   "2026-11-25": {
-   "total": 11,
-   "news": 11,
+   "total": 13,
+   "news": 13,
    "articles": 0,
    "positive": 0,
-   "neutral": 11,
+   "neutral": 13,
    "critical": 0,
-   "mbs": 0,
+   "mbs": 2,
    "countries": {
     "US": 1,
     "GB": 1,
@@ -21341,7 +21341,9 @@
     "Middle East Eye": 1,
     "The Express Tribune": 1,
     "Manara Magazine": 1,
-    "Saudi Gazette": 1
+    "Saudi Gazette": 1,
+    "Semafor": 1,
+    "Yahoo": 1
    },
    "sourceTone": {
     "Yemen Online": [
@@ -21390,6 +21392,16 @@
      0
     ],
     "Saudi Gazette": [
+     0,
+     1,
+     0
+    ],
+    "Semafor": [
+     0,
+     1,
+     0
+    ],
+    "Yahoo": [
      0,
      1,
      0
