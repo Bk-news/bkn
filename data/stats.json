@@ -21348,17 +21348,17 @@
    }
   },
   "2026-11-25": {
-   "total": 504,
-   "news": 496,
+   "total": 507,
+   "news": 499,
    "articles": 8,
    "positive": 0,
-   "neutral": 504,
+   "neutral": 507,
    "critical": 0,
    "mbs": 12,
    "countries": {
     "US": 122,
-    "GB": 73,
-    "SA": 80,
+    "GB": 74,
+    "SA": 82,
     "DE": 2,
     "HK": 2,
     "FR": 11
@@ -21378,11 +21378,11 @@
     "Semafor": 2,
     "Yahoo": 1,
     "Chosunbiz": 1,
-    "Arab News": 55,
+    "Arab News": 57,
     "WSJ": 17,
     "Spiegel": 2,
     "Al-Monitor": 20,
-    "BBC": 13,
+    "BBC": 14,
     "The Guardian": 15,
     "Reuters": 42,
     "South China Morning Post": 2,
@@ -21586,7 +21586,7 @@
     ],
     "Arab News": [
      0,
-     55,
+     57,
      0
     ],
     "WSJ": [
@@ -21606,7 +21606,7 @@
     ],
     "BBC": [
      0,
-     13,
+     14,
      0
     ],
     "The Guardian": [
