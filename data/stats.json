@@ -20341,17 +20341,17 @@
    }
   },
   "2026-11-24": {
-   "total": 740,
-   "news": 726,
+   "total": 741,
+   "news": 727,
    "articles": 14,
    "positive": 0,
-   "neutral": 740,
+   "neutral": 741,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "SA": 113,
     "US": 169,
-    "GB": 191,
+    "GB": 192,
     "JP": 1,
     "FR": 5,
     "HK": 3,
@@ -20393,7 +20393,7 @@
     "CGTN": 1,
     "www.tmgm.com": 3,
     "Yeni Safak English": 4,
-    "The Guardian": 18,
+    "The Guardian": 19,
     "Kurdistan24": 1,
     "Al Jazeera": 2,
     "Travel & Tourism News Middle East": 1,
@@ -20697,7 +20697,7 @@
     ],
     "The Guardian": [
      0,
-     18,
+     19,
      0
     ],
     "Kurdistan24": [
@@ -21348,16 +21348,16 @@
    }
   },
   "2026-11-25": {
-   "total": 491,
-   "news": 484,
+   "total": 493,
+   "news": 486,
    "articles": 7,
    "positive": 0,
-   "neutral": 491,
+   "neutral": 493,
    "critical": 0,
    "mbs": 12,
    "countries": {
     "US": 120,
-    "GB": 71,
+    "GB": 72,
     "SA": 74,
     "DE": 2,
     "HK": 2,
@@ -21384,7 +21384,7 @@
     "Al-Monitor": 20,
     "BBC": 13,
     "The Guardian": 14,
-    "Reuters": 41,
+    "Reuters": 42,
     "South China Morning Post": 2,
     "Fakti.bg": 1,
     "سانا": 2,
@@ -21471,7 +21471,7 @@
     "Facebook": 2,
     "MLQ.ai": 1,
     "SABC News": 1,
-    "DD News": 2,
+    "DD News": 3,
     "Daily Sun": 1,
     "The Korea Herald": 1,
     "شفق نيوز": 1,
@@ -21614,7 +21614,7 @@
     ],
     "Reuters": [
      0,
-     41,
+     42,
      0
     ],
     "South China Morning Post": [
@@ -22049,7 +22049,7 @@
     ],
     "DD News": [
      0,
-     2,
+     3,
      0
     ],
     "Daily Sun": [
