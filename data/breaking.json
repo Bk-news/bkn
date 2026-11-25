@@ -1,5 +1,17 @@
 [
  {
+  "id": "4bd2d0cb4cc98131",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "النيابة العامة المصرية تباشر التحقيقات في حريق طريق الوراق بالجيزة",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/155578",
+  "published": "2026-11-25T19:42:21.000Z",
+  "subject": "saudi",
+  "added": "2026-11-25T19:42:21.000Z"
+ },
+ {
   "id": "4f5d89d0542e5cfd",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -82,17 +94,5 @@
   "published": "2026-11-25T18:48:33.000Z",
   "subject": "saudi",
   "added": "2026-11-25T18:48:33.000Z"
- },
- {
-  "id": "a43c67438e69be05",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "مراسل العربية: رفع حالة الطوارئ في مستشفيات الجيزة بشكل كامل جراء الحريق",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/155570",
-  "published": "2026-11-25T18:43:34.000Z",
-  "subject": "saudi",
-  "added": "2026-11-25T18:43:34.000Z"
  }
 ]

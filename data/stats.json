@@ -19485,15 +19485,15 @@
    }
   },
   "2026-11-23": {
-   "total": 657,
-   "news": 651,
+   "total": 658,
+   "news": 652,
    "articles": 6,
    "positive": 0,
-   "neutral": 657,
+   "neutral": 658,
    "critical": 0,
    "mbs": 8,
    "countries": {
-    "US": 180,
+    "US": 181,
     "SA": 88,
     "DE": 4,
     "GB": 168,
@@ -19503,7 +19503,7 @@
    "topics": {},
    "sources": {
     "وكالة الأنباء السعودية": 4,
-    "WSJ": 22,
+    "WSJ": 23,
     "Arab News": 70,
     "Spiegel": 4,
     "Sports Gambling Podcast": 1,
@@ -19650,7 +19650,7 @@
     ],
     "WSJ": [
      0,
-     22,
+     23,
      0
     ],
     "Arab News": [
@@ -21348,16 +21348,16 @@
    }
   },
   "2026-11-25": {
-   "total": 486,
-   "news": 479,
+   "total": 488,
+   "news": 481,
    "articles": 7,
    "positive": 0,
-   "neutral": 486,
+   "neutral": 488,
    "critical": 0,
    "mbs": 11,
    "countries": {
     "US": 119,
-    "GB": 70,
+    "GB": 71,
     "SA": 73,
     "DE": 2,
     "HK": 2,
@@ -21384,7 +21384,7 @@
     "Al-Monitor": 20,
     "BBC": 13,
     "The Guardian": 14,
-    "Reuters": 40,
+    "Reuters": 41,
     "South China Morning Post": 2,
     "Fakti.bg": 1,
     "سانا": 2,
@@ -21468,7 +21468,7 @@
     "TVB": 1,
     "Middle East Monitor": 1,
     "TheWire.in": 1,
-    "Facebook": 1,
+    "Facebook": 2,
     "MLQ.ai": 1,
     "SABC News": 1,
     "DD News": 1,
@@ -21614,7 +21614,7 @@
     ],
     "Reuters": [
      0,
-     40,
+     41,
      0
     ],
     "South China Morning Post": [
@@ -22034,7 +22034,7 @@
     ],
     "Facebook": [
      0,
-     1,
+     2,
      0
     ],
     "MLQ.ai": [
