@@ -20341,17 +20341,17 @@
    }
   },
   "2026-11-24": {
-   "total": 733,
-   "news": 719,
+   "total": 735,
+   "news": 721,
    "articles": 14,
    "positive": 0,
-   "neutral": 733,
+   "neutral": 735,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "SA": 113,
     "US": 166,
-    "GB": 187,
+    "GB": 189,
     "JP": 1,
     "FR": 5,
     "HK": 3,
@@ -20393,7 +20393,7 @@
     "CGTN": 1,
     "www.tmgm.com": 3,
     "Yeni Safak English": 4,
-    "The Guardian": 14,
+    "The Guardian": 16,
     "Kurdistan24": 1,
     "Al Jazeera": 2,
     "Travel & Tourism News Middle East": 1,
@@ -20697,7 +20697,7 @@
     ],
     "The Guardian": [
      0,
-     14,
+     16,
      0
     ],
     "Kurdistan24": [
@@ -21348,25 +21348,25 @@
    }
   },
   "2026-11-25": {
-   "total": 406,
-   "news": 399,
+   "total": 444,
+   "news": 437,
    "articles": 7,
    "positive": 0,
-   "neutral": 406,
+   "neutral": 444,
    "critical": 0,
-   "mbs": 10,
+   "mbs": 11,
    "countries": {
-    "US": 97,
-    "GB": 63,
-    "SA": 70,
+    "US": 99,
+    "GB": 69,
+    "SA": 71,
     "DE": 2,
     "HK": 2,
     "FR": 11
    },
    "topics": {},
    "sources": {
-    "Yemen Online": 3,
-    "Bloomberg.com": 30,
+    "Yemen Online": 4,
+    "Bloomberg.com": 31,
     "Financial Times": 6,
     "www.tmgm.com": 1,
     "FXEmpire": 2,
@@ -21375,16 +21375,16 @@
     "The Express Tribune": 1,
     "Manara Magazine": 1,
     "Saudi Gazette": 32,
-    "Semafor": 1,
+    "Semafor": 2,
     "Yahoo": 1,
     "Chosunbiz": 1,
-    "Arab News": 44,
-    "WSJ": 14,
+    "Arab News": 47,
+    "WSJ": 15,
     "Spiegel": 2,
     "Al-Monitor": 20,
     "BBC": 13,
     "The Guardian": 13,
-    "Reuters": 34,
+    "Reuters": 40,
     "South China Morning Post": 2,
     "Fakti.bg": 1,
     "سانا": 2,
@@ -21395,7 +21395,7 @@
     "Le Monde.fr": 1,
     "JNS": 1,
     "NDTV Sports": 1,
-    "Anadolu Ajansı": 2,
+    "Anadolu Ajansı": 3,
     "The Jerusalem Post": 3,
     "The Times of India": 1,
     "The AFC": 4,
@@ -21409,14 +21409,14 @@
     "Finimize": 2,
     "Free Press Kashmir": 2,
     "The Telegraph": 1,
-    "https://houseofsaud.com/": 4,
+    "https://houseofsaud.com/": 5,
     "Internazionale": 1,
     "Asia Times": 1,
-    "The National": 1,
+    "The National": 2,
     "DAZN": 1,
     "Travel Daily Media": 1,
     "MUFG Research": 1,
-    "AP News": 4,
+    "AP News": 5,
     "Crypto Briefing": 2,
     "Al Arabiya English": 3,
     "TradingView": 1,
@@ -21444,15 +21444,15 @@
     "Open Magazine": 1,
     "طقس العرب": 1,
     "Middle East Council on Global Affairs": 1,
-    "ASHARQ AL-AWSAT English": 5,
+    "ASHARQ AL-AWSAT English": 8,
     "الخبر اليمني": 1,
     "اسلام تايمز": 1,
     "Firstpost": 1,
     "Bloomberg": 16,
-    "The New Arab": 1,
+    "The New Arab": 2,
     "DW.com": 1,
     "The Washington Post": 1,
-    "The Arab Weekly": 1,
+    "The Arab Weekly": 2,
     "Arabian Business": 1,
     "وكالة الأنباء السعودية": 2,
     "Hürriyet Daily News": 1,
@@ -21490,18 +21490,31 @@
     "Crude Oil Prices Today | OilPrice.com": 1,
     "Pinsent Masons": 1,
     "Dove Medical Press": 1,
-    "www.marketscreener.com": 1,
-    "Ocean News & Technology": 1
+    "www.marketscreener.com": 3,
+    "Ocean News & Technology": 1,
+    "TodayPress.tv": 1,
+    "houseofsaud.com": 1,
+    "LiveScore": 1,
+    "Nacionale": 1,
+    "The Independent": 1,
+    "ESPN": 2,
+    "NHKニュース": 1,
+    "Investing.com": 1,
+    "Amnesty International": 1,
+    "Fox Business": 1,
+    "marketscreener.com": 1,
+    "The Circuit": 1,
+    "MEMRI | Middle East Media Research Institute": 1
    },
    "sourceTone": {
     "Yemen Online": [
      0,
-     3,
+     4,
      0
     ],
     "Bloomberg.com": [
      0,
-     30,
+     31,
      0
     ],
     "Financial Times": [
@@ -21546,7 +21559,7 @@
     ],
     "Semafor": [
      0,
-     1,
+     2,
      0
     ],
     "Yahoo": [
@@ -21561,12 +21574,12 @@
     ],
     "Arab News": [
      0,
-     44,
+     47,
      0
     ],
     "WSJ": [
      0,
-     14,
+     15,
      0
     ],
     "Spiegel": [
@@ -21591,7 +21604,7 @@
     ],
     "Reuters": [
      0,
-     34,
+     40,
      0
     ],
     "South China Morning Post": [
@@ -21646,7 +21659,7 @@
     ],
     "Anadolu Ajansı": [
      0,
-     2,
+     3,
      0
     ],
     "The Jerusalem Post": [
@@ -21716,7 +21729,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     4,
+     5,
      0
     ],
     "Internazionale": [
@@ -21731,7 +21744,7 @@
     ],
     "The National": [
      0,
-     1,
+     2,
      0
     ],
     "DAZN": [
@@ -21751,7 +21764,7 @@
     ],
     "AP News": [
      0,
-     4,
+     5,
      0
     ],
     "Crypto Briefing": [
@@ -21891,7 +21904,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     5,
+     8,
      0
     ],
     "الخبر اليمني": [
@@ -21916,7 +21929,7 @@
     ],
     "The New Arab": [
      0,
-     1,
+     2,
      0
     ],
     "DW.com": [
@@ -21931,7 +21944,7 @@
     ],
     "The Arab Weekly": [
      0,
-     1,
+     2,
      0
     ],
     "Arabian Business": [
@@ -22121,10 +22134,75 @@
     ],
     "www.marketscreener.com": [
      0,
-     1,
+     3,
      0
     ],
     "Ocean News & Technology": [
+     0,
+     1,
+     0
+    ],
+    "TodayPress.tv": [
+     0,
+     1,
+     0
+    ],
+    "houseofsaud.com": [
+     0,
+     1,
+     0
+    ],
+    "LiveScore": [
+     0,
+     1,
+     0
+    ],
+    "Nacionale": [
+     0,
+     1,
+     0
+    ],
+    "The Independent": [
+     0,
+     1,
+     0
+    ],
+    "ESPN": [
+     0,
+     2,
+     0
+    ],
+    "NHKニュース": [
+     0,
+     1,
+     0
+    ],
+    "Investing.com": [
+     0,
+     1,
+     0
+    ],
+    "Amnesty International": [
+     0,
+     1,
+     0
+    ],
+    "Fox Business": [
+     0,
+     1,
+     0
+    ],
+    "marketscreener.com": [
+     0,
+     1,
+     0
+    ],
+    "The Circuit": [
+     0,
+     1,
+     0
+    ],
+    "MEMRI | Middle East Media Research Institute": [
      0,
      1,
      0
