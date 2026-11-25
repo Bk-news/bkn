@@ -21348,11 +21348,11 @@
    }
   },
   "2026-11-25": {
-   "total": 168,
-   "news": 168,
+   "total": 169,
+   "news": 169,
    "articles": 0,
    "positive": 0,
-   "neutral": 168,
+   "neutral": 169,
    "critical": 0,
    "mbs": 5,
    "countries": {
@@ -21444,7 +21444,8 @@
     "Open Magazine": 1,
     "طقس العرب": 1,
     "Middle East Council on Global Affairs": 1,
-    "ASHARQ AL-AWSAT English": 2
+    "ASHARQ AL-AWSAT English": 2,
+    "الخبر اليمني": 1
    },
    "sourceTone": {
     "Yemen Online": [
@@ -21845,6 +21846,11 @@
     "ASHARQ AL-AWSAT English": [
      0,
      2,
+     0
+    ],
+    "الخبر اليمني": [
+     0,
+     1,
      0
     ]
    }
