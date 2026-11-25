@@ -21348,15 +21348,15 @@
    }
   },
   "2026-11-25": {
-   "total": 171,
-   "news": 171,
+   "total": 174,
+   "news": 174,
    "articles": 0,
    "positive": 0,
-   "neutral": 171,
+   "neutral": 174,
    "critical": 0,
-   "mbs": 5,
+   "mbs": 6,
    "countries": {
-    "US": 28,
+    "US": 30,
     "GB": 20,
     "SA": 27,
     "DE": 2,
@@ -21446,7 +21446,9 @@
     "Middle East Council on Global Affairs": 1,
     "ASHARQ AL-AWSAT English": 2,
     "الخبر اليمني": 1,
-    "اسلام تايمز": 1
+    "اسلام تايمز": 1,
+    "Firstpost": 1,
+    "Bloomberg": 2
    },
    "sourceTone": {
     "Yemen Online": [
@@ -21857,6 +21859,16 @@
     "اسلام تايمز": [
      0,
      1,
+     0
+    ],
+    "Firstpost": [
+     0,
+     1,
+     0
+    ],
+    "Bloomberg": [
+     0,
+     2,
      0
     ]
    }
