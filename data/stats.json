@@ -19485,15 +19485,15 @@
    }
   },
   "2026-11-23": {
-   "total": 621,
-   "news": 615,
+   "total": 622,
+   "news": 616,
    "articles": 6,
    "positive": 0,
-   "neutral": 621,
+   "neutral": 622,
    "critical": 0,
    "mbs": 8,
    "countries": {
-    "US": 174,
+    "US": 175,
     "SA": 87,
     "DE": 4,
     "GB": 139,
@@ -19528,7 +19528,7 @@
     "AP News": 13,
     "Financial Times": 10,
     "France 24": 14,
-    "The New York Times": 20,
+    "The New York Times": 21,
     "Nikkei Asia": 2,
     "Condé Nast Traveller Middle East": 1,
     "pv magazine Global": 1,
@@ -19775,7 +19775,7 @@
     ],
     "The New York Times": [
      0,
-     20,
+     21,
      0
     ],
     "Nikkei Asia": [
