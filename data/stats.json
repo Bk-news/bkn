@@ -19485,18 +19485,18 @@
    }
   },
   "2026-11-23": {
-   "total": 622,
-   "news": 616,
+   "total": 623,
+   "news": 617,
    "articles": 6,
    "positive": 0,
-   "neutral": 622,
+   "neutral": 623,
    "critical": 0,
    "mbs": 8,
    "countries": {
     "US": 175,
     "SA": 87,
     "DE": 4,
-    "GB": 139,
+    "GB": 140,
     "FR": 19,
     "JP": 2
    },
@@ -19517,7 +19517,7 @@
     "Bloomberg.com": 78,
     "The Guardian": 23,
     "Yeni Safak English": 7,
-    "BBC": 16,
+    "BBC": 17,
     "www.tmgm.com": 2,
     "Reuters": 89,
     "The Washington Post": 5,
@@ -19720,7 +19720,7 @@
     ],
     "BBC": [
      0,
-     16,
+     17,
      0
     ],
     "www.tmgm.com": [
@@ -20341,17 +20341,17 @@
    }
   },
   "2026-11-24": {
-   "total": 622,
-   "news": 608,
+   "total": 625,
+   "news": 611,
    "articles": 14,
    "positive": 0,
-   "neutral": 622,
+   "neutral": 625,
    "critical": 0,
    "mbs": 17,
    "countries": {
     "SA": 104,
-    "US": 112,
-    "GB": 147,
+    "US": 113,
+    "GB": 148,
     "JP": 1,
     "FR": 5,
     "HK": 3,
@@ -20364,9 +20364,9 @@
     "The Washington Post": 2,
     "Financial Times": 14,
     "BBC": 9,
-    "Reuters": 114,
+    "Reuters": 115,
     "Nikkei Asia": 1,
-    "Bloomberg.com": 23,
+    "Bloomberg.com": 24,
     "Al-Monitor": 33,
     "WSJ": 19,
     "The New York Times": 14,
@@ -20474,7 +20474,7 @@
     "KarloBag.eu": 1,
     "Naharnet": 1,
     "Democracy Now!": 1,
-    "The Times of Israel": 2,
+    "The Times of Israel": 3,
     "شبكة تواصل الإخبارية": 1,
     "https://theins.press/en": 1,
     "ARYnews.tv": 1,
@@ -20548,7 +20548,7 @@
     ],
     "Reuters": [
      0,
-     114,
+     115,
      0
     ],
     "Nikkei Asia": [
@@ -20558,7 +20558,7 @@
     ],
     "Bloomberg.com": [
      0,
-     23,
+     24,
      0
     ],
     "Al-Monitor": [
@@ -21098,7 +21098,7 @@
     ],
     "The Times of Israel": [
      0,
-     2,
+     3,
      0
     ],
     "شبكة تواصل الإخبارية": [
