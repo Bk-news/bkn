@@ -21348,11 +21348,11 @@
    }
   },
   "2026-11-25": {
-   "total": 508,
-   "news": 500,
+   "total": 509,
+   "news": 501,
    "articles": 8,
    "positive": 0,
-   "neutral": 508,
+   "neutral": 509,
    "critical": 0,
    "mbs": 12,
    "countries": {
@@ -21510,7 +21510,7 @@
     "Fortune": 1,
     "https://debuglies.com": 1,
     "NewsCord": 1,
-    "Fana News -": 1,
+    "Fana News -": 2,
     "FOX Sports": 1,
     "Avi-Go": 1,
     "Marine Insight": 1,
@@ -22246,7 +22246,7 @@
     ],
     "Fana News -": [
      0,
-     1,
+     2,
      0
     ],
     "FOX Sports": [
