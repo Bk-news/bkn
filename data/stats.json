@@ -21348,15 +21348,15 @@
    }
   },
   "2026-11-25": {
-   "total": 179,
-   "news": 179,
+   "total": 183,
+   "news": 183,
    "articles": 0,
    "positive": 0,
-   "neutral": 179,
+   "neutral": 183,
    "critical": 0,
-   "mbs": 7,
+   "mbs": 8,
    "countries": {
-    "US": 30,
+    "US": 31,
     "GB": 22,
     "SA": 28,
     "DE": 2,
@@ -21409,7 +21409,7 @@
     "Finimize": 1,
     "Free Press Kashmir": 2,
     "The Telegraph": 1,
-    "https://houseofsaud.com/": 2,
+    "https://houseofsaud.com/": 3,
     "Internazionale": 1,
     "Asia Times": 1,
     "The National": 1,
@@ -21436,7 +21436,7 @@
     "아시아경제": 1,
     "DNE Africa": 1,
     "Diari ARA": 1,
-    "Yeni Safak English": 3,
+    "Yeni Safak English": 4,
     "Dubai Eye 103.8": 1,
     "The Filipino Times": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -21448,8 +21448,9 @@
     "الخبر اليمني": 1,
     "اسلام تايمز": 1,
     "Firstpost": 1,
-    "Bloomberg": 2,
-    "The New Arab": 1
+    "Bloomberg": 3,
+    "The New Arab": 1,
+    "DW.com": 1
    },
    "sourceTone": {
     "Yemen Online": [
@@ -21674,7 +21675,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     2,
+     3,
      0
     ],
     "Internazionale": [
@@ -21809,7 +21810,7 @@
     ],
     "Yeni Safak English": [
      0,
-     3,
+     4,
      0
     ],
     "Dubai Eye 103.8": [
@@ -21869,10 +21870,15 @@
     ],
     "Bloomberg": [
      0,
-     2,
+     3,
      0
     ],
     "The New Arab": [
+     0,
+     1,
+     0
+    ],
+    "DW.com": [
      0,
      1,
      0
