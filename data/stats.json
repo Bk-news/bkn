@@ -20341,17 +20341,17 @@
    }
   },
   "2026-11-24": {
-   "total": 745,
-   "news": 731,
+   "total": 746,
+   "news": 732,
    "articles": 14,
    "positive": 0,
-   "neutral": 745,
+   "neutral": 746,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "SA": 114,
     "US": 169,
-    "GB": 194,
+    "GB": 195,
     "JP": 1,
     "FR": 5,
     "HK": 3,
@@ -20393,7 +20393,7 @@
     "CGTN": 1,
     "www.tmgm.com": 3,
     "Yeni Safak English": 4,
-    "The Guardian": 21,
+    "The Guardian": 22,
     "Kurdistan24": 1,
     "Al Jazeera": 2,
     "Travel & Tourism News Middle East": 1,
@@ -20698,7 +20698,7 @@
     ],
     "The Guardian": [
      0,
-     21,
+     22,
      0
     ],
     "Kurdistan24": [
@@ -21354,11 +21354,11 @@
    }
   },
   "2026-11-25": {
-   "total": 526,
-   "news": 518,
+   "total": 527,
+   "news": 519,
    "articles": 8,
    "positive": 0,
-   "neutral": 526,
+   "neutral": 527,
    "critical": 0,
    "mbs": 12,
    "countries": {
@@ -21523,7 +21523,8 @@
     "Haaretz": 1,
     "Variety": 1,
     "The Mirror US": 1,
-    "ARYnews.tv": 1
+    "ARYnews.tv": 1,
+    "energynews.pro": 1
    },
    "sourceTone": {
     "Yemen Online": [
@@ -22287,6 +22288,11 @@
      0
     ],
     "ARYnews.tv": [
+     0,
+     1,
+     0
+    ],
+    "energynews.pro": [
      0,
      1,
      0
