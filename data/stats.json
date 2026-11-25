@@ -20341,17 +20341,17 @@
    }
   },
   "2026-11-24": {
-   "total": 683,
-   "news": 669,
+   "total": 688,
+   "news": 674,
    "articles": 14,
    "positive": 0,
-   "neutral": 683,
+   "neutral": 688,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "SA": 111,
-    "US": 136,
-    "GB": 171,
+    "US": 137,
+    "GB": 173,
     "JP": 1,
     "FR": 5,
     "HK": 3,
@@ -20364,9 +20364,9 @@
     "The Washington Post": 2,
     "Financial Times": 14,
     "BBC": 11,
-    "Reuters": 136,
+    "Reuters": 138,
     "Nikkei Asia": 1,
-    "Bloomberg.com": 44,
+    "Bloomberg.com": 45,
     "Al-Monitor": 33,
     "WSJ": 21,
     "The New York Times": 14,
@@ -20462,7 +20462,7 @@
     "Construction Review": 1,
     "Military.com": 1,
     "Radio Tamazuj": 1,
-    "fundsforNGOs - Grants and Resources for Sustainability": 1,
+    "fundsforNGOs - Grants and Resources for Sustainability": 2,
     "Engadget": 1,
     "Tom's Hardware": 1,
     "Agência de Notícias Brasil-Árabe - ANBA": 1,
@@ -20521,7 +20521,8 @@
     "وكالة الأنباء السعودية": 2,
     "Khaleej Times": 1,
     "Jerusalem Center for Security and Foreign Affairs": 1,
-    "Oil & Gas 360": 1
+    "Oil & Gas 360": 1,
+    "EnterpriseAM": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -20551,7 +20552,7 @@
     ],
     "Reuters": [
      0,
-     136,
+     138,
      0
     ],
     "Nikkei Asia": [
@@ -20561,7 +20562,7 @@
     ],
     "Bloomberg.com": [
      0,
-     44,
+     45,
      0
     ],
     "Al-Monitor": [
@@ -21041,7 +21042,7 @@
     ],
     "fundsforNGOs - Grants and Resources for Sustainability": [
      0,
-     1,
+     2,
      0
     ],
     "Engadget": [
@@ -21338,20 +21339,25 @@
      0,
      1,
      0
+    ],
+    "EnterpriseAM": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-25": {
-   "total": 147,
-   "news": 147,
+   "total": 157,
+   "news": 157,
    "articles": 0,
    "positive": 0,
-   "neutral": 147,
+   "neutral": 157,
    "critical": 0,
    "mbs": 5,
    "countries": {
     "US": 25,
-    "GB": 18,
+    "GB": 19,
     "SA": 25,
     "DE": 2,
     "HK": 2,
@@ -21378,7 +21384,7 @@
     "Al-Monitor": 3,
     "BBC": 4,
     "The Guardian": 3,
-    "Reuters": 11,
+    "Reuters": 12,
     "South China Morning Post": 2,
     "Fakti.bg": 1,
     "سانا": 1,
@@ -21422,12 +21428,20 @@
     "Modern Diplomacy": 1,
     "The Maritime Executive": 1,
     "Popbee": 1,
-    "Bioengineer.org": 1,
+    "Bioengineer.org": 2,
     "Breakingthenews.net": 2,
     "BigGo Finance": 1,
     "CNBC": 1,
     "UA.NEWS": 1,
-    "아시아경제": 1
+    "아시아경제": 1,
+    "DNE Africa": 1,
+    "Diari ARA": 1,
+    "Yeni Safak English": 1,
+    "Dubai Eye 103.8": 1,
+    "The Filipino Times": 1,
+    "Arabian Gulf Business Insight | AGBI": 1,
+    "Gulf Business": 1,
+    "Open Magazine": 1
    },
    "sourceTone": {
     "Yemen Online": [
@@ -21527,7 +21541,7 @@
     ],
     "Reuters": [
      0,
-     11,
+     12,
      0
     ],
     "South China Morning Post": [
@@ -21747,7 +21761,7 @@
     ],
     "Bioengineer.org": [
      0,
-     1,
+     2,
      0
     ],
     "Breakingthenews.net": [
@@ -21771,6 +21785,46 @@
      0
     ],
     "아시아경제": [
+     0,
+     1,
+     0
+    ],
+    "DNE Africa": [
+     0,
+     1,
+     0
+    ],
+    "Diari ARA": [
+     0,
+     1,
+     0
+    ],
+    "Yeni Safak English": [
+     0,
+     1,
+     0
+    ],
+    "Dubai Eye 103.8": [
+     0,
+     1,
+     0
+    ],
+    "The Filipino Times": [
+     0,
+     1,
+     0
+    ],
+    "Arabian Gulf Business Insight | AGBI": [
+     0,
+     1,
+     0
+    ],
+    "Gulf Business": [
+     0,
+     1,
+     0
+    ],
+    "Open Magazine": [
      0,
      1,
      0
