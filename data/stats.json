@@ -21348,43 +21348,43 @@
    }
   },
   "2026-11-25": {
-   "total": 232,
-   "news": 227,
-   "articles": 5,
+   "total": 272,
+   "news": 265,
+   "articles": 7,
    "positive": 0,
-   "neutral": 232,
+   "neutral": 272,
    "critical": 0,
    "mbs": 8,
    "countries": {
-    "US": 51,
-    "GB": 32,
-    "SA": 33,
+    "US": 65,
+    "GB": 43,
+    "SA": 39,
     "DE": 2,
     "HK": 2,
-    "FR": 3
+    "FR": 6
    },
    "topics": {},
    "sources": {
     "Yemen Online": 2,
-    "Bloomberg.com": 23,
-    "Financial Times": 3,
+    "Bloomberg.com": 25,
+    "Financial Times": 5,
     "www.tmgm.com": 1,
-    "FXEmpire": 1,
+    "FXEmpire": 2,
     "Global Advisory Experts": 7,
     "Middle East Eye": 1,
     "The Express Tribune": 1,
     "Manara Magazine": 1,
-    "Saudi Gazette": 18,
+    "Saudi Gazette": 21,
     "Semafor": 1,
     "Yahoo": 1,
     "Chosunbiz": 1,
-    "Arab News": 17,
-    "WSJ": 6,
+    "Arab News": 20,
+    "WSJ": 9,
     "Spiegel": 2,
-    "Al-Monitor": 6,
-    "BBC": 8,
-    "The Guardian": 5,
-    "Reuters": 16,
+    "Al-Monitor": 9,
+    "BBC": 11,
+    "The Guardian": 8,
+    "Reuters": 19,
     "South China Morning Post": 2,
     "Fakti.bg": 1,
     "سانا": 1,
@@ -21416,7 +21416,7 @@
     "DAZN": 1,
     "Travel Daily Media": 1,
     "MUFG Research": 1,
-    "AP News": 3,
+    "AP News": 4,
     "Crypto Briefing": 2,
     "Al Arabiya English": 1,
     "TradingView": 1,
@@ -21448,22 +21448,26 @@
     "الخبر اليمني": 1,
     "اسلام تايمز": 1,
     "Firstpost": 1,
-    "Bloomberg": 4,
+    "Bloomberg": 5,
     "The New Arab": 1,
     "DW.com": 1,
     "The Washington Post": 1,
     "The Arab Weekly": 1,
     "Arabian Business": 1,
-    "وكالة الأنباء السعودية": 1,
+    "وكالة الأنباء السعودية": 2,
     "Hürriyet Daily News": 1,
-    "The New York Times": 3,
+    "The New York Times": 5,
     "WE News English": 1,
     "Modern Ghana": 1,
-    "Atlantic Council": 3,
+    "Atlantic Council": 5,
     "Foreign Policy": 1,
     "CNN": 2,
-    "France 24": 2,
-    "The Economist": 1
+    "France 24": 5,
+    "The Economist": 1,
+    "Employee Happiness Daily": 1,
+    "TVB": 1,
+    "Middle East Monitor": 1,
+    "TheWire.in": 1
    },
    "sourceTone": {
     "Yemen Online": [
@@ -21473,12 +21477,12 @@
     ],
     "Bloomberg.com": [
      0,
-     23,
+     25,
      0
     ],
     "Financial Times": [
      0,
-     3,
+     5,
      0
     ],
     "www.tmgm.com": [
@@ -21488,7 +21492,7 @@
     ],
     "FXEmpire": [
      0,
-     1,
+     2,
      0
     ],
     "Global Advisory Experts": [
@@ -21513,7 +21517,7 @@
     ],
     "Saudi Gazette": [
      0,
-     18,
+     21,
      0
     ],
     "Semafor": [
@@ -21533,12 +21537,12 @@
     ],
     "Arab News": [
      0,
-     17,
+     20,
      0
     ],
     "WSJ": [
      0,
-     6,
+     9,
      0
     ],
     "Spiegel": [
@@ -21548,22 +21552,22 @@
     ],
     "Al-Monitor": [
      0,
-     6,
+     9,
      0
     ],
     "BBC": [
      0,
-     8,
+     11,
      0
     ],
     "The Guardian": [
      0,
-     5,
+     8,
      0
     ],
     "Reuters": [
      0,
-     16,
+     19,
      0
     ],
     "South China Morning Post": [
@@ -21723,7 +21727,7 @@
     ],
     "AP News": [
      0,
-     3,
+     4,
      0
     ],
     "Crypto Briefing": [
@@ -21883,7 +21887,7 @@
     ],
     "Bloomberg": [
      0,
-     4,
+     5,
      0
     ],
     "The New Arab": [
@@ -21913,7 +21917,7 @@
     ],
     "وكالة الأنباء السعودية": [
      0,
-     1,
+     2,
      0
     ],
     "Hürriyet Daily News": [
@@ -21923,7 +21927,7 @@
     ],
     "The New York Times": [
      0,
-     3,
+     5,
      0
     ],
     "WE News English": [
@@ -21938,7 +21942,7 @@
     ],
     "Atlantic Council": [
      0,
-     3,
+     5,
      0
     ],
     "Foreign Policy": [
@@ -21953,10 +21957,30 @@
     ],
     "France 24": [
      0,
-     2,
+     5,
      0
     ],
     "The Economist": [
+     0,
+     1,
+     0
+    ],
+    "Employee Happiness Daily": [
+     0,
+     1,
+     0
+    ],
+    "TVB": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Monitor": [
+     0,
+     1,
+     0
+    ],
+    "TheWire.in": [
      0,
      1,
      0
