@@ -19485,25 +19485,25 @@
    }
   },
   "2026-11-23": {
-   "total": 611,
-   "news": 605,
+   "total": 614,
+   "news": 608,
    "articles": 6,
    "positive": 0,
-   "neutral": 611,
+   "neutral": 614,
    "critical": 0,
    "mbs": 8,
    "countries": {
-    "US": 168,
+    "US": 170,
     "SA": 86,
     "DE": 4,
-    "GB": 136,
+    "GB": 137,
     "FR": 19,
     "JP": 2
    },
    "topics": {},
    "sources": {
     "وكالة الأنباء السعودية": 4,
-    "WSJ": 20,
+    "WSJ": 22,
     "Arab News": 68,
     "Spiegel": 4,
     "Sports Gambling Podcast": 1,
@@ -19519,7 +19519,7 @@
     "Yeni Safak English": 7,
     "BBC": 16,
     "www.tmgm.com": 2,
-    "Reuters": 86,
+    "Reuters": 87,
     "The Washington Post": 4,
     "Gulf Business": 4,
     "Saudi Gazette": 30,
@@ -19650,7 +19650,7 @@
     ],
     "WSJ": [
      0,
-     20,
+     22,
      0
     ],
     "Arab News": [
@@ -19730,7 +19730,7 @@
     ],
     "Reuters": [
      0,
-     86,
+     87,
      0
     ],
     "The Washington Post": [
@@ -20341,17 +20341,17 @@
    }
   },
   "2026-11-24": {
-   "total": 493,
-   "news": 480,
-   "articles": 13,
+   "total": 530,
+   "news": 516,
+   "articles": 14,
    "positive": 0,
-   "neutral": 493,
+   "neutral": 530,
    "critical": 0,
    "mbs": 16,
    "countries": {
-    "SA": 74,
-    "US": 103,
-    "GB": 116,
+    "SA": 86,
+    "US": 106,
+    "GB": 126,
     "JP": 1,
     "FR": 5,
     "HK": 3,
@@ -20364,13 +20364,13 @@
     "The Washington Post": 2,
     "Financial Times": 14,
     "BBC": 9,
-    "Reuters": 83,
+    "Reuters": 93,
     "Nikkei Asia": 1,
-    "Bloomberg.com": 21,
-    "Al-Monitor": 29,
+    "Bloomberg.com": 22,
+    "Al-Monitor": 30,
     "WSJ": 19,
     "The New York Times": 12,
-    "Arab News": 58,
+    "Arab News": 70,
     "France 24": 3,
     "AP News": 7,
     "sanad.uk": 1,
@@ -20379,7 +20379,7 @@
     "Crypto Briefing": 3,
     "Mehr News Agency": 1,
     "The AFC": 1,
-    "https://houseofsaud.com/": 2,
+    "https://houseofsaud.com/": 3,
     "AKIpress News Agency": 1,
     "The National": 5,
     "Gulf News": 4,
@@ -20400,14 +20400,14 @@
     "The New Region": 2,
     "ASHARQ AL-AWSAT English": 5,
     "Avi-Go": 4,
-    "Atlantic Council": 8,
+    "Atlantic Council": 9,
     "صحيفة سبق الإلكترونية": 2,
     "Bloomberg": 9,
     "South China Morning Post": 4,
     "Spiegel": 2,
     "The Economist": 4,
     "CP24": 1,
-    "Anadolu Ajansı": 2,
+    "Anadolu Ajansı": 3,
     "houseofsaud.com": 1,
     "Forbes": 1,
     "The Arab Weekly": 1,
@@ -20422,7 +20422,7 @@
     "Traders Union": 1,
     "Business Upturn": 1,
     "MEAWW News": 1,
-    "Yemen Online": 1,
+    "Yemen Online": 3,
     "MMA Mania": 1,
     "markets.businessinsider.com": 1,
     "صحيفة مال": 4,
@@ -20452,12 +20452,12 @@
     "Garowe Online": 1,
     "Telecompaper": 1,
     "Golf Digest Middle East": 1,
-    "The Jerusalem Post": 2,
+    "The Jerusalem Post": 3,
     "Defensehere": 1,
     "SOFREP": 1,
     "POLITICO Pro": 1,
     "India Today": 2,
-    "Breakingthenews.net": 1,
+    "Breakingthenews.net": 2,
     "Arabian Business": 1,
     "Construction Review": 1,
     "Military.com": 1,
@@ -20489,7 +20489,13 @@
     "Foreign Policy": 1,
     "The Insight International": 1,
     "FXStreet": 1,
-    "investingLive": 1
+    "investingLive": 1,
+    "GMA Network": 1,
+    "X": 1,
+    "NewsNation": 1,
+    "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
+    "Sight Magazine": 1,
+    "CNBC": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -20519,7 +20525,7 @@
     ],
     "Reuters": [
      0,
-     83,
+     93,
      0
     ],
     "Nikkei Asia": [
@@ -20529,12 +20535,12 @@
     ],
     "Bloomberg.com": [
      0,
-     21,
+     22,
      0
     ],
     "Al-Monitor": [
      0,
-     29,
+     30,
      0
     ],
     "WSJ": [
@@ -20549,7 +20555,7 @@
     ],
     "Arab News": [
      0,
-     58,
+     70,
      0
     ],
     "France 24": [
@@ -20594,7 +20600,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     2,
+     3,
      0
     ],
     "AKIpress News Agency": [
@@ -20699,7 +20705,7 @@
     ],
     "Atlantic Council": [
      0,
-     8,
+     9,
      0
     ],
     "صحيفة سبق الإلكترونية": [
@@ -20734,7 +20740,7 @@
     ],
     "Anadolu Ajansı": [
      0,
-     2,
+     3,
      0
     ],
     "houseofsaud.com": [
@@ -20809,7 +20815,7 @@
     ],
     "Yemen Online": [
      0,
-     1,
+     3,
      0
     ],
     "MMA Mania": [
@@ -20959,7 +20965,7 @@
     ],
     "The Jerusalem Post": [
      0,
-     2,
+     3,
      0
     ],
     "Defensehere": [
@@ -20984,7 +20990,7 @@
     ],
     "Breakingthenews.net": [
      0,
-     1,
+     2,
      0
     ],
     "Arabian Business": [
@@ -21143,6 +21149,36 @@
      0
     ],
     "investingLive": [
+     0,
+     1,
+     0
+    ],
+    "GMA Network": [
+     0,
+     1,
+     0
+    ],
+    "X": [
+     0,
+     1,
+     0
+    ],
+    "NewsNation": [
+     0,
+     1,
+     0
+    ],
+    "U.S. Embassy & Consulates in Saudi Arabia (.gov)": [
+     0,
+     1,
+     0
+    ],
+    "Sight Magazine": [
+     0,
+     1,
+     0
+    ],
+    "CNBC": [
      0,
      1,
      0
