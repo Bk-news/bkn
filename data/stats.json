@@ -19485,18 +19485,18 @@
    }
   },
   "2026-11-23": {
-   "total": 652,
-   "news": 646,
+   "total": 656,
+   "news": 650,
    "articles": 6,
    "positive": 0,
-   "neutral": 652,
+   "neutral": 656,
    "critical": 0,
    "mbs": 8,
    "countries": {
-    "US": 179,
+    "US": 180,
     "SA": 88,
     "DE": 4,
-    "GB": 164,
+    "GB": 167,
     "FR": 19,
     "JP": 2
    },
@@ -19514,12 +19514,12 @@
     "The New Arab": 2,
     "FXStreet": 1,
     "TradingView": 3,
-    "Bloomberg.com": 81,
+    "Bloomberg.com": 82,
     "The Guardian": 26,
     "Yeni Safak English": 7,
     "BBC": 20,
     "www.tmgm.com": 2,
-    "Reuters": 105,
+    "Reuters": 108,
     "The Washington Post": 5,
     "Gulf Business": 4,
     "Saudi Gazette": 30,
@@ -19705,7 +19705,7 @@
     ],
     "Bloomberg.com": [
      0,
-     81,
+     82,
      0
     ],
     "The Guardian": [
@@ -19730,7 +19730,7 @@
     ],
     "Reuters": [
      0,
-     105,
+     108,
      0
     ],
     "The Washington Post": [
@@ -20341,17 +20341,17 @@
    }
   },
   "2026-11-24": {
-   "total": 720,
-   "news": 706,
+   "total": 733,
+   "news": 719,
    "articles": 14,
    "positive": 0,
-   "neutral": 720,
+   "neutral": 733,
    "critical": 0,
    "mbs": 19,
    "countries": {
-    "SA": 112,
-    "US": 160,
-    "GB": 181,
+    "SA": 113,
+    "US": 166,
+    "GB": 187,
     "JP": 1,
     "FR": 5,
     "HK": 3,
@@ -20364,13 +20364,13 @@
     "The Washington Post": 2,
     "Financial Times": 14,
     "BBC": 11,
-    "Reuters": 140,
+    "Reuters": 146,
     "Nikkei Asia": 1,
-    "Bloomberg.com": 65,
+    "Bloomberg.com": 70,
     "Al-Monitor": 33,
     "WSJ": 21,
     "The New York Times": 14,
-    "Arab News": 98,
+    "Arab News": 99,
     "France 24": 3,
     "AP News": 11,
     "sanad.uk": 1,
@@ -20402,7 +20402,7 @@
     "Avi-Go": 4,
     "Atlantic Council": 9,
     "صحيفة سبق الإلكترونية": 4,
-    "Bloomberg": 11,
+    "Bloomberg": 12,
     "South China Morning Post": 4,
     "Spiegel": 2,
     "The Economist": 4,
@@ -20552,7 +20552,7 @@
     ],
     "Reuters": [
      0,
-     140,
+     146,
      0
     ],
     "Nikkei Asia": [
@@ -20562,7 +20562,7 @@
     ],
     "Bloomberg.com": [
      0,
-     65,
+     70,
      0
     ],
     "Al-Monitor": [
@@ -20582,7 +20582,7 @@
     ],
     "Arab News": [
      0,
-     98,
+     99,
      0
     ],
     "France 24": [
@@ -20742,7 +20742,7 @@
     ],
     "Bloomberg": [
      0,
-     11,
+     12,
      0
     ],
     "South China Morning Post": [
@@ -21348,17 +21348,17 @@
    }
   },
   "2026-11-25": {
-   "total": 383,
-   "news": 376,
+   "total": 406,
+   "news": 399,
    "articles": 7,
    "positive": 0,
-   "neutral": 383,
+   "neutral": 406,
    "critical": 0,
    "mbs": 10,
    "countries": {
     "US": 97,
     "GB": 63,
-    "SA": 67,
+    "SA": 70,
     "DE": 2,
     "HK": 2,
     "FR": 11
@@ -21367,7 +21367,7 @@
    "sources": {
     "Yemen Online": 3,
     "Bloomberg.com": 30,
-    "Financial Times": 5,
+    "Financial Times": 6,
     "www.tmgm.com": 1,
     "FXEmpire": 2,
     "Global Advisory Experts": 7,
@@ -21378,10 +21378,10 @@
     "Semafor": 1,
     "Yahoo": 1,
     "Chosunbiz": 1,
-    "Arab News": 39,
+    "Arab News": 44,
     "WSJ": 14,
     "Spiegel": 2,
-    "Al-Monitor": 19,
+    "Al-Monitor": 20,
     "BBC": 13,
     "The Guardian": 13,
     "Reuters": 34,
@@ -21409,7 +21409,7 @@
     "Finimize": 2,
     "Free Press Kashmir": 2,
     "The Telegraph": 1,
-    "https://houseofsaud.com/": 3,
+    "https://houseofsaud.com/": 4,
     "Internazionale": 1,
     "Asia Times": 1,
     "The National": 1,
@@ -21418,7 +21418,7 @@
     "MUFG Research": 1,
     "AP News": 4,
     "Crypto Briefing": 2,
-    "Al Arabiya English": 2,
+    "Al Arabiya English": 3,
     "TradingView": 1,
     "Mehr News Agency": 1,
     "Jordan News": 1,
@@ -21444,7 +21444,7 @@
     "Open Magazine": 1,
     "طقس العرب": 1,
     "Middle East Council on Global Affairs": 1,
-    "ASHARQ AL-AWSAT English": 3,
+    "ASHARQ AL-AWSAT English": 5,
     "الخبر اليمني": 1,
     "اسلام تايمز": 1,
     "Firstpost": 1,
@@ -21480,7 +21480,18 @@
     "Devdiscourse": 1,
     "Sharjah24": 1,
     "A News": 1,
-    "Yahoo Sports": 1
+    "Yahoo Sports": 1,
+    "Middle East Online": 2,
+    "Full Fact": 1,
+    "Daily Sabah": 1,
+    "Goal.com": 1,
+    "SeeNews": 1,
+    "Democracy Now!": 1,
+    "Crude Oil Prices Today | OilPrice.com": 1,
+    "Pinsent Masons": 1,
+    "Dove Medical Press": 1,
+    "www.marketscreener.com": 1,
+    "Ocean News & Technology": 1
    },
    "sourceTone": {
     "Yemen Online": [
@@ -21495,7 +21506,7 @@
     ],
     "Financial Times": [
      0,
-     5,
+     6,
      0
     ],
     "www.tmgm.com": [
@@ -21550,7 +21561,7 @@
     ],
     "Arab News": [
      0,
-     39,
+     44,
      0
     ],
     "WSJ": [
@@ -21565,7 +21576,7 @@
     ],
     "Al-Monitor": [
      0,
-     19,
+     20,
      0
     ],
     "BBC": [
@@ -21705,7 +21716,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     3,
+     4,
      0
     ],
     "Internazionale": [
@@ -21750,7 +21761,7 @@
     ],
     "Al Arabiya English": [
      0,
-     2,
+     3,
      0
     ],
     "TradingView": [
@@ -21880,7 +21891,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     3,
+     5,
      0
     ],
     "الخبر اليمني": [
@@ -22059,6 +22070,61 @@
      0
     ],
     "Yahoo Sports": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Online": [
+     0,
+     2,
+     0
+    ],
+    "Full Fact": [
+     0,
+     1,
+     0
+    ],
+    "Daily Sabah": [
+     0,
+     1,
+     0
+    ],
+    "Goal.com": [
+     0,
+     1,
+     0
+    ],
+    "SeeNews": [
+     0,
+     1,
+     0
+    ],
+    "Democracy Now!": [
+     0,
+     1,
+     0
+    ],
+    "Crude Oil Prices Today | OilPrice.com": [
+     0,
+     1,
+     0
+    ],
+    "Pinsent Masons": [
+     0,
+     1,
+     0
+    ],
+    "Dove Medical Press": [
+     0,
+     1,
+     0
+    ],
+    "www.marketscreener.com": [
+     0,
+     1,
+     0
+    ],
+    "Ocean News & Technology": [
      0,
      1,
      0
