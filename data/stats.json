@@ -20341,11 +20341,11 @@
    }
   },
   "2026-11-24": {
-   "total": 562,
-   "news": 548,
+   "total": 567,
+   "news": 553,
    "articles": 14,
    "positive": 0,
-   "neutral": 562,
+   "neutral": 567,
    "critical": 0,
    "mbs": 17,
    "countries": {
@@ -20367,7 +20367,7 @@
     "Reuters": 97,
     "Nikkei Asia": 1,
     "Bloomberg.com": 22,
-    "Al-Monitor": 30,
+    "Al-Monitor": 31,
     "WSJ": 19,
     "The New York Times": 13,
     "Arab News": 73,
@@ -20388,7 +20388,7 @@
     "MMA Junkie": 1,
     "Bioengineer.org": 2,
     "Arabian Gulf Business Insight | AGBI": 1,
-    "TradingView": 3,
+    "TradingView": 4,
     "Global Advisory Experts": 16,
     "CGTN": 1,
     "www.tmgm.com": 3,
@@ -20457,7 +20457,7 @@
     "SOFREP": 1,
     "POLITICO Pro": 1,
     "India Today": 2,
-    "Breakingthenews.net": 2,
+    "Breakingthenews.net": 3,
     "Arabian Business": 3,
     "Construction Review": 1,
     "Military.com": 1,
@@ -20508,7 +20508,9 @@
     "Arise News": 1,
     "AzerNews": 1,
     "New York Post": 1,
-    "Crude Oil Prices Today | OilPrice.com": 1
+    "Crude Oil Prices Today | OilPrice.com": 1,
+    "www.marketscreener.com": 1,
+    "Yahoo": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -20553,7 +20555,7 @@
     ],
     "Al-Monitor": [
      0,
-     30,
+     31,
      0
     ],
     "WSJ": [
@@ -20658,7 +20660,7 @@
     ],
     "TradingView": [
      0,
-     3,
+     4,
      0
     ],
     "Global Advisory Experts": [
@@ -21003,7 +21005,7 @@
     ],
     "Breakingthenews.net": [
      0,
-     2,
+     3,
      0
     ],
     "Arabian Business": [
@@ -21257,6 +21259,16 @@
      0
     ],
     "Crude Oil Prices Today | OilPrice.com": [
+     0,
+     1,
+     0
+    ],
+    "www.marketscreener.com": [
+     0,
+     1,
+     0
+    ],
+    "Yahoo": [
      0,
      1,
      0

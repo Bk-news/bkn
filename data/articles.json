@@ -4,7 +4,7 @@
   "origin": "rss",
   "source": "Atlantic Council",
   "author": "",
-  "title_ar": "Huang is back at Nvidia. But the fight over who controls chip exports is just beginning.",
+  "title_ar": "عاد هوانغ إلى نفيديا. لكن المعركة حول من يسيطر على صادرات الرقائق بدأت للتو.",
   "title_orig": "Huang is back at Nvidia. But the fight over who controls chip exports is just beginning.",
   "title_en": "Huang is back at Nvidia. But the fight over who controls chip exports is just beginning.",
   "summary_ar": [],
@@ -17,14 +17,15 @@
   "country": "US",
   "pending": true,
   "desc": "Huang is back at Nvidia. But the fight over who controls chip exports is just beginning. &nbsp;&nbsp; Atlantic Council",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "9f6c39ad131839c7",
   "origin": "rss",
   "source": "Atlantic Council",
   "author": "",
-  "title_ar": "The Coast Guard offers a model for defending US critical infrastructure against cyberattacks",
+  "title_ar": "يقدم خفر السواحل نموذجًا للدفاع عن البنية التحتية الحيوية للولايات المتحدة ضد الهجمات الإلكترونية",
   "title_orig": "The Coast Guard offers a model for defending US critical infrastructure against cyberattacks",
   "title_en": "The Coast Guard offers a model for defending US critical infrastructure against cyberattacks",
   "summary_ar": [],
@@ -37,14 +38,15 @@
   "country": "US",
   "pending": true,
   "desc": "The Coast Guard offers a model for defending US critical infrastructure against cyberattacks &nbsp;&nbsp; Atlantic Council",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "3306a216d66f0f94",
   "origin": "rss",
   "source": "The Economist",
   "author": "",
-  "title_ar": "The Gulf survived a short, hot war. A long, cold one will be harder",
+  "title_ar": "لقد نجت منطقة الخليج من حرب ساخنة قصيرة. سيكون البرد الطويل أكثر صعوبة",
   "title_orig": "The Gulf survived a short, hot war. A long, cold one will be harder",
   "title_en": "The Gulf survived a short, hot war. A long, cold one will be harder",
   "summary_ar": [],
@@ -57,14 +59,15 @@
   "country": "GB",
   "pending": true,
   "desc": "The Gulf survived a short, hot war. A long, cold one will be harder &nbsp;&nbsp; The Economist",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "01b5a334d1aa97e8",
   "origin": "rss",
   "source": "Atlantic Council",
   "author": "",
-  "title_ar": "Ukraine is now a drone superpower at sea, on land, and in the air",
+  "title_ar": "أصبحت أوكرانيا الآن قوة عظمى بدون طيار في البحر، وعلى الأرض، وفي الجو",
   "title_orig": "Ukraine is now a drone superpower at sea, on land, and in the air",
   "title_en": "Ukraine is now a drone superpower at sea, on land, and in the air",
   "summary_ar": [],
@@ -77,14 +80,15 @@
   "country": "US",
   "pending": true,
   "desc": "Ukraine is now a drone superpower at sea, on land, and in the air &nbsp;&nbsp; Atlantic Council",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "1ccb951069e13743",
   "origin": "rss",
   "source": "The Economist",
   "author": "",
-  "title_ar": "Are America’s supply chains really more vulnerable than China’s?",
+  "title_ar": "فهل سلاسل التوريد الأميركية أكثر عرضة للخطر من سلاسل التوريد الصينية؟",
   "title_orig": "Are America’s supply chains really more vulnerable than China’s?",
   "title_en": "Are America’s supply chains really more vulnerable than China’s?",
   "summary_ar": [],
@@ -97,14 +101,15 @@
   "country": "GB",
   "pending": true,
   "desc": "Are America’s supply chains really more vulnerable than China’s? &nbsp;&nbsp; The Economist",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "3cf0aaa130da794c",
   "origin": "rss",
   "source": "Atlantic Council",
   "author": "",
-  "title_ar": "The president and Congress must forge a common US strategy on Ukraine",
+  "title_ar": "ويتعين على الرئيس والكونغرس صياغة استراتيجية أميركية مشتركة بشأن أوكرانيا",
   "title_orig": "The president and Congress must forge a common US strategy on Ukraine",
   "title_en": "The president and Congress must forge a common US strategy on Ukraine",
   "summary_ar": [],
@@ -117,14 +122,15 @@
   "country": "US",
   "pending": true,
   "desc": "The president and Congress must forge a common US strategy on Ukraine &nbsp;&nbsp; Atlantic Council",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "2271755695853cf8",
   "origin": "rss",
   "source": "Atlantic Council",
   "author": "",
-  "title_ar": "What Congress can do about China’s support for Russia’s war",
+  "title_ar": "ما الذي يمكن أن يفعله الكونجرس بشأن دعم الصين لحرب روسيا؟",
   "title_orig": "What Congress can do about China’s support for Russia’s war",
   "title_en": "What Congress can do about China’s support for Russia’s war",
   "summary_ar": [],
@@ -137,14 +143,15 @@
   "country": "US",
   "pending": true,
   "desc": "What Congress can do about China’s support for Russia’s war &nbsp;&nbsp; Atlantic Council",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "3861097569e9e504",
   "origin": "rss",
   "source": "Atlantic Council",
   "author": "",
-  "title_ar": "The Rohingya genocide ruling faces a geopolitical test",
+  "title_ar": "يواجه الحكم المتعلق بالإبادة الجماعية للروهينجا اختبارًا جيوسياسيًا",
   "title_orig": "The Rohingya genocide ruling faces a geopolitical test",
   "title_en": "The Rohingya genocide ruling faces a geopolitical test",
   "summary_ar": [],
@@ -157,14 +164,15 @@
   "country": "US",
   "pending": true,
   "desc": "The Rohingya genocide ruling faces a geopolitical test &nbsp;&nbsp; Atlantic Council",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "838f5b3194b538c2",
   "origin": "rss",
   "source": "The Economist",
   "author": "",
-  "title_ar": "Copper shows how AI is messing with markets",
+  "title_ar": "يُظهر النحاس كيف يعبث الذكاء الاصطناعي بالأسواق",
   "title_orig": "Copper shows how AI is messing with markets",
   "title_en": "Copper shows how AI is messing with markets",
   "summary_ar": [],
@@ -177,14 +185,15 @@
   "country": "GB",
   "pending": true,
   "desc": "Copper shows how AI is messing with markets &nbsp;&nbsp; The Economist",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "bae3d941fcff2afa",
   "origin": "rss",
   "source": "Atlantic Council",
   "author": "",
-  "title_ar": "Governor Josh Shapiro on Trump, Iran, and the future of US foreign policy",
+  "title_ar": "الحاكم جوش شابيرو يتحدث عن ترامب وإيران ومستقبل السياسة الخارجية الأمريكية",
   "title_orig": "Governor Josh Shapiro on Trump, Iran, and the future of US foreign policy",
   "title_en": "Governor Josh Shapiro on Trump, Iran, and the future of US foreign policy",
   "summary_ar": [],
@@ -197,14 +206,15 @@
   "country": "US",
   "pending": true,
   "desc": "Governor Josh Shapiro on Trump, Iran, and the future of US foreign policy &nbsp;&nbsp; Atlantic Council",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "f7fd8bb7a10403d2",
   "origin": "rss",
   "source": "Foreign Policy",
   "author": "",
-  "title_ar": "Risk and Reward Along Africa’s Red Sea Littoral",
+  "title_ar": "المخاطر والمكافآت على طول ساحل البحر الأحمر في أفريقيا",
   "title_orig": "Risk and Reward Along Africa’s Red Sea Littoral",
   "title_en": "Risk and Reward Along Africa’s Red Sea Littoral",
   "summary_ar": [],
@@ -217,14 +227,15 @@
   "country": "US",
   "pending": true,
   "desc": "Risk and Reward Along Africa’s Red Sea Littoral &nbsp;&nbsp; Foreign Policy",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "f52a52afc82afc11",
   "origin": "rss",
   "source": "Atlantic Council",
   "author": "",
-  "title_ar": "To compete with China on technology, the United States must address data and trust deficits",
+  "title_ar": "ومن أجل التنافس مع الصين في مجال التكنولوجيا، يتعين على الولايات المتحدة معالجة نقص البيانات والثقة",
   "title_orig": "To compete with China on technology, the United States must address data and trust deficits",
   "title_en": "To compete with China on technology, the United States must address data and trust deficits",
   "summary_ar": [],
@@ -237,14 +248,15 @@
   "country": "US",
   "pending": true,
   "desc": "To compete with China on technology, the United States must address data and trust deficits &nbsp;&nbsp; Atlantic Council",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "0e8e068c84838ea4",
   "origin": "rss",
   "source": "The Economist",
   "author": "",
-  "title_ar": "The War Room newsletter: Is it a drone or a missile?",
+  "title_ar": "النشرة الإخبارية لغرفة الحرب: هل هي طائرة بدون طيار أم صاروخ؟",
   "title_orig": "The War Room newsletter: Is it a drone or a missile?",
   "title_en": "The War Room newsletter: Is it a drone or a missile?",
   "summary_ar": [],
@@ -257,14 +269,15 @@
   "country": "GB",
   "pending": true,
   "desc": "The War Room newsletter: Is it a drone or a missile? &nbsp;&nbsp; The Economist",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "4c7561e7d246a6a4",
   "origin": "rss",
   "source": "Atlantic Council",
   "author": "",
-  "title_ar": "Tomorrow’s fleet: Revitalizing US shipbuilding and the maritime industrial base",
+  "title_ar": "أسطول الغد: تنشيط بناء السفن الأمريكية والقاعدة الصناعية البحرية",
   "title_orig": "Tomorrow’s fleet: Revitalizing US shipbuilding and the maritime industrial base",
   "title_en": "Tomorrow’s fleet: Revitalizing US shipbuilding and the maritime industrial base",
   "summary_ar": [],
@@ -277,7 +290,8 @@
   "country": "US",
   "pending": true,
   "desc": "Tomorrow’s fleet: Revitalizing US shipbuilding and the maritime industrial base &nbsp;&nbsp; Atlantic Council",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "88cb36dc0bce1a57",
@@ -431,7 +445,7 @@
   "origin": "rss",
   "source": "Atlantic Council",
   "author": "",
-  "title_ar": "Women in finance: Accelerators of invention",
+  "title_ar": "المرأة في التمويل: مسرعات الاختراع",
   "title_orig": "Women in finance: Accelerators of invention",
   "title_en": "Women in finance: Accelerators of invention",
   "summary_ar": [],
@@ -444,7 +458,8 @@
   "country": "US",
   "pending": true,
   "desc": "Women in finance: Accelerators of invention &nbsp;&nbsp; Atlantic Council",
-  "lang": "en"
+  "lang": "en",
+  "mt": true
  },
  {
   "id": "978990b45854aad0",
