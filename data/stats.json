@@ -19485,18 +19485,18 @@
    }
   },
   "2026-11-23": {
-   "total": 649,
-   "news": 643,
+   "total": 650,
+   "news": 644,
    "articles": 6,
    "positive": 0,
-   "neutral": 649,
+   "neutral": 650,
    "critical": 0,
    "mbs": 8,
    "countries": {
     "US": 179,
     "SA": 88,
     "DE": 4,
-    "GB": 161,
+    "GB": 162,
     "FR": 19,
     "JP": 2
    },
@@ -19519,7 +19519,7 @@
     "Yeni Safak English": 7,
     "BBC": 20,
     "www.tmgm.com": 2,
-    "Reuters": 104,
+    "Reuters": 105,
     "The Washington Post": 5,
     "Gulf Business": 4,
     "Saudi Gazette": 30,
@@ -19730,7 +19730,7 @@
     ],
     "Reuters": [
      0,
-     104,
+     105,
      0
     ],
     "The Washington Post": [
@@ -21348,11 +21348,11 @@
    }
   },
   "2026-11-25": {
-   "total": 188,
-   "news": 188,
+   "total": 190,
+   "news": 190,
    "articles": 0,
    "positive": 0,
-   "neutral": 188,
+   "neutral": 190,
    "critical": 0,
    "mbs": 8,
    "countries": {
@@ -21436,7 +21436,7 @@
     "아시아경제": 1,
     "DNE Africa": 1,
     "Diari ARA": 1,
-    "Yeni Safak English": 4,
+    "Yeni Safak English": 5,
     "Dubai Eye 103.8": 1,
     "The Filipino Times": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -21454,7 +21454,8 @@
     "The Washington Post": 1,
     "The Arab Weekly": 1,
     "Arabian Business": 1,
-    "وكالة الأنباء السعودية": 1
+    "وكالة الأنباء السعودية": 1,
+    "Hürriyet Daily News": 1
    },
    "sourceTone": {
     "Yemen Online": [
@@ -21814,7 +21815,7 @@
     ],
     "Yeni Safak English": [
      0,
-     4,
+     5,
      0
     ],
     "Dubai Eye 103.8": [
@@ -21903,6 +21904,11 @@
      0
     ],
     "وكالة الأنباء السعودية": [
+     0,
+     1,
+     0
+    ],
+    "Hürriyet Daily News": [
      0,
      1,
      0
