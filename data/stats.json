@@ -21348,15 +21348,15 @@
    }
   },
   "2026-11-25": {
-   "total": 509,
-   "news": 501,
+   "total": 510,
+   "news": 502,
    "articles": 8,
    "positive": 0,
-   "neutral": 509,
+   "neutral": 510,
    "critical": 0,
    "mbs": 12,
    "countries": {
-    "US": 122,
+    "US": 123,
     "GB": 74,
     "SA": 82,
     "DE": 2,
@@ -21448,7 +21448,7 @@
     "الخبر اليمني": 1,
     "اسلام تايمز": 1,
     "Firstpost": 1,
-    "Bloomberg": 31,
+    "Bloomberg": 32,
     "The New Arab": 2,
     "DW.com": 2,
     "The Washington Post": 1,
@@ -21936,7 +21936,7 @@
     ],
     "Bloomberg": [
      0,
-     31,
+     32,
      0
     ],
     "The New Arab": [
