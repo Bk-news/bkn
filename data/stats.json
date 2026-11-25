@@ -20341,16 +20341,16 @@
    }
   },
   "2026-11-24": {
-   "total": 682,
-   "news": 668,
+   "total": 683,
+   "news": 669,
    "articles": 14,
    "positive": 0,
-   "neutral": 682,
+   "neutral": 683,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "SA": 111,
-    "US": 135,
+    "US": 136,
     "GB": 171,
     "JP": 1,
     "FR": 5,
@@ -20366,7 +20366,7 @@
     "BBC": 11,
     "Reuters": 136,
     "Nikkei Asia": 1,
-    "Bloomberg.com": 43,
+    "Bloomberg.com": 44,
     "Al-Monitor": 33,
     "WSJ": 21,
     "The New York Times": 14,
@@ -20561,7 +20561,7 @@
     ],
     "Bloomberg.com": [
      0,
-     43,
+     44,
      0
     ],
     "Al-Monitor": [
@@ -21342,13 +21342,13 @@
    }
   },
   "2026-11-25": {
-   "total": 142,
-   "news": 142,
+   "total": 147,
+   "news": 147,
    "articles": 0,
    "positive": 0,
-   "neutral": 142,
+   "neutral": 147,
    "critical": 0,
-   "mbs": 4,
+   "mbs": 5,
    "countries": {
     "US": 25,
     "GB": 18,
@@ -21359,7 +21359,7 @@
    },
    "topics": {},
    "sources": {
-    "Yemen Online": 1,
+    "Yemen Online": 2,
     "Bloomberg.com": 19,
     "Financial Times": 1,
     "www.tmgm.com": 1,
@@ -21411,7 +21411,7 @@
     "Travel Daily Media": 1,
     "MUFG Research": 1,
     "AP News": 1,
-    "Crypto Briefing": 1,
+    "Crypto Briefing": 2,
     "Al Arabiya English": 1,
     "TradingView": 1,
     "Mehr News Agency": 1,
@@ -21423,14 +21423,16 @@
     "The Maritime Executive": 1,
     "Popbee": 1,
     "Bioengineer.org": 1,
-    "Breakingthenews.net": 1,
+    "Breakingthenews.net": 2,
     "BigGo Finance": 1,
-    "CNBC": 1
+    "CNBC": 1,
+    "UA.NEWS": 1,
+    "아시아경제": 1
    },
    "sourceTone": {
     "Yemen Online": [
      0,
-     1,
+     2,
      0
     ],
     "Bloomberg.com": [
@@ -21690,7 +21692,7 @@
     ],
     "Crypto Briefing": [
      0,
-     1,
+     2,
      0
     ],
     "Al Arabiya English": [
@@ -21750,7 +21752,7 @@
     ],
     "Breakingthenews.net": [
      0,
-     1,
+     2,
      0
     ],
     "BigGo Finance": [
@@ -21759,6 +21761,16 @@
      0
     ],
     "CNBC": [
+     0,
+     1,
+     0
+    ],
+    "UA.NEWS": [
+     0,
+     1,
+     0
+    ],
+    "아시아경제": [
      0,
      1,
      0
