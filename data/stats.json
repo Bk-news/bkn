@@ -20341,13 +20341,13 @@
    }
   },
   "2026-11-24": {
-   "total": 629,
-   "news": 615,
+   "total": 631,
+   "news": 617,
    "articles": 14,
    "positive": 0,
-   "neutral": 629,
+   "neutral": 631,
    "critical": 0,
-   "mbs": 18,
+   "mbs": 19,
    "countries": {
     "SA": 104,
     "US": 113,
@@ -20518,7 +20518,8 @@
     "News of Bahrain": 1,
     "WPLG Local 10": 2,
     "Fana News -": 1,
-    "وكالة الأنباء السعودية": 1
+    "وكالة الأنباء السعودية": 2,
+    "Khaleej Times": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -21317,6 +21318,11 @@
      0
     ],
     "وكالة الأنباء السعودية": [
+     0,
+     2,
+     0
+    ],
+    "Khaleej Times": [
      0,
      1,
      0
