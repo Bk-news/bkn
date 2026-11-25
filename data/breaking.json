@@ -1,5 +1,17 @@
 [
  {
+  "id": "4f5d89d0542e5cfd",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "التحالف: لا إصابات بين المدنيين جراء سقوط شظايا اعتراض مسيرة بمحيط ميناء جدة",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/155577",
+  "published": "2026-11-25T19:34:20.000Z",
+  "subject": "saudi",
+  "added": "2026-11-25T19:34:20.000Z"
+ },
+ {
   "id": "474aff2802090cb1",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -106,29 +118,5 @@
   "published": "2026-11-25T18:37:23.000Z",
   "subject": "saudi",
   "added": "2026-11-25T18:37:23.000Z"
- },
- {
-  "id": "c26deb339542ac61",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "مصادر العربية: رفع حالة الطوارئ في مستشفيات الجيزة بشكل كامل جراء الحريق",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/155567",
-  "published": "2026-11-25T18:35:37.000Z",
-  "subject": "saudi",
-  "added": "2026-11-25T18:35:37.000Z"
- },
- {
-  "id": "f90bd4c6bb667869",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "مصادر العربية: عمليات نقل المصابين في حريق الجيزة بمصر مستمرة حتى الآن",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/155566",
-  "published": "2026-11-25T18:35:02.000Z",
-  "subject": "saudi",
-  "added": "2026-11-25T18:35:02.000Z"
  }
 ]

@@ -21348,17 +21348,17 @@
    }
   },
   "2026-11-25": {
-   "total": 451,
-   "news": 444,
+   "total": 454,
+   "news": 447,
    "articles": 7,
    "positive": 0,
-   "neutral": 451,
+   "neutral": 454,
    "critical": 0,
    "mbs": 11,
    "countries": {
-    "US": 99,
+    "US": 101,
     "GB": 69,
-    "SA": 71,
+    "SA": 72,
     "DE": 2,
     "HK": 2,
     "FR": 11
@@ -21366,7 +21366,7 @@
    "topics": {},
    "sources": {
     "Yemen Online": 4,
-    "Bloomberg.com": 32,
+    "Bloomberg.com": 33,
     "Financial Times": 6,
     "www.tmgm.com": 1,
     "FXEmpire": 2,
@@ -21374,7 +21374,7 @@
     "Middle East Eye": 3,
     "The Express Tribune": 1,
     "Manara Magazine": 1,
-    "Saudi Gazette": 32,
+    "Saudi Gazette": 33,
     "Semafor": 2,
     "Yahoo": 1,
     "Chosunbiz": 1,
@@ -21448,7 +21448,7 @@
     "الخبر اليمني": 1,
     "اسلام تايمز": 1,
     "Firstpost": 1,
-    "Bloomberg": 16,
+    "Bloomberg": 17,
     "The New Arab": 2,
     "DW.com": 1,
     "The Washington Post": 1,
@@ -21518,7 +21518,7 @@
     ],
     "Bloomberg.com": [
      0,
-     32,
+     33,
      0
     ],
     "Financial Times": [
@@ -21558,7 +21558,7 @@
     ],
     "Saudi Gazette": [
      0,
-     32,
+     33,
      0
     ],
     "Semafor": [
@@ -21928,7 +21928,7 @@
     ],
     "Bloomberg": [
      0,
-     16,
+     17,
      0
     ],
     "The New Arab": [
