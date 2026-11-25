@@ -20341,11 +20341,11 @@
    }
   },
   "2026-11-24": {
-   "total": 607,
-   "news": 593,
+   "total": 608,
+   "news": 594,
    "articles": 14,
    "positive": 0,
-   "neutral": 607,
+   "neutral": 608,
    "critical": 0,
    "mbs": 17,
    "countries": {
@@ -20388,7 +20388,7 @@
     "MMA Junkie": 1,
     "Bioengineer.org": 2,
     "Arabian Gulf Business Insight | AGBI": 1,
-    "TradingView": 4,
+    "TradingView": 5,
     "Global Advisory Experts": 16,
     "CGTN": 1,
     "www.tmgm.com": 3,
@@ -20667,7 +20667,7 @@
     ],
     "TradingView": [
      0,
-     4,
+     5,
      0
     ],
     "Global Advisory Experts": [
