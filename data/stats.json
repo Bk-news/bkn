@@ -20341,17 +20341,17 @@
    }
   },
   "2026-11-24": {
-   "total": 576,
-   "news": 562,
+   "total": 592,
+   "news": 578,
    "articles": 14,
    "positive": 0,
-   "neutral": 576,
+   "neutral": 592,
    "critical": 0,
    "mbs": 17,
    "countries": {
-    "SA": 94,
+    "SA": 95,
     "US": 108,
-    "GB": 130,
+    "GB": 141,
     "JP": 1,
     "FR": 5,
     "HK": 3,
@@ -20364,13 +20364,13 @@
     "The Washington Post": 2,
     "Financial Times": 14,
     "BBC": 9,
-    "Reuters": 97,
+    "Reuters": 108,
     "Nikkei Asia": 1,
     "Bloomberg.com": 22,
     "Al-Monitor": 32,
     "WSJ": 19,
     "The New York Times": 13,
-    "Arab News": 79,
+    "Arab News": 80,
     "France 24": 3,
     "AP News": 7,
     "sanad.uk": 1,
@@ -20439,7 +20439,7 @@
     "Israel Hayom": 1,
     "NDTV": 1,
     "Goal.com": 4,
-    "Zawya": 2,
+    "Zawya": 3,
     "Investing.com": 1,
     "BioSpace": 1,
     "MLQ.ai": 1,
@@ -20458,7 +20458,7 @@
     "POLITICO Pro": 1,
     "India Today": 2,
     "Breakingthenews.net": 3,
-    "Arabian Business": 3,
+    "Arabian Business": 4,
     "Construction Review": 1,
     "Military.com": 1,
     "Radio Tamazuj": 1,
@@ -20512,7 +20512,9 @@
     "www.marketscreener.com": 1,
     "Yahoo": 1,
     "Institutional Investor": 1,
-    "Xinhua": 1
+    "Xinhua": 1,
+    "NZ Herald": 1,
+    "The New Indian Express": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -20542,7 +20544,7 @@
     ],
     "Reuters": [
      0,
-     97,
+     108,
      0
     ],
     "Nikkei Asia": [
@@ -20572,7 +20574,7 @@
     ],
     "Arab News": [
      0,
-     79,
+     80,
      0
     ],
     "France 24": [
@@ -20917,7 +20919,7 @@
     ],
     "Zawya": [
      0,
-     2,
+     3,
      0
     ],
     "Investing.com": [
@@ -21012,7 +21014,7 @@
     ],
     "Arabian Business": [
      0,
-     3,
+     4,
      0
     ],
     "Construction Review": [
@@ -21281,6 +21283,16 @@
      0
     ],
     "Xinhua": [
+     0,
+     1,
+     0
+    ],
+    "NZ Herald": [
+     0,
+     1,
+     0
+    ],
+    "The New Indian Express": [
      0,
      1,
      0
