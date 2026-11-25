@@ -20341,16 +20341,16 @@
    }
   },
   "2026-11-24": {
-   "total": 712,
-   "news": 698,
+   "total": 713,
+   "news": 699,
    "articles": 14,
    "positive": 0,
-   "neutral": 712,
+   "neutral": 713,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "SA": 112,
-    "US": 159,
+    "US": 160,
     "GB": 174,
     "JP": 1,
     "FR": 5,
@@ -20372,7 +20372,7 @@
     "The New York Times": 14,
     "Arab News": 98,
     "France 24": 3,
-    "AP News": 10,
+    "AP News": 11,
     "sanad.uk": 1,
     "The Age": 1,
     "The Duke Chronicle": 1,
@@ -20592,7 +20592,7 @@
     ],
     "AP News": [
      0,
-     10,
+     11,
      0
     ],
     "sanad.uk": [
