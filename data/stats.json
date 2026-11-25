@@ -21348,43 +21348,43 @@
    }
   },
   "2026-11-25": {
-   "total": 192,
-   "news": 192,
-   "articles": 0,
+   "total": 232,
+   "news": 227,
+   "articles": 5,
    "positive": 0,
-   "neutral": 192,
+   "neutral": 232,
    "critical": 0,
    "mbs": 8,
    "countries": {
-    "US": 34,
-    "GB": 22,
-    "SA": 28,
+    "US": 51,
+    "GB": 32,
+    "SA": 33,
     "DE": 2,
     "HK": 2,
-    "FR": 1
+    "FR": 3
    },
    "topics": {},
    "sources": {
     "Yemen Online": 2,
-    "Bloomberg.com": 22,
-    "Financial Times": 1,
+    "Bloomberg.com": 23,
+    "Financial Times": 3,
     "www.tmgm.com": 1,
     "FXEmpire": 1,
     "Global Advisory Experts": 7,
     "Middle East Eye": 1,
     "The Express Tribune": 1,
     "Manara Magazine": 1,
-    "Saudi Gazette": 15,
+    "Saudi Gazette": 18,
     "Semafor": 1,
     "Yahoo": 1,
     "Chosunbiz": 1,
-    "Arab News": 14,
-    "WSJ": 4,
+    "Arab News": 17,
+    "WSJ": 6,
     "Spiegel": 2,
-    "Al-Monitor": 3,
-    "BBC": 6,
-    "The Guardian": 3,
-    "Reuters": 13,
+    "Al-Monitor": 6,
+    "BBC": 8,
+    "The Guardian": 5,
+    "Reuters": 16,
     "South China Morning Post": 2,
     "Fakti.bg": 1,
     "سانا": 1,
@@ -21395,10 +21395,10 @@
     "Le Monde.fr": 1,
     "JNS": 1,
     "NDTV Sports": 1,
-    "Anadolu Ajansı": 1,
+    "Anadolu Ajansı": 2,
     "The Jerusalem Post": 2,
     "The Times of India": 1,
-    "The AFC": 3,
+    "The AFC": 4,
     "Cureus": 1,
     "X": 1,
     "Al Jazeera": 1,
@@ -21416,7 +21416,7 @@
     "DAZN": 1,
     "Travel Daily Media": 1,
     "MUFG Research": 1,
-    "AP News": 1,
+    "AP News": 3,
     "Crypto Briefing": 2,
     "Al Arabiya English": 1,
     "TradingView": 1,
@@ -21444,11 +21444,11 @@
     "Open Magazine": 1,
     "طقس العرب": 1,
     "Middle East Council on Global Affairs": 1,
-    "ASHARQ AL-AWSAT English": 2,
+    "ASHARQ AL-AWSAT English": 3,
     "الخبر اليمني": 1,
     "اسلام تايمز": 1,
     "Firstpost": 1,
-    "Bloomberg": 3,
+    "Bloomberg": 4,
     "The New Arab": 1,
     "DW.com": 1,
     "The Washington Post": 1,
@@ -21456,7 +21456,14 @@
     "Arabian Business": 1,
     "وكالة الأنباء السعودية": 1,
     "Hürriyet Daily News": 1,
-    "The New York Times": 1
+    "The New York Times": 3,
+    "WE News English": 1,
+    "Modern Ghana": 1,
+    "Atlantic Council": 3,
+    "Foreign Policy": 1,
+    "CNN": 2,
+    "France 24": 2,
+    "The Economist": 1
    },
    "sourceTone": {
     "Yemen Online": [
@@ -21466,12 +21473,12 @@
     ],
     "Bloomberg.com": [
      0,
-     22,
+     23,
      0
     ],
     "Financial Times": [
      0,
-     1,
+     3,
      0
     ],
     "www.tmgm.com": [
@@ -21506,7 +21513,7 @@
     ],
     "Saudi Gazette": [
      0,
-     15,
+     18,
      0
     ],
     "Semafor": [
@@ -21526,12 +21533,12 @@
     ],
     "Arab News": [
      0,
-     14,
+     17,
      0
     ],
     "WSJ": [
      0,
-     4,
+     6,
      0
     ],
     "Spiegel": [
@@ -21541,22 +21548,22 @@
     ],
     "Al-Monitor": [
      0,
-     3,
+     6,
      0
     ],
     "BBC": [
      0,
-     6,
+     8,
      0
     ],
     "The Guardian": [
      0,
-     3,
+     5,
      0
     ],
     "Reuters": [
      0,
-     13,
+     16,
      0
     ],
     "South China Morning Post": [
@@ -21611,7 +21618,7 @@
     ],
     "Anadolu Ajansı": [
      0,
-     1,
+     2,
      0
     ],
     "The Jerusalem Post": [
@@ -21626,7 +21633,7 @@
     ],
     "The AFC": [
      0,
-     3,
+     4,
      0
     ],
     "Cureus": [
@@ -21716,7 +21723,7 @@
     ],
     "AP News": [
      0,
-     1,
+     3,
      0
     ],
     "Crypto Briefing": [
@@ -21856,7 +21863,7 @@
     ],
     "ASHARQ AL-AWSAT English": [
      0,
-     2,
+     3,
      0
     ],
     "الخبر اليمني": [
@@ -21876,7 +21883,7 @@
     ],
     "Bloomberg": [
      0,
-     3,
+     4,
      0
     ],
     "The New Arab": [
@@ -21915,6 +21922,41 @@
      0
     ],
     "The New York Times": [
+     0,
+     3,
+     0
+    ],
+    "WE News English": [
+     0,
+     1,
+     0
+    ],
+    "Modern Ghana": [
+     0,
+     1,
+     0
+    ],
+    "Atlantic Council": [
+     0,
+     3,
+     0
+    ],
+    "Foreign Policy": [
+     0,
+     1,
+     0
+    ],
+    "CNN": [
+     0,
+     2,
+     0
+    ],
+    "France 24": [
+     0,
+     2,
+     0
+    ],
+    "The Economist": [
      0,
      1,
      0
