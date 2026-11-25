@@ -19485,16 +19485,16 @@
    }
   },
   "2026-11-23": {
-   "total": 623,
-   "news": 617,
+   "total": 624,
+   "news": 618,
    "articles": 6,
    "positive": 0,
-   "neutral": 623,
+   "neutral": 624,
    "critical": 0,
    "mbs": 8,
    "countries": {
     "US": 175,
-    "SA": 87,
+    "SA": 88,
     "DE": 4,
     "GB": 140,
     "FR": 19,
@@ -19504,7 +19504,7 @@
    "sources": {
     "وكالة الأنباء السعودية": 4,
     "WSJ": 22,
-    "Arab News": 69,
+    "Arab News": 70,
     "Spiegel": 4,
     "Sports Gambling Podcast": 1,
     "Arabian Gulf Business Insight | AGBI": 4,
@@ -19655,7 +19655,7 @@
     ],
     "Arab News": [
      0,
-     69,
+     70,
      0
     ],
     "Spiegel": [
@@ -20341,17 +20341,17 @@
    }
   },
   "2026-11-24": {
-   "total": 626,
-   "news": 612,
+   "total": 629,
+   "news": 615,
    "articles": 14,
    "positive": 0,
-   "neutral": 626,
+   "neutral": 629,
    "critical": 0,
    "mbs": 18,
    "countries": {
     "SA": 104,
     "US": 113,
-    "GB": 148,
+    "GB": 151,
     "JP": 1,
     "FR": 5,
     "HK": 3,
@@ -20364,7 +20364,7 @@
     "The Washington Post": 2,
     "Financial Times": 14,
     "BBC": 9,
-    "Reuters": 115,
+    "Reuters": 118,
     "Nikkei Asia": 1,
     "Bloomberg.com": 24,
     "Al-Monitor": 33,
@@ -20548,7 +20548,7 @@
     ],
     "Reuters": [
      0,
-     115,
+     118,
      0
     ],
     "Nikkei Asia": [
