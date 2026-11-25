@@ -21348,15 +21348,15 @@
    }
   },
   "2026-11-25": {
-   "total": 511,
-   "news": 503,
+   "total": 514,
+   "news": 506,
    "articles": 8,
    "positive": 0,
-   "neutral": 511,
+   "neutral": 514,
    "critical": 0,
    "mbs": 12,
    "countries": {
-    "US": 123,
+    "US": 124,
     "GB": 74,
     "SA": 82,
     "DE": 2,
@@ -21370,7 +21370,7 @@
     "Financial Times": 6,
     "www.tmgm.com": 1,
     "FXEmpire": 2,
-    "Global Advisory Experts": 8,
+    "Global Advisory Experts": 9,
     "Middle East Eye": 3,
     "The Express Tribune": 1,
     "Manara Magazine": 1,
@@ -21401,7 +21401,7 @@
     "The AFC": 4,
     "Cureus": 1,
     "X": 1,
-    "Al Jazeera": 1,
+    "Al Jazeera": 2,
     "Seatrade Maritime News": 1,
     "The Business Times": 1,
     "Kurdistan24": 1,
@@ -21448,7 +21448,7 @@
     "الخبر اليمني": 1,
     "اسلام تايمز": 1,
     "Firstpost": 1,
-    "Bloomberg": 32,
+    "Bloomberg": 33,
     "The New Arab": 2,
     "DW.com": 2,
     "The Washington Post": 1,
@@ -21546,7 +21546,7 @@
     ],
     "Global Advisory Experts": [
      0,
-     8,
+     9,
      0
     ],
     "Middle East Eye": [
@@ -21701,7 +21701,7 @@
     ],
     "Al Jazeera": [
      0,
-     1,
+     2,
      0
     ],
     "Seatrade Maritime News": [
@@ -21936,7 +21936,7 @@
     ],
     "Bloomberg": [
      0,
-     32,
+     33,
      0
     ],
     "The New Arab": [
