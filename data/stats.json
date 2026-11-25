@@ -20341,16 +20341,16 @@
    }
   },
   "2026-11-24": {
-   "total": 711,
-   "news": 697,
+   "total": 712,
+   "news": 698,
    "articles": 14,
    "positive": 0,
-   "neutral": 711,
+   "neutral": 712,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "SA": 112,
-    "US": 158,
+    "US": 159,
     "GB": 174,
     "JP": 1,
     "FR": 5,
@@ -20402,7 +20402,7 @@
     "Avi-Go": 4,
     "Atlantic Council": 9,
     "صحيفة سبق الإلكترونية": 4,
-    "Bloomberg": 10,
+    "Bloomberg": 11,
     "South China Morning Post": 4,
     "Spiegel": 2,
     "The Economist": 4,
@@ -20742,7 +20742,7 @@
     ],
     "Bloomberg": [
      0,
-     10,
+     11,
      0
     ],
     "South China Morning Post": [
@@ -21348,16 +21348,16 @@
    }
   },
   "2026-11-25": {
-   "total": 178,
-   "news": 178,
+   "total": 179,
+   "news": 179,
    "articles": 0,
    "positive": 0,
-   "neutral": 178,
+   "neutral": 179,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 30,
-    "GB": 21,
+    "GB": 22,
     "SA": 28,
     "DE": 2,
     "HK": 2,
@@ -21382,7 +21382,7 @@
     "WSJ": 3,
     "Spiegel": 2,
     "Al-Monitor": 3,
-    "BBC": 5,
+    "BBC": 6,
     "The Guardian": 3,
     "Reuters": 13,
     "South China Morning Post": 2,
@@ -21539,7 +21539,7 @@
     ],
     "BBC": [
      0,
-     5,
+     6,
      0
     ],
     "The Guardian": [
