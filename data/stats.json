@@ -20341,13 +20341,13 @@
    }
   },
   "2026-11-24": {
-   "total": 625,
-   "news": 611,
+   "total": 626,
+   "news": 612,
    "articles": 14,
    "positive": 0,
-   "neutral": 625,
+   "neutral": 626,
    "critical": 0,
-   "mbs": 17,
+   "mbs": 18,
    "countries": {
     "SA": 104,
     "US": 113,
@@ -20401,7 +20401,7 @@
     "ASHARQ AL-AWSAT English": 5,
     "Avi-Go": 4,
     "Atlantic Council": 9,
-    "صحيفة سبق الإلكترونية": 3,
+    "صحيفة سبق الإلكترونية": 4,
     "Bloomberg": 10,
     "South China Morning Post": 4,
     "Spiegel": 2,
@@ -20733,7 +20733,7 @@
     ],
     "صحيفة سبق الإلكترونية": [
      0,
-     3,
+     4,
      0
     ],
     "Bloomberg": [
