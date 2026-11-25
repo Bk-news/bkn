@@ -20341,16 +20341,16 @@
    }
   },
   "2026-11-24": {
-   "total": 688,
-   "news": 674,
+   "total": 705,
+   "news": 691,
    "articles": 14,
    "positive": 0,
-   "neutral": 688,
+   "neutral": 705,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "SA": 111,
-    "US": 137,
+    "US": 154,
     "GB": 173,
     "JP": 1,
     "FR": 5,
@@ -20366,7 +20366,7 @@
     "BBC": 11,
     "Reuters": 138,
     "Nikkei Asia": 1,
-    "Bloomberg.com": 45,
+    "Bloomberg.com": 62,
     "Al-Monitor": 33,
     "WSJ": 21,
     "The New York Times": 14,
@@ -20562,7 +20562,7 @@
     ],
     "Bloomberg.com": [
      0,
-     45,
+     62,
      0
     ],
     "Al-Monitor": [
@@ -21348,17 +21348,17 @@
    }
   },
   "2026-11-25": {
-   "total": 157,
-   "news": 157,
+   "total": 162,
+   "news": 162,
    "articles": 0,
    "positive": 0,
-   "neutral": 157,
+   "neutral": 162,
    "critical": 0,
    "mbs": 5,
    "countries": {
-    "US": 25,
+    "US": 28,
     "GB": 19,
-    "SA": 25,
+    "SA": 26,
     "DE": 2,
     "HK": 2,
     "FR": 1
@@ -21366,7 +21366,7 @@
    "topics": {},
    "sources": {
     "Yemen Online": 2,
-    "Bloomberg.com": 19,
+    "Bloomberg.com": 22,
     "Financial Times": 1,
     "www.tmgm.com": 1,
     "FXEmpire": 1,
@@ -21378,7 +21378,7 @@
     "Semafor": 1,
     "Yahoo": 1,
     "Chosunbiz": 1,
-    "Arab News": 11,
+    "Arab News": 12,
     "WSJ": 3,
     "Spiegel": 2,
     "Al-Monitor": 3,
@@ -21441,7 +21441,8 @@
     "The Filipino Times": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
     "Gulf Business": 1,
-    "Open Magazine": 1
+    "Open Magazine": 1,
+    "طقس العرب": 1
    },
    "sourceTone": {
     "Yemen Online": [
@@ -21451,7 +21452,7 @@
     ],
     "Bloomberg.com": [
      0,
-     19,
+     22,
      0
     ],
     "Financial Times": [
@@ -21511,7 +21512,7 @@
     ],
     "Arab News": [
      0,
-     11,
+     12,
      0
     ],
     "WSJ": [
@@ -21825,6 +21826,11 @@
      0
     ],
     "Open Magazine": [
+     0,
+     1,
+     0
+    ],
+    "طقس العرب": [
      0,
      1,
      0
