@@ -20341,17 +20341,17 @@
    }
   },
   "2026-11-24": {
-   "total": 638,
-   "news": 624,
+   "total": 657,
+   "news": 643,
    "articles": 14,
    "positive": 0,
-   "neutral": 638,
+   "neutral": 657,
    "critical": 0,
    "mbs": 19,
    "countries": {
-    "SA": 104,
-    "US": 116,
-    "GB": 155,
+    "SA": 111,
+    "US": 119,
+    "GB": 163,
     "JP": 1,
     "FR": 5,
     "HK": 3,
@@ -20364,13 +20364,13 @@
     "The Washington Post": 2,
     "Financial Times": 14,
     "BBC": 11,
-    "Reuters": 120,
+    "Reuters": 128,
     "Nikkei Asia": 1,
-    "Bloomberg.com": 24,
+    "Bloomberg.com": 27,
     "Al-Monitor": 33,
     "WSJ": 21,
     "The New York Times": 14,
-    "Arab News": 90,
+    "Arab News": 97,
     "France 24": 3,
     "AP News": 9,
     "sanad.uk": 1,
@@ -20519,7 +20519,8 @@
     "WPLG Local 10": 2,
     "Fana News -": 1,
     "وكالة الأنباء السعودية": 2,
-    "Khaleej Times": 1
+    "Khaleej Times": 1,
+    "Jerusalem Center for Security and Foreign Affairs": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -20549,7 +20550,7 @@
     ],
     "Reuters": [
      0,
-     120,
+     128,
      0
     ],
     "Nikkei Asia": [
@@ -20559,7 +20560,7 @@
     ],
     "Bloomberg.com": [
      0,
-     24,
+     27,
      0
     ],
     "Al-Monitor": [
@@ -20579,7 +20580,7 @@
     ],
     "Arab News": [
      0,
-     90,
+     97,
      0
     ],
     "France 24": [
@@ -21326,21 +21327,26 @@
      0,
      1,
      0
+    ],
+    "Jerusalem Center for Security and Foreign Affairs": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-25": {
-   "total": 83,
-   "news": 83,
+   "total": 104,
+   "news": 104,
    "articles": 0,
    "positive": 0,
-   "neutral": 83,
+   "neutral": 104,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "US": 18,
-    "GB": 16,
-    "SA": 20,
+    "US": 24,
+    "GB": 18,
+    "SA": 24,
     "DE": 2,
     "HK": 2,
     "FR": 1
@@ -21348,7 +21354,7 @@
    "topics": {},
    "sources": {
     "Yemen Online": 1,
-    "Bloomberg.com": 13,
+    "Bloomberg.com": 18,
     "Financial Times": 1,
     "www.tmgm.com": 1,
     "FXEmpire": 1,
@@ -21356,17 +21362,17 @@
     "Middle East Eye": 1,
     "The Express Tribune": 1,
     "Manara Magazine": 1,
-    "Saudi Gazette": 13,
+    "Saudi Gazette": 15,
     "Semafor": 1,
     "Yahoo": 1,
     "Chosunbiz": 1,
-    "Arab News": 8,
+    "Arab News": 10,
     "WSJ": 3,
     "Spiegel": 2,
-    "Al-Monitor": 2,
+    "Al-Monitor": 3,
     "BBC": 4,
-    "The Guardian": 2,
-    "Reuters": 9,
+    "The Guardian": 3,
+    "Reuters": 11,
     "South China Morning Post": 2,
     "Fakti.bg": 1,
     "سانا": 1,
@@ -21378,9 +21384,16 @@
     "JNS": 1,
     "NDTV Sports": 1,
     "Anadolu Ajansı": 1,
-    "The Jerusalem Post": 1,
+    "The Jerusalem Post": 2,
     "The Times of India": 1,
-    "The AFC": 1
+    "The AFC": 1,
+    "Cureus": 1,
+    "X": 1,
+    "Al Jazeera": 1,
+    "Seatrade Maritime News": 1,
+    "The Business Times": 1,
+    "Kurdistan24": 1,
+    "TRT World": 1
    },
    "sourceTone": {
     "Yemen Online": [
@@ -21390,7 +21403,7 @@
     ],
     "Bloomberg.com": [
      0,
-     13,
+     18,
      0
     ],
     "Financial Times": [
@@ -21430,7 +21443,7 @@
     ],
     "Saudi Gazette": [
      0,
-     13,
+     15,
      0
     ],
     "Semafor": [
@@ -21450,7 +21463,7 @@
     ],
     "Arab News": [
      0,
-     8,
+     10,
      0
     ],
     "WSJ": [
@@ -21465,7 +21478,7 @@
     ],
     "Al-Monitor": [
      0,
-     2,
+     3,
      0
     ],
     "BBC": [
@@ -21475,12 +21488,12 @@
     ],
     "The Guardian": [
      0,
-     2,
+     3,
      0
     ],
     "Reuters": [
      0,
-     9,
+     11,
      0
     ],
     "South China Morning Post": [
@@ -21540,7 +21553,7 @@
     ],
     "The Jerusalem Post": [
      0,
-     1,
+     2,
      0
     ],
     "The Times of India": [
@@ -21549,6 +21562,41 @@
      0
     ],
     "The AFC": [
+     0,
+     1,
+     0
+    ],
+    "Cureus": [
+     0,
+     1,
+     0
+    ],
+    "X": [
+     0,
+     1,
+     0
+    ],
+    "Al Jazeera": [
+     0,
+     1,
+     0
+    ],
+    "Seatrade Maritime News": [
+     0,
+     1,
+     0
+    ],
+    "The Business Times": [
+     0,
+     1,
+     0
+    ],
+    "Kurdistan24": [
+     0,
+     1,
+     0
+    ],
+    "TRT World": [
      0,
      1,
      0
