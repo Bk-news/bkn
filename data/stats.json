@@ -20341,11 +20341,11 @@
    }
   },
   "2026-11-24": {
-   "total": 743,
-   "news": 729,
+   "total": 744,
+   "news": 730,
    "articles": 14,
    "positive": 0,
-   "neutral": 743,
+   "neutral": 744,
    "critical": 0,
    "mbs": 19,
    "countries": {
@@ -20522,7 +20522,8 @@
     "Khaleej Times": 1,
     "Jerusalem Center for Security and Foreign Affairs": 1,
     "Oil & Gas 360": 1,
-    "EnterpriseAM": 1
+    "EnterpriseAM": 1,
+    "Qatar Tribune": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -21344,20 +21345,25 @@
      0,
      1,
      0
+    ],
+    "Qatar Tribune": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-25": {
-   "total": 514,
-   "news": 506,
+   "total": 517,
+   "news": 509,
    "articles": 8,
    "positive": 0,
-   "neutral": 514,
+   "neutral": 517,
    "critical": 0,
    "mbs": 12,
    "countries": {
     "US": 124,
-    "GB": 74,
+    "GB": 75,
     "SA": 82,
     "DE": 2,
     "HK": 2,
@@ -21383,7 +21389,7 @@
     "Spiegel": 2,
     "Al-Monitor": 20,
     "BBC": 14,
-    "The Guardian": 15,
+    "The Guardian": 16,
     "Reuters": 42,
     "South China Morning Post": 2,
     "Fakti.bg": 1,
@@ -21447,7 +21453,7 @@
     "ASHARQ AL-AWSAT English": 8,
     "الخبر اليمني": 1,
     "اسلام تايمز": 1,
-    "Firstpost": 1,
+    "Firstpost": 2,
     "Bloomberg": 33,
     "The New Arab": 2,
     "DW.com": 2,
@@ -21516,7 +21522,8 @@
     "Marine Insight": 1,
     "Haaretz": 1,
     "Variety": 1,
-    "The Mirror US": 1
+    "The Mirror US": 1,
+    "ARYnews.tv": 1
    },
    "sourceTone": {
     "Yemen Online": [
@@ -21611,7 +21618,7 @@
     ],
     "The Guardian": [
      0,
-     15,
+     16,
      0
     ],
     "Reuters": [
@@ -21931,7 +21938,7 @@
     ],
     "Firstpost": [
      0,
-     1,
+     2,
      0
     ],
     "Bloomberg": [
@@ -22275,6 +22282,11 @@
      0
     ],
     "The Mirror US": [
+     0,
+     1,
+     0
+    ],
+    "ARYnews.tv": [
      0,
      1,
      0
