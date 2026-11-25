@@ -21318,16 +21318,17 @@
    }
   },
   "2026-11-25": {
-   "total": 10,
-   "news": 10,
+   "total": 11,
+   "news": 11,
    "articles": 0,
    "positive": 0,
-   "neutral": 10,
+   "neutral": 11,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "US": 1,
-    "GB": 1
+    "GB": 1,
+    "SA": 1
    },
    "topics": {},
    "sources": {
@@ -21339,7 +21340,8 @@
     "Global Advisory Experts": 2,
     "Middle East Eye": 1,
     "The Express Tribune": 1,
-    "Manara Magazine": 1
+    "Manara Magazine": 1,
+    "Saudi Gazette": 1
    },
    "sourceTone": {
     "Yemen Online": [
@@ -21383,6 +21385,11 @@
      0
     ],
     "Manara Magazine": [
+     0,
+     1,
+     0
+    ],
+    "Saudi Gazette": [
      0,
      1,
      0
