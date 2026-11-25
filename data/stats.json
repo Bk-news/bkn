@@ -20341,16 +20341,16 @@
    }
   },
   "2026-11-24": {
-   "total": 737,
-   "news": 723,
+   "total": 740,
+   "news": 726,
    "articles": 14,
    "positive": 0,
-   "neutral": 737,
+   "neutral": 740,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "SA": 113,
-    "US": 166,
+    "US": 169,
     "GB": 191,
     "JP": 1,
     "FR": 5,
@@ -20402,7 +20402,7 @@
     "Avi-Go": 4,
     "Atlantic Council": 9,
     "صحيفة سبق الإلكترونية": 4,
-    "Bloomberg": 12,
+    "Bloomberg": 15,
     "South China Morning Post": 4,
     "Spiegel": 2,
     "The Economist": 4,
@@ -20742,7 +20742,7 @@
     ],
     "Bloomberg": [
      0,
-     12,
+     15,
      0
     ],
     "South China Morning Post": [
@@ -21348,15 +21348,15 @@
    }
   },
   "2026-11-25": {
-   "total": 478,
-   "news": 471,
+   "total": 486,
+   "news": 479,
    "articles": 7,
    "positive": 0,
-   "neutral": 478,
+   "neutral": 486,
    "critical": 0,
    "mbs": 11,
    "countries": {
-    "US": 111,
+    "US": 119,
     "GB": 70,
     "SA": 73,
     "DE": 2,
@@ -21366,7 +21366,7 @@
    "topics": {},
    "sources": {
     "Yemen Online": 5,
-    "Bloomberg.com": 35,
+    "Bloomberg.com": 37,
     "Financial Times": 6,
     "www.tmgm.com": 1,
     "FXEmpire": 2,
@@ -21448,7 +21448,7 @@
     "الخبر اليمني": 1,
     "اسلام تايمز": 1,
     "Firstpost": 1,
-    "Bloomberg": 24,
+    "Bloomberg": 30,
     "The New Arab": 2,
     "DW.com": 2,
     "The Washington Post": 1,
@@ -21524,7 +21524,7 @@
     ],
     "Bloomberg.com": [
      0,
-     35,
+     37,
      0
     ],
     "Financial Times": [
@@ -21934,7 +21934,7 @@
     ],
     "Bloomberg": [
      0,
-     24,
+     30,
      0
     ],
     "The New Arab": [
