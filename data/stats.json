@@ -19485,18 +19485,18 @@
    }
   },
   "2026-11-23": {
-   "total": 656,
-   "news": 650,
+   "total": 657,
+   "news": 651,
    "articles": 6,
    "positive": 0,
-   "neutral": 656,
+   "neutral": 657,
    "critical": 0,
    "mbs": 8,
    "countries": {
     "US": 180,
     "SA": 88,
     "DE": 4,
-    "GB": 167,
+    "GB": 168,
     "FR": 19,
     "JP": 2
    },
@@ -19519,7 +19519,7 @@
     "Yeni Safak English": 7,
     "BBC": 20,
     "www.tmgm.com": 2,
-    "Reuters": 108,
+    "Reuters": 109,
     "The Washington Post": 5,
     "Gulf Business": 4,
     "Saudi Gazette": 30,
@@ -19730,7 +19730,7 @@
     ],
     "Reuters": [
      0,
-     108,
+     109,
      0
     ],
     "The Washington Post": [
@@ -21348,11 +21348,11 @@
    }
   },
   "2026-11-25": {
-   "total": 444,
-   "news": 437,
+   "total": 451,
+   "news": 444,
    "articles": 7,
    "positive": 0,
-   "neutral": 444,
+   "neutral": 451,
    "critical": 0,
    "mbs": 11,
    "countries": {
@@ -21366,7 +21366,7 @@
    "topics": {},
    "sources": {
     "Yemen Online": 4,
-    "Bloomberg.com": 31,
+    "Bloomberg.com": 32,
     "Financial Times": 6,
     "www.tmgm.com": 1,
     "FXEmpire": 2,
@@ -21431,7 +21431,7 @@
     "Bioengineer.org": 2,
     "Breakingthenews.net": 2,
     "BigGo Finance": 1,
-    "CNBC": 2,
+    "CNBC": 3,
     "UA.NEWS": 3,
     "아시아경제": 1,
     "DNE Africa": 1,
@@ -21456,7 +21456,7 @@
     "Arabian Business": 1,
     "وكالة الأنباء السعودية": 2,
     "Hürriyet Daily News": 1,
-    "The New York Times": 5,
+    "The New York Times": 6,
     "WE News English": 1,
     "Modern Ghana": 1,
     "Atlantic Council": 5,
@@ -21504,7 +21504,11 @@
     "Fox Business": 1,
     "marketscreener.com": 1,
     "The Circuit": 1,
-    "MEMRI | Middle East Media Research Institute": 1
+    "MEMRI | Middle East Media Research Institute": 1,
+    "Defence Industry Europe": 1,
+    "Forbes Middle East": 1,
+    "Fortune": 1,
+    "https://debuglies.com": 1
    },
    "sourceTone": {
     "Yemen Online": [
@@ -21514,7 +21518,7 @@
     ],
     "Bloomberg.com": [
      0,
-     31,
+     32,
      0
     ],
     "Financial Times": [
@@ -21839,7 +21843,7 @@
     ],
     "CNBC": [
      0,
-     2,
+     3,
      0
     ],
     "UA.NEWS": [
@@ -21964,7 +21968,7 @@
     ],
     "The New York Times": [
      0,
-     5,
+     6,
      0
     ],
     "WE News English": [
@@ -22203,6 +22207,26 @@
      0
     ],
     "MEMRI | Middle East Media Research Institute": [
+     0,
+     1,
+     0
+    ],
+    "Defence Industry Europe": [
+     0,
+     1,
+     0
+    ],
+    "Forbes Middle East": [
+     0,
+     1,
+     0
+    ],
+    "Fortune": [
+     0,
+     1,
+     0
+    ],
+    "https://debuglies.com": [
      0,
      1,
      0

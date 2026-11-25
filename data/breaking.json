@@ -1,5 +1,17 @@
 [
  {
+  "id": "474aff2802090cb1",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "التحالف: تدمير مسيرة بمحيط ميناء جدة أطلقتها الميليشيا الحوثية",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/155576",
+  "published": "2026-11-25T19:34:02.000Z",
+  "subject": "saudi",
+  "added": "2026-11-25T19:34:02.000Z"
+ },
+ {
   "id": "dc23bb9c18915b6a",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -118,17 +130,5 @@
   "published": "2026-11-25T18:35:02.000Z",
   "subject": "saudi",
   "added": "2026-11-25T18:35:02.000Z"
- },
- {
-  "id": "d43bbaebc1d731af",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "مصادر العربية: سيارة المواد البترولية المحترقة بمصر تخص شخصا يعمل في مجال البناء",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/155565",
-  "published": "2026-11-25T18:34:21.000Z",
-  "subject": "saudi",
-  "added": "2026-11-25T18:34:21.000Z"
  }
 ]
