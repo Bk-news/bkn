@@ -19485,18 +19485,18 @@
    }
   },
   "2026-11-23": {
-   "total": 646,
-   "news": 640,
+   "total": 647,
+   "news": 641,
    "articles": 6,
    "positive": 0,
-   "neutral": 646,
+   "neutral": 647,
    "critical": 0,
    "mbs": 8,
    "countries": {
     "US": 179,
     "SA": 88,
     "DE": 4,
-    "GB": 158,
+    "GB": 159,
     "FR": 19,
     "JP": 2
    },
@@ -19519,7 +19519,7 @@
     "Yeni Safak English": 7,
     "BBC": 20,
     "www.tmgm.com": 2,
-    "Reuters": 103,
+    "Reuters": 104,
     "The Washington Post": 5,
     "Gulf Business": 4,
     "Saudi Gazette": 30,
@@ -19730,7 +19730,7 @@
     ],
     "Reuters": [
      0,
-     103,
+     104,
      0
     ],
     "The Washington Post": [
@@ -21348,11 +21348,11 @@
    }
   },
   "2026-11-25": {
-   "total": 162,
-   "news": 162,
+   "total": 165,
+   "news": 165,
    "articles": 0,
    "positive": 0,
-   "neutral": 162,
+   "neutral": 165,
    "critical": 0,
    "mbs": 5,
    "countries": {
@@ -21432,7 +21432,7 @@
     "Breakingthenews.net": 2,
     "BigGo Finance": 1,
     "CNBC": 1,
-    "UA.NEWS": 1,
+    "UA.NEWS": 2,
     "아시아경제": 1,
     "DNE Africa": 1,
     "Diari ARA": 1,
@@ -21442,7 +21442,9 @@
     "Arabian Gulf Business Insight | AGBI": 1,
     "Gulf Business": 1,
     "Open Magazine": 1,
-    "طقس العرب": 1
+    "طقس العرب": 1,
+    "Middle East Council on Global Affairs": 1,
+    "ASHARQ AL-AWSAT English": 1
    },
    "sourceTone": {
     "Yemen Online": [
@@ -21782,7 +21784,7 @@
     ],
     "UA.NEWS": [
      0,
-     1,
+     2,
      0
     ],
     "아시아경제": [
@@ -21831,6 +21833,16 @@
      0
     ],
     "طقس العرب": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Council on Global Affairs": [
+     0,
+     1,
+     0
+    ],
+    "ASHARQ AL-AWSAT English": [
      0,
      1,
      0
