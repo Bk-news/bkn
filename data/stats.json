@@ -19485,18 +19485,18 @@
    }
   },
   "2026-11-23": {
-   "total": 647,
-   "news": 641,
+   "total": 648,
+   "news": 642,
    "articles": 6,
    "positive": 0,
-   "neutral": 647,
+   "neutral": 648,
    "critical": 0,
    "mbs": 8,
    "countries": {
     "US": 179,
     "SA": 88,
     "DE": 4,
-    "GB": 159,
+    "GB": 160,
     "FR": 19,
     "JP": 2
    },
@@ -19515,7 +19515,7 @@
     "FXStreet": 1,
     "TradingView": 3,
     "Bloomberg.com": 81,
-    "The Guardian": 23,
+    "The Guardian": 24,
     "Yeni Safak English": 7,
     "BBC": 20,
     "www.tmgm.com": 2,
@@ -19710,7 +19710,7 @@
     ],
     "The Guardian": [
      0,
-     23,
+     24,
      0
     ],
     "Yeni Safak English": [
@@ -20341,17 +20341,17 @@
    }
   },
   "2026-11-24": {
-   "total": 709,
-   "news": 695,
+   "total": 710,
+   "news": 696,
    "articles": 14,
    "positive": 0,
-   "neutral": 709,
+   "neutral": 710,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "SA": 111,
     "US": 158,
-    "GB": 173,
+    "GB": 174,
     "JP": 1,
     "FR": 5,
     "HK": 3,
@@ -20364,7 +20364,7 @@
     "The Washington Post": 2,
     "Financial Times": 14,
     "BBC": 11,
-    "Reuters": 138,
+    "Reuters": 139,
     "Nikkei Asia": 1,
     "Bloomberg.com": 65,
     "Al-Monitor": 33,
@@ -20552,7 +20552,7 @@
     ],
     "Reuters": [
      0,
-     138,
+     139,
      0
     ],
     "Nikkei Asia": [
@@ -21348,11 +21348,11 @@
    }
   },
   "2026-11-25": {
-   "total": 170,
-   "news": 170,
+   "total": 171,
+   "news": 171,
    "articles": 0,
    "positive": 0,
-   "neutral": 170,
+   "neutral": 171,
    "critical": 0,
    "mbs": 5,
    "countries": {
@@ -21445,7 +21445,8 @@
     "طقس العرب": 1,
     "Middle East Council on Global Affairs": 1,
     "ASHARQ AL-AWSAT English": 2,
-    "الخبر اليمني": 1
+    "الخبر اليمني": 1,
+    "اسلام تايمز": 1
    },
    "sourceTone": {
     "Yemen Online": [
@@ -21849,6 +21850,11 @@
      0
     ],
     "الخبر اليمني": [
+     0,
+     1,
+     0
+    ],
+    "اسلام تايمز": [
      0,
      1,
      0
