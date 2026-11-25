@@ -21348,11 +21348,11 @@
    }
   },
   "2026-11-25": {
-   "total": 507,
-   "news": 499,
+   "total": 508,
+   "news": 500,
    "articles": 8,
    "positive": 0,
-   "neutral": 507,
+   "neutral": 508,
    "critical": 0,
    "mbs": 12,
    "countries": {
@@ -21409,7 +21409,7 @@
     "Finimize": 2,
     "Free Press Kashmir": 2,
     "The Telegraph": 1,
-    "https://houseofsaud.com/": 5,
+    "https://houseofsaud.com/": 6,
     "Internazionale": 1,
     "Asia Times": 1,
     "The National": 2,
@@ -21741,7 +21741,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     5,
+     6,
      0
     ],
     "Internazionale": [
