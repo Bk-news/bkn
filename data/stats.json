@@ -21348,17 +21348,17 @@
    }
   },
   "2026-11-25": {
-   "total": 488,
-   "news": 481,
+   "total": 491,
+   "news": 484,
    "articles": 7,
    "positive": 0,
-   "neutral": 488,
+   "neutral": 491,
    "critical": 0,
-   "mbs": 11,
+   "mbs": 12,
    "countries": {
-    "US": 119,
+    "US": 120,
     "GB": 71,
-    "SA": 73,
+    "SA": 74,
     "DE": 2,
     "HK": 2,
     "FR": 11
@@ -21378,7 +21378,7 @@
     "Semafor": 2,
     "Yahoo": 1,
     "Chosunbiz": 1,
-    "Arab News": 48,
+    "Arab News": 49,
     "WSJ": 16,
     "Spiegel": 2,
     "Al-Monitor": 20,
@@ -21448,7 +21448,7 @@
     "الخبر اليمني": 1,
     "اسلام تايمز": 1,
     "Firstpost": 1,
-    "Bloomberg": 30,
+    "Bloomberg": 31,
     "The New Arab": 2,
     "DW.com": 2,
     "The Washington Post": 1,
@@ -21471,7 +21471,7 @@
     "Facebook": 2,
     "MLQ.ai": 1,
     "SABC News": 1,
-    "DD News": 1,
+    "DD News": 2,
     "Daily Sun": 1,
     "The Korea Herald": 1,
     "شفق نيوز": 1,
@@ -21584,7 +21584,7 @@
     ],
     "Arab News": [
      0,
-     48,
+     49,
      0
     ],
     "WSJ": [
@@ -21934,7 +21934,7 @@
     ],
     "Bloomberg": [
      0,
-     30,
+     31,
      0
     ],
     "The New Arab": [
@@ -22049,7 +22049,7 @@
     ],
     "DD News": [
      0,
-     1,
+     2,
      0
     ],
     "Daily Sun": [
