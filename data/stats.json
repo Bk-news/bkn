@@ -19485,18 +19485,18 @@
    }
   },
   "2026-11-23": {
-   "total": 650,
-   "news": 644,
+   "total": 651,
+   "news": 645,
    "articles": 6,
    "positive": 0,
-   "neutral": 650,
+   "neutral": 651,
    "critical": 0,
    "mbs": 8,
    "countries": {
     "US": 179,
     "SA": 88,
     "DE": 4,
-    "GB": 162,
+    "GB": 163,
     "FR": 19,
     "JP": 2
    },
@@ -19526,7 +19526,7 @@
     "Le Monde.fr": 5,
     "Al-Monitor": 28,
     "AP News": 13,
-    "Financial Times": 11,
+    "Financial Times": 12,
     "France 24": 14,
     "The New York Times": 21,
     "Nikkei Asia": 2,
@@ -19765,7 +19765,7 @@
     ],
     "Financial Times": [
      0,
-     11,
+     12,
      0
     ],
     "France 24": [
@@ -21348,25 +21348,25 @@
    }
   },
   "2026-11-25": {
-   "total": 272,
-   "news": 265,
+   "total": 311,
+   "news": 304,
    "articles": 7,
    "positive": 0,
-   "neutral": 272,
+   "neutral": 311,
    "critical": 0,
    "mbs": 8,
    "countries": {
-    "US": 65,
-    "GB": 43,
-    "SA": 39,
+    "US": 76,
+    "GB": 52,
+    "SA": 47,
     "DE": 2,
     "HK": 2,
-    "FR": 6
+    "FR": 10
    },
    "topics": {},
    "sources": {
     "Yemen Online": 2,
-    "Bloomberg.com": 25,
+    "Bloomberg.com": 26,
     "Financial Times": 5,
     "www.tmgm.com": 1,
     "FXEmpire": 2,
@@ -21374,20 +21374,20 @@
     "Middle East Eye": 1,
     "The Express Tribune": 1,
     "Manara Magazine": 1,
-    "Saudi Gazette": 21,
+    "Saudi Gazette": 25,
     "Semafor": 1,
     "Yahoo": 1,
     "Chosunbiz": 1,
-    "Arab News": 20,
-    "WSJ": 9,
+    "Arab News": 24,
+    "WSJ": 12,
     "Spiegel": 2,
-    "Al-Monitor": 9,
-    "BBC": 11,
-    "The Guardian": 8,
-    "Reuters": 19,
+    "Al-Monitor": 13,
+    "BBC": 13,
+    "The Guardian": 12,
+    "Reuters": 22,
     "South China Morning Post": 2,
     "Fakti.bg": 1,
-    "سانا": 1,
+    "سانا": 2,
     "Khaama Press": 1,
     "SpaceWatch.GLOBAL": 1,
     "Condé Nast Traveller Middle East": 2,
@@ -21396,7 +21396,7 @@
     "JNS": 1,
     "NDTV Sports": 1,
     "Anadolu Ajansı": 2,
-    "The Jerusalem Post": 2,
+    "The Jerusalem Post": 3,
     "The Times of India": 1,
     "The AFC": 4,
     "Cureus": 1,
@@ -21431,7 +21431,7 @@
     "Bioengineer.org": 2,
     "Breakingthenews.net": 2,
     "BigGo Finance": 1,
-    "CNBC": 1,
+    "CNBC": 2,
     "UA.NEWS": 2,
     "아시아경제": 1,
     "DNE Africa": 1,
@@ -21448,7 +21448,7 @@
     "الخبر اليمني": 1,
     "اسلام تايمز": 1,
     "Firstpost": 1,
-    "Bloomberg": 5,
+    "Bloomberg": 8,
     "The New Arab": 1,
     "DW.com": 1,
     "The Washington Post": 1,
@@ -21462,12 +21462,16 @@
     "Atlantic Council": 5,
     "Foreign Policy": 1,
     "CNN": 2,
-    "France 24": 5,
+    "France 24": 9,
     "The Economist": 1,
     "Employee Happiness Daily": 1,
     "TVB": 1,
     "Middle East Monitor": 1,
-    "TheWire.in": 1
+    "TheWire.in": 1,
+    "Facebook": 1,
+    "MLQ.ai": 1,
+    "SABC News": 1,
+    "DD News": 1
    },
    "sourceTone": {
     "Yemen Online": [
@@ -21477,7 +21481,7 @@
     ],
     "Bloomberg.com": [
      0,
-     25,
+     26,
      0
     ],
     "Financial Times": [
@@ -21517,7 +21521,7 @@
     ],
     "Saudi Gazette": [
      0,
-     21,
+     25,
      0
     ],
     "Semafor": [
@@ -21537,12 +21541,12 @@
     ],
     "Arab News": [
      0,
-     20,
+     24,
      0
     ],
     "WSJ": [
      0,
-     9,
+     12,
      0
     ],
     "Spiegel": [
@@ -21552,22 +21556,22 @@
     ],
     "Al-Monitor": [
      0,
-     9,
+     13,
      0
     ],
     "BBC": [
      0,
-     11,
+     13,
      0
     ],
     "The Guardian": [
      0,
-     8,
+     12,
      0
     ],
     "Reuters": [
      0,
-     19,
+     22,
      0
     ],
     "South China Morning Post": [
@@ -21582,7 +21586,7 @@
     ],
     "سانا": [
      0,
-     1,
+     2,
      0
     ],
     "Khaama Press": [
@@ -21627,7 +21631,7 @@
     ],
     "The Jerusalem Post": [
      0,
-     2,
+     3,
      0
     ],
     "The Times of India": [
@@ -21802,7 +21806,7 @@
     ],
     "CNBC": [
      0,
-     1,
+     2,
      0
     ],
     "UA.NEWS": [
@@ -21887,7 +21891,7 @@
     ],
     "Bloomberg": [
      0,
-     5,
+     8,
      0
     ],
     "The New Arab": [
@@ -21957,7 +21961,7 @@
     ],
     "France 24": [
      0,
-     5,
+     9,
      0
     ],
     "The Economist": [
@@ -21981,6 +21985,26 @@
      0
     ],
     "TheWire.in": [
+     0,
+     1,
+     0
+    ],
+    "Facebook": [
+     0,
+     1,
+     0
+    ],
+    "MLQ.ai": [
+     0,
+     1,
+     0
+    ],
+    "SABC News": [
+     0,
+     1,
+     0
+    ],
+    "DD News": [
      0,
      1,
      0
