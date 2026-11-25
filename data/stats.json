@@ -19485,18 +19485,18 @@
    }
   },
   "2026-11-23": {
-   "total": 628,
-   "news": 622,
+   "total": 633,
+   "news": 627,
    "articles": 6,
    "positive": 0,
-   "neutral": 628,
+   "neutral": 633,
    "critical": 0,
    "mbs": 8,
    "countries": {
     "US": 175,
     "SA": 88,
     "DE": 4,
-    "GB": 144,
+    "GB": 149,
     "FR": 19,
     "JP": 2
    },
@@ -19519,7 +19519,7 @@
     "Yeni Safak English": 7,
     "BBC": 20,
     "www.tmgm.com": 2,
-    "Reuters": 89,
+    "Reuters": 94,
     "The Washington Post": 5,
     "Gulf Business": 4,
     "Saudi Gazette": 30,
@@ -19730,7 +19730,7 @@
     ],
     "Reuters": [
      0,
-     89,
+     94,
      0
     ],
     "The Washington Post": [
@@ -20341,17 +20341,17 @@
    }
   },
   "2026-11-24": {
-   "total": 657,
-   "news": 643,
+   "total": 678,
+   "news": 664,
    "articles": 14,
    "positive": 0,
-   "neutral": 657,
+   "neutral": 678,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "SA": 111,
-    "US": 119,
-    "GB": 163,
+    "US": 132,
+    "GB": 171,
     "JP": 1,
     "FR": 5,
     "HK": 3,
@@ -20364,9 +20364,9 @@
     "The Washington Post": 2,
     "Financial Times": 14,
     "BBC": 11,
-    "Reuters": 128,
+    "Reuters": 136,
     "Nikkei Asia": 1,
-    "Bloomberg.com": 27,
+    "Bloomberg.com": 40,
     "Al-Monitor": 33,
     "WSJ": 21,
     "The New York Times": 14,
@@ -20550,7 +20550,7 @@
     ],
     "Reuters": [
      0,
-     128,
+     136,
      0
     ],
     "Nikkei Asia": [
@@ -20560,7 +20560,7 @@
     ],
     "Bloomberg.com": [
      0,
-     27,
+     40,
      0
     ],
     "Al-Monitor": [
@@ -21336,11 +21336,11 @@
    }
   },
   "2026-11-25": {
-   "total": 104,
-   "news": 104,
+   "total": 118,
+   "news": 118,
    "articles": 0,
    "positive": 0,
-   "neutral": 104,
+   "neutral": 118,
    "critical": 0,
    "mbs": 4,
    "countries": {
@@ -21358,7 +21358,7 @@
     "Financial Times": 1,
     "www.tmgm.com": 1,
     "FXEmpire": 1,
-    "Global Advisory Experts": 2,
+    "Global Advisory Experts": 3,
     "Middle East Eye": 1,
     "The Express Tribune": 1,
     "Manara Magazine": 1,
@@ -21378,7 +21378,7 @@
     "سانا": 1,
     "Khaama Press": 1,
     "SpaceWatch.GLOBAL": 1,
-    "Condé Nast Traveller Middle East": 1,
+    "Condé Nast Traveller Middle East": 2,
     "Ocean Energy Resources": 1,
     "Le Monde.fr": 1,
     "JNS": 1,
@@ -21386,14 +21386,23 @@
     "Anadolu Ajansı": 1,
     "The Jerusalem Post": 2,
     "The Times of India": 1,
-    "The AFC": 1,
+    "The AFC": 3,
     "Cureus": 1,
     "X": 1,
     "Al Jazeera": 1,
     "Seatrade Maritime News": 1,
     "The Business Times": 1,
     "Kurdistan24": 1,
-    "TRT World": 1
+    "TRT World": 1,
+    "Finimize": 1,
+    "Free Press Kashmir": 2,
+    "The Telegraph": 1,
+    "https://houseofsaud.com/": 1,
+    "Internazionale": 1,
+    "Asia Times": 1,
+    "The National": 1,
+    "DAZN": 1,
+    "Travel Daily Media": 1
    },
    "sourceTone": {
     "Yemen Online": [
@@ -21423,7 +21432,7 @@
     ],
     "Global Advisory Experts": [
      0,
-     2,
+     3,
      0
     ],
     "Middle East Eye": [
@@ -21523,7 +21532,7 @@
     ],
     "Condé Nast Traveller Middle East": [
      0,
-     1,
+     2,
      0
     ],
     "Ocean Energy Resources": [
@@ -21563,7 +21572,7 @@
     ],
     "The AFC": [
      0,
-     1,
+     3,
      0
     ],
     "Cureus": [
@@ -21597,6 +21606,51 @@
      0
     ],
     "TRT World": [
+     0,
+     1,
+     0
+    ],
+    "Finimize": [
+     0,
+     1,
+     0
+    ],
+    "Free Press Kashmir": [
+     0,
+     2,
+     0
+    ],
+    "The Telegraph": [
+     0,
+     1,
+     0
+    ],
+    "https://houseofsaud.com/": [
+     0,
+     1,
+     0
+    ],
+    "Internazionale": [
+     0,
+     1,
+     0
+    ],
+    "Asia Times": [
+     0,
+     1,
+     0
+    ],
+    "The National": [
+     0,
+     1,
+     0
+    ],
+    "DAZN": [
+     0,
+     1,
+     0
+    ],
+    "Travel Daily Media": [
      0,
      1,
      0
