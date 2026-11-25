@@ -19485,18 +19485,18 @@
    }
   },
   "2026-11-23": {
-   "total": 633,
-   "news": 627,
+   "total": 645,
+   "news": 639,
    "articles": 6,
    "positive": 0,
-   "neutral": 633,
+   "neutral": 645,
    "critical": 0,
    "mbs": 8,
    "countries": {
-    "US": 175,
+    "US": 178,
     "SA": 88,
     "DE": 4,
-    "GB": 149,
+    "GB": 158,
     "FR": 19,
     "JP": 2
    },
@@ -19514,12 +19514,12 @@
     "The New Arab": 2,
     "FXStreet": 1,
     "TradingView": 3,
-    "Bloomberg.com": 78,
+    "Bloomberg.com": 81,
     "The Guardian": 23,
     "Yeni Safak English": 7,
     "BBC": 20,
     "www.tmgm.com": 2,
-    "Reuters": 94,
+    "Reuters": 103,
     "The Washington Post": 5,
     "Gulf Business": 4,
     "Saudi Gazette": 30,
@@ -19705,7 +19705,7 @@
     ],
     "Bloomberg.com": [
      0,
-     78,
+     81,
      0
     ],
     "The Guardian": [
@@ -19730,7 +19730,7 @@
     ],
     "Reuters": [
      0,
-     94,
+     103,
      0
     ],
     "The Washington Post": [
@@ -20341,16 +20341,16 @@
    }
   },
   "2026-11-24": {
-   "total": 678,
-   "news": 664,
+   "total": 682,
+   "news": 668,
    "articles": 14,
    "positive": 0,
-   "neutral": 678,
+   "neutral": 682,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "SA": 111,
-    "US": 132,
+    "US": 135,
     "GB": 171,
     "JP": 1,
     "FR": 5,
@@ -20366,7 +20366,7 @@
     "BBC": 11,
     "Reuters": 136,
     "Nikkei Asia": 1,
-    "Bloomberg.com": 40,
+    "Bloomberg.com": 43,
     "Al-Monitor": 33,
     "WSJ": 21,
     "The New York Times": 14,
@@ -20520,7 +20520,8 @@
     "Fana News -": 1,
     "وكالة الأنباء السعودية": 2,
     "Khaleej Times": 1,
-    "Jerusalem Center for Security and Foreign Affairs": 1
+    "Jerusalem Center for Security and Foreign Affairs": 1,
+    "Oil & Gas 360": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -20560,7 +20561,7 @@
     ],
     "Bloomberg.com": [
      0,
-     40,
+     43,
      0
     ],
     "Al-Monitor": [
@@ -21332,21 +21333,26 @@
      0,
      1,
      0
+    ],
+    "Oil & Gas 360": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-25": {
-   "total": 118,
-   "news": 118,
+   "total": 142,
+   "news": 142,
    "articles": 0,
    "positive": 0,
-   "neutral": 118,
+   "neutral": 142,
    "critical": 0,
    "mbs": 4,
    "countries": {
-    "US": 24,
+    "US": 25,
     "GB": 18,
-    "SA": 24,
+    "SA": 25,
     "DE": 2,
     "HK": 2,
     "FR": 1
@@ -21354,11 +21360,11 @@
    "topics": {},
    "sources": {
     "Yemen Online": 1,
-    "Bloomberg.com": 18,
+    "Bloomberg.com": 19,
     "Financial Times": 1,
     "www.tmgm.com": 1,
     "FXEmpire": 1,
-    "Global Advisory Experts": 3,
+    "Global Advisory Experts": 7,
     "Middle East Eye": 1,
     "The Express Tribune": 1,
     "Manara Magazine": 1,
@@ -21366,7 +21372,7 @@
     "Semafor": 1,
     "Yahoo": 1,
     "Chosunbiz": 1,
-    "Arab News": 10,
+    "Arab News": 11,
     "WSJ": 3,
     "Spiegel": 2,
     "Al-Monitor": 3,
@@ -21397,12 +21403,29 @@
     "Finimize": 1,
     "Free Press Kashmir": 2,
     "The Telegraph": 1,
-    "https://houseofsaud.com/": 1,
+    "https://houseofsaud.com/": 2,
     "Internazionale": 1,
     "Asia Times": 1,
     "The National": 1,
     "DAZN": 1,
-    "Travel Daily Media": 1
+    "Travel Daily Media": 1,
+    "MUFG Research": 1,
+    "AP News": 1,
+    "Crypto Briefing": 1,
+    "Al Arabiya English": 1,
+    "TradingView": 1,
+    "Mehr News Agency": 1,
+    "Jordan News": 1,
+    "アラブニュース": 1,
+    "ABNA English": 1,
+    "CairoScene": 1,
+    "Modern Diplomacy": 1,
+    "The Maritime Executive": 1,
+    "Popbee": 1,
+    "Bioengineer.org": 1,
+    "Breakingthenews.net": 1,
+    "BigGo Finance": 1,
+    "CNBC": 1
    },
    "sourceTone": {
     "Yemen Online": [
@@ -21412,7 +21435,7 @@
     ],
     "Bloomberg.com": [
      0,
-     18,
+     19,
      0
     ],
     "Financial Times": [
@@ -21432,7 +21455,7 @@
     ],
     "Global Advisory Experts": [
      0,
-     3,
+     7,
      0
     ],
     "Middle East Eye": [
@@ -21472,7 +21495,7 @@
     ],
     "Arab News": [
      0,
-     10,
+     11,
      0
     ],
     "WSJ": [
@@ -21627,7 +21650,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     1,
+     2,
      0
     ],
     "Internazionale": [
@@ -21651,6 +21674,91 @@
      0
     ],
     "Travel Daily Media": [
+     0,
+     1,
+     0
+    ],
+    "MUFG Research": [
+     0,
+     1,
+     0
+    ],
+    "AP News": [
+     0,
+     1,
+     0
+    ],
+    "Crypto Briefing": [
+     0,
+     1,
+     0
+    ],
+    "Al Arabiya English": [
+     0,
+     1,
+     0
+    ],
+    "TradingView": [
+     0,
+     1,
+     0
+    ],
+    "Mehr News Agency": [
+     0,
+     1,
+     0
+    ],
+    "Jordan News": [
+     0,
+     1,
+     0
+    ],
+    "アラブニュース": [
+     0,
+     1,
+     0
+    ],
+    "ABNA English": [
+     0,
+     1,
+     0
+    ],
+    "CairoScene": [
+     0,
+     1,
+     0
+    ],
+    "Modern Diplomacy": [
+     0,
+     1,
+     0
+    ],
+    "The Maritime Executive": [
+     0,
+     1,
+     0
+    ],
+    "Popbee": [
+     0,
+     1,
+     0
+    ],
+    "Bioengineer.org": [
+     0,
+     1,
+     0
+    ],
+    "Breakingthenews.net": [
+     0,
+     1,
+     0
+    ],
+    "BigGo Finance": [
+     0,
+     1,
+     0
+    ],
+    "CNBC": [
      0,
      1,
      0
