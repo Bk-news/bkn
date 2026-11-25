@@ -20341,17 +20341,17 @@
    }
   },
   "2026-11-24": {
-   "total": 713,
-   "news": 699,
+   "total": 717,
+   "news": 703,
    "articles": 14,
    "positive": 0,
-   "neutral": 713,
+   "neutral": 717,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "SA": 112,
     "US": 160,
-    "GB": 174,
+    "GB": 178,
     "JP": 1,
     "FR": 5,
     "HK": 3,
@@ -20393,7 +20393,7 @@
     "CGTN": 1,
     "www.tmgm.com": 3,
     "Yeni Safak English": 4,
-    "The Guardian": 8,
+    "The Guardian": 12,
     "Kurdistan24": 1,
     "Al Jazeera": 2,
     "Travel & Tourism News Middle East": 1,
@@ -20697,7 +20697,7 @@
     ],
     "The Guardian": [
      0,
-     8,
+     12,
      0
     ],
     "Kurdistan24": [
@@ -21348,25 +21348,25 @@
    }
   },
   "2026-11-25": {
-   "total": 311,
-   "news": 304,
+   "total": 347,
+   "news": 340,
    "articles": 7,
    "positive": 0,
-   "neutral": 311,
+   "neutral": 347,
    "critical": 0,
-   "mbs": 8,
+   "mbs": 9,
    "countries": {
-    "US": 76,
-    "GB": 52,
-    "SA": 47,
+    "US": 87,
+    "GB": 57,
+    "SA": 57,
     "DE": 2,
     "HK": 2,
-    "FR": 10
+    "FR": 11
    },
    "topics": {},
    "sources": {
-    "Yemen Online": 2,
-    "Bloomberg.com": 26,
+    "Yemen Online": 3,
+    "Bloomberg.com": 27,
     "Financial Times": 5,
     "www.tmgm.com": 1,
     "FXEmpire": 2,
@@ -21374,17 +21374,17 @@
     "Middle East Eye": 1,
     "The Express Tribune": 1,
     "Manara Magazine": 1,
-    "Saudi Gazette": 25,
+    "Saudi Gazette": 30,
     "Semafor": 1,
     "Yahoo": 1,
     "Chosunbiz": 1,
-    "Arab News": 24,
-    "WSJ": 12,
+    "Arab News": 30,
+    "WSJ": 14,
     "Spiegel": 2,
-    "Al-Monitor": 13,
+    "Al-Monitor": 17,
     "BBC": 13,
     "The Guardian": 12,
-    "Reuters": 22,
+    "Reuters": 28,
     "South China Morning Post": 2,
     "Fakti.bg": 1,
     "سانا": 2,
@@ -21432,7 +21432,7 @@
     "Breakingthenews.net": 2,
     "BigGo Finance": 1,
     "CNBC": 2,
-    "UA.NEWS": 2,
+    "UA.NEWS": 3,
     "아시아경제": 1,
     "DNE Africa": 1,
     "Diari ARA": 1,
@@ -21448,7 +21448,7 @@
     "الخبر اليمني": 1,
     "اسلام تايمز": 1,
     "Firstpost": 1,
-    "Bloomberg": 8,
+    "Bloomberg": 11,
     "The New Arab": 1,
     "DW.com": 1,
     "The Washington Post": 1,
@@ -21461,8 +21461,8 @@
     "Modern Ghana": 1,
     "Atlantic Council": 5,
     "Foreign Policy": 1,
-    "CNN": 2,
-    "France 24": 9,
+    "CNN": 3,
+    "France 24": 10,
     "The Economist": 1,
     "Employee Happiness Daily": 1,
     "TVB": 1,
@@ -21471,17 +21471,22 @@
     "Facebook": 1,
     "MLQ.ai": 1,
     "SABC News": 1,
-    "DD News": 1
+    "DD News": 1,
+    "Daily Sun": 1,
+    "The Korea Herald": 1,
+    "شفق نيوز": 1,
+    "Wisevoter": 1,
+    "Malay Mail": 1
    },
    "sourceTone": {
     "Yemen Online": [
      0,
-     2,
+     3,
      0
     ],
     "Bloomberg.com": [
      0,
-     26,
+     27,
      0
     ],
     "Financial Times": [
@@ -21521,7 +21526,7 @@
     ],
     "Saudi Gazette": [
      0,
-     25,
+     30,
      0
     ],
     "Semafor": [
@@ -21541,12 +21546,12 @@
     ],
     "Arab News": [
      0,
-     24,
+     30,
      0
     ],
     "WSJ": [
      0,
-     12,
+     14,
      0
     ],
     "Spiegel": [
@@ -21556,7 +21561,7 @@
     ],
     "Al-Monitor": [
      0,
-     13,
+     17,
      0
     ],
     "BBC": [
@@ -21571,7 +21576,7 @@
     ],
     "Reuters": [
      0,
-     22,
+     28,
      0
     ],
     "South China Morning Post": [
@@ -21811,7 +21816,7 @@
     ],
     "UA.NEWS": [
      0,
-     2,
+     3,
      0
     ],
     "아시아경제": [
@@ -21891,7 +21896,7 @@
     ],
     "Bloomberg": [
      0,
-     8,
+     11,
      0
     ],
     "The New Arab": [
@@ -21956,12 +21961,12 @@
     ],
     "CNN": [
      0,
-     2,
+     3,
      0
     ],
     "France 24": [
      0,
-     9,
+     10,
      0
     ],
     "The Economist": [
@@ -22005,6 +22010,31 @@
      0
     ],
     "DD News": [
+     0,
+     1,
+     0
+    ],
+    "Daily Sun": [
+     0,
+     1,
+     0
+    ],
+    "The Korea Herald": [
+     0,
+     1,
+     0
+    ],
+    "شفق نيوز": [
+     0,
+     1,
+     0
+    ],
+    "Wisevoter": [
+     0,
+     1,
+     0
+    ],
+    "Malay Mail": [
      0,
      1,
      0
