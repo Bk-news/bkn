@@ -21348,15 +21348,15 @@
    }
   },
   "2026-11-25": {
-   "total": 184,
-   "news": 184,
+   "total": 188,
+   "news": 188,
    "articles": 0,
    "positive": 0,
-   "neutral": 184,
+   "neutral": 188,
    "critical": 0,
    "mbs": 8,
    "countries": {
-    "US": 32,
+    "US": 33,
     "GB": 22,
     "SA": 28,
     "DE": 2,
@@ -21379,7 +21379,7 @@
     "Yahoo": 1,
     "Chosunbiz": 1,
     "Arab News": 14,
-    "WSJ": 3,
+    "WSJ": 4,
     "Spiegel": 2,
     "Al-Monitor": 3,
     "BBC": 6,
@@ -21451,7 +21451,10 @@
     "Bloomberg": 3,
     "The New Arab": 1,
     "DW.com": 1,
-    "The Washington Post": 1
+    "The Washington Post": 1,
+    "The Arab Weekly": 1,
+    "Arabian Business": 1,
+    "وكالة الأنباء السعودية": 1
    },
    "sourceTone": {
     "Yemen Online": [
@@ -21526,7 +21529,7 @@
     ],
     "WSJ": [
      0,
-     3,
+     4,
      0
     ],
     "Spiegel": [
@@ -21885,6 +21888,21 @@
      0
     ],
     "The Washington Post": [
+     0,
+     1,
+     0
+    ],
+    "The Arab Weekly": [
+     0,
+     1,
+     0
+    ],
+    "Arabian Business": [
+     0,
+     1,
+     0
+    ],
+    "وكالة الأنباء السعودية": [
      0,
      1,
      0
