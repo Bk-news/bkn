@@ -19485,15 +19485,15 @@
    }
   },
   "2026-11-23": {
-   "total": 645,
-   "news": 639,
+   "total": 646,
+   "news": 640,
    "articles": 6,
    "positive": 0,
-   "neutral": 645,
+   "neutral": 646,
    "critical": 0,
    "mbs": 8,
    "countries": {
-    "US": 178,
+    "US": 179,
     "SA": 88,
     "DE": 4,
     "GB": 158,
@@ -19524,7 +19524,7 @@
     "Gulf Business": 4,
     "Saudi Gazette": 30,
     "Le Monde.fr": 5,
-    "Al-Monitor": 27,
+    "Al-Monitor": 28,
     "AP News": 13,
     "Financial Times": 11,
     "France 24": 14,
@@ -19755,7 +19755,7 @@
     ],
     "Al-Monitor": [
      0,
-     27,
+     28,
      0
     ],
     "AP News": [
