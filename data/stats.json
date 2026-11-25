@@ -21348,11 +21348,11 @@
    }
   },
   "2026-11-25": {
-   "total": 169,
-   "news": 169,
+   "total": 170,
+   "news": 170,
    "articles": 0,
    "positive": 0,
-   "neutral": 169,
+   "neutral": 170,
    "critical": 0,
    "mbs": 5,
    "countries": {
@@ -21436,7 +21436,7 @@
     "아시아경제": 1,
     "DNE Africa": 1,
     "Diari ARA": 1,
-    "Yeni Safak English": 1,
+    "Yeni Safak English": 2,
     "Dubai Eye 103.8": 1,
     "The Filipino Times": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -21805,7 +21805,7 @@
     ],
     "Yeni Safak English": [
      0,
-     1,
+     2,
      0
     ],
     "Dubai Eye 103.8": [
