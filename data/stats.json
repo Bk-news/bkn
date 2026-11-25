@@ -18676,18 +18676,18 @@
    }
   },
   "2026-11-22": {
-   "total": 505,
-   "news": 499,
+   "total": 506,
+   "news": 500,
    "articles": 6,
    "positive": 0,
-   "neutral": 505,
+   "neutral": 506,
    "critical": 0,
    "mbs": 6,
    "countries": {
     "GB": 109,
     "SA": 92,
     "FR": 19,
-    "US": 68,
+    "US": 69,
     "HK": 5,
     "DE": 11,
     "JP": 1
@@ -18700,7 +18700,7 @@
     "Arab News": 86,
     "Anadolu Ajansı": 3,
     "France 24": 13,
-    "Al-Monitor": 18,
+    "Al-Monitor": 19,
     "TRT World": 1,
     "The Washington Post": 4,
     "BBC": 9,
@@ -18859,7 +18859,7 @@
     ],
     "Al-Monitor": [
      0,
-     18,
+     19,
      0
     ],
     "TRT World": [
@@ -19485,18 +19485,18 @@
    }
   },
   "2026-11-23": {
-   "total": 614,
-   "news": 608,
+   "total": 621,
+   "news": 615,
    "articles": 6,
    "positive": 0,
-   "neutral": 614,
+   "neutral": 621,
    "critical": 0,
    "mbs": 8,
    "countries": {
-    "US": 170,
-    "SA": 86,
+    "US": 174,
+    "SA": 87,
     "DE": 4,
-    "GB": 137,
+    "GB": 139,
     "FR": 19,
     "JP": 2
    },
@@ -19504,7 +19504,7 @@
    "sources": {
     "وكالة الأنباء السعودية": 4,
     "WSJ": 22,
-    "Arab News": 68,
+    "Arab News": 69,
     "Spiegel": 4,
     "Sports Gambling Podcast": 1,
     "Arabian Gulf Business Insight | AGBI": 4,
@@ -19514,13 +19514,13 @@
     "The New Arab": 2,
     "FXStreet": 1,
     "TradingView": 3,
-    "Bloomberg.com": 75,
+    "Bloomberg.com": 78,
     "The Guardian": 23,
     "Yeni Safak English": 7,
     "BBC": 16,
     "www.tmgm.com": 2,
-    "Reuters": 87,
-    "The Washington Post": 4,
+    "Reuters": 89,
+    "The Washington Post": 5,
     "Gulf Business": 4,
     "Saudi Gazette": 30,
     "Le Monde.fr": 5,
@@ -19655,7 +19655,7 @@
     ],
     "Arab News": [
      0,
-     68,
+     69,
      0
     ],
     "Spiegel": [
@@ -19705,7 +19705,7 @@
     ],
     "Bloomberg.com": [
      0,
-     75,
+     78,
      0
     ],
     "The Guardian": [
@@ -19730,12 +19730,12 @@
     ],
     "Reuters": [
      0,
-     87,
+     89,
      0
     ],
     "The Washington Post": [
      0,
-     4,
+     5,
      0
     ],
     "Gulf Business": [
@@ -20341,17 +20341,17 @@
    }
   },
   "2026-11-24": {
-   "total": 530,
-   "news": 516,
+   "total": 562,
+   "news": 548,
    "articles": 14,
    "positive": 0,
-   "neutral": 530,
+   "neutral": 562,
    "critical": 0,
-   "mbs": 16,
+   "mbs": 17,
    "countries": {
-    "SA": 86,
-    "US": 106,
-    "GB": 126,
+    "SA": 88,
+    "US": 107,
+    "GB": 130,
     "JP": 1,
     "FR": 5,
     "HK": 3,
@@ -20364,13 +20364,13 @@
     "The Washington Post": 2,
     "Financial Times": 14,
     "BBC": 9,
-    "Reuters": 93,
+    "Reuters": 97,
     "Nikkei Asia": 1,
     "Bloomberg.com": 22,
     "Al-Monitor": 30,
     "WSJ": 19,
-    "The New York Times": 12,
-    "Arab News": 70,
+    "The New York Times": 13,
+    "Arab News": 73,
     "France 24": 3,
     "AP News": 7,
     "sanad.uk": 1,
@@ -20379,7 +20379,7 @@
     "Crypto Briefing": 3,
     "Mehr News Agency": 1,
     "The AFC": 1,
-    "https://houseofsaud.com/": 3,
+    "https://houseofsaud.com/": 5,
     "AKIpress News Agency": 1,
     "The National": 5,
     "Gulf News": 4,
@@ -20402,12 +20402,12 @@
     "Avi-Go": 4,
     "Atlantic Council": 9,
     "صحيفة سبق الإلكترونية": 2,
-    "Bloomberg": 9,
+    "Bloomberg": 10,
     "South China Morning Post": 4,
     "Spiegel": 2,
     "The Economist": 4,
     "CP24": 1,
-    "Anadolu Ajansı": 3,
+    "Anadolu Ajansı": 4,
     "houseofsaud.com": 1,
     "Forbes": 1,
     "The Arab Weekly": 1,
@@ -20415,7 +20415,7 @@
     "WE News English": 1,
     "شفق نيوز": 2,
     "Daily Beirut": 2,
-    "Middle East Eye": 3,
+    "Middle East Eye": 4,
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1,
     "L'Orient Today": 1,
     "MTV Lebanon": 2,
@@ -20434,7 +20434,7 @@
     "AOL.com": 1,
     "Gulf Business": 1,
     "Captive Insurance Times": 1,
-    "Al Arabiya English": 2,
+    "Al Arabiya English": 3,
     "talkSPORT": 1,
     "Israel Hayom": 1,
     "NDTV": 1,
@@ -20452,13 +20452,13 @@
     "Garowe Online": 1,
     "Telecompaper": 1,
     "Golf Digest Middle East": 1,
-    "The Jerusalem Post": 3,
+    "The Jerusalem Post": 5,
     "Defensehere": 1,
     "SOFREP": 1,
     "POLITICO Pro": 1,
     "India Today": 2,
     "Breakingthenews.net": 2,
-    "Arabian Business": 1,
+    "Arabian Business": 3,
     "Construction Review": 1,
     "Military.com": 1,
     "Radio Tamazuj": 1,
@@ -20485,7 +20485,7 @@
     "Business Day": 1,
     "الأمانة العامة لمجلس التعاون لدول الخليج العربية": 1,
     "Deccan Herald": 1,
-    "Daily Sabah": 1,
+    "Daily Sabah": 2,
     "Foreign Policy": 1,
     "The Insight International": 1,
     "FXStreet": 1,
@@ -20495,7 +20495,20 @@
     "NewsNation": 1,
     "U.S. Embassy & Consulates in Saudi Arabia (.gov)": 1,
     "Sight Magazine": 1,
-    "CNBC": 1
+    "CNBC": 1,
+    "Diario AS": 1,
+    "Howl.Link": 1,
+    "www.thenationalnews.com": 1,
+    "Middle East Monitor": 1,
+    "UA.NEWS": 1,
+    "Palestine Chronicle": 1,
+    "MMA Sucka": 1,
+    "marketscreener.com": 1,
+    "Arab News PK": 1,
+    "Arise News": 1,
+    "AzerNews": 1,
+    "New York Post": 1,
+    "Crude Oil Prices Today | OilPrice.com": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -20525,7 +20538,7 @@
     ],
     "Reuters": [
      0,
-     93,
+     97,
      0
     ],
     "Nikkei Asia": [
@@ -20550,12 +20563,12 @@
     ],
     "The New York Times": [
      0,
-     12,
+     13,
      0
     ],
     "Arab News": [
      0,
-     70,
+     73,
      0
     ],
     "France 24": [
@@ -20600,7 +20613,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     3,
+     5,
      0
     ],
     "AKIpress News Agency": [
@@ -20715,7 +20728,7 @@
     ],
     "Bloomberg": [
      0,
-     9,
+     10,
      0
     ],
     "South China Morning Post": [
@@ -20740,7 +20753,7 @@
     ],
     "Anadolu Ajansı": [
      0,
-     3,
+     4,
      0
     ],
     "houseofsaud.com": [
@@ -20780,7 +20793,7 @@
     ],
     "Middle East Eye": [
      0,
-     3,
+     4,
      0
     ],
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": [
@@ -20875,7 +20888,7 @@
     ],
     "Al Arabiya English": [
      0,
-     2,
+     3,
      0
     ],
     "talkSPORT": [
@@ -20965,7 +20978,7 @@
     ],
     "The Jerusalem Post": [
      0,
-     3,
+     5,
      0
     ],
     "Defensehere": [
@@ -20995,7 +21008,7 @@
     ],
     "Arabian Business": [
      0,
-     1,
+     3,
      0
     ],
     "Construction Review": [
@@ -21130,7 +21143,7 @@
     ],
     "Daily Sabah": [
      0,
-     1,
+     2,
      0
     ],
     "Foreign Policy": [
@@ -21179,6 +21192,71 @@
      0
     ],
     "CNBC": [
+     0,
+     1,
+     0
+    ],
+    "Diario AS": [
+     0,
+     1,
+     0
+    ],
+    "Howl.Link": [
+     0,
+     1,
+     0
+    ],
+    "www.thenationalnews.com": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Monitor": [
+     0,
+     1,
+     0
+    ],
+    "UA.NEWS": [
+     0,
+     1,
+     0
+    ],
+    "Palestine Chronicle": [
+     0,
+     1,
+     0
+    ],
+    "MMA Sucka": [
+     0,
+     1,
+     0
+    ],
+    "marketscreener.com": [
+     0,
+     1,
+     0
+    ],
+    "Arab News PK": [
+     0,
+     1,
+     0
+    ],
+    "Arise News": [
+     0,
+     1,
+     0
+    ],
+    "AzerNews": [
+     0,
+     1,
+     0
+    ],
+    "New York Post": [
+     0,
+     1,
+     0
+    ],
+    "Crude Oil Prices Today | OilPrice.com": [
      0,
      1,
      0
