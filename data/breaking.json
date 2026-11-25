@@ -1,5 +1,17 @@
 [
  {
+  "id": "63aa4238f0619153",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "العدل الأميركية: \"هواوي\" كذبت مرارا بشأن طبيعة أعمالها في إيران",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/155426",
+  "published": "2026-11-25T01:08:20.000Z",
+  "subject": "saudi",
+  "added": "2026-11-25T01:08:20.000Z"
+ },
+ {
   "id": "27b5a69f99e74718",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -130,17 +142,5 @@
   "published": "2026-11-25T00:27:38.000Z",
   "subject": "saudi",
   "added": "2026-11-25T00:27:38.000Z"
- },
- {
-  "id": "8ae1bbccb2ed4679",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "مصادر العربية: سماع دوي انفجارات في الحديدة",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/155414",
-  "published": "2026-11-25T00:08:02.000Z",
-  "subject": "saudi",
-  "added": "2026-11-25T00:08:02.000Z"
  }
 ]
