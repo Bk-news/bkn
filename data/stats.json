@@ -21324,11 +21324,11 @@
    }
   },
   "2026-11-25": {
-   "total": 13,
-   "news": 13,
+   "total": 14,
+   "news": 14,
    "articles": 0,
    "positive": 0,
-   "neutral": 13,
+   "neutral": 14,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -21349,7 +21349,8 @@
     "Manara Magazine": 1,
     "Saudi Gazette": 1,
     "Semafor": 1,
-    "Yahoo": 1
+    "Yahoo": 1,
+    "Chosunbiz": 1
    },
    "sourceTone": {
     "Yemen Online": [
@@ -21408,6 +21409,11 @@
      0
     ],
     "Yahoo": [
+     0,
+     1,
+     0
+    ],
+    "Chosunbiz": [
      0,
      1,
      0
