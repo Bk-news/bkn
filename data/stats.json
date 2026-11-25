@@ -21348,16 +21348,16 @@
    }
   },
   "2026-11-25": {
-   "total": 176,
-   "news": 176,
+   "total": 177,
+   "news": 177,
    "articles": 0,
    "positive": 0,
-   "neutral": 176,
+   "neutral": 177,
    "critical": 0,
    "mbs": 7,
    "countries": {
     "US": 30,
-    "GB": 20,
+    "GB": 21,
     "SA": 28,
     "DE": 2,
     "HK": 2,
@@ -21382,7 +21382,7 @@
     "WSJ": 3,
     "Spiegel": 2,
     "Al-Monitor": 3,
-    "BBC": 4,
+    "BBC": 5,
     "The Guardian": 3,
     "Reuters": 13,
     "South China Morning Post": 2,
@@ -21538,7 +21538,7 @@
     ],
     "BBC": [
      0,
-     4,
+     5,
      0
     ],
     "The Guardian": [
