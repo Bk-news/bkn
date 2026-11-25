@@ -20341,11 +20341,11 @@
    }
   },
   "2026-11-24": {
-   "total": 605,
-   "news": 591,
+   "total": 606,
+   "news": 592,
    "articles": 14,
    "positive": 0,
-   "neutral": 605,
+   "neutral": 606,
    "critical": 0,
    "mbs": 17,
    "countries": {
@@ -20474,7 +20474,7 @@
     "KarloBag.eu": 1,
     "Naharnet": 1,
     "Democracy Now!": 1,
-    "The Times of Israel": 1,
+    "The Times of Israel": 2,
     "شبكة تواصل الإخبارية": 1,
     "https://theins.press/en": 1,
     "ARYnews.tv": 1,
@@ -21097,7 +21097,7 @@
     ],
     "The Times of Israel": [
      0,
-     1,
+     2,
      0
     ],
     "شبكة تواصل الإخبارية": [
