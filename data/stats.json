@@ -20341,11 +20341,11 @@
    }
   },
   "2026-11-24": {
-   "total": 593,
-   "news": 579,
+   "total": 599,
+   "news": 585,
    "articles": 14,
    "positive": 0,
-   "neutral": 593,
+   "neutral": 599,
    "critical": 0,
    "mbs": 17,
    "countries": {
@@ -20401,7 +20401,7 @@
     "ASHARQ AL-AWSAT English": 5,
     "Avi-Go": 4,
     "Atlantic Council": 9,
-    "صحيفة سبق الإلكترونية": 2,
+    "صحيفة سبق الإلكترونية": 3,
     "Bloomberg": 10,
     "South China Morning Post": 4,
     "Spiegel": 2,
@@ -20414,7 +20414,7 @@
     "Apa.az": 1,
     "WE News English": 1,
     "شفق نيوز": 2,
-    "Daily Beirut": 2,
+    "Daily Beirut": 3,
     "Middle East Eye": 4,
     "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي": 1,
     "L'Orient Today": 1,
@@ -20426,7 +20426,7 @@
     "MMA Mania": 1,
     "markets.businessinsider.com": 1,
     "صحيفة مال": 4,
-    "US Muslims": 1,
+    "US Muslims": 2,
     "Tomorrow's Affairs": 1,
     "Morningstar": 1,
     "Forbes Middle East": 1,
@@ -20514,7 +20514,9 @@
     "Institutional Investor": 1,
     "Xinhua": 1,
     "NZ Herald": 1,
-    "The New Indian Express": 1
+    "The New Indian Express": 1,
+    "News of Bahrain": 1,
+    "WPLG Local 10": 2
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -20729,7 +20731,7 @@
     ],
     "صحيفة سبق الإلكترونية": [
      0,
-     2,
+     3,
      0
     ],
     "Bloomberg": [
@@ -20794,7 +20796,7 @@
     ],
     "Daily Beirut": [
      0,
-     2,
+     3,
      0
     ],
     "Middle East Eye": [
@@ -20854,7 +20856,7 @@
     ],
     "US Muslims": [
      0,
-     1,
+     2,
      0
     ],
     "Tomorrow's Affairs": [
@@ -21296,15 +21298,25 @@
      0,
      1,
      0
+    ],
+    "News of Bahrain": [
+     0,
+     1,
+     0
+    ],
+    "WPLG Local 10": [
+     0,
+     2,
+     0
     ]
    }
   },
   "2026-11-25": {
-   "total": 6,
-   "news": 6,
+   "total": 9,
+   "news": 9,
    "articles": 0,
    "positive": 0,
-   "neutral": 6,
+   "neutral": 9,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -21318,7 +21330,10 @@
     "Financial Times": 1,
     "www.tmgm.com": 1,
     "FXEmpire": 1,
-    "Global Advisory Experts": 1
+    "Global Advisory Experts": 1,
+    "Middle East Eye": 1,
+    "The Express Tribune": 1,
+    "Manara Magazine": 1
    },
    "sourceTone": {
     "Yemen Online": [
@@ -21347,6 +21362,21 @@
      0
     ],
     "Global Advisory Experts": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Eye": [
+     0,
+     1,
+     0
+    ],
+    "The Express Tribune": [
+     0,
+     1,
+     0
+    ],
+    "Manara Magazine": [
      0,
      1,
      0
