@@ -20341,38 +20341,38 @@
    }
   },
   "2026-11-24": {
-   "total": 424,
-   "news": 421,
-   "articles": 3,
+   "total": 459,
+   "news": 451,
+   "articles": 8,
    "positive": 0,
-   "neutral": 424,
+   "neutral": 459,
    "critical": 0,
    "mbs": 16,
    "countries": {
-    "SA": 61,
-    "US": 74,
-    "GB": 99,
+    "SA": 66,
+    "US": 87,
+    "GB": 109,
     "JP": 1,
-    "FR": 3,
-    "HK": 1,
-    "DE": 1
+    "FR": 5,
+    "HK": 3,
+    "DE": 2
    },
    "topics": {},
    "sources": {
-    "Saudi Gazette": 22,
+    "Saudi Gazette": 24,
     "SolarQuarter": 1,
     "The Washington Post": 2,
-    "Financial Times": 13,
-    "BBC": 7,
-    "Reuters": 76,
+    "Financial Times": 14,
+    "BBC": 9,
+    "Reuters": 79,
     "Nikkei Asia": 1,
-    "Bloomberg.com": 15,
-    "Al-Monitor": 22,
-    "WSJ": 12,
-    "The New York Times": 10,
-    "Arab News": 51,
-    "France 24": 2,
-    "AP News": 6,
+    "Bloomberg.com": 17,
+    "Al-Monitor": 25,
+    "WSJ": 14,
+    "The New York Times": 12,
+    "Arab News": 54,
+    "France 24": 3,
+    "AP News": 7,
     "sanad.uk": 1,
     "The Age": 1,
     "The Duke Chronicle": 1,
@@ -20393,19 +20393,19 @@
     "CGTN": 1,
     "www.tmgm.com": 3,
     "Yeni Safak English": 4,
-    "The Guardian": 4,
+    "The Guardian": 6,
     "Kurdistan24": 1,
     "Al Jazeera": 2,
     "Travel & Tourism News Middle East": 1,
     "The New Region": 2,
     "ASHARQ AL-AWSAT English": 5,
     "Avi-Go": 4,
-    "Atlantic Council": 2,
+    "Atlantic Council": 4,
     "صحيفة سبق الإلكترونية": 2,
     "Bloomberg": 9,
-    "South China Morning Post": 2,
-    "Spiegel": 1,
-    "The Economist": 1,
+    "South China Morning Post": 4,
+    "Spiegel": 2,
+    "The Economist": 3,
     "CP24": 1,
     "Anadolu Ajansı": 2,
     "houseofsaud.com": 1,
@@ -20468,7 +20468,7 @@
     "Agência de Notícias Brasil-Árabe - ANBA": 1,
     "EnergyNow.com": 1,
     "Salaam Gateway": 1,
-    "Le Monde.fr": 1,
+    "Le Monde.fr": 2,
     "PocketGamer.biz": 1,
     "NST Online": 1,
     "KarloBag.eu": 1,
@@ -20484,12 +20484,15 @@
     "scanx.trade": 1,
     "Business Day": 1,
     "الأمانة العامة لمجلس التعاون لدول الخليج العربية": 1,
-    "Deccan Herald": 1
+    "Deccan Herald": 1,
+    "Daily Sabah": 1,
+    "Foreign Policy": 1,
+    "The Insight International": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
      0,
-     22,
+     24,
      0
     ],
     "SolarQuarter": [
@@ -20504,17 +20507,17 @@
     ],
     "Financial Times": [
      0,
-     13,
+     14,
      0
     ],
     "BBC": [
      0,
-     7,
+     9,
      0
     ],
     "Reuters": [
      0,
-     76,
+     79,
      0
     ],
     "Nikkei Asia": [
@@ -20524,37 +20527,37 @@
     ],
     "Bloomberg.com": [
      0,
-     15,
+     17,
      0
     ],
     "Al-Monitor": [
      0,
-     22,
+     25,
      0
     ],
     "WSJ": [
      0,
-     12,
+     14,
      0
     ],
     "The New York Times": [
      0,
-     10,
+     12,
      0
     ],
     "Arab News": [
      0,
-     51,
+     54,
      0
     ],
     "France 24": [
      0,
-     2,
+     3,
      0
     ],
     "AP News": [
      0,
-     6,
+     7,
      0
     ],
     "sanad.uk": [
@@ -20659,7 +20662,7 @@
     ],
     "The Guardian": [
      0,
-     4,
+     6,
      0
     ],
     "Kurdistan24": [
@@ -20694,7 +20697,7 @@
     ],
     "Atlantic Council": [
      0,
-     2,
+     4,
      0
     ],
     "صحيفة سبق الإلكترونية": [
@@ -20709,17 +20712,17 @@
     ],
     "South China Morning Post": [
      0,
-     2,
+     4,
      0
     ],
     "Spiegel": [
      0,
-     1,
+     2,
      0
     ],
     "The Economist": [
      0,
-     1,
+     3,
      0
     ],
     "CP24": [
@@ -21034,7 +21037,7 @@
     ],
     "Le Monde.fr": [
      0,
-     1,
+     2,
      0
     ],
     "PocketGamer.biz": [
@@ -21113,6 +21116,69 @@
      0
     ],
     "Deccan Herald": [
+     0,
+     1,
+     0
+    ],
+    "Daily Sabah": [
+     0,
+     1,
+     0
+    ],
+    "Foreign Policy": [
+     0,
+     1,
+     0
+    ],
+    "The Insight International": [
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "2026-11-25": {
+   "total": 5,
+   "news": 5,
+   "articles": 0,
+   "positive": 0,
+   "neutral": 5,
+   "critical": 0,
+   "mbs": 0,
+   "countries": {
+    "US": 1,
+    "GB": 1
+   },
+   "topics": {},
+   "sources": {
+    "Yemen Online": 1,
+    "Bloomberg.com": 1,
+    "Financial Times": 1,
+    "www.tmgm.com": 1,
+    "FXEmpire": 1
+   },
+   "sourceTone": {
+    "Yemen Online": [
+     0,
+     1,
+     0
+    ],
+    "Bloomberg.com": [
+     0,
+     1,
+     0
+    ],
+    "Financial Times": [
+     0,
+     1,
+     0
+    ],
+    "www.tmgm.com": [
+     0,
+     1,
+     0
+    ],
+    "FXEmpire": [
      0,
      1,
      0
