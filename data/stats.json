@@ -21354,17 +21354,17 @@
    }
   },
   "2026-11-25": {
-   "total": 519,
-   "news": 511,
+   "total": 524,
+   "news": 516,
    "articles": 8,
    "positive": 0,
-   "neutral": 519,
+   "neutral": 524,
    "critical": 0,
    "mbs": 12,
    "countries": {
     "US": 125,
-    "GB": 76,
-    "SA": 82,
+    "GB": 80,
+    "SA": 83,
     "DE": 2,
     "HK": 2,
     "FR": 11
@@ -21373,7 +21373,7 @@
    "sources": {
     "Yemen Online": 5,
     "Bloomberg.com": 37,
-    "Financial Times": 6,
+    "Financial Times": 7,
     "www.tmgm.com": 1,
     "FXEmpire": 2,
     "Global Advisory Experts": 9,
@@ -21384,12 +21384,12 @@
     "Semafor": 2,
     "Yahoo": 1,
     "Chosunbiz": 1,
-    "Arab News": 57,
+    "Arab News": 58,
     "WSJ": 17,
     "Spiegel": 2,
     "Al-Monitor": 20,
     "BBC": 15,
-    "The Guardian": 16,
+    "The Guardian": 19,
     "Reuters": 42,
     "South China Morning Post": 2,
     "Fakti.bg": 1,
@@ -21538,7 +21538,7 @@
     ],
     "Financial Times": [
      0,
-     6,
+     7,
      0
     ],
     "www.tmgm.com": [
@@ -21593,7 +21593,7 @@
     ],
     "Arab News": [
      0,
-     57,
+     58,
      0
     ],
     "WSJ": [
@@ -21618,7 +21618,7 @@
     ],
     "The Guardian": [
      0,
-     16,
+     19,
      0
     ],
     "Reuters": [
