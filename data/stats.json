@@ -21348,15 +21348,15 @@
    }
   },
   "2026-11-25": {
-   "total": 190,
-   "news": 190,
+   "total": 191,
+   "news": 191,
    "articles": 0,
    "positive": 0,
-   "neutral": 190,
+   "neutral": 191,
    "critical": 0,
    "mbs": 8,
    "countries": {
-    "US": 33,
+    "US": 34,
     "GB": 22,
     "SA": 28,
     "DE": 2,
@@ -21455,7 +21455,8 @@
     "The Arab Weekly": 1,
     "Arabian Business": 1,
     "وكالة الأنباء السعودية": 1,
-    "Hürriyet Daily News": 1
+    "Hürriyet Daily News": 1,
+    "The New York Times": 1
    },
    "sourceTone": {
     "Yemen Online": [
@@ -21909,6 +21910,11 @@
      0
     ],
     "Hürriyet Daily News": [
+     0,
+     1,
+     0
+    ],
+    "The New York Times": [
      0,
      1,
      0
