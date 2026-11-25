@@ -1,5 +1,17 @@
 [
  {
+  "id": "2345e1a809b58897",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "تيلغراف: الاستخبارات البريطانية تحذر شركات الدفاع من هجمات روسية",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/155431",
+  "published": "2026-11-25T01:35:22.000Z",
+  "subject": "saudi",
+  "added": "2026-11-25T01:35:22.000Z"
+ },
+ {
   "id": "5a6e606867dbf72c",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -166,17 +178,5 @@
   "published": "2026-11-25T00:48:21.000Z",
   "subject": "saudi",
   "added": "2026-11-25T00:48:21.000Z"
- },
- {
-  "id": "38bba1208ca5859f",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "نيويورك تايمز: إدارة ترمب تعلق العمليات العسكرية المشتركة مع الإكوادور",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/155416",
-  "published": "2026-11-25T00:35:42.000Z",
-  "subject": "saudi",
-  "added": "2026-11-25T00:35:42.000Z"
  }
 ]

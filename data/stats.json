@@ -20341,11 +20341,11 @@
    }
   },
   "2026-11-24": {
-   "total": 620,
-   "news": 606,
+   "total": 622,
+   "news": 608,
    "articles": 14,
    "positive": 0,
-   "neutral": 620,
+   "neutral": 622,
    "critical": 0,
    "mbs": 17,
    "countries": {
@@ -20370,7 +20370,7 @@
     "Al-Monitor": 33,
     "WSJ": 19,
     "The New York Times": 14,
-    "Arab News": 89,
+    "Arab News": 90,
     "France 24": 3,
     "AP News": 8,
     "sanad.uk": 1,
@@ -20517,7 +20517,8 @@
     "The New Indian Express": 1,
     "News of Bahrain": 1,
     "WPLG Local 10": 2,
-    "Fana News -": 1
+    "Fana News -": 1,
+    "وكالة الأنباء السعودية": 1
    },
    "sourceTone": {
     "Saudi Gazette": [
@@ -20577,7 +20578,7 @@
     ],
     "Arab News": [
      0,
-     89,
+     90,
      0
     ],
     "France 24": [
@@ -21311,6 +21312,11 @@
      0
     ],
     "Fana News -": [
+     0,
+     1,
+     0
+    ],
+    "وكالة الأنباء السعودية": [
      0,
      1,
      0
