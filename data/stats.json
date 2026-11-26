@@ -22402,24 +22402,24 @@
    }
   },
   "2026-11-26": {
-   "total": 185,
-   "news": 184,
+   "total": 188,
+   "news": 187,
    "articles": 1,
    "positive": 0,
-   "neutral": 185,
+   "neutral": 188,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "SA": 31,
+    "SA": 32,
     "US": 37,
-    "GB": 37,
+    "GB": 38,
     "FR": 1,
     "HK": 1,
     "JP": 1
    },
    "topics": {},
    "sources": {
-    "Arab News": 23,
+    "Arab News": 24,
     "富途牛牛": 1,
     "Al-Monitor": 7,
     "WSJ": 8,
@@ -22447,7 +22447,7 @@
     "WhoWhatWhy": 1,
     "Saudi Gazette": 13,
     "The Washington Post": 2,
-    "BBC": 8,
+    "BBC": 9,
     "Le Monde.fr": 1,
     "The New York Times": 1,
     "South China Morning Post": 1,
@@ -22490,12 +22490,13 @@
     "Global Advisory Experts": 1,
     "Українські Національні Новини (УНН)": 1,
     "ESPN": 1,
-    "US Muslims": 1
+    "US Muslims": 1,
+    "The Independent": 1
    },
    "sourceTone": {
     "Arab News": [
      0,
-     23,
+     24,
      0
     ],
     "富途牛牛": [
@@ -22635,7 +22636,7 @@
     ],
     "BBC": [
      0,
-     8,
+     9,
      0
     ],
     "Le Monde.fr": [
@@ -22849,6 +22850,11 @@
      0
     ],
     "US Muslims": [
+     0,
+     1,
+     0
+    ],
+    "The Independent": [
      0,
      1,
      0
