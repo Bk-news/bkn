@@ -20341,17 +20341,17 @@
    }
   },
   "2026-11-24": {
-   "total": 760,
-   "news": 746,
+   "total": 761,
+   "news": 747,
    "articles": 14,
    "positive": 0,
-   "neutral": 760,
+   "neutral": 761,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "SA": 114,
     "US": 176,
-    "GB": 201,
+    "GB": 202,
     "JP": 1,
     "FR": 6,
     "HK": 3,
@@ -20364,7 +20364,7 @@
     "The Washington Post": 2,
     "Financial Times": 14,
     "BBC": 12,
-    "Reuters": 147,
+    "Reuters": 148,
     "Nikkei Asia": 1,
     "Bloomberg.com": 72,
     "Al-Monitor": 33,
@@ -20553,7 +20553,7 @@
     ],
     "Reuters": [
      0,
-     147,
+     148,
      0
     ],
     "Nikkei Asia": [
@@ -21354,11 +21354,11 @@
    }
   },
   "2026-11-25": {
-   "total": 609,
-   "news": 599,
+   "total": 610,
+   "news": 600,
    "articles": 10,
    "positive": 0,
-   "neutral": 609,
+   "neutral": 610,
    "critical": 0,
    "mbs": 12,
    "countries": {
@@ -21367,7 +21367,7 @@
     "SA": 96,
     "DE": 2,
     "HK": 2,
-    "FR": 12
+    "FR": 13
    },
    "topics": {},
    "sources": {
@@ -21398,7 +21398,7 @@
     "SpaceWatch.GLOBAL": 1,
     "Condé Nast Traveller Middle East": 2,
     "Ocean Energy Resources": 1,
-    "Le Monde.fr": 2,
+    "Le Monde.fr": 3,
     "JNS": 1,
     "NDTV Sports": 1,
     "Anadolu Ajansı": 7,
@@ -21678,7 +21678,7 @@
     ],
     "Le Monde.fr": [
      0,
-     2,
+     3,
      0
     ],
     "JNS": [
@@ -22384,17 +22384,17 @@
    }
   },
   "2026-11-26": {
-   "total": 18,
-   "news": 18,
+   "total": 19,
+   "news": 19,
    "articles": 0,
    "positive": 0,
-   "neutral": 18,
+   "neutral": 19,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "SA": 1,
     "US": 3,
-    "GB": 2
+    "GB": 3
    },
    "topics": {},
    "sources": {
@@ -22413,7 +22413,7 @@
     "Nation Thailand": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
     "BigGo Finance": 2,
-    "Reuters": 2
+    "Reuters": 3
    },
    "sourceTone": {
     "Arab News": [
@@ -22493,7 +22493,7 @@
     ],
     "Reuters": [
      0,
-     2,
+     3,
      0
     ]
    }
