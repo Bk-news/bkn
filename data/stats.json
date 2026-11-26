@@ -22414,15 +22414,15 @@
    }
   },
   "2026-11-26": {
-   "total": 486,
-   "news": 479,
+   "total": 488,
+   "news": 481,
    "articles": 7,
    "positive": 0,
-   "neutral": 486,
+   "neutral": 488,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "SA": 87,
+    "SA": 88,
     "US": 109,
     "GB": 97,
     "FR": 3,
@@ -22432,7 +22432,7 @@
    },
    "topics": {},
    "sources": {
-    "Arab News": 73,
+    "Arab News": 74,
     "富途牛牛": 1,
     "Al-Monitor": 23,
     "WSJ": 12,
@@ -22564,12 +22564,13 @@
     "Al Jazeera": 1,
     "World Pipelines": 1,
     "Hürriyet Daily News": 1,
-    "houseofsaud.com": 1
+    "houseofsaud.com": 1,
+    "DD News": 1
    },
    "sourceTone": {
     "Arab News": [
      0,
-     73,
+     74,
      0
     ],
     "富途牛牛": [
@@ -23228,6 +23229,11 @@
      0
     ],
     "houseofsaud.com": [
+     0,
+     1,
+     0
+    ],
+    "DD News": [
      0,
      1,
      0
