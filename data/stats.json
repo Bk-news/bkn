@@ -22402,17 +22402,17 @@
    }
   },
   "2026-11-26": {
-   "total": 211,
-   "news": 210,
+   "total": 213,
+   "news": 212,
    "articles": 1,
    "positive": 0,
-   "neutral": 211,
+   "neutral": 213,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "SA": 39,
     "US": 41,
-    "GB": 41,
+    "GB": 42,
     "FR": 1,
     "HK": 1,
     "JP": 1
@@ -22447,7 +22447,7 @@
     "WhoWhatWhy": 1,
     "Saudi Gazette": 14,
     "The Washington Post": 2,
-    "BBC": 9,
+    "BBC": 10,
     "Le Monde.fr": 1,
     "The New York Times": 1,
     "South China Morning Post": 1,
@@ -22499,7 +22499,8 @@
     "The Times of Israel": 1,
     "thecradle.co": 1,
     "Business Insider Africa": 1,
-    "Zawya": 1
+    "Zawya": 1,
+    "Traders Union": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -22644,7 +22645,7 @@
     ],
     "BBC": [
      0,
-     9,
+     10,
      0
     ],
     "Le Monde.fr": [
@@ -22903,6 +22904,11 @@
      0
     ],
     "Zawya": [
+     0,
+     1,
+     0
+    ],
+    "Traders Union": [
      0,
      1,
      0
