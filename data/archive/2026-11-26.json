@@ -2,6 +2,27 @@
  "day": "2026-11-26",
  "items": [
   {
+   "id": "668a2760f4770f23",
+   "origin": "rss",
+   "source": "Reuters",
+   "author": "",
+   "title_ar": "تعود مراكز التسوق الأمريكية إلى الظهور مع سعي المتسوقين إلى ما هو أكثر من الصفقات",
+   "title_orig": "US malls make a comeback as shoppers seek more than deals",
+   "title_en": "US malls make a comeback as shoppers seek more than deals",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE52U3k1Q3VMd096eF84aHdtOXVRQjlyWXBfVlR4d1czSWtJLVFDMHcwQjFPT1drM01fU0JXYVFTQmpVUWF1OUlYb1BoemdLM2MzQ1Y2YzkzR2MxRUVkajFJbUpmQVkyUzVUSTIyQkViYUtpQVk0UEZXeTFn?oc=5",
+   "published": "2026-11-26T20:50:16.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "US malls make a comeback as shoppers seek more than deals &nbsp;&nbsp; Reuters",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "46d9c2ad2dcee149",
    "origin": "rss",
    "source": "NBC News",
