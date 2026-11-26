@@ -20341,17 +20341,17 @@
    }
   },
   "2026-11-24": {
-   "total": 750,
-   "news": 736,
+   "total": 757,
+   "news": 743,
    "articles": 14,
    "positive": 0,
-   "neutral": 750,
+   "neutral": 757,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "SA": 114,
-    "US": 169,
-    "GB": 198,
+    "US": 174,
+    "GB": 200,
     "JP": 1,
     "FR": 6,
     "HK": 3,
@@ -20366,7 +20366,7 @@
     "BBC": 11,
     "Reuters": 147,
     "Nikkei Asia": 1,
-    "Bloomberg.com": 70,
+    "Bloomberg.com": 72,
     "Al-Monitor": 33,
     "WSJ": 21,
     "The New York Times": 14,
@@ -20393,7 +20393,7 @@
     "CGTN": 1,
     "www.tmgm.com": 3,
     "Yeni Safak English": 4,
-    "The Guardian": 24,
+    "The Guardian": 26,
     "Kurdistan24": 1,
     "Al Jazeera": 2,
     "Travel & Tourism News Middle East": 1,
@@ -20402,7 +20402,7 @@
     "Avi-Go": 4,
     "Atlantic Council": 9,
     "صحيفة سبق الإلكترونية": 4,
-    "Bloomberg": 15,
+    "Bloomberg": 18,
     "South China Morning Post": 4,
     "Spiegel": 2,
     "The Economist": 4,
@@ -20563,7 +20563,7 @@
     ],
     "Bloomberg.com": [
      0,
-     70,
+     72,
      0
     ],
     "Al-Monitor": [
@@ -20698,7 +20698,7 @@
     ],
     "The Guardian": [
      0,
-     24,
+     26,
      0
     ],
     "Kurdistan24": [
@@ -20743,7 +20743,7 @@
     ],
     "Bloomberg": [
      0,
-     15,
+     18,
      0
     ],
     "South China Morning Post": [
@@ -21354,15 +21354,15 @@
    }
   },
   "2026-11-25": {
-   "total": 555,
-   "news": 545,
+   "total": 582,
+   "news": 572,
    "articles": 10,
    "positive": 0,
-   "neutral": 555,
+   "neutral": 582,
    "critical": 0,
    "mbs": 12,
    "countries": {
-    "US": 138,
+    "US": 147,
     "GB": 90,
     "SA": 88,
     "DE": 2,
@@ -21371,23 +21371,23 @@
    },
    "topics": {},
    "sources": {
-    "Yemen Online": 5,
-    "Bloomberg.com": 38,
+    "Yemen Online": 6,
+    "Bloomberg.com": 39,
     "Financial Times": 9,
     "www.tmgm.com": 1,
     "FXEmpire": 2,
     "Global Advisory Experts": 9,
-    "Middle East Eye": 4,
+    "Middle East Eye": 5,
     "The Express Tribune": 1,
     "Manara Magazine": 1,
     "Saudi Gazette": 34,
     "Semafor": 2,
     "Yahoo": 1,
     "Chosunbiz": 1,
-    "Arab News": 62,
+    "Arab News": 63,
     "WSJ": 19,
     "Spiegel": 2,
-    "Al-Monitor": 23,
+    "Al-Monitor": 26,
     "BBC": 16,
     "The Guardian": 22,
     "Reuters": 45,
@@ -21401,13 +21401,13 @@
     "Le Monde.fr": 2,
     "JNS": 1,
     "NDTV Sports": 1,
-    "Anadolu Ajansı": 5,
+    "Anadolu Ajansı": 7,
     "The Jerusalem Post": 3,
     "The Times of India": 1,
     "The AFC": 4,
     "Cureus": 1,
     "X": 1,
-    "Al Jazeera": 2,
+    "Al Jazeera": 3,
     "Seatrade Maritime News": 1,
     "The Business Times": 1,
     "Kurdistan24": 1,
@@ -21424,7 +21424,7 @@
     "MUFG Research": 1,
     "AP News": 7,
     "Crypto Briefing": 2,
-    "Al Arabiya English": 3,
+    "Al Arabiya English": 4,
     "TradingView": 1,
     "Mehr News Agency": 1,
     "Jordan News": 1,
@@ -21454,7 +21454,7 @@
     "الخبر اليمني": 1,
     "اسلام تايمز": 1,
     "Firstpost": 2,
-    "Bloomberg": 36,
+    "Bloomberg": 42,
     "The New Arab": 2,
     "DW.com": 2,
     "The Washington Post": 1,
@@ -21464,7 +21464,7 @@
     "Hürriyet Daily News": 1,
     "The New York Times": 8,
     "WE News English": 1,
-    "Modern Ghana": 1,
+    "Modern Ghana": 2,
     "Atlantic Council": 6,
     "Foreign Policy": 2,
     "CNN": 3,
@@ -21490,7 +21490,7 @@
     "Middle East Online": 2,
     "Full Fact": 1,
     "Daily Sabah": 2,
-    "Goal.com": 1,
+    "Goal.com": 2,
     "SeeNews": 1,
     "Democracy Now!": 1,
     "Crude Oil Prices Today | OilPrice.com": 1,
@@ -21524,17 +21524,25 @@
     "Variety": 1,
     "The Mirror US": 1,
     "ARYnews.tv": 1,
-    "energynews.pro": 1
+    "energynews.pro": 1,
+    "The Star": 1,
+    "Latin Times": 1,
+    "StoneX": 1,
+    "Offshore Magazine": 1,
+    "The Times of Israel": 1,
+    "Yahoo Finance": 1,
+    "Arab News PK": 1,
+    "TribalFootball": 1
    },
    "sourceTone": {
     "Yemen Online": [
      0,
-     5,
+     6,
      0
     ],
     "Bloomberg.com": [
      0,
-     38,
+     39,
      0
     ],
     "Financial Times": [
@@ -21559,7 +21567,7 @@
     ],
     "Middle East Eye": [
      0,
-     4,
+     5,
      0
     ],
     "The Express Tribune": [
@@ -21594,7 +21602,7 @@
     ],
     "Arab News": [
      0,
-     62,
+     63,
      0
     ],
     "WSJ": [
@@ -21609,7 +21617,7 @@
     ],
     "Al-Monitor": [
      0,
-     23,
+     26,
      0
     ],
     "BBC": [
@@ -21679,7 +21687,7 @@
     ],
     "Anadolu Ajansı": [
      0,
-     5,
+     7,
      0
     ],
     "The Jerusalem Post": [
@@ -21709,7 +21717,7 @@
     ],
     "Al Jazeera": [
      0,
-     2,
+     3,
      0
     ],
     "Seatrade Maritime News": [
@@ -21794,7 +21802,7 @@
     ],
     "Al Arabiya English": [
      0,
-     3,
+     4,
      0
     ],
     "TradingView": [
@@ -21944,7 +21952,7 @@
     ],
     "Bloomberg": [
      0,
-     36,
+     42,
      0
     ],
     "The New Arab": [
@@ -21994,7 +22002,7 @@
     ],
     "Modern Ghana": [
      0,
-     1,
+     2,
      0
     ],
     "Atlantic Council": [
@@ -22124,7 +22132,7 @@
     ],
     "Goal.com": [
      0,
-     1,
+     2,
      0
     ],
     "SeeNews": [
@@ -22296,15 +22304,55 @@
      0,
      1,
      0
+    ],
+    "The Star": [
+     0,
+     1,
+     0
+    ],
+    "Latin Times": [
+     0,
+     1,
+     0
+    ],
+    "StoneX": [
+     0,
+     1,
+     0
+    ],
+    "Offshore Magazine": [
+     0,
+     1,
+     0
+    ],
+    "The Times of Israel": [
+     0,
+     1,
+     0
+    ],
+    "Yahoo Finance": [
+     0,
+     1,
+     0
+    ],
+    "Arab News PK": [
+     0,
+     1,
+     0
+    ],
+    "TribalFootball": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-26": {
-   "total": 8,
-   "news": 8,
+   "total": 14,
+   "news": 14,
    "articles": 0,
    "positive": 0,
-   "neutral": 8,
+   "neutral": 14,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -22320,7 +22368,13 @@
     "Bloomberg": 1,
     "Bioengineer.org": 1,
     "X": 1,
-    "Chosunbiz": 1
+    "Chosunbiz": 1,
+    "Albalad.co": 1,
+    "China Daily": 1,
+    "Middle East Eye": 1,
+    "조선일보": 1,
+    "Nation Thailand": 1,
+    "Arabian Gulf Business Insight | AGBI": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -22359,6 +22413,36 @@
      0
     ],
     "Chosunbiz": [
+     0,
+     1,
+     0
+    ],
+    "Albalad.co": [
+     0,
+     1,
+     0
+    ],
+    "China Daily": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Eye": [
+     0,
+     1,
+     0
+    ],
+    "조선일보": [
+     0,
+     1,
+     0
+    ],
+    "Nation Thailand": [
+     0,
+     1,
+     0
+    ],
+    "Arabian Gulf Business Insight | AGBI": [
      0,
      1,
      0
