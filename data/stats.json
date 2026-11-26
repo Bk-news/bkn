@@ -21354,16 +21354,16 @@
    }
   },
   "2026-11-25": {
-   "total": 611,
-   "news": 601,
+   "total": 613,
+   "news": 603,
    "articles": 10,
    "positive": 0,
-   "neutral": 611,
+   "neutral": 613,
    "critical": 0,
    "mbs": 12,
    "countries": {
     "US": 148,
-    "GB": 100,
+    "GB": 101,
     "SA": 96,
     "DE": 2,
     "HK": 2,
@@ -21389,7 +21389,7 @@
     "Spiegel": 2,
     "Al-Monitor": 26,
     "BBC": 18,
-    "The Guardian": 23,
+    "The Guardian": 24,
     "Reuters": 52,
     "South China Morning Post": 2,
     "Fakti.bg": 1,
@@ -21536,7 +21536,7 @@
     "Insurance Journal": 1,
     "Iran International": 1,
     "Howl.Link": 1,
-    "The Insight International": 3,
+    "The Insight International": 4,
     "jawlah.co": 1,
     "US Muslims": 1
    },
@@ -21633,7 +21633,7 @@
     ],
     "The Guardian": [
      0,
-     23,
+     24,
      0
     ],
     "Reuters": [
@@ -22368,7 +22368,7 @@
     ],
     "The Insight International": [
      0,
-     3,
+     4,
      0
     ],
     "jawlah.co": [
