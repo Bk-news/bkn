@@ -1,5 +1,17 @@
 [
  {
+  "id": "bc614ea05262b6fe",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "مصادر العربية: مقتل القيادي في حماس خالد أبو ندى جراء استهداف إسرائيلي بغزة",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/155632",
+  "published": "2026-11-26T02:40:02.000Z",
+  "subject": "saudi",
+  "added": "2026-11-26T02:40:02.000Z"
+ },
+ {
   "id": "e4bb4e205412d8e1",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -34,17 +46,5 @@
   "published": "2026-11-26T01:47:19.000Z",
   "subject": "saudi",
   "added": "2026-11-26T01:47:19.000Z"
- },
- {
-  "id": "fae78f1c4f038fc6",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "كوريا الجنوبية: على كوريا الشمالية وقف تطوير أسلحتها النووية والامتثال للقرارات الأممية",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/155628",
-  "published": "2026-11-26T01:40:01.000Z",
-  "subject": "saudi",
-  "added": "2026-11-26T01:40:01.000Z"
  }
 ]
