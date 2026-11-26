@@ -20341,16 +20341,16 @@
    }
   },
   "2026-11-24": {
-   "total": 763,
+   "total": 764,
    "news": 749,
-   "articles": 14,
+   "articles": 15,
    "positive": 0,
-   "neutral": 763,
+   "neutral": 764,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "SA": 114,
-    "US": 177,
+    "US": 178,
     "GB": 203,
     "JP": 1,
     "FR": 6,
@@ -20486,7 +20486,7 @@
     "الأمانة العامة لمجلس التعاون لدول الخليج العربية": 1,
     "Deccan Herald": 1,
     "Daily Sabah": 2,
-    "Foreign Policy": 1,
+    "Foreign Policy": 2,
     "The Insight International": 1,
     "FXStreet": 1,
     "investingLive": 1,
@@ -21163,7 +21163,7 @@
     ],
     "Foreign Policy": [
      0,
-     1,
+     2,
      0
     ],
     "The Insight International": [
