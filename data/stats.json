@@ -21360,15 +21360,15 @@
    }
   },
   "2026-11-25": {
-   "total": 746,
-   "news": 735,
+   "total": 747,
+   "news": 736,
    "articles": 11,
    "positive": 0,
-   "neutral": 746,
+   "neutral": 747,
    "critical": 0,
    "mbs": 13,
    "countries": {
-    "US": 221,
+    "US": 222,
     "GB": 145,
     "SA": 103,
     "DE": 2,
@@ -21473,7 +21473,7 @@
     "Modern Ghana": 2,
     "Atlantic Council": 6,
     "Foreign Policy": 2,
-    "CNN": 38,
+    "CNN": 39,
     "France 24": 11,
     "The Economist": 3,
     "Employee Happiness Daily": 1,
@@ -22033,7 +22033,7 @@
     ],
     "CNN": [
      0,
-     38,
+     39,
      0
     ],
     "France 24": [
@@ -22414,11 +22414,11 @@
    }
   },
   "2026-11-26": {
-   "total": 501,
-   "news": 494,
+   "total": 505,
+   "news": 498,
    "articles": 7,
    "positive": 0,
-   "neutral": 501,
+   "neutral": 505,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -22483,7 +22483,7 @@
     "Middle East Online": 2,
     "Howl.Link": 1,
     "The National": 3,
-    "www.marketscreener.com": 3,
+    "www.marketscreener.com": 5,
     "Muslim Network TV": 2,
     "Middle East Monitor": 3,
     "TradingView": 3,
@@ -22503,7 +22503,7 @@
     "Global Advisory Experts": 1,
     "Українські Національні Новини (УНН)": 1,
     "ESPN": 1,
-    "US Muslims": 1,
+    "US Muslims": 2,
     "The Independent": 1,
     "IQAir": 1,
     "Sharjah24": 1,
@@ -22568,7 +22568,8 @@
     "DD News": 1,
     "EnergyNow.com": 1,
     "NBC News": 1,
-    "1News.az": 1
+    "1News.az": 1,
+    "www.foreignpolicyjournal.com": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -22828,7 +22829,7 @@
     ],
     "www.marketscreener.com": [
      0,
-     3,
+     5,
      0
     ],
     "Muslim Network TV": [
@@ -22928,7 +22929,7 @@
     ],
     "US Muslims": [
      0,
-     1,
+     2,
      0
     ],
     "The Independent": [
@@ -23252,6 +23253,11 @@
      0
     ],
     "1News.az": [
+     0,
+     1,
+     0
+    ],
+    "www.foreignpolicyjournal.com": [
      0,
      1,
      0
