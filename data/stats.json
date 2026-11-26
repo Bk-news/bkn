@@ -21354,16 +21354,16 @@
    }
   },
   "2026-11-25": {
-   "total": 610,
-   "news": 600,
+   "total": 611,
+   "news": 601,
    "articles": 10,
    "positive": 0,
-   "neutral": 610,
+   "neutral": 611,
    "critical": 0,
    "mbs": 12,
    "countries": {
     "US": 148,
-    "GB": 99,
+    "GB": 100,
     "SA": 96,
     "DE": 2,
     "HK": 2,
@@ -21389,7 +21389,7 @@
     "Spiegel": 2,
     "Al-Monitor": 26,
     "BBC": 18,
-    "The Guardian": 22,
+    "The Guardian": 23,
     "Reuters": 52,
     "South China Morning Post": 2,
     "Fakti.bg": 1,
@@ -21633,7 +21633,7 @@
     ],
     "The Guardian": [
      0,
-     22,
+     23,
      0
     ],
     "Reuters": [
@@ -22384,11 +22384,11 @@
    }
   },
   "2026-11-26": {
-   "total": 22,
-   "news": 22,
+   "total": 23,
+   "news": 23,
    "articles": 0,
    "positive": 0,
-   "neutral": 22,
+   "neutral": 23,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -22413,7 +22413,8 @@
     "Nation Thailand": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
     "BigGo Finance": 2,
-    "Reuters": 4
+    "Reuters": 4,
+    "FanDuel Sportsbook": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -22494,6 +22495,11 @@
     "Reuters": [
      0,
      4,
+     0
+    ],
+    "FanDuel Sportsbook": [
+     0,
+     1,
      0
     ]
    }
