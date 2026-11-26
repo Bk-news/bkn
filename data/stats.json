@@ -22402,11 +22402,11 @@
    }
   },
   "2026-11-26": {
-   "total": 218,
-   "news": 217,
+   "total": 220,
+   "news": 219,
    "articles": 1,
    "positive": 0,
-   "neutral": 218,
+   "neutral": 220,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -22501,7 +22501,9 @@
     "Business Insider Africa": 1,
     "Zawya": 1,
     "Traders Union": 1,
-    "Vogue Arabia": 1
+    "Vogue Arabia": 1,
+    "National Security News": 1,
+    "FWDStart": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -22915,6 +22917,16 @@
      0
     ],
     "Vogue Arabia": [
+     0,
+     1,
+     0
+    ],
+    "National Security News": [
+     0,
+     1,
+     0
+    ],
+    "FWDStart": [
      0,
      1,
      0
