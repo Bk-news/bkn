@@ -21354,16 +21354,16 @@
    }
   },
   "2026-11-25": {
-   "total": 617,
-   "news": 607,
+   "total": 618,
+   "news": 608,
    "articles": 10,
    "positive": 0,
-   "neutral": 617,
+   "neutral": 618,
    "critical": 0,
    "mbs": 12,
    "countries": {
     "US": 149,
-    "GB": 101,
+    "GB": 102,
     "SA": 99,
     "DE": 2,
     "HK": 2,
@@ -21389,7 +21389,7 @@
     "Spiegel": 2,
     "Al-Monitor": 26,
     "BBC": 18,
-    "The Guardian": 24,
+    "The Guardian": 25,
     "Reuters": 52,
     "South China Morning Post": 2,
     "Fakti.bg": 1,
@@ -21633,7 +21633,7 @@
     ],
     "The Guardian": [
      0,
-     24,
+     25,
      0
     ],
     "Reuters": [
@@ -22384,16 +22384,16 @@
    }
   },
   "2026-11-26": {
-   "total": 29,
-   "news": 29,
+   "total": 30,
+   "news": 30,
    "articles": 0,
    "positive": 0,
-   "neutral": 29,
+   "neutral": 30,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "SA": 3,
-    "US": 6,
+    "US": 7,
     "GB": 5
    },
    "topics": {},
@@ -22401,7 +22401,7 @@
     "Arab News": 3,
     "富途牛牛": 1,
     "Al-Monitor": 3,
-    "WSJ": 2,
+    "WSJ": 3,
     "Bloomberg": 1,
     "Bioengineer.org": 1,
     "X": 1,
@@ -22437,7 +22437,7 @@
     ],
     "WSJ": [
      0,
-     2,
+     3,
      0
     ],
     "Bloomberg": [
