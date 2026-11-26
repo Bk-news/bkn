@@ -1,5 +1,17 @@
 [
  {
+  "id": "a8900b37690eb1a2",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "وزير خارجية أوكرانيا: لا نية لدينا لتوسيع رقعة الحرب إلى ليبيا",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/155767",
+  "published": "2026-11-26T20:29:01.000Z",
+  "subject": "saudi",
+  "added": "2026-11-26T20:29:01.000Z"
+ },
+ {
   "id": "de49ab3e498c2e41",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -22,17 +34,5 @@
   "published": "2026-11-26T19:59:19.000Z",
   "subject": "saudi",
   "added": "2026-11-26T19:59:19.000Z"
- },
- {
-  "id": "5042cafd2f7f744e",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "الجيش الإسرائيلي: استهدفنا قذائف صاروخية وفوهات الإطلاق التابعة لحزب الله جنوب لبنان",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/155764",
-  "published": "2026-11-26T19:29:02.000Z",
-  "subject": "saudi",
-  "added": "2026-11-26T19:29:02.000Z"
  }
 ]
