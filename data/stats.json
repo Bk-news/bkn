@@ -22402,15 +22402,15 @@
    }
   },
   "2026-11-26": {
-   "total": 188,
-   "news": 187,
+   "total": 191,
+   "news": 190,
    "articles": 1,
    "positive": 0,
-   "neutral": 188,
+   "neutral": 191,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "SA": 32,
+    "SA": 34,
     "US": 37,
     "GB": 38,
     "FR": 1,
@@ -22419,7 +22419,7 @@
    },
    "topics": {},
    "sources": {
-    "Arab News": 24,
+    "Arab News": 26,
     "富途牛牛": 1,
     "Al-Monitor": 7,
     "WSJ": 8,
@@ -22491,12 +22491,13 @@
     "Українські Національні Новини (УНН)": 1,
     "ESPN": 1,
     "US Muslims": 1,
-    "The Independent": 1
+    "The Independent": 1,
+    "IQAir": 1
    },
    "sourceTone": {
     "Arab News": [
      0,
-     24,
+     26,
      0
     ],
     "富途牛牛": [
@@ -22855,6 +22856,11 @@
      0
     ],
     "The Independent": [
+     0,
+     1,
+     0
+    ],
+    "IQAir": [
      0,
      1,
      0
