@@ -21354,15 +21354,15 @@
    }
   },
   "2026-11-25": {
-   "total": 682,
-   "news": 671,
+   "total": 683,
+   "news": 672,
    "articles": 11,
    "positive": 0,
-   "neutral": 682,
+   "neutral": 683,
    "critical": 0,
    "mbs": 13,
    "countries": {
-    "US": 173,
+    "US": 174,
     "GB": 132,
     "SA": 102,
     "DE": 2,
@@ -21372,7 +21372,7 @@
    "topics": {},
    "sources": {
     "Yemen Online": 6,
-    "Bloomberg.com": 58,
+    "Bloomberg.com": 59,
     "Financial Times": 10,
     "www.tmgm.com": 1,
     "FXEmpire": 2,
@@ -21551,7 +21551,7 @@
     ],
     "Bloomberg.com": [
      0,
-     58,
+     59,
      0
     ],
     "Financial Times": [
