@@ -22414,17 +22414,17 @@
    }
   },
   "2026-11-26": {
-   "total": 497,
-   "news": 490,
+   "total": 500,
+   "news": 493,
    "articles": 7,
    "positive": 0,
-   "neutral": 497,
+   "neutral": 500,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "SA": 92,
     "US": 109,
-    "GB": 98,
+    "GB": 99,
     "FR": 3,
     "HK": 4,
     "JP": 1,
@@ -22447,7 +22447,7 @@
     "Nation Thailand": 1,
     "Arabian Gulf Business Insight | AGBI": 3,
     "BigGo Finance": 5,
-    "Reuters": 60,
+    "Reuters": 61,
     "FanDuel Sportsbook": 1,
     "Modern Diplomacy": 1,
     "The Guardian": 12,
@@ -22566,7 +22566,9 @@
     "Hürriyet Daily News": 1,
     "houseofsaud.com": 1,
     "DD News": 1,
-    "EnergyNow.com": 1
+    "EnergyNow.com": 1,
+    "NBC News": 1,
+    "1News.az": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -22646,7 +22648,7 @@
     ],
     "Reuters": [
      0,
-     60,
+     61,
      0
     ],
     "FanDuel Sportsbook": [
@@ -23240,6 +23242,16 @@
      0
     ],
     "EnergyNow.com": [
+     0,
+     1,
+     0
+    ],
+    "NBC News": [
+     0,
+     1,
+     0
+    ],
+    "1News.az": [
      0,
      1,
      0
