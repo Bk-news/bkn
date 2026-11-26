@@ -20341,17 +20341,17 @@
    }
   },
   "2026-11-24": {
-   "total": 771,
-   "news": 756,
+   "total": 772,
+   "news": 757,
    "articles": 15,
    "positive": 0,
-   "neutral": 771,
+   "neutral": 772,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "SA": 114,
     "US": 181,
-    "GB": 207,
+    "GB": 208,
     "JP": 1,
     "FR": 6,
     "HK": 3,
@@ -20364,7 +20364,7 @@
     "The Washington Post": 3,
     "Financial Times": 14,
     "BBC": 12,
-    "Reuters": 151,
+    "Reuters": 152,
     "Nikkei Asia": 1,
     "Bloomberg.com": 72,
     "Al-Monitor": 34,
@@ -20553,7 +20553,7 @@
     ],
     "Reuters": [
      0,
-     151,
+     152,
      0
     ],
     "Nikkei Asia": [
@@ -22402,15 +22402,15 @@
    }
   },
   "2026-11-26": {
-   "total": 205,
-   "news": 204,
+   "total": 208,
+   "news": 207,
    "articles": 1,
    "positive": 0,
-   "neutral": 205,
+   "neutral": 208,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "SA": 36,
+    "SA": 38,
     "US": 41,
     "GB": 41,
     "FR": 1,
@@ -22419,7 +22419,7 @@
    },
    "topics": {},
    "sources": {
-    "Arab News": 28,
+    "Arab News": 29,
     "富途牛牛": 1,
     "Al-Monitor": 8,
     "WSJ": 8,
@@ -22429,7 +22429,7 @@
     "Chosunbiz": 1,
     "Albalad.co": 1,
     "China Daily": 1,
-    "Middle East Eye": 2,
+    "Middle East Eye": 3,
     "조선일보": 1,
     "Nation Thailand": 1,
     "Arabian Gulf Business Insight | AGBI": 3,
@@ -22445,7 +22445,7 @@
     "AP News": 1,
     "The Economist": 1,
     "WhoWhatWhy": 1,
-    "Saudi Gazette": 13,
+    "Saudi Gazette": 14,
     "The Washington Post": 2,
     "BBC": 9,
     "Le Monde.fr": 1,
@@ -22502,7 +22502,7 @@
    "sourceTone": {
     "Arab News": [
      0,
-     28,
+     29,
      0
     ],
     "富途牛牛": [
@@ -22552,7 +22552,7 @@
     ],
     "Middle East Eye": [
      0,
-     2,
+     3,
      0
     ],
     "조선일보": [
@@ -22632,7 +22632,7 @@
     ],
     "Saudi Gazette": [
      0,
-     13,
+     14,
      0
     ],
     "The Washington Post": [
