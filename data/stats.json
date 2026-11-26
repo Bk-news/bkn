@@ -22384,23 +22384,23 @@
    }
   },
   "2026-11-26": {
-   "total": 19,
-   "news": 19,
+   "total": 22,
+   "news": 22,
    "articles": 0,
    "positive": 0,
-   "neutral": 19,
+   "neutral": 22,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "SA": 1,
-    "US": 3,
-    "GB": 3
+    "US": 5,
+    "GB": 4
    },
    "topics": {},
    "sources": {
     "Arab News": 1,
     "富途牛牛": 1,
-    "Al-Monitor": 1,
+    "Al-Monitor": 3,
     "WSJ": 1,
     "Bloomberg": 1,
     "Bioengineer.org": 1,
@@ -22413,7 +22413,7 @@
     "Nation Thailand": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
     "BigGo Finance": 2,
-    "Reuters": 3
+    "Reuters": 4
    },
    "sourceTone": {
     "Arab News": [
@@ -22428,7 +22428,7 @@
     ],
     "Al-Monitor": [
      0,
-     1,
+     3,
      0
     ],
     "WSJ": [
@@ -22493,7 +22493,7 @@
     ],
     "Reuters": [
      0,
-     3,
+     4,
      0
     ]
    }
