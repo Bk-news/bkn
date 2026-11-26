@@ -22402,17 +22402,17 @@
    }
   },
   "2026-11-26": {
-   "total": 191,
-   "news": 190,
+   "total": 198,
+   "news": 197,
    "articles": 1,
    "positive": 0,
-   "neutral": 191,
+   "neutral": 198,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "SA": 34,
-    "US": 37,
-    "GB": 38,
+    "US": 39,
+    "GB": 39,
     "FR": 1,
     "HK": 1,
     "JP": 1
@@ -22434,14 +22434,14 @@
     "Nation Thailand": 1,
     "Arabian Gulf Business Insight | AGBI": 3,
     "BigGo Finance": 3,
-    "Reuters": 21,
+    "Reuters": 22,
     "FanDuel Sportsbook": 1,
     "Modern Diplomacy": 1,
     "The Guardian": 5,
     "巴士的報": 1,
     "Forbes Middle East": 1,
     "Financial Times": 5,
-    "Bloomberg.com": 17,
+    "Bloomberg.com": 19,
     "AP News": 1,
     "The Economist": 1,
     "WhoWhatWhy": 1,
@@ -22492,7 +22492,11 @@
     "ESPN": 1,
     "US Muslims": 1,
     "The Independent": 1,
-    "IQAir": 1
+    "IQAir": 1,
+    "Sharjah24": 1,
+    "A News": 1,
+    "سانا": 1,
+    "The Times of Israel": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -22572,7 +22576,7 @@
     ],
     "Reuters": [
      0,
-     21,
+     22,
      0
     ],
     "FanDuel Sportsbook": [
@@ -22607,7 +22611,7 @@
     ],
     "Bloomberg.com": [
      0,
-     17,
+     19,
      0
     ],
     "AP News": [
@@ -22861,6 +22865,26 @@
      0
     ],
     "IQAir": [
+     0,
+     1,
+     0
+    ],
+    "Sharjah24": [
+     0,
+     1,
+     0
+    ],
+    "A News": [
+     0,
+     1,
+     0
+    ],
+    "سانا": [
+     0,
+     1,
+     0
+    ],
+    "The Times of Israel": [
      0,
      1,
      0
