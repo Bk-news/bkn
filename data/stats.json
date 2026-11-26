@@ -21360,15 +21360,15 @@
    }
   },
   "2026-11-25": {
-   "total": 739,
-   "news": 728,
+   "total": 741,
+   "news": 730,
    "articles": 11,
    "positive": 0,
-   "neutral": 739,
+   "neutral": 741,
    "critical": 0,
    "mbs": 13,
    "countries": {
-    "US": 216,
+    "US": 218,
     "GB": 144,
     "SA": 103,
     "DE": 2,
@@ -21378,7 +21378,7 @@
    "topics": {},
    "sources": {
     "Yemen Online": 6,
-    "Bloomberg.com": 65,
+    "Bloomberg.com": 66,
     "Financial Times": 10,
     "www.tmgm.com": 1,
     "FXEmpire": 2,
@@ -21473,7 +21473,7 @@
     "Modern Ghana": 2,
     "Atlantic Council": 6,
     "Foreign Policy": 2,
-    "CNN": 36,
+    "CNN": 37,
     "France 24": 11,
     "The Economist": 3,
     "Employee Happiness Daily": 1,
@@ -21557,7 +21557,7 @@
     ],
     "Bloomberg.com": [
      0,
-     65,
+     66,
      0
     ],
     "Financial Times": [
@@ -22032,7 +22032,7 @@
     ],
     "CNN": [
      0,
-     36,
+     37,
      0
     ],
     "France 24": [
@@ -22408,15 +22408,15 @@
    }
   },
   "2026-11-26": {
-   "total": 476,
-   "news": 469,
+   "total": 477,
+   "news": 470,
    "articles": 7,
    "positive": 0,
-   "neutral": 476,
+   "neutral": 477,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "SA": 83,
+    "SA": 84,
     "US": 108,
     "GB": 92,
     "FR": 3,
@@ -22426,7 +22426,7 @@
    },
    "topics": {},
    "sources": {
-    "Arab News": 69,
+    "Arab News": 70,
     "富途牛牛": 1,
     "Al-Monitor": 23,
     "WSJ": 12,
@@ -22563,7 +22563,7 @@
    "sourceTone": {
     "Arab News": [
      0,
-     69,
+     70,
      0
     ],
     "富途牛牛": [
