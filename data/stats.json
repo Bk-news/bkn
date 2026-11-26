@@ -22402,17 +22402,17 @@
    }
   },
   "2026-11-26": {
-   "total": 213,
-   "news": 212,
+   "total": 215,
+   "news": 214,
    "articles": 1,
    "positive": 0,
-   "neutral": 213,
+   "neutral": 215,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "SA": 39,
-    "US": 41,
-    "GB": 42,
+    "US": 42,
+    "GB": 43,
     "FR": 1,
     "HK": 1,
     "JP": 1
@@ -22441,13 +22441,13 @@
     "巴士的報": 1,
     "Forbes Middle East": 1,
     "Financial Times": 5,
-    "Bloomberg.com": 20,
+    "Bloomberg.com": 21,
     "AP News": 1,
     "The Economist": 1,
     "WhoWhatWhy": 1,
     "Saudi Gazette": 14,
     "The Washington Post": 2,
-    "BBC": 10,
+    "BBC": 11,
     "Le Monde.fr": 1,
     "The New York Times": 1,
     "South China Morning Post": 1,
@@ -22615,7 +22615,7 @@
     ],
     "Bloomberg.com": [
      0,
-     20,
+     21,
      0
     ],
     "AP News": [
@@ -22645,7 +22645,7 @@
     ],
     "BBC": [
      0,
-     10,
+     11,
      0
     ],
     "Le Monde.fr": [
