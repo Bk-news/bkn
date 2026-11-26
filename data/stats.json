@@ -21354,17 +21354,17 @@
    }
   },
   "2026-11-25": {
-   "total": 613,
-   "news": 603,
+   "total": 616,
+   "news": 606,
    "articles": 10,
    "positive": 0,
-   "neutral": 613,
+   "neutral": 616,
    "critical": 0,
    "mbs": 12,
    "countries": {
     "US": 148,
     "GB": 101,
-    "SA": 96,
+    "SA": 99,
     "DE": 2,
     "HK": 2,
     "FR": 13
@@ -21384,7 +21384,7 @@
     "Semafor": 2,
     "Yahoo": 1,
     "Chosunbiz": 1,
-    "Arab News": 71,
+    "Arab News": 74,
     "WSJ": 19,
     "Spiegel": 2,
     "Al-Monitor": 26,
@@ -21608,7 +21608,7 @@
     ],
     "Arab News": [
      0,
-     71,
+     74,
      0
     ],
     "WSJ": [
@@ -22384,21 +22384,21 @@
    }
   },
   "2026-11-26": {
-   "total": 23,
-   "news": 23,
+   "total": 24,
+   "news": 24,
    "articles": 0,
    "positive": 0,
-   "neutral": 23,
+   "neutral": 24,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "SA": 1,
+    "SA": 2,
     "US": 5,
     "GB": 4
    },
    "topics": {},
    "sources": {
-    "Arab News": 1,
+    "Arab News": 2,
     "富途牛牛": 1,
     "Al-Monitor": 3,
     "WSJ": 1,
@@ -22419,7 +22419,7 @@
    "sourceTone": {
     "Arab News": [
      0,
-     1,
+     2,
      0
     ],
     "富途牛牛": [
