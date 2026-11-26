@@ -21354,15 +21354,15 @@
    }
   },
   "2026-11-25": {
-   "total": 686,
-   "news": 675,
+   "total": 687,
+   "news": 676,
    "articles": 11,
    "positive": 0,
-   "neutral": 686,
+   "neutral": 687,
    "critical": 0,
    "mbs": 13,
    "countries": {
-    "US": 175,
+    "US": 176,
     "GB": 134,
     "SA": 102,
     "DE": 2,
@@ -21372,7 +21372,7 @@
    "topics": {},
    "sources": {
     "Yemen Online": 6,
-    "Bloomberg.com": 60,
+    "Bloomberg.com": 61,
     "Financial Times": 10,
     "www.tmgm.com": 1,
     "FXEmpire": 2,
@@ -21551,7 +21551,7 @@
     ],
     "Bloomberg.com": [
      0,
-     60,
+     61,
      0
     ],
     "Financial Times": [
@@ -22402,11 +22402,11 @@
    }
   },
   "2026-11-26": {
-   "total": 210,
-   "news": 209,
+   "total": 211,
+   "news": 210,
    "articles": 1,
    "positive": 0,
-   "neutral": 210,
+   "neutral": 211,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -22498,7 +22498,8 @@
     "سانا": 1,
     "The Times of Israel": 1,
     "thecradle.co": 1,
-    "Business Insider Africa": 1
+    "Business Insider Africa": 1,
+    "Zawya": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -22897,6 +22898,11 @@
      0
     ],
     "Business Insider Africa": [
+     0,
+     1,
+     0
+    ],
+    "Zawya": [
      0,
      1,
      0
