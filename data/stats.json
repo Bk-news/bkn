@@ -21354,17 +21354,17 @@
    }
   },
   "2026-11-25": {
-   "total": 582,
-   "news": 572,
+   "total": 589,
+   "news": 579,
    "articles": 10,
    "positive": 0,
-   "neutral": 582,
+   "neutral": 589,
    "critical": 0,
    "mbs": 12,
    "countries": {
     "US": 147,
     "GB": 90,
-    "SA": 88,
+    "SA": 93,
     "DE": 2,
     "HK": 2,
     "FR": 12
@@ -21384,7 +21384,7 @@
     "Semafor": 2,
     "Yahoo": 1,
     "Chosunbiz": 1,
-    "Arab News": 63,
+    "Arab News": 68,
     "WSJ": 19,
     "Spiegel": 2,
     "Al-Monitor": 26,
@@ -21532,7 +21532,9 @@
     "The Times of Israel": 1,
     "Yahoo Finance": 1,
     "Arab News PK": 1,
-    "TribalFootball": 1
+    "TribalFootball": 1,
+    "Insurance Journal": 1,
+    "Iran International": 1
    },
    "sourceTone": {
     "Yemen Online": [
@@ -21602,7 +21604,7 @@
     ],
     "Arab News": [
      0,
-     63,
+     68,
      0
     ],
     "WSJ": [
@@ -22341,6 +22343,16 @@
      0
     ],
     "TribalFootball": [
+     0,
+     1,
+     0
+    ],
+    "Insurance Journal": [
+     0,
+     1,
+     0
+    ],
+    "Iran International": [
      0,
      1,
      0
