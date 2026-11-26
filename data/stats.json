@@ -22402,11 +22402,11 @@
    }
   },
   "2026-11-26": {
-   "total": 208,
-   "news": 207,
+   "total": 209,
+   "news": 208,
    "articles": 1,
    "positive": 0,
-   "neutral": 208,
+   "neutral": 209,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -22497,7 +22497,8 @@
     "A News": 1,
     "سانا": 1,
     "The Times of Israel": 1,
-    "thecradle.co": 1
+    "thecradle.co": 1,
+    "Business Insider Africa": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -22891,6 +22892,11 @@
      0
     ],
     "thecradle.co": [
+     0,
+     1,
+     0
+    ],
+    "Business Insider Africa": [
      0,
      1,
      0
