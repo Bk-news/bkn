@@ -20341,17 +20341,17 @@
    }
   },
   "2026-11-24": {
-   "total": 759,
-   "news": 745,
+   "total": 760,
+   "news": 746,
    "articles": 14,
    "positive": 0,
-   "neutral": 759,
+   "neutral": 760,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "SA": 114,
     "US": 176,
-    "GB": 200,
+    "GB": 201,
     "JP": 1,
     "FR": 6,
     "HK": 3,
@@ -20363,7 +20363,7 @@
     "SolarQuarter": 1,
     "The Washington Post": 2,
     "Financial Times": 14,
-    "BBC": 11,
+    "BBC": 12,
     "Reuters": 147,
     "Nikkei Asia": 1,
     "Bloomberg.com": 72,
@@ -20548,7 +20548,7 @@
     ],
     "BBC": [
      0,
-     11,
+     12,
      0
     ],
     "Reuters": [
@@ -21354,17 +21354,17 @@
    }
   },
   "2026-11-25": {
-   "total": 593,
-   "news": 583,
+   "total": 609,
+   "news": 599,
    "articles": 10,
    "positive": 0,
-   "neutral": 593,
+   "neutral": 609,
    "critical": 0,
    "mbs": 12,
    "countries": {
-    "US": 147,
-    "GB": 90,
-    "SA": 93,
+    "US": 148,
+    "GB": 99,
+    "SA": 96,
     "DE": 2,
     "HK": 2,
     "FR": 12
@@ -21384,13 +21384,13 @@
     "Semafor": 2,
     "Yahoo": 1,
     "Chosunbiz": 1,
-    "Arab News": 68,
+    "Arab News": 71,
     "WSJ": 19,
     "Spiegel": 2,
     "Al-Monitor": 26,
-    "BBC": 16,
+    "BBC": 18,
     "The Guardian": 22,
-    "Reuters": 45,
+    "Reuters": 52,
     "South China Morning Post": 2,
     "Fakti.bg": 1,
     "سانا": 2,
@@ -21422,7 +21422,7 @@
     "DAZN": 1,
     "Travel Daily Media": 1,
     "MUFG Research": 1,
-    "AP News": 7,
+    "AP News": 8,
     "Crypto Briefing": 2,
     "Al Arabiya English": 4,
     "TradingView": 1,
@@ -21442,7 +21442,7 @@
     "아시아경제": 1,
     "DNE Africa": 1,
     "Diari ARA": 1,
-    "Yeni Safak English": 5,
+    "Yeni Safak English": 6,
     "Dubai Eye 103.8": 1,
     "The Filipino Times": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -21536,7 +21536,9 @@
     "Insurance Journal": 1,
     "Iran International": 1,
     "Howl.Link": 1,
-    "The Insight International": 3
+    "The Insight International": 3,
+    "jawlah.co": 1,
+    "US Muslims": 1
    },
    "sourceTone": {
     "Yemen Online": [
@@ -21606,7 +21608,7 @@
     ],
     "Arab News": [
      0,
-     68,
+     71,
      0
     ],
     "WSJ": [
@@ -21626,7 +21628,7 @@
     ],
     "BBC": [
      0,
-     16,
+     18,
      0
     ],
     "The Guardian": [
@@ -21636,7 +21638,7 @@
     ],
     "Reuters": [
      0,
-     45,
+     52,
      0
     ],
     "South China Morning Post": [
@@ -21796,7 +21798,7 @@
     ],
     "AP News": [
      0,
-     7,
+     8,
      0
     ],
     "Crypto Briefing": [
@@ -21896,7 +21898,7 @@
     ],
     "Yeni Safak English": [
      0,
-     5,
+     6,
      0
     ],
     "Dubai Eye 103.8": [
@@ -22368,20 +22370,31 @@
      0,
      3,
      0
+    ],
+    "jawlah.co": [
+     0,
+     1,
+     0
+    ],
+    "US Muslims": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-26": {
-   "total": 15,
-   "news": 15,
+   "total": 18,
+   "news": 18,
    "articles": 0,
    "positive": 0,
-   "neutral": 15,
+   "neutral": 18,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "SA": 1,
-    "US": 3
+    "US": 3,
+    "GB": 2
    },
    "topics": {},
    "sources": {
@@ -22399,7 +22412,8 @@
     "조선일보": 1,
     "Nation Thailand": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
-    "BigGo Finance": 1
+    "BigGo Finance": 2,
+    "Reuters": 2
    },
    "sourceTone": {
     "Arab News": [
@@ -22474,7 +22488,12 @@
     ],
     "BigGo Finance": [
      0,
-     1,
+     2,
+     0
+    ],
+    "Reuters": [
+     0,
+     2,
      0
     ]
    }
