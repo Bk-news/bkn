@@ -21360,15 +21360,15 @@
    }
   },
   "2026-11-25": {
-   "total": 743,
-   "news": 732,
+   "total": 744,
+   "news": 733,
    "articles": 11,
    "positive": 0,
-   "neutral": 743,
+   "neutral": 744,
    "critical": 0,
    "mbs": 13,
    "countries": {
-    "US": 219,
+    "US": 220,
     "GB": 144,
     "SA": 103,
     "DE": 2,
@@ -21473,7 +21473,7 @@
     "Modern Ghana": 2,
     "Atlantic Council": 6,
     "Foreign Policy": 2,
-    "CNN": 37,
+    "CNN": 38,
     "France 24": 11,
     "The Economist": 3,
     "Employee Happiness Daily": 1,
@@ -22033,7 +22033,7 @@
     ],
     "CNN": [
      0,
-     37,
+     38,
      0
     ],
     "France 24": [
@@ -22414,17 +22414,17 @@
    }
   },
   "2026-11-26": {
-   "total": 488,
-   "news": 481,
+   "total": 490,
+   "news": 483,
    "articles": 7,
    "positive": 0,
-   "neutral": 488,
+   "neutral": 490,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "SA": 88,
+    "SA": 89,
     "US": 109,
-    "GB": 97,
+    "GB": 98,
     "FR": 3,
     "HK": 4,
     "JP": 1,
@@ -22432,7 +22432,7 @@
    },
    "topics": {},
    "sources": {
-    "Arab News": 74,
+    "Arab News": 75,
     "富途牛牛": 1,
     "Al-Monitor": 23,
     "WSJ": 12,
@@ -22460,7 +22460,7 @@
     "WhoWhatWhy": 1,
     "Saudi Gazette": 26,
     "The Washington Post": 2,
-    "BBC": 17,
+    "BBC": 18,
     "Le Monde.fr": 3,
     "The New York Times": 6,
     "South China Morning Post": 4,
@@ -22570,7 +22570,7 @@
    "sourceTone": {
     "Arab News": [
      0,
-     74,
+     75,
      0
     ],
     "富途牛牛": [
@@ -22710,7 +22710,7 @@
     ],
     "BBC": [
      0,
-     17,
+     18,
      0
     ],
     "Le Monde.fr": [
