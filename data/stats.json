@@ -22408,15 +22408,15 @@
    }
   },
   "2026-11-26": {
-   "total": 474,
-   "news": 467,
+   "total": 476,
+   "news": 469,
    "articles": 7,
    "positive": 0,
-   "neutral": 474,
+   "neutral": 476,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "SA": 82,
+    "SA": 83,
     "US": 108,
     "GB": 92,
     "FR": 3,
@@ -22426,7 +22426,7 @@
    },
    "topics": {},
    "sources": {
-    "Arab News": 68,
+    "Arab News": 69,
     "富途牛牛": 1,
     "Al-Monitor": 23,
     "WSJ": 12,
@@ -22480,7 +22480,7 @@
     "www.marketscreener.com": 3,
     "Muslim Network TV": 2,
     "Middle East Monitor": 3,
-    "TradingView": 2,
+    "TradingView": 3,
     "Open Magazine": 1,
     "marketscreener.com": 1,
     "KED Global": 1,
@@ -22563,7 +22563,7 @@
    "sourceTone": {
     "Arab News": [
      0,
-     68,
+     69,
      0
     ],
     "富途牛牛": [
@@ -22833,7 +22833,7 @@
     ],
     "TradingView": [
      0,
-     2,
+     3,
      0
     ],
     "Open Magazine": [
