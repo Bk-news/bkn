@@ -21360,15 +21360,15 @@
    }
   },
   "2026-11-25": {
-   "total": 742,
-   "news": 731,
+   "total": 743,
+   "news": 732,
    "articles": 11,
    "positive": 0,
-   "neutral": 742,
+   "neutral": 743,
    "critical": 0,
    "mbs": 13,
    "countries": {
-    "US": 218,
+    "US": 219,
     "GB": 144,
     "SA": 103,
     "DE": 2,
@@ -21391,7 +21391,7 @@
     "Yahoo": 1,
     "Chosunbiz": 1,
     "Arab News": 78,
-    "WSJ": 21,
+    "WSJ": 22,
     "Spiegel": 2,
     "Al-Monitor": 27,
     "BBC": 19,
@@ -21623,7 +21623,7 @@
     ],
     "WSJ": [
      0,
-     21,
+     22,
      0
     ],
     "Spiegel": [
