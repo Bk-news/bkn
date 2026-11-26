@@ -21354,16 +21354,16 @@
    }
   },
   "2026-11-25": {
-   "total": 675,
-   "news": 665,
-   "articles": 10,
+   "total": 680,
+   "news": 669,
+   "articles": 11,
    "positive": 0,
-   "neutral": 675,
+   "neutral": 680,
    "critical": 0,
    "mbs": 13,
    "countries": {
-    "US": 170,
-    "GB": 129,
+    "US": 173,
+    "GB": 130,
     "SA": 102,
     "DE": 2,
     "HK": 2,
@@ -21372,7 +21372,7 @@
    "topics": {},
    "sources": {
     "Yemen Online": 6,
-    "Bloomberg.com": 56,
+    "Bloomberg.com": 58,
     "Financial Times": 10,
     "www.tmgm.com": 1,
     "FXEmpire": 2,
@@ -21385,7 +21385,7 @@
     "Yahoo": 1,
     "Chosunbiz": 1,
     "Arab News": 77,
-    "WSJ": 20,
+    "WSJ": 21,
     "Spiegel": 2,
     "Al-Monitor": 26,
     "BBC": 18,
@@ -21469,7 +21469,7 @@
     "Foreign Policy": 2,
     "CNN": 3,
     "France 24": 11,
-    "The Economist": 2,
+    "The Economist": 3,
     "Employee Happiness Daily": 1,
     "TVB": 1,
     "Middle East Monitor": 1,
@@ -21538,7 +21538,7 @@
     "Howl.Link": 1,
     "The Insight International": 4,
     "jawlah.co": 1,
-    "US Muslims": 1,
+    "US Muslims": 2,
     "EnergyNow": 1,
     "IQAir": 1,
     "CBC": 1
@@ -21551,7 +21551,7 @@
     ],
     "Bloomberg.com": [
      0,
-     56,
+     58,
      0
     ],
     "Financial Times": [
@@ -21616,7 +21616,7 @@
     ],
     "WSJ": [
      0,
-     20,
+     21,
      0
     ],
     "Spiegel": [
@@ -22036,7 +22036,7 @@
     ],
     "The Economist": [
      0,
-     2,
+     3,
      0
     ],
     "Employee Happiness Daily": [
@@ -22381,7 +22381,7 @@
     ],
     "US Muslims": [
      0,
-     1,
+     2,
      0
     ],
     "EnergyNow": [
@@ -22402,16 +22402,16 @@
    }
   },
   "2026-11-26": {
-   "total": 164,
-   "news": 163,
+   "total": 181,
+   "news": 180,
    "articles": 1,
    "positive": 0,
-   "neutral": 164,
+   "neutral": 181,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "SA": 29,
-    "US": 35,
+    "SA": 30,
+    "US": 37,
     "GB": 35,
     "FR": 1,
     "HK": 1,
@@ -22419,12 +22419,12 @@
    },
    "topics": {},
    "sources": {
-    "Arab News": 21,
+    "Arab News": 22,
     "富途牛牛": 1,
     "Al-Monitor": 7,
     "WSJ": 8,
     "Bloomberg": 2,
-    "Bioengineer.org": 2,
+    "Bioengineer.org": 3,
     "X": 1,
     "Chosunbiz": 1,
     "Albalad.co": 1,
@@ -22433,7 +22433,7 @@
     "조선일보": 1,
     "Nation Thailand": 1,
     "Arabian Gulf Business Insight | AGBI": 3,
-    "BigGo Finance": 2,
+    "BigGo Finance": 3,
     "Reuters": 19,
     "FanDuel Sportsbook": 1,
     "Modern Diplomacy": 1,
@@ -22441,7 +22441,7 @@
     "巴士的報": 1,
     "Forbes Middle East": 1,
     "Financial Times": 5,
-    "Bloomberg.com": 15,
+    "Bloomberg.com": 17,
     "AP News": 1,
     "The Economist": 1,
     "WhoWhatWhy": 1,
@@ -22460,7 +22460,7 @@
     "C21media": 1,
     "The Arab Weekly": 2,
     "Industrial Cyber": 1,
-    "https://houseofsaud.com/": 2,
+    "https://houseofsaud.com/": 3,
     "ALCHEMPro": 1,
     "Spectreco": 1,
     "Yahoo Sports": 1,
@@ -22479,12 +22479,23 @@
     "KED Global": 1,
     "BroadcastPro ME": 1,
     "Arabian Business": 1,
-    "EUalive": 1
+    "EUalive": 1,
+    "Daily Sabah": 1,
+    "waya.media": 1,
+    "The Defense Post": 1,
+    "Stop Russian Recruiters": 1,
+    "TradeArabia": 1,
+    "تسنیم": 1,
+    "Devdiscourse": 1,
+    "Global Advisory Experts": 1,
+    "Українські Національні Новини (УНН)": 1,
+    "ESPN": 1,
+    "US Muslims": 1
    },
    "sourceTone": {
     "Arab News": [
      0,
-     21,
+     22,
      0
     ],
     "富途牛牛": [
@@ -22509,7 +22520,7 @@
     ],
     "Bioengineer.org": [
      0,
-     2,
+     3,
      0
     ],
     "X": [
@@ -22554,7 +22565,7 @@
     ],
     "BigGo Finance": [
      0,
-     2,
+     3,
      0
     ],
     "Reuters": [
@@ -22594,7 +22605,7 @@
     ],
     "Bloomberg.com": [
      0,
-     15,
+     17,
      0
     ],
     "AP News": [
@@ -22689,7 +22700,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     2,
+     3,
      0
     ],
     "ALCHEMPro": [
@@ -22783,6 +22794,61 @@
      0
     ],
     "EUalive": [
+     0,
+     1,
+     0
+    ],
+    "Daily Sabah": [
+     0,
+     1,
+     0
+    ],
+    "waya.media": [
+     0,
+     1,
+     0
+    ],
+    "The Defense Post": [
+     0,
+     1,
+     0
+    ],
+    "Stop Russian Recruiters": [
+     0,
+     1,
+     0
+    ],
+    "TradeArabia": [
+     0,
+     1,
+     0
+    ],
+    "تسنیم": [
+     0,
+     1,
+     0
+    ],
+    "Devdiscourse": [
+     0,
+     1,
+     0
+    ],
+    "Global Advisory Experts": [
+     0,
+     1,
+     0
+    ],
+    "Українські Національні Новини (УНН)": [
+     0,
+     1,
+     0
+    ],
+    "ESPN": [
+     0,
+     1,
+     0
+    ],
+    "US Muslims": [
      0,
      1,
      0
