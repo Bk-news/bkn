@@ -21354,16 +21354,16 @@
    }
   },
   "2026-11-25": {
-   "total": 680,
-   "news": 669,
+   "total": 682,
+   "news": 671,
    "articles": 11,
    "positive": 0,
-   "neutral": 680,
+   "neutral": 682,
    "critical": 0,
    "mbs": 13,
    "countries": {
     "US": 173,
-    "GB": 130,
+    "GB": 132,
     "SA": 102,
     "DE": 2,
     "HK": 2,
@@ -21390,7 +21390,7 @@
     "Al-Monitor": 26,
     "BBC": 18,
     "The Guardian": 27,
-    "Reuters": 76,
+    "Reuters": 78,
     "South China Morning Post": 2,
     "Fakti.bg": 1,
     "سانا": 2,
@@ -21641,7 +21641,7 @@
     ],
     "Reuters": [
      0,
-     76,
+     78,
      0
     ],
     "South China Morning Post": [
@@ -22402,24 +22402,24 @@
    }
   },
   "2026-11-26": {
-   "total": 181,
-   "news": 180,
+   "total": 185,
+   "news": 184,
    "articles": 1,
    "positive": 0,
-   "neutral": 181,
+   "neutral": 185,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "SA": 30,
+    "SA": 31,
     "US": 37,
-    "GB": 35,
+    "GB": 37,
     "FR": 1,
     "HK": 1,
     "JP": 1
    },
    "topics": {},
    "sources": {
-    "Arab News": 22,
+    "Arab News": 23,
     "富途牛牛": 1,
     "Al-Monitor": 7,
     "WSJ": 8,
@@ -22434,7 +22434,7 @@
     "Nation Thailand": 1,
     "Arabian Gulf Business Insight | AGBI": 3,
     "BigGo Finance": 3,
-    "Reuters": 19,
+    "Reuters": 21,
     "FanDuel Sportsbook": 1,
     "Modern Diplomacy": 1,
     "The Guardian": 5,
@@ -22467,7 +22467,7 @@
     "صحيفة مال": 1,
     "CemNet.com": 1,
     "Campaign Middle East": 1,
-    "Middle East Online": 1,
+    "Middle East Online": 2,
     "Howl.Link": 1,
     "The National": 2,
     "www.marketscreener.com": 2,
@@ -22495,7 +22495,7 @@
    "sourceTone": {
     "Arab News": [
      0,
-     22,
+     23,
      0
     ],
     "富途牛牛": [
@@ -22570,7 +22570,7 @@
     ],
     "Reuters": [
      0,
-     19,
+     21,
      0
     ],
     "FanDuel Sportsbook": [
@@ -22735,7 +22735,7 @@
     ],
     "Middle East Online": [
      0,
-     1,
+     2,
      0
     ],
     "Howl.Link": [
