@@ -22384,16 +22384,16 @@
    }
   },
   "2026-11-26": {
-   "total": 31,
-   "news": 31,
+   "total": 32,
+   "news": 32,
    "articles": 0,
    "positive": 0,
-   "neutral": 31,
+   "neutral": 32,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "SA": 3,
-    "US": 7,
+    "US": 8,
     "GB": 6
    },
    "topics": {},
@@ -22401,7 +22401,7 @@
     "Arab News": 3,
     "富途牛牛": 1,
     "Al-Monitor": 3,
-    "WSJ": 3,
+    "WSJ": 4,
     "Bloomberg": 1,
     "Bioengineer.org": 1,
     "X": 1,
@@ -22437,7 +22437,7 @@
     ],
     "WSJ": [
      0,
-     3,
+     4,
      0
     ],
     "Bloomberg": [
