@@ -1,5 +1,29 @@
 [
  {
+  "id": "295c3fa6ca353a9f",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "أستراليا.. فرض غرامات على شركات التكنولوجيا إن لم تقم بإزالة المحتوى الضار",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/155636",
+  "published": "2026-11-26T03:02:36.000Z",
+  "subject": "saudi",
+  "added": "2026-11-26T03:02:36.000Z"
+ },
+ {
+  "id": "f1df9fa68781e7fb",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "أستراليا.. إقرار قانون يتيح للمستخدمين تعطيل خوازرميات المحتوى المعروض لهم",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/155635",
+  "published": "2026-11-26T03:02:19.000Z",
+  "subject": "saudi",
+  "added": "2026-11-26T03:02:19.000Z"
+ },
+ {
   "id": "2e25d7948812143c",
   "origin": "telegram",
   "source": "العربية عاجل",
@@ -46,17 +70,5 @@
   "published": "2026-11-26T02:09:41.000Z",
   "subject": "saudi",
   "added": "2026-11-26T02:09:41.000Z"
- },
- {
-  "id": "b43d61b4fabbe383",
-  "origin": "telegram",
-  "source": "العربية عاجل",
-  "country": "SA",
-  "title_ar": "الجيش الإسرائيلي: استهداف قيادي بارز في حماس بقطاع غزة",
-  "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/155630",
-  "published": "2026-11-26T02:03:40.000Z",
-  "subject": "saudi",
-  "added": "2026-11-26T02:03:40.000Z"
  }
 ]

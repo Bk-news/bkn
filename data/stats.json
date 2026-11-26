@@ -20341,17 +20341,17 @@
    }
   },
   "2026-11-24": {
-   "total": 761,
-   "news": 747,
+   "total": 763,
+   "news": 749,
    "articles": 14,
    "positive": 0,
-   "neutral": 761,
+   "neutral": 763,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "SA": 114,
-    "US": 176,
-    "GB": 202,
+    "US": 177,
+    "GB": 203,
     "JP": 1,
     "FR": 6,
     "HK": 3,
@@ -20361,7 +20361,7 @@
    "sources": {
     "Saudi Gazette": 28,
     "SolarQuarter": 1,
-    "The Washington Post": 2,
+    "The Washington Post": 3,
     "Financial Times": 14,
     "BBC": 12,
     "Reuters": 148,
@@ -20393,7 +20393,7 @@
     "CGTN": 1,
     "www.tmgm.com": 3,
     "Yeni Safak English": 4,
-    "The Guardian": 26,
+    "The Guardian": 27,
     "Kurdistan24": 1,
     "Al Jazeera": 2,
     "Travel & Tourism News Middle East": 1,
@@ -20538,7 +20538,7 @@
     ],
     "The Washington Post": [
      0,
-     2,
+     3,
      0
     ],
     "Financial Times": [
@@ -20698,7 +20698,7 @@
     ],
     "The Guardian": [
      0,
-     26,
+     27,
      0
     ],
     "Kurdistan24": [
