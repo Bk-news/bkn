@@ -20341,16 +20341,16 @@
    }
   },
   "2026-11-24": {
-   "total": 765,
-   "news": 750,
+   "total": 767,
+   "news": 752,
    "articles": 15,
    "positive": 0,
-   "neutral": 765,
+   "neutral": 767,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "SA": 114,
-    "US": 179,
+    "US": 181,
     "GB": 203,
     "JP": 1,
     "FR": 6,
@@ -20367,8 +20367,8 @@
     "Reuters": 148,
     "Nikkei Asia": 1,
     "Bloomberg.com": 72,
-    "Al-Monitor": 33,
-    "WSJ": 21,
+    "Al-Monitor": 34,
+    "WSJ": 22,
     "The New York Times": 14,
     "Arab News": 100,
     "France 24": 3,
@@ -20568,12 +20568,12 @@
     ],
     "Al-Monitor": [
      0,
-     33,
+     34,
      0
     ],
     "WSJ": [
      0,
-     21,
+     22,
      0
     ],
     "The New York Times": [
@@ -21354,16 +21354,16 @@
    }
   },
   "2026-11-25": {
-   "total": 634,
-   "news": 624,
+   "total": 659,
+   "news": 649,
    "articles": 10,
    "positive": 0,
-   "neutral": 634,
+   "neutral": 659,
    "critical": 0,
    "mbs": 13,
    "countries": {
-    "US": 154,
-    "GB": 107,
+    "US": 166,
+    "GB": 120,
     "SA": 102,
     "DE": 2,
     "HK": 2,
@@ -21372,7 +21372,7 @@
    "topics": {},
    "sources": {
     "Yemen Online": 6,
-    "Bloomberg.com": 40,
+    "Bloomberg.com": 52,
     "Financial Times": 10,
     "www.tmgm.com": 1,
     "FXEmpire": 2,
@@ -21390,7 +21390,7 @@
     "Al-Monitor": 26,
     "BBC": 18,
     "The Guardian": 27,
-    "Reuters": 54,
+    "Reuters": 67,
     "South China Morning Post": 2,
     "Fakti.bg": 1,
     "سانا": 2,
@@ -21548,7 +21548,7 @@
     ],
     "Bloomberg.com": [
      0,
-     40,
+     52,
      0
     ],
     "Financial Times": [
@@ -21638,7 +21638,7 @@
     ],
     "Reuters": [
      0,
-     54,
+     67,
      0
     ],
     "South China Morning Post": [
@@ -22384,11 +22384,11 @@
    }
   },
   "2026-11-26": {
-   "total": 136,
-   "news": 135,
+   "total": 149,
+   "news": 148,
    "articles": 1,
    "positive": 0,
-   "neutral": 136,
+   "neutral": 149,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -22401,12 +22401,12 @@
    },
    "topics": {},
    "sources": {
-    "Arab News": 18,
+    "Arab News": 19,
     "富途牛牛": 1,
     "Al-Monitor": 7,
     "WSJ": 8,
     "Bloomberg": 2,
-    "Bioengineer.org": 1,
+    "Bioengineer.org": 2,
     "X": 1,
     "Chosunbiz": 1,
     "Albalad.co": 1,
@@ -22416,18 +22416,18 @@
     "Nation Thailand": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
     "BigGo Finance": 2,
-    "Reuters": 17,
+    "Reuters": 19,
     "FanDuel Sportsbook": 1,
     "Modern Diplomacy": 1,
     "The Guardian": 5,
     "巴士的報": 1,
     "Forbes Middle East": 1,
     "Financial Times": 4,
-    "Bloomberg.com": 14,
+    "Bloomberg.com": 15,
     "AP News": 1,
     "The Economist": 1,
     "WhoWhatWhy": 1,
-    "Saudi Gazette": 12,
+    "Saudi Gazette": 13,
     "The Washington Post": 2,
     "BBC": 8,
     "Le Monde.fr": 1,
@@ -22442,17 +22442,23 @@
     "C21media": 1,
     "The Arab Weekly": 2,
     "Industrial Cyber": 1,
-    "https://houseofsaud.com/": 1,
+    "https://houseofsaud.com/": 2,
     "ALCHEMPro": 1,
     "Spectreco": 1,
     "Yahoo Sports": 1,
     "صحيفة مال": 1,
-    "CemNet.com": 1
+    "CemNet.com": 1,
+    "Campaign Middle East": 1,
+    "Middle East Online": 1,
+    "Howl.Link": 1,
+    "The National": 1,
+    "www.marketscreener.com": 1,
+    "Muslim Network TV": 1
    },
    "sourceTone": {
     "Arab News": [
      0,
-     18,
+     19,
      0
     ],
     "富途牛牛": [
@@ -22477,7 +22483,7 @@
     ],
     "Bioengineer.org": [
      0,
-     1,
+     2,
      0
     ],
     "X": [
@@ -22527,7 +22533,7 @@
     ],
     "Reuters": [
      0,
-     17,
+     19,
      0
     ],
     "FanDuel Sportsbook": [
@@ -22562,7 +22568,7 @@
     ],
     "Bloomberg.com": [
      0,
-     14,
+     15,
      0
     ],
     "AP News": [
@@ -22582,7 +22588,7 @@
     ],
     "Saudi Gazette": [
      0,
-     12,
+     13,
      0
     ],
     "The Washington Post": [
@@ -22657,7 +22663,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     1,
+     2,
      0
     ],
     "ALCHEMPro": [
@@ -22681,6 +22687,36 @@
      0
     ],
     "CemNet.com": [
+     0,
+     1,
+     0
+    ],
+    "Campaign Middle East": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Online": [
+     0,
+     1,
+     0
+    ],
+    "Howl.Link": [
+     0,
+     1,
+     0
+    ],
+    "The National": [
+     0,
+     1,
+     0
+    ],
+    "www.marketscreener.com": [
+     0,
+     1,
+     0
+    ],
+    "Muslim Network TV": [
      0,
      1,
      0
