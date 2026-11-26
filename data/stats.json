@@ -21354,20 +21354,20 @@
    }
   },
   "2026-11-25": {
-   "total": 687,
-   "news": 676,
+   "total": 690,
+   "news": 679,
    "articles": 11,
    "positive": 0,
-   "neutral": 687,
+   "neutral": 690,
    "critical": 0,
    "mbs": 13,
    "countries": {
-    "US": 176,
-    "GB": 134,
+    "US": 177,
+    "GB": 135,
     "SA": 102,
     "DE": 2,
     "HK": 2,
-    "FR": 15
+    "FR": 16
    },
    "topics": {},
    "sources": {
@@ -21388,7 +21388,7 @@
     "WSJ": 21,
     "Spiegel": 2,
     "Al-Monitor": 26,
-    "BBC": 18,
+    "BBC": 19,
     "The Guardian": 27,
     "Reuters": 80,
     "South China Morning Post": 2,
@@ -21398,7 +21398,7 @@
     "SpaceWatch.GLOBAL": 1,
     "Condé Nast Traveller Middle East": 2,
     "Ocean Energy Resources": 1,
-    "Le Monde.fr": 4,
+    "Le Monde.fr": 5,
     "JNS": 1,
     "NDTV Sports": 1,
     "Anadolu Ajansı": 7,
@@ -21422,7 +21422,7 @@
     "DAZN": 1,
     "Travel Daily Media": 1,
     "MUFG Research": 1,
-    "AP News": 9,
+    "AP News": 10,
     "Crypto Briefing": 2,
     "Al Arabiya English": 4,
     "TradingView": 1,
@@ -21631,7 +21631,7 @@
     ],
     "BBC": [
      0,
-     18,
+     19,
      0
     ],
     "The Guardian": [
@@ -21681,7 +21681,7 @@
     ],
     "Le Monde.fr": [
      0,
-     4,
+     5,
      0
     ],
     "JNS": [
@@ -21801,7 +21801,7 @@
     ],
     "AP News": [
      0,
-     9,
+     10,
      0
     ],
     "Crypto Briefing": [
@@ -22402,56 +22402,56 @@
    }
   },
   "2026-11-26": {
-   "total": 260,
-   "news": 254,
-   "articles": 6,
+   "total": 297,
+   "news": 290,
+   "articles": 7,
    "positive": 0,
-   "neutral": 260,
+   "neutral": 297,
    "critical": 0,
-   "mbs": 1,
+   "mbs": 2,
    "countries": {
-    "SA": 43,
-    "US": 57,
-    "GB": 55,
+    "SA": 51,
+    "US": 69,
+    "GB": 64,
     "FR": 3,
-    "HK": 3,
+    "HK": 4,
     "JP": 1,
     "DE": 2
    },
    "topics": {},
    "sources": {
-    "Arab News": 32,
+    "Arab News": 37,
     "富途牛牛": 1,
-    "Al-Monitor": 10,
-    "WSJ": 10,
+    "Al-Monitor": 13,
+    "WSJ": 11,
     "Bloomberg": 3,
     "Bioengineer.org": 3,
     "X": 1,
     "Chosunbiz": 1,
     "Albalad.co": 1,
     "China Daily": 1,
-    "Middle East Eye": 3,
+    "Middle East Eye": 4,
     "조선일보": 1,
     "Nation Thailand": 1,
     "Arabian Gulf Business Insight | AGBI": 3,
     "BigGo Finance": 3,
-    "Reuters": 27,
+    "Reuters": 31,
     "FanDuel Sportsbook": 1,
     "Modern Diplomacy": 1,
-    "The Guardian": 8,
+    "The Guardian": 11,
     "巴士的報": 1,
     "Forbes Middle East": 1,
     "Financial Times": 7,
-    "Bloomberg.com": 22,
+    "Bloomberg.com": 25,
     "AP News": 3,
-    "The Economist": 3,
+    "The Economist": 4,
     "WhoWhatWhy": 1,
-    "Saudi Gazette": 16,
+    "Saudi Gazette": 20,
     "The Washington Post": 2,
-    "BBC": 13,
+    "BBC": 14,
     "Le Monde.fr": 3,
-    "The New York Times": 3,
-    "South China Morning Post": 3,
+    "The New York Times": 5,
+    "South China Morning Post": 4,
     "Nikkei Asia": 1,
     "الخبر اليمني": 1,
     "thetexan.news": 1,
@@ -22496,7 +22496,7 @@
     "IQAir": 1,
     "Sharjah24": 1,
     "A News": 1,
-    "سانا": 1,
+    "سانا": 2,
     "The Times of Israel": 1,
     "thecradle.co": 1,
     "Business Insider Africa": 1,
@@ -22506,18 +22506,22 @@
     "National Security News": 1,
     "FWDStart": 1,
     "Anadolu Ajansı": 1,
-    "CNN": 2,
+    "CNN": 5,
     "Jakarta Globe": 1,
     "Spiegel": 2,
     "Foreign Policy": 2,
     "Atlantic Council": 1,
     "Markets of Tomorrow": 1,
-    "The Express Tribune": 1
+    "The Express Tribune": 1,
+    "Eurobasket": 1,
+    "شبكة تواصل الإخبارية": 1,
+    "Tempo.co English": 1,
+    "Luxurylaunches": 1
    },
    "sourceTone": {
     "Arab News": [
      0,
-     32,
+     37,
      0
     ],
     "富途牛牛": [
@@ -22527,12 +22531,12 @@
     ],
     "Al-Monitor": [
      0,
-     10,
+     13,
      0
     ],
     "WSJ": [
      0,
-     10,
+     11,
      0
     ],
     "Bloomberg": [
@@ -22567,7 +22571,7 @@
     ],
     "Middle East Eye": [
      0,
-     3,
+     4,
      0
     ],
     "조선일보": [
@@ -22592,7 +22596,7 @@
     ],
     "Reuters": [
      0,
-     27,
+     31,
      0
     ],
     "FanDuel Sportsbook": [
@@ -22607,7 +22611,7 @@
     ],
     "The Guardian": [
      0,
-     8,
+     11,
      0
     ],
     "巴士的報": [
@@ -22627,7 +22631,7 @@
     ],
     "Bloomberg.com": [
      0,
-     22,
+     25,
      0
     ],
     "AP News": [
@@ -22637,7 +22641,7 @@
     ],
     "The Economist": [
      0,
-     3,
+     4,
      0
     ],
     "WhoWhatWhy": [
@@ -22647,7 +22651,7 @@
     ],
     "Saudi Gazette": [
      0,
-     16,
+     20,
      0
     ],
     "The Washington Post": [
@@ -22657,7 +22661,7 @@
     ],
     "BBC": [
      0,
-     13,
+     14,
      0
     ],
     "Le Monde.fr": [
@@ -22667,12 +22671,12 @@
     ],
     "The New York Times": [
      0,
-     3,
+     5,
      0
     ],
     "South China Morning Post": [
      0,
-     3,
+     4,
      0
     ],
     "Nikkei Asia": [
@@ -22897,7 +22901,7 @@
     ],
     "سانا": [
      0,
-     1,
+     2,
      0
     ],
     "The Times of Israel": [
@@ -22947,7 +22951,7 @@
     ],
     "CNN": [
      0,
-     2,
+     5,
      0
     ],
     "Jakarta Globe": [
@@ -22976,6 +22980,26 @@
      0
     ],
     "The Express Tribune": [
+     0,
+     1,
+     0
+    ],
+    "Eurobasket": [
+     0,
+     1,
+     0
+    ],
+    "شبكة تواصل الإخبارية": [
+     0,
+     1,
+     0
+    ],
+    "Tempo.co English": [
+     0,
+     1,
+     0
+    ],
+    "Luxurylaunches": [
      0,
      1,
      0
