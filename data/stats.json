@@ -20341,17 +20341,17 @@
    }
   },
   "2026-11-24": {
-   "total": 770,
-   "news": 755,
+   "total": 771,
+   "news": 756,
    "articles": 15,
    "positive": 0,
-   "neutral": 770,
+   "neutral": 771,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "SA": 114,
     "US": 181,
-    "GB": 206,
+    "GB": 207,
     "JP": 1,
     "FR": 6,
     "HK": 3,
@@ -20393,7 +20393,7 @@
     "CGTN": 1,
     "www.tmgm.com": 3,
     "Yeni Safak English": 4,
-    "The Guardian": 27,
+    "The Guardian": 28,
     "Kurdistan24": 1,
     "Al Jazeera": 2,
     "Travel & Tourism News Middle East": 1,
@@ -20698,7 +20698,7 @@
     ],
     "The Guardian": [
      0,
-     27,
+     28,
      0
     ],
     "Kurdistan24": [
@@ -22402,17 +22402,17 @@
    }
   },
   "2026-11-26": {
-   "total": 204,
-   "news": 203,
+   "total": 205,
+   "news": 204,
    "articles": 1,
    "positive": 0,
-   "neutral": 204,
+   "neutral": 205,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "SA": 36,
     "US": 41,
-    "GB": 40,
+    "GB": 41,
     "FR": 1,
     "HK": 1,
     "JP": 1
@@ -22434,7 +22434,7 @@
     "Nation Thailand": 1,
     "Arabian Gulf Business Insight | AGBI": 3,
     "BigGo Finance": 3,
-    "Reuters": 23,
+    "Reuters": 24,
     "FanDuel Sportsbook": 1,
     "Modern Diplomacy": 1,
     "The Guardian": 5,
@@ -22577,7 +22577,7 @@
     ],
     "Reuters": [
      0,
-     23,
+     24,
      0
     ],
     "FanDuel Sportsbook": [
