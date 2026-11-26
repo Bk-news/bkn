@@ -22408,11 +22408,11 @@
    }
   },
   "2026-11-26": {
-   "total": 473,
-   "news": 466,
+   "total": 474,
+   "news": 467,
    "articles": 7,
    "positive": 0,
-   "neutral": 473,
+   "neutral": 474,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -22557,7 +22557,8 @@
     "Consultancy-me.com": 1,
     "Al Jazeera": 1,
     "World Pipelines": 1,
-    "Hürriyet Daily News": 1
+    "Hürriyet Daily News": 1,
+    "houseofsaud.com": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -23216,6 +23217,11 @@
      0
     ],
     "Hürriyet Daily News": [
+     0,
+     1,
+     0
+    ],
+    "houseofsaud.com": [
      0,
      1,
      0
