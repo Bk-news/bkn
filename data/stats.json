@@ -21360,16 +21360,16 @@
    }
   },
   "2026-11-25": {
-   "total": 744,
-   "news": 733,
+   "total": 745,
+   "news": 734,
    "articles": 11,
    "positive": 0,
-   "neutral": 744,
+   "neutral": 745,
    "critical": 0,
    "mbs": 13,
    "countries": {
     "US": 220,
-    "GB": 144,
+    "GB": 145,
     "SA": 103,
     "DE": 2,
     "HK": 2,
@@ -21396,7 +21396,7 @@
     "Al-Monitor": 27,
     "BBC": 19,
     "The Guardian": 27,
-    "Reuters": 89,
+    "Reuters": 90,
     "South China Morning Post": 2,
     "Fakti.bg": 1,
     "سانا": 2,
@@ -21648,7 +21648,7 @@
     ],
     "Reuters": [
      0,
-     89,
+     90,
      0
     ],
     "South China Morning Post": [
