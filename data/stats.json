@@ -22402,17 +22402,17 @@
    }
   },
   "2026-11-26": {
-   "total": 215,
-   "news": 214,
+   "total": 217,
+   "news": 216,
    "articles": 1,
    "positive": 0,
-   "neutral": 215,
+   "neutral": 217,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "SA": 39,
     "US": 42,
-    "GB": 43,
+    "GB": 44,
     "FR": 1,
     "HK": 1,
     "JP": 1
@@ -22437,7 +22437,7 @@
     "Reuters": 24,
     "FanDuel Sportsbook": 1,
     "Modern Diplomacy": 1,
-    "The Guardian": 5,
+    "The Guardian": 6,
     "巴士的報": 1,
     "Forbes Middle East": 1,
     "Financial Times": 5,
@@ -22500,7 +22500,8 @@
     "thecradle.co": 1,
     "Business Insider Africa": 1,
     "Zawya": 1,
-    "Traders Union": 1
+    "Traders Union": 1,
+    "Vogue Arabia": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -22595,7 +22596,7 @@
     ],
     "The Guardian": [
      0,
-     5,
+     6,
      0
     ],
     "巴士的報": [
@@ -22909,6 +22910,11 @@
      0
     ],
     "Traders Union": [
+     0,
+     1,
+     0
+    ],
+    "Vogue Arabia": [
      0,
      1,
      0
