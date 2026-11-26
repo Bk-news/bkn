@@ -22414,13 +22414,13 @@
    }
   },
   "2026-11-26": {
-   "total": 493,
-   "news": 486,
+   "total": 496,
+   "news": 489,
    "articles": 7,
    "positive": 0,
-   "neutral": 493,
+   "neutral": 496,
    "critical": 0,
-   "mbs": 2,
+   "mbs": 3,
    "countries": {
     "SA": 92,
     "US": 109,
@@ -22446,7 +22446,7 @@
     "조선일보": 2,
     "Nation Thailand": 1,
     "Arabian Gulf Business Insight | AGBI": 3,
-    "BigGo Finance": 4,
+    "BigGo Finance": 5,
     "Reuters": 60,
     "FanDuel Sportsbook": 1,
     "Modern Diplomacy": 1,
@@ -22556,7 +22556,7 @@
     "Condé Nast Traveller Middle East": 2,
     "Seatrade Maritime News": 1,
     "Investing.com": 1,
-    "ssbulten.com.tr": 1,
+    "ssbulten.com.tr": 2,
     "Fana News -": 1,
     "UA.NEWS": 1,
     "www.inss.org.il": 1,
@@ -22565,7 +22565,8 @@
     "World Pipelines": 1,
     "Hürriyet Daily News": 1,
     "houseofsaud.com": 1,
-    "DD News": 1
+    "DD News": 1,
+    "EnergyNow.com": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -22640,7 +22641,7 @@
     ],
     "BigGo Finance": [
      0,
-     4,
+     5,
      0
     ],
     "Reuters": [
@@ -23190,7 +23191,7 @@
     ],
     "ssbulten.com.tr": [
      0,
-     1,
+     2,
      0
     ],
     "Fana News -": [
@@ -23234,6 +23235,11 @@
      0
     ],
     "DD News": [
+     0,
+     1,
+     0
+    ],
+    "EnergyNow.com": [
      0,
      1,
      0
