@@ -21354,15 +21354,15 @@
    }
   },
   "2026-11-25": {
-   "total": 616,
-   "news": 606,
+   "total": 617,
+   "news": 607,
    "articles": 10,
    "positive": 0,
-   "neutral": 616,
+   "neutral": 617,
    "critical": 0,
    "mbs": 12,
    "countries": {
-    "US": 148,
+    "US": 149,
     "GB": 101,
     "SA": 99,
     "DE": 2,
@@ -21462,7 +21462,7 @@
     "Arabian Business": 1,
     "وكالة الأنباء السعودية": 2,
     "Hürriyet Daily News": 1,
-    "The New York Times": 8,
+    "The New York Times": 9,
     "WE News English": 1,
     "Modern Ghana": 2,
     "Atlantic Council": 6,
@@ -21998,7 +21998,7 @@
     ],
     "The New York Times": [
      0,
-     8,
+     9,
      0
     ],
     "WE News English": [
@@ -22384,24 +22384,24 @@
    }
   },
   "2026-11-26": {
-   "total": 25,
-   "news": 25,
+   "total": 29,
+   "news": 29,
    "articles": 0,
    "positive": 0,
-   "neutral": 25,
+   "neutral": 29,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "SA": 3,
-    "US": 5,
-    "GB": 4
+    "US": 6,
+    "GB": 5
    },
    "topics": {},
    "sources": {
     "Arab News": 3,
     "富途牛牛": 1,
     "Al-Monitor": 3,
-    "WSJ": 1,
+    "WSJ": 2,
     "Bloomberg": 1,
     "Bioengineer.org": 1,
     "X": 1,
@@ -22414,7 +22414,10 @@
     "Arabian Gulf Business Insight | AGBI": 1,
     "BigGo Finance": 2,
     "Reuters": 4,
-    "FanDuel Sportsbook": 1
+    "FanDuel Sportsbook": 1,
+    "Modern Diplomacy": 1,
+    "The Guardian": 1,
+    "巴士的報": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -22434,7 +22437,7 @@
     ],
     "WSJ": [
      0,
-     1,
+     2,
      0
     ],
     "Bloomberg": [
@@ -22498,6 +22501,21 @@
      0
     ],
     "FanDuel Sportsbook": [
+     0,
+     1,
+     0
+    ],
+    "Modern Diplomacy": [
+     0,
+     1,
+     0
+    ],
+    "The Guardian": [
+     0,
+     1,
+     0
+    ],
+    "巴士的報": [
      0,
      1,
      0

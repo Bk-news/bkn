@@ -926,6 +926,27 @@
    "mt": true
   },
   {
+   "id": "5ca02809e2afd613",
+   "origin": "rss",
+   "source": "The New York Times",
+   "author": "",
+   "title_ar": "العلوم - الصفحة 7",
+   "title_orig": "Science - Page 7",
+   "title_en": "Science - Page 7",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sRXg1MmRSNXloTzcyTTFUNmZxaXJZQmJxa1BLdHVzR0Z3UWRBcnhzUW9xdW8wTTZBX1dPYUR0UTlxU3I1QzFaSGtISFpSYTNaaGFGWkpxV1MzZw?oc=5",
+   "published": "2026-11-25T20:24:10.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "Science - Page 7 &nbsp;&nbsp; The New York Times",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "01c316a6d1590f4f",
    "origin": "rss",
    "source": "Yahoo Finance",
