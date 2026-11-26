@@ -22402,28 +22402,29 @@
    }
   },
   "2026-11-26": {
-   "total": 220,
-   "news": 219,
-   "articles": 1,
+   "total": 260,
+   "news": 254,
+   "articles": 6,
    "positive": 0,
-   "neutral": 220,
+   "neutral": 260,
    "critical": 0,
-   "mbs": 0,
+   "mbs": 1,
    "countries": {
-    "SA": 39,
-    "US": 42,
-    "GB": 45,
-    "FR": 1,
-    "HK": 1,
-    "JP": 1
+    "SA": 43,
+    "US": 57,
+    "GB": 55,
+    "FR": 3,
+    "HK": 3,
+    "JP": 1,
+    "DE": 2
    },
    "topics": {},
    "sources": {
-    "Arab News": 30,
+    "Arab News": 32,
     "富途牛牛": 1,
-    "Al-Monitor": 8,
-    "WSJ": 8,
-    "Bloomberg": 2,
+    "Al-Monitor": 10,
+    "WSJ": 10,
+    "Bloomberg": 3,
     "Bioengineer.org": 3,
     "X": 1,
     "Chosunbiz": 1,
@@ -22434,23 +22435,23 @@
     "Nation Thailand": 1,
     "Arabian Gulf Business Insight | AGBI": 3,
     "BigGo Finance": 3,
-    "Reuters": 25,
+    "Reuters": 27,
     "FanDuel Sportsbook": 1,
     "Modern Diplomacy": 1,
-    "The Guardian": 6,
+    "The Guardian": 8,
     "巴士的報": 1,
     "Forbes Middle East": 1,
-    "Financial Times": 5,
-    "Bloomberg.com": 21,
-    "AP News": 1,
-    "The Economist": 1,
+    "Financial Times": 7,
+    "Bloomberg.com": 22,
+    "AP News": 3,
+    "The Economist": 3,
     "WhoWhatWhy": 1,
-    "Saudi Gazette": 14,
+    "Saudi Gazette": 16,
     "The Washington Post": 2,
-    "BBC": 11,
-    "Le Monde.fr": 1,
-    "The New York Times": 1,
-    "South China Morning Post": 1,
+    "BBC": 13,
+    "Le Monde.fr": 3,
+    "The New York Times": 3,
+    "South China Morning Post": 3,
     "Nikkei Asia": 1,
     "الخبر اليمني": 1,
     "thetexan.news": 1,
@@ -22478,7 +22479,7 @@
     "marketscreener.com": 1,
     "KED Global": 1,
     "BroadcastPro ME": 1,
-    "Arabian Business": 1,
+    "Arabian Business": 2,
     "EUalive": 1,
     "Daily Sabah": 1,
     "waya.media": 1,
@@ -22503,12 +22504,20 @@
     "Traders Union": 1,
     "Vogue Arabia": 1,
     "National Security News": 1,
-    "FWDStart": 1
+    "FWDStart": 1,
+    "Anadolu Ajansı": 1,
+    "CNN": 2,
+    "Jakarta Globe": 1,
+    "Spiegel": 2,
+    "Foreign Policy": 2,
+    "Atlantic Council": 1,
+    "Markets of Tomorrow": 1,
+    "The Express Tribune": 1
    },
    "sourceTone": {
     "Arab News": [
      0,
-     30,
+     32,
      0
     ],
     "富途牛牛": [
@@ -22518,17 +22527,17 @@
     ],
     "Al-Monitor": [
      0,
-     8,
+     10,
      0
     ],
     "WSJ": [
      0,
-     8,
+     10,
      0
     ],
     "Bloomberg": [
      0,
-     2,
+     3,
      0
     ],
     "Bioengineer.org": [
@@ -22583,7 +22592,7 @@
     ],
     "Reuters": [
      0,
-     25,
+     27,
      0
     ],
     "FanDuel Sportsbook": [
@@ -22598,7 +22607,7 @@
     ],
     "The Guardian": [
      0,
-     6,
+     8,
      0
     ],
     "巴士的報": [
@@ -22613,22 +22622,22 @@
     ],
     "Financial Times": [
      0,
-     5,
+     7,
      0
     ],
     "Bloomberg.com": [
      0,
-     21,
+     22,
      0
     ],
     "AP News": [
      0,
-     1,
+     3,
      0
     ],
     "The Economist": [
      0,
-     1,
+     3,
      0
     ],
     "WhoWhatWhy": [
@@ -22638,7 +22647,7 @@
     ],
     "Saudi Gazette": [
      0,
-     14,
+     16,
      0
     ],
     "The Washington Post": [
@@ -22648,22 +22657,22 @@
     ],
     "BBC": [
      0,
-     11,
+     13,
      0
     ],
     "Le Monde.fr": [
      0,
-     1,
+     3,
      0
     ],
     "The New York Times": [
      0,
-     1,
+     3,
      0
     ],
     "South China Morning Post": [
      0,
-     1,
+     3,
      0
     ],
     "Nikkei Asia": [
@@ -22803,7 +22812,7 @@
     ],
     "Arabian Business": [
      0,
-     1,
+     2,
      0
     ],
     "EUalive": [
@@ -22927,6 +22936,46 @@
      0
     ],
     "FWDStart": [
+     0,
+     1,
+     0
+    ],
+    "Anadolu Ajansı": [
+     0,
+     1,
+     0
+    ],
+    "CNN": [
+     0,
+     2,
+     0
+    ],
+    "Jakarta Globe": [
+     0,
+     1,
+     0
+    ],
+    "Spiegel": [
+     0,
+     2,
+     0
+    ],
+    "Foreign Policy": [
+     0,
+     2,
+     0
+    ],
+    "Atlantic Council": [
+     0,
+     1,
+     0
+    ],
+    "Markets of Tomorrow": [
+     0,
+     1,
+     0
+    ],
+    "The Express Tribune": [
      0,
      1,
      0
