@@ -20341,16 +20341,16 @@
    }
   },
   "2026-11-24": {
-   "total": 757,
-   "news": 743,
+   "total": 759,
+   "news": 745,
    "articles": 14,
    "positive": 0,
-   "neutral": 757,
+   "neutral": 759,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "SA": 114,
-    "US": 174,
+    "US": 176,
     "GB": 200,
     "JP": 1,
     "FR": 6,
@@ -20402,7 +20402,7 @@
     "Avi-Go": 4,
     "Atlantic Council": 9,
     "صحيفة سبق الإلكترونية": 4,
-    "Bloomberg": 18,
+    "Bloomberg": 20,
     "South China Morning Post": 4,
     "Spiegel": 2,
     "The Economist": 4,
@@ -20743,7 +20743,7 @@
     ],
     "Bloomberg": [
      0,
-     18,
+     20,
      0
     ],
     "South China Morning Post": [
@@ -21354,11 +21354,11 @@
    }
   },
   "2026-11-25": {
-   "total": 589,
-   "news": 579,
+   "total": 593,
+   "news": 583,
    "articles": 10,
    "positive": 0,
-   "neutral": 589,
+   "neutral": 593,
    "critical": 0,
    "mbs": 12,
    "countries": {
@@ -21534,7 +21534,9 @@
     "Arab News PK": 1,
     "TribalFootball": 1,
     "Insurance Journal": 1,
-    "Iran International": 1
+    "Iran International": 1,
+    "Howl.Link": 1,
+    "The Insight International": 3
    },
    "sourceTone": {
     "Yemen Online": [
@@ -22356,15 +22358,25 @@
      0,
      1,
      0
+    ],
+    "Howl.Link": [
+     0,
+     1,
+     0
+    ],
+    "The Insight International": [
+     0,
+     3,
+     0
     ]
    }
   },
   "2026-11-26": {
-   "total": 14,
-   "news": 14,
+   "total": 15,
+   "news": 15,
    "articles": 0,
    "positive": 0,
-   "neutral": 14,
+   "neutral": 15,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -22386,7 +22398,8 @@
     "Middle East Eye": 1,
     "조선일보": 1,
     "Nation Thailand": 1,
-    "Arabian Gulf Business Insight | AGBI": 1
+    "Arabian Gulf Business Insight | AGBI": 1,
+    "BigGo Finance": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -22455,6 +22468,11 @@
      0
     ],
     "Arabian Gulf Business Insight | AGBI": [
+     0,
+     1,
+     0
+    ],
+    "BigGo Finance": [
      0,
      1,
      0
