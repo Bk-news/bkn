@@ -20341,19 +20341,19 @@
    }
   },
   "2026-11-24": {
-   "total": 746,
-   "news": 732,
+   "total": 750,
+   "news": 736,
    "articles": 14,
    "positive": 0,
-   "neutral": 746,
+   "neutral": 750,
    "critical": 0,
    "mbs": 19,
    "countries": {
     "SA": 114,
     "US": 169,
-    "GB": 195,
+    "GB": 198,
     "JP": 1,
-    "FR": 5,
+    "FR": 6,
     "HK": 3,
     "DE": 2
    },
@@ -20364,7 +20364,7 @@
     "The Washington Post": 2,
     "Financial Times": 14,
     "BBC": 11,
-    "Reuters": 146,
+    "Reuters": 147,
     "Nikkei Asia": 1,
     "Bloomberg.com": 70,
     "Al-Monitor": 33,
@@ -20393,7 +20393,7 @@
     "CGTN": 1,
     "www.tmgm.com": 3,
     "Yeni Safak English": 4,
-    "The Guardian": 22,
+    "The Guardian": 24,
     "Kurdistan24": 1,
     "Al Jazeera": 2,
     "Travel & Tourism News Middle East": 1,
@@ -20468,7 +20468,7 @@
     "Agência de Notícias Brasil-Árabe - ANBA": 1,
     "EnergyNow.com": 1,
     "Salaam Gateway": 1,
-    "Le Monde.fr": 2,
+    "Le Monde.fr": 3,
     "PocketGamer.biz": 1,
     "NST Online": 1,
     "KarloBag.eu": 1,
@@ -20553,7 +20553,7 @@
     ],
     "Reuters": [
      0,
-     146,
+     147,
      0
     ],
     "Nikkei Asia": [
@@ -20698,7 +20698,7 @@
     ],
     "The Guardian": [
      0,
-     22,
+     24,
      0
     ],
     "Kurdistan24": [
@@ -21073,7 +21073,7 @@
     ],
     "Le Monde.fr": [
      0,
-     2,
+     3,
      0
     ],
     "PocketGamer.biz": [
@@ -21354,43 +21354,43 @@
    }
   },
   "2026-11-25": {
-   "total": 527,
-   "news": 519,
-   "articles": 8,
+   "total": 555,
+   "news": 545,
+   "articles": 10,
    "positive": 0,
-   "neutral": 527,
+   "neutral": 555,
    "critical": 0,
    "mbs": 12,
    "countries": {
-    "US": 125,
-    "GB": 81,
-    "SA": 83,
+    "US": 138,
+    "GB": 90,
+    "SA": 88,
     "DE": 2,
     "HK": 2,
-    "FR": 11
+    "FR": 12
    },
    "topics": {},
    "sources": {
     "Yemen Online": 5,
-    "Bloomberg.com": 37,
-    "Financial Times": 7,
+    "Bloomberg.com": 38,
+    "Financial Times": 9,
     "www.tmgm.com": 1,
     "FXEmpire": 2,
     "Global Advisory Experts": 9,
     "Middle East Eye": 4,
     "The Express Tribune": 1,
     "Manara Magazine": 1,
-    "Saudi Gazette": 33,
+    "Saudi Gazette": 34,
     "Semafor": 2,
     "Yahoo": 1,
     "Chosunbiz": 1,
-    "Arab News": 58,
-    "WSJ": 17,
+    "Arab News": 62,
+    "WSJ": 19,
     "Spiegel": 2,
-    "Al-Monitor": 20,
-    "BBC": 15,
-    "The Guardian": 20,
-    "Reuters": 42,
+    "Al-Monitor": 23,
+    "BBC": 16,
+    "The Guardian": 22,
+    "Reuters": 45,
     "South China Morning Post": 2,
     "Fakti.bg": 1,
     "سانا": 2,
@@ -21398,7 +21398,7 @@
     "SpaceWatch.GLOBAL": 1,
     "Condé Nast Traveller Middle East": 2,
     "Ocean Energy Resources": 1,
-    "Le Monde.fr": 1,
+    "Le Monde.fr": 2,
     "JNS": 1,
     "NDTV Sports": 1,
     "Anadolu Ajansı": 5,
@@ -21422,7 +21422,7 @@
     "DAZN": 1,
     "Travel Daily Media": 1,
     "MUFG Research": 1,
-    "AP News": 5,
+    "AP News": 7,
     "Crypto Briefing": 2,
     "Al Arabiya English": 3,
     "TradingView": 1,
@@ -21454,7 +21454,7 @@
     "الخبر اليمني": 1,
     "اسلام تايمز": 1,
     "Firstpost": 2,
-    "Bloomberg": 34,
+    "Bloomberg": 36,
     "The New Arab": 2,
     "DW.com": 2,
     "The Washington Post": 1,
@@ -21462,14 +21462,14 @@
     "Arabian Business": 1,
     "وكالة الأنباء السعودية": 2,
     "Hürriyet Daily News": 1,
-    "The New York Times": 6,
+    "The New York Times": 8,
     "WE News English": 1,
     "Modern Ghana": 1,
-    "Atlantic Council": 5,
+    "Atlantic Council": 6,
     "Foreign Policy": 2,
     "CNN": 3,
     "France 24": 10,
-    "The Economist": 1,
+    "The Economist": 2,
     "Employee Happiness Daily": 1,
     "TVB": 1,
     "Middle East Monitor": 1,
@@ -21534,12 +21534,12 @@
     ],
     "Bloomberg.com": [
      0,
-     37,
+     38,
      0
     ],
     "Financial Times": [
      0,
-     7,
+     9,
      0
     ],
     "www.tmgm.com": [
@@ -21574,7 +21574,7 @@
     ],
     "Saudi Gazette": [
      0,
-     33,
+     34,
      0
     ],
     "Semafor": [
@@ -21594,12 +21594,12 @@
     ],
     "Arab News": [
      0,
-     58,
+     62,
      0
     ],
     "WSJ": [
      0,
-     17,
+     19,
      0
     ],
     "Spiegel": [
@@ -21609,22 +21609,22 @@
     ],
     "Al-Monitor": [
      0,
-     20,
+     23,
      0
     ],
     "BBC": [
      0,
-     15,
+     16,
      0
     ],
     "The Guardian": [
      0,
-     20,
+     22,
      0
     ],
     "Reuters": [
      0,
-     42,
+     45,
      0
     ],
     "South China Morning Post": [
@@ -21664,7 +21664,7 @@
     ],
     "Le Monde.fr": [
      0,
-     1,
+     2,
      0
     ],
     "JNS": [
@@ -21784,7 +21784,7 @@
     ],
     "AP News": [
      0,
-     5,
+     7,
      0
     ],
     "Crypto Briefing": [
@@ -21944,7 +21944,7 @@
     ],
     "Bloomberg": [
      0,
-     34,
+     36,
      0
     ],
     "The New Arab": [
@@ -21984,7 +21984,7 @@
     ],
     "The New York Times": [
      0,
-     6,
+     8,
      0
     ],
     "WE News English": [
@@ -21999,7 +21999,7 @@
     ],
     "Atlantic Council": [
      0,
-     5,
+     6,
      0
     ],
     "Foreign Policy": [
@@ -22019,7 +22019,7 @@
     ],
     "The Economist": [
      0,
-     1,
+     2,
      0
     ],
     "Employee Happiness Daily": [
@@ -22293,6 +22293,72 @@
      0
     ],
     "energynews.pro": [
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "2026-11-26": {
+   "total": 8,
+   "news": 8,
+   "articles": 0,
+   "positive": 0,
+   "neutral": 8,
+   "critical": 0,
+   "mbs": 0,
+   "countries": {
+    "SA": 1,
+    "US": 3
+   },
+   "topics": {},
+   "sources": {
+    "Arab News": 1,
+    "富途牛牛": 1,
+    "Al-Monitor": 1,
+    "WSJ": 1,
+    "Bloomberg": 1,
+    "Bioengineer.org": 1,
+    "X": 1,
+    "Chosunbiz": 1
+   },
+   "sourceTone": {
+    "Arab News": [
+     0,
+     1,
+     0
+    ],
+    "富途牛牛": [
+     0,
+     1,
+     0
+    ],
+    "Al-Monitor": [
+     0,
+     1,
+     0
+    ],
+    "WSJ": [
+     0,
+     1,
+     0
+    ],
+    "Bloomberg": [
+     0,
+     1,
+     0
+    ],
+    "Bioengineer.org": [
+     0,
+     1,
+     0
+    ],
+    "X": [
+     0,
+     1,
+     0
+    ],
+    "Chosunbiz": [
      0,
      1,
      0
