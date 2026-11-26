@@ -22402,15 +22402,15 @@
    }
   },
   "2026-11-26": {
-   "total": 209,
-   "news": 208,
+   "total": 210,
+   "news": 209,
    "articles": 1,
    "positive": 0,
-   "neutral": 209,
+   "neutral": 210,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "SA": 38,
+    "SA": 39,
     "US": 41,
     "GB": 41,
     "FR": 1,
@@ -22419,7 +22419,7 @@
    },
    "topics": {},
    "sources": {
-    "Arab News": 29,
+    "Arab News": 30,
     "富途牛牛": 1,
     "Al-Monitor": 8,
     "WSJ": 8,
@@ -22503,7 +22503,7 @@
    "sourceTone": {
     "Arab News": [
      0,
-     29,
+     30,
      0
     ],
     "富途牛牛": [
