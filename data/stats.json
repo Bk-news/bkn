@@ -21354,16 +21354,16 @@
    }
   },
   "2026-11-25": {
-   "total": 623,
-   "news": 613,
+   "total": 629,
+   "news": 619,
    "articles": 10,
    "positive": 0,
-   "neutral": 623,
+   "neutral": 629,
    "critical": 0,
-   "mbs": 12,
+   "mbs": 13,
    "countries": {
-    "US": 151,
-    "GB": 102,
+    "US": 153,
+    "GB": 105,
     "SA": 100,
     "DE": 2,
     "HK": 2,
@@ -21373,7 +21373,7 @@
    "sources": {
     "Yemen Online": 6,
     "Bloomberg.com": 39,
-    "Financial Times": 9,
+    "Financial Times": 10,
     "www.tmgm.com": 1,
     "FXEmpire": 2,
     "Global Advisory Experts": 9,
@@ -21385,11 +21385,11 @@
     "Yahoo": 1,
     "Chosunbiz": 1,
     "Arab News": 75,
-    "WSJ": 19,
+    "WSJ": 20,
     "Spiegel": 2,
     "Al-Monitor": 26,
     "BBC": 18,
-    "The Guardian": 25,
+    "The Guardian": 27,
     "Reuters": 52,
     "South China Morning Post": 2,
     "Fakti.bg": 1,
@@ -21462,7 +21462,7 @@
     "Arabian Business": 1,
     "وكالة الأنباء السعودية": 2,
     "Hürriyet Daily News": 1,
-    "The New York Times": 10,
+    "The New York Times": 11,
     "WE News English": 1,
     "Modern Ghana": 2,
     "Atlantic Council": 6,
@@ -21477,7 +21477,7 @@
     "Facebook": 2,
     "MLQ.ai": 1,
     "SABC News": 1,
-    "DD News": 3,
+    "DD News": 4,
     "Daily Sun": 1,
     "The Korea Herald": 1,
     "شفق نيوز": 1,
@@ -21553,7 +21553,7 @@
     ],
     "Financial Times": [
      0,
-     9,
+     10,
      0
     ],
     "www.tmgm.com": [
@@ -21613,7 +21613,7 @@
     ],
     "WSJ": [
      0,
-     19,
+     20,
      0
     ],
     "Spiegel": [
@@ -21633,7 +21633,7 @@
     ],
     "The Guardian": [
      0,
-     25,
+     27,
      0
     ],
     "Reuters": [
@@ -21998,7 +21998,7 @@
     ],
     "The New York Times": [
      0,
-     10,
+     11,
      0
     ],
     "WE News English": [
@@ -22073,7 +22073,7 @@
     ],
     "DD News": [
      0,
-     3,
+     4,
      0
     ],
     "Daily Sun": [
@@ -22384,28 +22384,28 @@
    }
   },
   "2026-11-26": {
-   "total": 67,
-   "news": 66,
+   "total": 101,
+   "news": 100,
    "articles": 1,
    "positive": 0,
-   "neutral": 67,
+   "neutral": 101,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "SA": 7,
-    "US": 20,
-    "GB": 17,
+    "SA": 17,
+    "US": 28,
+    "GB": 27,
     "FR": 1,
     "HK": 1,
     "JP": 1
    },
    "topics": {},
    "sources": {
-    "Arab News": 6,
+    "Arab News": 11,
     "富途牛牛": 1,
-    "Al-Monitor": 6,
-    "WSJ": 6,
-    "Bloomberg": 1,
+    "Al-Monitor": 7,
+    "WSJ": 8,
+    "Bloomberg": 2,
     "Bioengineer.org": 1,
     "X": 1,
     "Chosunbiz": 1,
@@ -22416,31 +22416,36 @@
     "Nation Thailand": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
     "BigGo Finance": 2,
-    "Reuters": 7,
+    "Reuters": 11,
     "FanDuel Sportsbook": 1,
     "Modern Diplomacy": 1,
-    "The Guardian": 4,
+    "The Guardian": 5,
     "巴士的報": 1,
     "Forbes Middle East": 1,
-    "Financial Times": 3,
-    "Bloomberg.com": 3,
+    "Financial Times": 4,
+    "Bloomberg.com": 7,
     "AP News": 1,
     "The Economist": 1,
     "WhoWhatWhy": 1,
-    "Saudi Gazette": 2,
+    "Saudi Gazette": 7,
     "The Washington Post": 2,
-    "BBC": 2,
+    "BBC": 6,
     "Le Monde.fr": 1,
     "The New York Times": 1,
     "South China Morning Post": 1,
     "Nikkei Asia": 1,
     "الخبر اليمني": 1,
-    "thetexan.news": 1
+    "thetexan.news": 1,
+    "HaitiLibre.com": 1,
+    "Türkiye Today": 1,
+    "Inside World Football": 1,
+    "C21media": 1,
+    "The Arab Weekly": 2
    },
    "sourceTone": {
     "Arab News": [
      0,
-     6,
+     11,
      0
     ],
     "富途牛牛": [
@@ -22450,17 +22455,17 @@
     ],
     "Al-Monitor": [
      0,
-     6,
+     7,
      0
     ],
     "WSJ": [
      0,
-     6,
+     8,
      0
     ],
     "Bloomberg": [
      0,
-     1,
+     2,
      0
     ],
     "Bioengineer.org": [
@@ -22515,7 +22520,7 @@
     ],
     "Reuters": [
      0,
-     7,
+     11,
      0
     ],
     "FanDuel Sportsbook": [
@@ -22530,7 +22535,7 @@
     ],
     "The Guardian": [
      0,
-     4,
+     5,
      0
     ],
     "巴士的報": [
@@ -22545,12 +22550,12 @@
     ],
     "Financial Times": [
      0,
-     3,
+     4,
      0
     ],
     "Bloomberg.com": [
      0,
-     3,
+     7,
      0
     ],
     "AP News": [
@@ -22570,7 +22575,7 @@
     ],
     "Saudi Gazette": [
      0,
-     2,
+     7,
      0
     ],
     "The Washington Post": [
@@ -22580,7 +22585,7 @@
     ],
     "BBC": [
      0,
-     2,
+     6,
      0
     ],
     "Le Monde.fr": [
@@ -22611,6 +22616,31 @@
     "thetexan.news": [
      0,
      1,
+     0
+    ],
+    "HaitiLibre.com": [
+     0,
+     1,
+     0
+    ],
+    "Türkiye Today": [
+     0,
+     1,
+     0
+    ],
+    "Inside World Football": [
+     0,
+     1,
+     0
+    ],
+    "C21media": [
+     0,
+     1,
+     0
+    ],
+    "The Arab Weekly": [
+     0,
+     2,
      0
     ]
    }
