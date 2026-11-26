@@ -22414,17 +22414,17 @@
    }
   },
   "2026-11-26": {
-   "total": 483,
-   "news": 476,
+   "total": 486,
+   "news": 479,
    "articles": 7,
    "positive": 0,
-   "neutral": 483,
+   "neutral": 486,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "SA": 87,
     "US": 109,
-    "GB": 94,
+    "GB": 97,
     "FR": 3,
     "HK": 4,
     "JP": 1,
@@ -22447,7 +22447,7 @@
     "Nation Thailand": 1,
     "Arabian Gulf Business Insight | AGBI": 3,
     "BigGo Finance": 4,
-    "Reuters": 59,
+    "Reuters": 60,
     "FanDuel Sportsbook": 1,
     "Modern Diplomacy": 1,
     "The Guardian": 12,
@@ -22460,7 +22460,7 @@
     "WhoWhatWhy": 1,
     "Saudi Gazette": 26,
     "The Washington Post": 2,
-    "BBC": 15,
+    "BBC": 17,
     "Le Monde.fr": 3,
     "The New York Times": 6,
     "South China Morning Post": 4,
@@ -22644,7 +22644,7 @@
     ],
     "Reuters": [
      0,
-     59,
+     60,
      0
     ],
     "FanDuel Sportsbook": [
@@ -22709,7 +22709,7 @@
     ],
     "BBC": [
      0,
-     15,
+     17,
      0
     ],
     "Le Monde.fr": [
