@@ -22414,11 +22414,11 @@
    }
   },
   "2026-11-26": {
-   "total": 496,
-   "news": 489,
+   "total": 497,
+   "news": 490,
    "articles": 7,
    "positive": 0,
-   "neutral": 496,
+   "neutral": 497,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -22561,7 +22561,7 @@
     "UA.NEWS": 1,
     "www.inss.org.il": 1,
     "Consultancy-me.com": 1,
-    "Al Jazeera": 1,
+    "Al Jazeera": 2,
     "World Pipelines": 1,
     "Hürriyet Daily News": 1,
     "houseofsaud.com": 1,
@@ -23216,7 +23216,7 @@
     ],
     "Al Jazeera": [
      0,
-     1,
+     2,
      0
     ],
     "World Pipelines": [

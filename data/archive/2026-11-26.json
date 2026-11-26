@@ -23,6 +23,27 @@
    "mt": true
   },
   {
+   "id": "f3b98d1057772741",
+   "origin": "rss",
+   "source": "Al Jazeera",
+   "author": "",
+   "title_ar": "الهجوم على مصفاة جازان السعودية يسفر عن مقتل شخص وتعطيل العمليات",
+   "title_orig": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations",
+   "title_en": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUGZnZjhfSVBOMkp2VnNxeTh6ZHVxQmQ4X09jMnFmMFg1VUlhQ3RSTlVUN09RZEZpUlZFeV96MlpENFFwTHhoS0dEWTk5Q0U0Y2F0QS1Zb0Q0amNWMkw3cEs3S0d3Rml4QTV0ZExPXzVBaVRaTkZHVUpmYVVIbVk2SGtkcWtJLXVTUkk4Y2gxelVuUGtnU1BxM0gtN2J6ZF92SnJvczdjaGQxQkZad0RzZF9pb9IBuAFBVV95cUxPbDVuYThMckJDbU1vT3VsN21LaEc5ZVVQZVZKUjZzMWQ3UnlhbmxQZlZkVzdFUWZFbzVEZ1FkZ3hJSFMzY1dHRzdkYUF4MDIxOEpNckdiZHpHTXIxWGxQb3hHbFBGZ3VEZjdPZXBPVWJEejNFaHMzaVpBeER5aEZKYzZlVFVWSEVnLWpsSHA3cTBvY0pqM3YySXRNZGxhS1hGN0Z0VEtBb3dPNnFwQ2JXWnA5TFl2dDNX?oc=5",
+   "published": "2026-11-26T20:37:30.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "",
+   "pending": true,
+   "desc": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations &nbsp;&nbsp; Al Jazeera",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "47ccc5e4734a5e73",
    "origin": "rss",
    "source": "Arab News",
