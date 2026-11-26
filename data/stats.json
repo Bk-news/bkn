@@ -20341,16 +20341,16 @@
    }
   },
   "2026-11-24": {
-   "total": 778,
-   "news": 763,
+   "total": 779,
+   "news": 764,
    "articles": 15,
    "positive": 0,
-   "neutral": 778,
+   "neutral": 779,
    "critical": 0,
-   "mbs": 19,
+   "mbs": 20,
    "countries": {
     "SA": 114,
-    "US": 186,
+    "US": 187,
     "GB": 209,
     "JP": 1,
     "FR": 6,
@@ -20402,7 +20402,7 @@
     "Avi-Go": 4,
     "Atlantic Council": 9,
     "صحيفة سبق الإلكترونية": 4,
-    "Bloomberg": 20,
+    "Bloomberg": 21,
     "South China Morning Post": 4,
     "Spiegel": 2,
     "The Economist": 4,
@@ -20744,7 +20744,7 @@
     ],
     "Bloomberg": [
      0,
-     20,
+     21,
      0
     ],
     "South China Morning Post": [
