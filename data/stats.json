@@ -23373,18 +23373,18 @@
    }
   },
   "2026-11-27": {
-   "total": 203,
-   "news": 203,
+   "total": 205,
+   "news": 205,
    "articles": 0,
    "positive": 0,
-   "neutral": 203,
+   "neutral": 205,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "GB": 29,
     "HK": 2,
-    "US": 56,
-    "SA": 22,
+    "US": 57,
+    "SA": 23,
     "FR": 2
    },
    "topics": {},
@@ -23395,8 +23395,8 @@
     "WSJ": 4,
     "Arab News": 17,
     "Bloomberg.com": 24,
-    "Al-Monitor": 6,
-    "Saudi Gazette": 9,
+    "Al-Monitor": 7,
+    "Saudi Gazette": 10,
     "The Guardian": 2,
     "Xinhua": 1,
     "Yemen Online": 3,
@@ -23514,12 +23514,12 @@
     ],
     "Al-Monitor": [
      0,
-     6,
+     7,
      0
     ],
     "Saudi Gazette": [
      0,
-     9,
+     10,
      0
     ],
     "The Guardian": [
