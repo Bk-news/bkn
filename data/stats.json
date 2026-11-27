@@ -20341,16 +20341,16 @@
    }
   },
   "2026-11-24": {
-   "total": 781,
-   "news": 766,
+   "total": 782,
+   "news": 767,
    "articles": 15,
    "positive": 0,
-   "neutral": 781,
+   "neutral": 782,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "SA": 114,
-    "US": 189,
+    "US": 190,
     "GB": 209,
     "JP": 1,
     "FR": 6,
@@ -20367,7 +20367,7 @@
     "Reuters": 153,
     "Nikkei Asia": 1,
     "Bloomberg.com": 74,
-    "Al-Monitor": 34,
+    "Al-Monitor": 35,
     "WSJ": 23,
     "The New York Times": 14,
     "Arab News": 100,
@@ -20569,7 +20569,7 @@
     ],
     "Al-Monitor": [
      0,
-     34,
+     35,
      0
     ],
     "WSJ": [
@@ -21360,15 +21360,15 @@
    }
   },
   "2026-11-25": {
-   "total": 763,
-   "news": 752,
+   "total": 764,
+   "news": 753,
    "articles": 11,
    "positive": 0,
-   "neutral": 763,
+   "neutral": 764,
    "critical": 0,
    "mbs": 13,
    "countries": {
-    "US": 230,
+    "US": 231,
     "GB": 153,
     "SA": 103,
     "DE": 2,
@@ -21378,7 +21378,7 @@
    "topics": {},
    "sources": {
     "Yemen Online": 6,
-    "Bloomberg.com": 71,
+    "Bloomberg.com": 72,
     "Financial Times": 10,
     "www.tmgm.com": 1,
     "FXEmpire": 2,
@@ -21558,7 +21558,7 @@
     ],
     "Bloomberg.com": [
      0,
-     71,
+     72,
      0
     ],
     "Financial Times": [
