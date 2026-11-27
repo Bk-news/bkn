@@ -22414,15 +22414,15 @@
    }
   },
   "2026-11-26": {
-   "total": 612,
-   "news": 604,
+   "total": 613,
+   "news": 605,
    "articles": 8,
    "positive": 0,
-   "neutral": 612,
+   "neutral": 613,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "SA": 105,
+    "SA": 106,
     "US": 137,
     "GB": 136,
     "FR": 4,
@@ -22432,7 +22432,7 @@
    },
    "topics": {},
    "sources": {
-    "Arab News": 90,
+    "Arab News": 91,
     "富途牛牛": 1,
     "Al-Monitor": 25,
     "WSJ": 13,
@@ -22592,7 +22592,7 @@
    "sourceTone": {
     "Arab News": [
      0,
-     90,
+     91,
      0
     ],
     "富途牛牛": [
@@ -23373,18 +23373,18 @@
    }
   },
   "2026-11-27": {
-   "total": 434,
-   "news": 431,
+   "total": 437,
+   "news": 434,
    "articles": 3,
    "positive": 0,
-   "neutral": 434,
+   "neutral": 437,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 71,
+    "GB": 72,
     "HK": 3,
     "US": 99,
-    "SA": 60,
+    "SA": 61,
     "FR": 3,
     "DE": 2
    },
@@ -23394,7 +23394,7 @@
     "Reuters": 42,
     "South China Morning Post": 3,
     "WSJ": 6,
-    "Arab News": 52,
+    "Arab News": 53,
     "Bloomberg.com": 28,
     "Al-Monitor": 18,
     "Saudi Gazette": 16,
@@ -23416,7 +23416,7 @@
     "CNN": 17,
     "The New York Times": 8,
     "BBC": 23,
-    "Financial Times": 3,
+    "Financial Times": 4,
     "Le Monde.fr": 1,
     "Zawya": 3,
     "Benzinga": 1,
@@ -23483,7 +23483,7 @@
     "internationalfinance.com": 1,
     "Dawn": 1,
     "AsiaOne.com": 1,
-    "Anadolu Ajansı": 2,
+    "Anadolu Ajansı": 3,
     "Crypto Briefing": 1,
     "Qatar news agency": 1,
     "Yardbarker": 1,
@@ -23578,7 +23578,7 @@
     ],
     "Arab News": [
      0,
-     52,
+     53,
      0
     ],
     "Bloomberg.com": [
@@ -23688,7 +23688,7 @@
     ],
     "Financial Times": [
      0,
-     3,
+     4,
      0
     ],
     "Le Monde.fr": [
@@ -24023,7 +24023,7 @@
     ],
     "Anadolu Ajansı": [
      0,
-     2,
+     3,
      0
     ],
     "Crypto Briefing": [
