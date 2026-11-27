@@ -23373,17 +23373,17 @@
    }
   },
   "2026-11-27": {
-   "total": 213,
-   "news": 213,
+   "total": 218,
+   "news": 218,
    "articles": 0,
    "positive": 0,
-   "neutral": 213,
+   "neutral": 218,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "GB": 32,
     "HK": 2,
-    "US": 58,
+    "US": 61,
     "SA": 23,
     "FR": 2
    },
@@ -23400,7 +23400,7 @@
     "The Guardian": 2,
     "Xinhua": 1,
     "Yemen Online": 3,
-    "https://houseofsaud.com/": 2,
+    "https://houseofsaud.com/": 3,
     "MMA Junkie": 1,
     "BigGo Finance": 3,
     "IHF": 1,
@@ -23409,10 +23409,10 @@
     "Business Standard": 1,
     "Deccan Chronicle": 1,
     "France 24": 1,
-    "The Washington Post": 3,
+    "The Washington Post": 4,
     "The Independent": 1,
-    "AP News": 4,
-    "CNN": 14,
+    "AP News": 5,
+    "CNN": 15,
     "The New York Times": 2,
     "BBC": 17,
     "Financial Times": 2,
@@ -23473,7 +23473,7 @@
     "ChemAnalyst": 1,
     "アラブニュース": 1,
     "Travel and Leisure Asia": 1,
-    "Global Advisory Experts": 2,
+    "Global Advisory Experts": 3,
     "CairoScene": 1,
     "blooloop": 1,
     "Kashmir Observer": 1,
@@ -23543,7 +23543,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     2,
+     3,
      0
     ],
     "MMA Junkie": [
@@ -23588,7 +23588,7 @@
     ],
     "The Washington Post": [
      0,
-     3,
+     4,
      0
     ],
     "The Independent": [
@@ -23598,12 +23598,12 @@
     ],
     "AP News": [
      0,
-     4,
+     5,
      0
     ],
     "CNN": [
      0,
-     14,
+     15,
      0
     ],
     "The New York Times": [
@@ -23908,7 +23908,7 @@
     ],
     "Global Advisory Experts": [
      0,
-     2,
+     3,
      0
     ],
     "CairoScene": [
