@@ -23373,11 +23373,11 @@
    }
   },
   "2026-11-27": {
-   "total": 406,
-   "news": 403,
+   "total": 415,
+   "news": 412,
    "articles": 3,
    "positive": 0,
-   "neutral": 406,
+   "neutral": 415,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -23513,11 +23513,11 @@
     "Sports Illustrated": 1,
     "MMA Sucka": 1,
     "Egyptian Gazette": 1,
-    "Report.az": 1,
+    "Report.az": 2,
     "IntelliNews": 1,
     "The Straits Times": 1,
     "The Northern Miner": 1,
-    "Middle East Eye": 1,
+    "Middle East Eye": 2,
     "Avi-Go": 1,
     "IDNFinancials": 1,
     "The Telegraph": 1,
@@ -23540,7 +23540,14 @@
     "TRT World": 1,
     "Al-Akhbar English": 1,
     "TodayPress.tv": 1,
-    "Marine Insight": 1
+    "Marine Insight": 1,
+    "Haberler.com": 1,
+    "Simply Wall St": 1,
+    "bdnews24.com": 1,
+    "Goal.com": 1,
+    "Moneycontrol.com": 1,
+    "IndexBox": 1,
+    "Zikoko!": 1
    },
    "sourceTone": {
     "X": [
@@ -24160,7 +24167,7 @@
     ],
     "Report.az": [
      0,
-     1,
+     2,
      0
     ],
     "IntelliNews": [
@@ -24180,7 +24187,7 @@
     ],
     "Middle East Eye": [
      0,
-     1,
+     2,
      0
     ],
     "Avi-Go": [
@@ -24294,6 +24301,41 @@
      0
     ],
     "Marine Insight": [
+     0,
+     1,
+     0
+    ],
+    "Haberler.com": [
+     0,
+     1,
+     0
+    ],
+    "Simply Wall St": [
+     0,
+     1,
+     0
+    ],
+    "bdnews24.com": [
+     0,
+     1,
+     0
+    ],
+    "Goal.com": [
+     0,
+     1,
+     0
+    ],
+    "Moneycontrol.com": [
+     0,
+     1,
+     0
+    ],
+    "IndexBox": [
+     0,
+     1,
+     0
+    ],
+    "Zikoko!": [
      0,
      1,
      0
