@@ -21360,16 +21360,16 @@
    }
   },
   "2026-11-25": {
-   "total": 769,
-   "news": 758,
+   "total": 771,
+   "news": 760,
    "articles": 11,
    "positive": 0,
-   "neutral": 769,
+   "neutral": 771,
    "critical": 0,
    "mbs": 13,
    "countries": {
-    "US": 233,
-    "GB": 156,
+    "US": 234,
+    "GB": 157,
     "SA": 103,
     "DE": 2,
     "HK": 2,
@@ -21391,11 +21391,11 @@
     "Yahoo": 1,
     "Chosunbiz": 1,
     "Arab News": 78,
-    "WSJ": 24,
+    "WSJ": 25,
     "Spiegel": 2,
     "Al-Monitor": 27,
     "BBC": 19,
-    "The Guardian": 27,
+    "The Guardian": 28,
     "Reuters": 101,
     "South China Morning Post": 2,
     "Fakti.bg": 1,
@@ -21623,7 +21623,7 @@
     ],
     "WSJ": [
      0,
-     24,
+     25,
      0
     ],
     "Spiegel": [
@@ -21643,7 +21643,7 @@
     ],
     "The Guardian": [
      0,
-     27,
+     28,
      0
     ],
     "Reuters": [
@@ -22414,17 +22414,17 @@
    }
   },
   "2026-11-26": {
-   "total": 597,
-   "news": 589,
+   "total": 604,
+   "news": 596,
    "articles": 8,
    "positive": 0,
-   "neutral": 597,
+   "neutral": 604,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "SA": 104,
     "US": 135,
-    "GB": 124,
+    "GB": 131,
     "FR": 4,
     "HK": 4,
     "JP": 1,
@@ -22447,7 +22447,7 @@
     "Nation Thailand": 1,
     "Arabian Gulf Business Insight | AGBI": 3,
     "BigGo Finance": 5,
-    "Reuters": 78,
+    "Reuters": 85,
     "FanDuel Sportsbook": 1,
     "Modern Diplomacy": 1,
     "The Guardian": 17,
@@ -22667,7 +22667,7 @@
     ],
     "Reuters": [
      0,
-     78,
+     85,
      0
     ],
     "FanDuel Sportsbook": [
@@ -23373,36 +23373,36 @@
    }
   },
   "2026-11-27": {
-   "total": 347,
-   "news": 344,
+   "total": 378,
+   "news": 375,
    "articles": 3,
    "positive": 0,
-   "neutral": 347,
+   "neutral": 378,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 56,
+    "GB": 67,
     "HK": 3,
     "US": 97,
-    "SA": 50,
+    "SA": 51,
     "FR": 3,
     "DE": 1
    },
    "topics": {},
    "sources": {
     "X": 1,
-    "Reuters": 29,
+    "Reuters": 40,
     "South China Morning Post": 3,
     "WSJ": 6,
     "Arab News": 42,
     "Bloomberg.com": 27,
     "Al-Monitor": 17,
-    "Saudi Gazette": 15,
+    "Saudi Gazette": 16,
     "The Guardian": 2,
     "Xinhua": 1,
     "Yemen Online": 3,
-    "https://houseofsaud.com/": 4,
-    "MMA Junkie": 1,
+    "https://houseofsaud.com/": 5,
+    "MMA Junkie": 2,
     "BigGo Finance": 3,
     "IHF": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
@@ -23446,7 +23446,7 @@
     "Operativ Məlumat Mərkəzi": 2,
     "Roya News English": 1,
     "Rigzone": 1,
-    "The Times of Israel": 1,
+    "The Times of Israel": 2,
     "Ratopati": 1,
     "AzerNews": 1,
     "Al Jazeera": 3,
@@ -23504,9 +23504,9 @@
     "Los Angeles Times": 1,
     "ASHARQ AL-AWSAT English": 1,
     "MillenniumPost": 1,
-    "Al Arabiya English": 1,
+    "Al Arabiya English": 4,
     "L'Orient Today": 1,
-    "Modern Ghana": 1,
+    "Modern Ghana": 2,
     "Apa.az": 1,
     "وكالة الأنباء السعودية": 1,
     "الحرة": 1,
@@ -23515,7 +23515,19 @@
     "Egyptian Gazette": 1,
     "Report.az": 1,
     "IntelliNews": 1,
-    "The Straits Times": 1
+    "The Straits Times": 1,
+    "The Northern Miner": 1,
+    "Middle East Eye": 1,
+    "Avi-Go": 1,
+    "IDNFinancials": 1,
+    "The Telegraph": 1,
+    "Oskaloosa Herald": 1,
+    "UA.NEWS": 1,
+    "The New Indian Express": 1,
+    "The National": 1,
+    "VOV World": 1,
+    "Daily Sabah": 1,
+    "MMA Mania": 1
    },
    "sourceTone": {
     "X": [
@@ -23525,7 +23537,7 @@
     ],
     "Reuters": [
      0,
-     29,
+     40,
      0
     ],
     "South China Morning Post": [
@@ -23555,7 +23567,7 @@
     ],
     "Saudi Gazette": [
      0,
-     15,
+     16,
      0
     ],
     "The Guardian": [
@@ -23575,12 +23587,12 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     4,
+     5,
      0
     ],
     "MMA Junkie": [
      0,
-     1,
+     2,
      0
     ],
     "BigGo Finance": [
@@ -23800,7 +23812,7 @@
     ],
     "The Times of Israel": [
      0,
-     1,
+     2,
      0
     ],
     "Ratopati": [
@@ -24090,7 +24102,7 @@
     ],
     "Al Arabiya English": [
      0,
-     1,
+     4,
      0
     ],
     "L'Orient Today": [
@@ -24100,7 +24112,7 @@
     ],
     "Modern Ghana": [
      0,
-     1,
+     2,
      0
     ],
     "Apa.az": [
@@ -24144,6 +24156,66 @@
      0
     ],
     "The Straits Times": [
+     0,
+     1,
+     0
+    ],
+    "The Northern Miner": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Eye": [
+     0,
+     1,
+     0
+    ],
+    "Avi-Go": [
+     0,
+     1,
+     0
+    ],
+    "IDNFinancials": [
+     0,
+     1,
+     0
+    ],
+    "The Telegraph": [
+     0,
+     1,
+     0
+    ],
+    "Oskaloosa Herald": [
+     0,
+     1,
+     0
+    ],
+    "UA.NEWS": [
+     0,
+     1,
+     0
+    ],
+    "The New Indian Express": [
+     0,
+     1,
+     0
+    ],
+    "The National": [
+     0,
+     1,
+     0
+    ],
+    "VOV World": [
+     0,
+     1,
+     0
+    ],
+    "Daily Sabah": [
+     0,
+     1,
+     0
+    ],
+    "MMA Mania": [
      0,
      1,
      0
