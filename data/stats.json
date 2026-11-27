@@ -22414,17 +22414,17 @@
    }
   },
   "2026-11-26": {
-   "total": 610,
-   "news": 602,
+   "total": 612,
+   "news": 604,
    "articles": 8,
    "positive": 0,
-   "neutral": 610,
+   "neutral": 612,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "SA": 104,
+    "SA": 105,
     "US": 137,
-    "GB": 135,
+    "GB": 136,
     "FR": 4,
     "HK": 4,
     "JP": 1,
@@ -22432,7 +22432,7 @@
    },
    "topics": {},
    "sources": {
-    "Arab News": 89,
+    "Arab News": 90,
     "富途牛牛": 1,
     "Al-Monitor": 25,
     "WSJ": 13,
@@ -22447,7 +22447,7 @@
     "Nation Thailand": 1,
     "Arabian Gulf Business Insight | AGBI": 3,
     "BigGo Finance": 5,
-    "Reuters": 87,
+    "Reuters": 88,
     "FanDuel Sportsbook": 1,
     "Modern Diplomacy": 1,
     "The Guardian": 17,
@@ -22592,7 +22592,7 @@
    "sourceTone": {
     "Arab News": [
      0,
-     89,
+     90,
      0
     ],
     "富途牛牛": [
@@ -22667,7 +22667,7 @@
     ],
     "Reuters": [
      0,
-     87,
+     88,
      0
     ],
     "FanDuel Sportsbook": [
@@ -23373,11 +23373,11 @@
    }
   },
   "2026-11-27": {
-   "total": 433,
-   "news": 430,
+   "total": 434,
+   "news": 431,
    "articles": 3,
    "positive": 0,
-   "neutral": 433,
+   "neutral": 434,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -23552,7 +23552,8 @@
     "Naharnet": 1,
     "Daily Observer": 1,
     "LinkedIn": 1,
-    "Simmons & Simmons": 1
+    "Simmons & Simmons": 1,
+    "Rediff.com": 1
    },
    "sourceTone": {
     "X": [
@@ -24366,6 +24367,11 @@
      0
     ],
     "Simmons & Simmons": [
+     0,
+     1,
+     0
+    ],
+    "Rediff.com": [
      0,
      1,
      0
