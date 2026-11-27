@@ -2,6 +2,27 @@
  "day": "2026-11-27",
  "items": [
   {
+   "id": "929dd66122af7873",
+   "origin": "rss",
+   "source": "Saudi Gazette",
+   "author": "",
+   "title_ar": "الآلاف يحتجون في المنطقة الكردية مع سيطرة بغداد على النفط والمعابر الحدودية",
+   "title_orig": "Thousands protest in Kurdish region as Baghdad seizes control of oil and border crossings",
+   "title_en": "Thousands protest in Kurdish region as Baghdad seizes control of oil and border crossings",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUEFmSW5ZampoZDltMGhTYmxGcUtYcUJFd1A1R0VNc3RVUm1leFhERWFRNmNwWWZmWXBxUTc3UkRoV29GbUExbGZyQjlrSjlsc0k1MkNnV3VhcE15NHNxclBlRDBkLUFRa3RtVzhkT01KRkU2VllSaTE5ZURPNWR6T3pTYUdnaXhEZDlmTk15c2ZueUpWMEZCWHVOQndUSVItUWtJOGRlRDB1aVJNaHRlS3ZEd1htZEY2TDhId3ZUaHBqd2N2TnJwdHBYVHJ2eGs0b2liWA?oc=5",
+   "published": "2026-11-27T03:29:00.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "SA",
+   "pending": true,
+   "desc": "Thousands protest in Kurdish region as Baghdad seizes control of oil and border crossings &nbsp;&nbsp; Saudi Gazette",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "5236da5e624c706f",
    "origin": "rss",
    "source": "Reuters",
