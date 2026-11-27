@@ -21360,16 +21360,16 @@
    }
   },
   "2026-11-25": {
-   "total": 754,
-   "news": 743,
+   "total": 755,
+   "news": 744,
    "articles": 11,
    "positive": 0,
-   "neutral": 754,
+   "neutral": 755,
    "critical": 0,
    "mbs": 13,
    "countries": {
     "US": 226,
-    "GB": 148,
+    "GB": 149,
     "SA": 103,
     "DE": 2,
     "HK": 2,
@@ -21396,7 +21396,7 @@
     "Al-Monitor": 27,
     "BBC": 19,
     "The Guardian": 27,
-    "Reuters": 93,
+    "Reuters": 94,
     "South China Morning Post": 2,
     "Fakti.bg": 1,
     "سانا": 2,
@@ -21648,7 +21648,7 @@
     ],
     "Reuters": [
      0,
-     93,
+     94,
      0
     ],
     "South China Morning Post": [
@@ -23331,18 +23331,19 @@
    }
   },
   "2026-11-27": {
-   "total": 28,
-   "news": 28,
+   "total": 29,
+   "news": 29,
    "articles": 0,
    "positive": 0,
-   "neutral": 28,
+   "neutral": 29,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 4,
     "HK": 1,
     "US": 8,
-    "SA": 2
+    "SA": 2,
+    "FR": 1
    },
    "topics": {},
    "sources": {
@@ -23364,7 +23365,8 @@
     "Arabian Gulf Business Insight | AGBI": 1,
     "Inquirer.net": 1,
     "Business Standard": 1,
-    "Deccan Chronicle": 1
+    "Deccan Chronicle": 1,
+    "France 24": 1
    },
    "sourceTone": {
     "X": [
@@ -23458,6 +23460,11 @@
      0
     ],
     "Deccan Chronicle": [
+     0,
+     1,
+     0
+    ],
+    "France 24": [
      0,
      1,
      0
