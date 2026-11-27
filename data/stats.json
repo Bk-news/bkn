@@ -22414,16 +22414,16 @@
    }
   },
   "2026-11-26": {
-   "total": 607,
-   "news": 599,
+   "total": 608,
+   "news": 600,
    "articles": 8,
    "positive": 0,
-   "neutral": 607,
+   "neutral": 608,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "SA": 104,
-    "US": 135,
+    "US": 136,
     "GB": 134,
     "FR": 4,
     "HK": 4,
@@ -22462,7 +22462,7 @@
     "The Washington Post": 4,
     "BBC": 21,
     "Le Monde.fr": 4,
-    "The New York Times": 11,
+    "The New York Times": 12,
     "South China Morning Post": 4,
     "Nikkei Asia": 1,
     "الخبر اليمني": 1,
@@ -22742,7 +22742,7 @@
     ],
     "The New York Times": [
      0,
-     11,
+     12,
      0
     ],
     "South China Morning Post": [
@@ -23373,11 +23373,11 @@
    }
   },
   "2026-11-27": {
-   "total": 416,
-   "news": 413,
+   "total": 417,
+   "news": 414,
    "articles": 3,
    "positive": 0,
-   "neutral": 416,
+   "neutral": 417,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -23548,7 +23548,8 @@
     "Moneycontrol.com": 1,
     "IndexBox": 1,
     "Zikoko!": 1,
-    "Fana News -": 1
+    "Fana News -": 1,
+    "Naharnet": 1
    },
    "sourceTone": {
     "X": [
@@ -24342,6 +24343,11 @@
      0
     ],
     "Fana News -": [
+     0,
+     1,
+     0
+    ],
+    "Naharnet": [
      0,
      1,
      0
