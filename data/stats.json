@@ -20341,16 +20341,16 @@
    }
   },
   "2026-11-24": {
-   "total": 786,
-   "news": 771,
+   "total": 787,
+   "news": 772,
    "articles": 15,
    "positive": 0,
-   "neutral": 786,
+   "neutral": 787,
    "critical": 0,
-   "mbs": 20,
+   "mbs": 21,
    "countries": {
     "SA": 114,
-    "US": 194,
+    "US": 195,
     "GB": 209,
     "JP": 1,
     "FR": 6,
@@ -20366,7 +20366,7 @@
     "BBC": 12,
     "Reuters": 153,
     "Nikkei Asia": 1,
-    "Bloomberg.com": 75,
+    "Bloomberg.com": 76,
     "Al-Monitor": 38,
     "WSJ": 23,
     "The New York Times": 14,
@@ -20564,7 +20564,7 @@
     ],
     "Bloomberg.com": [
      0,
-     75,
+     76,
      0
     ],
     "Al-Monitor": [
@@ -22414,16 +22414,16 @@
    }
   },
   "2026-11-26": {
-   "total": 590,
-   "news": 582,
+   "total": 592,
+   "news": 584,
    "articles": 8,
    "positive": 0,
-   "neutral": 590,
+   "neutral": 592,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "SA": 103,
-    "US": 132,
+    "US": 134,
     "GB": 121,
     "FR": 4,
     "HK": 4,
@@ -22454,12 +22454,12 @@
     "巴士的報": 1,
     "Forbes Middle East": 2,
     "Financial Times": 8,
-    "Bloomberg.com": 41,
+    "Bloomberg.com": 42,
     "AP News": 6,
     "The Economist": 5,
     "WhoWhatWhy": 1,
     "Saudi Gazette": 27,
-    "The Washington Post": 3,
+    "The Washington Post": 4,
     "BBC": 20,
     "Le Monde.fr": 4,
     "The New York Times": 11,
@@ -22702,7 +22702,7 @@
     ],
     "Bloomberg.com": [
      0,
-     41,
+     42,
      0
     ],
     "AP News": [
@@ -22727,7 +22727,7 @@
     ],
     "The Washington Post": [
      0,
-     3,
+     4,
      0
     ],
     "BBC": [
@@ -23373,31 +23373,31 @@
    }
   },
   "2026-11-27": {
-   "total": 277,
-   "news": 274,
+   "total": 314,
+   "news": 311,
    "articles": 3,
    "positive": 0,
-   "neutral": 277,
+   "neutral": 314,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "GB": 41,
+    "GB": 49,
     "HK": 3,
-    "US": 81,
-    "SA": 30,
+    "US": 96,
+    "SA": 38,
     "FR": 3,
     "DE": 1
    },
    "topics": {},
    "sources": {
     "X": 1,
-    "Reuters": 16,
+    "Reuters": 22,
     "South China Morning Post": 3,
     "WSJ": 6,
-    "Arab News": 22,
+    "Arab News": 29,
     "Bloomberg.com": 27,
-    "Al-Monitor": 10,
-    "Saudi Gazette": 13,
+    "Al-Monitor": 16,
+    "Saudi Gazette": 15,
     "The Guardian": 2,
     "Xinhua": 1,
     "Yemen Online": 3,
@@ -23412,10 +23412,10 @@
     "France 24": 2,
     "The Washington Post": 7,
     "The Independent": 1,
-    "AP News": 7,
+    "AP News": 11,
     "CNN": 17,
-    "The New York Times": 5,
-    "BBC": 20,
+    "The New York Times": 7,
+    "BBC": 22,
     "Financial Times": 3,
     "Le Monde.fr": 1,
     "Zawya": 3,
@@ -23497,11 +23497,16 @@
     "Awaz The Voice": 1,
     "The Economic Times": 1,
     "Spiegel": 1,
-    "Bloomberg": 1,
+    "Bloomberg": 4,
     "Atlantic Council": 2,
     "The Economist": 1,
     "Mining.com": 1,
-    "Los Angeles Times": 1
+    "Los Angeles Times": 1,
+    "ASHARQ AL-AWSAT English": 1,
+    "MillenniumPost": 1,
+    "Al Arabiya English": 1,
+    "L'Orient Today": 1,
+    "Modern Ghana": 1
    },
    "sourceTone": {
     "X": [
@@ -23511,7 +23516,7 @@
     ],
     "Reuters": [
      0,
-     16,
+     22,
      0
     ],
     "South China Morning Post": [
@@ -23526,7 +23531,7 @@
     ],
     "Arab News": [
      0,
-     22,
+     29,
      0
     ],
     "Bloomberg.com": [
@@ -23536,12 +23541,12 @@
     ],
     "Al-Monitor": [
      0,
-     10,
+     16,
      0
     ],
     "Saudi Gazette": [
      0,
-     13,
+     15,
      0
     ],
     "The Guardian": [
@@ -23616,7 +23621,7 @@
     ],
     "AP News": [
      0,
-     7,
+     11,
      0
     ],
     "CNN": [
@@ -23626,12 +23631,12 @@
     ],
     "The New York Times": [
      0,
-     5,
+     7,
      0
     ],
     "BBC": [
      0,
-     20,
+     22,
      0
     ],
     "Financial Times": [
@@ -24041,7 +24046,7 @@
     ],
     "Bloomberg": [
      0,
-     1,
+     4,
      0
     ],
     "Atlantic Council": [
@@ -24060,6 +24065,31 @@
      0
     ],
     "Los Angeles Times": [
+     0,
+     1,
+     0
+    ],
+    "ASHARQ AL-AWSAT English": [
+     0,
+     1,
+     0
+    ],
+    "MillenniumPost": [
+     0,
+     1,
+     0
+    ],
+    "Al Arabiya English": [
+     0,
+     1,
+     0
+    ],
+    "L'Orient Today": [
+     0,
+     1,
+     0
+    ],
+    "Modern Ghana": [
      0,
      1,
      0
