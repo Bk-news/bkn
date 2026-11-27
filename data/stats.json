@@ -20341,16 +20341,16 @@
    }
   },
   "2026-11-24": {
-   "total": 784,
-   "news": 769,
+   "total": 785,
+   "news": 770,
    "articles": 15,
    "positive": 0,
-   "neutral": 784,
+   "neutral": 785,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "SA": 114,
-    "US": 192,
+    "US": 193,
     "GB": 209,
     "JP": 1,
     "FR": 6,
@@ -20367,7 +20367,7 @@
     "Reuters": 153,
     "Nikkei Asia": 1,
     "Bloomberg.com": 74,
-    "Al-Monitor": 37,
+    "Al-Monitor": 38,
     "WSJ": 23,
     "The New York Times": 14,
     "Arab News": 100,
@@ -20569,7 +20569,7 @@
     ],
     "Al-Monitor": [
      0,
-     37,
+     38,
      0
     ],
     "WSJ": [
@@ -23373,17 +23373,17 @@
    }
   },
   "2026-11-27": {
-   "total": 208,
-   "news": 208,
+   "total": 210,
+   "news": 210,
    "articles": 0,
    "positive": 0,
-   "neutral": 208,
+   "neutral": 210,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "GB": 30,
+    "GB": 31,
     "HK": 2,
-    "US": 57,
+    "US": 58,
     "SA": 23,
     "FR": 2
    },
@@ -23394,7 +23394,7 @@
     "South China Morning Post": 2,
     "WSJ": 4,
     "Arab News": 17,
-    "Bloomberg.com": 24,
+    "Bloomberg.com": 25,
     "Al-Monitor": 7,
     "Saudi Gazette": 10,
     "The Guardian": 2,
@@ -23414,7 +23414,7 @@
     "AP News": 4,
     "CNN": 14,
     "The New York Times": 2,
-    "BBC": 16,
+    "BBC": 17,
     "Financial Times": 2,
     "Le Monde.fr": 1,
     "Zawya": 3,
@@ -23511,7 +23511,7 @@
     ],
     "Bloomberg.com": [
      0,
-     24,
+     25,
      0
     ],
     "Al-Monitor": [
@@ -23611,7 +23611,7 @@
     ],
     "BBC": [
      0,
-     16,
+     17,
      0
     ],
     "Financial Times": [
