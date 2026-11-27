@@ -23349,11 +23349,11 @@
    }
   },
   "2026-11-27": {
-   "total": 32,
-   "news": 32,
+   "total": 33,
+   "news": 33,
    "articles": 0,
    "positive": 0,
-   "neutral": 32,
+   "neutral": 33,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -23369,7 +23369,7 @@
     "Reuters": 3,
     "South China Morning Post": 1,
     "WSJ": 2,
-    "Arab News": 2,
+    "Arab News": 3,
     "Bloomberg.com": 6,
     "Al-Monitor": 1,
     "Saudi Gazette": 2,
@@ -23409,7 +23409,7 @@
     ],
     "Arab News": [
      0,
-     2,
+     3,
      0
     ],
     "Bloomberg.com": [
