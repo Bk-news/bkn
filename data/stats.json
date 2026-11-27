@@ -23373,11 +23373,11 @@
    }
   },
   "2026-11-27": {
-   "total": 197,
-   "news": 197,
+   "total": 198,
+   "news": 198,
    "articles": 0,
    "positive": 0,
-   "neutral": 197,
+   "neutral": 198,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -23476,7 +23476,8 @@
     "Global Advisory Experts": 2,
     "CairoScene": 1,
     "blooloop": 1,
-    "Kashmir Observer": 1
+    "Kashmir Observer": 1,
+    "Romford Recorder": 1
    },
    "sourceTone": {
     "X": [
@@ -23915,6 +23916,11 @@
      0
     ],
     "Kashmir Observer": [
+     0,
+     1,
+     0
+    ],
+    "Romford Recorder": [
      0,
      1,
      0
