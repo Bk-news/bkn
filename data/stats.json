@@ -23373,18 +23373,18 @@
    }
   },
   "2026-11-27": {
-   "total": 425,
-   "news": 422,
+   "total": 432,
+   "news": 429,
    "articles": 3,
    "positive": 0,
-   "neutral": 425,
+   "neutral": 432,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "GB": 71,
     "HK": 3,
     "US": 99,
-    "SA": 54,
+    "SA": 60,
     "FR": 3,
     "DE": 2
    },
@@ -23394,7 +23394,7 @@
     "Reuters": 42,
     "South China Morning Post": 3,
     "WSJ": 6,
-    "Arab News": 46,
+    "Arab News": 52,
     "Bloomberg.com": 28,
     "Al-Monitor": 18,
     "Saudi Gazette": 16,
@@ -23514,7 +23514,7 @@
     "MMA Sucka": 1,
     "Egyptian Gazette": 1,
     "Report.az": 2,
-    "IntelliNews": 1,
+    "IntelliNews": 2,
     "The Straits Times": 1,
     "The Northern Miner": 1,
     "Middle East Eye": 2,
@@ -23576,7 +23576,7 @@
     ],
     "Arab News": [
      0,
-     46,
+     52,
      0
     ],
     "Bloomberg.com": [
@@ -24176,7 +24176,7 @@
     ],
     "IntelliNews": [
      0,
-     1,
+     2,
      0
     ],
     "The Straits Times": [
