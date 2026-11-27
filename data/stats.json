@@ -22414,16 +22414,16 @@
    }
   },
   "2026-11-26": {
-   "total": 562,
-   "news": 555,
+   "total": 563,
+   "news": 556,
    "articles": 7,
    "positive": 0,
-   "neutral": 562,
+   "neutral": 563,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "SA": 100,
-    "US": 122,
+    "US": 123,
     "GB": 110,
     "FR": 4,
     "HK": 4,
@@ -22436,7 +22436,7 @@
     "富途牛牛": 1,
     "Al-Monitor": 24,
     "WSJ": 12,
-    "Bloomberg": 5,
+    "Bloomberg": 6,
     "Bioengineer.org": 8,
     "X": 2,
     "Chosunbiz": 2,
@@ -22608,7 +22608,7 @@
     ],
     "Bloomberg": [
      0,
-     5,
+     6,
      0
     ],
     "Bioengineer.org": [
@@ -23349,17 +23349,17 @@
    }
   },
   "2026-11-27": {
-   "total": 33,
-   "news": 33,
+   "total": 34,
+   "news": 34,
    "articles": 0,
    "positive": 0,
-   "neutral": 33,
+   "neutral": 34,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 4,
     "HK": 1,
-    "US": 9,
+    "US": 10,
     "SA": 3,
     "FR": 1
    },
@@ -23370,7 +23370,7 @@
     "South China Morning Post": 1,
     "WSJ": 2,
     "Arab News": 3,
-    "Bloomberg.com": 6,
+    "Bloomberg.com": 7,
     "Al-Monitor": 1,
     "Saudi Gazette": 2,
     "The Guardian": 1,
@@ -23414,7 +23414,7 @@
     ],
     "Bloomberg.com": [
      0,
-     6,
+     7,
      0
     ],
     "Al-Monitor": [
