@@ -22414,17 +22414,17 @@
    }
   },
   "2026-11-26": {
-   "total": 581,
-   "news": 574,
+   "total": 582,
+   "news": 575,
    "articles": 7,
    "positive": 0,
-   "neutral": 581,
+   "neutral": 582,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "SA": 102,
     "US": 129,
-    "GB": 116,
+    "GB": 117,
     "FR": 4,
     "HK": 4,
     "JP": 1,
@@ -22447,7 +22447,7 @@
     "Nation Thailand": 1,
     "Arabian Gulf Business Insight | AGBI": 3,
     "BigGo Finance": 5,
-    "Reuters": 71,
+    "Reuters": 72,
     "FanDuel Sportsbook": 1,
     "Modern Diplomacy": 1,
     "The Guardian": 17,
@@ -22667,7 +22667,7 @@
     ],
     "Reuters": [
      0,
-     71,
+     72,
      0
     ],
     "FanDuel Sportsbook": [
@@ -23373,18 +23373,18 @@
    }
   },
   "2026-11-27": {
-   "total": 192,
-   "news": 192,
+   "total": 193,
+   "news": 193,
    "articles": 0,
    "positive": 0,
-   "neutral": 192,
+   "neutral": 193,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "GB": 28,
     "HK": 2,
     "US": 53,
-    "SA": 20,
+    "SA": 21,
     "FR": 2
    },
    "topics": {},
@@ -23396,7 +23396,7 @@
     "Arab News": 16,
     "Bloomberg.com": 22,
     "Al-Monitor": 6,
-    "Saudi Gazette": 8,
+    "Saudi Gazette": 9,
     "The Guardian": 2,
     "Xinhua": 1,
     "Yemen Online": 3,
@@ -23514,7 +23514,7 @@
     ],
     "Saudi Gazette": [
      0,
-     8,
+     9,
      0
     ],
     "The Guardian": [
