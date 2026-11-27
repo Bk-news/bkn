@@ -22414,15 +22414,15 @@
    }
   },
   "2026-11-26": {
-   "total": 588,
-   "news": 581,
+   "total": 589,
+   "news": 582,
    "articles": 7,
    "positive": 0,
-   "neutral": 588,
+   "neutral": 589,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "SA": 102,
+    "SA": 103,
     "US": 132,
     "GB": 120,
     "FR": 4,
@@ -22432,7 +22432,7 @@
    },
    "topics": {},
    "sources": {
-    "Arab News": 87,
+    "Arab News": 88,
     "富途牛牛": 1,
     "Al-Monitor": 24,
     "WSJ": 13,
@@ -22592,7 +22592,7 @@
    "sourceTone": {
     "Arab News": [
      0,
-     87,
+     88,
      0
     ],
     "富途牛牛": [
@@ -23373,15 +23373,15 @@
    }
   },
   "2026-11-27": {
-   "total": 232,
-   "news": 232,
+   "total": 235,
+   "news": 235,
    "articles": 0,
    "positive": 0,
-   "neutral": 232,
+   "neutral": 235,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "GB": 32,
+    "GB": 33,
     "HK": 2,
     "US": 63,
     "SA": 24,
@@ -23390,7 +23390,7 @@
    "topics": {},
    "sources": {
     "X": 1,
-    "Reuters": 12,
+    "Reuters": 13,
     "South China Morning Post": 2,
     "WSJ": 4,
     "Arab News": 18,
@@ -23442,7 +23442,7 @@
     "Informat.ro": 1,
     "Gulf News": 2,
     "PRESS Insider": 1,
-    "Operativ Məlumat Mərkəzi": 1,
+    "Operativ Məlumat Mərkəzi": 2,
     "Roya News English": 1,
     "Rigzone": 1,
     "The Times of Israel": 1,
@@ -23491,7 +23491,8 @@
     "News18": 1,
     "Jagonews24": 1,
     "DT Next": 1,
-    "The Annapurna Express": 1
+    "The Annapurna Express": 1,
+    "Investing.com South Africa": 1
    },
    "sourceTone": {
     "X": [
@@ -23501,7 +23502,7 @@
     ],
     "Reuters": [
      0,
-     12,
+     13,
      0
     ],
     "South China Morning Post": [
@@ -23761,7 +23762,7 @@
     ],
     "Operativ Məlumat Mərkəzi": [
      0,
-     1,
+     2,
      0
     ],
     "Roya News English": [
@@ -24005,6 +24006,11 @@
      0
     ],
     "The Annapurna Express": [
+     0,
+     1,
+     0
+    ],
+    "Investing.com South Africa": [
      0,
      1,
      0
