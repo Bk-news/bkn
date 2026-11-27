@@ -20341,16 +20341,16 @@
    }
   },
   "2026-11-24": {
-   "total": 785,
-   "news": 770,
+   "total": 786,
+   "news": 771,
    "articles": 15,
    "positive": 0,
-   "neutral": 785,
+   "neutral": 786,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "SA": 114,
-    "US": 193,
+    "US": 194,
     "GB": 209,
     "JP": 1,
     "FR": 6,
@@ -20366,7 +20366,7 @@
     "BBC": 12,
     "Reuters": 153,
     "Nikkei Asia": 1,
-    "Bloomberg.com": 74,
+    "Bloomberg.com": 75,
     "Al-Monitor": 38,
     "WSJ": 23,
     "The New York Times": 14,
@@ -20564,7 +20564,7 @@
     ],
     "Bloomberg.com": [
      0,
-     74,
+     75,
      0
     ],
     "Al-Monitor": [
@@ -23373,11 +23373,11 @@
    }
   },
   "2026-11-27": {
-   "total": 212,
-   "news": 212,
+   "total": 213,
+   "news": 213,
    "articles": 0,
    "positive": 0,
-   "neutral": 212,
+   "neutral": 213,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -23482,7 +23482,8 @@
     "internationalfinance.com": 1,
     "Dawn": 1,
     "AsiaOne.com": 1,
-    "Anadolu Ajansı": 1
+    "Anadolu Ajansı": 1,
+    "Crypto Briefing": 1
    },
    "sourceTone": {
     "X": [
@@ -23951,6 +23952,11 @@
      0
     ],
     "Anadolu Ajansı": [
+     0,
+     1,
+     0
+    ],
+    "Crypto Briefing": [
      0,
      1,
      0
