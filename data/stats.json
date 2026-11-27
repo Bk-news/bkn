@@ -23373,11 +23373,11 @@
    }
   },
   "2026-11-27": {
-   "total": 210,
-   "news": 210,
+   "total": 211,
+   "news": 211,
    "articles": 0,
    "positive": 0,
-   "neutral": 210,
+   "neutral": 211,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -23481,7 +23481,8 @@
     "Magzter": 1,
     "internationalfinance.com": 1,
     "Dawn": 1,
-    "AsiaOne.com": 1
+    "AsiaOne.com": 1,
+    "Anadolu Ajansı": 1
    },
    "sourceTone": {
     "X": [
@@ -23945,6 +23946,11 @@
      0
     ],
     "AsiaOne.com": [
+     0,
+     1,
+     0
+    ],
+    "Anadolu Ajansı": [
      0,
      1,
      0
