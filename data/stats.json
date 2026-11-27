@@ -22414,17 +22414,17 @@
    }
   },
   "2026-11-26": {
-   "total": 585,
-   "news": 578,
+   "total": 587,
+   "news": 580,
    "articles": 7,
    "positive": 0,
-   "neutral": 585,
+   "neutral": 587,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "SA": 102,
-    "US": 131,
-    "GB": 118,
+    "US": 132,
+    "GB": 119,
     "FR": 4,
     "HK": 4,
     "JP": 1,
@@ -22447,7 +22447,7 @@
     "Nation Thailand": 1,
     "Arabian Gulf Business Insight | AGBI": 3,
     "BigGo Finance": 5,
-    "Reuters": 73,
+    "Reuters": 74,
     "FanDuel Sportsbook": 1,
     "Modern Diplomacy": 1,
     "The Guardian": 17,
@@ -22462,7 +22462,7 @@
     "The Washington Post": 3,
     "BBC": 20,
     "Le Monde.fr": 4,
-    "The New York Times": 10,
+    "The New York Times": 11,
     "South China Morning Post": 4,
     "Nikkei Asia": 1,
     "الخبر اليمني": 1,
@@ -22667,7 +22667,7 @@
     ],
     "Reuters": [
      0,
-     73,
+     74,
      0
     ],
     "FanDuel Sportsbook": [
@@ -22742,7 +22742,7 @@
     ],
     "The New York Times": [
      0,
-     10,
+     11,
      0
     ],
     "South China Morning Post": [
@@ -23373,17 +23373,17 @@
    }
   },
   "2026-11-27": {
-   "total": 218,
-   "news": 218,
+   "total": 221,
+   "news": 221,
    "articles": 0,
    "positive": 0,
-   "neutral": 218,
+   "neutral": 221,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "GB": 32,
     "HK": 2,
-    "US": 61,
+    "US": 62,
     "SA": 23,
     "FR": 2
    },
@@ -23413,7 +23413,7 @@
     "The Independent": 1,
     "AP News": 5,
     "CNN": 15,
-    "The New York Times": 2,
+    "The New York Times": 3,
     "BBC": 17,
     "Financial Times": 2,
     "Le Monde.fr": 1,
@@ -23448,7 +23448,7 @@
     "The Times of Israel": 1,
     "Ratopati": 1,
     "AzerNews": 1,
-    "Al Jazeera": 1,
+    "Al Jazeera": 2,
     "Euronews.com": 1,
     "Babushahi.com": 1,
     "سانا": 1,
@@ -23483,7 +23483,8 @@
     "Dawn": 1,
     "AsiaOne.com": 1,
     "Anadolu Ajansı": 1,
-    "Crypto Briefing": 1
+    "Crypto Briefing": 1,
+    "Qatar news agency": 1
    },
    "sourceTone": {
     "X": [
@@ -23608,7 +23609,7 @@
     ],
     "The New York Times": [
      0,
-     2,
+     3,
      0
     ],
     "BBC": [
@@ -23783,7 +23784,7 @@
     ],
     "Al Jazeera": [
      0,
-     1,
+     2,
      0
     ],
     "Euronews.com": [
@@ -23957,6 +23958,11 @@
      0
     ],
     "Crypto Briefing": [
+     0,
+     1,
+     0
+    ],
+    "Qatar news agency": [
      0,
      1,
      0
