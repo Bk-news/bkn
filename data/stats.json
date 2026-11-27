@@ -23373,18 +23373,18 @@
    }
   },
   "2026-11-27": {
-   "total": 235,
-   "news": 235,
+   "total": 238,
+   "news": 238,
    "articles": 0,
    "positive": 0,
-   "neutral": 235,
+   "neutral": 238,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "GB": 33,
     "HK": 2,
     "US": 63,
-    "SA": 24,
+    "SA": 25,
     "FR": 2
    },
    "topics": {},
@@ -23396,7 +23396,7 @@
     "Arab News": 18,
     "Bloomberg.com": 26,
     "Al-Monitor": 7,
-    "Saudi Gazette": 10,
+    "Saudi Gazette": 11,
     "The Guardian": 2,
     "Xinhua": 1,
     "Yemen Online": 3,
@@ -23482,7 +23482,7 @@
     "internationalfinance.com": 1,
     "Dawn": 1,
     "AsiaOne.com": 1,
-    "Anadolu Ajansı": 1,
+    "Anadolu Ajansı": 2,
     "Crypto Briefing": 1,
     "Qatar news agency": 1,
     "Yardbarker": 1,
@@ -23492,7 +23492,8 @@
     "Jagonews24": 1,
     "DT Next": 1,
     "The Annapurna Express": 1,
-    "Investing.com South Africa": 1
+    "Investing.com South Africa": 1,
+    "Awaz The Voice": 1
    },
    "sourceTone": {
     "X": [
@@ -23532,7 +23533,7 @@
     ],
     "Saudi Gazette": [
      0,
-     10,
+     11,
      0
     ],
     "The Guardian": [
@@ -23962,7 +23963,7 @@
     ],
     "Anadolu Ajansı": [
      0,
-     1,
+     2,
      0
     ],
     "Crypto Briefing": [
@@ -24011,6 +24012,11 @@
      0
     ],
     "Investing.com South Africa": [
+     0,
+     1,
+     0
+    ],
+    "Awaz The Voice": [
      0,
      1,
      0
