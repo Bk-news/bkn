@@ -23373,32 +23373,32 @@
    }
   },
   "2026-11-27": {
-   "total": 400,
-   "news": 397,
+   "total": 404,
+   "news": 401,
    "articles": 3,
    "positive": 0,
-   "neutral": 400,
+   "neutral": 404,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 67,
+    "GB": 69,
     "HK": 3,
     "US": 97,
-    "SA": 51,
+    "SA": 53,
     "FR": 3,
     "DE": 1
    },
    "topics": {},
    "sources": {
     "X": 1,
-    "Reuters": 40,
+    "Reuters": 41,
     "South China Morning Post": 3,
     "WSJ": 6,
-    "Arab News": 43,
+    "Arab News": 45,
     "Bloomberg.com": 27,
     "Al-Monitor": 18,
     "Saudi Gazette": 16,
-    "The Guardian": 2,
+    "The Guardian": 3,
     "Xinhua": 1,
     "Yemen Online": 3,
     "https://houseofsaud.com/": 5,
@@ -23550,7 +23550,7 @@
     ],
     "Reuters": [
      0,
-     40,
+     41,
      0
     ],
     "South China Morning Post": [
@@ -23565,7 +23565,7 @@
     ],
     "Arab News": [
      0,
-     43,
+     45,
      0
     ],
     "Bloomberg.com": [
@@ -23585,7 +23585,7 @@
     ],
     "The Guardian": [
      0,
-     2,
+     3,
      0
     ],
     "Xinhua": [
