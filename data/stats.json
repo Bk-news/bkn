@@ -23373,11 +23373,11 @@
    }
   },
   "2026-11-27": {
-   "total": 193,
-   "news": 193,
+   "total": 195,
+   "news": 195,
    "articles": 0,
    "positive": 0,
-   "neutral": 193,
+   "neutral": 195,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -23474,7 +23474,9 @@
     "アラブニュース": 1,
     "Travel and Leisure Asia": 1,
     "Global Advisory Experts": 2,
-    "CairoScene": 1
+    "CairoScene": 1,
+    "blooloop": 1,
+    "Kashmir Observer": 1
    },
    "sourceTone": {
     "X": [
@@ -23903,6 +23905,16 @@
      0
     ],
     "CairoScene": [
+     0,
+     1,
+     0
+    ],
+    "blooloop": [
+     0,
+     1,
+     0
+    ],
+    "Kashmir Observer": [
      0,
      1,
      0
