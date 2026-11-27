@@ -22414,16 +22414,16 @@
    }
   },
   "2026-11-26": {
-   "total": 608,
-   "news": 600,
+   "total": 609,
+   "news": 601,
    "articles": 8,
    "positive": 0,
-   "neutral": 608,
+   "neutral": 609,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "SA": 104,
-    "US": 136,
+    "US": 137,
     "GB": 134,
     "FR": 4,
     "HK": 4,
@@ -22462,7 +22462,7 @@
     "The Washington Post": 4,
     "BBC": 21,
     "Le Monde.fr": 4,
-    "The New York Times": 12,
+    "The New York Times": 13,
     "South China Morning Post": 4,
     "Nikkei Asia": 1,
     "الخبر اليمني": 1,
@@ -22742,7 +22742,7 @@
     ],
     "The New York Times": [
      0,
-     12,
+     13,
      0
     ],
     "South China Morning Post": [
@@ -23373,11 +23373,11 @@
    }
   },
   "2026-11-27": {
-   "total": 421,
-   "news": 418,
+   "total": 422,
+   "news": 419,
    "articles": 3,
    "positive": 0,
-   "neutral": 421,
+   "neutral": 422,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -23386,7 +23386,7 @@
     "US": 99,
     "SA": 54,
     "FR": 3,
-    "DE": 1
+    "DE": 2
    },
    "topics": {},
    "sources": {
@@ -23496,7 +23496,7 @@
     "Investing.com South Africa": 1,
     "Awaz The Voice": 1,
     "The Economic Times": 1,
-    "Spiegel": 1,
+    "Spiegel": 2,
     "Bloomberg": 4,
     "Atlantic Council": 2,
     "The Economist": 1,
@@ -24085,7 +24085,7 @@
     ],
     "Spiegel": [
      0,
-     1,
+     2,
      0
     ],
     "Bloomberg": [
