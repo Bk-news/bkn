@@ -23373,11 +23373,11 @@
    }
   },
   "2026-11-27": {
-   "total": 432,
-   "news": 429,
+   "total": 433,
+   "news": 430,
    "articles": 3,
    "positive": 0,
-   "neutral": 432,
+   "neutral": 433,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -23551,7 +23551,8 @@
     "Fana News -": 1,
     "Naharnet": 1,
     "Daily Observer": 1,
-    "LinkedIn": 1
+    "LinkedIn": 1,
+    "Simmons & Simmons": 1
    },
    "sourceTone": {
     "X": [
@@ -24360,6 +24361,11 @@
      0
     ],
     "LinkedIn": [
+     0,
+     1,
+     0
+    ],
+    "Simmons & Simmons": [
      0,
      1,
      0
