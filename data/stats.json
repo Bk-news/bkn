@@ -21360,16 +21360,16 @@
    }
   },
   "2026-11-25": {
-   "total": 767,
-   "news": 756,
+   "total": 769,
+   "news": 758,
    "articles": 11,
    "positive": 0,
-   "neutral": 767,
+   "neutral": 769,
    "critical": 0,
    "mbs": 13,
    "countries": {
     "US": 233,
-    "GB": 154,
+    "GB": 156,
     "SA": 103,
     "DE": 2,
     "HK": 2,
@@ -21396,7 +21396,7 @@
     "Al-Monitor": 27,
     "BBC": 19,
     "The Guardian": 27,
-    "Reuters": 99,
+    "Reuters": 101,
     "South China Morning Post": 2,
     "Fakti.bg": 1,
     "سانا": 2,
@@ -21648,7 +21648,7 @@
     ],
     "Reuters": [
      0,
-     99,
+     101,
      0
     ],
     "South China Morning Post": [
@@ -22414,17 +22414,17 @@
    }
   },
   "2026-11-26": {
-   "total": 592,
-   "news": 584,
+   "total": 597,
+   "news": 589,
    "articles": 8,
    "positive": 0,
-   "neutral": 592,
+   "neutral": 597,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "SA": 103,
-    "US": 134,
-    "GB": 121,
+    "SA": 104,
+    "US": 135,
+    "GB": 124,
     "FR": 4,
     "HK": 4,
     "JP": 1,
@@ -22432,9 +22432,9 @@
    },
    "topics": {},
    "sources": {
-    "Arab News": 88,
+    "Arab News": 89,
     "富途牛牛": 1,
-    "Al-Monitor": 24,
+    "Al-Monitor": 25,
     "WSJ": 13,
     "Bloomberg": 6,
     "Bioengineer.org": 8,
@@ -22447,7 +22447,7 @@
     "Nation Thailand": 1,
     "Arabian Gulf Business Insight | AGBI": 3,
     "BigGo Finance": 5,
-    "Reuters": 75,
+    "Reuters": 78,
     "FanDuel Sportsbook": 1,
     "Modern Diplomacy": 1,
     "The Guardian": 17,
@@ -22592,7 +22592,7 @@
    "sourceTone": {
     "Arab News": [
      0,
-     88,
+     89,
      0
     ],
     "富途牛牛": [
@@ -22602,7 +22602,7 @@
     ],
     "Al-Monitor": [
      0,
-     24,
+     25,
      0
     ],
     "WSJ": [
@@ -22667,7 +22667,7 @@
     ],
     "Reuters": [
      0,
-     75,
+     78,
      0
     ],
     "FanDuel Sportsbook": [
@@ -23373,35 +23373,35 @@
    }
   },
   "2026-11-27": {
-   "total": 314,
-   "news": 311,
+   "total": 347,
+   "news": 344,
    "articles": 3,
    "positive": 0,
-   "neutral": 314,
+   "neutral": 347,
    "critical": 0,
-   "mbs": 2,
+   "mbs": 3,
    "countries": {
-    "GB": 49,
+    "GB": 56,
     "HK": 3,
-    "US": 96,
-    "SA": 38,
+    "US": 97,
+    "SA": 50,
     "FR": 3,
     "DE": 1
    },
    "topics": {},
    "sources": {
     "X": 1,
-    "Reuters": 22,
+    "Reuters": 29,
     "South China Morning Post": 3,
     "WSJ": 6,
-    "Arab News": 29,
+    "Arab News": 42,
     "Bloomberg.com": 27,
-    "Al-Monitor": 16,
+    "Al-Monitor": 17,
     "Saudi Gazette": 15,
     "The Guardian": 2,
     "Xinhua": 1,
     "Yemen Online": 3,
-    "https://houseofsaud.com/": 3,
+    "https://houseofsaud.com/": 4,
     "MMA Junkie": 1,
     "BigGo Finance": 3,
     "IHF": 1,
@@ -23420,7 +23420,7 @@
     "Le Monde.fr": 1,
     "Zawya": 3,
     "Benzinga": 1,
-    "Arab News PK": 1,
+    "Arab News PK": 2,
     "Quantum Commodity Intelligence": 1,
     "arabinform.com": 1,
     "tovima.com": 1,
@@ -23449,7 +23449,7 @@
     "The Times of Israel": 1,
     "Ratopati": 1,
     "AzerNews": 1,
-    "Al Jazeera": 2,
+    "Al Jazeera": 3,
     "Euronews.com": 1,
     "Babushahi.com": 1,
     "سانا": 2,
@@ -23506,7 +23506,16 @@
     "MillenniumPost": 1,
     "Al Arabiya English": 1,
     "L'Orient Today": 1,
-    "Modern Ghana": 1
+    "Modern Ghana": 1,
+    "Apa.az": 1,
+    "وكالة الأنباء السعودية": 1,
+    "الحرة": 1,
+    "Sports Illustrated": 1,
+    "MMA Sucka": 1,
+    "Egyptian Gazette": 1,
+    "Report.az": 1,
+    "IntelliNews": 1,
+    "The Straits Times": 1
    },
    "sourceTone": {
     "X": [
@@ -23516,7 +23525,7 @@
     ],
     "Reuters": [
      0,
-     22,
+     29,
      0
     ],
     "South China Morning Post": [
@@ -23531,7 +23540,7 @@
     ],
     "Arab News": [
      0,
-     29,
+     42,
      0
     ],
     "Bloomberg.com": [
@@ -23541,7 +23550,7 @@
     ],
     "Al-Monitor": [
      0,
-     16,
+     17,
      0
     ],
     "Saudi Gazette": [
@@ -23566,7 +23575,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     3,
+     4,
      0
     ],
     "MMA Junkie": [
@@ -23661,7 +23670,7 @@
     ],
     "Arab News PK": [
      0,
-     1,
+     2,
      0
     ],
     "Quantum Commodity Intelligence": [
@@ -23806,7 +23815,7 @@
     ],
     "Al Jazeera": [
      0,
-     2,
+     3,
      0
     ],
     "Euronews.com": [
@@ -24090,6 +24099,51 @@
      0
     ],
     "Modern Ghana": [
+     0,
+     1,
+     0
+    ],
+    "Apa.az": [
+     0,
+     1,
+     0
+    ],
+    "وكالة الأنباء السعودية": [
+     0,
+     1,
+     0
+    ],
+    "الحرة": [
+     0,
+     1,
+     0
+    ],
+    "Sports Illustrated": [
+     0,
+     1,
+     0
+    ],
+    "MMA Sucka": [
+     0,
+     1,
+     0
+    ],
+    "Egyptian Gazette": [
+     0,
+     1,
+     0
+    ],
+    "Report.az": [
+     0,
+     1,
+     0
+    ],
+    "IntelliNews": [
+     0,
+     1,
+     0
+    ],
+    "The Straits Times": [
      0,
      1,
      0
