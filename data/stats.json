@@ -23349,15 +23349,15 @@
    }
   },
   "2026-11-27": {
-   "total": 34,
-   "news": 34,
+   "total": 35,
+   "news": 35,
    "articles": 0,
    "positive": 0,
-   "neutral": 34,
+   "neutral": 35,
    "critical": 0,
    "mbs": 0,
    "countries": {
-    "GB": 4,
+    "GB": 5,
     "HK": 1,
     "US": 10,
     "SA": 3,
@@ -23366,7 +23366,7 @@
    "topics": {},
    "sources": {
     "X": 1,
-    "Reuters": 3,
+    "Reuters": 4,
     "South China Morning Post": 1,
     "WSJ": 2,
     "Arab News": 3,
@@ -23394,7 +23394,7 @@
     ],
     "Reuters": [
      0,
-     3,
+     4,
      0
     ],
     "South China Morning Post": [

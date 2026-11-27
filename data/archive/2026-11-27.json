@@ -2,6 +2,27 @@
  "day": "2026-11-27",
  "items": [
   {
+   "id": "5236da5e624c706f",
+   "origin": "rss",
+   "source": "Reuters",
+   "author": "",
+   "title_ar": "ترامب: \"السوق يشعر بالارتياح للغاية\" بشأن عودة هوانغ كرئيس تنفيذي لشركة Nvidia",
+   "title_orig": "Trump: 'Market feels very good' about Huang's return as Nvidia CEO",
+   "title_en": "Trump: 'Market feels very good' about Huang's return as Nvidia CEO",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XbVFpb2oxYzkzN0xRaDhhYlVjbU0wTHhISkowOGhuMVYwQTF1WU9GTDZsanpnZmM2TXdvdkxMMTZyTHY1QmM1aG1uSThHUGZoOUhkWGRnTzZDRi1RMG5qNHBlbkUtMXM?oc=5",
+   "published": "2026-11-27T03:28:14.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "GB",
+   "pending": true,
+   "desc": "Trump: 'Market feels very good' about Huang's return as Nvidia CEO &nbsp;&nbsp; Reuters",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "0ce21043f36eb8b3",
    "origin": "rss",
    "source": "Bloomberg.com",
