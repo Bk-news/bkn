@@ -21360,16 +21360,16 @@
    }
   },
   "2026-11-25": {
-   "total": 756,
-   "news": 745,
+   "total": 757,
+   "news": 746,
    "articles": 11,
    "positive": 0,
-   "neutral": 756,
+   "neutral": 757,
    "critical": 0,
    "mbs": 13,
    "countries": {
     "US": 227,
-    "GB": 149,
+    "GB": 150,
     "SA": 103,
     "DE": 2,
     "HK": 2,
@@ -21396,7 +21396,7 @@
     "Al-Monitor": 27,
     "BBC": 19,
     "The Guardian": 27,
-    "Reuters": 94,
+    "Reuters": 95,
     "South China Morning Post": 2,
     "Fakti.bg": 1,
     "سانا": 2,
@@ -21648,7 +21648,7 @@
     ],
     "Reuters": [
      0,
-     94,
+     95,
      0
     ],
     "South China Morning Post": [
@@ -22414,11 +22414,11 @@
    }
   },
   "2026-11-26": {
-   "total": 556,
-   "news": 549,
+   "total": 557,
+   "news": 550,
    "articles": 7,
    "positive": 0,
-   "neutral": 556,
+   "neutral": 557,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -22581,7 +22581,8 @@
     "DAZN": 1,
     "Rigzone": 1,
     "IndexBox": 1,
-    "Nine.com.au": 1
+    "Nine.com.au": 1,
+    "Yahoo Finance UK": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -23330,6 +23331,11 @@
      0
     ],
     "Nine.com.au": [
+     0,
+     1,
+     0
+    ],
+    "Yahoo Finance UK": [
      0,
      1,
      0
