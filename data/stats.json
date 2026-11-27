@@ -23373,17 +23373,17 @@
    }
   },
   "2026-11-27": {
-   "total": 198,
-   "news": 198,
+   "total": 201,
+   "news": 201,
    "articles": 0,
    "positive": 0,
-   "neutral": 198,
+   "neutral": 201,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "GB": 29,
     "HK": 2,
-    "US": 53,
+    "US": 54,
     "SA": 22,
     "FR": 2
    },
@@ -23394,7 +23394,7 @@
     "South China Morning Post": 2,
     "WSJ": 3,
     "Arab News": 17,
-    "Bloomberg.com": 22,
+    "Bloomberg.com": 23,
     "Al-Monitor": 6,
     "Saudi Gazette": 9,
     "The Guardian": 2,
@@ -23477,7 +23477,9 @@
     "CairoScene": 1,
     "blooloop": 1,
     "Kashmir Observer": 1,
-    "Romford Recorder": 1
+    "Romford Recorder": 1,
+    "Magzter": 1,
+    "internationalfinance.com": 1
    },
    "sourceTone": {
     "X": [
@@ -23507,7 +23509,7 @@
     ],
     "Bloomberg.com": [
      0,
-     22,
+     23,
      0
     ],
     "Al-Monitor": [
@@ -23921,6 +23923,16 @@
      0
     ],
     "Romford Recorder": [
+     0,
+     1,
+     0
+    ],
+    "Magzter": [
+     0,
+     1,
+     0
+    ],
+    "internationalfinance.com": [
      0,
      1,
      0
