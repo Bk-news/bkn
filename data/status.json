@@ -1,25 +1,22 @@
 {
- "run": "2026-11-27T03:11:08.392Z",
+ "run": "2026-11-27T03:12:08.368Z",
  "key": true,
  "model": "claude-haiku-5-5",
- "feedsOk": 23,
- "feedsFailed": [
-  "The Guardian: HTTP 429"
- ],
- "fetched": 851,
- "fresh": 4,
- "world": 4,
- "analyzed": 3,
- "analyzeErrors": 1,
- "lastError": "Anthropic 401: {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChShZnfaExcH7tZ4jtjHD\"}",
+ "feedsOk": 24,
+ "feedsFailed": [],
+ "fetched": 881,
+ "fresh": 0,
+ "world": 0,
+ "analyzed": 0,
+ "analyzeErrors": 0,
+ "lastError": "Anthropic 401: {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChSheDuVZNwpq3H7ZvJtR\"}",
  "telegram": 20,
  "royal": 0,
- "mt": 4,
  "keyRejected": true,
- "pending": 804,
+ "pending": 800,
  "added": {
-  "news": 4,
+  "news": 0,
   "articles": 0,
-  "breaking": 0
+  "breaking": 1
  }
 }
