@@ -22414,17 +22414,17 @@
    }
   },
   "2026-11-26": {
-   "total": 609,
-   "news": 601,
+   "total": 610,
+   "news": 602,
    "articles": 8,
    "positive": 0,
-   "neutral": 609,
+   "neutral": 610,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "SA": 104,
     "US": 137,
-    "GB": 134,
+    "GB": 135,
     "FR": 4,
     "HK": 4,
     "JP": 1,
@@ -22460,7 +22460,7 @@
     "WhoWhatWhy": 1,
     "Saudi Gazette": 27,
     "The Washington Post": 4,
-    "BBC": 21,
+    "BBC": 22,
     "Le Monde.fr": 4,
     "The New York Times": 13,
     "South China Morning Post": 4,
@@ -22732,7 +22732,7 @@
     ],
     "BBC": [
      0,
-     21,
+     22,
      0
     ],
     "Le Monde.fr": [
@@ -23373,11 +23373,11 @@
    }
   },
   "2026-11-27": {
-   "total": 422,
-   "news": 419,
+   "total": 423,
+   "news": 420,
    "articles": 3,
    "positive": 0,
-   "neutral": 422,
+   "neutral": 423,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -23436,7 +23436,7 @@
     "Semafor": 1,
     "The Hindu": 1,
     "Middle East Online": 1,
-    "The Times of India": 1,
+    "The Times of India": 2,
     "Curly Tales": 1,
     "NEWS.am": 2,
     "Myanmar International TV": 1,
@@ -23785,7 +23785,7 @@
     ],
     "The Times of India": [
      0,
-     1,
+     2,
      0
     ],
     "Curly Tales": [
