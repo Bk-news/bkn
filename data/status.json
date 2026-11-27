@@ -1,17 +1,15 @@
 {
- "run": "2026-11-27T02:52:08.905Z",
+ "run": "2026-11-27T02:53:09.197Z",
  "key": true,
  "model": "claude-haiku-5-5",
- "feedsOk": 23,
- "feedsFailed": [
-  "The Wall Street Journal: HTTP 429"
- ],
- "fetched": 820,
+ "feedsOk": 24,
+ "feedsFailed": [],
+ "fetched": 855,
  "fresh": 0,
  "world": 0,
  "analyzed": 0,
  "analyzeErrors": 0,
- "lastError": "Anthropic 401: {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChSg7oXKpZkxeQD1M9jsU\"}",
+ "lastError": "Anthropic 401: {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChSgCGNUvSk2orRuFQsAQ\"}",
  "telegram": 20,
  "royal": 0,
  "keyRejected": true,
