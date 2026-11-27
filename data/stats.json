@@ -23373,11 +23373,11 @@
    }
   },
   "2026-11-27": {
-   "total": 206,
-   "news": 206,
+   "total": 208,
+   "news": 208,
    "articles": 0,
    "positive": 0,
-   "neutral": 206,
+   "neutral": 208,
    "critical": 0,
    "mbs": 2,
    "countries": {
@@ -23479,7 +23479,9 @@
     "Kashmir Observer": 1,
     "Romford Recorder": 1,
     "Magzter": 1,
-    "internationalfinance.com": 1
+    "internationalfinance.com": 1,
+    "Dawn": 1,
+    "AsiaOne.com": 1
    },
    "sourceTone": {
     "X": [
@@ -23933,6 +23935,16 @@
      0
     ],
     "internationalfinance.com": [
+     0,
+     1,
+     0
+    ],
+    "Dawn": [
+     0,
+     1,
+     0
+    ],
+    "AsiaOne.com": [
      0,
      1,
      0
