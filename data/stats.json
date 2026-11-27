@@ -20341,16 +20341,16 @@
    }
   },
   "2026-11-24": {
-   "total": 782,
-   "news": 767,
+   "total": 783,
+   "news": 768,
    "articles": 15,
    "positive": 0,
-   "neutral": 782,
+   "neutral": 783,
    "critical": 0,
    "mbs": 20,
    "countries": {
     "SA": 114,
-    "US": 190,
+    "US": 191,
     "GB": 209,
     "JP": 1,
     "FR": 6,
@@ -20367,7 +20367,7 @@
     "Reuters": 153,
     "Nikkei Asia": 1,
     "Bloomberg.com": 74,
-    "Al-Monitor": 35,
+    "Al-Monitor": 36,
     "WSJ": 23,
     "The New York Times": 14,
     "Arab News": 100,
@@ -20569,7 +20569,7 @@
     ],
     "Al-Monitor": [
      0,
-     35,
+     36,
      0
     ],
     "WSJ": [
@@ -21360,15 +21360,15 @@
    }
   },
   "2026-11-25": {
-   "total": 764,
-   "news": 753,
+   "total": 766,
+   "news": 755,
    "articles": 11,
    "positive": 0,
-   "neutral": 764,
+   "neutral": 766,
    "critical": 0,
    "mbs": 13,
    "countries": {
-    "US": 231,
+    "US": 233,
     "GB": 153,
     "SA": 103,
     "DE": 2,
@@ -21378,7 +21378,7 @@
    "topics": {},
    "sources": {
     "Yemen Online": 6,
-    "Bloomberg.com": 72,
+    "Bloomberg.com": 73,
     "Financial Times": 10,
     "www.tmgm.com": 1,
     "FXEmpire": 2,
@@ -21460,7 +21460,7 @@
     "الخبر اليمني": 1,
     "اسلام تايمز": 1,
     "Firstpost": 2,
-    "Bloomberg": 43,
+    "Bloomberg": 44,
     "The New Arab": 2,
     "DW.com": 2,
     "The Washington Post": 1,
@@ -21558,7 +21558,7 @@
     ],
     "Bloomberg.com": [
      0,
-     72,
+     73,
      0
     ],
     "Financial Times": [
@@ -21968,7 +21968,7 @@
     ],
     "Bloomberg": [
      0,
-     43,
+     44,
      0
     ],
     "The New Arab": [
@@ -22414,16 +22414,16 @@
    }
   },
   "2026-11-26": {
-   "total": 577,
-   "news": 570,
+   "total": 580,
+   "news": 573,
    "articles": 7,
    "positive": 0,
-   "neutral": 577,
+   "neutral": 580,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "SA": 102,
-    "US": 127,
+    "US": 129,
     "GB": 115,
     "FR": 4,
     "HK": 4,
@@ -22454,7 +22454,7 @@
     "巴士的報": 1,
     "Forbes Middle East": 2,
     "Financial Times": 8,
-    "Bloomberg.com": 39,
+    "Bloomberg.com": 41,
     "AP News": 5,
     "The Economist": 4,
     "WhoWhatWhy": 1,
@@ -22586,7 +22586,8 @@
     "Daily Voice Of Asia": 1,
     "وكالة الأنباء السعودية": 1,
     "EnterpriseAM": 1,
-    "ABC News - Breaking News, Latest News and Videos": 1
+    "ABC News - Breaking News, Latest News and Videos": 1,
+    "Denver Gazette": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -22701,7 +22702,7 @@
     ],
     "Bloomberg.com": [
      0,
-     39,
+     41,
      0
     ],
     "AP News": [
@@ -23363,21 +23364,26 @@
      0,
      1,
      0
+    ],
+    "Denver Gazette": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-27": {
-   "total": 179,
-   "news": 179,
+   "total": 192,
+   "news": 192,
    "articles": 0,
    "positive": 0,
-   "neutral": 179,
+   "neutral": 192,
    "critical": 0,
    "mbs": 2,
    "countries": {
-    "GB": 27,
+    "GB": 28,
     "HK": 2,
-    "US": 51,
+    "US": 53,
     "SA": 20,
     "FR": 2
    },
@@ -23388,7 +23394,7 @@
     "South China Morning Post": 2,
     "WSJ": 3,
     "Arab News": 16,
-    "Bloomberg.com": 20,
+    "Bloomberg.com": 22,
     "Al-Monitor": 6,
     "Saudi Gazette": 8,
     "The Guardian": 2,
@@ -23396,7 +23402,7 @@
     "Yemen Online": 3,
     "https://houseofsaud.com/": 2,
     "MMA Junkie": 1,
-    "BigGo Finance": 2,
+    "BigGo Finance": 3,
     "IHF": 1,
     "Arabian Gulf Business Insight | AGBI": 1,
     "Inquirer.net": 1,
@@ -23408,7 +23414,7 @@
     "AP News": 4,
     "CNN": 14,
     "The New York Times": 2,
-    "BBC": 14,
+    "BBC": 15,
     "Financial Times": 2,
     "Le Monde.fr": 1,
     "Zawya": 3,
@@ -23459,9 +23465,16 @@
     "Prop News Time": 1,
     "ANI News": 1,
     "OnlineKhabar English News": 1,
-    "The Indian Express": 1,
+    "The Indian Express": 2,
     "Kuwait Times": 1,
-    "Hürriyet Daily News": 1
+    "Hürriyet Daily News": 1,
+    "Dhaka Tribune": 1,
+    "MLQ.ai": 1,
+    "ChemAnalyst": 1,
+    "アラブニュース": 1,
+    "Travel and Leisure Asia": 1,
+    "Global Advisory Experts": 2,
+    "CairoScene": 1
    },
    "sourceTone": {
     "X": [
@@ -23491,7 +23504,7 @@
     ],
     "Bloomberg.com": [
      0,
-     20,
+     22,
      0
     ],
     "Al-Monitor": [
@@ -23531,7 +23544,7 @@
     ],
     "BigGo Finance": [
      0,
-     2,
+     3,
      0
     ],
     "IHF": [
@@ -23591,7 +23604,7 @@
     ],
     "BBC": [
      0,
-     14,
+     15,
      0
     ],
     "Financial Times": [
@@ -23846,7 +23859,7 @@
     ],
     "The Indian Express": [
      0,
-     1,
+     2,
      0
     ],
     "Kuwait Times": [
@@ -23855,6 +23868,41 @@
      0
     ],
     "Hürriyet Daily News": [
+     0,
+     1,
+     0
+    ],
+    "Dhaka Tribune": [
+     0,
+     1,
+     0
+    ],
+    "MLQ.ai": [
+     0,
+     1,
+     0
+    ],
+    "ChemAnalyst": [
+     0,
+     1,
+     0
+    ],
+    "アラブニュース": [
+     0,
+     1,
+     0
+    ],
+    "Travel and Leisure Asia": [
+     0,
+     1,
+     0
+    ],
+    "Global Advisory Experts": [
+     0,
+     2,
+     0
+    ],
+    "CairoScene": [
      0,
      1,
      0
