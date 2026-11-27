@@ -21360,16 +21360,16 @@
    }
   },
   "2026-11-25": {
-   "total": 760,
-   "news": 749,
+   "total": 763,
+   "news": 752,
    "articles": 11,
    "positive": 0,
-   "neutral": 760,
+   "neutral": 763,
    "critical": 0,
    "mbs": 13,
    "countries": {
     "US": 230,
-    "GB": 150,
+    "GB": 153,
     "SA": 103,
     "DE": 2,
     "HK": 2,
@@ -21396,7 +21396,7 @@
     "Al-Monitor": 27,
     "BBC": 19,
     "The Guardian": 27,
-    "Reuters": 95,
+    "Reuters": 98,
     "South China Morning Post": 2,
     "Fakti.bg": 1,
     "سانا": 2,
@@ -21648,7 +21648,7 @@
     ],
     "Reuters": [
      0,
-     95,
+     98,
      0
     ],
     "South China Morning Post": [
@@ -22414,17 +22414,17 @@
    }
   },
   "2026-11-26": {
-   "total": 570,
-   "news": 563,
+   "total": 573,
+   "news": 566,
    "articles": 7,
    "positive": 0,
-   "neutral": 570,
+   "neutral": 573,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "SA": 101,
-    "US": 126,
-    "GB": 113,
+    "US": 127,
+    "GB": 115,
     "FR": 4,
     "HK": 4,
     "JP": 1,
@@ -22447,14 +22447,14 @@
     "Nation Thailand": 1,
     "Arabian Gulf Business Insight | AGBI": 3,
     "BigGo Finance": 5,
-    "Reuters": 69,
+    "Reuters": 71,
     "FanDuel Sportsbook": 1,
     "Modern Diplomacy": 1,
     "The Guardian": 16,
     "巴士的報": 1,
     "Forbes Middle East": 2,
     "Financial Times": 8,
-    "Bloomberg.com": 38,
+    "Bloomberg.com": 39,
     "AP News": 5,
     "The Economist": 4,
     "WhoWhatWhy": 1,
@@ -22663,7 +22663,7 @@
     ],
     "Reuters": [
      0,
-     69,
+     71,
      0
     ],
     "FanDuel Sportsbook": [
@@ -22698,7 +22698,7 @@
     ],
     "Bloomberg.com": [
      0,
-     38,
+     39,
      0
     ],
     "AP News": [
@@ -23349,18 +23349,18 @@
    }
   },
   "2026-11-27": {
-   "total": 109,
-   "news": 109,
+   "total": 143,
+   "news": 143,
    "articles": 0,
    "positive": 0,
-   "neutral": 109,
+   "neutral": 143,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "GB": 21,
     "HK": 2,
-    "US": 40,
-    "SA": 17,
+    "US": 49,
+    "SA": 20,
     "FR": 2
    },
    "topics": {},
@@ -23369,14 +23369,14 @@
     "Reuters": 10,
     "South China Morning Post": 2,
     "WSJ": 3,
-    "Arab News": 12,
-    "Bloomberg.com": 15,
+    "Arab News": 16,
+    "Bloomberg.com": 18,
     "Al-Monitor": 6,
     "Saudi Gazette": 8,
     "The Guardian": 2,
     "Xinhua": 1,
     "Yemen Online": 3,
-    "https://houseofsaud.com/": 1,
+    "https://houseofsaud.com/": 2,
     "MMA Junkie": 1,
     "BigGo Finance": 2,
     "IHF": 1,
@@ -23388,7 +23388,7 @@
     "The Washington Post": 3,
     "The Independent": 1,
     "AP News": 4,
-    "CNN": 8,
+    "CNN": 14,
     "The New York Times": 2,
     "BBC": 7,
     "Financial Times": 2,
@@ -23399,8 +23399,26 @@
     "Quantum Commodity Intelligence": 1,
     "arabinform.com": 1,
     "tovima.com": 1,
-    "The Arab Weekly": 1,
-    "Retail & Leisure International": 1
+    "The Arab Weekly": 2,
+    "Retail & Leisure International": 1,
+    "en.bd-pratidin.com": 1,
+    "Oil & Gas Middle East": 1,
+    "Howl.Link": 1,
+    "Transformer Magazine": 1,
+    "Free Malaysia Today": 1,
+    "ANTARA News": 1,
+    "Kurdistan TV": 1,
+    "Semafor": 1,
+    "The Hindu": 1,
+    "Middle East Online": 1,
+    "The Times of India": 1,
+    "Curly Tales": 1,
+    "NEWS.am": 1,
+    "Myanmar International TV": 1,
+    "Informat.ro": 1,
+    "Gulf News": 2,
+    "PRESS Insider": 1,
+    "Operativ Məlumat Mərkəzi": 1
    },
    "sourceTone": {
     "X": [
@@ -23425,12 +23443,12 @@
     ],
     "Arab News": [
      0,
-     12,
+     16,
      0
     ],
     "Bloomberg.com": [
      0,
-     15,
+     18,
      0
     ],
     "Al-Monitor": [
@@ -23460,7 +23478,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     1,
+     2,
      0
     ],
     "MMA Junkie": [
@@ -23520,7 +23538,7 @@
     ],
     "CNN": [
      0,
-     8,
+     14,
      0
     ],
     "The New York Times": [
@@ -23575,10 +23593,100 @@
     ],
     "The Arab Weekly": [
      0,
-     1,
+     2,
      0
     ],
     "Retail & Leisure International": [
+     0,
+     1,
+     0
+    ],
+    "en.bd-pratidin.com": [
+     0,
+     1,
+     0
+    ],
+    "Oil & Gas Middle East": [
+     0,
+     1,
+     0
+    ],
+    "Howl.Link": [
+     0,
+     1,
+     0
+    ],
+    "Transformer Magazine": [
+     0,
+     1,
+     0
+    ],
+    "Free Malaysia Today": [
+     0,
+     1,
+     0
+    ],
+    "ANTARA News": [
+     0,
+     1,
+     0
+    ],
+    "Kurdistan TV": [
+     0,
+     1,
+     0
+    ],
+    "Semafor": [
+     0,
+     1,
+     0
+    ],
+    "The Hindu": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Online": [
+     0,
+     1,
+     0
+    ],
+    "The Times of India": [
+     0,
+     1,
+     0
+    ],
+    "Curly Tales": [
+     0,
+     1,
+     0
+    ],
+    "NEWS.am": [
+     0,
+     1,
+     0
+    ],
+    "Myanmar International TV": [
+     0,
+     1,
+     0
+    ],
+    "Informat.ro": [
+     0,
+     1,
+     0
+    ],
+    "Gulf News": [
+     0,
+     2,
+     0
+    ],
+    "PRESS Insider": [
+     0,
+     1,
+     0
+    ],
+    "Operativ Məlumat Mərkəzi": [
      0,
      1,
      0
