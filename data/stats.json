@@ -22414,17 +22414,17 @@
    }
   },
   "2026-11-26": {
-   "total": 587,
-   "news": 580,
+   "total": 588,
+   "news": 581,
    "articles": 7,
    "positive": 0,
-   "neutral": 587,
+   "neutral": 588,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "SA": 102,
     "US": 132,
-    "GB": 119,
+    "GB": 120,
     "FR": 4,
     "HK": 4,
     "JP": 1,
@@ -22447,7 +22447,7 @@
     "Nation Thailand": 1,
     "Arabian Gulf Business Insight | AGBI": 3,
     "BigGo Finance": 5,
-    "Reuters": 74,
+    "Reuters": 75,
     "FanDuel Sportsbook": 1,
     "Modern Diplomacy": 1,
     "The Guardian": 17,
@@ -22667,7 +22667,7 @@
     ],
     "Reuters": [
      0,
-     74,
+     75,
      0
     ],
     "FanDuel Sportsbook": [
@@ -23373,18 +23373,18 @@
    }
   },
   "2026-11-27": {
-   "total": 230,
-   "news": 230,
+   "total": 232,
+   "news": 232,
    "articles": 0,
    "positive": 0,
-   "neutral": 230,
+   "neutral": 232,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "GB": 32,
     "HK": 2,
     "US": 63,
-    "SA": 23,
+    "SA": 24,
     "FR": 2
    },
    "topics": {},
@@ -23393,7 +23393,7 @@
     "Reuters": 12,
     "South China Morning Post": 2,
     "WSJ": 4,
-    "Arab News": 17,
+    "Arab News": 18,
     "Bloomberg.com": 26,
     "Al-Monitor": 7,
     "Saudi Gazette": 10,
@@ -23490,7 +23490,8 @@
     "United News of Bangladesh": 1,
     "News18": 1,
     "Jagonews24": 1,
-    "DT Next": 1
+    "DT Next": 1,
+    "The Annapurna Express": 1
    },
    "sourceTone": {
     "X": [
@@ -23515,7 +23516,7 @@
     ],
     "Arab News": [
      0,
-     17,
+     18,
      0
     ],
     "Bloomberg.com": [
@@ -23999,6 +24000,11 @@
      0
     ],
     "DT Next": [
+     0,
+     1,
+     0
+    ],
+    "The Annapurna Express": [
      0,
      1,
      0
