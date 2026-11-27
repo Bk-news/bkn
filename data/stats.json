@@ -22414,11 +22414,11 @@
    }
   },
   "2026-11-26": {
-   "total": 549,
-   "news": 542,
+   "total": 553,
+   "news": 546,
    "articles": 7,
    "positive": 0,
-   "neutral": 549,
+   "neutral": 553,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -22473,7 +22473,7 @@
     "C21media": 1,
     "The Arab Weekly": 2,
     "Industrial Cyber": 1,
-    "https://houseofsaud.com/": 6,
+    "https://houseofsaud.com/": 7,
     "ALCHEMPro": 1,
     "Spectreco": 1,
     "Yahoo Sports": 1,
@@ -22532,7 +22532,7 @@
     "The Jerusalem Post": 2,
     "blue News": 1,
     "EIN News": 1,
-    "Breakingthenews.net": 1,
+    "Breakingthenews.net": 2,
     "Al Arabiya English": 4,
     "ASHARQ AL-AWSAT English": 7,
     "Ship & Bunker": 1,
@@ -22549,7 +22549,7 @@
     "CPG Click Oil and Gas": 1,
     "Gulf Business": 1,
     "Arab News PK": 1,
-    "FIBA": 2,
+    "FIBA": 3,
     "Turkish Minute": 2,
     "Newsquawk": 1,
     "Precedence Research": 1,
@@ -22579,7 +22579,8 @@
     "Palestine Chronicle": 1,
     "energynews.pro": 1,
     "DAZN": 1,
-    "Rigzone": 1
+    "Rigzone": 1,
+    "IndexBox": 1
    },
    "sourceTone": {
     "Arab News": [
@@ -22789,7 +22790,7 @@
     ],
     "https://houseofsaud.com/": [
      0,
-     6,
+     7,
      0
     ],
     "ALCHEMPro": [
@@ -23084,7 +23085,7 @@
     ],
     "Breakingthenews.net": [
      0,
-     1,
+     2,
      0
     ],
     "Al Arabiya English": [
@@ -23169,7 +23170,7 @@
     ],
     "FIBA": [
      0,
-     2,
+     3,
      0
     ],
     "Turkish Minute": [
@@ -23321,15 +23322,20 @@
      0,
      1,
      0
+    ],
+    "IndexBox": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-27": {
-   "total": 25,
-   "news": 25,
+   "total": 28,
+   "news": 28,
    "articles": 0,
    "positive": 0,
-   "neutral": 25,
+   "neutral": 28,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -23355,7 +23361,10 @@
     "MMA Junkie": 1,
     "BigGo Finance": 1,
     "IHF": 1,
-    "Arabian Gulf Business Insight | AGBI": 1
+    "Arabian Gulf Business Insight | AGBI": 1,
+    "Inquirer.net": 1,
+    "Business Standard": 1,
+    "Deccan Chronicle": 1
    },
    "sourceTone": {
     "X": [
@@ -23434,6 +23443,21 @@
      0
     ],
     "Arabian Gulf Business Insight | AGBI": [
+     0,
+     1,
+     0
+    ],
+    "Inquirer.net": [
+     0,
+     1,
+     0
+    ],
+    "Business Standard": [
+     0,
+     1,
+     0
+    ],
+    "Deccan Chronicle": [
      0,
      1,
      0
