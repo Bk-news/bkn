@@ -21360,16 +21360,16 @@
    }
   },
   "2026-11-25": {
-   "total": 766,
-   "news": 755,
+   "total": 767,
+   "news": 756,
    "articles": 11,
    "positive": 0,
-   "neutral": 766,
+   "neutral": 767,
    "critical": 0,
    "mbs": 13,
    "countries": {
     "US": 233,
-    "GB": 153,
+    "GB": 154,
     "SA": 103,
     "DE": 2,
     "HK": 2,
@@ -21396,7 +21396,7 @@
     "Al-Monitor": 27,
     "BBC": 19,
     "The Guardian": 27,
-    "Reuters": 98,
+    "Reuters": 99,
     "South China Morning Post": 2,
     "Fakti.bg": 1,
     "سانا": 2,
@@ -21648,7 +21648,7 @@
     ],
     "Reuters": [
      0,
-     98,
+     99,
      0
     ],
     "South China Morning Post": [
@@ -22414,17 +22414,17 @@
    }
   },
   "2026-11-26": {
-   "total": 580,
-   "news": 573,
+   "total": 581,
+   "news": 574,
    "articles": 7,
    "positive": 0,
-   "neutral": 580,
+   "neutral": 581,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "SA": 102,
     "US": 129,
-    "GB": 115,
+    "GB": 116,
     "FR": 4,
     "HK": 4,
     "JP": 1,
@@ -22450,7 +22450,7 @@
     "Reuters": 71,
     "FanDuel Sportsbook": 1,
     "Modern Diplomacy": 1,
-    "The Guardian": 16,
+    "The Guardian": 17,
     "巴士的報": 1,
     "Forbes Middle East": 2,
     "Financial Times": 8,
@@ -22682,7 +22682,7 @@
     ],
     "The Guardian": [
      0,
-     16,
+     17,
      0
     ],
     "巴士的報": [
