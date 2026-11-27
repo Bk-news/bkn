@@ -22414,15 +22414,15 @@
    }
   },
   "2026-11-26": {
-   "total": 561,
-   "news": 554,
+   "total": 562,
+   "news": 555,
    "articles": 7,
    "positive": 0,
-   "neutral": 561,
+   "neutral": 562,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "SA": 99,
+    "SA": 100,
     "US": 122,
     "GB": 110,
     "FR": 4,
@@ -22432,7 +22432,7 @@
    },
    "topics": {},
    "sources": {
-    "Arab News": 84,
+    "Arab News": 85,
     "富途牛牛": 1,
     "Al-Monitor": 24,
     "WSJ": 12,
@@ -22588,7 +22588,7 @@
    "sourceTone": {
     "Arab News": [
      0,
-     84,
+     85,
      0
     ],
     "富途牛牛": [
@@ -23349,11 +23349,11 @@
    }
   },
   "2026-11-27": {
-   "total": 31,
-   "news": 31,
+   "total": 32,
+   "news": 32,
    "articles": 0,
    "positive": 0,
-   "neutral": 31,
+   "neutral": 32,
    "critical": 0,
    "mbs": 0,
    "countries": {
@@ -23375,7 +23375,7 @@
     "Saudi Gazette": 2,
     "The Guardian": 1,
     "Xinhua": 1,
-    "Yemen Online": 2,
+    "Yemen Online": 3,
     "https://houseofsaud.com/": 1,
     "MMA Junkie": 1,
     "BigGo Finance": 1,
@@ -23439,7 +23439,7 @@
     ],
     "Yemen Online": [
      0,
-     2,
+     3,
      0
     ],
     "https://houseofsaud.com/": [
