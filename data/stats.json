@@ -23373,18 +23373,18 @@
    }
   },
   "2026-11-27": {
-   "total": 420,
-   "news": 417,
+   "total": 421,
+   "news": 418,
    "articles": 3,
    "positive": 0,
-   "neutral": 420,
+   "neutral": 421,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "GB": 70,
     "HK": 3,
     "US": 99,
-    "SA": 53,
+    "SA": 54,
     "FR": 3,
     "DE": 1
    },
@@ -23394,7 +23394,7 @@
     "Reuters": 41,
     "South China Morning Post": 3,
     "WSJ": 6,
-    "Arab News": 45,
+    "Arab News": 46,
     "Bloomberg.com": 28,
     "Al-Monitor": 18,
     "Saudi Gazette": 16,
@@ -23575,7 +23575,7 @@
     ],
     "Arab News": [
      0,
-     45,
+     46,
      0
     ],
     "Bloomberg.com": [

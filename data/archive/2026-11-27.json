@@ -2,6 +2,27 @@
  "day": "2026-11-27",
  "items": [
   {
+   "id": "3bff2ae22c291a87",
+   "origin": "rss",
+   "source": "Arab News",
+   "author": "",
+   "title_ar": "طريق أرخص لتوسيع نطاق احتجاز الكربون",
+   "title_orig": "A cheaper route to scaling up carbon capture",
+   "title_en": "A cheaper route to scaling up carbon capture",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWGQxSEpDTTM0a2hvRXRjekJ3V2ZfOFNnT2RqbDlmRkF3bExDTUhyOEtLXzVhN3dsSWpnM045NTRmM0JyZWlheVVsVUdrSXVwWHBOeGJodG1yVDF4SnA5UEl6cGRCc1hwLTdjVWZCcmY5RXdnWnJ6NFhMRk83R3JSMnBBREVtZGFaQ2ZyS213?oc=5",
+   "published": "2026-11-27T20:28:13.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "SA",
+   "pending": true,
+   "desc": "A cheaper route to scaling up carbon capture &nbsp;&nbsp; Arab News",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "f9b0353d6386f878",
    "origin": "rss",
    "source": "Haberler.com",
