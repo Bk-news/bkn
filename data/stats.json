@@ -23373,11 +23373,11 @@
    }
   },
   "2026-11-27": {
-   "total": 424,
-   "news": 421,
+   "total": 425,
+   "news": 422,
    "articles": 3,
    "positive": 0,
-   "neutral": 424,
+   "neutral": 425,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -23550,7 +23550,8 @@
     "Zikoko!": 1,
     "Fana News -": 1,
     "Naharnet": 1,
-    "Daily Observer": 1
+    "Daily Observer": 1,
+    "LinkedIn": 1
    },
    "sourceTone": {
     "X": [
@@ -24354,6 +24355,11 @@
      0
     ],
     "Daily Observer": [
+     0,
+     1,
+     0
+    ],
+    "LinkedIn": [
      0,
      1,
      0
