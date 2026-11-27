@@ -1,62 +1,86 @@
 [
  {
-  "id": "a97c9fc020f58c24",
+  "id": "3d4add1e787fc27e",
   "origin": "telegram",
   "source": "العربية عاجل",
   "country": "SA",
-  "title_ar": "مسؤول روسي: تدريبات الناتو قرب حدودنا جزء من استعدادات الحلف لمهاجمة كالينينغراد",
+  "title_ar": "التحالف: اعتراض مسيرة أطلقتها الميليشيات الحوثية باتجاه منطقة الرياض",
   "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/155795",
-  "published": "2026-11-27T03:19:21.000Z",
+  "url": "https://t.me/alarabiyaBr/155828",
+  "published": "2026-11-27T11:24:21.000Z",
   "subject": "saudi",
-  "added": "2026-11-27T03:19:21.000Z"
+  "added": "2026-11-27T11:24:21.000Z"
  },
  {
-  "id": "14abbc9abea4a0a0",
+  "id": "21f665758aebe37e",
   "origin": "telegram",
   "source": "العربية عاجل",
   "country": "SA",
-  "title_ar": "مسؤول روسي: دول الناتو تشارك في الهجمات على السفن الروسية في بحر البلطيق",
+  "title_ar": "الحرس الثوري الإيراني: ناقلة نفط اصطدمت بلغم قرب مضيق هرمز",
   "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/155794",
-  "published": "2026-11-27T03:19:01.000Z",
+  "url": "https://t.me/alarabiyaBr/155827",
+  "published": "2026-11-27T11:14:02.000Z",
   "subject": "saudi",
-  "added": "2026-11-27T03:19:01.000Z"
+  "added": "2026-11-27T11:14:02.000Z"
  },
  {
-  "id": "4949968abab8ef9e",
+  "id": "4f2cc72dd6dd2e1a",
   "origin": "telegram",
   "source": "العربية عاجل",
   "country": "SA",
-  "title_ar": "نيوزويك عن مسؤول روسي: العالم يقترب من حرب نووية",
+  "title_ar": "مصادر لرويترز: قراصنة اخترقوا منصة \"كلاود وان \" للقوات الجوية الأميركية",
   "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/155793",
-  "published": "2026-11-27T03:18:42.000Z",
+  "url": "https://t.me/alarabiyaBr/155826",
+  "published": "2026-11-27T11:07:41.000Z",
   "subject": "saudi",
-  "added": "2026-11-27T03:18:42.000Z"
+  "added": "2026-11-27T11:07:41.000Z"
  },
  {
-  "id": "b4fcb5ec05ecaf5a",
+  "id": "50e310eb0510ba2d",
   "origin": "telegram",
   "source": "العربية عاجل",
   "country": "SA",
-  "title_ar": "أستراليا تفرض عقوبات على شخصين مرتبطين بالحرس الثوري الإيراني",
+  "title_ar": "الرئيس اللبناني: ننتظر تشكيل الحكومة في إسرائيل وأي سياسة ستنتهج",
   "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/155792",
-  "published": "2026-11-27T03:11:19.000Z",
+  "url": "https://t.me/alarabiyaBr/155825",
+  "published": "2026-11-27T10:56:39.000Z",
   "subject": "saudi",
-  "added": "2026-11-27T03:11:19.000Z"
+  "added": "2026-11-27T10:56:39.000Z"
  },
  {
-  "id": "5af56a40d477bd64",
+  "id": "8785114d839a6f9e",
   "origin": "telegram",
   "source": "العربية عاجل",
   "country": "SA",
-  "title_ar": "فوكس نيوز: الولايات المتحدة تقترب من تسجيل مليون حالة انقطاع للتيار الكهربائي جراء عاصفة",
+  "title_ar": "الرئيس اللبناني: ملتزمون باتفاق الإطار لكن إسرائيل لم تنفذه",
   "summary_ar": [],
-  "url": "https://t.me/alarabiyaBr/155791",
-  "published": "2026-11-27T03:01:02.000Z",
+  "url": "https://t.me/alarabiyaBr/155824",
+  "published": "2026-11-27T10:54:23.000Z",
   "subject": "saudi",
-  "added": "2026-11-27T03:01:02.000Z"
+  "added": "2026-11-27T10:54:23.000Z"
+ },
+ {
+  "id": "89c9aa7da15d2462",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "الجيش الإسرائيلي: حزب الله يستغل قوارب الصيد المدنية جنوب لبنان لجمع معلومات استخباراتية",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/155823",
+  "published": "2026-11-27T10:40:40.000Z",
+  "subject": "saudi",
+  "added": "2026-11-27T10:40:40.000Z"
+ },
+ {
+  "id": "0188e1fcbfa4aed7",
+  "origin": "telegram",
+  "source": "العربية عاجل",
+  "country": "SA",
+  "title_ar": "ترمب: ندعم جهود رئيس الوزراء العراقي لوقف تهريب النفط وحصر السلاح",
+  "summary_ar": [],
+  "url": "https://t.me/alarabiyaBr/155822",
+  "published": "2026-11-27T10:30:41.000Z",
+  "subject": "saudi",
+  "added": "2026-11-27T10:30:41.000Z"
  }
 ]
