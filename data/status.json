@@ -1,25 +1,24 @@
 {
- "run": "2026-11-27T12:07:29.000Z",
+ "run": "2026-11-27T12:08:28.728Z",
  "key": true,
  "model": "claude-haiku-5-5",
- "feedsOk": 21,
+ "feedsOk": 23,
  "feedsFailed": [
-  "AP: HTTP 429",
-  "Bloomberg: HTTP 429",
-  "Foreign Affairs: HTTP 429"
+  "Atlantic Council: HTTP 429"
  ],
- "fetched": 740,
- "fresh": 0,
- "world": 0,
- "analyzed": 0,
- "analyzeErrors": 0,
- "lastError": "Anthropic 401: {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChTQTzMuEDxVqoVNHbkzz\"}",
+ "fetched": 864,
+ "fresh": 9,
+ "world": 9,
+ "analyzed": 8,
+ "analyzeErrors": 1,
+ "lastError": "Anthropic 401: {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChTQYPeUcYR3QEYcnFiG9\"}",
  "telegram": 20,
  "royal": 0,
+ "mt": 9,
  "keyRejected": true,
- "pending": 800,
+ "pending": 809,
  "added": {
-  "news": 0,
+  "news": 9,
   "articles": 0,
   "breaking": 0
  }

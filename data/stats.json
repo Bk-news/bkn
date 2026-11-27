@@ -23373,17 +23373,17 @@
    }
   },
   "2026-11-27": {
-   "total": 221,
-   "news": 221,
+   "total": 230,
+   "news": 230,
    "articles": 0,
    "positive": 0,
-   "neutral": 221,
+   "neutral": 230,
    "critical": 0,
    "mbs": 2,
    "countries": {
     "GB": 32,
     "HK": 2,
-    "US": 62,
+    "US": 63,
     "SA": 23,
     "FR": 2
    },
@@ -23394,7 +23394,7 @@
     "South China Morning Post": 2,
     "WSJ": 4,
     "Arab News": 17,
-    "Bloomberg.com": 25,
+    "Bloomberg.com": 26,
     "Al-Monitor": 7,
     "Saudi Gazette": 10,
     "The Guardian": 2,
@@ -23484,7 +23484,13 @@
     "AsiaOne.com": 1,
     "Anadolu Ajansı": 1,
     "Crypto Briefing": 1,
-    "Qatar news agency": 1
+    "Qatar news agency": 1,
+    "Yardbarker": 1,
+    "Hindustan Times": 3,
+    "United News of Bangladesh": 1,
+    "News18": 1,
+    "Jagonews24": 1,
+    "DT Next": 1
    },
    "sourceTone": {
     "X": [
@@ -23514,7 +23520,7 @@
     ],
     "Bloomberg.com": [
      0,
-     25,
+     26,
      0
     ],
     "Al-Monitor": [
@@ -23963,6 +23969,36 @@
      0
     ],
     "Qatar news agency": [
+     0,
+     1,
+     0
+    ],
+    "Yardbarker": [
+     0,
+     1,
+     0
+    ],
+    "Hindustan Times": [
+     0,
+     3,
+     0
+    ],
+    "United News of Bangladesh": [
+     0,
+     1,
+     0
+    ],
+    "News18": [
+     0,
+     1,
+     0
+    ],
+    "Jagonews24": [
+     0,
+     1,
+     0
+    ],
+    "DT Next": [
      0,
      1,
      0
