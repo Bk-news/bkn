@@ -21360,15 +21360,15 @@
    }
   },
   "2026-11-25": {
-   "total": 757,
-   "news": 746,
+   "total": 758,
+   "news": 747,
    "articles": 11,
    "positive": 0,
-   "neutral": 757,
+   "neutral": 758,
    "critical": 0,
    "mbs": 13,
    "countries": {
-    "US": 227,
+    "US": 228,
     "GB": 150,
     "SA": 103,
     "DE": 2,
@@ -21378,7 +21378,7 @@
    "topics": {},
    "sources": {
     "Yemen Online": 6,
-    "Bloomberg.com": 69,
+    "Bloomberg.com": 70,
     "Financial Times": 10,
     "www.tmgm.com": 1,
     "FXEmpire": 2,
@@ -21558,7 +21558,7 @@
     ],
     "Bloomberg.com": [
      0,
-     69,
+     70,
      0
     ],
     "Financial Times": [
@@ -22414,16 +22414,16 @@
    }
   },
   "2026-11-26": {
-   "total": 557,
-   "news": 550,
+   "total": 559,
+   "news": 552,
    "articles": 7,
    "positive": 0,
-   "neutral": 557,
+   "neutral": 559,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "SA": 99,
-    "US": 120,
+    "US": 122,
     "GB": 109,
     "FR": 4,
     "HK": 4,
@@ -22454,7 +22454,7 @@
     "巴士的報": 1,
     "Forbes Middle East": 2,
     "Financial Times": 8,
-    "Bloomberg.com": 36,
+    "Bloomberg.com": 38,
     "AP News": 3,
     "The Economist": 4,
     "WhoWhatWhy": 1,
@@ -22697,7 +22697,7 @@
     ],
     "Bloomberg.com": [
      0,
-     36,
+     38,
      0
     ],
     "AP News": [
@@ -23343,17 +23343,17 @@
    }
   },
   "2026-11-27": {
-   "total": 30,
-   "news": 30,
+   "total": 31,
+   "news": 31,
    "articles": 0,
    "positive": 0,
-   "neutral": 30,
+   "neutral": 31,
    "critical": 0,
    "mbs": 0,
    "countries": {
     "GB": 4,
     "HK": 1,
-    "US": 8,
+    "US": 9,
     "SA": 3,
     "FR": 1
    },
@@ -23364,7 +23364,7 @@
     "South China Morning Post": 1,
     "WSJ": 2,
     "Arab News": 2,
-    "Bloomberg.com": 5,
+    "Bloomberg.com": 6,
     "Al-Monitor": 1,
     "Saudi Gazette": 2,
     "The Guardian": 1,
@@ -23408,7 +23408,7 @@
     ],
     "Bloomberg.com": [
      0,
-     5,
+     6,
      0
     ],
     "Al-Monitor": [
