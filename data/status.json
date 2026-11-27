@@ -1,24 +1,27 @@
 {
- "run": "2026-11-27T11:37:28.686Z",
+ "run": "2026-11-27T11:38:28.743Z",
  "key": true,
  "model": "claude-haiku-5-5",
- "feedsOk": 23,
+ "feedsOk": 20,
  "feedsFailed": [
-  "Global – Saudi Arabia: HTTP 429"
+  "Global – Saudi Arabia: HTTP 429",
+  "AP: HTTP 429",
+  "France 24: HTTP 429",
+  "CNN: HTTP 429"
  ],
- "fetched": 745,
- "fresh": 2,
- "world": 2,
- "analyzed": 1,
+ "fetched": 639,
+ "fresh": 1,
+ "world": 1,
+ "analyzed": 0,
  "analyzeErrors": 1,
- "lastError": "Anthropic 401: {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChTNBHwMivejKEUpGhCGs\"}",
+ "lastError": "Anthropic 401: {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChTNFg3FgPUDQq4bUvr9c\"}",
  "telegram": 20,
  "royal": 0,
- "mt": 2,
+ "mt": 1,
  "keyRejected": true,
- "pending": 802,
+ "pending": 801,
  "added": {
-  "news": 2,
+  "news": 1,
   "articles": 0,
   "breaking": 0
  }
