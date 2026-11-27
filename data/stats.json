@@ -23373,17 +23373,17 @@
    }
   },
   "2026-11-27": {
-   "total": 417,
-   "news": 414,
+   "total": 420,
+   "news": 417,
    "articles": 3,
    "positive": 0,
-   "neutral": 417,
+   "neutral": 420,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "GB": 70,
     "HK": 3,
-    "US": 98,
+    "US": 99,
     "SA": 53,
     "FR": 3,
     "DE": 1
@@ -23414,7 +23414,7 @@
     "The Independent": 1,
     "AP News": 11,
     "CNN": 17,
-    "The New York Times": 7,
+    "The New York Times": 8,
     "BBC": 23,
     "Financial Times": 3,
     "Le Monde.fr": 1,
@@ -23546,10 +23546,11 @@
     "bdnews24.com": 1,
     "Goal.com": 1,
     "Moneycontrol.com": 1,
-    "IndexBox": 1,
+    "IndexBox": 2,
     "Zikoko!": 1,
     "Fana News -": 1,
-    "Naharnet": 1
+    "Naharnet": 1,
+    "Daily Observer": 1
    },
    "sourceTone": {
     "X": [
@@ -23674,7 +23675,7 @@
     ],
     "The New York Times": [
      0,
-     7,
+     8,
      0
     ],
     "BBC": [
@@ -24334,7 +24335,7 @@
     ],
     "IndexBox": [
      0,
-     1,
+     2,
      0
     ],
     "Zikoko!": [
@@ -24348,6 +24349,11 @@
      0
     ],
     "Naharnet": [
+     0,
+     1,
+     0
+    ],
+    "Daily Observer": [
      0,
      1,
      0
