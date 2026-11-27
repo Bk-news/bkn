@@ -23373,11 +23373,11 @@
    }
   },
   "2026-11-27": {
-   "total": 415,
-   "news": 412,
+   "total": 416,
+   "news": 413,
    "articles": 3,
    "positive": 0,
-   "neutral": 415,
+   "neutral": 416,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -23547,7 +23547,8 @@
     "Goal.com": 1,
     "Moneycontrol.com": 1,
     "IndexBox": 1,
-    "Zikoko!": 1
+    "Zikoko!": 1,
+    "Fana News -": 1
    },
    "sourceTone": {
     "X": [
@@ -24336,6 +24337,11 @@
      0
     ],
     "Zikoko!": [
+     0,
+     1,
+     0
+    ],
+    "Fana News -": [
      0,
      1,
      0
