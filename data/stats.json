@@ -23373,11 +23373,11 @@
    }
   },
   "2026-11-27": {
-   "total": 469,
-   "news": 466,
+   "total": 473,
+   "news": 470,
    "articles": 3,
    "positive": 0,
-   "neutral": 469,
+   "neutral": 473,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -23554,14 +23554,17 @@
     "LinkedIn": 1,
     "Simmons & Simmons": 1,
     "Rediff.com": 1,
-    "يمن مونيتور": 1,
+    "يمن مونيتور": 2,
     "Fubo": 1,
     "Bioengineer.org": 1,
     "Garowe Online": 1,
     "Eurasia Review": 1,
     "WRTV": 1,
     "The New Arab": 1,
-    "London Business School": 1
+    "London Business School": 1,
+    "DW.com": 1,
+    "Envanter Medya": 1,
+    "fundsforNGOs": 1
    },
    "sourceTone": {
     "X": [
@@ -24386,7 +24389,7 @@
     ],
     "يمن مونيتور": [
      0,
-     1,
+     2,
      0
     ],
     "Fubo": [
@@ -24423,15 +24426,30 @@
      0,
      1,
      0
+    ],
+    "DW.com": [
+     0,
+     1,
+     0
+    ],
+    "Envanter Medya": [
+     0,
+     1,
+     0
+    ],
+    "fundsforNGOs": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-28": {
-   "total": 12,
-   "news": 12,
+   "total": 14,
+   "news": 14,
    "articles": 0,
    "positive": 0,
-   "neutral": 12,
+   "neutral": 14,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -24448,7 +24466,9 @@
     "Al-Monitor": 1,
     "Middle East Eye": 1,
     "Breakingthenews.net": 1,
-    "Khmer Times": 1
+    "Khmer Times": 1,
+    "وكالة الأنباء السعودية": 1,
+    "Dawn": 1
    },
    "sourceTone": {
     "X": [
@@ -24492,6 +24512,16 @@
      0
     ],
     "Khmer Times": [
+     0,
+     1,
+     0
+    ],
+    "وكالة الأنباء السعودية": [
+     0,
+     1,
+     0
+    ],
+    "Dawn": [
      0,
      1,
      0
