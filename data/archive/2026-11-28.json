@@ -2,6 +2,27 @@
  "day": "2026-11-28",
  "items": [
   {
+   "id": "04a418600cc24cfc",
+   "origin": "rss",
+   "source": "Arab News",
+   "author": "",
+   "title_ar": "العراق يحبط محاولة تهريب منتجات نفطية ومواد صناعية في ديالى",
+   "title_orig": "Iraq thwarts attempt to smuggle petroleum products, industrial materials in Diyala",
+   "title_en": "Iraq thwarts attempt to smuggle petroleum products, industrial materials in Diyala",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd1NYZnlYb09JY2t6SWJjUl8tY1BGWnFoY2tOV0Z3NFlzVHJSQXhEeG8xOEc2MTRPUXhmZl9HeXBqQmoySzJOZmtqQ1d5SDNsWlNNQzZ5ajlrT2tJa2lQcUFhX0JETXJSRGh5Wml1QmFHWlpKdFZsdFZzYlB5RDRSdzdZbXhzTG5uNE1KRGp3OXFQbFZXaFhPTHR5YlhSalNnZV82bVFnTFZWaGtaS0ZQczdSTlBqZC1XWUhpWEdUVGVfbjBD?oc=5",
+   "published": "2026-11-28T11:27:14.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "SA",
+   "pending": true,
+   "desc": "Iraq thwarts attempt to smuggle petroleum products, industrial materials in Diyala &nbsp;&nbsp; Arab News",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "df46834fc11bdfd8",
    "origin": "rss",
    "source": "Los Angeles Times",

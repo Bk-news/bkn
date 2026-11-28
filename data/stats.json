@@ -24475,15 +24475,15 @@
    }
   },
   "2026-11-28": {
-   "total": 114,
-   "news": 114,
+   "total": 115,
+   "news": 115,
    "articles": 0,
    "positive": 0,
-   "neutral": 114,
+   "neutral": 115,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 15,
+    "SA": 16,
     "US": 14,
     "JP": 1,
     "FR": 2,
@@ -24493,7 +24493,7 @@
    "topics": {},
    "sources": {
     "X": 1,
-    "Arab News": 16,
+    "Arab News": 17,
     "The Washington Post": 2,
     "CNN": 1,
     "Yeni Safak English": 9,
@@ -24565,7 +24565,7 @@
     ],
     "Arab News": [
      0,
-     16,
+     17,
      0
     ],
     "The Washington Post": [
