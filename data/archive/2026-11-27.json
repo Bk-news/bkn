@@ -1619,6 +1619,27 @@
    "mt": true
   },
   {
+   "id": "17ef2686d3b7586f",
+   "origin": "rss",
+   "source": "WSJ",
+   "author": "",
+   "title_ar": "تقرير إخباري عن السيارات والنقل: حديث السوق",
+   "title_orig": "Auto & Transport Roundup: Market Talk",
+   "title_en": "Auto & Transport Roundup: Market Talk",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVWpuNWxkVGhYeFJtNmVrZkU3RkRZTXBJM0NwcnBPUm5VVUp3TUdLRllvLV83cjhlMkstWUZfWVRIRzdlZVNKV0ptZXhNX3d1c0IzbGg2RENXUGVvc3RPUV9zVnpudEZJUlVGQlFkc3otcnp5LWJ0Y29iN3lrWjUxeTNoVDlfbE5i?oc=5",
+   "published": "2026-11-27T18:22:00.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "Auto & Transport Roundup: Market Talk &nbsp;&nbsp; WSJ",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "4d9baef0043927e6",
    "origin": "rss",
    "source": "Los Angeles Times",
