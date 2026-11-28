@@ -21360,15 +21360,15 @@
    }
   },
   "2026-11-25": {
-   "total": 774,
-   "news": 763,
+   "total": 775,
+   "news": 764,
    "articles": 11,
    "positive": 0,
-   "neutral": 774,
+   "neutral": 775,
    "critical": 0,
    "mbs": 13,
    "countries": {
-    "US": 235,
+    "US": 236,
     "GB": 159,
     "SA": 103,
     "DE": 2,
@@ -21378,7 +21378,7 @@
    "topics": {},
    "sources": {
     "Yemen Online": 6,
-    "Bloomberg.com": 74,
+    "Bloomberg.com": 75,
     "Financial Times": 10,
     "www.tmgm.com": 1,
     "FXEmpire": 2,
@@ -21558,7 +21558,7 @@
     ],
     "Bloomberg.com": [
      0,
-     74,
+     75,
      0
     ],
     "Financial Times": [
@@ -23373,11 +23373,11 @@
    }
   },
   "2026-11-27": {
-   "total": 475,
-   "news": 472,
+   "total": 476,
+   "news": 473,
    "articles": 3,
    "positive": 0,
-   "neutral": 475,
+   "neutral": 476,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -23565,7 +23565,8 @@
     "DW.com": 1,
     "Envanter Medya": 1,
     "fundsforNGOs": 1,
-    "DD News": 1
+    "DD News": 1,
+    "www.unian.info": 1
    },
    "sourceTone": {
     "X": [
@@ -24447,20 +24448,25 @@
      0,
      1,
      0
+    ],
+    "www.unian.info": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-28": {
-   "total": 15,
-   "news": 15,
+   "total": 16,
+   "news": 16,
    "articles": 0,
    "positive": 0,
-   "neutral": 15,
+   "neutral": 16,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 1,
-    "US": 4
+    "US": 5
    },
    "topics": {},
    "sources": {
@@ -24469,7 +24475,7 @@
     "The Washington Post": 1,
     "CNN": 1,
     "Yeni Safak English": 4,
-    "Al-Monitor": 1,
+    "Al-Monitor": 2,
     "Middle East Eye": 1,
     "Breakingthenews.net": 1,
     "Khmer Times": 1,
@@ -24505,7 +24511,7 @@
     ],
     "Al-Monitor": [
      0,
-     1,
+     2,
      0
     ],
     "Middle East Eye": [
