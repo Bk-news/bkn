@@ -2,6 +2,27 @@
  "day": "2026-11-28",
  "items": [
   {
+   "id": "7be21a138cf9f843",
+   "origin": "rss",
+   "source": "WSJ",
+   "author": "",
+   "title_ar": "إطلاق سراح المهندس السعودي المتهم بالتنصت على OpenAI بكفالة بقيمة مليون دولار",
+   "title_orig": "Saudi Engineer Accused of Bugging OpenAI to Be Released on $1 Million Bond",
+   "title_en": "Saudi Engineer Accused of Bugging OpenAI to Be Released on $1 Million Bond",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaUdJQnh3YWdwSlhUalhNT3RVdVJmamprVFRUdFVKQXFxSEpjU0JVNEYtSDFNQXREcUVsRE4xUWVOQ2h1RFhXaWVOdlU0amtCa1k0MkVmZXdmajlpdFBjWElKZjRqLVlucF94NWVHV0NkSmRrWFYtcjlLVFFNZHpQc3lGWUdydUVXT0JBWl9MRFNGR0Fnd2h0d2hiSWwyUkRRbEVLVWd4VHFDMFk?oc=5",
+   "published": "2026-11-28T02:39:35.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "Saudi Engineer Accused of Bugging OpenAI to Be Released on $1 Million Bond &nbsp;&nbsp; WSJ",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "b629cc41d9a05ad1",
    "origin": "rss",
    "source": "X",

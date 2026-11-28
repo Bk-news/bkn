@@ -23373,17 +23373,17 @@
    }
   },
   "2026-11-27": {
-   "total": 473,
-   "news": 470,
+   "total": 475,
+   "news": 472,
    "articles": 3,
    "positive": 0,
-   "neutral": 473,
+   "neutral": 475,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "GB": 78,
     "HK": 3,
-    "US": 102,
+    "US": 103,
     "SA": 69,
     "FR": 3,
     "DE": 2
@@ -23395,7 +23395,7 @@
     "South China Morning Post": 3,
     "WSJ": 6,
     "Arab News": 62,
-    "Bloomberg.com": 28,
+    "Bloomberg.com": 29,
     "Al-Monitor": 20,
     "Saudi Gazette": 17,
     "The Guardian": 4,
@@ -23564,7 +23564,8 @@
     "London Business School": 1,
     "DW.com": 1,
     "Envanter Medya": 1,
-    "fundsforNGOs": 1
+    "fundsforNGOs": 1,
+    "DD News": 1
    },
    "sourceTone": {
     "X": [
@@ -23594,7 +23595,7 @@
     ],
     "Bloomberg.com": [
      0,
-     28,
+     29,
      0
     ],
     "Al-Monitor": [
@@ -24441,20 +24442,25 @@
      0,
      1,
      0
+    ],
+    "DD News": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-28": {
-   "total": 14,
-   "news": 14,
+   "total": 15,
+   "news": 15,
    "articles": 0,
    "positive": 0,
-   "neutral": 14,
+   "neutral": 15,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 1,
-    "US": 3
+    "US": 4
    },
    "topics": {},
    "sources": {
@@ -24468,7 +24474,8 @@
     "Breakingthenews.net": 1,
     "Khmer Times": 1,
     "وكالة الأنباء السعودية": 1,
-    "Dawn": 1
+    "Dawn": 1,
+    "WSJ": 1
    },
    "sourceTone": {
     "X": [
@@ -24522,6 +24529,11 @@
      0
     ],
     "Dawn": [
+     0,
+     1,
+     0
+    ],
+    "WSJ": [
      0,
      1,
      0
