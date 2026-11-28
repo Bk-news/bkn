@@ -338,6 +338,27 @@
    "mt": true
   },
   {
+   "id": "b8eb4d51c3af359a",
+   "origin": "rss",
+   "source": "Bloomberg.com",
+   "author": "",
+   "title_ar": "آخر الأخبار والمستجدات: الأخبار العاجلة، العناوين الرئيسية اليوم",
+   "title_orig": "Latest News & Updates: Breaking News, Headlines Today",
+   "title_en": "Latest News & Updates: Breaking News, Headlines Today",
+   "summary_ar": [],
+   "summary_en": [],
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBkeEZvV003dEo3ZTdqbzkxTDNYTVJvcUljb2lvaTg5RW5mT09ZTmJURmlPSnFHUnhtNXN4YVhWME53M2lCaDkw?oc=5",
+   "published": "2026-11-26T22:00:04.000Z",
+   "subject": "saudi",
+   "tone": "neutral",
+   "topic": "",
+   "country": "US",
+   "pending": true,
+   "desc": "Latest News & Updates: Breaking News, Headlines Today &nbsp;&nbsp; Bloomberg.com",
+   "lang": "en",
+   "mt": true
+  },
+  {
    "id": "dc1b73d8744ab499",
    "origin": "rss",
    "source": "EnterpriseAM",

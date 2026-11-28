@@ -22414,16 +22414,16 @@
    }
   },
   "2026-11-26": {
-   "total": 626,
-   "news": 618,
+   "total": 627,
+   "news": 619,
    "articles": 8,
    "positive": 0,
-   "neutral": 626,
+   "neutral": 627,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "SA": 112,
-    "US": 138,
+    "US": 139,
     "GB": 141,
     "FR": 5,
     "HK": 4,
@@ -22454,7 +22454,7 @@
     "巴士的報": 1,
     "Forbes Middle East": 2,
     "Financial Times": 8,
-    "Bloomberg.com": 42,
+    "Bloomberg.com": 43,
     "AP News": 6,
     "The Economist": 5,
     "WhoWhatWhy": 1,
@@ -22702,7 +22702,7 @@
     ],
     "Bloomberg.com": [
      0,
-     42,
+     43,
      0
     ],
     "AP News": [
@@ -23373,11 +23373,11 @@
    }
   },
   "2026-11-27": {
-   "total": 508,
-   "news": 504,
+   "total": 509,
+   "news": 505,
    "articles": 4,
    "positive": 0,
-   "neutral": 508,
+   "neutral": 509,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -23571,7 +23571,8 @@
     "marketscreener.com": 1,
     "The Insight International": 1,
     "Türkiye Today": 1,
-    "Firstpost": 1
+    "Firstpost": 1,
+    "Business Recorder": 1
    },
    "sourceTone": {
     "X": [
@@ -24483,15 +24484,20 @@
      0,
      1,
      0
+    ],
+    "Business Recorder": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-28": {
-   "total": 123,
-   "news": 123,
+   "total": 125,
+   "news": 125,
    "articles": 0,
    "positive": 0,
-   "neutral": 123,
+   "neutral": 125,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -24559,7 +24565,7 @@
     "Gulf News": 1,
     "The National": 1,
     "Hürriyet Daily News": 1,
-    "Yahoo Sports": 2,
+    "Yahoo Sports": 3,
     "Agenzia Nova": 1,
     "UA.NEWS": 2,
     "شبكة يافا الإخبارية": 1,
@@ -24572,7 +24578,8 @@
     "Firstpost": 1,
     "The Express Tribune": 1,
     "Türkiye Today": 1,
-    "ESPN": 1
+    "ESPN": 1,
+    "Qatar news agency": 1
    },
    "sourceTone": {
     "X": [
@@ -24852,7 +24859,7 @@
     ],
     "Yahoo Sports": [
      0,
-     2,
+     3,
      0
     ],
     "Agenzia Nova": [
@@ -24916,6 +24923,11 @@
      0
     ],
     "ESPN": [
+     0,
+     1,
+     0
+    ],
+    "Qatar news agency": [
      0,
      1,
      0
