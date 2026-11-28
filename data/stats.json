@@ -23373,11 +23373,11 @@
    }
   },
   "2026-11-27": {
-   "total": 506,
-   "news": 502,
+   "total": 508,
+   "news": 504,
    "articles": 4,
    "positive": 0,
-   "neutral": 506,
+   "neutral": 508,
    "critical": 0,
    "mbs": 3,
    "countries": {
@@ -23569,7 +23569,9 @@
     "www.unian.info": 1,
     "Texarkana Gazette": 1,
     "marketscreener.com": 1,
-    "The Insight International": 1
+    "The Insight International": 1,
+    "Türkiye Today": 1,
+    "Firstpost": 1
    },
    "sourceTone": {
     "X": [
@@ -24471,15 +24473,25 @@
      0,
      1,
      0
+    ],
+    "Türkiye Today": [
+     0,
+     1,
+     0
+    ],
+    "Firstpost": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-28": {
-   "total": 117,
-   "news": 117,
+   "total": 121,
+   "news": 121,
    "articles": 0,
    "positive": 0,
-   "neutral": 117,
+   "neutral": 121,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -24555,7 +24567,11 @@
     "Arabian Business": 1,
     "Bloomberg.com": 1,
     "Los Angeles Times": 1,
-    "CNA": 1
+    "CNA": 1,
+    "Daily Times Of Bangladesh": 1,
+    "Firstpost": 1,
+    "The Express Tribune": 1,
+    "Türkiye Today": 1
    },
    "sourceTone": {
     "X": [
@@ -24874,6 +24890,26 @@
      0
     ],
     "CNA": [
+     0,
+     1,
+     0
+    ],
+    "Daily Times Of Bangladesh": [
+     0,
+     1,
+     0
+    ],
+    "Firstpost": [
+     0,
+     1,
+     0
+    ],
+    "The Express Tribune": [
+     0,
+     1,
+     0
+    ],
+    "Türkiye Today": [
      0,
      1,
      0
