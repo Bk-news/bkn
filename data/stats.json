@@ -23373,17 +23373,17 @@
    }
   },
   "2026-11-27": {
-   "total": 494,
-   "news": 490,
+   "total": 496,
+   "news": 492,
    "articles": 4,
    "positive": 0,
-   "neutral": 494,
+   "neutral": 496,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "GB": 82,
     "HK": 3,
-    "US": 107,
+    "US": 109,
     "SA": 76,
     "FR": 3,
     "DE": 2
@@ -23395,7 +23395,7 @@
     "South China Morning Post": 3,
     "WSJ": 7,
     "Arab News": 69,
-    "Bloomberg.com": 30,
+    "Bloomberg.com": 31,
     "Al-Monitor": 21,
     "Saudi Gazette": 17,
     "The Guardian": 4,
@@ -23497,7 +23497,7 @@
     "Awaz The Voice": 1,
     "The Economic Times": 1,
     "Spiegel": 2,
-    "Bloomberg": 4,
+    "Bloomberg": 5,
     "Atlantic Council": 2,
     "The Economist": 2,
     "Mining.com": 1,
@@ -23599,7 +23599,7 @@
     ],
     "Bloomberg.com": [
      0,
-     30,
+     31,
      0
     ],
     "Al-Monitor": [
@@ -24109,7 +24109,7 @@
     ],
     "Bloomberg": [
      0,
-     4,
+     5,
      0
     ],
     "Atlantic Council": [
@@ -24475,18 +24475,18 @@
    }
   },
   "2026-11-28": {
-   "total": 108,
-   "news": 108,
+   "total": 110,
+   "news": 110,
    "articles": 0,
    "positive": 0,
-   "neutral": 108,
+   "neutral": 110,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 14,
-    "US": 13,
+    "US": 14,
     "JP": 1,
-    "FR": 1,
+    "FR": 2,
     "GB": 6,
     "HK": 1
    },
@@ -24507,7 +24507,7 @@
     "Facebook": 1,
     "Nikkei Asia": 1,
     "Bioengineer.org": 1,
-    "France 24": 1,
+    "France 24": 2,
     "Financial Times": 3,
     "BBC": 2,
     "South China Morning Post": 2,
@@ -24552,7 +24552,8 @@
     "UA.NEWS": 2,
     "شبكة يافا الإخبارية": 1,
     "CairoScene": 1,
-    "Arabian Business": 1
+    "Arabian Business": 1,
+    "Bloomberg.com": 1
    },
    "sourceTone": {
     "X": [
@@ -24632,7 +24633,7 @@
     ],
     "France 24": [
      0,
-     1,
+     2,
      0
     ],
     "Financial Times": [
@@ -24856,6 +24857,11 @@
      0
     ],
     "Arabian Business": [
+     0,
+     1,
+     0
+    ],
+    "Bloomberg.com": [
      0,
      1,
      0
