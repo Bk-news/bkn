@@ -23373,15 +23373,15 @@
    }
   },
   "2026-11-27": {
-   "total": 477,
+   "total": 478,
    "news": 474,
-   "articles": 3,
+   "articles": 4,
    "positive": 0,
-   "neutral": 477,
+   "neutral": 478,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 78,
+    "GB": 79,
     "HK": 3,
     "US": 103,
     "SA": 70,
@@ -23499,7 +23499,7 @@
     "Spiegel": 2,
     "Bloomberg": 4,
     "Atlantic Council": 2,
-    "The Economist": 1,
+    "The Economist": 2,
     "Mining.com": 1,
     "Los Angeles Times": 1,
     "ASHARQ AL-AWSAT English": 1,
@@ -24116,7 +24116,7 @@
     ],
     "The Economist": [
      0,
-     1,
+     2,
      0
     ],
     "Mining.com": [
