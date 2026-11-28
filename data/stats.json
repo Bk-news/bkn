@@ -23373,30 +23373,30 @@
    }
   },
   "2026-11-27": {
-   "total": 483,
-   "news": 479,
+   "total": 490,
+   "news": 486,
    "articles": 4,
    "positive": 0,
-   "neutral": 483,
+   "neutral": 490,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 79,
+    "GB": 82,
     "HK": 3,
-    "US": 103,
-    "SA": 75,
+    "US": 105,
+    "SA": 76,
     "FR": 3,
     "DE": 2
    },
    "topics": {},
    "sources": {
     "X": 1,
-    "Reuters": 46,
+    "Reuters": 49,
     "South China Morning Post": 3,
     "WSJ": 6,
-    "Arab News": 68,
-    "Bloomberg.com": 29,
-    "Al-Monitor": 20,
+    "Arab News": 69,
+    "Bloomberg.com": 30,
+    "Al-Monitor": 21,
     "Saudi Gazette": 17,
     "The Guardian": 4,
     "Xinhua": 1,
@@ -23566,7 +23566,8 @@
     "Envanter Medya": 1,
     "fundsforNGOs": 1,
     "DD News": 1,
-    "www.unian.info": 1
+    "www.unian.info": 1,
+    "Texarkana Gazette": 1
    },
    "sourceTone": {
     "X": [
@@ -23576,7 +23577,7 @@
     ],
     "Reuters": [
      0,
-     46,
+     49,
      0
     ],
     "South China Morning Post": [
@@ -23591,17 +23592,17 @@
     ],
     "Arab News": [
      0,
-     68,
+     69,
      0
     ],
     "Bloomberg.com": [
      0,
-     29,
+     30,
      0
     ],
     "Al-Monitor": [
      0,
-     20,
+     21,
      0
     ],
     "Saudi Gazette": [
@@ -24453,39 +24454,59 @@
      0,
      1,
      0
+    ],
+    "Texarkana Gazette": [
+     0,
+     1,
+     0
     ]
    }
   },
   "2026-11-28": {
-   "total": 25,
-   "news": 25,
+   "total": 58,
+   "news": 58,
    "articles": 0,
    "positive": 0,
-   "neutral": 25,
+   "neutral": 58,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 2,
-    "US": 6,
-    "JP": 1
+    "SA": 10,
+    "US": 13,
+    "JP": 1,
+    "FR": 1,
+    "GB": 6,
+    "HK": 1
    },
    "topics": {},
    "sources": {
     "X": 1,
-    "Arab News": 2,
-    "The Washington Post": 1,
+    "Arab News": 9,
+    "The Washington Post": 2,
     "CNN": 1,
     "Yeni Safak English": 8,
-    "Al-Monitor": 3,
-    "Middle East Eye": 1,
-    "Breakingthenews.net": 1,
+    "Al-Monitor": 9,
+    "Middle East Eye": 2,
+    "Breakingthenews.net": 2,
     "Khmer Times": 1,
     "وكالة الأنباء السعودية": 1,
     "Dawn": 1,
     "WSJ": 1,
     "Facebook": 1,
     "Nikkei Asia": 1,
-    "Bioengineer.org": 1
+    "Bioengineer.org": 1,
+    "France 24": 1,
+    "Financial Times": 3,
+    "BBC": 2,
+    "South China Morning Post": 2,
+    "Saudi Gazette": 2,
+    "Reuters": 1,
+    "L'Orient Today": 1,
+    "UkrMedia News": 1,
+    "Jordan News": 1,
+    "Arab News PK": 1,
+    "A News": 1,
+    "Industry Odisha": 1
    },
    "sourceTone": {
     "X": [
@@ -24495,12 +24516,12 @@
     ],
     "Arab News": [
      0,
-     2,
+     9,
      0
     ],
     "The Washington Post": [
      0,
-     1,
+     2,
      0
     ],
     "CNN": [
@@ -24515,17 +24536,17 @@
     ],
     "Al-Monitor": [
      0,
-     3,
+     9,
      0
     ],
     "Middle East Eye": [
      0,
-     1,
+     2,
      0
     ],
     "Breakingthenews.net": [
      0,
-     1,
+     2,
      0
     ],
     "Khmer Times": [
@@ -24559,6 +24580,66 @@
      0
     ],
     "Bioengineer.org": [
+     0,
+     1,
+     0
+    ],
+    "France 24": [
+     0,
+     1,
+     0
+    ],
+    "Financial Times": [
+     0,
+     3,
+     0
+    ],
+    "BBC": [
+     0,
+     2,
+     0
+    ],
+    "South China Morning Post": [
+     0,
+     2,
+     0
+    ],
+    "Saudi Gazette": [
+     0,
+     2,
+     0
+    ],
+    "Reuters": [
+     0,
+     1,
+     0
+    ],
+    "L'Orient Today": [
+     0,
+     1,
+     0
+    ],
+    "UkrMedia News": [
+     0,
+     1,
+     0
+    ],
+    "Jordan News": [
+     0,
+     1,
+     0
+    ],
+    "Arab News PK": [
+     0,
+     1,
+     0
+    ],
+    "A News": [
+     0,
+     1,
+     0
+    ],
+    "Industry Odisha": [
      0,
      1,
      0
