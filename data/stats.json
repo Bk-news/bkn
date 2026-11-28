@@ -23373,18 +23373,18 @@
    }
   },
   "2026-11-27": {
-   "total": 502,
-   "news": 498,
+   "total": 506,
+   "news": 502,
    "articles": 4,
    "positive": 0,
-   "neutral": 502,
+   "neutral": 506,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "GB": 83,
     "HK": 3,
     "US": 109,
-    "SA": 81,
+    "SA": 85,
     "FR": 3,
     "DE": 2
    },
@@ -23394,7 +23394,7 @@
     "Reuters": 49,
     "South China Morning Post": 3,
     "WSJ": 7,
-    "Arab News": 74,
+    "Arab News": 78,
     "Bloomberg.com": 31,
     "Al-Monitor": 21,
     "Saudi Gazette": 17,
@@ -23594,7 +23594,7 @@
     ],
     "Arab News": [
      0,
-     74,
+     78,
      0
     ],
     "Bloomberg.com": [
@@ -24475,15 +24475,15 @@
    }
   },
   "2026-11-28": {
-   "total": 115,
-   "news": 115,
+   "total": 117,
+   "news": 117,
    "articles": 0,
    "positive": 0,
-   "neutral": 115,
+   "neutral": 117,
    "critical": 0,
    "mbs": 1,
    "countries": {
-    "SA": 16,
+    "SA": 18,
     "US": 14,
     "JP": 1,
     "FR": 2,
@@ -24493,7 +24493,7 @@
    "topics": {},
    "sources": {
     "X": 1,
-    "Arab News": 17,
+    "Arab News": 19,
     "The Washington Post": 2,
     "CNN": 1,
     "Yeni Safak English": 9,
@@ -24565,7 +24565,7 @@
     ],
     "Arab News": [
      0,
-     17,
+     19,
      0
     ],
     "The Washington Post": [
