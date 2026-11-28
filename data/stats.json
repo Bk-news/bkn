@@ -24475,11 +24475,11 @@
    }
   },
   "2026-11-28": {
-   "total": 111,
-   "news": 111,
+   "total": 113,
+   "news": 113,
    "articles": 0,
    "positive": 0,
-   "neutral": 111,
+   "neutral": 113,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -24487,7 +24487,7 @@
     "US": 14,
     "JP": 1,
     "FR": 2,
-    "GB": 6,
+    "GB": 7,
     "HK": 1
    },
    "topics": {},
@@ -24508,7 +24508,7 @@
     "Nikkei Asia": 1,
     "Bioengineer.org": 1,
     "France 24": 2,
-    "Financial Times": 3,
+    "Financial Times": 4,
     "BBC": 2,
     "South China Morning Post": 2,
     "Saudi Gazette": 3,
@@ -24554,7 +24554,8 @@
     "CairoScene": 1,
     "Arabian Business": 1,
     "Bloomberg.com": 1,
-    "Los Angeles Times": 1
+    "Los Angeles Times": 1,
+    "CNA": 1
    },
    "sourceTone": {
     "X": [
@@ -24639,7 +24640,7 @@
     ],
     "Financial Times": [
      0,
-     3,
+     4,
      0
     ],
     "BBC": [
@@ -24868,6 +24869,11 @@
      0
     ],
     "Los Angeles Times": [
+     0,
+     1,
+     0
+    ],
+    "CNA": [
      0,
      1,
      0
