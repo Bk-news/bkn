@@ -24457,11 +24457,11 @@
    }
   },
   "2026-11-28": {
-   "total": 24,
-   "news": 24,
+   "total": 25,
+   "news": 25,
    "articles": 0,
    "positive": 0,
-   "neutral": 24,
+   "neutral": 25,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -24484,7 +24484,8 @@
     "Dawn": 1,
     "WSJ": 1,
     "Facebook": 1,
-    "Nikkei Asia": 1
+    "Nikkei Asia": 1,
+    "Bioengineer.org": 1
    },
    "sourceTone": {
     "X": [
@@ -24553,6 +24554,11 @@
      0
     ],
     "Nikkei Asia": [
+     0,
+     1,
+     0
+    ],
+    "Bioengineer.org": [
      0,
      1,
      0
