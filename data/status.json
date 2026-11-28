@@ -1,17 +1,17 @@
 {
- "run": "2026-11-28T11:06:14.763Z",
+ "run": "2026-11-28T11:07:14.215Z",
  "key": true,
  "model": "claude-haiku-5-5",
  "feedsOk": 23,
  "feedsFailed": [
-  "Le Monde: HTTP 429"
+  "South China Morning Post: HTTP 429"
  ],
- "fetched": 709,
+ "fetched": 713,
  "fresh": 0,
  "world": 0,
  "analyzed": 0,
  "analyzeErrors": 0,
- "lastError": "Anthropic 401: {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChVDc1Yn5be9inTLJsRjq\"}",
+ "lastError": "Anthropic 401: {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChVDgPHbLJ2sypNjAPEkS\"}",
  "telegram": 20,
  "royal": 0,
  "keyRejected": true,
@@ -19,6 +19,6 @@
  "added": {
   "news": 0,
   "articles": 0,
-  "breaking": 0
+  "breaking": 1
  }
 }
