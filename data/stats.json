@@ -22414,15 +22414,15 @@
    }
   },
   "2026-11-26": {
-   "total": 619,
-   "news": 611,
+   "total": 623,
+   "news": 615,
    "articles": 8,
    "positive": 0,
-   "neutral": 619,
+   "neutral": 623,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "SA": 107,
+    "SA": 111,
     "US": 137,
     "GB": 140,
     "FR": 5,
@@ -22432,7 +22432,7 @@
    },
    "topics": {},
    "sources": {
-    "Arab News": 92,
+    "Arab News": 96,
     "富途牛牛": 1,
     "Al-Monitor": 25,
     "WSJ": 13,
@@ -22592,7 +22592,7 @@
    "sourceTone": {
     "Arab News": [
      0,
-     92,
+     96,
      0
     ],
     "富途牛牛": [
@@ -23373,18 +23373,18 @@
    }
   },
   "2026-11-27": {
-   "total": 478,
-   "news": 474,
+   "total": 483,
+   "news": 479,
    "articles": 4,
    "positive": 0,
-   "neutral": 478,
+   "neutral": 483,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "GB": 79,
     "HK": 3,
     "US": 103,
-    "SA": 70,
+    "SA": 75,
     "FR": 3,
     "DE": 2
    },
@@ -23394,7 +23394,7 @@
     "Reuters": 46,
     "South China Morning Post": 3,
     "WSJ": 6,
-    "Arab News": 63,
+    "Arab News": 68,
     "Bloomberg.com": 29,
     "Al-Monitor": 20,
     "Saudi Gazette": 17,
@@ -23591,7 +23591,7 @@
     ],
     "Arab News": [
      0,
-     63,
+     68,
      0
     ],
     "Bloomberg.com": [
@@ -24457,16 +24457,17 @@
    }
   },
   "2026-11-28": {
-   "total": 23,
-   "news": 23,
+   "total": 24,
+   "news": 24,
    "articles": 0,
    "positive": 0,
-   "neutral": 23,
+   "neutral": 24,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 2,
-    "US": 6
+    "US": 6,
+    "JP": 1
    },
    "topics": {},
    "sources": {
@@ -24482,7 +24483,8 @@
     "وكالة الأنباء السعودية": 1,
     "Dawn": 1,
     "WSJ": 1,
-    "Facebook": 1
+    "Facebook": 1,
+    "Nikkei Asia": 1
    },
    "sourceTone": {
     "X": [
@@ -24546,6 +24548,11 @@
      0
     ],
     "Facebook": [
+     0,
+     1,
+     0
+    ],
+    "Nikkei Asia": [
      0,
      1,
      0
