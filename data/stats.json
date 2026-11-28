@@ -21360,15 +21360,15 @@
    }
   },
   "2026-11-25": {
-   "total": 776,
-   "news": 765,
+   "total": 777,
+   "news": 766,
    "articles": 11,
    "positive": 0,
-   "neutral": 776,
+   "neutral": 777,
    "critical": 0,
    "mbs": 13,
    "countries": {
-    "US": 237,
+    "US": 238,
     "GB": 159,
     "SA": 103,
     "DE": 2,
@@ -21393,7 +21393,7 @@
     "Arab News": 78,
     "WSJ": 25,
     "Spiegel": 2,
-    "Al-Monitor": 27,
+    "Al-Monitor": 28,
     "BBC": 19,
     "The Guardian": 28,
     "Reuters": 103,
@@ -21633,7 +21633,7 @@
     ],
     "Al-Monitor": [
      0,
-     27,
+     28,
      0
     ],
     "BBC": [
