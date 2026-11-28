@@ -21360,15 +21360,15 @@
    }
   },
   "2026-11-25": {
-   "total": 775,
-   "news": 764,
+   "total": 776,
+   "news": 765,
    "articles": 11,
    "positive": 0,
-   "neutral": 775,
+   "neutral": 776,
    "critical": 0,
    "mbs": 13,
    "countries": {
-    "US": 236,
+    "US": 237,
     "GB": 159,
     "SA": 103,
     "DE": 2,
@@ -21378,7 +21378,7 @@
    "topics": {},
    "sources": {
     "Yemen Online": 6,
-    "Bloomberg.com": 75,
+    "Bloomberg.com": 76,
     "Financial Times": 10,
     "www.tmgm.com": 1,
     "FXEmpire": 2,
@@ -21558,7 +21558,7 @@
     ],
     "Bloomberg.com": [
      0,
-     75,
+     76,
      0
     ],
     "Financial Times": [
@@ -24457,16 +24457,16 @@
    }
   },
   "2026-11-28": {
-   "total": 16,
-   "news": 16,
+   "total": 17,
+   "news": 17,
    "articles": 0,
    "positive": 0,
-   "neutral": 16,
+   "neutral": 17,
    "critical": 0,
    "mbs": 1,
    "countries": {
     "SA": 1,
-    "US": 5
+    "US": 6
    },
    "topics": {},
    "sources": {
@@ -24475,7 +24475,7 @@
     "The Washington Post": 1,
     "CNN": 1,
     "Yeni Safak English": 4,
-    "Al-Monitor": 2,
+    "Al-Monitor": 3,
     "Middle East Eye": 1,
     "Breakingthenews.net": 1,
     "Khmer Times": 1,
@@ -24511,7 +24511,7 @@
     ],
     "Al-Monitor": [
      0,
-     2,
+     3,
      0
     ],
     "Middle East Eye": [
