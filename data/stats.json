@@ -24487,11 +24487,11 @@
    }
   },
   "2026-11-28": {
-   "total": 121,
-   "news": 121,
+   "total": 123,
+   "news": 123,
    "articles": 0,
    "positive": 0,
-   "neutral": 121,
+   "neutral": 123,
    "critical": 0,
    "mbs": 1,
    "countries": {
@@ -24544,7 +24544,7 @@
     "CryptoSlate": 1,
     "https://houseofsaud.com/": 3,
     "The Friday Times": 1,
-    "سانا": 1,
+    "سانا": 2,
     "شفق نيوز": 1,
     "The Diplomatic Insight": 1,
     "Yemen Online": 1,
@@ -24571,7 +24571,8 @@
     "Daily Times Of Bangladesh": 1,
     "Firstpost": 1,
     "The Express Tribune": 1,
-    "Türkiye Today": 1
+    "Türkiye Today": 1,
+    "ESPN": 1
    },
    "sourceTone": {
     "X": [
@@ -24776,7 +24777,7 @@
     ],
     "سانا": [
      0,
-     1,
+     2,
      0
     ],
     "شفق نيوز": [
@@ -24910,6 +24911,11 @@
      0
     ],
     "Türkiye Today": [
+     0,
+     1,
+     0
+    ],
+    "ESPN": [
      0,
      1,
      0
