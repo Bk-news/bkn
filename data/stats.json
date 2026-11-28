@@ -22414,17 +22414,17 @@
    }
   },
   "2026-11-26": {
-   "total": 613,
-   "news": 605,
+   "total": 615,
+   "news": 607,
    "articles": 8,
    "positive": 0,
-   "neutral": 613,
+   "neutral": 615,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "SA": 106,
+    "SA": 107,
     "US": 137,
-    "GB": 136,
+    "GB": 137,
     "FR": 4,
     "HK": 4,
     "JP": 1,
@@ -22432,7 +22432,7 @@
    },
    "topics": {},
    "sources": {
-    "Arab News": 91,
+    "Arab News": 92,
     "富途牛牛": 1,
     "Al-Monitor": 25,
     "WSJ": 13,
@@ -22460,7 +22460,7 @@
     "WhoWhatWhy": 1,
     "Saudi Gazette": 27,
     "The Washington Post": 4,
-    "BBC": 22,
+    "BBC": 23,
     "Le Monde.fr": 4,
     "The New York Times": 13,
     "South China Morning Post": 4,
@@ -22592,7 +22592,7 @@
    "sourceTone": {
     "Arab News": [
      0,
-     91,
+     92,
      0
     ],
     "富途牛牛": [
@@ -22732,7 +22732,7 @@
     ],
     "BBC": [
      0,
-     22,
+     23,
      0
     ],
     "Le Monde.fr": [
@@ -23373,32 +23373,32 @@
    }
   },
   "2026-11-27": {
-   "total": 437,
-   "news": 434,
+   "total": 463,
+   "news": 460,
    "articles": 3,
    "positive": 0,
-   "neutral": 437,
+   "neutral": 463,
    "critical": 0,
    "mbs": 3,
    "countries": {
-    "GB": 72,
+    "GB": 78,
     "HK": 3,
-    "US": 99,
-    "SA": 61,
+    "US": 102,
+    "SA": 69,
     "FR": 3,
     "DE": 2
    },
    "topics": {},
    "sources": {
     "X": 1,
-    "Reuters": 42,
+    "Reuters": 46,
     "South China Morning Post": 3,
     "WSJ": 6,
-    "Arab News": 53,
+    "Arab News": 61,
     "Bloomberg.com": 28,
-    "Al-Monitor": 18,
-    "Saudi Gazette": 16,
-    "The Guardian": 3,
+    "Al-Monitor": 20,
+    "Saudi Gazette": 17,
+    "The Guardian": 4,
     "Xinhua": 1,
     "Yemen Online": 3,
     "https://houseofsaud.com/": 5,
@@ -23412,10 +23412,10 @@
     "France 24": 2,
     "The Washington Post": 7,
     "The Independent": 1,
-    "AP News": 11,
+    "AP News": 12,
     "CNN": 17,
     "The New York Times": 8,
-    "BBC": 23,
+    "BBC": 24,
     "Financial Times": 4,
     "Le Monde.fr": 1,
     "Zawya": 3,
@@ -23434,7 +23434,7 @@
     "ANTARA News": 1,
     "Kurdistan TV": 1,
     "Semafor": 1,
-    "The Hindu": 1,
+    "The Hindu": 2,
     "Middle East Online": 1,
     "The Times of India": 2,
     "Curly Tales": 1,
@@ -23506,7 +23506,7 @@
     "MillenniumPost": 1,
     "Al Arabiya English": 5,
     "L'Orient Today": 1,
-    "Modern Ghana": 3,
+    "Modern Ghana": 5,
     "Apa.az": 1,
     "وكالة الأنباء السعودية": 1,
     "الحرة": 1,
@@ -23548,12 +23548,16 @@
     "Moneycontrol.com": 1,
     "IndexBox": 2,
     "Zikoko!": 1,
-    "Fana News -": 1,
+    "Fana News -": 2,
     "Naharnet": 1,
     "Daily Observer": 1,
     "LinkedIn": 1,
     "Simmons & Simmons": 1,
-    "Rediff.com": 1
+    "Rediff.com": 1,
+    "يمن مونيتور": 1,
+    "Fubo": 1,
+    "Bioengineer.org": 1,
+    "Garowe Online": 1
    },
    "sourceTone": {
     "X": [
@@ -23563,7 +23567,7 @@
     ],
     "Reuters": [
      0,
-     42,
+     46,
      0
     ],
     "South China Morning Post": [
@@ -23578,7 +23582,7 @@
     ],
     "Arab News": [
      0,
-     53,
+     61,
      0
     ],
     "Bloomberg.com": [
@@ -23588,17 +23592,17 @@
     ],
     "Al-Monitor": [
      0,
-     18,
+     20,
      0
     ],
     "Saudi Gazette": [
      0,
-     16,
+     17,
      0
     ],
     "The Guardian": [
      0,
-     3,
+     4,
      0
     ],
     "Xinhua": [
@@ -23668,7 +23672,7 @@
     ],
     "AP News": [
      0,
-     11,
+     12,
      0
     ],
     "CNN": [
@@ -23683,7 +23687,7 @@
     ],
     "BBC": [
      0,
-     23,
+     24,
      0
     ],
     "Financial Times": [
@@ -23778,7 +23782,7 @@
     ],
     "The Hindu": [
      0,
-     1,
+     2,
      0
     ],
     "Middle East Online": [
@@ -24138,7 +24142,7 @@
     ],
     "Modern Ghana": [
      0,
-     3,
+     5,
      0
     ],
     "Apa.az": [
@@ -24348,7 +24352,7 @@
     ],
     "Fana News -": [
      0,
-     1,
+     2,
      0
     ],
     "Naharnet": [
@@ -24372,6 +24376,98 @@
      0
     ],
     "Rediff.com": [
+     0,
+     1,
+     0
+    ],
+    "يمن مونيتور": [
+     0,
+     1,
+     0
+    ],
+    "Fubo": [
+     0,
+     1,
+     0
+    ],
+    "Bioengineer.org": [
+     0,
+     1,
+     0
+    ],
+    "Garowe Online": [
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "2026-11-28": {
+   "total": 12,
+   "news": 12,
+   "articles": 0,
+   "positive": 0,
+   "neutral": 12,
+   "critical": 0,
+   "mbs": 1,
+   "countries": {
+    "SA": 1,
+    "US": 3
+   },
+   "topics": {},
+   "sources": {
+    "X": 1,
+    "Arab News": 1,
+    "The Washington Post": 1,
+    "CNN": 1,
+    "Yeni Safak English": 4,
+    "Al-Monitor": 1,
+    "Middle East Eye": 1,
+    "Breakingthenews.net": 1,
+    "Khmer Times": 1
+   },
+   "sourceTone": {
+    "X": [
+     0,
+     1,
+     0
+    ],
+    "Arab News": [
+     0,
+     1,
+     0
+    ],
+    "The Washington Post": [
+     0,
+     1,
+     0
+    ],
+    "CNN": [
+     0,
+     1,
+     0
+    ],
+    "Yeni Safak English": [
+     0,
+     4,
+     0
+    ],
+    "Al-Monitor": [
+     0,
+     1,
+     0
+    ],
+    "Middle East Eye": [
+     0,
+     1,
+     0
+    ],
+    "Breakingthenews.net": [
+     0,
+     1,
+     0
+    ],
+    "Khmer Times": [
      0,
      1,
      0
