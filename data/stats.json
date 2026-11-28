@@ -21360,15 +21360,15 @@
    }
   },
   "2026-11-25": {
-   "total": 777,
-   "news": 766,
+   "total": 778,
+   "news": 767,
    "articles": 11,
    "positive": 0,
-   "neutral": 777,
+   "neutral": 778,
    "critical": 0,
    "mbs": 13,
    "countries": {
-    "US": 238,
+    "US": 239,
     "GB": 159,
     "SA": 103,
     "DE": 2,
@@ -21391,7 +21391,7 @@
     "Yahoo": 1,
     "Chosunbiz": 1,
     "Arab News": 78,
-    "WSJ": 25,
+    "WSJ": 26,
     "Spiegel": 2,
     "Al-Monitor": 28,
     "BBC": 19,
@@ -21623,7 +21623,7 @@
     ],
     "WSJ": [
      0,
-     25,
+     26,
      0
     ],
     "Spiegel": [
@@ -23373,17 +23373,17 @@
    }
   },
   "2026-11-27": {
-   "total": 491,
-   "news": 487,
+   "total": 493,
+   "news": 489,
    "articles": 4,
    "positive": 0,
-   "neutral": 491,
+   "neutral": 493,
    "critical": 0,
    "mbs": 3,
    "countries": {
     "GB": 82,
     "HK": 3,
-    "US": 106,
+    "US": 107,
     "SA": 76,
     "FR": 3,
     "DE": 2
@@ -23413,7 +23413,7 @@
     "The Washington Post": 7,
     "The Independent": 1,
     "AP News": 12,
-    "CNN": 17,
+    "CNN": 18,
     "The New York Times": 8,
     "BBC": 24,
     "Financial Times": 4,
@@ -23567,7 +23567,8 @@
     "fundsforNGOs": 1,
     "DD News": 1,
     "www.unian.info": 1,
-    "Texarkana Gazette": 1
+    "Texarkana Gazette": 1,
+    "marketscreener.com": 1
    },
    "sourceTone": {
     "X": [
@@ -23687,7 +23688,7 @@
     ],
     "CNN": [
      0,
-     17,
+     18,
      0
     ],
     "The New York Times": [
@@ -24456,6 +24457,11 @@
      0
     ],
     "Texarkana Gazette": [
+     0,
+     1,
+     0
+    ],
+    "marketscreener.com": [
      0,
      1,
      0
